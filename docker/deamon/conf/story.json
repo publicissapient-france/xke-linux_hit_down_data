@@ -1,0 +1,23 @@
+{
+  "welcome":"Welcome to linux hit down data",
+  "quizz": {
+    "0": {
+      "storybegin":"this the begin",
+      "question":"This the question",
+      "indice":["indice1", "indice2"],
+      "typeControl":"",
+      "controleList":"",
+      "answer":"",
+      "storyEnd":""
+    },
+    "1": {
+      "storybegin":"",
+      "question":"",
+      "indice":["indice1", "indice2"],
+      "typeControl":"",
+      "controleList":"",
+      "answer":"",
+      "storyEnd":""
+    }
+  }
+}

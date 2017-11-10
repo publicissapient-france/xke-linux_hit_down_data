@@ -1,0 +1,9 @@
+{
+  "downloadConfig": {
+    "nbResublePerPAges": 10,
+    "firstPage":1,
+    "lastPage":3
+  },
+  "log" :[ "INFO", "GAME", "ERROR" ],
+  "commentaire" :["DEBUG", "INFO", "GAME", "ERROR" ]
+}
