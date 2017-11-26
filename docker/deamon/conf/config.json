@@ -4,6 +4,7 @@
     "firstPage":1,
     "lastPage":3
   },
-  "log" :[ "INFO", "GAME", "ERROR" ],
+  "levels" :[ "INFO", "GAME", "ERROR" ],
+  "fileLog":"logs/daemon.txt",
   "commentaire" :["DEBUG", "INFO", "GAME", "ERROR" ]
 }

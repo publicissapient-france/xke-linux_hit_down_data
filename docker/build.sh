@@ -1,4 +1,4 @@
 #!/usr/bin/env sh
 
-docker rmi dude/discovery
+docker rmi discovery:latest
 docker build -t 'discovery' .

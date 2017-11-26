@@ -1,23 +1,42 @@
 {
-  "welcome":"Welcome to linux hit down data",
-  "quizz": {
-    "0": {
-      "storybegin":"this the begin",
-      "question":"This the question",
-      "indice":["indice1", "indice2"],
-      "typeControl":"",
-      "controleList":"",
-      "answer":"",
-      "storyEnd":""
+  "welcome": [
+    "Weldone you find how to speak with me",
+    "but Xebia is down!!",
+    "For ever ;)",
+    "you won't save it",
+    "Unless you master linux",
+    "Unless you accept the chalenge",
+    "Unless you find all enigmes"
+  ],
+  "quizz": [
+     {
+      "storybegin": "First, let's us time to know each other ",
+      "question": "What is your name ?",
+      "control": ["ls", "-a", "checks"],
+      "answer": "",
+      "storyEnd": "Perfect <name> !"
     },
-    "1": {
-      "storybegin":"",
-      "question":"",
-      "indice":["indice1", "indice2"],
-      "typeControl":"",
-      "controleList":"",
-      "answer":"",
-      "storyEnd":""
+    {
+      "storybegin": "good one",
+      "question": "",
+      "indice": [
+        "indice1",
+        "indice2"
+      ],
+      "control": ["python3","checks/true.py"],
+      "answer": "",
+      "storyEnd": ""
+    },
+    {
+      "storybegin": "wrong one",
+      "question": "",
+      "indice": [
+        "indice1",
+        "indice2"
+      ],
+      "control": ["python3","checks/false.py"],
+      "answer": "",
+      "storyEnd": ""
     }
-  }
+  ]
 }

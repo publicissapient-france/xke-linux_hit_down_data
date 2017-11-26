@@ -1,0 +1,15 @@
+2017-11-26 20:47:24.389164 -- INFO : ============ Start Deamon ============
+2017-11-26 20:47:24.389567 -- GAME :  Start Question :
+2017-11-26 20:47:26.241601 -- ERROR : question : 0 script control error - result b'.\n..\n__init__.py\nfalse.py\ntrue.py\n'
+2017-11-26 20:49:12.948965 -- INFO : ============ Start Deamon ============
+2017-11-26 20:49:12.949275 -- GAME :  Start Question :
+2017-11-26 20:49:16.583567 -- GAME :  Start Question :
+2017-11-26 20:49:22.800418 -- ERROR : question : 2 script control error - result b'False\n'
+2017-11-26 20:49:25.323238 -- GAME :  Start Question :
+2017-11-26 20:49:27.972928 -- ERROR : question : 2 script control error - result b'False\n'
+2017-11-26 20:49:34.539442 -- GAME :  Indice Question : 2
+2017-11-26 20:49:47.236240 -- INFO : ============ Stop Deamon ============
+2017-11-26 21:56:49.733056 -- INFO : ============ Start Deamon ============
+2017-11-26 21:56:49.735564 -- GAME :  Start Question :
+2017-11-26 22:00:13.030605 -- INFO : ============ Start Deamon ============
+2017-11-26 22:00:13.032986 -- GAME :  Start Question :
