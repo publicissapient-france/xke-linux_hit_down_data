@@ -2,11 +2,10 @@
 # -*- coding: utf-8 -*-
 # Python 3.4
 
-
-
 import re
 import sys
 import http.server
+import copy
 from lib.interac import *
 from lib.State import *
 from lib.Context import *
@@ -15,35 +14,24 @@ global darg
 
 
 class Handler(http.server.BaseHTTPRequestHandler):
-
-    def _set_headers(self):
-        self.send_response(200)
-        self.send_header('Content-type', 'text/html')
-        self.end_headers()
-
     def do_POST(self):
-        logThat("INFO", "============ Start Deamon ============")
+        logThat("INFO", "============ Receive Request ============")
+        context = self.getContext()
+        context.data = self.getInput()
 
-        context = self.server.context
-        content_length = int(self.headers['Content-Length'])  # <--- Gets the size of data
-        post_data = self.rfile.read(content_length)  # <--- Gets the data itself
-        print(post_data)  # <-- Print post data
-        self._set_headers()
-        self.wfile.write(b"<html><body><h1>POST!</h1></body></html>")
-
-        while (context.next != State.toStop or context.next != State.toWaitForInput ):
-
+        while (context.next != State.toStop and context.next != State.toEndWorking):
+            logThat("INFO", str(context.next))
             if context.next == State.toWelcomeMessage:
-                self.welcomeMessage(context)
+                data=self.welcomeMessage(context)
+                context.answer.extend(data)
+                context.next = State.toQuestion
 
             elif context.next == State.toQuestion:
-                self.Question(context)
-
-            elif context.next == State.toWaitForInput:
-                self.waitForInput(context)
+                context.answer.extend(self.Question(context))
+                context.next = State.toEndWorking
 
             elif context.next == State.toDectectInput:
-                self.dectectInput(context)
+               self.dectectInput(context)
 
             elif context.next == State.toAnalyseAnswser:
                 self.analyseAnswer(context)
@@ -55,41 +43,60 @@ class Handler(http.server.BaseHTTPRequestHandler):
                 self.gotTo(context)
 
             elif context.next == State.toIndice:
-                self.Indice(context)
+                context.answer.extend(self.Indice(context))
+                context.next = State.toEndWorking
 
             elif context.next == State.toAnswer:
-                self.Anwser(context)
-
-        logThat("INFO", "============ Stop Deamon ============")
-
+                context.answer.extend(self.Anwser(context))
+                context.question += 1
+                context.next = State.toQuestion
+        self.saveContext(context)
+        self.sendAnswer(context)
 
     # Function ##################################################################
+    def getInput(self):
+        try:
+            content_length = int(self.headers["Content-Length"])
+            data = self.rfile.read(content_length).decode("utf-8").rstrip()
+        except:
+            logThat("ERROR", " Syntax problem")
+            data = "Syntax Invalid"
 
+        return data
 
-    def welcomeMessage(self,context):
-        logThat("DEBUG", "WelcomeMessage Function")
-        readWelcomeMessage(context)
-        context.next = State.toQuestion
+    def getContext(self):
+        return self.server.context
 
+    def saveContext(self, context):
+        savedContext = copy.copy(context)
+        savedContext.data = ""
+        savedContext.commande = ""
+        savedContext.next = State.toDectectInput
+        savedContext.answer = []
+        self.server.context = savedContext
 
-    def waitForInput(self,context):
-        logThat("DEBUG", " waitForInput Function")
+    def sendAnswer(self, context):
+        self._set_headers()
+        context.answer.append("\n")
+        response='\n'.join(context.answer)
+        self.wfile.write(bytes(response, 'utf-8'))
 
-
+    def _set_headers(self):
+        self.send_response(200)
+        self.send_header('Content-type', 'text/html')
+        self.end_headers()
 
     # Analyses
-    def dectectInput(self,context):
+    def dectectInput(self, context):
         logThat("DEBUG", "dectectInputFormat Function")
-        CommandeParse = re.search("/(?P<commande>.*)$", context.data)
+        CommandeParse = re.search("-(?P<commande>.*)$", context.data )
         if CommandeParse is not None:
             context.commande = CommandeParse.group('commande')
-
             context.next = State.toAnalyseCommand
         else:
             context.next = State.toAnalyseAnswser
 
-
-    def analyseCommand(self,context):
+    def analyseCommand(self, context):
         logThat("DEBUG", "AnalyseCommand Function")
         command = context.commande.split()
         cmd = str(command[0].upper())
@@ -105,62 +112,47 @@ class Handler(http.server.BaseHTTPRequestHandler):
             context.question = int(command[1])
             context.next = State.toGoto
         else:
-            writeToUser("I didn't understand")
-            context.next = State.toWaitForInput
-        self.cleanContext(context)
+            context.next = State.toEndWorking
+            context.answer.append("I didn't understand")
 
-
-    def analyseAnswer(self,context):
+    def analyseAnswer(self, context):
         logThat("DEBUG", "AnalyseAnswer Function")
-        context.next = State.toWaitForInput
+        context.next = State.toEndWorking
         corect = controlAnwser(context)
 
         if corect:
-            context.next = State.toGoto
-            context.question += 1
+            context.next = State.toAnswer
+            context.answer.append("perfect")
         else:
-            context.next = State.toWaitForInput
-            writeToUser("I didn't understand")
-        cleanContext(context)
+            context.next = State.toEndWorking
+            context.answer.append("nope")
 
+    # interacs
+    def welcomeMessage(self, context):
+        logThat("DEBUG", "WelcomeMessage Function")
+        return readWelcomeMessage(context)
 
-    def cleanContext(self,context):
-        context.data = ""
-        context.commande = ""
-
-
-    # Questions
-    def Question(self,context):
+    def Question(self, context):
         logThat("DEBUG", "ReadQuestion Function")
-        readQuestion(context)
-        context.next = State.toWaitForInput
+        return readQuestion(context)
 
+    def Anwser(self, context):
+        logThat("DEBUG", "readAnwser Function")
+        return readAnwser(context)
 
-    def Anwser(self,context):
-        logThat("DEBUG", " readAnwser Function")
-        readAnwser(context)
-        context.next = State.toQuestion
-
-
-    def Indice(self,context):
+    def Indice(self, context):
         logThat("DEBUG", "readIndice Function")
-        readIndice(context)
-        context.next = State.toWaitForInput
-
+        return readIndice(context)
 
     # Commands
-    def gotTo(self,context):
+    def gotTo(self, context):
         logThat("DEBUG", "gotTo Function")
         context.next = State.toQuestion
-
 
     def start(self):
         logThat("DEBUG", "start Function")
         return Context(0, State.toWelcomeMessage)
 
-
     def stop(self):
         logThat("DEBUG", "Stop Function")
         sys.exit()
-
-

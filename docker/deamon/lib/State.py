@@ -3,7 +3,7 @@ class State(Enum):
     toStart = 1
     toStop = 2
     toWelcomeMessage = 3
-    toWaitForInput = 4
+    toEndWorking = 4
     toQuestion = 5
     toDectectInput = 6
     toAnalyseAnswser = 7
