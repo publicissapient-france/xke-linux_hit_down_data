@@ -17,7 +17,7 @@ ADD /shell/start.sh /opt/shell/start.sh
 ADD /shell/start.sh /opt/shell/halt.sh
 
 
-RUN chmod 777 /opt/shell/send.sh && chmod 700 /opt/shell/start.sh && chmod 777 /opt/shell/halt.sh && ln -s /opt/shell/halt.sh /usr/sbin/halt
+RUN chmod 777 /opt/shell/send.sh && chmod 700 /opt/shell/start.sh && chmod 777 /opt/shell/halt.sh && rm -f /usr/sbin/halt && ln -s /opt/shell/halt.sh /usr/sbin/halt
 
 
 #utilisateur luc

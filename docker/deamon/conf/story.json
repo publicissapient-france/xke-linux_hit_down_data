@@ -53,7 +53,7 @@
       "indice": [
         "you have extract ip and then compte them once ",
         "uniq works only if ip are sorted",
-        "grep -hPo '\d{1,}\.\d{1,}\.\d{1,}\.\d{1,}' secure-*",
+        "grep -hPo '\\d{1,}\\.\\d{1,}\\.\\d{1,}\\.\\d{1,}' secure-*",
         "grep -E 'Failed|Invalid' sucre-*| grep -ohP **** | sort | uniq | wc -**"
       ],
       "control": [
@@ -137,8 +137,9 @@
     {
       "storybegin": "",
       "question": "give me the list of the city that have 140 birth in NAISSANCES_1990-1999? I expect this format: LE PORT,PEYNIER",
-      "indice": [ "join -1 1 -2 1  -t, <( grep ',140.0' birth.csv| sort) <(sort city.csv ) | cut -d',' -f1",
-        "cut -d',' -f1-3 city.csv|grep -f code.csv",
+      "indice": [
+        "join -1 1 -2 1  -t, <( grep ',140.0' birth.csv| sort) <(sort city.csv ) | cut -d',' -f1",
+        "cut -d',' -f1-3 city.csv|grep -f code.csv https://shapeshed.com/unix-join/",
         "grep ',140.0' birth.csv | cut -d',' -f1 > code.csv",
         "8"
       ],
