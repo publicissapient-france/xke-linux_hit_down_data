@@ -1,15 +1,15 @@
 {
   "welcome": [
-    "Weldone you find how to speak with me",
-    "but Xebia CE is down!!",
-    "We don't sell anymore A and B bag;)",
+    "Well done you find out how to speak with me.",
+    "Xebia CE is down!!",
+    "You don't sell anymore A and B bags ;)",
     "You have to change that",
-    "That is have to you master data analysis "
+    "To do that, you have to you master data analysis //todo "
   ],
   "quizz": [
     {
       "storybegin": "",
-      "question": "Do you accept this challenge ? ( yes or no )",
+      "question": "Do you accept this challenge ? send (yes or no)",
       "indice": [],
       "control": [
         "python3",
@@ -19,18 +19,19 @@
       "storyEnd": "Before going futher you need to know something. \nFirst at any time you can send '-what' to review the question '"
     },
     {
-      "storybegin": "Question one : Find the traces I leave on the machine",
+      "storybegin": "Question one : Find the logs I left on the machine",
       "question": "What is the repository of the files called 'secure****' ?",
       "indice": [
         "There is no man tool on this machine but you can run 'man -k find' on you computer",
-        "something like that will do the job : find / --name ****"
+        "something like that will do the job : find / -name ****",
+        "find / -name secure* 2>/dev/null"
       ],
       "control": [
         "python3",
         "control/find.locationOfSecureFile.py"
       ],
       "answer": "The files Secure-*** contains all log about connection attempt",
-      "storyEnd": "Have a look to these files whit 'HEAD'"
+      "storyEnd": "Have a look to these files whit 'head'"
     },
     {
       "storybegin": "Question two :Let's look sshd log ",
@@ -38,7 +39,7 @@
       "indice": [
         "Look 'grep' command on man ",
         "'wc' allow to compte world but could also be used for line ",
-        "grep *** | wc -**"
+        "grep *** | wc -l*"
       ],
       "control": [
         "python3",
@@ -49,11 +50,12 @@
     },
     {
       "storybegin": "Question three : What about failed and Invalid?",
-      "question": "How many ip different failed to connect ?",
+      "question": "How many ipV4 different failed to connect ?, Pay attention to cast",
       "indice": [
-        "you have extract ip and then compte them once ",
+        "you have extract ip and then compte them once from Invalid and Failed log ",
         "uniq works only if ip are sorted",
-        "grep -hPo '\\d{1,}\\.\\d{1,}\\.\\d{1,}\\.\\d{1,}' secure-*",
+        "grep -hPo '\\d{1,}\\.\\d{1,}\\.\\d{1,}\\.\\d{1,}' secure-* \n mandboption -P allow to use python regex rather than grep regex",
+       "uniq works only if ip are sorted",
         "grep -E 'Failed|Invalid' sucre-*| grep -ohP **** | sort | uniq | wc -**"
       ],
       "control": [
@@ -64,11 +66,10 @@
       "storyEnd": ""
     },
     {
-      "storybegin": "Maybe we could compare with Accepted IP",
+      "storybegin": "Question four : Maybe you could compare with Accepted IP",
       "question": "Give me the ip of the person who have been connect six times?",
       "indice": [
-        "uniq have a great option to do it",
-        "uniq works only if ip are sorted",
+        "uniq have a great option to compte occurence",
         "grep Accepted | grep -oPh **** | sort | uniq -c "
       ],
       "control": [
@@ -79,10 +80,10 @@
       "storyEnd": ""
     },
     {
-      "storybegin": "Now you must find my name",
+      "storybegin": "Question five : Now you must find my name",
       "question": "What is my name",
       "indice": [
-        "I won't help for thah"
+        "Be a big boy stop asking for help"
       ],
       "control": [
         "python3",
@@ -92,12 +93,13 @@
       "storyEnd": ""
     },
     {
-      "storybegin": "You must check what I did on the machine",
-      "question": "Which command I have changed",
+      "storybegin": "Question six : You must check what I did on the machine",
+      "question": "Which command I have changed ?",
       "indice": [
         "maybe you should look for file updating today",
-        "find have some wery interesting option ??",
-        "/usr/bin"
+         "/usr/sbin",
+        "find . -ctime -1 2>/dev/null"
+
       ],
       "control": [
         "python3",
@@ -107,7 +109,7 @@
       "storyEnd": ""
     },
     {
-      "storybegin": "Now we are going to see csv file. There is one heavy city.csv in /home/csv",
+      "storybegin": "Question seven : Now you are going to see csv file. There is one heavy city.csv in /home/csv",
       "question": "how many column there is ? ",
       "indice": [
         "you send teh first line to cut",
@@ -122,8 +124,8 @@
       "storyEnd": ""
     },
     {
-      "storybegin": "",
-      "question": "how many colum in city.csv",
+      "storybegin": "Question eight : ",
+      "question": "how many column in city.csv",
       "indice": [ "head -n 1 city.csv | grep -o , | wc -l",
         ""
       ],
@@ -135,7 +137,7 @@
       "storyEnd": ""
     },
     {
-      "storybegin": "",
+      "storybegin": "Question nine : ",
       "question": "give me the list of the city that have 140 birth in NAISSANCES_1990-1999? I expect this format: LE PORT,PEYNIER",
       "indice": [
         "join -1 1 -2 1  -t, <( grep ',140.0' birth.csv| sort) <(sort city.csv ) | cut -d',' -f1",
@@ -145,7 +147,7 @@
       ],
       "control": [
         "python3",
-        "control/find.changeCommand.py"
+        "control/csv.listOfNameOfCity.py"
       ],
       "answer": "??",
       "storyEnd": ""

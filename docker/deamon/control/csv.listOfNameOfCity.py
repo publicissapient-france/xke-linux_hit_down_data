@@ -5,9 +5,10 @@
 import sys
 
 if __name__ == "__main__":
-    if sys.argv[1].upper() == "99":
+    received= sys.argv[1].upper().split(',')
+    response= ["LE PORT","PEYNIER","CHATEAUNEUF-LE-ROUGE","ROUSSET","AGEN","BOURG-LA-REINE","SIX-FOURS-LES-PLAGES","MERICOURT"]
+    if received in response:
         print("True")
     else:
         print("False")
 
-LE PORT,PEYNIER,CHATEAUNEUF-LE-ROUGE,ROUSSET,AGEN,BOURG-LA-REINE,SIX-FOURS-LES-PLAGES,MERICOURT
