@@ -1,0 +1,174 @@
+{
+  "badges": [],
+  "created_at": "2017-02-17T00:00:00",
+  "deleted": null,
+  "description": "Ce listing recense les logements disponible ssur le site de location Airb'n'b sur le territoire de Bordeaux. Il est produit par l'observatoire Airbnb",
+  "extras": {
+    "ckan:name": "liste-des-logements-proposes-en-airbnb-sur-bordeaux1",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/MONTHLY",
+    "guid": "https://datacat.datalocale.fr/824352",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-06-06T16:40:04.419208",
+    "harvest:remote_id": "8e866124-e21a-431d-ad92-dafd2b26e4d9",
+    "harvest:source_id": "59365a72c751df28ed47c9eb",
+    "issued": "2016-10-25T08:22:45.186347+00:00",
+    "modified": "2016-10-25T08:22:45.186347+00:00",
+    "publisher_email": "mailto:datalocale@gironde.fr",
+    "publisher_name": "D\u00e9partement de la Gironde",
+    "publisher_type": "\"Collectivit\u00e9 locale\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414548",
+    "remote_url": "http://observatoire-airbnb.fr",
+    "theme": "[\"parafiscalit\u00e9\", \"logement\", \"politique du logement\"]",
+    "uri": "https://datacat.datalocale.fr/824352"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59345823a3a72968e1876c54",
+  "last_modified": "2017-06-06T16:40:04.421000",
+  "last_update": "2017-06-06T16:40:04.418000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": null,
+  "owner": {
+    "avatar": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-original.jpg",
+    "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-100.jpg",
+    "class": "User",
+    "first_name": "Ressourcerie",
+    "id": "534fff47a3a7292c64a77adc",
+    "last_name": "datalocale",
+    "page": "https://www.data.gouv.fr/fr/users/ressourcerie-datalocale/",
+    "slug": "ressourcerie-datalocale",
+    "uri": "https://www.data.gouv.fr/api/1/users/ressourcerie-datalocale/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-logements-proposes-en-airbnb-sur-bordeaux1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:57:39.734000",
+      "description": "export en csv du fichier r\u00e9f\u00e9renc\u00e9",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T10:37:40.893000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/839264/raw/33000-BORDEAUX_nettoye.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2a91c7cf-cd27-47b3-8938-a3c29d8368a0",
+      "last_modified": "2017-06-04T20:57:39.734000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2a91c7cf-cd27-47b3-8938-a3c29d8368a0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:57:39.734000",
+      "title": "33000-BORDEAUX_nettoye.csv",
+      "url": "https://datacat.datalocale.fr/file/839264/raw/33000-BORDEAUX_nettoye.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:57:39.734000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T10:37:36.586000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/826131/raw/"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xls",
+      "id": "0fd23003-f1d9-4c97-8f24-c9d4f2e4f41d",
+      "last_modified": "2017-06-04T20:57:39.734000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0fd23003-f1d9-4c97-8f24-c9d4f2e4f41d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.ms-excel",
+      "published": "2017-06-04T20:57:39.734000",
+      "title": "33000-BORDEAUX.xlsx",
+      "url": "https://datacat.datalocale.fr/file/826131/raw/"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:40:04.417000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T23:45:47.391000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/826131/raw/"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xls",
+      "id": "aa158bf4-5705-41e3-9f5f-230e684cc8d8",
+      "last_modified": "2017-06-06T16:40:04.417000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/aa158bf4-5705-41e3-9f5f-230e684cc8d8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.ms-excel",
+      "published": "2017-06-06T16:40:04.417000",
+      "title": "33000-BORDEAUX.xlsx",
+      "url": "https://datacat.datalocale.fr/file/826131/raw/"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:40:04.418000",
+      "description": "export en csv du fichier r\u00e9f\u00e9renc\u00e9",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T10:37:40.893000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/839264/raw/33000-BORDEAUX_nettoye.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "caa25e94-86b6-457b-88ac-551bdc525906",
+      "last_modified": "2017-06-06T16:40:04.418000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/caa25e94-86b6-457b-88ac-551bdc525906",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:40:04.418000",
+      "title": "33000-BORDEAUX_nettoye.csv",
+      "url": "https://datacat.datalocale.fr/file/839264/raw/33000-BORDEAUX_nettoye.csv"
+    }
+  ],
+  "slug": "liste-des-logements-proposes-en-airbnb-sur-bordeaux1",
+  "spatial": null,
+  "tags": [
+    "airbnb",
+    "logements",
+    "observatoire"
+  ],
+  "temporal_coverage": null,
+  "title": "liste des logements propos\u00e9s en Airbnb sur Bordeaux",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-logements-proposes-en-airbnb-sur-bordeaux1/"
+}

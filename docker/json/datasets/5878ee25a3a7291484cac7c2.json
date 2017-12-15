@@ -1,0 +1,137 @@
+{
+  "badges": [],
+  "created_at": "2013-02-25T00:00:00",
+  "deleted": null,
+  "description": "Donn\u00e9es rassembl\u00e9es \u00e0 partir de diff\u00e9rentes sources (sites internet, articles...) sur la cat\u00e9gorisation et le positionnement des acteurs pertinents pour le d\u00e9bat Notre Dame des Landes. Quelques champs sont incompl\u00e8ts et il convient de bien v\u00e9rifier chaque donn\u00e9e car elles ont \u00e9t\u00e9 produites tr\u00e8s rapidement (weekend hackathon).",
+  "extras": {
+    "ckan:name": "acteurs-notre-dame-des-landes",
+    "harvest:domain": "www.nosdonnees.fr",
+    "harvest:last_update": "2017-07-10T06:04:41.123040",
+    "harvest:remote_id": "a312e366-8e76-425e-a2a8-ce539633eb05",
+    "harvest:source_id": "5878ee1588ee385bffa6f719"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5878ee25a3a7291484cac7c2",
+  "last_modified": "2017-07-10T06:04:41.124000",
+  "last_update": "2017-01-13T16:11:33.837000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff99a3a7292c64a78016",
+    "logo": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-100.png",
+    "name": "NosDonn\u00e9es.fr",
+    "page": "https://www.data.gouv.fr/fr/organizations/nosdonnees-fr/",
+    "slug": "nosdonnees-fr",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nosdonnees-fr/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/acteurs-notre-dame-des-landes/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:11:33.836000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T13:39:55.228000",
+        "check:status": 200,
+        "check:url": "http://www.nosdonnees.fr/storage/f/2013-02-25T082202/Acteurs-NDDL.xlsx"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xlsx",
+      "id": "19c02e51-a1d0-47bd-9197-e1d5e244b3ba",
+      "last_modified": "2013-02-25T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/19c02e51-a1d0-47bd-9197-e1d5e244b3ba",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "",
+      "published": "2017-01-13T16:11:33.836000",
+      "title": "2013-02-25T082202/Acteurs-NDDL.xlsx",
+      "url": "http://www.nosdonnees.fr/storage/f/2013-02-25T082202/Acteurs-NDDL.xlsx"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:11:33.836000",
+      "description": "Liste des acteurs de Notre Dame des Landes et cat\u00e9gorisation par type et positionnement",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T13:39:57.546000",
+        "check:status": 200,
+        "check:url": "http://www.nosdonnees.fr/storage/f/2013-02-25T082524/nodes.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "55cbdb4d-7962-4f3d-8c36-3e8d0fdf297c",
+      "last_modified": "2013-02-25T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/55cbdb4d-7962-4f3d-8c36-3e8d0fdf297c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "",
+      "published": "2017-01-13T16:11:33.837000",
+      "title": "Liste des acteurs et cat\u00e9gorisation",
+      "url": "http://www.nosdonnees.fr/storage/f/2013-02-25T082524/nodes.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:11:33.837000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T13:39:57.570000",
+        "check:status": 200,
+        "check:url": "http://www.nosdonnees.fr/storage/f/2013-02-25T082632/edges.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f3630da2-29fc-42e2-9404-99199ceeeaee",
+      "last_modified": "2013-02-25T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f3630da2-29fc-42e2-9404-99199ceeeaee",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "",
+      "published": "2017-01-13T16:11:33.837000",
+      "title": "Liste des liens entre les acteurs de Notre Dame des Landes",
+      "url": "http://www.nosdonnees.fr/storage/f/2013-02-25T082632/edges.csv"
+    }
+  ],
+  "slug": "acteurs-notre-dame-des-landes",
+  "spatial": null,
+  "tags": [
+    "acteurs",
+    "aeroport",
+    "notre-dame-des-landes"
+  ],
+  "temporal_coverage": null,
+  "title": "Acteurs de l'a\u00e9roport Notre Dame des Landes",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/acteurs-notre-dame-des-landes/"
+}

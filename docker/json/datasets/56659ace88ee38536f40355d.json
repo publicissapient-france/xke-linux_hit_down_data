@@ -1,0 +1,110 @@
+{
+  "badges": [],
+  "created_at": "2015-12-07T15:42:22.554000",
+  "deleted": null,
+  "description": "Il s'agit des demandes d'ouvertures dominicales formul\u00e9es en 2014, par les enseignes commerciales d'Antibes Juan-les-Pins aupr\u00e8s de Monsieur le Maire, dans le cadre de l'article L. 3132-26 du Code du Travail, c'est \u00e0 dire le r\u00e9gime dit des \"dimanches du maire\". le sort des demandes y est indiqu\u00e9 ainsi que le fondement juridique sur lequel la d\u00e9cision est prise.",
+  "extras": {},
+  "frequency": "punctual",
+  "frequency_date": "2015-12-07T00:00:00",
+  "id": "56659ace88ee38536f40355d",
+  "last_modified": "2016-01-04T16:53:53.942000",
+  "last_update": "2015-12-09T16:58:51.170000",
+  "license": "other-open",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 7
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "566594f388ee38738640355c",
+    "logo": "https://www.data.gouv.fr/s/avatars/c8/533a5ea1e8440097785a6324644503-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c8/533a5ea1e8440097785a6324644503-100.png",
+    "name": "Ville d'Antibes",
+    "page": "https://www.data.gouv.fr/fr/organizations/ville-dantibes/",
+    "slug": "ville-dantibes",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ville-dantibes/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/ouvertures-dominicales-1/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "84331c2b9da8f1a20c8c96905ab40afd532b818b"
+      },
+      "created_at": "2016-01-04T16:53:53.941000",
+      "description": "",
+      "extras": {},
+      "filesize": 3201,
+      "filetype": "file",
+      "format": "csv",
+      "id": "5cc92ca5-0c6a-4eb5-86db-bbb631dc2fb3",
+      "last_modified": "2016-01-04T16:53:53.941000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5cc92ca5-0c6a-4eb5-86db-bbb631dc2fb3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 3
+      },
+      "mime": "text/csv",
+      "published": "2015-12-09T16:58:51.170000",
+      "title": "Demandes d'ouvertures dominicales",
+      "url": "https://www.data.gouv.fr/s/resources/demandes-douvertures-dominicales/20151209-165851/antibes_dimanche_saisines_2014_etatlab_vd.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "14f7c8318601455c33bd041d65a209ecebb2b383"
+      },
+      "created_at": "2016-01-04T16:53:53.941000",
+      "description": "Demandes d'ouvertures dominicales formul\u00e9es en 2014",
+      "extras": {},
+      "filesize": 30720,
+      "filetype": "file",
+      "format": "xls",
+      "id": "b4a602dd-d2bb-4201-8e3d-8b0fd0a8c553",
+      "last_modified": "2016-01-04T16:53:53.941000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b4a602dd-d2bb-4201-8e3d-8b0fd0a8c553",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.ms-excel",
+      "published": "2015-12-07T15:44:29.077000",
+      "title": "Demandes d'ouvertures dominicales",
+      "url": "https://www.data.gouv.fr/s/resources/demandes-douvertures-dominicales-2014/20151207-154608/antibes_dimanche_saisines_2014_etatlab_vd.xls"
+    }
+  ],
+  "slug": "ouvertures-dominicales-1",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:departement",
+    "zones": []
+  },
+  "tags": [
+    "commerce",
+    "dimanche",
+    "enseignes",
+    "maire",
+    "ouverture",
+    "travail"
+  ],
+  "temporal_coverage": {
+    "end": "2014-12-31",
+    "start": "2014-01-01"
+  },
+  "title": "Ouvertures dominicales",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/ouvertures-dominicales-1/"
+}

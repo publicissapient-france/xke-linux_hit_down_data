@@ -1,0 +1,81 @@
+{
+  "acronym": null,
+  "badges": [
+    {
+      "kind": "public-service"
+    },
+    {
+      "kind": "certified"
+    }
+  ],
+  "created_at": "2014-04-17T18:22:08.626000",
+  "deleted": null,
+  "description": "SNCF est l\u2019un des premiers groupes mondiaux de mobilit\u00e9 et de logistique, avec une pr\u00e9sence dans 120 pays, 33,8  milliards d\u2019euros de chiffre d\u2019affaires dont pr\u00e8s de 25 % \u00e0 l\u2019international et 250 000 collaborateurs en 2012. Groupe \npublic \u00e0 vocation de service public, fort de son socle ferroviaire fran\u00e7ais, SNCF \u00e9largit l'offre des services de transport afin de proposer une mobilit\u00e9 fluide et de porte \u00e0 porte \u00e0 ses clients, voyageurs, chargeurs ou Autorit\u00e9s \nOrganisatrices.",
+  "id": "534fffb0a3a7292c64a78115",
+  "last_modified": "2017-11-23T21:33:40.669000",
+  "logo": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-original.png",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-100.png",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/23/fe98fa50e94b52b4680e80006297cf-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/23/fe98fa50e94b52b4680e80006297cf-100.jpg",
+        "class": "User",
+        "first_name": "Romain",
+        "id": "534fff48a3a7292c64a77aff",
+        "last_name": "Lalanne",
+        "page": "https://www.data.gouv.fr/fr/users/romain-lalanne/",
+        "slug": "romain-lalanne",
+        "uri": "https://www.data.gouv.fr/api/1/users/romain-lalanne/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Vincent",
+        "id": "534fff4aa3a7292c64a77c30",
+        "last_name": "G\u00e9nin",
+        "page": "https://www.data.gouv.fr/fr/users/vincent-genin/",
+        "slug": "vincent-genin",
+        "uri": "https://www.data.gouv.fr/api/1/users/vincent-genin/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/d7/4690b4031241529b12dbd73047eb84-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/d7/4690b4031241529b12dbd73047eb84-100.jpg",
+        "class": "User",
+        "first_name": "florian",
+        "id": "55e5c4b188ee386e18a46ec1",
+        "last_name": "lainez",
+        "page": "https://www.data.gouv.fr/fr/users/florian-lainez/",
+        "slug": "florian-lainez",
+        "uri": "https://www.data.gouv.fr/api/1/users/florian-lainez/"
+      }
+    }
+  ],
+  "metrics": {
+    "dataset_views": 2990,
+    "datasets": 216,
+    "followers": 47,
+    "members": 3,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 10,
+    "resource_downloads": 717,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 1322
+  },
+  "name": "SNCF",
+  "page": "https://www.data.gouv.fr/fr/organizations/sncf/",
+  "slug": "sncf",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/sncf/",
+  "url": null
+}

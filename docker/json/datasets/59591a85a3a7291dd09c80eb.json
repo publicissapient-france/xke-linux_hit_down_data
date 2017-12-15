@@ -1,0 +1,144 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T18:08:37.734000",
+  "deleted": null,
+  "description": "Banatic, la Base nationale sur l\u2019intercommunalit\u00e9, constitue le syst\u00e8me d\u2019information de r\u00e9f\u00e9rence sur les donn\u00e9es relatives \u00e0 l\u2019intercommunalit\u00e9.\n\nD\u00e9velopp\u00e9 par la DGCL, ce portail est destin\u00e9 \u00e0 mettre \u00e0 disposition du plus grand nombre des informations sur la cat\u00e9gorie des groupements de collectivit\u00e9s territoriales telle que d\u00e9finie par l\u2019article L5210-1-1 A du code g\u00e9n\u00e9ral des collectivit\u00e9s territoriales (CGCT). Les informations de Banatic sont produites sur la base des \u00e9l\u00e9ments renseign\u00e9s dans les syst\u00e8mes d\u2019information g\u00e9r\u00e9s par les services d\u00e9concentr\u00e9s de l\u2019Etat d\u00e9nomm\u00e9s ASPIC \" Acc\u00e8s des services publics aux informations sur les collectivit\u00e9s\".\n\nSont diffus\u00e9es sur Banatic des informations sur les \u00e9tablissements publics de coop\u00e9ration intercommunale (EPCI) avec ou sans fiscalit\u00e9 propre et les syndicats mixtes :\n\n\\- \u00e9tablissements publics de coop\u00e9ration intercommunale \u00e0 fiscalit\u00e9 propre : m\u00e9tropole, communaut\u00e9 urbaine, communaut\u00e9 d\u2019agglom\u00e9ration, communaut\u00e9 de communes et syndicat d\u2019agglom\u00e9ration nouvelle ; \\- \u00e9tablissements publics de coop\u00e9ration intercommunale sans fiscalit\u00e9 propre : syndicat \u00e0 vocation unique et syndicat \u00e0 vocation multiple ; \\- syndicats mixtes : syndicat mixte ferm\u00e9 et syndicat mixte ouvert. \\- p\u00f4les m\u00e9tropolitains\n\nDroits de reproduction r\u00e9serv\u00e9s et strictement limit\u00e9s.\n\nNB. Les geo-shapes sont parfois manquantes et, pour plus de lisibilit\u00e9 ne comprennent pas les \u00e9chelons administratifs imbriqu\u00e9s (exemple d'un groupement reunissant plusieurs communes ainsi que le d\u00e9partement et la r\u00e9gion)",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T06:23:58.254708",
+    "harvest:remote_id": "groupements-de-collectivites-territoriales",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:references": "https://www.banatic.interieur.gouv.fr/V5/fichiers-en-telechargement/fichiers-telech.php",
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/groupements-de-collectivites-territoriales/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59591a85a3a7291dd09c80eb",
+  "last_modified": "2017-11-27T06:23:58.256000",
+  "last_update": "2017-11-27T06:23:58.254000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 1,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/groupements-de-collectivites-territoriales-2017/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:23:58.253000",
+      "description": "- *R\u00e9gion si\u00e8ge*: region_siege[text]\n- *D\u00e9partement si\u00e8ge*: departement_siege[text]\n- *Arrondissement si\u00e8ge*: arrondissement_siege[text]\n- *Commune si\u00e8ge*: commune_siege[text]\n- *N\u00b0 SIREN*: ndeg_siren[text]\n- *Nom du groupement*: nom_du_groupement[text]\n- *Nature Juridique*: nature_juridique[text]\n- *Syndicat \u00e0 la carte*: syndicat_a_la_carte[text]\n- *Groupement interd\u00e9partemental*: groupement_interdepartemental[text]\n- *Date de cr\u00e9ation*: date_de_creation[date]\n- *Date d'effet*: date_d_effet[date]\n- *Mode de r\u00e9partition des si\u00e8ges*: mode_de_repartition_des_sieges[text]\n- *Autre mode de r\u00e9partition des si\u00e8ges*: autre_mode_de_repartition_des_sieges[text]\n- *Nombre de membres*: nombre_de_membres[int]\n- *Population*: population[int]\n- *Nombre de comp\u00e9tences exerc\u00e9es*: nombre_de_competences_exercees[int]\n- *Mode de financement*: mode_de_financement[text]\n- *Civilit\u00e9 Pr\u00e9sident*: civilite_president[text]\n- *Pr\u00e9nom Pr\u00e9sident*: prenom_president[text]\n- *Nom Pr\u00e9sident*: nom_president[text]\n- *Code Region Si\u00e8ge*: code_region_siege[text]\n- *Code Departement Si\u00e8ge*: code_departement_siege[text]\n- *N\u00b0 SIREN Commune*: ndeg_siren_commune[text]\n- *Competences*: competences[text]\n- *st_asgeojson*: st_asgeojson[geo_shape]\n- *Code Insee Commune Si\u00e8ge*: code_insee_commune_siege[text]\n- *Code Commune Commune Si\u00e8ge*: code_commune_commune_siege[text]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c9b9a127-8cb9-4702-8086-3592dfb13fb3",
+      "last_modified": "2017-03-22T11:17:41",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c9b9a127-8cb9-4702-8086-3592dfb13fb3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T06:23:58.253000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/groupements-de-collectivites-territoriales/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:23:58.253000",
+      "description": "- *R\u00e9gion si\u00e8ge*: region_siege[text]\n- *D\u00e9partement si\u00e8ge*: departement_siege[text]\n- *Arrondissement si\u00e8ge*: arrondissement_siege[text]\n- *Commune si\u00e8ge*: commune_siege[text]\n- *N\u00b0 SIREN*: ndeg_siren[text]\n- *Nom du groupement*: nom_du_groupement[text]\n- *Nature Juridique*: nature_juridique[text]\n- *Syndicat \u00e0 la carte*: syndicat_a_la_carte[text]\n- *Groupement interd\u00e9partemental*: groupement_interdepartemental[text]\n- *Date de cr\u00e9ation*: date_de_creation[date]\n- *Date d'effet*: date_d_effet[date]\n- *Mode de r\u00e9partition des si\u00e8ges*: mode_de_repartition_des_sieges[text]\n- *Autre mode de r\u00e9partition des si\u00e8ges*: autre_mode_de_repartition_des_sieges[text]\n- *Nombre de membres*: nombre_de_membres[int]\n- *Population*: population[int]\n- *Nombre de comp\u00e9tences exerc\u00e9es*: nombre_de_competences_exercees[int]\n- *Mode de financement*: mode_de_financement[text]\n- *Civilit\u00e9 Pr\u00e9sident*: civilite_president[text]\n- *Pr\u00e9nom Pr\u00e9sident*: prenom_president[text]\n- *Nom Pr\u00e9sident*: nom_president[text]\n- *Code Region Si\u00e8ge*: code_region_siege[text]\n- *Code Departement Si\u00e8ge*: code_departement_siege[text]\n- *N\u00b0 SIREN Commune*: ndeg_siren_commune[text]\n- *Competences*: competences[text]\n- *st_asgeojson*: st_asgeojson[geo_shape]\n- *Code Insee Commune Si\u00e8ge*: code_insee_commune_siege[text]\n- *Code Commune Commune Si\u00e8ge*: code_commune_commune_siege[text]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "4ced9523-c265-4a40-a9d8-e90853b880db",
+      "last_modified": "2017-03-22T11:17:41",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4ced9523-c265-4a40-a9d8-e90853b880db",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T06:23:58.253000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/groupements-de-collectivites-territoriales/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:23:58.253000",
+      "description": "- *R\u00e9gion si\u00e8ge*: region_siege[text]\n- *D\u00e9partement si\u00e8ge*: departement_siege[text]\n- *Arrondissement si\u00e8ge*: arrondissement_siege[text]\n- *Commune si\u00e8ge*: commune_siege[text]\n- *N\u00b0 SIREN*: ndeg_siren[text]\n- *Nom du groupement*: nom_du_groupement[text]\n- *Nature Juridique*: nature_juridique[text]\n- *Syndicat \u00e0 la carte*: syndicat_a_la_carte[text]\n- *Groupement interd\u00e9partemental*: groupement_interdepartemental[text]\n- *Date de cr\u00e9ation*: date_de_creation[date]\n- *Date d'effet*: date_d_effet[date]\n- *Mode de r\u00e9partition des si\u00e8ges*: mode_de_repartition_des_sieges[text]\n- *Autre mode de r\u00e9partition des si\u00e8ges*: autre_mode_de_repartition_des_sieges[text]\n- *Nombre de membres*: nombre_de_membres[int]\n- *Population*: population[int]\n- *Nombre de comp\u00e9tences exerc\u00e9es*: nombre_de_competences_exercees[int]\n- *Mode de financement*: mode_de_financement[text]\n- *Civilit\u00e9 Pr\u00e9sident*: civilite_president[text]\n- *Pr\u00e9nom Pr\u00e9sident*: prenom_president[text]\n- *Nom Pr\u00e9sident*: nom_president[text]\n- *Code Region Si\u00e8ge*: code_region_siege[text]\n- *Code Departement Si\u00e8ge*: code_departement_siege[text]\n- *N\u00b0 SIREN Commune*: ndeg_siren_commune[text]\n- *Competences*: competences[text]\n- *st_asgeojson*: st_asgeojson[geo_shape]\n- *Code Insee Commune Si\u00e8ge*: code_insee_commune_siege[text]\n- *Code Commune Commune Si\u00e8ge*: code_commune_commune_siege[text]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "fbea09f1-1d77-4e55-bc80-62456a15c9b8",
+      "last_modified": "2017-03-22T11:17:41",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fbea09f1-1d77-4e55-bc80-62456a15c9b8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T06:23:58.253000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/groupements-de-collectivites-territoriales/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:23:58.254000",
+      "description": "- *R\u00e9gion si\u00e8ge*: region_siege[text]\n- *D\u00e9partement si\u00e8ge*: departement_siege[text]\n- *Arrondissement si\u00e8ge*: arrondissement_siege[text]\n- *Commune si\u00e8ge*: commune_siege[text]\n- *N\u00b0 SIREN*: ndeg_siren[text]\n- *Nom du groupement*: nom_du_groupement[text]\n- *Nature Juridique*: nature_juridique[text]\n- *Syndicat \u00e0 la carte*: syndicat_a_la_carte[text]\n- *Groupement interd\u00e9partemental*: groupement_interdepartemental[text]\n- *Date de cr\u00e9ation*: date_de_creation[date]\n- *Date d'effet*: date_d_effet[date]\n- *Mode de r\u00e9partition des si\u00e8ges*: mode_de_repartition_des_sieges[text]\n- *Autre mode de r\u00e9partition des si\u00e8ges*: autre_mode_de_repartition_des_sieges[text]\n- *Nombre de membres*: nombre_de_membres[int]\n- *Population*: population[int]\n- *Nombre de comp\u00e9tences exerc\u00e9es*: nombre_de_competences_exercees[int]\n- *Mode de financement*: mode_de_financement[text]\n- *Civilit\u00e9 Pr\u00e9sident*: civilite_president[text]\n- *Pr\u00e9nom Pr\u00e9sident*: prenom_president[text]\n- *Nom Pr\u00e9sident*: nom_president[text]\n- *Code Region Si\u00e8ge*: code_region_siege[text]\n- *Code Departement Si\u00e8ge*: code_departement_siege[text]\n- *N\u00b0 SIREN Commune*: ndeg_siren_commune[text]\n- *Competences*: competences[text]\n- *st_asgeojson*: st_asgeojson[geo_shape]\n- *Code Insee Commune Si\u00e8ge*: code_insee_commune_siege[text]\n- *Code Commune Commune Si\u00e8ge*: code_commune_commune_siege[text]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "fc9dfca7-496d-4d6f-a610-dbb2e5bee718",
+      "last_modified": "2017-03-22T11:17:41",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fc9dfca7-496d-4d6f-a610-dbb2e5bee718",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T06:23:58.254000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.iledefrance.fr//explore/dataset/groupements-de-collectivites-territoriales/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "groupements-de-collectivites-territoriales-2017",
+  "spatial": null,
+  "tags": [
+    "administration",
+    "intercommunalite"
+  ],
+  "temporal_coverage": null,
+  "title": "Groupements de collectivit\u00e9s territoriales 2017",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/groupements-de-collectivites-territoriales-2017/"
+}

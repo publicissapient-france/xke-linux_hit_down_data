@@ -1,156 +1,249 @@
 {
   "welcome": [
     "Well done you find out how to speak with me.",
-    "Xebia CE is down!!",
-    "You don't sell anymore A and B bags ;)",
-    "You have to change that",
-    "To do that, you have to you master data analysis //todo "
+    "I have been connected to this machine and changed the root code.",
+    "After doing that I setup this soft to give you a chance to fix everything ",
+    "I going to tell you 15 questions, each question will give a clue to get closer to the code",
+    "You have to keep in mind the question name"
   ],
   "quizz": [
     {
       "storybegin": "",
-      "question": "Do you accept this challenge ? send (yes or no)",
-      "indice": [],
+      "question": "Are you ready ? send (yes or no)",
+      "indice": [" 1/1:you don't need help for this question"],
       "control": [
         "python3",
         "control/doYouWantToContinu.py"
       ],
       "answer": "let's do it",
-      "storyEnd": "Before going futher you need to know something. \nFirst at any time you can send '-what' to review the question '"
+      "storyEnd": "Before going futher you need to know something. \nFirst at any time you can send '-what' to review the question and -indice to get some help'"
     },
     {
-      "storybegin": "Question one : Find the logs I left on the machine",
+      "storybegin": "First question Death Stars : Find the logs I left on the machine",
       "question": "What is the repository of the files called 'secure****' ?",
       "indice": [
-        "There is no man tool on this machine but you can run 'man -k find' on you computer",
-        "something like that will do the job : find / -name ****",
-        "find / -name secure* 2>/dev/null"
+        "1/3:There is no man tool on this machine but you can run 'man -k find' on you computer \nor check at http://www.linux-france.org/article/man-fr/man1/",
+        "2/3:something like that will do the job : find / -name ****",
+        "3/3:When dealing with linux command, there are three screen \n -O is input,\n-1 is output,\n-2 is error\n you remove error from the shell by sending the error away 2>/dev/null"
       ],
       "control": [
         "python3",
         "control/find.locationOfSecureFile.py"
       ],
-      "answer": "The files Secure-*** contains all log about connection attempt",
-      "storyEnd": "Have a look to these files whit 'head'"
+      "answer": " my answer is : 'find / -name secure* 2>/dev/null' but there is a lot of other way \n By the way files Secure-*** contains all log about connection attempt",
+      "storyEnd": "You should keep this number '1'"
     },
     {
-      "storybegin": "Question two :Let's look sshd log ",
-      "question": "How many sshd log are present in the file?",
+      "storybegin": "2/15 Question USS Entreprise :Let's look at sshd log ",
+      "question": "Have a look to these files with 'head'command \n How many sshd log are present in the fileS ?",
       "indice": [
-        "Look 'grep' command on man ",
-        "'wc' allow to compte world but could also be used for line ",
-        "grep *** | wc -l*"
+        "1/4:Look at 'grep' command on man ",
+        "2/4:after filtering line you could use a pipe '|' to send the data to another command",
+        "3/4:'wc' allow to count world but could also be used for line",
+        "4/4:grep *** | wc -l"
       ],
       "control": [
         "python3",
         "control/log.numberOfsshdLogs.py"
       ],
-      "answer": "Look's like the machine received a lot of requests",
-      "storyEnd": ""
+      "answer": "my answer : 'grep sshd secure-* | wc -l' \nLook's like the machine received a lot of requests",
+      "storyEnd": "this time is 9"
     },
     {
-      "storybegin": "Question three : What about failed and Invalid?",
-      "question": "How many ipV4 different failed to connect ?, Pay attention to cast",
+      "storybegin": "3/15 Question Prometheus : What about Failed and Invalid?",
+      "question": "How many log are about Failed and Invalid connection ?, Pay attention to cast",
       "indice": [
-        "you have extract ip and then compte them once from Invalid and Failed log ",
-        "uniq works only if ip are sorted",
-        "grep -hPo '\\d{1,}\\.\\d{1,}\\.\\d{1,}\\.\\d{1,}' secure-* \n mandboption -P allow to use python regex rather than grep regex",
-       "uniq works only if ip are sorted",
-        "grep -E 'Failed|Invalid' sucre-*| grep -ohP **** | sort | uniq | wc -**"
+        "1/3:you must do a 'or expression' in the grep condition",
+        "2/3:-E option tell grep to analyse as a regex expression, this regex has a specific syntax",
+        "3/3:something like that : grep -E 'black|with' "
+      ],
+      "control": [
+        "python3",
+        "control/log.numberOfFailedAndInvalidLog.py"
+      ],
+      "answer": "my answer :'grep -E 'Failed|Invalid' secure-* |  wc -l' \n but it's still hard to find my log",
+      "storyEnd": "Prometheus is four \n too much log you have look deeper"
+    },
+    {
+      "storybegin": "4/15 Question Odysse : What about IP ?",
+      "question": "How many ipV4 different Failed and Invalid connection?",
+      "indice": [
+        "1/6:There are Four steps : filter interesting log | extract IP| remove duplicate IP | count left Ip ",
+        "2/6:In order to extract you can use grep with regex,\n I advice you to -P option which allow you to use python syntax rather than grep syntax",
+        "3/6:you can test you regex online https://regex101.com/",
+        "4/6:Befere removing duplicate IP, you have to change the form of data output, maybe grep -oh will help you",
+        "5/6:uniq will remove duplicate but it works only if ip are sorted",
+        "6/6:grep -E 'Failed|Invalid' secure-*| grep -ohP **** | sort | uniq | wc -**"
       ],
       "control": [
         "python3",
         "control/log.numberOfIPFailedToConnect.py"
       ],
-      "answer": "but it's still hard to find my log",
-      "storyEnd": ""
+      "answer": "my answer:grep -E 'Failed|Invalid' secure-* | grep -hPo '\\d{1,}\\.\\d{1,}\\.\\d{1,}\\.\\d{1,} | sort | uniq | wc -l' \n but it's still hard to find my log",
+      "storyEnd": "Note 3"
     },
+
     {
-      "storybegin": "Question four : Maybe you could compare with Accepted IP",
+      "storybegin": "5/15 Question Pegasus : Maybe you could compare with Accepted IP",
       "question": "Give me the ip of the person who have been connect six times?",
       "indice": [
-        "uniq have a great option to compte occurence",
-        "grep Accepted | grep -oPh **** | sort | uniq -c "
+        "1/3:you must reuse all you did before",
+        "2/3:uniq have a great option to count duplicate",
+        "3/3:grep Accepted secure-* | grep -oPh **** | sort | uniq -c "
       ],
       "control": [
         "python3",
         "control/log.IPOfHacker.py"
       ],
-      "answer": "ok you find my IP",
-      "storyEnd": ""
+      "answer": "my answer: 'grep Accepted secure-* | grep -oPh '\\d{1,}\\.\\d{1,}\\.\\d{1,}\\.\\d{1,}' | sort | uniq -c' \n ok you find my IP",
+      "storyEnd": "Keep in mind 5"
     },
     {
-      "storybegin": "Question five : Now you must find my name",
+      "storybegin": "6/15  Question Serenity : Now you must find my name",
       "question": "What is my name",
       "indice": [
-        "Be a big boy stop asking for help"
+        "1/2:be a big boy stop asking for help",
+        "2/2:my name is writen in the log"
       ],
       "control": [
         "python3",
         "control/log.nameOfHacker.py"
       ],
-      "answer": "righ now you have me name",
-      "storyEnd": ""
+      "answer": "right now you have me name",
+      "storyEnd": "write down 7"
     },
     {
-      "storybegin": "Question six : You must check what I did on the machine",
+      "storybegin": "7/15 Question Orion : You must check what I did before on the machine",
       "question": "Which command I have changed ?",
       "indice": [
-        "maybe you should look for file updating today",
-         "/usr/sbin",
-        "find . -ctime -1 2>/dev/null"
-
+        "1/4:maybe you should look for file updating today",
+        "2/4:find command propose to filter one file metadata such as time, option created time  -ctime ",
+        "3/4:find .-ctime -1 2>/dev/null",
+        "4/4:most of system command are located in /usr/sbin, usr/bin/"
       ],
       "control": [
         "python3",
         "control/find.changeCommand.py"
       ],
-      "answer": "######## You find which command I changed ##########",
-      "storyEnd": ""
+      "answer": "my anwser: 'find . -ctime -1 2>/dev/null' \n######## You find which command I changed ##########",
+      "storyEnd": "take note of 3"
     },
     {
-      "storybegin": "Question seven : Now you are going to see csv file. There is one heavy city.csv in /home/csv",
-      "question": "how many column there is ? ",
+      "storybegin": "8/15 Question Faucon Millenium: Now you are going to see csv file. \n There is one heavy city.csv in /home/csv ",
+      "question": "How many column there is in city.csv",
       "indice": [
-        "you send teh first line to cut",
-        "you can specifie to cut what is the separator and the colum",
-        "head -n 1 city.csv| cut -d',' -f**"
-      ],
-      "control": [
-        "python3",
-        "control/csv.nameColum12.py"
-      ],
-      "answer": "",
-      "storyEnd": ""
-    },
-    {
-      "storybegin": "Question eight : ",
-      "question": "how many column in city.csv",
-      "indice": [ "head -n 1 city.csv | grep -o , | wc -l",
-        ""
+        "1/4:You know all you need, grep, head and wc will do the job",
+        "2/4/head give you the first line with '-n 1' ",
+        "3/4:pipe the first line to grep and extract comma",
+        "4/4:count the number of comma plus one"
       ],
       "control": [
         "python3",
         "control/csv.numberOfColum.py.py"
       ],
-      "answer": "??",
-      "storyEnd": ""
+      "answer": " my answer: 'head -n 1 city.csv | grep -o , | wc -l'",
+      "storyEnd": "It's the first"
     },
     {
-      "storybegin": "Question nine : ",
-      "question": "give me the list of the city that have 140 birth in NAISSANCES_1990-1999? I expect this format: LE PORT,PEYNIER",
+      "storybegin": "9/15 Question Galactica : Let's use cut command ",
+      "question": "How many column there is in the file city.csv? ",
       "indice": [
-        "join -1 1 -2 1  -t, <( grep ',140.0' birth.csv| sort) <(sort city.csv ) | cut -d',' -f1",
-        "cut -d',' -f1-3 city.csv|grep -f code.csv https://shapeshed.com/unix-join/",
-        "grep ',140.0' birth.csv | cut -d',' -f1 > code.csv",
-        "8"
+        "1/3:cut is a special tool for cutting specific column ",
+        "2/3:you can specify the column separator with -d",
+        "3/3:you can choose the output column with -f**"
       ],
       "control": [
         "python3",
-        "control/csv.listOfNameOfCity.py"
+        "control/csv.nameColum12.py"
       ],
-      "answer": "??",
-      "storyEnd": ""
+      "answer": "my answer: 'head -n 1 city.csv| cut -d',' -f12'",
+      "storyEnd": "this time nine will match "
+    },
+
+    {
+      "storybegin": "10/15 Question Discovery One : Join information in city.csv and birth.csv ",
+      "question": "Give me the city starting with 'B' that have 140 birth in 1990-1999 years? ",
+      "indice": [
+        "1/3: There is to way to do it : if you are an expert use join otherwise make a temporary file",
+        "2/3: You have to extract city which has 140 in birth.csv and look for the name is city.csv \n the common column is POSTAL_CODE",
+        "3/3: if you want to use join read https://shapeshed.com/unix-join/ \n if you want to avoid join use grep -f "
+      ],
+      "control": [
+        "python3",
+        "control/csv.cityName.py"
+      ],
+      "answer": "my answer1 : 'join -1 1 -2 1  -t, <( grep ',140.0' birth.csv| sort) <(sort city.csv ) | cut -d',' -f3' \n my answer2 : 'cut -d',' -f1-3 city.csv|grep -f code.csv' \n 'grep ',140.0' birth.csv | cut -d',' -f1 > code.csv' ",
+      "storyEnd": "it is four "
+    },
+    {
+      "storybegin": "11/15 Question Icarus II : Now you are going to see json file and jq command \n There is json file in /home/json",
+      "question": "This data has been downloaded form open data. Some categories file has a wrong syntax detect which one ?",
+      "indice": [
+        "1/3: If jq read the file that means syntax is well formed - https://programminghistorian.org/lessons/json-and-jq",
+        "2/3: for exemple full reading of a file 'jq '.' fileName'",
+        "3/3: You have to see error, so send data away '1>/dev/null'"
+      ],
+      "control": [
+        "python3",
+        "control/json.incorrectFile.py"
+      ],
+      "answer": "my answer: ' jq '.' categories/* 1>/dev/null",
+      "storyEnd": "3"
+    },
+    {
+      "storybegin": "12/15 Question Insterstellar : Explore json file with jq",
+      "question": "A script downloaded the open data catalogue and then by reading it download all datasets and categories\n  How many dataset are referenced in a catalogue file ?",
+      "indice": [
+        "1/1: you can use pipe in jq expression to extract only keys ' . | key'"
+      ],
+      "control": [
+        "python3",
+        "control/json.numberDatasets.py"
+      ],
+      "answer": "my answer: jq '.data' catalogue/dataset1_json",
+      "storyEnd": "Remember 8"
+
+    },
+    {
+      "storybegin": "13:15 Question Valkyrie : Check if all dataset has been downloaded ",
+      "question": "How many datasets aren't downloaded ? ",
+      "indice": [
+        "1/2: Extract dataset id from the file catalogue",
+        "2/2: Count number of id and compare with number of file in datasets"
+      ],
+      "control": [
+        "python3",
+        "control/json.datasetNotDownloaded.py"
+      ],
+      "answer": "my answer : 'jq -r'.data[].id' catalogue/* | wc \n  ls -l datasets | wc ",
+      "storyEnd": "keep in mind 7"
+    },
+    {
+      "storybegin": "14/15 Question Nostromo: Find a last file",
+      "question": "Luc created a file what is the name ? ",
+      "indice": [
+        "1/1:find with a specific option can filter user"
+      ],
+      "control": [
+        "python3",
+        "control/find.fileName.py"
+      ],
+      "answer": "my answer: find / -user luc 2>/dev/null",
+      "storyEnd": "6"
+    }, {
+      "storybegin": "15/15 Now you have every you need to find out the root code ",
+      "question": "what is the root code ?",
+      "indice": [
+        "Death Stars,USS Entreprise,Prometheus,Odysse,Pegasus,Serenity,I Orion,Faucon Millenium,Galactica,Discovery One,Icarus II,Insterstellar,Valkyrie,Nostromo,Atlantis",
+        "1,9,4,3,5,7,3,5,7,3,1,9,4,3,8,7,6,5",
+        "Death Stars:1 => D"
+      ],
+      "control": [
+        "python3",
+        "control/csv.rootCode.py"
+      ],
+      "answer": "You win",
+      "storyEnd": "This the end of this Game"
     }
   ]
 }

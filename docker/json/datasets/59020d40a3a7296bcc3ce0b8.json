@@ -1,0 +1,124 @@
+{
+  "badges": [],
+  "created_at": "2016-07-25T00:00:00",
+  "deleted": null,
+  "description": "Export des agglom\u00e9rations fran\u00e7aises, espagnoles et bulgares",
+  "extras": {
+    "Fr\u00e9quence de mise \u00e0 jour": "Temps r\u00e9el",
+    "ckan:name": "agglomerations",
+    "harvest:domain": "opendata.data-ozwillo.org",
+    "harvest:last_update": "2017-04-27T17:24:48.203493",
+    "harvest:remote_id": "aa3bcbeb-af46-49f1-8d69-7ee3503274a0",
+    "harvest:source_id": "57599de9c751df1a1dac31a0"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59020d40a3a7296bcc3ce0b8",
+  "last_modified": "2017-04-27T17:24:48.205000",
+  "last_update": "2017-04-27T17:24:48.202000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "56c4765fc751df27326c6ddf",
+    "logo": "https://www.data.gouv.fr/s/avatars/c3/f674ad6c354099a8166090b134da4a-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c3/f674ad6c354099a8166090b134da4a-100.png",
+    "name": "Ozwillo",
+    "page": "https://www.data.gouv.fr/fr/organizations/ozwillo/",
+    "slug": "ozwillo",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ozwillo/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/agglomerations/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-04-27T17:24:48.201000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-10-17T22:00:05.054000",
+        "check:status": 503,
+        "check:url": "https://opendata.data-ozwillo.org/dataset/aa3bcbeb-af46-49f1-8d69-7ee3503274a0/resource/fa0191fb-640d-4785-97fa-f471d2c05c31/download/export-2096123691180239204.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "fa0191fb-640d-4785-97fa-f471d2c05c31",
+      "last_modified": "2016-07-25T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fa0191fb-640d-4785-97fa-f471d2c05c31",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-04-27T17:24:48.201000",
+      "title": "Export des agglom\u00e9rations fran\u00e7aises",
+      "url": "https://opendata.data-ozwillo.org/dataset/aa3bcbeb-af46-49f1-8d69-7ee3503274a0/resource/fa0191fb-640d-4785-97fa-f471d2c05c31/download/export-2096123691180239204.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-27T17:24:48.202000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "5bc21354-fbdc-4583-87e8-072963ef0911",
+      "last_modified": "2016-07-25T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5bc21354-fbdc-4583-87e8-072963ef0911",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-04-27T17:24:48.202000",
+      "title": "Export des agglom\u00e9rations espagnoles",
+      "url": "https://opendata.data-ozwillo.org/dataset/aa3bcbeb-af46-49f1-8d69-7ee3503274a0/resource/5bc21354-fbdc-4583-87e8-072963ef0911/download/export-2374830449383040658.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-27T17:24:48.202000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2ec72245-a9ab-42e2-87f6-5555fad659de",
+      "last_modified": "2016-07-25T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2ec72245-a9ab-42e2-87f6-5555fad659de",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-04-27T17:24:48.202000",
+      "title": "Export des agglom\u00e9rations bulgares",
+      "url": "https://opendata.data-ozwillo.org/dataset/aa3bcbeb-af46-49f1-8d69-7ee3503274a0/resource/2ec72245-a9ab-42e2-87f6-5555fad659de/download/export-3672442048109942475.csv"
+    }
+  ],
+  "slug": "agglomerations",
+  "spatial": null,
+  "tags": [],
+  "temporal_coverage": null,
+  "title": "Agglom\u00e9rations",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/agglomerations/"
+}

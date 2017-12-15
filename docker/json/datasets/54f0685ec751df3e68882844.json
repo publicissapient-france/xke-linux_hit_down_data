@@ -1,0 +1,87 @@
+{
+  "badges": [],
+  "created_at": "2015-02-27T13:51:42.690000",
+  "deleted": null,
+  "description": "**Description**\n\nIl s'agit du montant des d\u00e9penses et des recettes de fonctionnement inscrit au compte administratif du D\u00e9partement vot\u00e9 par l'Assembl\u00e9e d\u00e9partementale. Ce montant est d\u00e9clin\u00e9 selon l'arborescence des politiques d\u00e9partementales organis\u00e9e en P\u00f4les/Missions/Programmes/Actions.\n\n**Sources** \n\nD\u00e9partement de la Seine-Saint-Denis - Logiciel Financier.\n\n**Fiabilit\u00e9** \n\nFlux automatis\u00e9s avec le SI financier.\n\n**Liste des colonnes**\n\n- D\u00e9partement_Code  : N\u00b0 du d\u00e9partement\n- P\u00f4le  : Le P\u00f4le correspond \u00e0 un grand domaine de politique publique\n- Mission  : La Mission correspond \u00e0 un domaine de politique publique\n- Programme  : Le Programme correspond \u00e0 une politique publique\n- Action  : L'action correspond au service rendu \u00e0 un usager\n- Budget  : Il s'agit du type de budget : le budget principal, le budget annexe d'assainissement et le budget du groupement d'interet public (GIP) de la Maison d\u00e9partementale des personnes handicap\u00e9es (MDPH)\n- Nature  : La nature budg\u00e9taire est la d\u00e9pense\n- Section  : La section budg\u00e9taire est Fonctionnement\n- Cycle Budg\u00e9taire  : L'\u00e9tape du cycle budg\u00e9taire est R\u00e9alis\u00e9\n- Ann\u00e9e : Ann\u00e9e\n- Mesure : Mesure en euros\n\n**Format de diffusion**\n\n    fichiers csv (encodage ANSI)\n\n**Contact**\n\nPour toute question, ou signalement d'une am\u00e9lioration, vous pouvez nous contacter sur <a href=\"mailto:data93@cg93.fr\">data93@cg93.fr</a>\n\n**Liens**\n\n- Consulter la fiche sur le <a href=\"http://data.seine-saint-denis.fr/Finance-Depenses-et-recettes-de-fonctionement-sur-le-realise.html\">portail Open Data de la Seine-Saint-Denis</a>",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": "2015-10-12T00:00:00",
+  "id": "54f0685ec751df3e68882844",
+  "last_modified": "2015-11-03T17:55:16.876000",
+  "last_update": "2015-11-03T17:04:15.169000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5457bc26c751df7378225d2e",
+    "logo": "https://www.data.gouv.fr/s/avatars/2014-11-03/1368537f4075452eb44393ea68b6bfdc/SeineSaintDenis-Logo-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-11-03/1368537f4075452eb44393ea68b6bfdc/SeineSaintDenis-Logo-100.png",
+    "name": "Seine-Saint-Denis - Le D\u00e9partement",
+    "page": "https://www.data.gouv.fr/fr/organizations/seine-saint-denis-le-departement/",
+    "slug": "seine-saint-denis-le-departement",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/seine-saint-denis-le-departement/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/finance-montant-des-depenses-et-recettes-de-fonctionnement-sur-le-realise/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "ddfc0c918e80288014a72f8c78858cf37cf540a7"
+      },
+      "created_at": "2015-11-03T17:55:16.876000",
+      "description": "Budget \u00e0 l'action pour les ann\u00e9es \n2008\n2009\n2010\n2011\n2012\n2013\n2014",
+      "extras": {},
+      "filesize": 286074,
+      "filetype": "file",
+      "format": "csv",
+      "id": "96da8785-42ee-432e-8656-7cfdc68d4d11",
+      "last_modified": "2015-11-03T17:55:16.876000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/96da8785-42ee-432e-8656-7cfdc68d4d11",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 2
+      },
+      "mime": "text/csv",
+      "published": "2015-11-03T17:04:15.169000",
+      "title": "93-Montant_Par_Action_Fonctionement_Realise_-2008_2014.csv",
+      "url": "https://www.data.gouv.fr/s/resources/montant-des-recettes-de-fonctionnement-realise/20151103-170415/93-Budget__Par_Action_Fonctionement_Realise_-2008_2014.csv"
+    }
+  ],
+  "slug": "finance-montant-des-depenses-et-recettes-de-fonctionnement-sur-le-realise",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:departement",
+    "zones": [
+      "fr:departement:93@1968-01-01"
+    ]
+  },
+  "tags": [
+    "budget",
+    "depenses",
+    "finance",
+    "fonctionnement",
+    "investissement",
+    "realise",
+    "recettes"
+  ],
+  "temporal_coverage": {
+    "end": "2013-01-31",
+    "start": "2008-01-01"
+  },
+  "title": "Finance - Montant des d\u00e9penses et recettes de fonctionnement sur le r\u00e9alis\u00e9",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/finance-montant-des-depenses-et-recettes-de-fonctionnement-sur-le-realise/"
+}

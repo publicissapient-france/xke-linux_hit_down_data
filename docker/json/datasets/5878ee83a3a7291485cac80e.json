@@ -1,0 +1,84 @@
+{
+  "badges": [],
+  "created_at": "2013-02-22T00:00:00",
+  "deleted": null,
+  "description": "Le D\u00e9partement de Sa\u00f4ne-et-Loire (71) lib\u00e8re ses donn\u00e9es via le site Opendata71.\nhttp://www.opendata71.fr",
+  "extras": {
+    "ckan:name": "saone-et-loire",
+    "harvest:domain": "www.nosdonnees.fr",
+    "harvest:last_update": "2017-07-10T06:06:06.799412",
+    "harvest:remote_id": "7cfb3c72-fe4a-4602-bf55-312735312a0f",
+    "harvest:source_id": "5878ee1588ee385bffa6f719",
+    "remote_url": "http://www.opendata71.fr/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5878ee83a3a7291485cac80e",
+  "last_modified": "2017-07-10T06:06:06.801000",
+  "last_update": "2017-01-13T16:13:07.489000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff99a3a7292c64a78016",
+    "logo": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-100.png",
+    "name": "NosDonn\u00e9es.fr",
+    "page": "https://www.data.gouv.fr/fr/organizations/nosdonnees-fr/",
+    "slug": "nosdonnees-fr",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nosdonnees-fr/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/saone-et-loire/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:13:07.489000",
+      "description": "Trac\u00e9 des limites du d\u00e9partement de Sa\u00f4ne et Loire (71)",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T03:42:20.437000",
+        "check:status": 200,
+        "check:url": "http://opendata71interactive.cloudapp.net/DataBrowser/DownloadCsv?container=data&entitySet=Limites71&filter=NOFILTER"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "644aaae1-1f84-40ca-b147-614958f6f5a2",
+      "last_modified": "2017-07-10T06:06:06.798000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/644aaae1-1f84-40ca-b147-614958f6f5a2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:13:07.489000",
+      "title": "",
+      "url": "http://opendata71interactive.cloudapp.net/DataBrowser/DownloadCsv?container=data&entitySet=Limites71&filter=NOFILTER"
+    }
+  ],
+  "slug": "saone-et-loire",
+  "spatial": null,
+  "tags": [
+    "departement",
+    "france",
+    "saone-et-loire"
+  ],
+  "temporal_coverage": null,
+  "title": "Sa\u00f4ne-et-Loire",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/saone-et-loire/"
+}

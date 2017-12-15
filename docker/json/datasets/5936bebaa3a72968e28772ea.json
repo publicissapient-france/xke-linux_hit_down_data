@@ -1,0 +1,252 @@
+{
+  "badges": [],
+  "created_at": "2017-06-06T00:00:00",
+  "deleted": null,
+  "description": "Liste des golfs en Aquitaine, issue de la base de donn\u00e9es SIRTAQUI\nCe fichier contient les informations de g\u00e9olocalisation et de contact, les informations sur le type d\u2019\u00e9quipement, les marques et labels, les conditions d\u2019ouverture et de visites, les tarifs, les \u00e9quipements et les services propos\u00e9s.",
+  "extras": {
+    "ckan:name": "liste-des-golfs-en-aquitaine",
+    "contact_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "contact_name": "CRTA",
+    "contact_uri": "https://datacat.datalocale.fr/414593",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
+    "guid": "https://datacat.datalocale.fr/415670",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-09-11T06:13:55.249694",
+    "harvest:remote_id": "4666f5f9-f898-43a3-9f49-1041d15b8dae",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "7f6ad6a2-6483-464e-9d86-4966c2190ebf",
+    "issued": "2015-01-04T20:36:22+00:00",
+    "modified": "2016-07-18T09:21:07.275763+00:00",
+    "publisher_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "publisher_name": "agence SIRTAQUI",
+    "publisher_type": "\"Organisation \u00e0 but non lucratif\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414592",
+    "remote_url": "http://partenaires.tourisme-aquitaine.fr",
+    "theme": "[\"tourisme\"]",
+    "uri": "https://datacat.datalocale.fr/415670"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5936bebaa3a72968e28772ea",
+  "last_modified": "2017-09-11T06:13:55.251000",
+  "last_update": "2017-08-28T06:07:51.209000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-golfs-en-aquitaine/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:39:54.282000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-13T08:10:50.296000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1573192/raw/liste-csv-golfs-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "521b323f-15dd-4e6f-8802-81759560d2b3",
+      "last_modified": "2017-06-06T16:39:54.283000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/521b323f-15dd-4e6f-8802-81759560d2b3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:39:54.282000",
+      "title": "liste-csv-golfs-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1573192/raw/liste-csv-golfs-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:45:54.784000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-13T08:08:00.685000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1599389/raw/liste-csv-golfs-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "40305b3d-01e6-48ba-b3fd-c6aaebab7b03",
+      "last_modified": "2017-07-07T06:08:06.534000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/40305b3d-01e6-48ba-b3fd-c6aaebab7b03",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T18:45:54.784000",
+      "title": "liste-csv-golfs-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1599389/raw/liste-csv-golfs-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:04:44.696000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-13T08:07:30.416000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1636249/raw/liste-csv-golfs-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c642b42a-6e47-4bc8-a29d-7142ea1cb62f",
+      "last_modified": "2017-07-09T07:00:51.185000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c642b42a-6e47-4bc8-a29d-7142ea1cb62f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-08T07:04:44.696000",
+      "title": "liste-csv-golfs-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1636249/raw/liste-csv-golfs-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-10T07:03:35.769000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-13T08:07:57.589000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1649430/raw/liste-csv-golfs-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "45f21fd4-d9b4-49eb-aee2-34cd8978bb33",
+      "last_modified": "2017-08-13T06:07:34.287000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/45f21fd4-d9b4-49eb-aee2-34cd8978bb33",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-10T07:03:35.769000",
+      "title": "liste-csv-golfs-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1649430/raw/liste-csv-golfs-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-14T07:10:49.800000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-01T00:37:13.809000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1706060/raw/liste-csv-golfs-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "d46c875e-936e-4fd9-9a50-a2a4f4d9ebcf",
+      "last_modified": "2017-08-20T06:05:50.217000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d46c875e-936e-4fd9-9a50-a2a4f4d9ebcf",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-14T07:10:49.801000",
+      "title": "liste-csv-golfs-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1706060/raw/liste-csv-golfs-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-21T07:09:24.816000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-13T08:07:34.503000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1732383/raw/liste-csv-golfs-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "833c684e-0564-46dc-9583-56d4fc27298a",
+      "last_modified": "2017-08-27T06:03:52.040000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/833c684e-0564-46dc-9583-56d4fc27298a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-21T07:09:24.817000",
+      "title": "liste-csv-golfs-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1732383/raw/liste-csv-golfs-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-28T06:07:51.209000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c71520aa-5526-4746-9a97-574374822e8b",
+      "last_modified": "2017-09-11T06:13:55.248000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c71520aa-5526-4746-9a97-574374822e8b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-28T06:07:51.209000",
+      "title": "liste-csv-golfs-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1745376/raw/liste-csv-golfs-aquitaine.csv"
+    }
+  ],
+  "slug": "liste-des-golfs-en-aquitaine",
+  "spatial": null,
+  "tags": [
+    "sport"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des golfs en Aquitaine",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-golfs-en-aquitaine/"
+}

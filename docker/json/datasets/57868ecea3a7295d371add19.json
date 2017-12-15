@@ -1,0 +1,147 @@
+{
+  "badges": [],
+  "created_at": "2016-07-13T20:56:14.710000",
+  "deleted": null,
+  "description": "Liste des arr\u00eats par ligne de transport. Cette donn\u00e9e est issue de l'offre (GTFS).",
+  "extras": {
+    "harvest:domain": "opendata.hauts-de-seine.fr",
+    "harvest:last_update": "2017-11-27T05:28:00.757988",
+    "harvest:remote_id": "arrets-par-lignes-de-transport-en-commun-en-ile-de-france",
+    "harvest:source_id": "5731a6d688ee38379cd1b934",
+    "ods:has_records": true,
+    "ods:references": "http://www.vianavigo.com",
+    "ods:url": "https://opendata.hauts-de-seine.fr//explore/dataset/arrets-par-lignes-de-transport-en-commun-en-ile-de-france/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "57868ecea3a7295d371add19",
+  "last_modified": "2017-11-27T05:28:00.765000",
+  "last_update": "2017-11-27T05:28:00.756000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 1,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "544e1b0888ee38289ae1ed05",
+    "logo": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-100.jpg",
+    "name": "Hauts-de-Seine le D\u00e9partement",
+    "page": "https://www.data.gouv.fr/fr/organizations/hauts-de-seine-le-departement/",
+    "slug": "hauts-de-seine-le-departement",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/hauts-de-seine-le-departement/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/arrets-par-lignes-de-transport-en-commun-en-ile-de-france-1/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:28:00.755000",
+      "description": "- *agency_name*: agency_name[text] Libell\u00e9 du r\u00e9seau\n- *route_id*: route_id[text] Identifiant de la ligne (GTFS)\n- *route_short_name*: route_short_name[text] Libell\u00e9 commercial court de la ligne\n- *route_long_name*: route_long_name[text] Libell\u00e9 commercial long de la ligne\n- *route_type*: route_type[int] Type de la ligne :\n0 - Tramway\n1 - M\u00e9tro\n2 - Train\n3 - Bus\n7 - Funiculaire\n- *stop_id*: stop_id[text] Identifiant de l'arr\u00eat physique (GTFS)\n- *stop_name*: stop_name[text] Nom de l'arr\u00eat physique\n- *stop_lat*: stop_lat[double] Latitude de l'arr\u00eat (WGS84)\n- *stop_lon*: stop_lon[double] Longitude de l'arr\u00eat (WGS84)\n- *ZDEr_ID_REF_A*: zder_id_ref_a[int] Identifiant r\u00e9f\u00e9rentiel de la Zone d'embarquement\n- *ID_LINE*: id_line[text] Identifiant de r\u00e9f\u00e9rence de la ligne commerciale\n- *PointGEO*: pointgeo[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2979934f-dc4c-4cf8-9697-429ae197af6a",
+      "last_modified": "2015-12-04T11:24:09",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2979934f-dc4c-4cf8-9697-429ae197af6a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:28:00.755000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/arrets-par-lignes-de-transport-en-commun-en-ile-de-france/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:28:00.755000",
+      "description": "- *agency_name*: agency_name[text] Libell\u00e9 du r\u00e9seau\n- *route_id*: route_id[text] Identifiant de la ligne (GTFS)\n- *route_short_name*: route_short_name[text] Libell\u00e9 commercial court de la ligne\n- *route_long_name*: route_long_name[text] Libell\u00e9 commercial long de la ligne\n- *route_type*: route_type[int] Type de la ligne :\n0 - Tramway\n1 - M\u00e9tro\n2 - Train\n3 - Bus\n7 - Funiculaire\n- *stop_id*: stop_id[text] Identifiant de l'arr\u00eat physique (GTFS)\n- *stop_name*: stop_name[text] Nom de l'arr\u00eat physique\n- *stop_lat*: stop_lat[double] Latitude de l'arr\u00eat (WGS84)\n- *stop_lon*: stop_lon[double] Longitude de l'arr\u00eat (WGS84)\n- *ZDEr_ID_REF_A*: zder_id_ref_a[int] Identifiant r\u00e9f\u00e9rentiel de la Zone d'embarquement\n- *ID_LINE*: id_line[text] Identifiant de r\u00e9f\u00e9rence de la ligne commerciale\n- *PointGEO*: pointgeo[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "7a4a41c4-1af1-4060-aaff-e41d483c8b47",
+      "last_modified": "2015-12-04T11:24:09",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7a4a41c4-1af1-4060-aaff-e41d483c8b47",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:28:00.755000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/arrets-par-lignes-de-transport-en-commun-en-ile-de-france/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:28:00.756000",
+      "description": "- *agency_name*: agency_name[text] Libell\u00e9 du r\u00e9seau\n- *route_id*: route_id[text] Identifiant de la ligne (GTFS)\n- *route_short_name*: route_short_name[text] Libell\u00e9 commercial court de la ligne\n- *route_long_name*: route_long_name[text] Libell\u00e9 commercial long de la ligne\n- *route_type*: route_type[int] Type de la ligne :\n0 - Tramway\n1 - M\u00e9tro\n2 - Train\n3 - Bus\n7 - Funiculaire\n- *stop_id*: stop_id[text] Identifiant de l'arr\u00eat physique (GTFS)\n- *stop_name*: stop_name[text] Nom de l'arr\u00eat physique\n- *stop_lat*: stop_lat[double] Latitude de l'arr\u00eat (WGS84)\n- *stop_lon*: stop_lon[double] Longitude de l'arr\u00eat (WGS84)\n- *ZDEr_ID_REF_A*: zder_id_ref_a[int] Identifiant r\u00e9f\u00e9rentiel de la Zone d'embarquement\n- *ID_LINE*: id_line[text] Identifiant de r\u00e9f\u00e9rence de la ligne commerciale\n- *PointGEO*: pointgeo[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "d7f9ae26-4d7d-4bb6-a073-8d95e1bb3b1e",
+      "last_modified": "2015-12-04T11:24:09",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d7f9ae26-4d7d-4bb6-a073-8d95e1bb3b1e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:28:00.756000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/arrets-par-lignes-de-transport-en-commun-en-ile-de-france/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:28:00.756000",
+      "description": "- *agency_name*: agency_name[text] Libell\u00e9 du r\u00e9seau\n- *route_id*: route_id[text] Identifiant de la ligne (GTFS)\n- *route_short_name*: route_short_name[text] Libell\u00e9 commercial court de la ligne\n- *route_long_name*: route_long_name[text] Libell\u00e9 commercial long de la ligne\n- *route_type*: route_type[int] Type de la ligne :\n0 - Tramway\n1 - M\u00e9tro\n2 - Train\n3 - Bus\n7 - Funiculaire\n- *stop_id*: stop_id[text] Identifiant de l'arr\u00eat physique (GTFS)\n- *stop_name*: stop_name[text] Nom de l'arr\u00eat physique\n- *stop_lat*: stop_lat[double] Latitude de l'arr\u00eat (WGS84)\n- *stop_lon*: stop_lon[double] Longitude de l'arr\u00eat (WGS84)\n- *ZDEr_ID_REF_A*: zder_id_ref_a[int] Identifiant r\u00e9f\u00e9rentiel de la Zone d'embarquement\n- *ID_LINE*: id_line[text] Identifiant de r\u00e9f\u00e9rence de la ligne commerciale\n- *PointGEO*: pointgeo[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "0a2b6cb6-ae22-46f8-97fd-5270bd2f0172",
+      "last_modified": "2015-12-04T11:24:09",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0a2b6cb6-ae22-46f8-97fd-5270bd2f0172",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:28:00.756000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/arrets-par-lignes-de-transport-en-commun-en-ile-de-france/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "arrets-par-lignes-de-transport-en-commun-en-ile-de-france-1",
+  "spatial": null,
+  "tags": [
+    "arrets",
+    "lignes",
+    "transport-mobilite",
+    "transports-en-commun"
+  ],
+  "temporal_coverage": null,
+  "title": "Arr\u00eats par lignes de transport en commun en Ile-de-France",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/arrets-par-lignes-de-transport-en-commun-en-ile-de-france-1/"
+}

@@ -1,0 +1,105 @@
+{
+  "badges": [],
+  "created_at": "2017-03-08T05:00:52.206000",
+  "deleted": null,
+  "description": "D\u00e9penses et recettes (mouvements r\u00e9els)\u00a0en fonctionnement et en investissement selon les postes, ann\u00e9es et les diff\u00e9rents\u00a0budgets de la M\u00e9tropole.\u00a0\n\n* * *\n\nPlus d'informations [**ici**](http://www.lillemetropole.fr/mel/outils/kiosque-publications/les-rapports-de-lille-metropole.html)",
+  "extras": {
+    "harvest:domain": "opendata.lillemetropole.fr",
+    "harvest:last_update": "2017-11-27T05:30:11.888318",
+    "harvest:remote_id": "ca-mel-2013-2015",
+    "harvest:source_id": "58b68fdcc751df10ea84f9cc",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.lillemetropole.fr//explore/dataset/ca-mel-2013-2015/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "58bf81f4a3a7293affefbf6c",
+  "last_modified": "2017-11-27T05:30:11.896000",
+  "last_update": "2017-11-27T05:30:11.887000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "MEL",
+    "class": "Organization",
+    "id": "58b69c62c751df4b175dd7a4",
+    "logo": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-100.png",
+    "name": "M\u00e9tropole Europ\u00e9enne de Lille ",
+    "page": "https://www.data.gouv.fr/fr/organizations/metropole-europeenne-de-lille/",
+    "slug": "metropole-europeenne-de-lille",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/metropole-europeenne-de-lille/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/comptes-administratifs-de-la-mel-entre-2013-et-2015/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:30:11.885000",
+      "description": "- *Chapitre*: empty[text]\n- *POSTE*: poste[text]\n- *DEPENSE 2013*: depense_2013[double]\n- *RECETTE 2013*: recette_2013[double]\n- *DEPENSE 2014*: depense_2014[double]\n- *RECETTE 2014*: recette_2014[double]\n- *DEPENSE 2015*: depense_2015[double]\n- *RECETTE 2015*: recette_2015[double]\n- *TYPE*: type[text]\n- *BUDGET*: budget[text]\n- *DEPENSE OU RECETTE*: depense_ou_recette[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "488a0697-07b9-4825-b3f9-5b99f13abf72",
+      "last_modified": "2017-03-07T08:26:58",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/488a0697-07b9-4825-b3f9-5b99f13abf72",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:30:11.885000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/ca-mel-2013-2015/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:30:11.886000",
+      "description": "- *Chapitre*: empty[text]\n- *POSTE*: poste[text]\n- *DEPENSE 2013*: depense_2013[double]\n- *RECETTE 2013*: recette_2013[double]\n- *DEPENSE 2014*: depense_2014[double]\n- *RECETTE 2014*: recette_2014[double]\n- *DEPENSE 2015*: depense_2015[double]\n- *RECETTE 2015*: recette_2015[double]\n- *TYPE*: type[text]\n- *BUDGET*: budget[text]\n- *DEPENSE OU RECETTE*: depense_ou_recette[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "af044308-4330-4b3d-b59f-85683640cb05",
+      "last_modified": "2017-03-07T08:26:58",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/af044308-4330-4b3d-b59f-85683640cb05",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:30:11.887000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/ca-mel-2013-2015/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "comptes-administratifs-de-la-mel-entre-2013-et-2015",
+  "spatial": null,
+  "tags": [
+    "administration",
+    "citoyennete",
+    "depenses",
+    "finances",
+    "finances-publiques",
+    "gouvernement",
+    "recettes"
+  ],
+  "temporal_coverage": null,
+  "title": "Comptes administratifs de la MEL entre 2013 et 2015",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/comptes-administratifs-de-la-mel-entre-2013-et-2015/"
+}

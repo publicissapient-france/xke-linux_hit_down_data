@@ -1,0 +1,81 @@
+{
+  "badges": [],
+  "created_at": "2016-09-06T11:59:53.463000",
+  "deleted": null,
+  "description": "La Cour des comptes rend public, le 20 juillet 2016, un rapport sur la collecte des pr\u00e9l\u00e8vements vers\u00e9s par les entreprises. Le produit des multiples pr\u00e9l\u00e8vements fiscaux, sociaux et d\u2019autres natures vers\u00e9s par les entreprises s\u2019est \u00e9lev\u00e9 \u00e0 pr\u00e8s de 773 Md\u20ac en 2014, soit 36,1 % du PIB. Les entreprises acquittent ces pr\u00e9l\u00e8vements soit en qualit\u00e9 de contribuables, soit comme collecteurs de premier niveau des imp\u00f4ts ou des pr\u00e9l\u00e8vements sociaux dus par leurs clients (TVA par exemple) ou par leurs salari\u00e9s (cotisations sociales notamment). Ces pr\u00e9l\u00e8vements sont collect\u00e9s par plusieurs administrations fiscales et organismes de s\u00e9curit\u00e9 sociale, mais aussi par de nombreux autres organismes de droit priv\u00e9, pour un co\u00fbt estim\u00e9 \u00e0 5,2 Md\u20ac. La Cour estime que les propositions de simplification qu\u2019elle formule pourraient r\u00e9duire significativement ce co\u00fbt.\n\nCe rapport est accessible sur [le site de la Cour](https://www.ccomptes.fr/fr/publications/simplifier-la-collecte-des-prelevements-verses-par-les-entreprises).\n\nLes fichiers publi\u00e9s correspondent aux donn\u00e9es ayant servi de base \u00e0 l'\u00e9laboration du rapport.",
+  "extras": {},
+  "frequency": "punctual",
+  "frequency_date": "2016-09-06T00:00:00",
+  "id": "57ce9399c751df27c997bae5",
+  "last_modified": "2017-09-05T11:34:44.432000",
+  "last_update": "2016-09-06T00:00:00",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "53698dada3a729239d20331d",
+    "logo": "https://www.data.gouv.fr/s/avatars/ac/83f761a23f4263be8b3401b01625e8-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/ac/83f761a23f4263be8b3401b01625e8-100.png",
+    "name": "Cour des comptes",
+    "page": "https://www.data.gouv.fr/fr/organizations/cour-des-comptes/",
+    "slug": "cour-des-comptes",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/cour-des-comptes/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/simplifier-la-collecte-des-prelevements-verses-par-les-entreprises/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2016-09-06T12:00:34.454000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T20:17:18.568000",
+        "check:status": 200,
+        "check:url": "https://www.ccomptes.fr/sites/default/files/EzPublish/Simplifier-collecte-prelevements-entreprises.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "770594d3-1654-4760-805f-c79f933d5f91",
+      "last_modified": "2017-09-05T11:34:44.432000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/770594d3-1654-4760-805f-c79f933d5f91",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 8
+      },
+      "mime": null,
+      "published": "2016-09-06T00:00:00",
+      "title": "Simplifier la collecte des pr\u00e9l\u00e8vements vers\u00e9s par les entreprises",
+      "url": "https://www.ccomptes.fr/sites/default/files/EzPublish/Simplifier-collecte-prelevements-entreprises.zip"
+    }
+  ],
+  "slug": "simplifier-la-collecte-des-prelevements-verses-par-les-entreprises",
+  "spatial": null,
+  "tags": [
+    "administrations-fiscales",
+    "collecte",
+    "cotisations-sociales",
+    "cour-des-comptes",
+    "entreprises",
+    "prelevements",
+    "tva"
+  ],
+  "temporal_coverage": null,
+  "title": "Simplifier la collecte des pr\u00e9l\u00e8vements vers\u00e9s par les entreprises",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/simplifier-la-collecte-des-prelevements-verses-par-les-entreprises/"
+}

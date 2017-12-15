@@ -1,0 +1,173 @@
+{
+  "badges": [],
+  "created_at": "2016-07-13T20:56:36.379000",
+  "deleted": null,
+  "description": "Identification et localisation de l'offre culturelle sur le territoire.\n\n* * *\n\nCe jeu de donn\u00e9es recense l'ensemble des partenaires agissant dans le domaine culturel aux c\u00f4t\u00e9s du D\u00e9partement : th\u00e9\u00e2tres, cin\u00e9mas, biblioth\u00e8ques, centres culturels, conservatoires, ensembles instrumentaux, chorales, services d'archives communaux. Tous sont situ\u00e9s sur le territoire des Hauts-de-Seine et re\u00e7oivent une aide financi\u00e8re du D\u00e9partement. 17 th\u00e9\u00e2tres ainsi que les structures d'enseignement artistique sont conventionn\u00e9s. Certains cin\u00e9mas et toutes les biblioth\u00e8ques participent \u00e0 la mise en place d'op\u00e9rations d\u00e9partementales : Cin\u00e9 Go\u00fbter, Eteignez vos portables, La Science se livre et Brin de lecture.",
+  "extras": {
+    "harvest:domain": "opendata.hauts-de-seine.fr",
+    "harvest:last_update": "2017-04-06T06:03:34.599092",
+    "harvest:remote_id": "partenaires-culturels",
+    "harvest:source_id": "5731a6d688ee38379cd1b934",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.hauts-de-seine.fr//explore/dataset/partenaires-culturels/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "57868ee4a3a7295d371add28",
+  "last_modified": "2017-04-06T06:03:34.602000",
+  "last_update": "2017-04-06T06:03:34.598000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "544e1b0888ee38289ae1ed05",
+    "logo": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-100.jpg",
+    "name": "Hauts-de-Seine le D\u00e9partement",
+    "page": "https://www.data.gouv.fr/fr/organizations/hauts-de-seine-le-departement/",
+    "slug": "hauts-de-seine-le-departement",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/hauts-de-seine-le-departement/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/partenaires-culturels/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T06:03:34.597000",
+      "description": "- *ID*: id[text] Identifiant du lieu culturel\n- *NOM*: nom[text] Nom du lieu culturel\n- *TYPE*: type[text] Type de lieu culturel\n- *ADRESSE*: adresse[text] Adresse du lieu culturel\n- *CP*: cp[text] Code postal de la commune du lieu culturel\n- *COMMUNE*: commune[text] Nom de la commune du lieu culturel\n- *CODE_INSEE*: code_insee[text] Code INSEE de la commune\n- *geo_shape*: geo_shape[geo_shape] G\u00e9om\u00e9trie de l'entit\u00e9 au format GeoJSON\n- *geo_point_2d*: geo_point_2d[geo_point_2d] Coordonn\u00e9es de l'entit\u00e9 (latitude, longitude en degr\u00e9s d\u00e9cimaux)\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T17:08:38.080000",
+        "check:status": 200,
+        "check:url": "https://opendata.hauts-de-seine.fr//explore/dataset/partenaires-culturels/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c4a66109-dad2-48ac-a1f3-d0ddb71720f6",
+      "last_modified": "2016-02-23T14:08:20",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c4a66109-dad2-48ac-a1f3-d0ddb71720f6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 2
+      },
+      "mime": "text/csv",
+      "published": "2017-04-06T06:03:34.597000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/partenaires-culturels/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T06:03:34.597000",
+      "description": "- *ID*: id[text] Identifiant du lieu culturel\n- *NOM*: nom[text] Nom du lieu culturel\n- *TYPE*: type[text] Type de lieu culturel\n- *ADRESSE*: adresse[text] Adresse du lieu culturel\n- *CP*: cp[text] Code postal de la commune du lieu culturel\n- *COMMUNE*: commune[text] Nom de la commune du lieu culturel\n- *CODE_INSEE*: code_insee[text] Code INSEE de la commune\n- *geo_shape*: geo_shape[geo_shape] G\u00e9om\u00e9trie de l'entit\u00e9 au format GeoJSON\n- *geo_point_2d*: geo_point_2d[geo_point_2d] Coordonn\u00e9es de l'entit\u00e9 (latitude, longitude en degr\u00e9s d\u00e9cimaux)\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T17:08:38.086000",
+        "check:status": 200,
+        "check:url": "https://opendata.hauts-de-seine.fr//explore/dataset/partenaires-culturels/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "a559a911-5324-4ae8-b190-8db329f28062",
+      "last_modified": "2016-02-23T14:08:20",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a559a911-5324-4ae8-b190-8db329f28062",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-04-06T06:03:34.597000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/partenaires-culturels/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T06:03:34.597000",
+      "description": "- *ID*: id[text] Identifiant du lieu culturel\n- *NOM*: nom[text] Nom du lieu culturel\n- *TYPE*: type[text] Type de lieu culturel\n- *ADRESSE*: adresse[text] Adresse du lieu culturel\n- *CP*: cp[text] Code postal de la commune du lieu culturel\n- *COMMUNE*: commune[text] Nom de la commune du lieu culturel\n- *CODE_INSEE*: code_insee[text] Code INSEE de la commune\n- *geo_shape*: geo_shape[geo_shape] G\u00e9om\u00e9trie de l'entit\u00e9 au format GeoJSON\n- *geo_point_2d*: geo_point_2d[geo_point_2d] Coordonn\u00e9es de l'entit\u00e9 (latitude, longitude en degr\u00e9s d\u00e9cimaux)\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T17:08:38.088000",
+        "check:status": 200,
+        "check:url": "https://opendata.hauts-de-seine.fr//explore/dataset/partenaires-culturels/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "d7306cac-64ba-444d-a92f-0801a3aec928",
+      "last_modified": "2016-02-23T14:08:20",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d7306cac-64ba-444d-a92f-0801a3aec928",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-04-06T06:03:34.597000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/partenaires-culturels/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T06:03:34.597000",
+      "description": "- *ID*: id[text] Identifiant du lieu culturel\n- *NOM*: nom[text] Nom du lieu culturel\n- *TYPE*: type[text] Type de lieu culturel\n- *ADRESSE*: adresse[text] Adresse du lieu culturel\n- *CP*: cp[text] Code postal de la commune du lieu culturel\n- *COMMUNE*: commune[text] Nom de la commune du lieu culturel\n- *CODE_INSEE*: code_insee[text] Code INSEE de la commune\n- *geo_shape*: geo_shape[geo_shape] G\u00e9om\u00e9trie de l'entit\u00e9 au format GeoJSON\n- *geo_point_2d*: geo_point_2d[geo_point_2d] Coordonn\u00e9es de l'entit\u00e9 (latitude, longitude en degr\u00e9s d\u00e9cimaux)\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T17:08:38.074000",
+        "check:status": 200,
+        "check:url": "https://opendata.hauts-de-seine.fr//explore/dataset/partenaires-culturels/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "ce6b11e5-2e89-4501-96ea-dda9c9287ed0",
+      "last_modified": "2016-02-23T14:08:20",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ce6b11e5-2e89-4501-96ea-dda9c9287ed0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-04-06T06:03:34.598000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/partenaires-culturels/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "partenaires-culturels",
+  "spatial": null,
+  "tags": [
+    "archives",
+    "bibliotheques",
+    "centres-culturels",
+    "chorales",
+    "cinemas",
+    "conservatoires",
+    "culture",
+    "culture-tourisme",
+    "ensembles-instrumentaux",
+    "mairies",
+    "theatres"
+  ],
+  "temporal_coverage": null,
+  "title": "Partenaires culturels",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/partenaires-culturels/"
+}

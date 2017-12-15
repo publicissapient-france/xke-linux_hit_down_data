@@ -1,0 +1,255 @@
+{
+  "badges": [],
+  "created_at": "2017-06-06T00:00:00",
+  "deleted": null,
+  "description": "Liste des sites (lacs de p\u00eache, pontons handi-p\u00eache) et prestataires d\u2019activit\u00e9s (p\u00eache, p\u00eache en mer) li\u00e9s \u00e0 la p\u00eache en Aquitaine, issue de la base de donn\u00e9es SIRTAQUI.\nCe fichier contient les informations de g\u00e9olocalisation et de contact, les informations sur le type d\u2019\u00e9quipement/d\u2019activit\u00e9, les marques et labels, les conditions d\u2019ouverture et de visites, les tarifs, les \u00e9quipements et les services propos\u00e9s.",
+  "extras": {
+    "ckan:name": "liste-des-lieux-et-prestataires-peche-en-aquitaine",
+    "contact_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "contact_name": "CRTA",
+    "contact_uri": "https://datacat.datalocale.fr/414593",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
+    "guid": "https://datacat.datalocale.fr/415682",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-09-11T06:14:14.942127",
+    "harvest:remote_id": "3575eb44-2ff4-4bad-b049-ae797e516211",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "8226e219-d85e-4f9d-883f-96c9dafc6e06",
+    "issued": "2015-01-01T20:46:50+00:00",
+    "modified": "2016-07-18T09:21:07.267013+00:00",
+    "publisher_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "publisher_name": "agence SIRTAQUI",
+    "publisher_type": "\"Organisation \u00e0 but non lucratif\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414592",
+    "remote_url": "http://partenaires.tourisme-aquitaine.fr",
+    "theme": "[\"tourisme\"]",
+    "uri": "https://datacat.datalocale.fr/415682"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5936bec4a3a72968e18772ae",
+  "last_modified": "2017-09-11T06:14:14.944000",
+  "last_update": "2017-08-28T06:08:04.039000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-lieux-et-prestataires-peche-en-aquitaine/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:40:04.502000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-02T23:02:02.576000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1572995/raw/liste-csv-peche-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "34f78405-f589-4f5e-a401-2b8aa5b86784",
+      "last_modified": "2017-06-06T16:40:04.502000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/34f78405-f589-4f5e-a401-2b8aa5b86784",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:40:04.502000",
+      "title": "liste-csv-peche-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1572995/raw/liste-csv-peche-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:46:02.756000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-02T23:02:00.815000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1599193/raw/liste-csv-peche-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b3ab3b7a-ffb1-489f-aecb-dd2ab8cf161e",
+      "last_modified": "2017-07-07T06:08:14.768000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b3ab3b7a-ffb1-489f-aecb-dd2ab8cf161e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T18:46:02.756000",
+      "title": "liste-csv-peche-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1599193/raw/liste-csv-peche-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:04:53.904000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-31T18:37:42.954000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1636053/raw/liste-csv-peche-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "66f25822-a3ac-4d04-a1f2-515431c9fdc0",
+      "last_modified": "2017-07-09T07:01:01.180000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/66f25822-a3ac-4d04-a1f2-515431c9fdc0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-08T07:04:53.904000",
+      "title": "liste-csv-peche-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1636053/raw/liste-csv-peche-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-10T07:03:57.205000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T03:36:45.755000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1649234/raw/liste-csv-peche-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "01a745fa-8449-48b3-a757-a7522b62af4e",
+      "last_modified": "2017-08-13T06:07:40.886000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/01a745fa-8449-48b3-a757-a7522b62af4e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-10T07:03:57.205000",
+      "title": "liste-csv-peche-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1649234/raw/liste-csv-peche-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-14T07:10:56.650000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-02T23:02:03.863000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1705870/raw/liste-csv-peche-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "590204f5-43bc-44ed-96c8-ab8f2c902d02",
+      "last_modified": "2017-08-20T06:06:00.520000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/590204f5-43bc-44ed-96c8-ab8f2c902d02",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-14T07:10:56.657000",
+      "title": "liste-csv-peche-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1705870/raw/liste-csv-peche-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-21T07:09:36.766000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-02T23:02:05.180000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1732193/raw/liste-csv-peche-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "334750fd-f802-476b-b19f-14fb7ebecaeb",
+      "last_modified": "2017-08-27T06:04:03.627000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/334750fd-f802-476b-b19f-14fb7ebecaeb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-21T07:09:36.766000",
+      "title": "liste-csv-peche-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1732193/raw/liste-csv-peche-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-28T06:08:04.039000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "4f11b414-46b8-4451-8401-8a1fb5247847",
+      "last_modified": "2017-09-11T06:14:14.940000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4f11b414-46b8-4451-8401-8a1fb5247847",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-28T06:08:04.039000",
+      "title": "liste-csv-peche-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1745192/raw/liste-csv-peche-aquitaine.csv"
+    }
+  ],
+  "slug": "liste-des-lieux-et-prestataires-peche-en-aquitaine",
+  "spatial": null,
+  "tags": [
+    "loisirs",
+    "peche",
+    "sport",
+    "tourisme"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des lieux et prestataires p\u00eache en Aquitaine",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-lieux-et-prestataires-peche-en-aquitaine/"
+}

@@ -1,0 +1,101 @@
+{
+  "badges": [],
+  "created_at": "2016-10-21T19:58:32.403000",
+  "deleted": null,
+  "description": "Indicateurs financiers relatifs \u00e0 la gestion des d\u00e9chets de Rennes M\u00e9tropole depuis 2002. Les \u00e9l\u00e9ments financiers sont extraits du compte administratif du budget annexe \"\u00c9limination et valorisation des d\u00e9chets\".",
+  "extras": {
+    "harvest:domain": "data.rennesmetropole.fr",
+    "harvest:last_update": "2017-11-27T04:00:58.845130",
+    "harvest:remote_id": "indicateurs-financiers-du-service-de-valorisation-des-dechets-de-rennes-metropol",
+    "harvest:source_id": "580736ec88ee3816625ff490",
+    "ods:has_records": true,
+    "ods:url": "https://data.rennesmetropole.fr/explore/dataset/indicateurs-financiers-du-service-de-valorisation-des-dechets-de-rennes-metropol/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "580a5748a3a7292dcfa9d1d8",
+  "last_modified": "2017-11-27T04:00:58.846000",
+  "last_update": "2017-11-27T04:00:58.844000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "RM",
+    "class": "Organization",
+    "id": "580735be88ee3814295ff490",
+    "logo": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-100.png",
+    "name": "Rennes M\u00e9tropole en acc\u00e8s libre",
+    "page": "https://www.data.gouv.fr/fr/organizations/rennes-metropole-en-acces-libre-1/",
+    "slug": "rennes-metropole-en-acces-libre-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/rennes-metropole-en-acces-libre-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/indicateurs-financiers-relatifs-a-la-gestion-des-dechets/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:00:58.844000",
+      "description": "- *Ann\u00e9e*: annee[int]\n- *Population*: population[int]\n- *D\u00e9penses r\u00e9elles de fonctionnement *: depenses_reelles_de_fonctionnement_en_meu[double] (en M\u20ac)\n- *Collecte OM*: collecte_om[int]\n- *Collecte s\u00e9lective + Tri*: collecte_selective_tri[int]\n- *Collectes OM et s\u00e9lective*: collectes_om_et_selective[int]\n- *Tri*: tri[int]\n- *Incin\u00e9ration et stockage*: incineration_et_stockage[int]\n- *D\u00e9ch\u00e8teries*: decheteries[int]\n- *Pr\u00e9vention - Communication*: prevention_communication[int]\n- *Personnel*: personnel[int]\n- *Fonctionnement*: fonctionnement[int]\n- *Charges exceptionnelles*: charges_exceptionnelles[text]\n- *Frais financiers*: frais_financiers[int]\n- *Recettes de fonctionnement (en M\u20ac)*: recettes_de_fonctionnement_en_meu[double]\n- *Att\u00e9nuation charges*: attenuation_charges[int]\n- *TEOM*: teom[int]\n- *Redevances*: redevances[int]\n- *Produits service*: produits_service[int]\n- *Subventions*: subventions[int]\n- *Produits divers et exceptionnels*: produits_divers_et_exceptionnels[int]\n- *Frais de personnel*: frais_de_personnel[int]\n- *Capital restant d\u00fb*: capital_restant_du[int]\n- *TEOM (en M\u20ac)*: teom_en_meu[double]\n- *D\u00e9penses r\u00e9elles d'investissement (en M\u20ac)*: depenses_reelles_d_investissement_en_meu[text]\n- *Exc\u00e9dent d'investissement report\u00e9 (en M\u20ac)*: excedent_d_investissement_reporte_en_meu[text]\n- *FCTVA*: fctva[int]\n- *Subventions*: subventions0[int]\n- *Redevance sp\u00e9ciale \"apports en d\u00e9ch\u00e8teries\" : tarifs au m3 (+ date du vote des tarifs)*: redevance_speciale_apports_en_decheteries_tarifs_au_m3_date_du_vote_des_tarifs[text]\n- *Bois*: bois[text]\n- *Carton*: carton[text]\n- *D\u00e9chets verts de particuliers collect\u00e9s par les services communaux*: dechets_verts_de_particuliers_collectes_par_les_services_communaux[text]\n- *D\u00e9chets verts en caissons*: dechets_verts_en_caissons[text]\n- *D\u00e9chets verts sur plateforme*: dechets_verts_sur_plateforme[text]\n- *D\u00e9p\u00f4ts sauvages apport\u00e9s par les services communaux*: depots_sauvages_apportes_par_les_services_communaux[text]\n- *Encombrants*: encombrants[text]\n- *Ferraille*: ferraille[text]\n- *Incin\u00e9rables*: incinerables[text]\n- *Gravats*: gravats[text]\n- *Pl\u00e2tre*: platre[text]\n- *Carte d'acc\u00e8s au-del\u00e0 de 5 (l'unit\u00e9)*: carte_d_acces_au_dela_de_5_l_unite[text]\n- *Redevance sp\u00e9ciale \"apports en d\u00e9ch\u00e8teries\" : somme factur\u00e9e (en K\u20ac)*: redevance_speciale_apports_en_decheteries_somme_facturee_en_keu[text]\n- *Redevance sp\u00e9ciale \"apports en d\u00e9ch\u00e8teries\" : nombre de d\u00e9p\u00f4ts enregistr\u00e9s*: redevance_speciale_apports_en_decheteries_nombre_de_depots_enregistres[text]\n- *Redevance sp\u00e9ciale \"collecte et traitement\" : tarifs au m3 (+ date du vote des tarifs)*: redevance_speciale_collecte_et_traitement_tarifs_au_m3_date_du_vote_des_tarifs[text]\n- *Location annuelle bacs OM*: location_annuelle_bacs_om[text]\n- *Location annuelle bacs verre*: location_annuelle_bacs_verre[text]\n- *Location annuelle bacs AV OM *: location_annuelle_bacs_av_om[double]\n- *Tarif collecte et traitement OM*: tarif_collecte_et_traitement_om[text]\n- *Tarif collecte et traitement verre*: tarif_collecte_et_traitement_verre[text]\n- *Tarif collecte et traitement AV OM*: tarif_collecte_et_traitement_av_om[text]\n- *Somme factur\u00e9e aux producteurs priv\u00e9s (en K\u20ac)*: somme_facturee_aux_producteurs_prives_en_keu[text]\n- *Somme factur\u00e9e aux services communaux (en K\u20ac)*: somme_facturee_aux_services_communaux_en_keu[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "199c0d4d-d029-42b0-8586-277b0cc99ff6",
+      "last_modified": "2017-06-12T13:47:01",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/199c0d4d-d029-42b0-8586-277b0cc99ff6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T04:00:58.844000",
+      "title": "Export au format CSV",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/indicateurs-financiers-du-service-de-valorisation-des-dechets-de-rennes-metropol/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:00:58.844000",
+      "description": "- *Ann\u00e9e*: annee[int]\n- *Population*: population[int]\n- *D\u00e9penses r\u00e9elles de fonctionnement *: depenses_reelles_de_fonctionnement_en_meu[double] (en M\u20ac)\n- *Collecte OM*: collecte_om[int]\n- *Collecte s\u00e9lective + Tri*: collecte_selective_tri[int]\n- *Collectes OM et s\u00e9lective*: collectes_om_et_selective[int]\n- *Tri*: tri[int]\n- *Incin\u00e9ration et stockage*: incineration_et_stockage[int]\n- *D\u00e9ch\u00e8teries*: decheteries[int]\n- *Pr\u00e9vention - Communication*: prevention_communication[int]\n- *Personnel*: personnel[int]\n- *Fonctionnement*: fonctionnement[int]\n- *Charges exceptionnelles*: charges_exceptionnelles[text]\n- *Frais financiers*: frais_financiers[int]\n- *Recettes de fonctionnement (en M\u20ac)*: recettes_de_fonctionnement_en_meu[double]\n- *Att\u00e9nuation charges*: attenuation_charges[int]\n- *TEOM*: teom[int]\n- *Redevances*: redevances[int]\n- *Produits service*: produits_service[int]\n- *Subventions*: subventions[int]\n- *Produits divers et exceptionnels*: produits_divers_et_exceptionnels[int]\n- *Frais de personnel*: frais_de_personnel[int]\n- *Capital restant d\u00fb*: capital_restant_du[int]\n- *TEOM (en M\u20ac)*: teom_en_meu[double]\n- *D\u00e9penses r\u00e9elles d'investissement (en M\u20ac)*: depenses_reelles_d_investissement_en_meu[text]\n- *Exc\u00e9dent d'investissement report\u00e9 (en M\u20ac)*: excedent_d_investissement_reporte_en_meu[text]\n- *FCTVA*: fctva[int]\n- *Subventions*: subventions0[int]\n- *Redevance sp\u00e9ciale \"apports en d\u00e9ch\u00e8teries\" : tarifs au m3 (+ date du vote des tarifs)*: redevance_speciale_apports_en_decheteries_tarifs_au_m3_date_du_vote_des_tarifs[text]\n- *Bois*: bois[text]\n- *Carton*: carton[text]\n- *D\u00e9chets verts de particuliers collect\u00e9s par les services communaux*: dechets_verts_de_particuliers_collectes_par_les_services_communaux[text]\n- *D\u00e9chets verts en caissons*: dechets_verts_en_caissons[text]\n- *D\u00e9chets verts sur plateforme*: dechets_verts_sur_plateforme[text]\n- *D\u00e9p\u00f4ts sauvages apport\u00e9s par les services communaux*: depots_sauvages_apportes_par_les_services_communaux[text]\n- *Encombrants*: encombrants[text]\n- *Ferraille*: ferraille[text]\n- *Incin\u00e9rables*: incinerables[text]\n- *Gravats*: gravats[text]\n- *Pl\u00e2tre*: platre[text]\n- *Carte d'acc\u00e8s au-del\u00e0 de 5 (l'unit\u00e9)*: carte_d_acces_au_dela_de_5_l_unite[text]\n- *Redevance sp\u00e9ciale \"apports en d\u00e9ch\u00e8teries\" : somme factur\u00e9e (en K\u20ac)*: redevance_speciale_apports_en_decheteries_somme_facturee_en_keu[text]\n- *Redevance sp\u00e9ciale \"apports en d\u00e9ch\u00e8teries\" : nombre de d\u00e9p\u00f4ts enregistr\u00e9s*: redevance_speciale_apports_en_decheteries_nombre_de_depots_enregistres[text]\n- *Redevance sp\u00e9ciale \"collecte et traitement\" : tarifs au m3 (+ date du vote des tarifs)*: redevance_speciale_collecte_et_traitement_tarifs_au_m3_date_du_vote_des_tarifs[text]\n- *Location annuelle bacs OM*: location_annuelle_bacs_om[text]\n- *Location annuelle bacs verre*: location_annuelle_bacs_verre[text]\n- *Location annuelle bacs AV OM *: location_annuelle_bacs_av_om[double]\n- *Tarif collecte et traitement OM*: tarif_collecte_et_traitement_om[text]\n- *Tarif collecte et traitement verre*: tarif_collecte_et_traitement_verre[text]\n- *Tarif collecte et traitement AV OM*: tarif_collecte_et_traitement_av_om[text]\n- *Somme factur\u00e9e aux producteurs priv\u00e9s (en K\u20ac)*: somme_facturee_aux_producteurs_prives_en_keu[text]\n- *Somme factur\u00e9e aux services communaux (en K\u20ac)*: somme_facturee_aux_services_communaux_en_keu[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "e448ce53-946e-4624-aab1-b6545eb67ab3",
+      "last_modified": "2017-06-12T13:47:01",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e448ce53-946e-4624-aab1-b6545eb67ab3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T04:00:58.844000",
+      "title": "Export au format JSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/indicateurs-financiers-du-service-de-valorisation-des-dechets-de-rennes-metropol/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "indicateurs-financiers-relatifs-a-la-gestion-des-dechets",
+  "spatial": null,
+  "tags": [
+    "compte-administratif",
+    "dechets",
+    "economie"
+  ],
+  "temporal_coverage": null,
+  "title": "Indicateurs financiers relatifs \u00e0 la gestion des d\u00e9chets",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/indicateurs-financiers-relatifs-a-la-gestion-des-dechets/"
+}

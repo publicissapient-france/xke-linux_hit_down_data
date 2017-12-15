@@ -1,0 +1,81 @@
+{
+  "badges": [],
+  "created_at": "2015-07-06T16:17:18.383000",
+  "deleted": null,
+  "description": "R\u00e9f\u00e9rentiel des principales clauses utilis\u00e9es dans les CGU avec proposition de variantes\r\n\r\nJ\u2019avais r\u00e9alis\u00e9 en 2012 un premier r\u00e9f\u00e9rentiel des clauses ''donn\u00e9es personnelles'' des CGU dans le cadre d'un travail de recherche pour un client.\r\nCe travail d\u2019analyse des clauses DP des CGU des principaux services num\u00e9riques disponibles sur Internet m\u2019avait permis d\u2019\u00e9tablir un r\u00e9f\u00e9rentiel des 13 clauses les plus r\u00e9guli\u00e8rement envisag\u00e9es. J\u2019ai \u00e9galement \u00e9t\u00e9 en mesure de proposer une classification des strat\u00e9gies de privacy des fournisseurs de services sur 3 niveaux de variantes de clauses, de la plus respectueuse des droits de l'utilisateur \u00e0 la plus permissive en terme d\u2019autorisations conc\u00e9d\u00e9es \u00e0 l'operateur.\r\n\r\nDans le cadre d'un Legal Hackathon Open Law men\u00e9 sur mars et avril 2015, afin de confronter ce r\u00e9f\u00e9rentiel \u00e0 davantage de CGU, de le mettre \u00e0 jour des \u00e9volutions des CGU pr\u00e9-analys\u00e9es et d\u2019\u00e9valuer les privacy terms/ strat\u00e9gie data des principaux services num\u00e9riques utilis\u00e9s en 2015, j\u2019ai demand\u00e9 \u00e0 mes \u00e9tudiants du DIU Informatique et Droit et du Master 2 Droit du Num\u00e9rique de l'Ecole de droti de la Sorbonne de s\u00e9lectionner des CGU et de les cat\u00e9goriser dans le r\u00e9f\u00e9rentiel des clauses data.voici le r\u00e9sultat ''brut'' de ce travail de collecte et de cat\u00e9gorisation:\r\n\r\n\r\n-Principaux services num\u00e9riques utilis\u00e9s par les \u00e9tudiants: https://github.com/M2DroitNumerique/audit_CGU\r\n\r\n-Services num\u00e9riques aux juristes ( DIU informatique et droit): https://github.com/DIUIDEI/DIU-Droit-et-Informatique\r\n\r\nApr\u00e8s analyse des donn\u00e9es collect\u00e9es et sur la base de certaines propositions des \u00e9tudiants, j'ai proc\u00e9d\u00e9 \u00e0 une \u00e9volution du projet de r\u00e9f\u00e9rentiel. Puis j'ai r\u00e9alis\u00e9 un alignement du r\u00e9f\u00e9rentiel avec celui d\u00e9velopp\u00e9 par Hugo Roy et la communaut\u00e9 TOS;DR sur les CGU am\u00e9ricaines: https://tosdr.org/topics.html#topics\r\n\r\nCet alignement m'a permis \u00e0 nouveau d'enrichir le r\u00e9f\u00e9rentiel et d'affiner les variables propos\u00e9es. C'est donc le r\u00e9sultat de ce travail collectif que je partage ici pour enrichissement collaboratif, et si possible, contribuer au projet https://tosdr.org/, aux travaux de la fondation Mozilla sur les Privacy Icons https://wiki.mozilla.org/Privacy_Icons et au projet Customer Commons http://customercommons.org/2014/10/27/customer-commons-and-user-submitted-terms/\r\n\r\n\r\nDans le cadre de mes travaux de recherche, ce livrable est une premi\u00e8re \u00e9tape au d\u00e9veloppement d'un r\u00e9f\u00e9rentiel de CGR Design your privacy, qui constitue l'une des r\u00e9ponses au d\u00e9fi juridique soulev\u00e9 par http://mesinfos.fing.org/ et le d\u00e9veloppment d'un \u00e9cosyst\u00e8me de Self Data.",
+  "extras": {},
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "559a8deec751df2ee3390bd3",
+  "last_modified": "2015-10-20T23:34:16.038000",
+  "last_update": "2015-07-06T16:22:13.598000",
+  "license": "cc-by-sa",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 3
+  },
+  "organization": null,
+  "owner": {
+    "avatar": "https://www.data.gouv.fr/s/avatars/f2/cfc4f625544b49be4e552353fff8b4-original.jpg",
+    "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/f2/cfc4f625544b49be4e552353fff8b4-100.jpg",
+    "class": "User",
+    "first_name": "Thomas",
+    "id": "534fff4aa3a7292c64a77bf7",
+    "last_name": "Saint-Aubin ",
+    "page": "https://www.data.gouv.fr/fr/users/thomas-saint-aubin/",
+    "slug": "thomas-saint-aubin",
+    "uri": "https://www.data.gouv.fr/api/1/users/thomas-saint-aubin/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/referentiel-cgu-1/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2015-07-06T16:22:13.598000",
+      "description": "R\u00e9f\u00e9rentiel des 20 clauses donn\u00e9es personnelles les plus typiques dans les CGU des principaux services num\u00e9riques utilis\u00e9s en avril 2015 et d\u00e9finition d'une cat\u00e9gorisation des clauses de la plus permissive et la plus respectueuse de la vie priv\u00e9e, par type de clauses. \r\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T12:36:10.991000",
+        "check:status": 200,
+        "check:url": "https://github.com/tsaintaubin/referentiel_cgu"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b6302472-3037-4799-bd93-6acb41aa1f9b",
+      "last_modified": "2015-07-06T16:22:13.598000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b6302472-3037-4799-bd93-6acb41aa1f9b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 2
+      },
+      "mime": "text/html; charset=utf-8",
+      "published": "2015-07-06T16:22:13.598000",
+      "title": "R\u00e9f\u00e9rentiel CGU",
+      "url": "https://github.com/tsaintaubin/referentiel_cgu"
+    }
+  ],
+  "slug": "referentiel-cgu-1",
+  "spatial": {
+    "geom": null,
+    "granularity": "other",
+    "zones": []
+  },
+  "tags": [
+    "cgr",
+    "cgu",
+    "legal-data",
+    "open-law"
+  ],
+  "temporal_coverage": null,
+  "title": "R\u00e9f\u00e9rentiel CGU",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/referentiel-cgu-1/"
+}

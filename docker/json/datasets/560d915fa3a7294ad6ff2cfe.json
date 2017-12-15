@@ -1,0 +1,114 @@
+{
+  "badges": [],
+  "created_at": "2016-06-22T00:00:00",
+  "deleted": null,
+  "description": "D\u00e9nombrement par Caf, des foyers allocataires ayant un droit versable au compl\u00e9ment de libre choix d'activit\u00e9 de la Paje (CLCA). Ce compl\u00e9ment est attribu\u00e9 aux parents choisissant d\u2019interrompre ou de r\u00e9duire leur activit\u00e9 professionnelle, pour s\u2019occuper d\u2019un enfant \u00e2g\u00e9 de moins de 3 ans. Le compl\u00e9ment de libre choix d\u2019activit\u00e9 peut \u00eatre per\u00e7u \u00e0 taux r\u00e9duit ou \u00e0 taux plein suivant que le parent choisit de travailler \u00e0 temps partiel ou d\u2019arr\u00eater totalement son activit\u00e9.  \n\nDes \u00e9l\u00e9ments plus d\u00e9taill\u00e9s sur le CLCA sont disponibles sur le site caf.fr, en cliquant sur le lien suivant :\n\nhttps://www.caf.fr/aides-et-services/s-informer-sur-les-aides/petite-enfance \n\nLe foyer allocataire est compos\u00e9 du responsable du dossier (personne qui per\u00e7oit au moins une prestation au regard de sa situation familiale et/ou mon\u00e9taire), et l'ensemble des autres ayants droit au sens de la r\u00e8glementation en vigueur (conjoint, enfant(s) et autre(s) personne(s) \u00e0 charge).\nPlusieurs foyers allocataires peuvent cohabiter dans un m\u00eame lieu, ils constituent alors un seul m\u00e9nage au sens de la d\u00e9finition statistique Insee. C\u2019est le cas, par exemple, lorsque un couple per\u00e7oit des allocations logement et h\u00e9berge son enfant titulaire d'un minimum social des Caf (RSO, RSA, AAH).\nEn pratique, le terme \"allocataire\" est souvent utilis\u00e9 \u00e0 la place de \"foyer allocataire\".\n\n\nLe droit versable signifie que le foyer allocataire remplit toutes les conditions pour \u00eatre effectivement pay\u00e9 au titre du mois d\u2019observation. En particulier ne sont pas inclus dans ce p\u00e9rim\u00e8tre les b\u00e9n\u00e9ficiaires qui n\u2019ont pas fourni l\u2019int\u00e9gralit\u00e9 de leurs pi\u00e8ces justificatives, ou ceux dont le montant de la prestation est inf\u00e9rieur au seuil de versement\n\nLe champ g\u00e9ographique d\u2019observation du jeu de donn\u00e9es correspond \u00e0 la Caf de gestion auquel est rattach\u00e9e le foyer allocataire dans le fichier statistique des allocataires, au moment de l\u2019extraction (environ 6 semaines apr\u00e8s la fin du mois observ\u00e9).\n\nDes donn\u00e9es de synth\u00e8se et d'analyse ainsi que des descriptions statistiques et cartographiques sur le CLCA et le COLCA sont disponibles dans le cahier des donn\u00e9es des donn\u00e9es sociales de la Cnaf (page 18) en cliquant sur le lien suivant :\n\nhttp://www.caf.fr/sites/default/files/cnaf/Documents/Dser/cahier_donnees_sociales/CDS_2011.pdf#page=9",
+  "extras": {
+    "ckan:name": "foyers-allocataires-percevant-le-complement-de-libre-choix-d-activite-de-la-paje",
+    "harvest:domain": "data.caf.fr",
+    "harvest:last_update": "2017-11-27T05:08:31.158878",
+    "harvest:remote_id": "8eeb3067-e562-46f0-a72c-b43c5a369d3b",
+    "harvest:source_id": "560d9133c751df40ee756894",
+    "harvested": "2017-10-02T09:49:35.579697",
+    "remote_url": "Fichiers BENETRIM et FILEAS",
+    "source_id": "954ea88a-1b59-4a56-acae-2148a64dbe5e"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "560d915fa3a7294ad6ff2cfe",
+  "last_modified": "2017-11-27T05:08:31.160000",
+  "last_update": "2015-10-01T22:02:39.050000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "CNAF",
+    "class": "Organization",
+    "id": "5595066cc751df4582a453ba",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-07-02/a1bc08e4a4dc44a89cb29697800a83b5/new_logo-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-07-02/a1bc08e4a4dc44a89cb29697800a83b5/new_logo-100.jpg",
+    "name": "Caisse Nationale des Allocations familiales ",
+    "page": "https://www.data.gouv.fr/fr/organizations/allocations-familiales/",
+    "slug": "allocations-familiales",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/allocations-familiales/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/complement-de-libre-choix-dactivite-de-la-paje-clca-et-colca-par-caf/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:39.049000",
+      "description": "Veuillez consulter le descriptif pour une meilleure lecture",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-17T19:55:51.889000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/8eeb3067-e562-46f0-a72c-b43c5a369d3b/resource/1201ce54-d804-4752-87fe-f5184e548e49/download/PAJEActiviteCafdepuis2004.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "1201ce54-d804-4752-87fe-f5184e548e49",
+      "last_modified": "2017-06-28T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1201ce54-d804-4752-87fe-f5184e548e49",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:39.049000",
+      "title": "PAJE Activit\u00e9 - par Caf",
+      "url": "http://data.caf.fr/dataset/8eeb3067-e562-46f0-a72c-b43c5a369d3b/resource/1201ce54-d804-4752-87fe-f5184e548e49/download/PAJEActiviteCafdepuis2004.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:39.049000",
+      "description": "Lisez-moi",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-16T00:11:08.923000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/8eeb3067-e562-46f0-a72c-b43c5a369d3b/resource/e6b294c2-8054-42c6-b69f-46c9b8887e0b/download/Descriptif-du-fichier-PAJE-Activite---par-Caf.txt"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "txt",
+      "id": "e6b294c2-8054-42c6-b69f-46c9b8887e0b",
+      "last_modified": "2017-03-29T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e6b294c2-8054-42c6-b69f-46c9b8887e0b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:39.050000",
+      "title": "Descriptif du fichier PAJE Activit\u00e9 - par Caf",
+      "url": "http://data.caf.fr/dataset/8eeb3067-e562-46f0-a72c-b43c5a369d3b/resource/e6b294c2-8054-42c6-b69f-46c9b8887e0b/download/Descriptif-du-fichier-PAJE-Activite---par-Caf.txt"
+    }
+  ],
+  "slug": "complement-de-libre-choix-dactivite-de-la-paje-clca-et-colca-par-caf",
+  "spatial": null,
+  "tags": [
+    "caf",
+    "clca",
+    "colca",
+    "sp004"
+  ],
+  "temporal_coverage": null,
+  "title": "Compl\u00e9ment de libre choix d'activit\u00e9 de la Paje (CLCA et COLCA) - par Caf",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/complement-de-libre-choix-dactivite-de-la-paje-clca-et-colca-par-caf/"
+}

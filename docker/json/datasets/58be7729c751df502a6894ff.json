@@ -1,0 +1,75 @@
+{
+  "badges": [],
+  "created_at": "2017-03-07T10:02:33.426000",
+  "deleted": null,
+  "description": "Brone de recharge de v\u00e9hicule \u00e9lectrique du Se61 \u2013 Syndicat de l'Energie de l'Orne",
+  "extras": {},
+  "frequency": "quarterly",
+  "frequency_date": "2017-06-07T10:02:28",
+  "id": "58be7729c751df502a6894ff",
+  "last_modified": "2017-03-07T12:23:13.559000",
+  "last_update": "2017-03-07T10:02:41.365000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 1,
+    "followers": 1,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": null,
+  "owner": {
+    "avatar": null,
+    "avatar_thumbnail": null,
+    "class": "User",
+    "first_name": "L\u00e9onard",
+    "id": "58220b3fc751df0236c0bb7e",
+    "last_name": "du Mas de Paysac",
+    "page": "https://www.data.gouv.fr/fr/users/leonard-du-mas-de-paysac/",
+    "slug": "leonard-du-mas-de-paysac",
+    "uri": "https://www.data.gouv.fr/api/1/users/leonard-du-mas-de-paysac/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/irve-se61-20170306/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "35499629e331285bb0c29ab15dac070f62462b0f"
+      },
+      "created_at": "2017-03-07T10:02:41.364000",
+      "description": "",
+      "extras": {},
+      "filesize": 22448,
+      "filetype": "file",
+      "format": "csv",
+      "id": "0ea3d6d8-04e6-42d7-a2a3-48dd35ba4a9e",
+      "last_modified": "2017-03-07T10:02:43.713000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0ea3d6d8-04e6-42d7-a2a3-48dd35ba4a9e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-03-07T10:02:41.365000",
+      "title": "IRVE_Se61_20170306.csv",
+      "url": "https://www.data.gouv.fr/s/resources/irve-se61-20170306/20170307-100241/IRVE_Se61_20170306.csv"
+    }
+  ],
+  "slug": "irve-se61-20170306",
+  "spatial": null,
+  "tags": [
+    "bornes-de-recharge",
+    "bornes-de-recharge-electrique",
+    "irve"
+  ],
+  "temporal_coverage": null,
+  "title": "IRVE_Se61_20170306",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/irve-se61-20170306/"
+}

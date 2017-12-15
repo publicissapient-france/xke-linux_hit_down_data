@@ -1,0 +1,436 @@
+{
+  "badges": [],
+  "created_at": "2014-06-18T00:00:00",
+  "deleted": null,
+  "description": "Vous trouverez ici le nombre de tags et d'affichages sauvages nettoy\u00e9s par mois et par an sur le territoire communal \u00e0 partir de 2011.",
+  "extras": {
+    "ckan:name": "nombre-de-tags-et-affiches-nettoyes-par-mois-et-par-an-a-nice-depuis-2011",
+    "harvest:domain": "opendata.nicecotedazur.org",
+    "harvest:last_update": "2017-09-05T15:33:35.774592",
+    "harvest:remote_id": "75f0c5b4-a57b-4870-b07d-8e2cf184c061",
+    "harvest:source_id": "59aea691c751df40c6e8212c",
+    "sous-th\u00e8me": "Propret\u00e9 urbaine"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59aea7afa3a72917daf3fc70",
+  "last_modified": "2017-09-05T15:33:35.775000",
+  "last_update": "2017-09-05T15:33:35.773000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "59aea226c751df38f3f6834b",
+    "logo": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-100.png",
+    "name": "Nice C\u00f4te d'Azur",
+    "page": "https://www.data.gouv.fr/fr/organizations/nice-cote-dazur/",
+    "slug": "nice-cote-dazur",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nice-cote-dazur/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/nombre-de-tags-et-affiches-nettoyes-par-mois-et-par-an-a-nice-depuis-2011/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:35.768000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-03T03:16:53.752000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2015-01-05T07%3A56%3A23.994Z/rapport-annuel-tags-affiches-2014.xls"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xls",
+      "id": "d5c9ee9a-67cc-492b-ae64-75d38a597aad",
+      "last_modified": "2015-01-05T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d5c9ee9a-67cc-492b-ae64-75d38a597aad",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.ms-excel",
+      "published": "2017-09-05T15:33:35.768000",
+      "title": "rapport_annuel_tags_affiches_2014.xls",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2015-01-05T07%3A56%3A23.994Z/rapport-annuel-tags-affiches-2014.xls"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:35.769000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T17:58:03.084000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2015-01-05T10%3A59%3A59.471Z/rapport-annuel-tags-affiches-2014.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "4d0162fb-f09e-47ea-821c-ed2625d80394",
+      "last_modified": "2015-01-05T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4d0162fb-f09e-47ea-821c-ed2625d80394",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.oasis.opendocument.spreadsheet",
+      "published": "2017-09-05T15:33:35.769000",
+      "title": "rapport_annuel_tags_affiches_2014.ods",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2015-01-05T10%3A59%3A59.471Z/rapport-annuel-tags-affiches-2014.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:35.769000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-03T03:16:53.752000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2015-01-05T11%3A00%3A46.368Z/rapport-annuel-tags-affiches-2014.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "8d089ae8-b187-4050-8a10-3c493b416027",
+      "last_modified": "2015-01-05T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8d089ae8-b187-4050-8a10-3c493b416027",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-05T15:33:35.769000",
+      "title": "rapport_annuel_tags_affiches_2014.csv",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2015-01-05T11%3A00%3A46.368Z/rapport-annuel-tags-affiches-2014.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:35.769000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T17:57:58.993000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-06-18T08%3A27%3A41.462Z/rapport-annuel-tags-2013.xls"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xls",
+      "id": "dab9d94b-282c-421f-b44f-57c1e07eaab4",
+      "last_modified": "2014-06-23T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/dab9d94b-282c-421f-b44f-57c1e07eaab4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.ms-excel",
+      "published": "2017-09-05T15:33:35.769000",
+      "title": "rapport annuel_tags_2013.xls",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-06-18T08%3A27%3A41.462Z/rapport-annuel-tags-2013.xls"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:35.770000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-03T03:16:55.292000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-06-18T12%3A13%3A42.208Z/rapport-annuel-tags-2013.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "d4dfd2a3-fe47-4437-a2d8-1a6ca3e4786d",
+      "last_modified": "2014-06-23T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d4dfd2a3-fe47-4437-a2d8-1a6ca3e4786d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.oasis.opendocument.spreadsheet",
+      "published": "2017-09-05T15:33:35.770000",
+      "title": "rapport-annuel-tags-2013.ods",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-06-18T12%3A13%3A42.208Z/rapport-annuel-tags-2013.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:35.770000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T20:21:11.285000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-06-18T08%3A27%3A19.343Z/rapport-annuel-tags-2012.xls"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xls",
+      "id": "06ddd794-9d95-46ce-98d3-155c1415db49",
+      "last_modified": "2014-06-23T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/06ddd794-9d95-46ce-98d3-155c1415db49",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.ms-excel",
+      "published": "2017-09-05T15:33:35.770000",
+      "title": "rapport annuel_tags_2012.xls",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-06-18T08%3A27%3A19.343Z/rapport-annuel-tags-2012.xls"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:35.771000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T22:32:10.701000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-06-18T12%3A13%3A27.575Z/rapport-annuel-tags-2012.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "8b0a3b53-fcb5-47c4-ae0d-e7404b3d5d3f",
+      "last_modified": "2014-06-23T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8b0a3b53-fcb5-47c4-ae0d-e7404b3d5d3f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.oasis.opendocument.spreadsheet",
+      "published": "2017-09-05T15:33:35.771000",
+      "title": "rapport-annuel-tags-2012.ods",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-06-18T12%3A13%3A27.575Z/rapport-annuel-tags-2012.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:35.771000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T22:32:15.663000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-06-18T12%3A13%3A16.499Z/rapport-annuel-tags-2011.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "09df1104-7a0e-4e2e-9ec9-a61681541d27",
+      "last_modified": "2014-06-23T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/09df1104-7a0e-4e2e-9ec9-a61681541d27",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.oasis.opendocument.spreadsheet",
+      "published": "2017-09-05T15:33:35.771000",
+      "title": "rapport-annuel-tags-2011.ods",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-06-18T12%3A13%3A16.499Z/rapport-annuel-tags-2011.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:35.771000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T22:31:24.397000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2016-01-06T09%3A01%3A57.438Z/rapport-annuel-tags-affiches-2015.xls"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xls",
+      "id": "d49d5c5e-8ba2-4fe9-996c-ade5793408cd",
+      "last_modified": "2016-01-06T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d49d5c5e-8ba2-4fe9-996c-ade5793408cd",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.ms-excel",
+      "published": "2017-09-05T15:33:35.771000",
+      "title": "rapport_annuel_tags_affiches_2015.xls",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2016-01-06T09%3A01%3A57.438Z/rapport-annuel-tags-affiches-2015.xls"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:35.772000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T22:31:23.716000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2016-01-06T09%3A02%3A51.146Z/rapport-annuel-tags-affiches-2015.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e194dd9a-75ec-48fd-b78f-9bf3afc7b857",
+      "last_modified": "2016-01-06T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e194dd9a-75ec-48fd-b78f-9bf3afc7b857",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-05T15:33:35.772000",
+      "title": "rapport_annuel_tags_affiches_2015.csv",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2016-01-06T09%3A02%3A51.146Z/rapport-annuel-tags-affiches-2015.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:35.772000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T22:32:17.514000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2016-01-06T09%3A03%3A25.767Z/rapport-annuel-tags-affiches-2015.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "a7dd86d7-a2e1-4a65-b40f-97032d6e7a41",
+      "last_modified": "2016-01-06T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a7dd86d7-a2e1-4a65-b40f-97032d6e7a41",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.oasis.opendocument.spreadsheet",
+      "published": "2017-09-05T15:33:35.772000",
+      "title": "rapport_annuel_tags_affiches_2015.ods",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2016-01-06T09%3A03%3A25.767Z/rapport-annuel-tags-affiches-2015.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:35.773000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T22:32:24.725000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-01-26T09%3A59%3A08.519Z/rapport-annuel-tags-affiches-2016.xls"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xls",
+      "id": "eefec1a1-d3b2-4293-b42d-36c3a8731a71",
+      "last_modified": "2017-01-26T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/eefec1a1-d3b2-4293-b42d-36c3a8731a71",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.ms-excel",
+      "published": "2017-09-05T15:33:35.773000",
+      "title": "rapport_annuel_tags_affiches_2016.xls",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-01-26T09%3A59%3A08.519Z/rapport-annuel-tags-affiches-2016.xls"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:35.773000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T22:32:18.498000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-01-26T09%3A59%3A28.524Z/rapport-annuel-tags-affiches-2016.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "600eb8cb-5872-4c7a-b33d-c52a6c97472e",
+      "last_modified": "2017-01-26T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/600eb8cb-5872-4c7a-b33d-c52a6c97472e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.oasis.opendocument.spreadsheet",
+      "published": "2017-09-05T15:33:35.773000",
+      "title": "rapport_annuel_tags_affiches_2016.ods",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-01-26T09%3A59%3A28.524Z/rapport-annuel-tags-affiches-2016.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:35.773000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T22:32:14.752000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-01-26T09%3A59%3A42.635Z/rapport-annuel-tags-affiches-2016.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "60efbdbe-d772-4240-95ff-ffa99c113876",
+      "last_modified": "2017-01-26T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/60efbdbe-d772-4240-95ff-ffa99c113876",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-05T15:33:35.773000",
+      "title": "rapport_annuel_tags_affiches_2016.csv",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-01-26T09%3A59%3A42.635Z/rapport-annuel-tags-affiches-2016.csv"
+    }
+  ],
+  "slug": "nombre-de-tags-et-affiches-nettoyes-par-mois-et-par-an-a-nice-depuis-2011",
+  "spatial": null,
+  "tags": [
+    "affichage",
+    "annuel",
+    "graffiti",
+    "sauvage",
+    "tags"
+  ],
+  "temporal_coverage": null,
+  "title": "Nombre de tags et affiches nettoy\u00e9s par mois et par an \u00e0 Nice depuis 2011",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/nombre-de-tags-et-affiches-nettoyes-par-mois-et-par-an-a-nice-depuis-2011/"
+}

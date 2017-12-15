@@ -1,0 +1,138 @@
+{
+  "badges": [],
+  "created_at": "2014-06-06T00:00:00",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es renseigne sur la capacit\u00e9 d'accueil par maison des associations et par salle",
+  "extras": {
+    "ckan:name": "capacite-d-accueil-par-maison-des-associations-et-par-salle",
+    "harvest:domain": "opendata.nicecotedazur.org",
+    "harvest:last_update": "2017-09-05T15:33:30.917273",
+    "harvest:remote_id": "6d684fab-ba20-4214-9b44-f4df28257170",
+    "harvest:source_id": "59aea691c751df40c6e8212c"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59aea7aaa3a72917daf3fc6f",
+  "last_modified": "2017-09-05T15:33:30.918000",
+  "last_update": "2017-09-05T15:33:30.916000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "59aea226c751df38f3f6834b",
+    "logo": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-100.png",
+    "name": "Nice C\u00f4te d'Azur",
+    "page": "https://www.data.gouv.fr/fr/organizations/nice-cote-dazur/",
+    "slug": "nice-cote-dazur",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nice-cote-dazur/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/capacite-d-accueil-par-maison-des-associations-et-par-salle/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:30.915000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-14T11:21:16.152000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-06-06T07%3A36%3A14.456Z/liste-des-maisons-associations.xls"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xls",
+      "id": "a8fca317-fc5b-441d-be41-af25fa7e9373",
+      "last_modified": "2014-06-23T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a8fca317-fc5b-441d-be41-af25fa7e9373",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.ms-excel",
+      "published": "2017-09-05T15:33:30.915000",
+      "title": "liste des maisons associations.xls",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-06-06T07%3A36%3A14.456Z/liste-des-maisons-associations.xls"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:30.916000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-14T11:21:16.118000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-06-06T09%3A46%3A43.763Z/liste-des-maisons-associations-1.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "94640bf0-77de-4f85-a1bd-76e6255c5b1e",
+      "last_modified": "2014-06-23T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/94640bf0-77de-4f85-a1bd-76e6255c5b1e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.oasis.opendocument.spreadsheet",
+      "published": "2017-09-05T15:33:30.916000",
+      "title": "liste-des-maisons-associations_1.ods",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-06-06T09%3A46%3A43.763Z/liste-des-maisons-associations-1.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:30.916000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-14T11:21:16.137000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-06-06T09%3A50%3A27.675Z/liste-des-maisons-associations-1.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a3521e45-1436-4506-b278-e5c3ce3f3047",
+      "last_modified": "2014-06-23T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a3521e45-1436-4506-b278-e5c3ce3f3047",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-05T15:33:30.916000",
+      "title": "liste-des-maisons-associations_1.csv",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-06-06T09%3A50%3A27.675Z/liste-des-maisons-associations-1.csv"
+    }
+  ],
+  "slug": "capacite-d-accueil-par-maison-des-associations-et-par-salle",
+  "spatial": null,
+  "tags": [
+    "accueil",
+    "association",
+    "capacite",
+    "maison",
+    "salle"
+  ],
+  "temporal_coverage": null,
+  "title": "Capacit\u00e9 d'accueil par maison des associations et par salle",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/capacite-d-accueil-par-maison-des-associations-et-par-salle/"
+}

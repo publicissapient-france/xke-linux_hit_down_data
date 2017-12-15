@@ -1,0 +1,106 @@
+{
+  "badges": [],
+  "created_at": "2014-07-09T00:00:00",
+  "deleted": null,
+  "description": "Donn\u00e9es fournies par le Minist\u00e8re de l'Int\u00e9rieur suite \u00e0 leur condamnation au tribunal administratif.",
+  "extras": {
+    "ckan:name": "liste-des-subventions-allouees-via-les-reserves-ministerielle-et-parlementaire-en-2011",
+    "harvest:domain": "www.nosdonnees.fr",
+    "harvest:last_update": "2017-07-10T06:05:32.612128",
+    "harvest:remote_id": "dde02373-65a2-4734-b3c8-e9886784ac88",
+    "harvest:source_id": "5878ee1588ee385bffa6f719"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5878ee5da3a7291485cac7eb",
+  "last_modified": "2017-07-10T06:05:32.613000",
+  "last_update": "2017-01-13T16:12:29.538000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff99a3a7292c64a78016",
+    "logo": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-100.png",
+    "name": "NosDonn\u00e9es.fr",
+    "page": "https://www.data.gouv.fr/fr/organizations/nosdonnees-fr/",
+    "slug": "nosdonnees-fr",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nosdonnees-fr/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-subventions-allouees-via-les-reserves-ministerielle-et-parlementaire-en-2011/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:29.537000",
+      "description": "Subvention attribu\u00e9e via la r\u00e9serve minist\u00e9rielle.\n\nContient les champs suivants :\n  - Be\u0301ne\u0301ficiaire (nom de ville ou de collectivit\u00e9)\n - De\u0301partement\n - Nature du Projet (description textuelle)\n - Cou\u0302t du projet (en \u20ac)\n - Subvention alloue\u0301e (en \u20ac)\n - Dossier transmis par (NOM pr\u00e9nom et parfois NOM prenom du ministre -\nNOM prenom de l'\u00e9lu)\n - Nature de la re\u0301serve (R\u00e9serve minist\u00e9rielle / S\u00e9nat / Assembl\u00e9e)",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-17T15:36:00.837000",
+        "check:status": 200,
+        "check:url": "http://www.nosdonnees.fr/dataset/dde02373-65a2-4734-b3c8-e9886784ac88/resource/ea723b95-a586-4082-b045-f70517ee899e/download/reserveministeriellelistedessubventionsalloueesen2011.iso88591.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ea723b95-a586-4082-b045-f70517ee899e",
+      "last_modified": "2017-07-10T06:05:32.611000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ea723b95-a586-4082-b045-f70517ee899e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:12:29.537000",
+      "title": "R\u00e9serve minist\u00e9rielle 2011",
+      "url": "http://www.nosdonnees.fr/dataset/dde02373-65a2-4734-b3c8-e9886784ac88/resource/ea723b95-a586-4082-b045-f70517ee899e/download/reserveministeriellelistedessubventionsalloueesen2011.iso88591.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:29.537000",
+      "description": "Fichier contenant l'ensemble des subventions allou\u00e9es via le m\u00e9canisme de r\u00e9serve parlementaire et minist\u00e9rielle.\n\nContient les champs :\n - Be\u0301ne\u0301ficiaire (nom de ville ou de collectivit\u00e9)\n - De\u0301partement\n - Nature du Projet (description textuelle)\n - Cou\u0302t du projet (en \u20ac)\n - Subvention alloue\u0301e (en \u20ac)\n - Dossier transmis par (NOM pr\u00e9nom et parfois NOM prenom du ministre -\nNOM prenom de l'\u00e9lu)\n - Nature de la re\u0301serve (R\u00e9serve minist\u00e9rielle / S\u00e9nat / Assembl\u00e9e)",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-17T15:36:00.813000",
+        "check:status": 200,
+        "check:url": "http://www.nosdonnees.fr/dataset/dde02373-65a2-4734-b3c8-e9886784ac88/resource/ebc52f48-99d6-468f-9700-280c624f16d3/download/listedessubventionsalloueesen2011.iso88591.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ebc52f48-99d6-468f-9700-280c624f16d3",
+      "last_modified": "2017-07-10T06:05:32.611000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ebc52f48-99d6-468f-9700-280c624f16d3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:12:29.538000",
+      "title": "R\u00e9serve parlementaire et minist\u00e9rielle 2011",
+      "url": "http://www.nosdonnees.fr/dataset/dde02373-65a2-4734-b3c8-e9886784ac88/resource/ebc52f48-99d6-468f-9700-280c624f16d3/download/listedessubventionsalloueesen2011.iso88591.csv"
+    }
+  ],
+  "slug": "liste-des-subventions-allouees-via-les-reserves-ministerielle-et-parlementaire-en-2011",
+  "spatial": null,
+  "tags": [],
+  "temporal_coverage": null,
+  "title": "Liste des subventions allou\u00e9es via les r\u00e9serves minist\u00e9rielle et parlementaire en 2011",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-subventions-allouees-via-les-reserves-ministerielle-et-parlementaire-en-2011/"
+}

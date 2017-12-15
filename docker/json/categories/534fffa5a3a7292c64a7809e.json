@@ -1,0 +1,291 @@
+{
+  "acronym": null,
+  "badges": [
+    {
+      "kind": "public-service"
+    },
+    {
+      "kind": "certified"
+    }
+  ],
+  "created_at": "2014-04-17T18:21:57.325000",
+  "deleted": null,
+  "description": "\nAux c\u00f4t\u00e9s de son cabinet, l\u2019administration du Premier ministre comprend de nombreux services qui l\u2019assistent et prennent part \u00e0 l\u2019\u00e9laboration de la politique du Gouvernement. Sont rattach\u00e9s au Premier ministre les organismes charg\u00e9s de missions de coordination interminist\u00e9rielle qui ne peuvent \u00eatre attribu\u00e9es \u00e0 un seul minist\u00e8re. ",
+  "id": "534fffa5a3a7292c64a7809e",
+  "last_modified": "2017-11-26T22:55:24.651000",
+  "logo": "https://www.data.gouv.fr/s/avatars/08/98902e29244685862bcdd3198cef7b-original.png",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/08/98902e29244685862bcdd3198cef7b-100.png",
+  "members": [
+    {
+      "role": "editor",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/aa/733490184c4c2684e793ea074d57d6-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/aa/733490184c4c2684e793ea074d57d6-100.jpg",
+        "class": "User",
+        "first_name": "Anne-Gaelle",
+        "id": "534fff3ca3a7292c64a773ab",
+        "last_name": "Javelle",
+        "page": "https://www.data.gouv.fr/fr/users/anne-gaelle-javelle/",
+        "slug": "anne-gaelle-javelle",
+        "uri": "https://www.data.gouv.fr/api/1/users/anne-gaelle-javelle/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Celine",
+        "id": "534fff3da3a7292c64a774b9",
+        "last_name": "Pelletier",
+        "page": "https://www.data.gouv.fr/fr/users/celine-pelletier/",
+        "slug": "celine-pelletier",
+        "uri": "https://www.data.gouv.fr/api/1/users/celine-pelletier/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/4a/2a90b3eddd4c61b5b0aaf367db942b-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/4a/2a90b3eddd4c61b5b0aaf367db942b-100.jpg",
+        "class": "User",
+        "first_name": "Commission pour l'indemnisation",
+        "id": "534fff3ea3a7292c64a7752a",
+        "last_name": "des victimes de spoliations",
+        "page": "https://www.data.gouv.fr/fr/users/commission-pour-lindemnisation-des-victimes-de-spoliations/",
+        "slug": "commission-pour-lindemnisation-des-victimes-de-spoliations",
+        "uri": "https://www.data.gouv.fr/api/1/users/commission-pour-lindemnisation-des-victimes-de-spoliations/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/2014-11-25/7e6088b1e2d2488c8b594370b30f5496/grosplan2009-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-11-25/7e6088b1e2d2488c8b594370b30f5496/grosplan2009-100.jpg",
+        "class": "User",
+        "first_name": "Guilhem",
+        "id": "534fff40a3a7292c64a776e2",
+        "last_name": "Mestre",
+        "page": "https://www.data.gouv.fr/fr/users/guilhem-mestre/",
+        "slug": "guilhem-mestre",
+        "uri": "https://www.data.gouv.fr/api/1/users/guilhem-mestre/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Isabelle",
+        "id": "534fff41a3a7292c64a77736",
+        "last_name": "BENVENUTO",
+        "page": "https://www.data.gouv.fr/fr/users/isabelle-benvenuto/",
+        "slug": "isabelle-benvenuto",
+        "uri": "https://www.data.gouv.fr/api/1/users/isabelle-benvenuto/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "laure",
+        "id": "534fff42a3a7292c64a7784b",
+        "last_name": "",
+        "page": "https://www.data.gouv.fr/fr/users/laure/",
+        "slug": "laure",
+        "uri": "https://www.data.gouv.fr/api/1/users/laure/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Violaine",
+        "id": "534fff4aa3a7292c64a77c3e",
+        "last_name": "Biafora",
+        "page": "https://www.data.gouv.fr/fr/users/violaine-biafora/",
+        "slug": "violaine-biafora",
+        "uri": "https://www.data.gouv.fr/api/1/users/violaine-biafora/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/2015-01-05/05aaa9435bb34d20b5625005f4c31a08/scottin-photomaton-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-01-05/05aaa9435bb34d20b5625005f4c31a08/scottin-photomaton-100.jpg",
+        "class": "User",
+        "first_name": "Stephane",
+        "id": "53ae7f6da3a729709f56d4e5",
+        "last_name": "Cottin",
+        "page": "https://www.data.gouv.fr/fr/users/stephane-cottin/",
+        "slug": "stephane-cottin",
+        "uri": "https://www.data.gouv.fr/api/1/users/stephane-cottin/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Damien",
+        "id": "53d18dcca3a72946ca86f1b8",
+        "last_name": "ROGER",
+        "page": "https://www.data.gouv.fr/fr/users/damien-roger/",
+        "slug": "damien-roger",
+        "uri": "https://www.data.gouv.fr/api/1/users/damien-roger/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Conseil d'orientation ",
+        "id": "54027662a3a7295fe2b116b1",
+        "last_name": "des retraites (Premier ministre)",
+        "page": "https://www.data.gouv.fr/fr/users/anne-sophie-le-guiel/",
+        "slug": "anne-sophie-le-guiel",
+        "uri": "https://www.data.gouv.fr/api/1/users/anne-sophie-le-guiel/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/1b/730fabb8174076848e67667d41edeb-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/1b/730fabb8174076848e67667d41edeb-100.jpg",
+        "class": "User",
+        "first_name": "Michel",
+        "id": "5423b55688ee38334d5b9e28",
+        "last_name": "Modestine",
+        "page": "https://www.data.gouv.fr/fr/users/michel-modestine/",
+        "slug": "michel-modestine",
+        "uri": "https://www.data.gouv.fr/api/1/users/michel-modestine/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "B\u00e9n\u00e9dicte",
+        "id": "534fff3da3a7292c64a77426",
+        "last_name": "Roullier",
+        "page": "https://www.data.gouv.fr/fr/users/benedicte-roullier/",
+        "slug": "benedicte-roullier",
+        "uri": "https://www.data.gouv.fr/api/1/users/benedicte-roullier/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "GILLES",
+        "id": "563b11cc88ee381e0b531575",
+        "last_name": "LUBIC",
+        "page": "https://www.data.gouv.fr/fr/users/gilles-lubic/",
+        "slug": "gilles-lubic",
+        "uri": "https://www.data.gouv.fr/api/1/users/gilles-lubic/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/06/5c6d8383154b6da509f90efe083184-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/06/5c6d8383154b6da509f90efe083184-100.jpg",
+        "class": "User",
+        "first_name": "Pierre",
+        "id": "534fff47a3a7292c64a77a9b",
+        "last_name": "Pezziardi",
+        "page": "https://www.data.gouv.fr/fr/users/pierre-pezziardi-3/",
+        "slug": "pierre-pezziardi-3",
+        "uri": "https://www.data.gouv.fr/api/1/users/pierre-pezziardi-3/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Sandrine",
+        "id": "56cdd0a0c751df7092abb90d",
+        "last_name": "Cadet",
+        "page": "https://www.data.gouv.fr/fr/users/sandrine-cadet/",
+        "slug": "sandrine-cadet",
+        "uri": "https://www.data.gouv.fr/api/1/users/sandrine-cadet/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/ec/d46ad625284c7bb4718b25a2c86f87-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/ec/d46ad625284c7bb4718b25a2c86f87-100.jpg",
+        "class": "User",
+        "first_name": "Marie-H\u00e9l\u00e8ne",
+        "id": "57ea9eb188ee382a9d5ff490",
+        "last_name": "ROUX",
+        "page": "https://www.data.gouv.fr/fr/users/marie-helene-roux-2/",
+        "slug": "marie-helene-roux-2",
+        "uri": "https://www.data.gouv.fr/api/1/users/marie-helene-roux-2/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/f8/b266fd248e4243946dce68a017f654-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/f8/b266fd248e4243946dce68a017f654-100.jpg",
+        "class": "User",
+        "first_name": "Karima",
+        "id": "58ac459a88ee3812ec381f1c",
+        "last_name": "Mekkaoui",
+        "page": "https://www.data.gouv.fr/fr/users/karima-mekkaoui/",
+        "slug": "karima-mekkaoui",
+        "uri": "https://www.data.gouv.fr/api/1/users/karima-mekkaoui/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Richard",
+        "id": "58f9c761c751df75a1e346ad",
+        "last_name": "DECOCQ",
+        "page": "https://www.data.gouv.fr/fr/users/richard-decocq/",
+        "slug": "richard-decocq",
+        "uri": "https://www.data.gouv.fr/api/1/users/richard-decocq/"
+      }
+    }
+  ],
+  "metrics": {
+    "dataset_views": 67379,
+    "datasets": 204,
+    "followers": 183,
+    "members": 18,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 82,
+    "resource_downloads": 10067,
+    "reuse_views": 7667,
+    "reuses": 113,
+    "views": 1722
+  },
+  "name": "Premier ministre",
+  "page": "https://www.data.gouv.fr/fr/organizations/premier-ministre/",
+  "slug": "premier-ministre",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/premier-ministre/",
+  "url": null
+}

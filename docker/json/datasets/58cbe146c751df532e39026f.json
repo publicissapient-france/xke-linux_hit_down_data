@@ -1,0 +1,79 @@
+{
+  "badges": [],
+  "created_at": "2017-03-17T14:14:46.010000",
+  "deleted": null,
+  "description": "Les d\u00e9penses du secteur communal, proches de 150 Md\u20ac par an, se caract\u00e9risent par leur dynamisme et leur grande disparit\u00e9 de montant par habitant. La Cour, dans une enqu\u00eate r\u00e9alis\u00e9e \u00e0 la demande de la commission des finances de l\u2019Assembl\u00e9e nationale, a mis au point un mod\u00e8le \u00e9conom\u00e9trique afin d\u2019analyser les d\u00e9terminants de la d\u00e9pense locale. Men\u00e9e pour la premi\u00e8re fois \u00e0 l\u2019\u00e9chelle des ensembles intercommunaux, cette \u00e9tude met notamment en lumi\u00e8re l\u2019importance des dotations dans l\u2019explication des in\u00e9galit\u00e9s de d\u00e9pense par habitant entre collectivit\u00e9s comparables. La Cour formule trois recommandations : mener \u00e0 son terme la r\u00e9forme des concours forfaitaires de l\u2019\u00c9tat, poursuivre l\u2019intensification des dotations de p\u00e9r\u00e9quation en mesurant plus syst\u00e9matiquement leurs impacts, et revoir les crit\u00e8res d\u2019\u00e9ligibilit\u00e9 et de calcul des dotations, en tenant compte de la nouvelle carte des intercommunalit\u00e9s au 1er janvier 2017. \n\nCe rapport est accessible sur [le site de la Cour](https://www.ccomptes.fr/fr/publications/concours-financiers-de-letat-et-disparites-de-depenses-des-communes-et-de-leurs).\n\nLes fichiers publi\u00e9s correspondent aux donn\u00e9es ayant servi de base \u00e0 l'\u00e9laboration du rapport.",
+  "extras": {},
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "58cbe146c751df532e39026f",
+  "last_modified": "2017-09-04T12:09:05.827000",
+  "last_update": "2017-03-17T14:15:03.114000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "53698dada3a729239d20331d",
+    "logo": "https://www.data.gouv.fr/s/avatars/ac/83f761a23f4263be8b3401b01625e8-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/ac/83f761a23f4263be8b3401b01625e8-100.png",
+    "name": "Cour des comptes",
+    "page": "https://www.data.gouv.fr/fr/organizations/cour-des-comptes/",
+    "slug": "cour-des-comptes",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/cour-des-comptes/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/concours-financiers-de-letat-et-disparites-de-depenses-des-communes-et-de-leurs-groupements/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-03-17T14:15:03.113000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-19T18:26:29.486000",
+        "check:status": 200,
+        "check:url": "https://www.ccomptes.fr/sites/default/files/EzPublish/20161129-donnees-concours-financiers-etat.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f0e27fac-6804-4726-a143-6e7a215b98bc",
+      "last_modified": "2017-09-04T12:09:05.827000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f0e27fac-6804-4726-a143-6e7a215b98bc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-03-17T14:15:03.114000",
+      "title": "Concours financiers de l\u2019\u00c9tat et disparit\u00e9s de d\u00e9penses des communes et de leurs groupements ",
+      "url": "https://www.ccomptes.fr/sites/default/files/EzPublish/20161129-donnees-concours-financiers-etat.zip"
+    }
+  ],
+  "slug": "concours-financiers-de-letat-et-disparites-de-depenses-des-communes-et-de-leurs-groupements",
+  "spatial": null,
+  "tags": [
+    "assemblee-nationale",
+    "concours-financiers",
+    "cour-des-comptes",
+    "depenses",
+    "secteur-communal"
+  ],
+  "temporal_coverage": null,
+  "title": "Concours financiers de l\u2019\u00c9tat et disparit\u00e9s de d\u00e9penses des communes et de leurs groupements ",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/concours-financiers-de-letat-et-disparites-de-depenses-des-communes-et-de-leurs-groupements/"
+}

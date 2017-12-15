@@ -1,0 +1,204 @@
+{
+  "badges": [],
+  "created_at": "2017-03-24T00:00:00",
+  "deleted": null,
+  "description": "Liste des galeries d\u2019art en Aquitaine, issue de la base de donn\u00e9es SIRTAQUI\n\nCe fichier contient les informations de g\u00e9olocalisation et de contact, les informations sur le type d\u2019\u00e9quipement, les marques et labels, les conditions d\u2019ouverture et de visites, les tarifs, les \u00e9quipements et les services propos\u00e9s.",
+  "extras": {
+    "ckan:name": "liste-des-galeries-dart-en-aquitaine1",
+    "contact_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "contact_name": "CRTA",
+    "contact_uri": "https://datacat.datalocale.fr/414593",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
+    "guid": "https://datacat.datalocale.fr/416149",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-06-04T20:57:30.572956",
+    "harvest:remote_id": "e6b3a712-b2e4-4ca2-9914-2a37d6576022",
+    "harvest:source_id": "59342bc2c751df46b29d4f99",
+    "identifier": "c876c08a-cc73-48b8-b8e7-e6d623c49785",
+    "issued": "2015-01-04T20:30:58+00:00",
+    "modified": "2016-07-18T09:21:07.159945+00:00",
+    "publisher_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "publisher_name": "agence SIRTAQUI",
+    "publisher_type": "\"Organisation \u00e0 but non lucratif\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414592",
+    "remote_url": "http://partenaires.tourisme-aquitaine.fr",
+    "theme": "[\"tourisme\"]",
+    "uri": "https://datacat.datalocale.fr/416149"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5934581aa3a72968e2876c44",
+  "last_modified": "2017-06-04T20:57:30.574000",
+  "last_update": "2017-06-04T20:57:30.570000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": null,
+  "owner": {
+    "avatar": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-original.jpg",
+    "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-100.jpg",
+    "class": "User",
+    "first_name": "Ressourcerie",
+    "id": "534fff47a3a7292c64a77adc",
+    "last_name": "datalocale",
+    "page": "https://www.data.gouv.fr/fr/users/ressourcerie-datalocale/",
+    "slug": "ressourcerie-datalocale",
+    "uri": "https://www.data.gouv.fr/api/1/users/ressourcerie-datalocale/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-galeries-dart-en-aquitaine1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:57:30.566000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T14:41:43.434000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416153/raw/liste-galeries-art-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f6c5e91a-6fdb-4d32-8789-60b858e74cf1",
+      "last_modified": "2017-06-04T20:57:30.567000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f6c5e91a-6fdb-4d32-8789-60b858e74cf1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:57:30.566000",
+      "title": "export en csv (utf-8) des galeries d'art r\u00e9f\u00e9renc\u00e9es dans la base de donn\u00e9es de SIRTAQUI. Les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es dans la projection WGS84",
+      "url": "https://datacat.datalocale.fr/file/416153/raw/liste-galeries-art-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:57:30.567000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-11-20T14:41:43.157000",
+        "check:status": 501,
+        "check:url": "http://wcf.tourinsoft.com/Syndication/aquitaine/16b57cae-63b3-440e-8c67-9c700bb83521/Objects?$format=json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "ed65405e-d6a3-4ad6-b7cc-20303ce05a20",
+      "last_modified": "2017-06-04T20:57:30.568000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ed65405e-d6a3-4ad6-b7cc-20303ce05a20",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-06-04T20:57:30.568000",
+      "title": "consommation des donn\u00e9es temps r\u00e9el",
+      "url": "http://wcf.tourinsoft.com/Syndication/aquitaine/16b57cae-63b3-440e-8c67-9c700bb83521/Objects?$format=json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:57:30.568000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T14:41:43.427000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416151/raw/liste-xml-galeries-art-aquitaine.xml"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "808e1cee-eb30-4c8f-ac6b-fcd9b0c065e2",
+      "last_modified": "2017-06-04T20:57:30.569000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/808e1cee-eb30-4c8f-ac6b-fcd9b0c065e2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/xml",
+      "published": "2017-06-04T20:57:30.569000",
+      "title": "extraction en xml (tourinfo) de la liste des galeries d'art r\u00e9f\u00e9renc\u00e9es dans la base de donnes SIRTAQUI. les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es en wgs84",
+      "url": "https://datacat.datalocale.fr/file/416151/raw/liste-xml-galeries-art-aquitaine.xml"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:57:30.569000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T14:41:43.546000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1487062/raw/liste-csv-galeries-art-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "41667582-dc9c-4e75-a5d9-5e2380ac997a",
+      "last_modified": "2017-06-04T20:57:30.570000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/41667582-dc9c-4e75-a5d9-5e2380ac997a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 2
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:57:30.569000",
+      "title": "liste-csv-galeries-art-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1487062/raw/liste-csv-galeries-art-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:57:30.570000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T14:41:43.537000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414600/raw/sp%C3%A9cifications%20du%20jeu%20de%20donn%C3%A9es"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f79cdaac-c8b0-4608-8119-697fa04e8029",
+      "last_modified": "2017-06-04T20:57:30.571000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f79cdaac-c8b0-4608-8119-697fa04e8029",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:57:30.570000",
+      "title": "sp\u00e9cifications du jeu de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414600/raw/sp%C3%A9cifications%20du%20jeu%20de%20donn%C3%A9es"
+    }
+  ],
+  "slug": "liste-des-galeries-dart-en-aquitaine1",
+  "spatial": null,
+  "tags": [
+    "art",
+    "culture"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des galeries d'art en Aquitaine",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-galeries-dart-en-aquitaine1/"
+}

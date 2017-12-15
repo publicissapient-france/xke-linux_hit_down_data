@@ -1,0 +1,151 @@
+{
+  "badges": [],
+  "created_at": "2017-07-07T00:00:00",
+  "deleted": null,
+  "description": "Les Points Forts Aventures Gironde, encadr\u00e9s par des professionnels du sport, pr\u00e9sents sur tout le territoire, contribuent durant l\u0092\u00e9t\u00e9 a renforcer et a d\u00e9velopper l\u0092offre sportive en proposant aux structures girondines charg\u00e9es de l\u0092animation de jeunes, des activit\u00e9s sportives et de pleine nature a des tarifs pr\u00e9f\u00e9rentiels . Les jeux de donn\u00e9es mis a disposition pr\u00e9sentent le catalogue des offres de service ainsi que le d\u00e9tail des conditions d'acc\u00e8s",
+  "extras": {
+    "ckan:name": "liste-des-points-forts-animation",
+    "contact_email": "mailto:dgaj-dsa@cg33.fr",
+    "contact_name": "Direction des sports et de la vie associative",
+    "contact_uri": "https://datacat.datalocale.fr/414725",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+    "guid": "https://datacat.datalocale.fr/415983",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-11-27T05:23:05.104850",
+    "harvest:remote_id": "a33c9270-b3b9-48b0-bea3-d5ca29e054b4",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "b1ae833f-8186-4050-a869-a79242bd7e2c",
+    "issued": "2012-12-28T15:22:16+00:00",
+    "modified": "2016-07-25T09:46:32.487947+00:00",
+    "publisher_email": "mailto:t.trijoulet@cg33.fr",
+    "publisher_name": "DSA-BAG",
+    "publisher_uri": "https://datacat.datalocale.fr/414724",
+    "remote_url": "http://www.gironde.fr/jcms/cgw_40286/points-forts-aventures-gironde",
+    "theme": "[\"sport\"]",
+    "uri": "https://datacat.datalocale.fr/415983"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59606805a3a7296408d6a80b",
+  "last_modified": "2017-11-27T05:23:05.112000",
+  "last_update": "2017-09-12T07:47:00.428000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-points-forts-animation-2/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:05:09.786000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T22:07:50.538000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415985/raw/2013-01-14-170113LISTE_PFA_CG33.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "cad57944-a02c-40b7-8987-370d7595cd5e",
+      "last_modified": "2017-08-15T06:06:18.307000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cad57944-a02c-40b7-8987-370d7595cd5e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-08T07:05:09.786000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8",
+      "url": "https://datacat.datalocale.fr/file/415985/raw/2013-01-14-170113LISTE_PFA_CG33.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-16T07:11:02.799000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T22:07:52.406000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415985/raw/2013-01-14-170113LISTE_PFA_CG33.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "87060afc-42b6-4ce5-8166-0d63d90c1cee",
+      "last_modified": "2017-09-11T06:14:51.354000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/87060afc-42b6-4ce5-8166-0d63d90c1cee",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-16T07:11:02.800000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8",
+      "url": "https://datacat.datalocale.fr/file/415985/raw/2013-01-14-170113LISTE_PFA_CG33.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:47:00.428000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T05:24:12.912000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415985/raw/2013-01-14-170113LISTE_PFA_CG33.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "731b2e5d-5598-4a29-abe3-a24f3c29f881",
+      "last_modified": "2017-11-27T05:23:05.103000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/731b2e5d-5598-4a29-abe3-a24f3c29f881",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:47:00.428000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8",
+      "url": "https://datacat.datalocale.fr/distribution/415984/raw/2013-01-14-170113LISTE_PFA_CG33.csv"
+    }
+  ],
+  "slug": "liste-des-points-forts-animation-2",
+  "spatial": null,
+  "tags": [
+    "animation",
+    "conseil-departemental",
+    "gironde",
+    "sport"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des points forts animation",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-points-forts-animation-2/"
+}

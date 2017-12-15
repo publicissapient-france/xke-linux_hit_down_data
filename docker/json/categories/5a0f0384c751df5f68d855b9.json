@@ -1,0 +1,60 @@
+{
+  "acronym": "ODRE",
+  "badges": [],
+  "created_at": "2017-11-17T16:43:00.117000",
+  "deleted": null,
+  "description": "La plateforme Open Data R\u00e9seaux Energies (ODRE) met \u00e0 disposition des parties prenantes, des donn\u00e9es autour des th\u00e9matiques de \u00ab Production \u00bb, de \u00ab Consommation \u00bb multi-\u00e9nergies, de \u00ab Stockage \u00bb et des \u00ab Territoires et R\u00e9gions \u00bb, fruits de l\u2019expertise et du savoir-faire conjoints des partenaires.\n\nhttps://opendata.reseaux-energies.fr/\n\nLa plateforme ODRE a vocation \u00e0 s\u2019enrichir avec de nouvelles donn\u00e9es multi-\u00e9nergies, multi op\u00e9rateurs et multi-r\u00e9seaux mais \u00e9galement \u00e0 s\u2019\u00e9largir avec de nouveaux partenaires souhaitant partager une d\u00e9marche de transparence et de p\u00e9dagogie \u00e0 l\u2019\u00e9gard des citoyens, des collectivit\u00e9s territoriales et des acteurs \u00e9conomiques, et contribuer ainsi \u00e0 l\u2019\u00e9laboration et l\u2019\u00e9valuation des politiques \u00e9nerg\u00e9tiques.\n\nOpen Data R\u00e9seaux Energies (ODRE) est le fruit de la collaboration de GRTgaz, RTE et TIGF qui ont \u00e9t\u00e9 \u00e0 l\u2019origine de sa cr\u00e9ation. Ils ont depuis \u00e9t\u00e9 rejoints par l\u2019AFGNV et \u00e0 pr\u00e9sent par Weathernews France, Elengy, Storengy et Dunkerque LNG. \n\nPar cette d\u00e9marche, les partenaires de l\u2019Open Data R\u00e9seaux Energies visent \u00e0 assurer la qualit\u00e9, la continuit\u00e9 et l\u2019exhaustivit\u00e9 des donn\u00e9es fournies.\n\n![AFGNV](https://opendata.reseaux-energies.fr/assets/theme_image/logo_afgnv.png \"AFGNV\")\n![Dunkerque LNG](https://opendata.reseaux-energies.fr/assets/theme_image/logo_dunkerquelng.png \"Dunkerque LNG\")\n![Elengy](https://opendata.reseaux-energies.fr/assets/theme_image/logo_elengy.png \"Elengy\")\n![GRTgaz](https://opendata.reseaux-energies.fr/assets/theme_image/logo_grtgaz.png \"GRTgaz\")\n![RTE](https://opendata.reseaux-energies.fr/assets/theme_image/logo_rte.png \"RTE\")\n![Storengy](https://opendata.reseaux-energies.fr/assets/theme_image/logo_storengy.png \"Storengy\")\n![TIGF](https://opendata.reseaux-energies.fr/assets/theme_image/logo_tigf.png \"TIGF\")\n![Weathernews France](https://opendata.reseaux-energies.fr/assets/theme_image/logo_weathernews.png \"Weathernews France\")\n\n<br>",
+  "id": "5a0f0384c751df5f68d855b9",
+  "last_modified": "2017-11-25T23:43:35.472000",
+  "logo": "https://www.data.gouv.fr/s/avatars/f2/fe4fbb20204ce28bff2e50fa9d85b6-original.png",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/f2/fe4fbb20204ce28bff2e50fa9d85b6-100.png",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Open Data",
+        "id": "56e6f797c751df51409abcab",
+        "last_name": "RTE",
+        "page": "https://www.data.gouv.fr/fr/users/open-data-rte/",
+        "slug": "open-data-rte",
+        "uri": "https://www.data.gouv.fr/api/1/users/open-data-rte/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Alain",
+        "id": "594785f388ee382f3565078e",
+        "last_name": "Bissonnier",
+        "page": "https://www.data.gouv.fr/fr/users/alain-bissonnier/",
+        "slug": "alain-bissonnier",
+        "uri": "https://www.data.gouv.fr/api/1/users/alain-bissonnier/"
+      }
+    }
+  ],
+  "metrics": {
+    "dataset_views": 2,
+    "datasets": 10,
+    "followers": 1,
+    "members": 2,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 0,
+    "resource_downloads": 1,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 39
+  },
+  "name": "Open Data R\u00e9seaux Energies",
+  "page": "https://www.data.gouv.fr/fr/organizations/open-data-reseaux-energies-1/",
+  "slug": "open-data-reseaux-energies-1",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/open-data-reseaux-energies-1/",
+  "url": "https://opendata.reseaux-energies.fr"
+}

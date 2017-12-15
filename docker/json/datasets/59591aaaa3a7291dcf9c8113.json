@@ -1,0 +1,100 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T18:09:14.241000",
+  "deleted": null,
+  "description": "Suffrages du 21 mars 2010 : inscrits, absentions, votants, bulletins blancs et nuls, exprim\u00e9s (source : Minist\u00e8re de l'int\u00e9rieur)",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T05:48:18.069106",
+    "harvest:remote_id": "elections_regionales_2010_-_2e_tour_suffrages_exprimes",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:references": "http://www.data.gouv.fr/DataSet/572146?xtmc=election&xtcr=2 Temporal     14 mars 2010",
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/elections_regionales_2010_-_2e_tour_suffrages_exprimes/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59591aaaa3a7291dcf9c8113",
+  "last_modified": "2017-11-27T05:48:18.071000",
+  "last_update": "2017-11-27T05:48:18.067000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/elections-regionales-2010-2e-tour-suffrages-exprimes/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:48:18.067000",
+      "description": "- *R\u00e9gionales 2010 2e tour*: regionales_2010_2e_tour[text]\n- *Nombre*: nombre[int]\n- *% inscrits*: pct_inscrits[text]\n- *% votants*: pct_votants[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "0cff6fb2-59b0-40bc-8145-f14b64c5a79e",
+      "last_modified": "2013-08-20T14:51:57",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0cff6fb2-59b0-40bc-8145-f14b64c5a79e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:48:18.067000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/elections_regionales_2010_-_2e_tour_suffrages_exprimes/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:48:18.067000",
+      "description": "- *R\u00e9gionales 2010 2e tour*: regionales_2010_2e_tour[text]\n- *Nombre*: nombre[int]\n- *% inscrits*: pct_inscrits[text]\n- *% votants*: pct_votants[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "beeb2692-7635-479a-bfd7-f0cfd3a4d64f",
+      "last_modified": "2013-08-20T14:51:57",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/beeb2692-7635-479a-bfd7-f0cfd3a4d64f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:48:18.067000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/elections_regionales_2010_-_2e_tour_suffrages_exprimes/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "elections-regionales-2010-2e-tour-suffrages-exprimes",
+  "spatial": null,
+  "tags": [
+    "assemblee-regionale",
+    "election"
+  ],
+  "temporal_coverage": null,
+  "title": "\u00c9lections r\u00e9gionales 2010 - 2e tour :  suffrages exprim\u00e9s",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/elections-regionales-2010-2e-tour-suffrages-exprimes/"
+}

@@ -1,0 +1,102 @@
+{
+  "acronym": null,
+  "badges": [],
+  "created_at": "2014-10-13T10:31:14.266000",
+  "deleted": null,
+  "description": "Fond\u00e9e en 1872, Sciences Po est une universit\u00e9 de recherche de rang international sp\u00e9cialis\u00e9e en sciences sociales qui d\u00e9livre des formations de niveau Bac+3, Master, Doctorat et en formation continue.\r\n\r\nMod\u00e8le unique et innovant, elle propose une formation intellectuelle pluridisciplinaire, nourrie par une recherche de pointe et ancr\u00e9e dans le monde professionnel. Son ambition est de former de futurs professionnels capables de comprendre le monde et de faire bouger les lignes.\r\n\r\nA la fois s\u00e9lective et ouverte \u00e0 tous les talents, Sciences Po compte sur ses sept campus en France 13 000 \u00e9tudiants, dont 46% sont d\u2019une nationalit\u00e9 autre que fran\u00e7aise. \r\n\r\nLieu de rencontre entre la pens\u00e9e et l\u2019action, Sciences Po propose, aux c\u00f4t\u00e9s de ses enseignements acad\u00e9miques, une mise en pratique des savoirs, gr\u00e2ce notamment \u00e0 sa communaut\u00e9 d\u2019enseignants issus du monde professionnel.\r\n\r\nActeur majeur de la recherche en sciences humaines et sociales, Sciences Po rassemble 220 chercheurs investis dans des unit\u00e9s \u00e0 la pointe de l\u2019analyse de nos soci\u00e9t\u00e9s.\r\n\r\nL\u2019une d\u2019entre elles, le Centre de donn\u00e9es socio-politiques (CDSP, UMS Sciences Po & CNRS) a pour mission l\u2019archivage, la documentation et la diffusion, aupr\u00e8s de la communaut\u00e9 scientifique, de donn\u00e9es qualitatives et quantitatives, notamment celles issues de la recherche.",
+  "id": "543b8dd288ee3869dba42d04",
+  "last_modified": "2017-11-25T23:43:23.162000",
+  "logo": "https://www.data.gouv.fr/s/avatars/2015-01-29/9db46d8621cc476c9485c256e4a5846a/SCIENCES_PO_logo_RGB-original.jpg",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-01-29/9db46d8621cc476c9485c256e4a5846a/SCIENCES_PO_logo_RGB-100.jpg",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/9a/12eb2a0344443c8112c06aa43741eb-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/9a/12eb2a0344443c8112c06aa43741eb-100.jpg",
+        "class": "User",
+        "first_name": "Laurent",
+        "id": "53db4b17a3a7292bbb749e6e",
+        "last_name": "Lesnard",
+        "page": "https://www.data.gouv.fr/fr/users/laurent-lesnard/",
+        "slug": "laurent-lesnard",
+        "uri": "https://www.data.gouv.fr/api/1/users/laurent-lesnard/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Anne",
+        "id": "54afb4f3c751df58bb381279",
+        "last_name": "Cornilleau",
+        "page": "https://www.data.gouv.fr/fr/users/anne-cornilleau/",
+        "slug": "anne-cornilleau",
+        "uri": "https://www.data.gouv.fr/api/1/users/anne-cornilleau/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Benjamin",
+        "id": "54b3a876c751df287fae2615",
+        "last_name": "Ooghe-Tabanou",
+        "page": "https://www.data.gouv.fr/fr/users/benjamin-ooghe-tabanou/",
+        "slug": "benjamin-ooghe-tabanou",
+        "uri": "https://www.data.gouv.fr/api/1/users/benjamin-ooghe-tabanou/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/0e/c16d0c49e6412aacaee9e3229dd038-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/0e/c16d0c49e6412aacaee9e3229dd038-100.jpg",
+        "class": "User",
+        "first_name": "Thomas",
+        "id": "534fff4aa3a7292c64a77be0",
+        "last_name": "Ansart",
+        "page": "https://www.data.gouv.fr/fr/users/thomas-ansart/",
+        "slug": "thomas-ansart",
+        "uri": "https://www.data.gouv.fr/api/1/users/thomas-ansart/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/67/fd48e5aaea4b0d920ec9c56f20a0d4-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/67/fd48e5aaea4b0d920ec9c56f20a0d4-100.jpg",
+        "class": "User",
+        "first_name": "Pierre",
+        "id": "5783b0ae88ee387c2b67b0c8",
+        "last_name": "Mayran de Chamisso",
+        "page": "https://www.data.gouv.fr/fr/users/pierre-mayran-de-chamisso/",
+        "slug": "pierre-mayran-de-chamisso",
+        "uri": "https://www.data.gouv.fr/api/1/users/pierre-mayran-de-chamisso/"
+      }
+    }
+  ],
+  "metrics": {
+    "dataset_views": 2050,
+    "datasets": 5,
+    "followers": 17,
+    "members": 5,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 0,
+    "resource_downloads": 1953,
+    "reuse_views": 0,
+    "reuses": 2,
+    "views": 412
+  },
+  "name": "Sciences Po",
+  "page": "https://www.data.gouv.fr/fr/organizations/sciences-po/",
+  "slug": "sciences-po",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/sciences-po/",
+  "url": "http://www.sciencespo.fr"
+}

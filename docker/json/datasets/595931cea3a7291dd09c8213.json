@@ -1,0 +1,113 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T19:47:58.716000",
+  "deleted": null,
+  "description": "Menus des \u00e9coles maternelles et \u00e9l\u00e9mentaires de Toulouse. \n\nSi vous souhaitez consulter le menu de votre enfant, veuillez \n\n1- S\u00e9lectionner en cliquant dans l'espace de recherche de gauche \n\n\\- ECOLE : ELEM pour elementaire ou MAT pour maternelle \n\n\\- SEMAINE \n\n\\- JOUR \n\n2- Puis visualiser le r\u00e9sultat dans l'onglet \"Tableau\" \n\n* * *\n\nVeuillez trouver ci joint les allerg\u00e8nes (Attention certains allerg\u00e8nes ne s'affichent pas, nous sommes en cours de correction): \n\n  1. Gluten\n  2. Lait de vache (ou produits d\u00e9riv\u00e9s, beurre, cr\u00e8me)\n  3. Lait de brebis ou ch\u00e8vre\n  4. \u0152uf\n  5. Moutarde\n  6. Poisson\n  7. Arachide\n  8. Fruit \u00e0 coque\n  9. Crustac\u00e9s\n  10. Mollusques\n  11. C\u00e9leri\n  12. Soja\n  13. Anhydride sulfureux et sulfite\n  14. S\u00e9same",
+  "extras": {
+    "harvest:domain": "data.toulouse-metropole.fr",
+    "harvest:last_update": "2017-08-29T06:11:28.704708",
+    "harvest:remote_id": "menus-cantine-ville-de-toulouse-mai",
+    "harvest:source_id": "564c3680c751df607daad370",
+    "ods:has_records": true,
+    "ods:references": "http://www.toulouse.fr/web/education/restauration-scolaire",
+    "ods:url": "https://data.toulouse-metropole.fr//explore/dataset/menus-cantine-ville-de-toulouse-mai/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "595931cea3a7291dd09c8213",
+  "last_modified": "2017-08-29T06:11:28.707000",
+  "last_update": "2017-08-29T06:11:28.703000",
+  "license": "odc-odbl",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb3a3a7292c64a78129",
+    "logo": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-100.jpg",
+    "name": "Toulouse m\u00e9trople",
+    "page": "https://www.data.gouv.fr/fr/organizations/toulouse-metrople/",
+    "slug": "toulouse-metrople",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/toulouse-metrople/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/menus-cantine-ville-de-toulouse-mai/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-08-29T06:11:28.702000",
+      "description": "- *ordre*: ordre[double]\n- *ecole*: ecole[text]\n- *Jour*: jour[text]\n- *Menu*: menu[text] LR : Label rouge\nBBC : Bleu Blanc Coeur\u200b\n- *type*: type[text] plat\n- *Allerg\u00e8nes*: allergenes[text]\n- *MAT 1er-5 mai*: semaine[text]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T05:20:55.220000",
+        "check:status": 200,
+        "check:url": "https://data.toulouse-metropole.fr//explore/dataset/menus-cantine-ville-de-toulouse-mai/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c2806a26-508e-4e42-943c-944b4be3da96",
+      "last_modified": "2017-04-14T09:10:10",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c2806a26-508e-4e42-943c-944b4be3da96",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-29T06:11:28.703000",
+      "title": "Export au format CSV",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/menus-cantine-ville-de-toulouse-mai/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-29T06:11:28.703000",
+      "description": "- *ordre*: ordre[double]\n- *ecole*: ecole[text]\n- *Jour*: jour[text]\n- *Menu*: menu[text] LR : Label rouge\nBBC : Bleu Blanc Coeur\u200b\n- *type*: type[text] plat\n- *Allerg\u00e8nes*: allergenes[text]\n- *MAT 1er-5 mai*: semaine[text]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-31T22:03:46.459000",
+        "check:status": 200,
+        "check:url": "https://data.toulouse-metropole.fr//explore/dataset/menus-cantine-ville-de-toulouse-mai/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "7cb29864-e9c7-4415-901b-102abe4a6753",
+      "last_modified": "2017-04-14T09:10:10",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7cb29864-e9c7-4415-901b-102abe4a6753",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-08-29T06:11:28.703000",
+      "title": "Export au format JSON",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/menus-cantine-ville-de-toulouse-mai/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "menus-cantine-ville-de-toulouse-mai",
+  "spatial": null,
+  "tags": [
+    "cantine",
+    "elementaire",
+    "enfance",
+    "maternelle",
+    "repas"
+  ],
+  "temporal_coverage": null,
+  "title": "Menus cantine - Ville de Toulouse \u2013 Mai",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/menus-cantine-ville-de-toulouse-mai/"
+}

@@ -1,0 +1,303 @@
+{
+  "badges": [],
+  "created_at": "2016-06-22T00:00:00",
+  "deleted": null,
+  "description": "Il s\u2019agit d\u2019estimer la part des prestations entrant dans  les ressources des foyers allocataires. Pour ces donn\u00e9es portant sur  les revenus des allocataires, le champ est plus restreint  que celui du Total des  allocataires, et concerne une \u00ab population d\u2019allocataires de r\u00e9f\u00e9rence \u00bb. En effet, pour certaines cat\u00e9gories d\u2019allocataires (cf. ci-dessous),  la reconstitution de leur revenu disponible \u00e0 partir des fichiers CAF est impossible ou entach\u00e9e d'une incertitude importante. En outre, compte tenu des hypoth\u00e8ses faites pour l\u2019estimation des ressources ces donn\u00e9es doivent \u00eatre analys\u00e9es en tenant compte des limites de construction. \n \nD\u00e9finition de la \u00abpopulation d\u2019allocataires de r\u00e9f\u00e9rence\u00bb : \nCe calcul concerne seulement les allocataires pour lesquels la Caf peut avoir connaissance des ressources. Ne sont pas donc pris en compte : \n-\tles allocataires (et conjoints)  \u00e2g\u00e9s de moins de 65 ans, en effet pour ces populations les  Caf n\u2019ont pas connaissance de l\u2019ensemble de leurs ressources et notamment du minimum vieillesse car il s\u2019agit d\u2019une prestation non imposable ;\n-\tles allocataires \u00e9tudiant percevant uniquement l\u2019allocation logement, (leurs ressources sont g\u00e9n\u00e9ralement  nulles et augmenteraient \u00e0 tort le nombre d\u2019allocataires pr\u00e9caires)  par contre les \u00e9tudiants percevant d\u2019autres prestations et ayant notamment une charge familiale sont comptabilis\u00e9s. \n-\tles allocataires des r\u00e9gimes sp\u00e9ciaux (RATP, \u2026) : toutes les prestations dont ils sont b\u00e9n\u00e9ficiaires ne sont pas vers\u00e9es par les Caf, mais par un autre organisme d\u00e9biteur, \n\n-\tles allocataires handicap\u00e9s h\u00e9berg\u00e9s en maisons d\u2019accueil sp\u00e9cialis\u00e9es ou hospitalis\u00e9s, pouvant d\u00e9clarer des  ressources faibles (voir nulles) et de ce fait \u00eatre consid\u00e9r\u00e9s comme des allocataires pr\u00e9caires alors que leurs frais (h\u00e9bergement, soin, nourriture) sont directement pris en charge par l\u2019assurance maladie\nLes ressources prises en compte sont donc constitu\u00e9es : \n-\tdes revenus d\u00e9clar\u00e9s l\u2019ann\u00e9e N-1 (collecte directe  aupr\u00e8s de la DGFIP - Direction G\u00e9n\u00e9rale des Finances Publiques) avant imp\u00f4ts pour les allocataires \u00e0 d\u00e9claration annuelle ou des revenus d\u00e9clar\u00e9s dans la derni\u00e8re D\u00e9claration Trimestrielle de ressources (DTR) pour les autres (allocataires RSA et AAH exer\u00e7ant une activit\u00e9 professionnelle hors ESAT) \n-\tet de l\u2019ensemble des prestations per\u00e7ues au mois de d\u00e9cembre de l\u2019ann\u00e9e N augment\u00e9 de l\u2019Allocation de Rentr\u00e9e Scolaire (vers\u00e9 en une fois dans l\u2019ann\u00e9e g\u00e9n\u00e9ralement au cours des mois d\u2019ao\u00fbt ou septembre).  \nL\u2019ensemble des ressources est  mensualis\u00e9.  \nCette donn\u00e9e permet d\u2019appr\u00e9hender une forme de pr\u00e9carit\u00e9 des allocataires, mais pr\u00e9sente tout de m\u00eame deux limites essentielles : il s\u2019agit d\u2019un calcul avant imp\u00f4t, et pour les allocataires \u00e0 d\u00e9claration de revenus annuelle les revenus d\u00e9clar\u00e9s et prestations per\u00e7ues ne sont pas contemporains. Enfin, la population concern\u00e9e est restreinte, elle ne concerne que les personnes connues des CAF et ne permet pas notamment d\u2019appr\u00e9hender la pr\u00e9carit\u00e9 des personnes \u00e2g\u00e9es ou des \u00e9tudiants. \n\nLe foyer allocataire est l\u2019entit\u00e9 administrative \u00e0 laquelle les Caf versent au moins une prestation. Il est compos\u00e9 de l\u2019allocataire (personne qui per\u00e7oit au moins une prestation au regard de sa situation familiale et/ou mon\u00e9taire), de son conjoint/concubin/pacs\u00e9 \u00e9ventuel, des enfants \u00e0 charge et autres personnes \u00e0 charge au sens de la r\u00e9glementation en vigueur. Un foyer allocataire peut donc comporter une ou plusieurs personnes.\n\nLe droit versable signifie que le foyer allocataire remplit toutes les conditions pour \u00eatre effectivement pay\u00e9 au titre du mois d\u2019observation. En particulier ne sont pas inclus dans ce p\u00e9rim\u00e8tre les b\u00e9n\u00e9ficiaires qui n\u2019ont pas fourni l\u2019int\u00e9gralit\u00e9 de leurs pi\u00e8ces justificatives, ou ceux dont le montant de la prestation est inf\u00e9rieur au seuil de versement.\n\nLe champ g\u00e9ographique d\u2019observation du jeu de donn\u00e9es correspond \u00e0 la commune de r\u00e9sidence du foyer allocataire telle qu\u2019elle est enregistr\u00e9e dans le fichier statistique des allocataires extrait en d\u00e9but d\u2019ann\u00e9e N+1 et ce quelle que soit la Caf de gestion",
+  "extras": {
+    "ckan:name": "indicateur-sur-la-part-des-prestations-dans-les-ressources-des-foyers-allocataires-par-commune",
+    "harvest:domain": "data.caf.fr",
+    "harvest:last_update": "2017-11-27T05:08:34.891056",
+    "harvest:remote_id": "87fd090b-956a-4d57-b8eb-c03b08f22b4c",
+    "harvest:source_id": "560d9133c751df40ee756894",
+    "harvested": "2017-10-02T09:49:18.515729",
+    "remote_url": "FILEAS - Base Communale Allocataires (BCA)",
+    "source_id": "954ea88a-1b59-4a56-acae-2148a64dbe5e"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "560d915eb595086cd501d751",
+  "last_modified": "2017-11-27T05:08:34.892000",
+  "last_update": "2017-07-02T19:44:02.915000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": "CNAF",
+    "class": "Organization",
+    "id": "5595066cc751df4582a453ba",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-07-02/a1bc08e4a4dc44a89cb29697800a83b5/new_logo-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-07-02/a1bc08e4a4dc44a89cb29697800a83b5/new_logo-100.jpg",
+    "name": "Caisse Nationale des Allocations familiales ",
+    "page": "https://www.data.gouv.fr/fr/organizations/allocations-familiales/",
+    "slug": "allocations-familiales",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/allocations-familiales/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/indicateur-sur-la-part-des-prestations-dans-les-ressources-des-foyers-allocataires-par-commune/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:38.731000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T07:02:34.684000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/87fd090b-956a-4d57-b8eb-c03b08f22b4c/resource/75189698-90ce-44f7-aa4f-aa4e23161010/download/DependancePrestaCom2009.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "75189698-90ce-44f7-aa4f-aa4e23161010",
+      "last_modified": "2017-11-27T05:08:34.890000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/75189698-90ce-44f7-aa4f-aa4e23161010",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:38.731000",
+      "title": "Part des prestations - 2009",
+      "url": "http://data.caf.fr/dataset/87fd090b-956a-4d57-b8eb-c03b08f22b4c/resource/75189698-90ce-44f7-aa4f-aa4e23161010/download/DependancePrestaCom2009.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:38.731000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T07:02:32.792000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/87fd090b-956a-4d57-b8eb-c03b08f22b4c/resource/6a10f992-700b-4b91-992a-5bf8c7fe5eba/download/DependancePrestaCom2010.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "6a10f992-700b-4b91-992a-5bf8c7fe5eba",
+      "last_modified": "2017-11-27T05:08:34.890000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6a10f992-700b-4b91-992a-5bf8c7fe5eba",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:38.731000",
+      "title": "Part des prestations - 2010",
+      "url": "http://data.caf.fr/dataset/87fd090b-956a-4d57-b8eb-c03b08f22b4c/resource/6a10f992-700b-4b91-992a-5bf8c7fe5eba/download/DependancePrestaCom2010.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:38.731000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T07:02:33.493000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/87fd090b-956a-4d57-b8eb-c03b08f22b4c/resource/08afcec2-308c-49fd-b549-a3a7256b49c8/download/DependancePrestatCom2011.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "08afcec2-308c-49fd-b549-a3a7256b49c8",
+      "last_modified": "2017-11-27T05:08:34.890000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/08afcec2-308c-49fd-b549-a3a7256b49c8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:38.731000",
+      "title": "Part des prestations - 2011",
+      "url": "http://data.caf.fr/dataset/87fd090b-956a-4d57-b8eb-c03b08f22b4c/resource/08afcec2-308c-49fd-b549-a3a7256b49c8/download/DependancePrestatCom2011.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:38.732000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T07:02:31.030000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/87fd090b-956a-4d57-b8eb-c03b08f22b4c/resource/8e08685c-1c2d-47dd-be59-c88447c0f7d5/download/DependancePrestaCom2012.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "8e08685c-1c2d-47dd-be59-c88447c0f7d5",
+      "last_modified": "2017-11-27T05:08:34.890000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8e08685c-1c2d-47dd-be59-c88447c0f7d5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:38.732000",
+      "title": "Part des prestations - 2012",
+      "url": "http://data.caf.fr/dataset/87fd090b-956a-4d57-b8eb-c03b08f22b4c/resource/8e08685c-1c2d-47dd-be59-c88447c0f7d5/download/DependancePrestaCom2012.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:38.732000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T07:02:35.382000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/87fd090b-956a-4d57-b8eb-c03b08f22b4c/resource/cf0c4874-7490-4eab-a3cd-db5c33ff9f72/download/DependanceprestaCom2013.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "cf0c4874-7490-4eab-a3cd-db5c33ff9f72",
+      "last_modified": "2017-11-27T05:08:34.890000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cf0c4874-7490-4eab-a3cd-db5c33ff9f72",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:38.732000",
+      "title": "Part des prestations - 2013",
+      "url": "http://data.caf.fr/dataset/87fd090b-956a-4d57-b8eb-c03b08f22b4c/resource/cf0c4874-7490-4eab-a3cd-db5c33ff9f72/download/DependanceprestaCom2013.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:38.732000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T07:02:36.600000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/87fd090b-956a-4d57-b8eb-c03b08f22b4c/resource/f6cd0adb-2cc8-4c2f-8603-235b11c205ac/download/DependancePrestaCom2014.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f6cd0adb-2cc8-4c2f-8603-235b11c205ac",
+      "last_modified": "2017-11-27T05:08:34.890000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f6cd0adb-2cc8-4c2f-8603-235b11c205ac",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 6
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:38.732000",
+      "title": "Part des prestations - 2014",
+      "url": "http://data.caf.fr/dataset/87fd090b-956a-4d57-b8eb-c03b08f22b4c/resource/f6cd0adb-2cc8-4c2f-8603-235b11c205ac/download/DependancePrestaCom2014.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:44:02.913000",
+      "description": "Lisez moi.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-16T00:10:55.389000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/87fd090b-956a-4d57-b8eb-c03b08f22b4c/resource/9e6b488e-ab80-4e41-90a7-efb4e9522dd2/download/descriptifindicateurprestation.txt"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "txt",
+      "id": "9e6b488e-ab80-4e41-90a7-efb4e9522dd2",
+      "last_modified": "2017-11-27T05:08:34.890000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9e6b488e-ab80-4e41-90a7-efb4e9522dd2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T19:44:02.913000",
+      "title": "Descriptif du fichier indicateur prestation",
+      "url": "http://data.caf.fr/dataset/87fd090b-956a-4d57-b8eb-c03b08f22b4c/resource/9e6b488e-ab80-4e41-90a7-efb4e9522dd2/download/descriptifindicateurprestation.txt"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:44:02.914000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-16T00:10:55.390000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/87fd090b-956a-4d57-b8eb-c03b08f22b4c/resource/5670b984-c42c-4664-9a42-f81da4738b9a/download/TauxEffortCom2015.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "5670b984-c42c-4664-9a42-f81da4738b9a",
+      "last_modified": "2016-06-30T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5670b984-c42c-4664-9a42-f81da4738b9a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T19:44:02.914000",
+      "title": "Part des prestations - 2015",
+      "url": "http://data.caf.fr/dataset/87fd090b-956a-4d57-b8eb-c03b08f22b4c/resource/5670b984-c42c-4664-9a42-f81da4738b9a/download/TauxEffortCom2015.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:44:02.915000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-16T12:33:47.541000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/87fd090b-956a-4d57-b8eb-c03b08f22b4c/resource/7b7ec60b-81f2-4a8f-bbea-41719639e511/download/TAUXEFFORT2016.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "7b7ec60b-81f2-4a8f-bbea-41719639e511",
+      "last_modified": "2017-07-26T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7b7ec60b-81f2-4a8f-bbea-41719639e511",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T19:44:02.915000",
+      "title": "Part des prestations - 2016",
+      "url": "http://data.caf.fr/dataset/87fd090b-956a-4d57-b8eb-c03b08f22b4c/resource/7b7ec60b-81f2-4a8f-bbea-41719639e511/download/TAUXEFFORT2016.csv"
+    }
+  ],
+  "slug": "indicateur-sur-la-part-des-prestations-dans-les-ressources-des-foyers-allocataires-par-commune",
+  "spatial": null,
+  "tags": [
+    "commune",
+    "precarite",
+    "prestation",
+    "ressource"
+  ],
+  "temporal_coverage": null,
+  "title": "Indicateur sur la part des prestations dans les ressources des foyers allocataires - par Commune",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/indicateur-sur-la-part-des-prestations-dans-les-ressources-des-foyers-allocataires-par-commune/"
+}

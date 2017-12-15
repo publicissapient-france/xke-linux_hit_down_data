@@ -1,0 +1,167 @@
+{
+  "badges": [],
+  "created_at": "2017-02-11T04:00:47.025000",
+  "deleted": null,
+  "description": "Ensemble du patrimoine arbor\u00e9 en accompagnement de voirie sur le territoire rennais, g\u00e9r\u00e9 par la Direction des Jardins.  \nIdentification des arbres par leurs essences, date de plantation et diagnostic phytosanitaire.",
+  "extras": {
+    "harvest:domain": "data.rennesmetropole.fr",
+    "harvest:last_update": "2017-04-06T05:00:47.850426",
+    "harvest:remote_id": "arbres-d-alignement-rennes",
+    "harvest:source_id": "580736ec88ee3816625ff490",
+    "ods:has_records": true,
+    "ods:references": "https://public.sig.rennesmetropole.fr/geonetwork/srv/fre/csw?service=CSW&SERVICE=CSW&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&request=GetRecordById&resultType=results&VERSION=2.0.2&version=2.0.2&ElementSetName=full&id=9f792e02-d195-4c3d-a3d0-1fe81b4dba58",
+    "ods:url": "https://data.rennesmetropole.fr/explore/dataset/arbres-d-alignement-rennes/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "589e7e5fa3a72974cbf112d8",
+  "last_modified": "2017-04-06T05:00:47.852000",
+  "last_update": "2017-04-06T05:00:47.849000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "RM",
+    "class": "Organization",
+    "id": "580735be88ee3814295ff490",
+    "logo": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-100.png",
+    "name": "Rennes M\u00e9tropole en acc\u00e8s libre",
+    "page": "https://www.data.gouv.fr/fr/organizations/rennes-metropole-en-acces-libre-1/",
+    "slug": "rennes-metropole-en-acces-libre-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/rennes-metropole-en-acces-libre-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/arbres-dalignement-en-accompagnement-de-voirie-sur-la-ville-de-rennes/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T05:00:47.848000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *numero*: numero[text]\n- *denomination*: denomination[text]\n- *date_plant*: date_plant[int]\n- *forme*: forme[text]\n- *diag_phyto*: diag_phyto[int]\n- *d_diag*: d_diag[date]\n- *gestion*: gestion[text]\n- *numelag*: numelag[int]\n- *etat*: etat[int]\n- *code_rivoli*: code_rivoli[text]\n- *genre*: genre[text]\n- *espece*: espece[text]\n- *variete*: variete[text]\n- *objectid*: objectid[int]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-18T20:26:08.132000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/arbres-d-alignement-rennes/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b1429a00-1b28-4a31-b497-3dfe901a5870",
+      "last_modified": "2017-01-20T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b1429a00-1b28-4a31-b497-3dfe901a5870",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-04-06T05:00:47.848000",
+      "title": "Export au format CSV",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/arbres-d-alignement-rennes/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T05:00:47.848000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *numero*: numero[text]\n- *denomination*: denomination[text]\n- *date_plant*: date_plant[int]\n- *forme*: forme[text]\n- *diag_phyto*: diag_phyto[int]\n- *d_diag*: d_diag[date]\n- *gestion*: gestion[text]\n- *numelag*: numelag[int]\n- *etat*: etat[int]\n- *code_rivoli*: code_rivoli[text]\n- *genre*: genre[text]\n- *espece*: espece[text]\n- *variete*: variete[text]\n- *objectid*: objectid[int]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-18T20:26:08.163000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/arbres-d-alignement-rennes/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "bce0cf41-9d59-44c5-a900-3c9c48aabd4c",
+      "last_modified": "2017-01-20T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/bce0cf41-9d59-44c5-a900-3c9c48aabd4c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-04-06T05:00:47.848000",
+      "title": "Export au format JSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/arbres-d-alignement-rennes/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T05:00:47.848000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *numero*: numero[text]\n- *denomination*: denomination[text]\n- *date_plant*: date_plant[int]\n- *forme*: forme[text]\n- *diag_phyto*: diag_phyto[int]\n- *d_diag*: d_diag[date]\n- *gestion*: gestion[text]\n- *numelag*: numelag[int]\n- *etat*: etat[int]\n- *code_rivoli*: code_rivoli[text]\n- *genre*: genre[text]\n- *espece*: espece[text]\n- *variete*: variete[text]\n- *objectid*: objectid[int]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-18T20:26:08.144000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/arbres-d-alignement-rennes/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "30364e81-9cf8-49b6-b831-0608ee01ca41",
+      "last_modified": "2017-01-20T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/30364e81-9cf8-49b6-b831-0608ee01ca41",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-04-06T05:00:47.848000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/arbres-d-alignement-rennes/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T05:00:47.849000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *numero*: numero[text]\n- *denomination*: denomination[text]\n- *date_plant*: date_plant[int]\n- *forme*: forme[text]\n- *diag_phyto*: diag_phyto[int]\n- *d_diag*: d_diag[date]\n- *gestion*: gestion[text]\n- *numelag*: numelag[int]\n- *etat*: etat[int]\n- *code_rivoli*: code_rivoli[text]\n- *genre*: genre[text]\n- *espece*: espece[text]\n- *variete*: variete[text]\n- *objectid*: objectid[int]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-18T20:26:08.168000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/arbres-d-alignement-rennes/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "db74d950-797a-499f-aae2-0ab1e083161f",
+      "last_modified": "2017-01-20T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/db74d950-797a-499f-aae2-0ab1e083161f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-04-06T05:00:47.849000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/arbres-d-alignement-rennes/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "arbres-dalignement-en-accompagnement-de-voirie-sur-la-ville-de-rennes",
+  "spatial": null,
+  "tags": [
+    "arbre",
+    "espace-public",
+    "phytosanitaire",
+    "plantation-darbres"
+  ],
+  "temporal_coverage": null,
+  "title": "Arbres d'alignement en accompagnement de voirie sur la ville de Rennes",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/arbres-dalignement-en-accompagnement-de-voirie-sur-la-ville-de-rennes/"
+}

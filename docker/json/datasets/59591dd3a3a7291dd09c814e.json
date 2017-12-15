@@ -1,0 +1,167 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T18:22:43.333000",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es r\u00e9f\u00e9rence les lieux de diffusion r\u00e9guli\u00e8re ou occasionnelle du spectacle vivant dans les Yvelines.\n\n **Structure des donn\u00e9es  **  \nnom de l'\u00e9tablissement ; adresse ; e-mail ; t\u00e9l\u00e9phone ; fax ; site internet ; g\u00e9olocalisation (WGS84).",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T05:37:24.773525",
+    "harvest:remote_id": "les-lieux-de-diffusion-du-spectacle-vivant-dans-les-yvelines",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:references": "http://www.arcadi.fr/point-doc/repertoires/lieux/",
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/les-lieux-de-diffusion-du-spectacle-vivant-dans-les-yvelines/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59591dd3a3a7291dd09c814e",
+  "last_modified": "2017-11-27T05:37:24.777000",
+  "last_update": "2017-11-27T05:37:24.772000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/les-lieux-de-diffusion-du-spectacle-vivant-dans-les-yvelines/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:37:24.772000",
+      "description": "- *Nom*: nom[text]\n- *Adresse 1*: adresse_1[text]\n- *Adresse2*: adresse2[text]\n- *Code postal*: code_postal[int]\n- *Ville*: ville[text]\n- *eMail*: email[text]\n- *T\u00e9l\u00e9phone*: telephone[text]\n- *Fax*: fax[text]\n- *Web*: web[text]\n- *WGS84*: wgs84[geo_point_2d]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-11T14:00:08.771000",
+        "check:status": 200,
+        "check:url": "https://data.iledefrance.fr//explore/dataset/les-lieux-de-diffusion-du-spectacle-vivant-dans-les-yvelines/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "7fb8f558-40d1-48f4-80bc-82fb83906f93",
+      "last_modified": "2014-03-10T22:56:32",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7fb8f558-40d1-48f4-80bc-82fb83906f93",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:37:24.772000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/les-lieux-de-diffusion-du-spectacle-vivant-dans-les-yvelines/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:37:24.772000",
+      "description": "- *Nom*: nom[text]\n- *Adresse 1*: adresse_1[text]\n- *Adresse2*: adresse2[text]\n- *Code postal*: code_postal[int]\n- *Ville*: ville[text]\n- *eMail*: email[text]\n- *T\u00e9l\u00e9phone*: telephone[text]\n- *Fax*: fax[text]\n- *Web*: web[text]\n- *WGS84*: wgs84[geo_point_2d]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-11T13:56:57.749000",
+        "check:status": 200,
+        "check:url": "https://data.iledefrance.fr//explore/dataset/les-lieux-de-diffusion-du-spectacle-vivant-dans-les-yvelines/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "99ffe308-abb4-4588-9ed3-b28843328328",
+      "last_modified": "2014-03-10T22:56:32",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/99ffe308-abb4-4588-9ed3-b28843328328",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:37:24.772000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/les-lieux-de-diffusion-du-spectacle-vivant-dans-les-yvelines/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:37:24.772000",
+      "description": "- *Nom*: nom[text]\n- *Adresse 1*: adresse_1[text]\n- *Adresse2*: adresse2[text]\n- *Code postal*: code_postal[int]\n- *Ville*: ville[text]\n- *eMail*: email[text]\n- *T\u00e9l\u00e9phone*: telephone[text]\n- *Fax*: fax[text]\n- *Web*: web[text]\n- *WGS84*: wgs84[geo_point_2d]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-11T13:59:44.953000",
+        "check:status": 200,
+        "check:url": "https://data.iledefrance.fr//explore/dataset/les-lieux-de-diffusion-du-spectacle-vivant-dans-les-yvelines/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "7250360f-5e78-4465-ba64-622497326881",
+      "last_modified": "2014-03-10T22:56:32",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7250360f-5e78-4465-ba64-622497326881",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:37:24.772000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/les-lieux-de-diffusion-du-spectacle-vivant-dans-les-yvelines/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:37:24.772000",
+      "description": "- *Nom*: nom[text]\n- *Adresse 1*: adresse_1[text]\n- *Adresse2*: adresse2[text]\n- *Code postal*: code_postal[int]\n- *Ville*: ville[text]\n- *eMail*: email[text]\n- *T\u00e9l\u00e9phone*: telephone[text]\n- *Fax*: fax[text]\n- *Web*: web[text]\n- *WGS84*: wgs84[geo_point_2d]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-11T14:00:10.346000",
+        "check:status": 200,
+        "check:url": "https://data.iledefrance.fr//explore/dataset/les-lieux-de-diffusion-du-spectacle-vivant-dans-les-yvelines/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "fcf33e4d-e02a-4d47-8b16-e1d59679cd96",
+      "last_modified": "2014-03-10T22:56:32",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fcf33e4d-e02a-4d47-8b16-e1d59679cd96",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:37:24.772000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.iledefrance.fr//explore/dataset/les-lieux-de-diffusion-du-spectacle-vivant-dans-les-yvelines/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "les-lieux-de-diffusion-du-spectacle-vivant-dans-les-yvelines",
+  "spatial": null,
+  "tags": [
+    "arts",
+    "geolocalisation",
+    "musique",
+    "spectacle-vivant",
+    "vie-culturelle"
+  ],
+  "temporal_coverage": null,
+  "title": "Les lieux de diffusion du spectacle vivant dans les Yvelines",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/les-lieux-de-diffusion-du-spectacle-vivant-dans-les-yvelines/"
+}

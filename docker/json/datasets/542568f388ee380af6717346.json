@@ -1,0 +1,89 @@
+{
+  "badges": [
+    {
+      "kind": "c3"
+    }
+  ],
+  "created_at": "2014-09-26T15:24:03.063000",
+  "deleted": null,
+  "description": "Aires de covoiturage des C\u00f4tes d'Armor localis\u00e9es avec descriptif et pr\u00e9sence d'\u00e9quipements (portique, parc \u00e0 v\u00e9lo, poubelle, banc, abri).\t\r\n[Source du jeu](http://datarmor.cotesdarmor.fr/opendata/#/cg22/view/AIRES_COVOITURAGE/default?$top=15)",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": null,
+  "id": "542568f388ee380af6717346",
+  "last_modified": "2015-08-30T23:40:02.555000",
+  "last_update": "2014-09-26T15:25:06.035000",
+  "license": "fr-lo",
+  "metrics": {
+    "cow_criticals": 0,
+    "cow_errors": 0,
+    "cow_score": 0,
+    "cow_warnings": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 4
+  },
+  "organization": null,
+  "owner": {
+    "avatar": "https://www.data.gouv.fr/s/avatars/5f/0be2ae03d94a7c9ed2421ea2b1bc67-original.png",
+    "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/5f/0be2ae03d94a7c9ed2421ea2b1bc67-100.png",
+    "class": "User",
+    "first_name": "Kevin",
+    "id": "5425656288ee380af6717345",
+    "last_name": "Guezennec",
+    "page": "https://www.data.gouv.fr/fr/users/kevin-guezennec/",
+    "slug": "kevin-guezennec",
+    "uri": "https://www.data.gouv.fr/api/1/users/kevin-guezennec/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/aires-de-covoiturages-des-cotes-darmor-par-le-cg22/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2014-09-26T15:25:06.035000",
+      "description": "Liste des aires de covoiturage",
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-10-28T21:23:32.935000",
+        "check:status": 404,
+        "check:url": "https://www2.mgcloud.fr/dataserver/cg22/data/AIRES_COVOITURAGE?$format=csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "28341353-f913-4c92-9c0c-30bd2bd0c553",
+      "last_modified": "2014-09-26T15:25:06.035000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/28341353-f913-4c92-9c0c-30bd2bd0c553",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 2
+      },
+      "mime": null,
+      "published": "2014-09-26T15:25:06.035000",
+      "title": "Liste des aires de covoiturage",
+      "url": "https://www2.mgcloud.fr/dataserver/cg22/data/AIRES_COVOITURAGE?$format=csv"
+    }
+  ],
+  "slug": "aires-de-covoiturages-des-cotes-darmor-par-le-cg22",
+  "spatial": {
+    "geom": null,
+    "granularity": "other",
+    "zones": []
+  },
+  "tags": [
+    "covoiturage"
+  ],
+  "temporal_coverage": {
+    "end": "2014-12-31",
+    "start": "2014-01-01"
+  },
+  "title": "Aires de covoiturages des C\u00f4tes d'Armor par le CG22",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/aires-de-covoiturages-des-cotes-darmor-par-le-cg22/"
+}

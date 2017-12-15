@@ -1,0 +1,218 @@
+{
+  "badges": [],
+  "created_at": "2016-10-04T00:00:00",
+  "deleted": null,
+  "description": "Donn\u00e9es g\u00e9ographiques du Plan Local d'Urbanisme de Carros approuv\u00e9 le 21/06/2013 et modifi\u00e9 le 11/09/2015.",
+  "extras": {
+    "ckan:name": "plu-de-carros-prescriptions-lineaires",
+    "harvest:domain": "opendata.nicecotedazur.org",
+    "harvest:last_update": "2017-09-05T15:34:19.579737",
+    "harvest:remote_id": "db8c2f7f-18ce-4b80-b10d-23d9421297a1",
+    "harvest:source_id": "59aea691c751df40c6e8212c"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59aea7dba3a72917daf3fc81",
+  "last_modified": "2017-09-05T15:34:19.581000",
+  "last_update": "2017-09-05T15:34:19.579000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "59aea226c751df38f3f6834b",
+    "logo": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-100.png",
+    "name": "Nice C\u00f4te d'Azur",
+    "page": "https://www.data.gouv.fr/fr/organizations/nice-cote-dazur/",
+    "slug": "nice-cote-dazur",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nice-cote-dazur/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/plu-de-carros-prescriptions-lineaires/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:34:19.576000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-04T15:46:57.331000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2016-10-04T12%3A42%3A06.351Z/t06033-carros-20150911-prescription-lin.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "eccd4a14-693b-475e-a1aa-b5c5d52fbea9",
+      "last_modified": "2016-10-06T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/eccd4a14-693b-475e-a1aa-b5c5d52fbea9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-05T15:34:19.577000",
+      "title": "T06033_carros_20150911_prescription_lin.csv",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2016-10-04T12%3A42%3A06.351Z/t06033-carros-20150911-prescription-lin.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:34:19.577000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-04T15:46:57.468000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2016-10-04T12%3A42%3A17.800Z/t06033-carros-20150911-prescription-lin.geojson"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "geojson",
+      "id": "03c35f5d-2104-4f16-ba1e-c44439b042cf",
+      "last_modified": "2016-10-06T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/03c35f5d-2104-4f16-ba1e-c44439b042cf",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/plain",
+      "published": "2017-09-05T15:34:19.577000",
+      "title": "T06033_carros_20150911_prescription_lin.geojson",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2016-10-04T12%3A42%3A17.800Z/t06033-carros-20150911-prescription-lin.geojson"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:34:19.577000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T19:51:49.745000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2016-10-04T12%3A42%3A30.427Z/t06033-carros-20150911-prescription-lin.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "918e0914-2aaa-43df-85fe-0333c26841bd",
+      "last_modified": "2016-10-06T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/918e0914-2aaa-43df-85fe-0333c26841bd",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-09-05T15:34:19.577000",
+      "title": "T06033_carros_20150911_prescription_lin.json",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2016-10-04T12%3A42%3A30.427Z/t06033-carros-20150911-prescription-lin.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:34:19.578000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-04T15:46:57.185000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2016-10-04T12%3A42%3A44.217Z/t06033-carros-20150911-prescription-lin.kmz"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "kmz",
+      "id": "c1f9068f-0009-4be4-bbb8-1178630efec1",
+      "last_modified": "2016-10-06T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c1f9068f-0009-4be4-bbb8-1178630efec1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.google-earth.kmz",
+      "published": "2017-09-05T15:34:19.578000",
+      "title": "T06033_carros_20150911_prescription_lin.kmz",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2016-10-04T12%3A42%3A44.217Z/t06033-carros-20150911-prescription-lin.kmz"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:34:19.578000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T19:51:49.032000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2016-10-04T12%3A42%3A57.795Z/t06033-carros-20150911-prescription-lin-rgf93l93-shapefile.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "3339a41b-e141-4652-b608-546ccd1a729c",
+      "last_modified": "2017-09-05T15:34:19.578000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3339a41b-e141-4652-b608-546ccd1a729c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-09-05T15:34:19.578000",
+      "title": "T06033_carros_20150911_prescription_lin_RGF93L93_shapefile.zip",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2016-10-04T12%3A42%3A57.795Z/t06033-carros-20150911-prescription-lin-rgf93l93-shapefile.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:34:19.579000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-04T15:46:57.318000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2016-10-04T12%3A43%3A07.364Z/t06033-carros-20150911-prescription-lin-wgs84-shapefile.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "daa8eb78-10a2-42b7-8112-06abfb6f1792",
+      "last_modified": "2017-09-05T15:34:19.579000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/daa8eb78-10a2-42b7-8112-06abfb6f1792",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-09-05T15:34:19.579000",
+      "title": "T06033_carros_20150911_prescription_lin_WGS84_shapefile.zip",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2016-10-04T12%3A43%3A07.364Z/t06033-carros-20150911-prescription-lin-wgs84-shapefile.zip"
+    }
+  ],
+  "slug": "plu-de-carros-prescriptions-lineaires",
+  "spatial": null,
+  "tags": [
+    "carros",
+    "plu",
+    "urbanisme",
+    "zonage"
+  ],
+  "temporal_coverage": null,
+  "title": "PLU de Carros (prescriptions lin\u00e9aires)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/plu-de-carros-prescriptions-lineaires/"
+}

@@ -1,0 +1,272 @@
+{
+  "badges": [],
+  "created_at": "2017-02-17T00:00:00",
+  "deleted": null,
+  "description": "Le plan d\u00e9partemental des itin\u00e9raires de promenades et de randonn\u00e9es (PDIPR) repr\u00e9sente environ 4200 km de chemins r\u00e9partis sur l'ensemble du territoire qui permettent de d\u00e9couvrir et de mettre en valeur le patrimoine naturel et b\u00e2ti du d\u00e9partement.",
+  "extras": {
+    "ckan:name": "plan-departemental-des-itineraires-de-promenades-et-de-randonnees-pdipr1",
+    "guid": "https://datacat.datalocale.fr/416353",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-06-06T16:41:15.342704",
+    "harvest:remote_id": "59023a5a-932c-4024-8b81-9aeeaad20b97",
+    "harvest:source_id": "59365a72c751df28ed47c9eb",
+    "identifier": "f0349d14-c4f4-41eb-ad25-32ae2aad92f4",
+    "issued": "2013-03-20T01:01:17+00:00",
+    "modified": "2016-07-18T09:21:06.787040+00:00",
+    "uri": "https://datacat.datalocale.fr/416353"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59345863a3a72968e2876c7a",
+  "last_modified": "2017-06-06T16:41:15.346000",
+  "last_update": "2017-06-06T16:41:15.341000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": null,
+  "owner": {
+    "avatar": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-original.jpg",
+    "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-100.jpg",
+    "class": "User",
+    "first_name": "Ressourcerie",
+    "id": "534fff47a3a7292c64a77adc",
+    "last_name": "datalocale",
+    "page": "https://www.data.gouv.fr/fr/users/ressourcerie-datalocale/",
+    "slug": "ressourcerie-datalocale",
+    "uri": "https://www.data.gouv.fr/api/1/users/ressourcerie-datalocale/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/plan-departemental-des-itineraires-de-promenades-et-de-randonnees-pdipr1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:58:43.429000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-17T18:05:33.340000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416355/raw/ows%3Fservice%3DWFS%26version%3D1.0.0%26request%3DGetFeature%26typeName%3Dodt_det_pdipr%26outputFormat%3DSHAPE-ZIP"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "bin",
+      "id": "4011d9d8-dc7b-4115-b05e-b9234a529791",
+      "last_modified": "2017-06-04T20:58:43.429000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4011d9d8-dc7b-4115-b05e-b9234a529791",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/octet-stream",
+      "published": "2017-06-04T20:58:43.429000",
+      "title": "export de la couche SIG de r\u00e9f\u00e9rence en Shape",
+      "url": "https://datacat.datalocale.fr/file/416355/raw/ows%3Fservice%3DWFS%26version%3D1.0.0%26request%3DGetFeature%26typeName%3Dodt_det_pdipr%26outputFormat%3DSHAPE-ZIP"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:58:43.429000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-17T18:05:33.051000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416359/raw/ows%3Fservice%3DWFS%26version%3D1.0.0%26request%3DGetFeature%26typeName%3Dodt_det_pdipr%26outputFormat%3Dcsv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "aaccaaea-721d-4a42-8841-b8c099816a1c",
+      "last_modified": "2017-06-04T20:58:43.430000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/aaccaaea-721d-4a42-8841-b8c099816a1c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:58:43.430000",
+      "title": "export de la couche SIG de r\u00e9f\u00e9rence en csv",
+      "url": "https://datacat.datalocale.fr/file/416359/raw/ows%3Fservice%3DWFS%26version%3D1.0.0%26request%3DGetFeature%26typeName%3Dodt_det_pdipr%26outputFormat%3Dcsv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:58:43.430000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-17T18:05:32.669000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416361/raw/odt_det_pdipr.kmz"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "kmz",
+      "id": "b26667e2-000d-413b-bc9e-78acae9fa375",
+      "last_modified": "2017-06-04T20:58:43.430000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b26667e2-000d-413b-bc9e-78acae9fa375",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-06-04T20:58:43.430000",
+      "title": "export de la couche SIG de r\u00e9f\u00e9rence en KML",
+      "url": "https://datacat.datalocale.fr/file/416361/raw/odt_det_pdipr.kmz"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:58:43.430000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-17T18:05:32.756000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416357/raw/ows%3Fservice%3DWFS%26version%3D1.0.0%26request%3DGetFeature%26typeName%3Dodt_det_pdipr%26outputFormat%3Djson"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "bin",
+      "id": "8da9d806-ea1d-4fcd-8c4d-be6416764910",
+      "last_modified": "2017-06-04T20:58:43.431000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8da9d806-ea1d-4fcd-8c4d-be6416764910",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/octet-stream",
+      "published": "2017-06-04T20:58:43.430000",
+      "title": "export de la couche SIG de r\u00e9f\u00e9rence en geoJson",
+      "url": "https://datacat.datalocale.fr/file/416357/raw/ows%3Fservice%3DWFS%26version%3D1.0.0%26request%3DGetFeature%26typeName%3Dodt_det_pdipr%26outputFormat%3Djson"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:41:15.340000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-17T18:05:32.756000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416357/raw/ows%3Fservice%3DWFS%26version%3D1.0.0%26request%3DGetFeature%26typeName%3Dodt_det_pdipr%26outputFormat%3Djson"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "bin",
+      "id": "389d1073-69f9-4969-9a12-47866dd2f0eb",
+      "last_modified": "2017-06-06T16:41:15.340000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/389d1073-69f9-4969-9a12-47866dd2f0eb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/octet-stream",
+      "published": "2017-06-06T16:41:15.340000",
+      "title": "export de la couche SIG de r\u00e9f\u00e9rence en geoJson",
+      "url": "https://datacat.datalocale.fr/file/416357/raw/ows%3Fservice%3DWFS%26version%3D1.0.0%26request%3DGetFeature%26typeName%3Dodt_det_pdipr%26outputFormat%3Djson"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:41:15.340000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T20:07:15.214000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416359/raw/ows%3Fservice%3DWFS%26version%3D1.0.0%26request%3DGetFeature%26typeName%3Dodt_det_pdipr%26outputFormat%3Dcsv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "10d60b8f-f185-4213-b312-d3a3e7d1f35d",
+      "last_modified": "2017-06-06T16:41:15.341000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/10d60b8f-f185-4213-b312-d3a3e7d1f35d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:41:15.340000",
+      "title": "export de la couche SIG de r\u00e9f\u00e9rence en csv",
+      "url": "https://datacat.datalocale.fr/file/416359/raw/ows%3Fservice%3DWFS%26version%3D1.0.0%26request%3DGetFeature%26typeName%3Dodt_det_pdipr%26outputFormat%3Dcsv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:41:15.341000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-10T14:26:07.204000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416355/raw/ows%3Fservice%3DWFS%26version%3D1.0.0%26request%3DGetFeature%26typeName%3Dodt_det_pdipr%26outputFormat%3DSHAPE-ZIP"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "bin",
+      "id": "ded39a6e-faf2-4159-974e-0e68d33e8bcd",
+      "last_modified": "2017-06-06T16:41:15.341000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ded39a6e-faf2-4159-974e-0e68d33e8bcd",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/octet-stream",
+      "published": "2017-06-06T16:41:15.341000",
+      "title": "export de la couche SIG de r\u00e9f\u00e9rence en Shape",
+      "url": "https://datacat.datalocale.fr/file/416355/raw/ows%3Fservice%3DWFS%26version%3D1.0.0%26request%3DGetFeature%26typeName%3Dodt_det_pdipr%26outputFormat%3DSHAPE-ZIP"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:41:15.341000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-10T14:26:08.320000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416361/raw/odt_det_pdipr.kmz"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "kmz",
+      "id": "02ebe6a1-3e35-44bf-96d8-5d8fdd73bcfd",
+      "last_modified": "2017-06-06T16:41:15.342000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/02ebe6a1-3e35-44bf-96d8-5d8fdd73bcfd",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-06-06T16:41:15.341000",
+      "title": "export de la couche SIG de r\u00e9f\u00e9rence en KML",
+      "url": "https://datacat.datalocale.fr/file/416361/raw/odt_det_pdipr.kmz"
+    }
+  ],
+  "slug": "plan-departemental-des-itineraires-de-promenades-et-de-randonnees-pdipr1",
+  "spatial": null,
+  "tags": [],
+  "temporal_coverage": null,
+  "title": "Plan d\u00e9partemental des itin\u00e9raires de promenades et de randonn\u00e9es (PDIPR)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/plan-departemental-des-itineraires-de-promenades-et-de-randonnees-pdipr1/"
+}

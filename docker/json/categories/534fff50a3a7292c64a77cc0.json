@@ -1,0 +1,109 @@
+{
+  "acronym": "Anses",
+  "badges": [
+    {
+      "kind": "public-service"
+    },
+    {
+      "kind": "certified"
+    }
+  ],
+  "created_at": "2014-04-17T18:20:32.535000",
+  "deleted": null,
+  "description": "L\u2019Anses - Agence nationale de s\u00e9curit\u00e9 sanitaire de l\u2019alimentation, de l\u2019environnement et du travail - est une instance scientifique intervenant dans les domaines de l\u2019alimentation, de l\u2019environnement, du travail, de la sant\u00e9 et du bien-\u00eatre des animaux et de la sant\u00e9 des v\u00e9g\u00e9taux.\n\nLe c\u0153ur de l\u2019action de l\u2019Anses est de mettre en \u0153uvre une expertise scientifique ind\u00e9pendante et pluraliste afin d\u2019\u00e9valuer les risques sanitaires et de proposer aux autorit\u00e9s comp\u00e9tentes toute mesure de nature \u00e0 pr\u00e9server la sant\u00e9 publique.\n\nPar ses activit\u00e9s de veille, d\u2019expertise, de recherche et de r\u00e9f\u00e9rence, l\u2019Agence couvre l\u2019ensemble des risques (microbiologiques, physiques ou chimiques) auxquels un individu peut \u00eatre expos\u00e9, volontairement ou non, \u00e0 tous les moments de sa vie, qu\u2019il s\u2019agisse d\u2019expositions sur son lieu de travail, pendant ses transports, ses loisirs ou via son alimentation. Cette activit\u00e9 repose sur la mise en \u0153uvre d\u2019une expertise scientifique ind\u00e9pendante et pluraliste au sein de collectifs d\u2019experts, en int\u00e9grant les dimensions socio-\u00e9conomiques du risque.\n\nReconnue comme une agence de r\u00e9f\u00e9rence dans les domaines de l\u2019alimentation, de la sant\u00e9 et du bien-\u00eatre des animaux, de la sant\u00e9 des v\u00e9g\u00e9taux, de l\u2019environnement et du travail, l\u2019Anses a nou\u00e9 nombre de partenariats et est impliqu\u00e9e dans des programmes de recherche nationaux, europ\u00e9ens et internationaux.\n\nL\u2019Agence est un \u00e9tablissement public \u00e0 caract\u00e8re administratif, plac\u00e9e sous la tutelle des minist\u00e8res charg\u00e9s de la sant\u00e9, de l\u2019agriculture, de l\u2019environnement, du travail et de la consommation.\n",
+  "id": "534fff50a3a7292c64a77cc0",
+  "last_modified": "2017-11-23T21:46:17.187000",
+  "logo": "https://www.data.gouv.fr/s/avatars/2015-05-06/7b061c43e0c54a13838faea5e6252ea5/Logo_Anses_couleur_2-original.jpg",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-05-06/7b061c43e0c54a13838faea5e6252ea5/Logo_Anses_couleur_2-100.jpg",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/5d/38616b0fb94fd5a34a6352dd0cc762-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/5d/38616b0fb94fd5a34a6352dd0cc762-100.jpg",
+        "class": "User",
+        "first_name": "Julien",
+        "id": "534fff42a3a7292c64a77822",
+        "last_name": "Vigneron",
+        "page": "https://www.data.gouv.fr/fr/users/julien-vigneron-2/",
+        "slug": "julien-vigneron-2",
+        "uri": "https://www.data.gouv.fr/api/1/users/julien-vigneron-2/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Pierre-Yves",
+        "id": "534fff47a3a7292c64a77aa3",
+        "last_name": "Letournel",
+        "page": "https://www.data.gouv.fr/fr/users/pierre-yves-letournel/",
+        "slug": "pierre-yves-letournel",
+        "uri": "https://www.data.gouv.fr/api/1/users/pierre-yves-letournel/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Fabrice",
+        "id": "539a5ad0a3a7293bc2728311",
+        "last_name": "Herrmann",
+        "page": "https://www.data.gouv.fr/fr/users/fabrice-herrmann/",
+        "slug": "fabrice-herrmann",
+        "uri": "https://www.data.gouv.fr/api/1/users/fabrice-herrmann/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Sebastien",
+        "id": "578dd30e88ee3805d47d97c2",
+        "last_name": "PRENIERE",
+        "page": "https://www.data.gouv.fr/fr/users/sebastien-preniere/",
+        "slug": "sebastien-preniere",
+        "uri": "https://www.data.gouv.fr/api/1/users/sebastien-preniere/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Isabelle",
+        "id": "5888adebc751df6bb8ae0a67",
+        "last_name": "Domain",
+        "page": "https://www.data.gouv.fr/fr/users/isabelle-domain/",
+        "slug": "isabelle-domain",
+        "uri": "https://www.data.gouv.fr/api/1/users/isabelle-domain/"
+      }
+    }
+  ],
+  "metrics": {
+    "dataset_views": 35200,
+    "datasets": 5,
+    "followers": 34,
+    "members": 5,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 2,
+    "resource_downloads": 14060,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 766
+  },
+  "name": "Agence nationale de s\u00e9curit\u00e9 sanitaire, de l'alimentation, de l'environnement et du travail (Anses)",
+  "page": "https://www.data.gouv.fr/fr/organizations/agence-nationale-de-securite-sanitaire-de-l-alimentation-de-l-environnement-et-du-travail-anses/",
+  "slug": "agence-nationale-de-securite-sanitaire-de-l-alimentation-de-l-environnement-et-du-travail-anses",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/agence-nationale-de-securite-sanitaire-de-l-alimentation-de-l-environnement-et-du-travail-anses/",
+  "url": "https://www.anses.fr"
+}

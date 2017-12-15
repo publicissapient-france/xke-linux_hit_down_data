@@ -1,0 +1,276 @@
+{
+  "badges": [],
+  "created_at": "2017-02-06T00:00:00",
+  "deleted": null,
+  "description": "Les fichiers mis \u00e0 disposition correspondent \u00e0 la norme comptable M52 par chapitre et par article correspondant \u00e0 l'\u00e9tape budg\u00e9taire du vote du budget suppl\u00e9mentaire de la collectivit\u00e9 vot\u00e9 par les \u00e9lus en assembl\u00e9 g\u00e9n\u00e9rale en d\u00e9cembre.\nLes diff\u00e9rents fichiers correspondent aux diff\u00e9rentes \u00e9tapes budg\u00e9taires vot\u00e9es par les conseillers d\u00e9partementaux",
+  "extras": {
+    "ckan:name": "budgets-supplementaires-du-departement-de-la-gironde1",
+    "contact_email": "mailto:b.siracusa@cg33.fr",
+    "contact_name": "B\u00e9atrice Siracusa",
+    "contact_uri": "https://datacat.datalocale.fr/415161",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+    "guid": "https://datacat.datalocale.fr/1014337",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-06-04T20:56:10.080544",
+    "harvest:remote_id": "c1c626a4-c740-4184-944b-9c9fe906d693",
+    "harvest:source_id": "59342bc2c751df46b29d4f99",
+    "issued": "2016-12-08T15:00:02.058399+00:00",
+    "modified": "2016-12-08T15:00:02.058399+00:00",
+    "publisher_email": "mailto:datalocale@gironde.fr",
+    "publisher_name": "D\u00e9partement de la Gironde",
+    "publisher_type": "\"Collectivit\u00e9 locale\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414548",
+    "remote_url": "http://www.gironde.fr/jcms/c_17142/le-budget-2016-du-departement",
+    "theme": "[\"finances publiques\", \"2441 budget\", \"2436 finances publiques et politique budg\u00e9taire\", \"budget local\", \"finances locales\", \"budget suppl\u00e9mentaire\", \"adoption du budget\"]",
+    "uri": "https://datacat.datalocale.fr/1014337"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "593457caa3a72968e2876bf8",
+  "last_modified": "2017-06-04T20:56:10.082000",
+  "last_update": "2017-06-04T20:56:10.077000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": null,
+  "owner": {
+    "avatar": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-original.jpg",
+    "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-100.jpg",
+    "class": "User",
+    "first_name": "Ressourcerie",
+    "id": "534fff47a3a7292c64a77adc",
+    "last_name": "datalocale",
+    "page": "https://www.data.gouv.fr/fr/users/ressourcerie-datalocale/",
+    "slug": "ressourcerie-datalocale",
+    "uri": "https://www.data.gouv.fr/api/1/users/ressourcerie-datalocale/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/budgets-supplementaires-du-departement-de-la-gironde1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:10.069000",
+      "description": "export en csv du budget suppl\u00e9mentaire 2010 du D\u00e9partement de la Gironde",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T17:50:42.658000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1242135/raw/cedi_2010_BS.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "1dc87c3c-859e-4592-a3cf-9f82759396f4",
+      "last_modified": "2017-06-04T20:56:10.070000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1dc87c3c-859e-4592-a3cf-9f82759396f4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:56:10.069000",
+      "title": "cedi_2010_BS.csv",
+      "url": "https://datacat.datalocale.fr/file/1242135/raw/cedi_2010_BS.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:10.070000",
+      "description": "export en csv du budget suppl\u00e9mentaire du D\u00e9partement de la Gironde",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T17:50:44.055000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1242187/raw/cedi_2015_BS.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ebb2ddb5-39a1-47b1-93d1-44abcb4641c3",
+      "last_modified": "2017-06-04T20:56:10.071000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ebb2ddb5-39a1-47b1-93d1-44abcb4641c3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:56:10.071000",
+      "title": "cedi_2015_BS.csv",
+      "url": "https://datacat.datalocale.fr/file/1242187/raw/cedi_2015_BS.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:10.071000",
+      "description": "export en csv du budget suppl\u00e9mentaire 2012 du D\u00e9partement de la Gironde",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-30T20:09:55.962000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1242160/raw/cedi_2012_BS.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f815f88f-7946-4a37-ae6b-3841d02bbba3",
+      "last_modified": "2017-06-04T20:56:10.072000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f815f88f-7946-4a37-ae6b-3841d02bbba3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:56:10.071000",
+      "title": "cedi_2012_BS.csv",
+      "url": "https://datacat.datalocale.fr/file/1242160/raw/cedi_2012_BS.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:10.072000",
+      "description": "export en csv du budget suppl\u00e9mentaire du D\u00e9partement de la Gironde",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T17:50:43.372000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1242162/raw/cedi_2014_BS.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "979c11fe-e34a-44e5-af05-96b5d2988154",
+      "last_modified": "2017-06-04T20:56:10.073000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/979c11fe-e34a-44e5-af05-96b5d2988154",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:56:10.072000",
+      "title": "cedi_2014_BS.csv",
+      "url": "https://datacat.datalocale.fr/file/1242162/raw/cedi_2014_BS.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:10.073000",
+      "description": "export en csv du budget suppl\u00e9mentaire 2009 du d\u00e9partement de la Gironde",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T17:50:41.946000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1242172/raw/cedi_2009_BS.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ea8cf3b6-c133-43e8-a601-45f97c665b60",
+      "last_modified": "2017-06-04T20:56:10.073000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ea8cf3b6-c133-43e8-a601-45f97c665b60",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:56:10.073000",
+      "title": "cedi_2009_BS.csv",
+      "url": "https://datacat.datalocale.fr/file/1242172/raw/cedi_2009_BS.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:10.076000",
+      "description": "export en csv du budget suppl\u00e9mentaire 2011 du D\u00e9partement de la Gironde",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T17:50:39.654000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1242159/raw/cedi_2011_BS.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b33304d6-eaf8-4c24-9b04-0a0a5c898c40",
+      "last_modified": "2017-06-04T20:56:10.076000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b33304d6-eaf8-4c24-9b04-0a0a5c898c40",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:56:10.076000",
+      "title": "cedi_2011_BS.csv",
+      "url": "https://datacat.datalocale.fr/file/1242159/raw/cedi_2011_BS.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:10.076000",
+      "description": "export en csv du budget suppl\u00e9mentaire du D\u00e9partement de la Gironde",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2d3a896e-0dc8-495e-b84f-5eb8ce5c1a36",
+      "last_modified": "2017-06-04T20:56:10.077000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2d3a896e-0dc8-495e-b84f-5eb8ce5c1a36",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:56:10.077000",
+      "title": "cedi_2016_BS.csv",
+      "url": "https://datacat.datalocale.fr/file/1242188/raw/cedi_2016_BS.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:10.077000",
+      "description": "export en csv du budget suppl\u00e9mentaire 2013 du D\u00e9partement de la Gironde",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b308ef55-b3cc-4ed0-8d84-f6bc28db62c2",
+      "last_modified": "2017-06-04T20:56:10.077000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b308ef55-b3cc-4ed0-8d84-f6bc28db62c2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:56:10.077000",
+      "title": "cedi_2013_BS.csv",
+      "url": "https://datacat.datalocale.fr/file/1242161/raw/cedi_2013_BS.csv"
+    }
+  ],
+  "slug": "budgets-supplementaires-du-departement-de-la-gironde1",
+  "spatial": null,
+  "tags": [
+    "budget",
+    "finances",
+    "m52",
+    "transparence"
+  ],
+  "temporal_coverage": null,
+  "title": "Budgets suppl\u00e9mentaires du d\u00e9partement de la Gironde",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/budgets-supplementaires-du-departement-de-la-gironde1/"
+}

@@ -1,0 +1,53 @@
+{
+  "acronym": null,
+  "badges": [
+    {
+      "kind": "public-service"
+    },
+    {
+      "kind": "certified"
+    }
+  ],
+  "created_at": "2014-12-10T14:26:59.432000",
+  "deleted": null,
+  "description": "[www.vanves.fr](http://www.vanves.fr) | [Facebook](https://www.facebook.com/villedevanves) | [Twitter](https://twitter.com/villedevanves)\r\n\r\n![H\u00f4tel-de-Ville de Vanves](http://www.vanves.fr/fileadmin/vanves/MEDIA/01_Ma_Ville/hdv.jpg \"H\u00f4tel-de-Ville de Vanves\")\r\n\r\n",
+  "id": "54884a24c751df7226a3fc16",
+  "last_modified": "2017-11-25T21:42:03.730000",
+  "logo": "https://www.data.gouv.fr/s/avatars/2014-12-10/93e23e82aed54ad291101943e549bfc5/011-original.jpg",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-12-10/93e23e82aed54ad291101943e549bfc5/011-100.jpg",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Fran\u00e7ois",
+        "id": "57ff5c3688ee3836e75ff490",
+        "last_name": "Boulard",
+        "page": "https://www.data.gouv.fr/fr/users/francois-boulard/",
+        "slug": "francois-boulard",
+        "uri": "https://www.data.gouv.fr/api/1/users/francois-boulard/"
+      }
+    }
+  ],
+  "metrics": {
+    "dataset_views": 19,
+    "datasets": 14,
+    "followers": 6,
+    "members": 1,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 0,
+    "resource_downloads": 47,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 99
+  },
+  "name": "Ville de Vanves",
+  "page": "https://www.data.gouv.fr/fr/organizations/ville-de-vanves/",
+  "slug": "ville-de-vanves",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/ville-de-vanves/",
+  "url": "http://www.vanves.fr"
+}

@@ -1,0 +1,276 @@
+{
+  "badges": [],
+  "created_at": "2014-05-05T00:00:00",
+  "deleted": null,
+  "description": "B\u00e2timents cadastraux sur le territoire de la M\u00e9tropole Nice C\u00f4te d'Azur. Donn\u00e9es DGFiP (octobre 2016).\n\nLes metadonn\u00e9es sont contenues dans le fichier pdf.",
+  "extras": {
+    "ckan:name": "batiments-cadastraux-de-la-metropole-nice-cote-d-azur",
+    "harvest:domain": "opendata.nicecotedazur.org",
+    "harvest:last_update": "2017-09-05T15:33:48.853137",
+    "harvest:remote_id": "9b57ba19-893f-4e19-aeea-6fae78d7db78",
+    "harvest:source_id": "59aea691c751df40c6e8212c",
+    "spatial": "{\"type\": \"Polygon\", \"coordinates\": [[[7.19634361, 44.50936556], [7.55926515, 43.78954556], [7.14634561, 43.58135823], [6.78342407, 44.30117824], [7.19634361, 44.50936556]]]}",
+    "spatial-text": "ROQUEBILLIERE,FALICON,SAINT-ANDRE-DE-LA-ROCHE,VENCE,SAINT-LAURENT-DU-VAR,VALDEBLORE,SAINT-BLAISE,SAINT-MARTIN-VESUBIE,SAINT-JEANNET,CLANS,ISOLA,SAINT-ETIENNE-DE-TINEE,LANTOSQUE,LEVENS,CAGNES-SUR-MER,VILLEFRANCHE-SUR-MER,CAP-D'AIL,SAINT-MARTIN-DU-VAR,BEAULIEU-SUR-MER,TOURNEFORT,GATTIERES,NICE,UTELLE,TOURRETTE-LEVENS,CARROS,COLOMARS,LE BROC,SAINT-JEAN-CAP-FERRAT,CASTAGNIERS,ASPREMONT,SAINT-SAUVEUR-SUR-TINEE,LA ROQUETTE-SUR-VAR,LA GAUDE,EZE,LA TRINITE"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59aea7bca3a72917d9f3fc8d",
+  "last_modified": "2017-09-05T15:33:48.855000",
+  "last_update": "2017-09-05T15:33:48.852000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "59aea226c751df38f3f6834b",
+    "logo": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-100.png",
+    "name": "Nice C\u00f4te d'Azur",
+    "page": "https://www.data.gouv.fr/fr/organizations/nice-cote-dazur/",
+    "slug": "nice-cote-dazur",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nice-cote-dazur/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/batiments-cadastraux-de-la-metropole-nice-cote-d-azur/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:48.849000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T09:25:56",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-06-14T14%3A16%3A53.917Z/cadastre-bati.pdf"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "pdf",
+      "id": "3fe7454c-d296-4b03-9053-e8bd156d7237",
+      "last_modified": "2017-06-14T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3fe7454c-d296-4b03-9053-e8bd156d7237",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/pdf",
+      "published": "2017-09-05T15:33:48.849000",
+      "title": "CADASTRE_BATI.pdf",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-06-14T14%3A16%3A53.917Z/cadastre-bati.pdf"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:48.850000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T09:25:56.286000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-06-14T14%3A10%3A07.679Z/ig-cad-bati-rgf93l93-shapefile.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "zip",
+      "id": "9c275143-f0e0-4ced-9903-48028429c419",
+      "last_modified": "2017-06-14T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9c275143-f0e0-4ced-9903-48028429c419",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-09-05T15:33:48.850000",
+      "title": "ig_cad_bati_RGF93L93_shapefile.zip",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-06-14T14%3A10%3A07.679Z/ig-cad-bati-rgf93l93-shapefile.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:48.850000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-09T10:19:56.182000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-06-14T14%3A10%3A44.943Z/ig-cad-bati-wgs84-shapefile.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "zip",
+      "id": "0e736fbe-9588-494a-9d7c-f52e9a1dcb16",
+      "last_modified": "2017-06-14T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0e736fbe-9588-494a-9d7c-f52e9a1dcb16",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-09-05T15:33:48.850000",
+      "title": "ig_cad_bati_WGS84_shapefile.zip",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-06-14T14%3A10%3A44.943Z/ig-cad-bati-wgs84-shapefile.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:48.851000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-09T10:19:56.007000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2016-03-01T14%3A03%3A05.094Z/ig-cad-bati.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "8df131de-9d60-43f3-8b0b-3f616aba75c4",
+      "last_modified": "2016-03-01T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8df131de-9d60-43f3-8b0b-3f616aba75c4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-05T15:33:48.851000",
+      "title": "ig_cad_bati.csv",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2016-03-01T14%3A03%3A05.094Z/ig-cad-bati.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:48.851000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T09:25:59.057000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-06-14T14%3A13%3A17.695Z/ig-cad-bati.geojson"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "geojson",
+      "id": "3dae6073-163b-455b-8f16-fbd78107f429",
+      "last_modified": "2017-06-14T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3dae6073-163b-455b-8f16-fbd78107f429",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/plain",
+      "published": "2017-09-05T15:33:48.851000",
+      "title": "ig_cad_bati.geojson",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-06-14T14%3A13%3A17.695Z/ig-cad-bati.geojson"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:48.851000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T11:49:54.068000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-06-14T14%3A14%3A12.698Z/ig-cad-bati.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "6caad7df-ba76-40dc-b806-d7d1d9be387b",
+      "last_modified": "2017-06-14T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6caad7df-ba76-40dc-b806-d7d1d9be387b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-09-05T15:33:48.851000",
+      "title": "ig_cad_bati.json",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-06-14T14%3A14%3A12.698Z/ig-cad-bati.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:48.852000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "kmz",
+      "id": "dfba252b-0ec6-47a2-b7eb-b99689ba9f44",
+      "last_modified": "2017-06-14T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/dfba252b-0ec6-47a2-b7eb-b99689ba9f44",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.google-earth.kmz",
+      "published": "2017-09-05T15:33:48.852000",
+      "title": "ig_cad_bati.kmz",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-06-14T14%3A15%3A27.888Z/ig-cad-bati.kmz"
+    }
+  ],
+  "slug": "batiments-cadastraux-de-la-metropole-nice-cote-d-azur",
+  "spatial": {
+    "geom": {
+      "coordinates": [
+        [
+          [
+            [
+              7.19634361,
+              44.50936556
+            ],
+            [
+              7.55926515,
+              43.78954556
+            ],
+            [
+              7.14634561,
+              43.58135823
+            ],
+            [
+              6.78342407,
+              44.30117824
+            ],
+            [
+              7.19634361,
+              44.50936556
+            ]
+          ]
+        ]
+      ],
+      "type": "MultiPolygon"
+    },
+    "granularity": "other",
+    "zones": []
+  },
+  "tags": [
+    "batiment",
+    "cadastre",
+    "metropole",
+    "nca",
+    "shape",
+    "sig"
+  ],
+  "temporal_coverage": null,
+  "title": "B\u00e2timents cadastraux de la M\u00e9tropole Nice C\u00f4te d'Azur",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/batiments-cadastraux-de-la-metropole-nice-cote-d-azur/"
+}

@@ -1,0 +1,61 @@
+{
+  "acronym": "RM",
+  "badges": [],
+  "created_at": "2016-10-19T10:58:38.115000",
+  "deleted": null,
+  "description": "Le programme open data de Rennes M\u00e9tropole qui publie les donn\u00e9es de la Ville de Rennes, de Rennes M\u00e9tropole et de ses partenaires. http://www.data.rennesmetropole.fr",
+  "id": "580735be88ee3814295ff490",
+  "last_modified": "2017-09-05T03:13:27.834000",
+  "logo": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-original.png",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-100.png",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Ben",
+        "id": "5807353c88ee3813e25ff490",
+        "last_name": "Lister",
+        "page": "https://www.data.gouv.fr/fr/users/ben-lister-2/",
+        "slug": "ben-lister-2",
+        "uri": "https://www.data.gouv.fr/api/1/users/ben-lister-2/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/fc/da8e898f0c468dbccc19d13c3321b1-original.png",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/fc/da8e898f0c468dbccc19d13c3321b1-100.png",
+        "class": "User",
+        "first_name": "Bernadette",
+        "id": "534fff3da3a7292c64a77443",
+        "last_name": "Kessler",
+        "page": "https://www.data.gouv.fr/fr/users/bernadette-kessler/",
+        "slug": "bernadette-kessler",
+        "uri": "https://www.data.gouv.fr/api/1/users/bernadette-kessler/"
+      }
+    }
+  ],
+  "metrics": {
+    "badges": 0,
+    "dataset_views": 11,
+    "datasets": 231,
+    "followers": 3,
+    "members": 2,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 0,
+    "resource_downloads": 5,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 3
+  },
+  "name": "Rennes M\u00e9tropole en acc\u00e8s libre",
+  "page": "https://www.data.gouv.fr/fr/organizations/rennes-metropole-en-acces-libre-1/",
+  "slug": "rennes-metropole-en-acces-libre-1",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/rennes-metropole-en-acces-libre-1/",
+  "url": "https://data.rennesmetropole.fr"
+}

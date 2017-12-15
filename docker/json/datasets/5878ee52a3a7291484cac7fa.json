@@ -1,0 +1,111 @@
+{
+  "badges": [],
+  "created_at": "2014-08-15T00:00:00",
+  "deleted": null,
+  "description": "L'[ACTION](http://www.action-nogent.fr) publie ici le montant des indemnit\u00e9s brutes des repr\u00e9sentants municipaux au titre de leur mandat au conseil municipal de la [ville de Nogent-sur-Marne](http://www.ville-nogentsurmarne.fr) telles que vot\u00e9es avec la [d\u00e9lib\u00e9ration 14/60](http://action-nogent.fr/wp-content/uploads/2014/05/D\u00e9lib\u00e9ration-14-60.pdf) vot\u00e9e lors du conseil municipal du 17 avril 2014 compl\u00e9t\u00e9e par la [d\u00e9lib\u00e9ration 14/139](http://action-nogent.fr/wp-content/uploads/2014/07/D\u00e9lib\u00e9ration-14-139-indemnit\u00e9-fonction-elus.pdf) du 7 juillet 2014.",
+  "extras": {
+    "ckan:name": "indemnites-des-elus-municipaux-de-la-ville-de-nogent-sur-marne-2014",
+    "harvest:domain": "www.nosdonnees.fr",
+    "harvest:last_update": "2017-07-10T06:05:20.763019",
+    "harvest:remote_id": "429f07cd-cc2b-4285-85d9-74b1eaf6ff04",
+    "harvest:source_id": "5878ee1588ee385bffa6f719",
+    "remote_url": "http://www.ville-nogentsurmarne.fr"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5878ee52a3a7291484cac7fa",
+  "last_modified": "2017-07-10T06:05:20.764000",
+  "last_update": "2017-01-13T16:12:18.109000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff99a3a7292c64a78016",
+    "logo": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-100.png",
+    "name": "NosDonn\u00e9es.fr",
+    "page": "https://www.data.gouv.fr/fr/organizations/nosdonnees-fr/",
+    "slug": "nosdonnees-fr",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nosdonnees-fr/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/indemnites-des-elus-municipaux-de-la-ville-de-nogent-sur-marne-2014/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:18.108000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T14:47:10.777000",
+        "check:status": 200,
+        "check:url": "http://www.nosdonnees.fr/dataset/429f07cd-cc2b-4285-85d9-74b1eaf6ff04/resource/7395b9a6-76d8-4886-aec8-cc3a02e2425f/download/indemniteselus2014.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "7395b9a6-76d8-4886-aec8-cc3a02e2425f",
+      "last_modified": "2017-07-10T06:05:20.762000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7395b9a6-76d8-4886-aec8-cc3a02e2425f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 2
+      },
+      "mime": null,
+      "published": "2017-01-13T16:12:18.109000",
+      "title": "Indemnit\u00e9s des \u00e9lus municipaux de la ville de Nogent-sur-Marne (2014)",
+      "url": "http://www.nosdonnees.fr/dataset/429f07cd-cc2b-4285-85d9-74b1eaf6ff04/resource/7395b9a6-76d8-4886-aec8-cc3a02e2425f/download/indemniteselus2014.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:18.109000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T14:47:10.777000",
+        "check:status": 200,
+        "check:url": "http://www.nosdonnees.fr/dataset/429f07cd-cc2b-4285-85d9-74b1eaf6ff04/resource/d68a9b28-38dd-4be5-9e85-20c6e8e28ffa/download/indemniteselus2014.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "d68a9b28-38dd-4be5-9e85-20c6e8e28ffa",
+      "last_modified": "2017-07-10T06:05:20.762000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d68a9b28-38dd-4be5-9e85-20c6e8e28ffa",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:12:18.109000",
+      "title": "Indemnit\u00e9s des \u00e9lus municipaux de la ville de Nogent-sur-Marne (2014)",
+      "url": "http://www.nosdonnees.fr/dataset/429f07cd-cc2b-4285-85d9-74b1eaf6ff04/resource/d68a9b28-38dd-4be5-9e85-20c6e8e28ffa/download/indemniteselus2014.csv"
+    }
+  ],
+  "slug": "indemnites-des-elus-municipaux-de-la-ville-de-nogent-sur-marne-2014",
+  "spatial": null,
+  "tags": [
+    "elus",
+    "indemnites",
+    "nogent-sur-marne"
+  ],
+  "temporal_coverage": null,
+  "title": "Indemnit\u00e9s des \u00e9lus municipaux de la ville de Nogent-sur-Marne (2014)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/indemnites-des-elus-municipaux-de-la-ville-de-nogent-sur-marne-2014/"
+}

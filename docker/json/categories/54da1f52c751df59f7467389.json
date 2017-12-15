@@ -1,0 +1,151 @@
+{
+  "acronym": null,
+  "badges": [
+    {
+      "kind": "public-service"
+    },
+    {
+      "kind": "certified"
+    }
+  ],
+  "created_at": "2015-02-10T16:10:10.232000",
+  "deleted": null,
+  "description": "Entre Paris et Bordeaux, \u00e0 1h30 seulement de la capitale fran\u00e7aise, l\u2019agglom\u00e9ration de Grand Poitiers regroupe 40 communes au dynamisme \u00e9conomique, touristique et \u00e9conomique reconnu.   \nPris\u00e9e des entreprises et choisie par plus de 25 000 \u00e9tudiants chaque ann\u00e9e, l\u2019agglom\u00e9ration de Grand Poitiers a su garder n\u00e9anmoins cette dimension humaine, qui manque parfois aux grandes m\u00e9tropoles. La qualit\u00e9 de vie et le bien \u00eatre de ses habitants, le d\u00e9veloppement culturel et l\u2019attractivit\u00e9 \u00e9conomique sont au c\u0153ur de toutes ses actions.\nAvec ses 2 000 ans d\u2019histoire et le parc d\u2019attraction le plus futuriste d\u2019Europe, Poitiers et son agglom\u00e9ration vous accueilleront avec charme et caract\u00e8re.\nLes tr\u00e9sors de l\u2019art roman europ\u00e9en \u00e0 Poitiers, le Futuroscope, les cit\u00e9s m\u00e9di\u00e9vales de Lusignan et Chauvigny, le site Gallo-Romain de Sanxay, le Golf et la base de loisirs de Saint-Cyr, les G\u00e9ants du Ciel,  le mus\u00e9e Sainte Croix de Poitiers et sa collection Camille Claudel\u2026 La palette touristique est large !\n \nGrand Poitiers : territoire d\u2019innovation et de recherche \nDe la French Tech d\u00e9di\u00e9e \u00e0 l\u2019Edutainment au Biopole sant\u00e9, Grand Poitiers est un p\u00f4le de r\u00e9f\u00e9rence de la haute technologie au c\u0153ur de la Nouvelle Aquitaine.\n\nGrand Poitiers : un tissu \u00e9conomique riche et diversifi\u00e9 de 16 300 entreprises\n-\t27 zones \u00e9conomiques \n-\tPlus de 88 000 salari\u00e9s\n-\t65 % d\u2019emplois dans les services \n-\t44 \u00e9tablissements d\u2019enseignement sup\u00e9rieur et 900 enseignants chercheurs \n\n\n**[Acc\u00e9der \u00e0 la plateforme locale de donn\u00e9es publiques Grand Poitiers Open Data](https://data.grandpoitiers.fr/pages/accueil/)**\n\n[En savoir plus sur Grand Poitiers Open Data](http://un-nouveau-grand-poitiers.fr/c__290_1150__Grand_Poitiers_Open_Data.html)\n\n\n[Acc\u00e8s aux donn\u00e9es du Portail de l'information g\u00e9ographique de Grand Poitiers](https://infogeo.grandpoitiers.fr/geoportal/catalog/main/home.page)\n\n",
+  "id": "54da1f52c751df59f7467389",
+  "last_modified": "2017-11-24T23:57:06.894000",
+  "logo": "https://www.data.gouv.fr/s/avatars/2d/8ee06454214021a2592805c8faa799-original.png",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2d/8ee06454214021a2592805c8faa799-100.png",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/2015-03-16/eac5fe49f2bc489b973d48a83432b6f9/P1050260-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-16/eac5fe49f2bc489b973d48a83432b6f9/P1050260-100.jpg",
+        "class": "User",
+        "first_name": "S\u00e9verine",
+        "id": "54da1d04c751df567b467389",
+        "last_name": "FERRANT",
+        "page": "https://www.data.gouv.fr/fr/users/severine-ferrant-2/",
+        "slug": "severine-ferrant-2",
+        "uri": "https://www.data.gouv.fr/api/1/users/severine-ferrant-2/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Webmaster",
+        "id": "54dcb8b4c751df2d0f46738a",
+        "last_name": "Poitiers",
+        "page": "https://www.data.gouv.fr/fr/users/julien-ventana/",
+        "slug": "julien-ventana",
+        "uri": "https://www.data.gouv.fr/api/1/users/julien-ventana/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Franck",
+        "id": "54fea5d0c751df2eaf882844",
+        "last_name": "LE TONQUEZE",
+        "page": "https://www.data.gouv.fr/fr/users/franck-le-tonqueze/",
+        "slug": "franck-le-tonqueze",
+        "uri": "https://www.data.gouv.fr/api/1/users/franck-le-tonqueze/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Beno\u00eet",
+        "id": "54fed320c751df71b3882844",
+        "last_name": "MORILLON",
+        "page": "https://www.data.gouv.fr/fr/users/benoit-morillon/",
+        "slug": "benoit-morillon",
+        "uri": "https://www.data.gouv.fr/api/1/users/benoit-morillon/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "B\u00e9n\u00e9dicte",
+        "id": "54feed3bc751df1aa1882844",
+        "last_name": "Yoh",
+        "page": "https://www.data.gouv.fr/fr/users/benedicte-yoh/",
+        "slug": "benedicte-yoh",
+        "uri": "https://www.data.gouv.fr/api/1/users/benedicte-yoh/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/2015-03-12/726e520bb9534bee8f3d0a29bdadd0dc/130x150-JMP-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-12/726e520bb9534bee8f3d0a29bdadd0dc/130x150-JMP-100.jpg",
+        "class": "User",
+        "first_name": "Jean-Michel",
+        "id": "5500581fc751df318a882844",
+        "last_name": "PIGNON",
+        "page": "https://www.data.gouv.fr/fr/users/jean-michel-pignon/",
+        "slug": "jean-michel-pignon",
+        "uri": "https://www.data.gouv.fr/api/1/users/jean-michel-pignon/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Laurent",
+        "id": "552cbe2cc751df19be37dddb",
+        "last_name": "Roche",
+        "page": "https://www.data.gouv.fr/fr/users/laurent-roche/",
+        "slug": "laurent-roche",
+        "uri": "https://www.data.gouv.fr/api/1/users/laurent-roche/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/eb/83c84da50343078fb902f4e9ae584e-original.png",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/eb/83c84da50343078fb902f4e9ae584e-100.png",
+        "class": "User",
+        "first_name": "Passerelle",
+        "id": "56002c8c88ee38306accb97b",
+        "last_name": "Inspire",
+        "page": "https://www.data.gouv.fr/fr/users/passerelle-inspire/",
+        "slug": "passerelle-inspire",
+        "uri": "https://www.data.gouv.fr/api/1/users/passerelle-inspire/"
+      }
+    }
+  ],
+  "metrics": {
+    "dataset_views": 534,
+    "datasets": 88,
+    "followers": 35,
+    "members": 8,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 0,
+    "resource_downloads": 1291,
+    "reuse_views": 198,
+    "reuses": 0,
+    "views": 2385
+  },
+  "name": "Grand Poitiers Open Data",
+  "page": "https://www.data.gouv.fr/fr/organizations/grand-poitiers-open-data/",
+  "slug": "grand-poitiers-open-data",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/grand-poitiers-open-data/",
+  "url": "http://un-nouveau-grand-poitiers.fr/c__290_1150__Grand_Poitiers_Open_Data.html"
+}

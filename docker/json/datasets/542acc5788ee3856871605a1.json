@@ -1,0 +1,116 @@
+{
+  "badges": [],
+  "created_at": "2014-09-30T17:29:27.730000",
+  "deleted": null,
+  "description": "Le jeu de donn\u00e9es met \u00e0 disposition les comptages des premiers d\u00e9p\u00f4ts de marque par la voie nationale depuis 2009 (hors renouvellements).",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": null,
+  "id": "542acc5788ee3856871605a1",
+  "last_modified": "2016-03-07T17:43:53.466000",
+  "last_update": "2014-09-30T17:30:59.906000",
+  "license": "fr-lo",
+  "metrics": {
+    "cow_criticals": 0,
+    "cow_errors": 0,
+    "cow_score": 0,
+    "cow_warnings": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "542a61d888ee382b8f22e2d7",
+    "logo": "https://www.data.gouv.fr/s/avatars/0a/277d25e3174a8db89dad2b67d42331-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/0a/277d25e3174a8db89dad2b67d42331-100.png",
+    "name": "Institut national de la propri\u00e9t\u00e9 industrielle (INPI)",
+    "page": "https://www.data.gouv.fr/fr/organizations/institut-national-de-la-propriete-industrielle-inpi/",
+    "slug": "institut-national-de-la-propriete-industrielle-inpi",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/institut-national-de-la-propriete-industrielle-inpi/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/premiers-depots-de-marques-par-la-voie-nationale/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "54a0e6c829dec6ddb316a9790850dd69625f4c40"
+      },
+      "created_at": "2014-09-30T17:30:08.610000",
+      "description": "Le comptage d\u00e9taille le nombre de marques d\u00e9pos\u00e9es, publi\u00e9es et le nombre de marques d\u00e9pos\u00e9es par des Fran\u00e7ais.",
+      "extras": {},
+      "filesize": 291,
+      "filetype": "file",
+      "format": "csv",
+      "id": "a803f2bf-10c6-44cf-b04a-b00cab1c8a9a",
+      "last_modified": "2016-03-07T17:43:34.515000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a803f2bf-10c6-44cf-b04a-b00cab1c8a9a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 5
+      },
+      "mime": "text/csv",
+      "published": "2014-09-30T17:30:08.610000",
+      "title": "Premiers d\u00e9p\u00f4ts de marques par la voie nationale ",
+      "url": "https://www.data.gouv.fr/s/resources/premiers-depots-de-marques-par-la-voie-nationale/20160307-174333/Opendata_DE_2015-10-014.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "f70953eb4d651d27ba6f89f17e5a3999c18e1dc8"
+      },
+      "created_at": "2014-09-30T17:30:59.906000",
+      "description": "Glossaire, principes de comptage, m\u00e9thodologie.",
+      "extras": {},
+      "filesize": 4329,
+      "filetype": "file",
+      "format": "csv",
+      "id": "700eb60a-8e66-4517-b492-57e240d9071c",
+      "last_modified": "2016-03-07T17:43:53.466000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/700eb60a-8e66-4517-b492-57e240d9071c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2014-09-30T17:30:59.906000",
+      "title": "Glossaire",
+      "url": "https://www.data.gouv.fr/s/resources/premiers-depots-de-marques-par-la-voie-nationale/20160307-174350/Opendata_DE_Glossaire_20140923.csv"
+    }
+  ],
+  "slug": "premiers-depots-de-marques-par-la-voie-nationale",
+  "spatial": {
+    "geom": null,
+    "granularity": "country",
+    "zones": []
+  },
+  "tags": [
+    "deposant",
+    "depot",
+    "economie",
+    "innovation",
+    "inpi",
+    "marque",
+    "marque-deposee",
+    "propriete-industrielle",
+    "voie-nationale"
+  ],
+  "temporal_coverage": {
+    "end": "2013-12-31",
+    "start": "2009-01-01"
+  },
+  "title": "Premiers d\u00e9p\u00f4ts de marques par la voie nationale ",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/premiers-depots-de-marques-par-la-voie-nationale/"
+}

@@ -1,0 +1,456 @@
+{
+  "badges": [],
+  "created_at": "2017-09-11T00:00:00",
+  "deleted": null,
+  "description": "Liste des meubl\u00e9s non class\u00e9s non labellis\u00e9s en Aquitaine\nCe fichier contient les informations de g\u00e9olocalisation et de contact, les informations sur le classement, les marques et labels, la capacit\u00e9 en nombre de personnes, les conditions d\u2019ouverture, les tarifs, les \u00e9quipements et les services propos\u00e9s.",
+  "extras": {
+    "ckan:name": "liste-des-meubles-non-classes-non-labellises-en-aquitaine",
+    "contact_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "contact_name": "CRTA",
+    "contact_uri": "https://datacat.datalocale.fr/414593",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
+    "guid": "https://datacat.datalocale.fr/415425",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-09-29T07:50:07.026068",
+    "harvest:remote_id": "b0662024-c1e2-4107-a5c9-e25bb3c10372",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "63847a4b-4015-4d46-b2ca-66cb9463ca2d",
+    "issued": "2015-01-04T09:24:40+00:00",
+    "modified": "2016-07-18T09:21:07.418470+00:00",
+    "publisher_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "publisher_name": "agence SIRTAQUI",
+    "publisher_type": "\"Organisation \u00e0 but non lucratif\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414592",
+    "remote_url": "http://partenaires.tourisme-aquitaine.fr",
+    "theme": "[\"tourisme\"]",
+    "uri": "https://datacat.datalocale.fr/415425"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59b774c8a3a729499ae72a62",
+  "last_modified": "2017-09-29T07:50:07.028000",
+  "last_update": "2017-09-12T07:46:48.086000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-meubles-non-classes-non-labellises-en-aquitaine-1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:46:48.078000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T16:49:50.429000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1771386/raw/liste-csv-meubles-non-classes-non-labellises-adt33.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "66da3281-ea2f-47d6-a25e-2080bfe9c760",
+      "last_modified": "2017-09-29T07:50:07.021000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/66da3281-ea2f-47d6-a25e-2080bfe9c760",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:46:48.079000",
+      "title": "liste-csv-meubles-non-classes-non-labellises-adt33.csv",
+      "url": "https://datacat.datalocale.fr/file/1771386/raw/liste-csv-meubles-non-classes-non-labellises-adt33.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:46:48.079000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T16:49:54.379000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415437/raw/liste-meubles-non-classes-non-labellises-adt33.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f09f7fa6-251e-4c4b-bf8a-8deaa0e81a39",
+      "last_modified": "2017-09-29T07:50:07.021000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f09f7fa6-251e-4c4b-bf8a-8deaa0e81a39",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:46:48.079000",
+      "title": "export en csv (utf-8) des liste des meubl\u00e9s non class\u00e9s non labellis\u00e9s de Gironde r\u00e9f\u00e9renc\u00e9s dans la base de donn\u00e9es de SIRTAQUI. Les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es dans la projection WGS84",
+      "url": "https://datacat.datalocale.fr/file/415437/raw/liste-meubles-non-classes-non-labellises-adt33.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:46:48.079000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T17:52:56.274000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415435/raw/liste-xml-meubles-non-classes-non-labellises-cdt64.xml"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "043f8b30-25c8-44fd-a337-7d4db24e7df2",
+      "last_modified": "2017-09-29T07:50:07.022000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/043f8b30-25c8-44fd-a337-7d4db24e7df2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/xml",
+      "published": "2017-09-12T07:46:48.079000",
+      "title": "extraction en xml (tourinfo) de la liste des meubl\u00e9s non class\u00e9s non labellis\u00e9s des Pyrenn\u00e9s-Atlantiques r\u00e9f\u00e9renc\u00e9s dans la base de donnes SIRTAQUI. les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es en wgs84",
+      "url": "https://datacat.datalocale.fr/file/415435/raw/liste-xml-meubles-non-classes-non-labellises-cdt64.xml"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:46:48.080000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T02:52:42.980000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414600/raw/sp%C3%A9cifications%20des%20jeux%20de%20donn%C3%A9es"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c7053182-1217-4653-a37e-ebfc2fe4e4dc",
+      "last_modified": "2017-09-29T07:50:07.022000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c7053182-1217-4653-a37e-ebfc2fe4e4dc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:46:48.080000",
+      "title": "sp\u00e9cifications des jeux de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414600/raw/sp%C3%A9cifications%20des%20jeux%20de%20donn%C3%A9es"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:46:48.080000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T16:49:54.377000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415433/raw/liste-xml-meubles-non-classes-non-labellises-cdt47.xml"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "cf75aa44-e678-4bb5-8c8d-a89e5b7dfd12",
+      "last_modified": "2017-09-29T07:50:07.022000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cf75aa44-e678-4bb5-8c8d-a89e5b7dfd12",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/xml",
+      "published": "2017-09-12T07:46:48.080000",
+      "title": "extraction en xml (tourinfo) de la liste des meubl\u00e9s non class\u00e9s non labellis\u00e9s du Lot-et-Garonne r\u00e9f\u00e9renc\u00e9s dans la base de donnes SIRTAQUI. les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es en wgs84",
+      "url": "https://datacat.datalocale.fr/file/415433/raw/liste-xml-meubles-non-classes-non-labellises-cdt47.xml"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:46:48.081000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T02:52:48.240000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415429/raw/liste-xml-meubles-non-classes-non-labellises-cdt24.xml"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "3145af8a-c0ba-44ba-a322-06e22f77ac5a",
+      "last_modified": "2017-09-29T07:50:07.022000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3145af8a-c0ba-44ba-a322-06e22f77ac5a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/xml",
+      "published": "2017-09-12T07:46:48.081000",
+      "title": "extraction en xml (tourinfo) de la liste des meubl\u00e9s non class\u00e9s non labellis\u00e9s de Dordogne r\u00e9f\u00e9renc\u00e9s dans la base de donnes SIRTAQUI. les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es en wgs84",
+      "url": "https://datacat.datalocale.fr/file/415429/raw/liste-xml-meubles-non-classes-non-labellises-cdt24.xml"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:46:48.081000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "4b4a5e7d-5559-4660-ae91-8d1471485259",
+      "last_modified": "2017-09-29T07:50:07.022000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4b4a5e7d-5559-4660-ae91-8d1471485259",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:46:48.081000",
+      "title": "liste-csv-meubles-non-classes-non-labellises-cdt40.csv",
+      "url": "https://datacat.datalocale.fr/file/1771253/raw/liste-csv-meubles-non-classes-non-labellises-cdt40.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:46:48.082000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "108ca454-0342-479d-b637-9350ed1be855",
+      "last_modified": "2017-09-29T07:50:07.023000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/108ca454-0342-479d-b637-9350ed1be855",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:46:48.082000",
+      "title": "liste-csv-meubles-non-classes-non-labellises-cdt24.csv",
+      "url": "https://datacat.datalocale.fr/file/1771162/raw/liste-csv-meubles-non-classes-non-labellises-cdt24.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:46:48.082000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-16T00:22:32.910000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1771556/raw/liste-csv-meubles-non-classes-non-labellises-aquit.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "d4f5ccd2-00bb-48c9-ba33-8c04f5942eac",
+      "last_modified": "2017-09-29T07:50:07.023000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d4f5ccd2-00bb-48c9-ba33-8c04f5942eac",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:46:48.082000",
+      "title": "liste-csv-meubles-non-classes-non-labellises-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1771556/raw/liste-csv-meubles-non-classes-non-labellises-aquit.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:46:48.083000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "40f7d302-c1ef-4626-9921-3acf1b696c73",
+      "last_modified": "2017-09-29T07:50:07.023000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/40f7d302-c1ef-4626-9921-3acf1b696c73",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:46:48.083000",
+      "title": "export en csv (utf-8) des liste des meubl\u00e9s non class\u00e9s non labellis\u00e9s des Landes r\u00e9f\u00e9renc\u00e9s dans la base de donn\u00e9es de SIRTAQUI. Les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es dans la projection WGS84",
+      "url": "https://datacat.datalocale.fr/file/415441/raw/liste-meubles-non-classes-non-labellises-cdt40.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:46:48.084000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "157aca05-d842-442e-a945-e88a78a49d47",
+      "last_modified": "2017-09-29T07:50:07.023000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/157aca05-d842-442e-a945-e88a78a49d47",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/xml",
+      "published": "2017-09-12T07:46:48.084000",
+      "title": "extraction en xml (tourinfo) de la liste des meubl\u00e9s non class\u00e9s non labellis\u00e9s de Gironde r\u00e9f\u00e9renc\u00e9s dans la base de donnes SIRTAQUI. les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es en wgs84",
+      "url": "https://datacat.datalocale.fr/file/415427/raw/liste-xml-meubles-non-classes-non-labellises-adt33.xml"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:46:48.084000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "eb147bdc-7394-4a32-a7ee-695afde65f0a",
+      "last_modified": "2017-09-29T07:50:07.023000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/eb147bdc-7394-4a32-a7ee-695afde65f0a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:46:48.084000",
+      "title": "liste-csv-meubles-non-classes-non-labellises-cdt47.csv",
+      "url": "https://datacat.datalocale.fr/file/1771503/raw/liste-csv-meubles-non-classes-non-labellises-cdt47.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:46:48.084000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "32e793b6-7430-409e-8c5a-db5c334524d7",
+      "last_modified": "2017-09-29T07:50:07.024000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/32e793b6-7430-409e-8c5a-db5c334524d7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:46:48.084000",
+      "title": "export en csv (utf-8) des liste des meubl\u00e9s non class\u00e9s non labellis\u00e9s de Dordogne r\u00e9f\u00e9renc\u00e9s dans la base de donn\u00e9es de SIRTAQUI. Les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es dans la projection WGS84",
+      "url": "https://datacat.datalocale.fr/file/415439/raw/liste-meubles-non-classes-non-labellises-cdt24.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:46:48.085000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "0ab1b270-09e8-423c-966f-7cb730a4f612",
+      "last_modified": "2017-09-29T07:50:07.024000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0ab1b270-09e8-423c-966f-7cb730a4f612",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/xml",
+      "published": "2017-09-12T07:46:48.085000",
+      "title": "extraction en xml (tourinfo) de la liste des meubl\u00e9s non class\u00e9s non labellis\u00e9s des Landes r\u00e9f\u00e9renc\u00e9s dans la base de donnes SIRTAQUI. les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es en wgs84",
+      "url": "https://datacat.datalocale.fr/file/415431/raw/liste-xml-meubles-non-classes-non-labellises-cdt40.xml"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:46:48.085000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2749b22b-7fa2-4eb5-ae6d-c270d93b0a21",
+      "last_modified": "2017-09-29T07:50:07.024000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2749b22b-7fa2-4eb5-ae6d-c270d93b0a21",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:46:48.085000",
+      "title": "liste-csv-meubles-non-classes-non-labellises-cdt64.csv",
+      "url": "https://datacat.datalocale.fr/file/1771215/raw/liste-csv-meubles-non-classes-non-labellises-cdt64.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:46:48.086000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "3b4f7bc2-5a20-4adb-90ed-70ec2ca1db73",
+      "last_modified": "2017-09-29T07:50:07.024000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3b4f7bc2-5a20-4adb-90ed-70ec2ca1db73",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-09-12T07:46:48.086000",
+      "title": "consommation des donn\u00e9es temps r\u00e9el",
+      "url": "http://wcf.tourinsoft.com/Syndication/aquitaine/c48b6b04-0b41-490a-b3a0-8ae538865d32/Objects?$format=json"
+    }
+  ],
+  "slug": "liste-des-meubles-non-classes-non-labellises-en-aquitaine-1",
+  "spatial": null,
+  "tags": [
+    "hebergement",
+    "tourisme"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des meubl\u00e9s non class\u00e9s non labellis\u00e9s en Aquitaine",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-meubles-non-classes-non-labellises-en-aquitaine-1/"
+}

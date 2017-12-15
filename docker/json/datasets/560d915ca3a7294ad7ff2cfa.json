@@ -1,0 +1,265 @@
+{
+  "badges": [],
+  "created_at": "2016-06-22T00:00:00",
+  "deleted": null,
+  "description": "Il s\u2019agit du nombre hebdomadaire moyen d\u2019heures d\u2019ouverture aux allocataires de l\u2019accueil t\u00e9l\u00e9phonique en prestations l\u00e9gales (au minimum) du lieu d\u2019accueil le plus important.\nCette amplitude moyenne est calcul\u00e9e \u00e0 partir du nombre annuel d\u2019heures d\u2019ouverture effective de l\u2019accueil t\u00e9l\u00e9phonique aux allocataires pour un accueil prestations l\u00e9gales. Cette mesure est effectu\u00e9e sur le lieu d\u2019accueil le plus important en volume annuel d\u2019appels t\u00e9l\u00e9phoniques.\n\nDans le nombre d\u2019heures annuelles d\u2019ouverture du t\u00e9l\u00e9phone du lieu d\u2019accueil le plus important, sont comptabilis\u00e9es les heures d\u2019ouverture pour un accueil (prestations l\u00e9gales au minimum) personnalis\u00e9 de l\u2019allocataire et par un professionnel. Sont exclues les heures d\u2019ouverture n\u2019offrant pas un accueil prestations l\u00e9gales et celles r\u00e9serv\u00e9es uniquement \u00e0 des permanences sp\u00e9cialis\u00e9es.\nIl s\u2019agit des heures d\u2019ouverture r\u00e9elles (et non th\u00e9oriques). Par cons\u00e9quent, les jours f\u00e9ri\u00e9s ou ch\u00f4m\u00e9s, les plages de fermeture exceptionnelle ne sont pas pris en compte ; en revanche, les ouvertures exceptionnelles de l\u2019accueil t\u00e9l\u00e9phonique sont int\u00e9gr\u00e9es dans la mesure o\u00f9 elles correspondent \u00e0 une offre de service identique \u00e0 celle propos\u00e9e habituellement.\nPar ailleurs, un lieu d\u2019accueil est une structure g\u00e9ographique localis\u00e9e. (Cf. Indicateur 01.04.01). Dans le cas o\u00f9 plusieurs lieux d\u2019accueil enregistrent un nombre d\u2019appels t\u00e9l\u00e9phoniques \u00e9quivalent, le lieu d\u00e9fini comme le plus important sera celui offrant l\u2019amplitude d\u2019ouverture de l\u2019accueil t\u00e9l\u00e9phonique la plus large.\nDans le cas d\u2019une mutualisation de plate-forme t\u00e9l\u00e9phonique entre diff\u00e9rents lieux d\u2019accueil ou entre diff\u00e9rentes CAF, le nombre d\u2019heures annuelles d\u2019ouverture du t\u00e9l\u00e9phone correspond aux horaires de la plate-forme t\u00e9l\u00e9phonique. Si cette plate-forme a des horaires variables en fonction de chaque CAF, il faut indiquer les horaires de la plate-forme qui correspondent \u00e0 sa propre CAF.\n\nL\u2019importance des plages d\u2019ouverture de l\u2019accueil t\u00e9l\u00e9phonique du lieu d\u2019accueil le plus important de la caisse est \u00e0 rapprocher des moyens mis en place pour r\u00e9pondre aux demandes des allocataires, de la d\u00e9centralisation plus ou moins importante de l\u2019accueil, etc.\nUne m\u00eame amplitude d\u2019ouverture de l\u2019accueil t\u00e9l\u00e9phonique peut recouvrir des offres de service diff\u00e9rentes, selon les horaires d\u2019ouverture, l\u2019ouverture le samedi, le nombre d\u2019agents disponibles pour r\u00e9pondre, etc.",
+  "extras": {
+    "ckan:name": "amplitude-d-ouverture-de-l-accueil-telephonique",
+    "harvest:domain": "data.caf.fr",
+    "harvest:last_update": "2017-11-27T05:08:17.957945",
+    "harvest:remote_id": "c3a24ed4-1b27-469f-87b5-de85593f82e8",
+    "harvest:source_id": "560d9133c751df40ee756894",
+    "harvested": "2017-10-02T09:53:06.381170",
+    "remote_url": "SID table BGESCNAF.GCACCTAA",
+    "source_id": "954ea88a-1b59-4a56-acae-2148a64dbe5e"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "560d915ca3a7294ad7ff2cfa",
+  "last_modified": "2017-11-27T05:08:17.960000",
+  "last_update": "2017-07-02T19:43:50.926000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 1,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": "CNAF",
+    "class": "Organization",
+    "id": "5595066cc751df4582a453ba",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-07-02/a1bc08e4a4dc44a89cb29697800a83b5/new_logo-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-07-02/a1bc08e4a4dc44a89cb29697800a83b5/new_logo-100.jpg",
+    "name": "Caisse Nationale des Allocations familiales ",
+    "page": "https://www.data.gouv.fr/fr/organizations/allocations-familiales/",
+    "slug": "allocations-familiales",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/allocations-familiales/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/amplitude-d-ouverture-de-l-accueil-telephonique/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:36.548000",
+      "description": "Amplitude d'ouverture de l'accueil t\u00e9l\u00e9phonique en 2014",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-03T22:56:40.664000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/c3a24ed4-1b27-469f-87b5-de85593f82e8/resource/ba5bd411-b3e9-4774-93b3-b120458b6755/download/AMPLITEL2014.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ba5bd411-b3e9-4774-93b3-b120458b6755",
+      "last_modified": "2015-09-29T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ba5bd411-b3e9-4774-93b3-b120458b6755",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 6
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:36.548000",
+      "title": "Amplitude d'ouverture de l'accueil t\u00e9l\u00e9phonique en 2014",
+      "url": "http://data.caf.fr/dataset/c3a24ed4-1b27-469f-87b5-de85593f82e8/resource/ba5bd411-b3e9-4774-93b3-b120458b6755/download/AMPLITEL2014.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:36.548000",
+      "description": "Amplitude d'ouverture de l'accueil t\u00e9l\u00e9phonique en 2013",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-03T22:56:40.370000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/c3a24ed4-1b27-469f-87b5-de85593f82e8/resource/3c724960-8fd6-490d-b1be-2b70eab4b06f/download/AMPLITEL2013.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "3c724960-8fd6-490d-b1be-2b70eab4b06f",
+      "last_modified": "2015-09-29T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3c724960-8fd6-490d-b1be-2b70eab4b06f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:36.548000",
+      "title": "Amplitude d'ouverture de l'accueil t\u00e9l\u00e9phonique en 2013",
+      "url": "http://data.caf.fr/dataset/c3a24ed4-1b27-469f-87b5-de85593f82e8/resource/3c724960-8fd6-490d-b1be-2b70eab4b06f/download/AMPLITEL2013.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:36.548000",
+      "description": "Amplitude d'ouverture de l'accueil t\u00e9l\u00e9phonique en 2012",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-03T22:56:40.431000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/c3a24ed4-1b27-469f-87b5-de85593f82e8/resource/0b6badbe-ed3d-4b01-a138-86ce8e05be57/download/AMPLITEL2012.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "0b6badbe-ed3d-4b01-a138-86ce8e05be57",
+      "last_modified": "2015-09-29T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0b6badbe-ed3d-4b01-a138-86ce8e05be57",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:36.548000",
+      "title": "Amplitude d'ouverture de l'accueil t\u00e9l\u00e9phonique en 2012",
+      "url": "http://data.caf.fr/dataset/c3a24ed4-1b27-469f-87b5-de85593f82e8/resource/0b6badbe-ed3d-4b01-a138-86ce8e05be57/download/AMPLITEL2012.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:36.549000",
+      "description": "Amplitude d'ouverture de l'accueil t\u00e9l\u00e9phonique en 2011",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T12:22:37.960000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/c3a24ed4-1b27-469f-87b5-de85593f82e8/resource/81955fde-5c0d-49f2-9760-6f7c09780f69/download/AMPLITEL2011.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "81955fde-5c0d-49f2-9760-6f7c09780f69",
+      "last_modified": "2015-09-29T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/81955fde-5c0d-49f2-9760-6f7c09780f69",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:36.549000",
+      "title": "Amplitude d'ouverture de l'accueil t\u00e9l\u00e9phonique en 2011",
+      "url": "http://data.caf.fr/dataset/c3a24ed4-1b27-469f-87b5-de85593f82e8/resource/81955fde-5c0d-49f2-9760-6f7c09780f69/download/AMPLITEL2011.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:36.549000",
+      "description": "Amplitude d'ouverture de l'accueil t\u00e9l\u00e9phonique en 2010",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-05T15:31:17.760000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/c3a24ed4-1b27-469f-87b5-de85593f82e8/resource/d2faff35-b89e-411d-a41d-bcc626749ced/download/AMPLITEL2010.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "d2faff35-b89e-411d-a41d-bcc626749ced",
+      "last_modified": "2015-09-29T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d2faff35-b89e-411d-a41d-bcc626749ced",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:36.549000",
+      "title": "Amplitude d'ouverture de l'accueil t\u00e9l\u00e9phonique en 2010",
+      "url": "http://data.caf.fr/dataset/c3a24ed4-1b27-469f-87b5-de85593f82e8/resource/d2faff35-b89e-411d-a41d-bcc626749ced/download/AMPLITEL2010.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:36.549000",
+      "description": "Amplitude d'ouverture de l'accueil t\u00e9l\u00e9phonique en 2009",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-05T15:31:17.760000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/c3a24ed4-1b27-469f-87b5-de85593f82e8/resource/09f2a6eb-e875-4fea-8525-5d2beb4ed8e6/download/AMPLITEL2009.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "09f2a6eb-e875-4fea-8525-5d2beb4ed8e6",
+      "last_modified": "2015-09-29T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/09f2a6eb-e875-4fea-8525-5d2beb4ed8e6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:36.549000",
+      "title": "Amplitude d'ouverture de l'accueil t\u00e9l\u00e9phonique en 2009",
+      "url": "http://data.caf.fr/dataset/c3a24ed4-1b27-469f-87b5-de85593f82e8/resource/09f2a6eb-e875-4fea-8525-5d2beb4ed8e6/download/AMPLITEL2009.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:43:50.926000",
+      "description": "Amplitude d'ouverture de l'accueil t\u00e9l\u00e9phonique en 2016",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "221ea6d4-605e-4760-87cb-597d7e020ac9",
+      "last_modified": "2017-11-27T05:08:17.956000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/221ea6d4-605e-4760-87cb-597d7e020ac9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T19:43:50.926000",
+      "title": "Amplitude d'ouverture de l'accueil t\u00e9l\u00e9phonique en 2016",
+      "url": "http://data.caf.fr/dataset/c3a24ed4-1b27-469f-87b5-de85593f82e8/resource/221ea6d4-605e-4760-87cb-597d7e020ac9/download/AMPLITEL2016.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:43:50.926000",
+      "description": "Amplitude d'ouverture de l'accueil t\u00e9l\u00e9phonique en 2015",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "baef4252-9856-4a27-901e-6ef17e50d785",
+      "last_modified": "2016-11-18T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/baef4252-9856-4a27-901e-6ef17e50d785",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T19:43:50.926000",
+      "title": "Amplitude d'ouverture de l'accueil t\u00e9l\u00e9phonique en 2015",
+      "url": "http://data.caf.fr/dataset/c3a24ed4-1b27-469f-87b5-de85593f82e8/resource/baef4252-9856-4a27-901e-6ef17e50d785/download/AMPLITEL2015.csv"
+    }
+  ],
+  "slug": "amplitude-d-ouverture-de-l-accueil-telephonique",
+  "spatial": null,
+  "tags": [
+    "accueil",
+    "amplitude",
+    "telephone"
+  ],
+  "temporal_coverage": null,
+  "title": "Amplitude d\u2019ouverture de l\u2019accueil t\u00e9l\u00e9phonique",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/amplitude-d-ouverture-de-l-accueil-telephonique/"
+}

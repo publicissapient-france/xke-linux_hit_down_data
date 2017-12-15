@@ -1,0 +1,95 @@
+{
+  "acronym": null,
+  "badges": [
+    {
+      "kind": "public-service"
+    },
+    {
+      "kind": "certified"
+    }
+  ],
+  "created_at": "2014-07-07T09:00:41.180000",
+  "deleted": null,
+  "description": "Situ\u00e9e \u00e0 75 km au nord de Rennes en bordure de l'estuaire de la Rance, l'actuelle commune de Saint-Malo r\u00e9sulte de la fusion de 1967 de l\u2019ancienne commune de Saint-Malo (la vieille ville intra-muros) avec celles de Param\u00e9 et Saint-Servan.\r\nAujourd'hui, Saint-Malo, peupl\u00e9e de 47 000 habitants, est la deuxi\u00e8me ville d'Ille-et-Vilaine apr\u00e8s Rennes.\r\n\r\nMondialement connue et premi\u00e8re destination touristique bretonne, la [ville de Saint-Malo](http://www.saint-malo.fr/) se caract\u00e9rise aussi par son \u00e9conomie fortement tourn\u00e9e vers la mer, gr\u00e2ce \u00e0 un port de commerce et de p\u00eache de dimension r\u00e9gionale, un port de plaisance et un port de voyageurs vers les iles anglo-normandes et l'Angleterre.\r\n\r\nGr\u00e2ce au r\u00e9seau ferroviaire \u00e0 grande vitesse, **Saint-Malo sera en 2017 la ville littorale la plus proche de Paris en temps de d\u00e9placement**.\r\n\r\nLe conseil municipal, par d\u00e9lib\u00e9ration du 3 juillet 2014, a adopt\u00e9 le principe d\u2019engager la commune dans une d\u00e9marche d\u2019ouverture de ses donn\u00e9es publiques et a adopt\u00e9 la Licence Ouverte pour la r\u00e9utilisation de ses donn\u00e9es.\r\n\r\n\r\n![La cit\u00e9 corsaire](http://www.ville-saint-malo.fr/uploads/pics/bandeau_arrivants.jpg \"La cit\u00e9 corsaire\")",
+  "id": "53ba4599a3a729219b7beaca",
+  "last_modified": "2017-11-24T23:57:07.224000",
+  "logo": "https://www.data.gouv.fr/s/avatars/71/d80c263317463ca8050811b5b22be6-original.png",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/71/d80c263317463ca8050811b5b22be6-100.png",
+  "members": [
+    {
+      "role": "editor",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/18/5e43291cfa490f855ab1cb8ae4e37d-original.png",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/18/5e43291cfa490f855ab1cb8ae4e37d-100.png",
+        "class": "User",
+        "first_name": "David",
+        "id": "534fff3ea3a7292c64a7755f",
+        "last_name": "PONCET",
+        "page": "https://www.data.gouv.fr/fr/users/david-poncet/",
+        "slug": "david-poncet",
+        "uri": "https://www.data.gouv.fr/api/1/users/david-poncet/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/48/9b292282b04b53a80466bf31643396-original.png",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/48/9b292282b04b53a80466bf31643396-100.png",
+        "class": "User",
+        "first_name": "Mairie",
+        "id": "53ba44fda3a729219b7bea83",
+        "last_name": "Saint-Malo",
+        "page": "https://www.data.gouv.fr/fr/users/mairie-saint-malo/",
+        "slug": "mairie-saint-malo",
+        "uri": "https://www.data.gouv.fr/api/1/users/mairie-saint-malo/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Sophie",
+        "id": "53bb1414a3a72947192f0bbd",
+        "last_name": "Bouquerel",
+        "page": "https://www.data.gouv.fr/fr/users/sophie-bouquerel/",
+        "slug": "sophie-bouquerel",
+        "uri": "https://www.data.gouv.fr/api/1/users/sophie-bouquerel/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Hugo",
+        "id": "58d0fd22c751df072fcee354",
+        "last_name": "Jammes",
+        "page": "https://www.data.gouv.fr/fr/users/hugo-jammes-2/",
+        "slug": "hugo-jammes-2",
+        "uri": "https://www.data.gouv.fr/api/1/users/hugo-jammes-2/"
+      }
+    }
+  ],
+  "metrics": {
+    "dataset_views": 6376,
+    "datasets": 50,
+    "followers": 17,
+    "members": 4,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 5,
+    "resource_downloads": 717,
+    "reuse_views": 334,
+    "reuses": 4,
+    "views": 1827
+  },
+  "name": "Ville de Saint-Malo",
+  "page": "https://www.data.gouv.fr/fr/organizations/ville-de-saint-malo/",
+  "slug": "ville-de-saint-malo",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/ville-de-saint-malo/",
+  "url": null
+}

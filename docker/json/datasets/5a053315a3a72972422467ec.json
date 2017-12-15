@@ -1,0 +1,113 @@
+{
+  "badges": [],
+  "created_at": "2017-11-09T00:00:00",
+  "deleted": null,
+  "description": "Liste de divers \u00e9quipements (bars \u00e0 th\u00e8me, bowlings, casinos, cin\u00e9mas, discoth\u00e8ques, salles de billard, salles de spectacle) en Aquitaine, issue de la base de donn\u00e9es SIRTAQUI.\nCe fichier contient les informations de g\u00e9olocalisation et de contact, les informations sur le type d\u2019\u00e9quipement, les marques et labels, les conditions d\u2019ouverture et de visites, les tarifs, les \u00e9quipements et les services propos\u00e9s.",
+  "extras": {
+    "ckan:name": "liste-des-sites-de-sorties-en-aquitaine",
+    "contact_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "contact_name": "CRTA",
+    "contact_uri": "https://datacat.datalocale.fr/414593",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
+    "guid": "https://datacat.datalocale.fr/414987",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-11-14T05:16:28.385596",
+    "harvest:remote_id": "992e0d7e-9d6b-478b-ae7c-ebcde726307a",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "31006d93-c8a8-4b28-b09a-1f17239dc5bf",
+    "issued": "2015-01-01T17:35:57+00:00",
+    "modified": "2016-07-18T09:21:07.475042+00:00",
+    "publisher_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "publisher_name": "agence SIRTAQUI",
+    "publisher_type": "\"Organisation \u00e0 but non lucratif\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414592",
+    "remote_url": "http://partenaires.tourisme-aquitaine.fr",
+    "theme": "[\"tourisme\"]",
+    "uri": "https://datacat.datalocale.fr/414987"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5a053315a3a72972422467ec",
+  "last_modified": "2017-11-14T05:16:28.388000",
+  "last_update": "2017-11-10T06:03:16.993000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-sites-de-sorties-en-aquitaine-4/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-10T06:03:16.992000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "0da837e9-d97b-4b3b-9704-fd9525caa63c",
+      "last_modified": "2017-11-14T05:16:28.383000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0da837e9-d97b-4b3b-9704-fd9525caa63c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/xml",
+      "published": "2017-11-10T06:03:16.993000",
+      "title": "liste-xml-sites-sorties-aquitaine.xml",
+      "url": "https://datacat.datalocale.fr/distribution/1902219/raw/liste-xml-sites-sorties-aquitaine.xml"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-10T06:03:16.993000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "d3597f97-eaf7-41d4-9e43-7292797aab7a",
+      "last_modified": "2017-11-14T05:16:28.383000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d3597f97-eaf7-41d4-9e43-7292797aab7a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-10T06:03:16.993000",
+      "title": "liste-csv-sites-sorties-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/distribution/427395/raw/liste-csv-sites-sorties-aquitaine.csv"
+    }
+  ],
+  "slug": "liste-des-sites-de-sorties-en-aquitaine-4",
+  "spatial": null,
+  "tags": [
+    "bowling",
+    "loisirs"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des sites de sorties en Aquitaine",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-sites-de-sorties-en-aquitaine-4/"
+}

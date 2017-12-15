@@ -1,0 +1,121 @@
+{
+  "badges": [],
+  "created_at": "2017-03-01T10:58:27.579000",
+  "deleted": null,
+  "description": "****Services web WMS du Plan Local d'Urbanisme (PLU) de la M\u00e9tropole Europ\u00e9enne de Lille\u00a0****\n\n&gt; Services WMS uniquement disponibles en projection Lambert 93\n\n&gt; L'ensemble des documents du PLU sont consultables sur le [portail du PLU](http://siteslm.lillemetropole.fr/urba/PLU/index.htm)\n\n&gt; Les cartographies du PLU sont consultables en ligne sur [MELMAP le portail g\u00e9ographique de la MEL](http://carte.melmap.fr/adws/app/e4ac4e53-27da-11e6-b999-9d6771f2691d/#/details/12)\n\n**Les adresses des services web \u00e0 utiliser dans vos logiciels SIG :**\n\n&gt; PLU - plan communaux 1/5000 : http://geowms.lillemetropole.fr/dynmapr/dynmapr.php?in=plu\n\n&gt; PLU - ancienne zone de fortification de lille : http://geowms.lillemetropole.fr/dynmapr/dynmapr.php?in=PLU_Fortifications\n\n&gt; SERVITUDES - Plan communaux 1/5000 : http://geowms.lillemetropole.fr/dynmapr/dynmapr.php?in=S_Communaux\n\n&gt; SERVITUDES - planche 1/2000 : http://geowms.lillemetropole.fr/dynmapr/dynmapr.php?in=S_Planches\n\n&gt; SERVITUDES - circulation a\u00e9rienne Bondues : http://geowms.lillemetropole.fr/dynmapr/dynmapr.php?in=S_Aerienne_Bondues\n\n&gt; SERVITUDES - circulation a\u00e9rienne Lesquin : http://geowms.lillemetropole.fr/dynmapr/dynmapr.php?in=S_Aerienne_Lesquin\n\n&gt; SERVITUDES - T\u00e9l\u00e9communication : http://geowms.lillemetropole.fr/dynmapr/dynmapr.php?in=S_Telecom\n\n&gt; SERVITUDES - Plans communaux pr\u00e9vention des risques naturels d'innondation : http://geowms.lillemetropole.fr/dynmapr/dynmapr.php?in=S_Pri\n\n&gt; OBLIGATIONS DIVERS - Plan communaux 1/5000 : http://geowms.lillemetropole.fr/dynmapr/dynmapr.php?in=OD_Plan_Communaux\n\n&gt; OBLIGATIONS DIVERS - Arch\u00e9ologie pr\u00e9ventive : http://geowms.lillemetropole.fr/dynmapr/dynmapr.php?in=Archeologie_Preventive\n\n&gt; OBLIGATIONS DIVERS - Pr\u00e9vention des risque d'innondation - Al\u00e9as : http://geowms.lillemetropole.fr/dynmapr/dynmapr.php?in=OD_Pri_Aleas\n\n&gt; OBLIGATIONS DIVERS - Pr\u00e9vention des risque d'innondation - Enjeux : http://geowms.lillemetropole.fr/dynmapr/dynmapr.php?in=OD_Pri_Enjeux\n\n&gt; ANNEXES SANITAIRES - Zonages assainissement : http://geowms.lillemetropole.fr/dynmapr/dynmapr.php?in=Zonages_Assainissement\n\n&gt; ANNEXES SANITAIRES - Conduites d'eau : http://geowms.lillemetropole.fr/dynmapr/dynmapr.php?in=conduites\n\n&gt; IPAP - Plan communaux 1/5000 : http://geowms.lillemetropole.fr/dynmapr/dynmapr.php?in=ipap",
+  "extras": {
+    "harvest:domain": "opendata.lillemetropole.fr",
+    "harvest:last_update": "2017-04-06T06:01:05.172353",
+    "harvest:remote_id": "plu_wms_mel",
+    "harvest:source_id": "58b68fdcc751df10ea84f9cc",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.lillemetropole.fr//explore/dataset/plu_wms_mel/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "58b69b43a3a7295a7d8251cc",
+  "last_modified": "2017-04-06T06:01:05.175000",
+  "last_update": "2017-04-06T06:01:05.171000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 2
+  },
+  "organization": {
+    "acronym": "MEL",
+    "class": "Organization",
+    "id": "58b69c62c751df4b175dd7a4",
+    "logo": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-100.png",
+    "name": "M\u00e9tropole Europ\u00e9enne de Lille ",
+    "page": "https://www.data.gouv.fr/fr/organizations/metropole-europeenne-de-lille/",
+    "slug": "metropole-europeenne-de-lille",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/metropole-europeenne-de-lille/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/plan-local-durbanisme-services-wms/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T06:01:05.170000",
+      "description": "- *CLASSEUR*: classeur[text]\n- *PLAN*: plan[text]\n- *ECHELLE DU PLAN*: echelle_du_plan[int]\n- *LIEN WMS*: lien_wms[text]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T12:57:14.631000",
+        "check:status": 200,
+        "check:url": "https://opendata.lillemetropole.fr//explore/dataset/plu_wms_mel/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "172a59a2-9f57-4fe5-af8b-d0c0355b218e",
+      "last_modified": "2017-02-07T15:36:10",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/172a59a2-9f57-4fe5-af8b-d0c0355b218e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-04-06T06:01:05.170000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/plu_wms_mel/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T06:01:05.171000",
+      "description": "- *CLASSEUR*: classeur[text]\n- *PLAN*: plan[text]\n- *ECHELLE DU PLAN*: echelle_du_plan[int]\n- *LIEN WMS*: lien_wms[text]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T12:57:14.641000",
+        "check:status": 200,
+        "check:url": "https://opendata.lillemetropole.fr//explore/dataset/plu_wms_mel/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "e8abb885-55f7-4245-9f20-c2e6eb432e7d",
+      "last_modified": "2017-02-07T15:36:10",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e8abb885-55f7-4245-9f20-c2e6eb432e7d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-04-06T06:01:05.171000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/plu_wms_mel/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "plan-local-durbanisme-services-wms",
+  "spatial": null,
+  "tags": [
+    "amenagement-du-territoire",
+    "annexe-sanitaire",
+    "batiments",
+    "emplacement-reserve",
+    "equipements",
+    "inventaire",
+    "ipap",
+    "logement",
+    "obligations-divers",
+    "plan-local-durbanisme",
+    "plu",
+    "servitudes",
+    "urbanisme"
+  ],
+  "temporal_coverage": null,
+  "title": "Plan Local D'Urbanisme - Services WMS",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/plan-local-durbanisme-services-wms/"
+}

@@ -1,0 +1,120 @@
+{
+  "badges": [],
+  "created_at": "2017-02-17T00:00:00",
+  "deleted": null,
+  "description": "Le recensement agricole offre un portrait instantan\u00e9, complet et d\u00e9taill\u00e9, d'un secteur cl\u00e9 de l'\u00e9conomie fran\u00e7aise et europ\u00e9enne : l'agriculture.\nLe fichier contient les indicateurs suivants :\n\n- nombre d'exploitations\n- unit\u00e9s de travail annuelles (UTA)\n- superficie agricole utilis\u00e9e (SAU)\n- superficie en terres labourables\n- superficie en cultures permanentes\n- superficie toujours en herbe",
+  "extras": {
+    "ckan:name": "exploitations-et-surfaces-agricoles-en-gironde1",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/TRIENNIAL",
+    "guid": "https://datacat.datalocale.fr/440494",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-06-06T16:39:06.294311",
+    "harvest:remote_id": "9b198165-58d9-4ad3-aafc-70ba7afe1592",
+    "harvest:source_id": "59365a72c751df28ed47c9eb",
+    "issued": "2016-07-28T10:18:11.215421+00:00",
+    "modified": "2016-07-28T10:18:11.215421+00:00",
+    "publisher_email": "mailto:datalocale@gironde.fr",
+    "publisher_name": "D\u00e9partement de la Gironde",
+    "publisher_type": "\"Collectivit\u00e9 locale\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414548",
+    "remote_url": "http://agreste.agriculture.gouv.fr/",
+    "theme": "[\"superficie agricole utilis\u00e9e\", \"surface d'exploitation\"]",
+    "uri": "https://datacat.datalocale.fr/440494"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "593457eea3a72968e2876c1b",
+  "last_modified": "2017-06-06T16:39:06.296000",
+  "last_update": "2017-06-06T16:39:06.292000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": null,
+  "owner": {
+    "avatar": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-original.jpg",
+    "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-100.jpg",
+    "class": "User",
+    "first_name": "Ressourcerie",
+    "id": "534fff47a3a7292c64a77adc",
+    "last_name": "datalocale",
+    "page": "https://www.data.gouv.fr/fr/users/ressourcerie-datalocale/",
+    "slug": "ressourcerie-datalocale",
+    "uri": "https://www.data.gouv.fr/api/1/users/ressourcerie-datalocale/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/exploitations-et-surfaces-agricoles-en-gironde1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:46.830000",
+      "description": "export encod\u00e9 en UTF-8",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-17T04:03:49.939000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/440883/raw/agriculture_detailsExploitationCommune.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "0f9153b4-96a2-4937-a9de-1a2ed92a3072",
+      "last_modified": "2017-06-04T20:56:46.831000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0f9153b4-96a2-4937-a9de-1a2ed92a3072",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:56:46.830000",
+      "title": "agriculture_detailsExploitationCommune.csv",
+      "url": "https://datacat.datalocale.fr/file/440883/raw/agriculture_detailsExploitationCommune.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:39:06.292000",
+      "description": "export encod\u00e9 en UTF-8",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T02:36:56.070000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/440883/raw/agriculture_detailsExploitationCommune.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "90dd7286-002a-49bf-9763-f9c4a58b730b",
+      "last_modified": "2017-06-06T16:39:06.293000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/90dd7286-002a-49bf-9763-f9c4a58b730b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:39:06.292000",
+      "title": "agriculture_detailsExploitationCommune.csv",
+      "url": "https://datacat.datalocale.fr/file/440883/raw/agriculture_detailsExploitationCommune.csv"
+    }
+  ],
+  "slug": "exploitations-et-surfaces-agricoles-en-gironde1",
+  "spatial": null,
+  "tags": [
+    "agriculture",
+    "recensement",
+    "surfaces-agricoles"
+  ],
+  "temporal_coverage": null,
+  "title": "exploitations et surfaces agricoles en Gironde",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/exploitations-et-surfaces-agricoles-en-gironde1/"
+}

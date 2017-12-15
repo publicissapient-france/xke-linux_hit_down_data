@@ -1,0 +1,150 @@
+{
+  "badges": [],
+  "created_at": "2017-11-03T05:06:59.603000",
+  "deleted": null,
+  "description": "Localisation et effectifs des \u00e9coles d'Armenti\u00e8res\n\n* dans le nom de l'\u00e9cole signifie que l'\u00e9cole\u00a0comprend des classes ULIS",
+  "extras": {
+    "harvest:domain": "opendata.lillemetropole.fr",
+    "harvest:last_update": "2017-11-27T05:28:40.531099",
+    "harvest:remote_id": "effectifs-scolaires-par-ecole-armentieres",
+    "harvest:source_id": "58b68fdcc751df10ea84f9cc",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.lillemetropole.fr//explore/dataset/effectifs-scolaires-par-ecole-armentieres/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59fbeb63a3a729724224593f",
+  "last_modified": "2017-11-27T05:28:40.550000",
+  "last_update": "2017-11-27T05:28:40.530000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "MEL",
+    "class": "Organization",
+    "id": "58b69c62c751df4b175dd7a4",
+    "logo": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-100.png",
+    "name": "M\u00e9tropole Europ\u00e9enne de Lille ",
+    "page": "https://www.data.gouv.fr/fr/organizations/metropole-europeenne-de-lille/",
+    "slug": "metropole-europeenne-de-lille",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/metropole-europeenne-de-lille/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/effectifs-par-ecole-a-armentieres/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:28:40.528000",
+      "description": "- *NOM DE L\u2019ECOLE*: nom_de_l_ecole[text]\n- *NIVEAU*: niveau[text]\n- *ADRESSE*: adresse[text]\n- *code_postal*: code_postal[text]\n- *VILLE*: ville[text]\n- *NOMBRE DE CLASSES*: nombre_de_classes[double]\n- *NOMBRE D\u2019ELEVES*: nombre_d_eleves[double]\n- *coordonnees*: coordonnees[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "d6fc2958-e3e0-45e2-a1ba-366e924ada31",
+      "last_modified": "2017-10-19T06:12:56",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d6fc2958-e3e0-45e2-a1ba-366e924ada31",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:28:40.528000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/effectifs-scolaires-par-ecole-armentieres/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:28:40.529000",
+      "description": "- *NOM DE L\u2019ECOLE*: nom_de_l_ecole[text]\n- *NIVEAU*: niveau[text]\n- *ADRESSE*: adresse[text]\n- *code_postal*: code_postal[text]\n- *VILLE*: ville[text]\n- *NOMBRE DE CLASSES*: nombre_de_classes[double]\n- *NOMBRE D\u2019ELEVES*: nombre_d_eleves[double]\n- *coordonnees*: coordonnees[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "880779ea-b2c2-461e-9d15-596055274295",
+      "last_modified": "2017-10-19T06:12:56",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/880779ea-b2c2-461e-9d15-596055274295",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:28:40.529000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/effectifs-scolaires-par-ecole-armentieres/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:28:40.529000",
+      "description": "- *NOM DE L\u2019ECOLE*: nom_de_l_ecole[text]\n- *NIVEAU*: niveau[text]\n- *ADRESSE*: adresse[text]\n- *code_postal*: code_postal[text]\n- *VILLE*: ville[text]\n- *NOMBRE DE CLASSES*: nombre_de_classes[double]\n- *NOMBRE D\u2019ELEVES*: nombre_d_eleves[double]\n- *coordonnees*: coordonnees[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "2505f606-0f5f-4fcf-8027-03318024a086",
+      "last_modified": "2017-10-19T06:12:56",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2505f606-0f5f-4fcf-8027-03318024a086",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:28:40.529000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/effectifs-scolaires-par-ecole-armentieres/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:28:40.529000",
+      "description": "- *NOM DE L\u2019ECOLE*: nom_de_l_ecole[text]\n- *NIVEAU*: niveau[text]\n- *ADRESSE*: adresse[text]\n- *code_postal*: code_postal[text]\n- *VILLE*: ville[text]\n- *NOMBRE DE CLASSES*: nombre_de_classes[double]\n- *NOMBRE D\u2019ELEVES*: nombre_d_eleves[double]\n- *coordonnees*: coordonnees[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "9aaa8f6f-fb4e-44ea-a335-bd0309b95fd0",
+      "last_modified": "2017-10-19T06:12:56",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9aaa8f6f-fb4e-44ea-a335-bd0309b95fd0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:28:40.530000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/effectifs-scolaires-par-ecole-armentieres/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "effectifs-par-ecole-a-armentieres",
+  "spatial": null,
+  "tags": [
+    "ecole",
+    "ecoles",
+    "ecoles-elementaires",
+    "ecoles-maternelles",
+    "education",
+    "effectifs-scolaires",
+    "enseignement",
+    "formation",
+    "recherche"
+  ],
+  "temporal_coverage": null,
+  "title": "Effectifs par \u00e9cole \u00e0 Armenti\u00e8res",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/effectifs-par-ecole-a-armentieres/"
+}

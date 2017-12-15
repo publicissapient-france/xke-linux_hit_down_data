@@ -1,0 +1,82 @@
+{
+  "badges": [],
+  "created_at": "2015-03-26T10:36:29.567000",
+  "deleted": null,
+  "description": "**Description**\n\nIl s'agit du montant annuel de d\u00e9penses d'aides financi\u00e8res en direction des m\u00e9nages en difficult\u00e9 concernant l'acc\u00e8s ou le maintien dans le logement, dans le cadre du Fonds solidarit\u00e9 logement, r\u00e9parti par commune de Seine-Saint-Denis.\n\n**Sources** \n\nD\u00e9partement de la Seine-Saint-Denis - base de donn\u00e9es m\u00e9tier\n\n**Origine de la donn\u00e9e - Producteur** \n\nFlux manuel\n\n**Liste des colonnes**\n\n- D\u00e9partement : N\u00b0 du d\u00e9partement\n- Code commune INSEE : Code commune INSEE\n- Commune : Nom commune\n- Montant 2010 : Montant de d\u00e9penses 2010\n- Montant 2011 : Montant de d\u00e9penses 2011\n- Montant 2012 : Montant de d\u00e9penses 2012\n- Montant 2013 : Montant de d\u00e9penses 2013\n\n**Format de diffusion**\n\nCes fichiers sont propos\u00e9s sous forme de :\n\n    fichiers csv (encodage ANSI)      \n    \n**Contact**\n\nPour toute question, ou signalement d'une am\u00e9lioration, vous pouvez nous contacter sur <a href=\"mailto:data93@cg93.fr\">data93@cg93.fr</a>\n\n**Liens**\n\n- Consulter la fiche sur le <a href=\"http://data.seine-saint-denis.fr/spip.php?article151\">portail Open Data de la Seine-Saint-Denis</a>\n\n\n\n\n\n\n\n",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": "2015-10-12T00:00:00",
+  "id": "5513d31dc751df3a10703192",
+  "last_modified": "2016-01-30T13:35:12.895000",
+  "last_update": "2015-03-26T10:36:37.095000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5457bc26c751df7378225d2e",
+    "logo": "https://www.data.gouv.fr/s/avatars/2014-11-03/1368537f4075452eb44393ea68b6bfdc/SeineSaintDenis-Logo-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-11-03/1368537f4075452eb44393ea68b6bfdc/SeineSaintDenis-Logo-100.png",
+    "name": "Seine-Saint-Denis - Le D\u00e9partement",
+    "page": "https://www.data.gouv.fr/fr/organizations/seine-saint-denis-le-departement/",
+    "slug": "seine-saint-denis-le-departement",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/seine-saint-denis-le-departement/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/montant-de-depenses-au-titre-du-fonds-solidarite-logement-par-commune/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "9f533ace8ce1ce18b5823d92959864530159c9c5"
+      },
+      "created_at": "2015-03-26T10:36:37.095000",
+      "description": "",
+      "extras": {},
+      "filesize": 2579,
+      "filetype": "file",
+      "format": "csv",
+      "id": "a4941de5-ed0a-49e9-a007-2499f951070a",
+      "last_modified": "2015-03-26T10:36:37.095000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a4941de5-ed0a-49e9-a007-2499f951070a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2015-03-26T10:36:37.095000",
+      "title": "Departement93-Fonds_de_solidarite_logement_Montant_des_aides_attribuees-2010-2013.csv",
+      "url": "https://www.data.gouv.fr/s/resources/montant-de-depenses-au-titre-du-fonds-solidarite-logement-par-commune/20150326-103635/Departement93-Fonds_de_solidarite_logement_Montant_des_aides_attribuees-2010-2013.csv"
+    }
+  ],
+  "slug": "montant-de-depenses-au-titre-du-fonds-solidarite-logement-par-commune",
+  "spatial": {
+    "geom": null,
+    "granularity": "other",
+    "zones": [
+      "fr:departement:93@1968-01-01"
+    ]
+  },
+  "tags": [
+    "aides-financieres",
+    "fonds-solidarite-energie"
+  ],
+  "temporal_coverage": {
+    "end": "2013-12-31",
+    "start": "2010-01-01"
+  },
+  "title": "Montant de d\u00e9penses au titre du Fonds solidarit\u00e9 logement par commune",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/montant-de-depenses-au-titre-du-fonds-solidarite-logement-par-commune/"
+}

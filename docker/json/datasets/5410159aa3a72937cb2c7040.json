@@ -1,0 +1,107 @@
+{
+  "badges": [],
+  "created_at": "2014-09-09T15:59:16.404000",
+  "deleted": null,
+  "description": "R\u00e9gularit\u00e9 mensuelle TGV depuis septembre 2011.\n\nSur TGV, la r\u00e9gularit\u00e9 est calcul\u00e9e lors de l\u2019arriv\u00e9e du train \u00e0 la derni\u00e8re gare de son parcours (terminus). Ce mode de calcul, qui n\u2019int\u00e8gre pas les gares interm\u00e9diaires, propose le retard cumul\u00e9 sur l\u2019ensemble d\u2019un trajet.\n\nL\u2019indicateur utilis\u00e9 est celui de la \u00ab r\u00e9gularit\u00e9 composite \u00bb : un train est consid\u00e9r\u00e9 en retard s\u2019il arrive cinq minutes apr\u00e8s son heure pr\u00e9vue pour un trajet de moins de 1h30, dix minutes pour un trajet de 1h30 \u00e0 3h, et quinze minutes pour un trajet de plus de 3h.\n\nUn train supprim\u00e9 avant 16h la veille de sa circulation ne sera pas comptabilis\u00e9. En revanche, si l\u2019annonce de sa suppression n\u2019a pu \u00eatre faite la veille avant 16h, le train sera bien comptabilis\u00e9 comme un train supprim\u00e9, que cette suppression soit totale ou partielle (le train a effectu\u00e9 qu\u2019une partie de son parcours).\n\nLe calcul de la r\u00e9gularit\u00e9 TGV propos\u00e9 ici ne prend pas en compte la totalit\u00e9 des trains, mais une s\u00e9lection d\u00e9termin\u00e9e par l\u2019Autorit\u00e9 de la Qualit\u00e9 de Service dans les Transports (AQST).",
+  "extras": {
+    "datagouv_ckan_id": "b9bd4d1a-fc2a-4eab-bc4a-311ca7c58cc1",
+    "datagouv_ckan_last_sync": "2014-09-16T10:04:18.701000",
+    "harvest:domain": "ressources.data.sncf.com",
+    "harvest:last_update": "2017-11-27T05:01:08.121692",
+    "harvest:remote_id": "regularite-mensuelle-tgv",
+    "harvest:source_id": "563dd01f88ee386a21e72046",
+    "ods:has_records": true,
+    "ods:url": "https://ressources.data.sncf.com/explore/dataset/regularite-mensuelle-tgv/",
+    "remote_url": "http://ressources.data.sncf.com/explore/dataset/regularite-mensuelle-tgv/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5410159aa3a72937cb2c7040",
+  "last_modified": "2017-11-27T05:01:08.125000",
+  "last_update": "2017-11-27T05:01:08.121000",
+  "license": "other-open",
+  "metrics": {
+    "cow_criticals": 0,
+    "cow_errors": 0,
+    "cow_score": 0.1499958562137898,
+    "cow_warnings": 3,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 5
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb0a3a7292c64a78115",
+    "logo": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-100.png",
+    "name": "SNCF",
+    "page": "https://www.data.gouv.fr/fr/organizations/sncf/",
+    "slug": "sncf",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/sncf/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/regularite-mensuelle-tgv-sncf/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:01:08.120000",
+      "description": "- *Date*: date[date]\n- *Axe*: axe[text]\n- *D\u00e9part*: depart[text]\n- *Arriv\u00e9e*: arrivee[text]\n- *Nombre de trains programm\u00e9s*: nombre_de_trains_programmes[int]\n- *Nombre de trains ayant circul\u00e9*: nombre_de_trains_ayant_circule[int]\n- *Nombre de trains annul\u00e9s*: nombre_de_trains_annules[int]\n- *Nombre de trains en retard \u00e0 l'arriv\u00e9e*: nombre_de_trains_en_retard_a_l_arrivee[int]\n- *R\u00e9gularit\u00e9*: taux_regularite[double]\n- *Commentaires*: commentaires[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "8263135f-6332-45d0-85f2-48a4ab5d81e7",
+      "last_modified": "2017-11-10T15:36:03",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8263135f-6332-45d0-85f2-48a4ab5d81e7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:01:08.120000",
+      "title": "Export au format CSV",
+      "url": "https://ressources.data.sncf.com/explore/dataset/regularite-mensuelle-tgv/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:01:08.121000",
+      "description": "- *Date*: date[date]\n- *Axe*: axe[text]\n- *D\u00e9part*: depart[text]\n- *Arriv\u00e9e*: arrivee[text]\n- *Nombre de trains programm\u00e9s*: nombre_de_trains_programmes[int]\n- *Nombre de trains ayant circul\u00e9*: nombre_de_trains_ayant_circule[int]\n- *Nombre de trains annul\u00e9s*: nombre_de_trains_annules[int]\n- *Nombre de trains en retard \u00e0 l'arriv\u00e9e*: nombre_de_trains_en_retard_a_l_arrivee[int]\n- *R\u00e9gularit\u00e9*: taux_regularite[double]\n- *Commentaires*: commentaires[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "1eed080f-6959-4e3f-94f8-357da509328b",
+      "last_modified": "2017-11-10T15:36:03",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1eed080f-6959-4e3f-94f8-357da509328b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:01:08.121000",
+      "title": "Export au format JSON",
+      "url": "https://ressources.data.sncf.com/explore/dataset/regularite-mensuelle-tgv/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "regularite-mensuelle-tgv-sncf",
+  "spatial": null,
+  "tags": [
+    "qualite-de-service",
+    "regularite",
+    "tgv"
+  ],
+  "temporal_coverage": null,
+  "title": "R\u00e9gularit\u00e9 mensuelle TGV",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/regularite-mensuelle-tgv-sncf/"
+}

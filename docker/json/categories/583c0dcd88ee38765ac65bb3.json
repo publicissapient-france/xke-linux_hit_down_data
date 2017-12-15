@@ -1,0 +1,61 @@
+{
+  "acronym": null,
+  "badges": [],
+  "created_at": "2016-11-28T11:58:21.357000",
+  "deleted": null,
+  "description": "La Caisse des D\u00e9p\u00f4ts exerce le m\u00e9tier de gestionnaire sous mandat de r\u00e9gimes de retraite publique : retraite des fonctionnaires territoriaux et hospitaliers (CNRACL), retraite compl\u00e9mentaire des agents non titulaires de l\u2019Etat et des collectivit\u00e9s locales (Ircantec), retraite additionnelle des trois fonctions publiques (RAFP), des ouvriers d\u2019Etat (FSPOEIE) et des travailleurs du sous-sol (Retraite des Mines). Ces r\u00e9gimes couvrent 7,5 millions de cotisants et 3,7 millions de pensionn\u00e9s, soit 1 retrait\u00e9 sur 5 en France. A ce titre, elle est le partenaire privil\u00e9gi\u00e9 de 75 000 employeurs publics.",
+  "id": "583c0dcd88ee38765ac65bb3",
+  "last_modified": "2017-11-26T22:55:21.317000",
+  "logo": "https://www.data.gouv.fr/s/avatars/54/96509fd1244abbb678c746b173de0e-original.jpg",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/54/96509fd1244abbb678c746b173de0e-100.jpg",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/05/706ca46ba94474a760d90abda026eb-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/05/706ca46ba94474a760d90abda026eb-100.jpg",
+        "class": "User",
+        "first_name": "Open Data",
+        "id": "5804cc6b88ee381ed75ff490",
+        "last_name": "DRS",
+        "page": "https://www.data.gouv.fr/fr/users/open-data-drs/",
+        "slug": "open-data-drs",
+        "uri": "https://www.data.gouv.fr/api/1/users/open-data-drs/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Cl\u00e9ment",
+        "id": "5804c30688ee380d985ff490",
+        "last_name": "Carrier",
+        "page": "https://www.data.gouv.fr/fr/users/clement-carrier/",
+        "slug": "clement-carrier",
+        "uri": "https://www.data.gouv.fr/api/1/users/clement-carrier/"
+      }
+    }
+  ],
+  "metrics": {
+    "badges": 0,
+    "dataset_views": 0,
+    "datasets": 12,
+    "followers": 1,
+    "members": 2,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 0,
+    "resource_downloads": 10,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 22
+  },
+  "name": "Caisse des D\u00e9p\u00f4ts - Retraites",
+  "page": "https://www.data.gouv.fr/fr/organizations/caisse-des-depots-retraites/",
+  "slug": "caisse-des-depots-retraites",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/caisse-des-depots-retraites/",
+  "url": "http://retraitesolidarite.caissedesdepots.fr/"
+}

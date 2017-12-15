@@ -1,0 +1,114 @@
+{
+  "badges": [],
+  "created_at": "2016-06-22T00:00:00",
+  "deleted": null,
+  "description": "D\u00e9nombrement par Caf, des  foyers allocataires ayant un droit versable \u00e0  l'allocation de logement familiale.\nCr\u00e9\u00e9e en 1948, cette prestation visait \u00e0 compenser la lib\u00e9ralisation des loyers d\u00e9cid\u00e9e \u00e0 la m\u00eame \u00e9poque, et \u00e0 permettre aux familles de se loger dans des conditions satisfaisantes de salubrit\u00e9 et de peuplement correspondant \u00e0 leurs besoins. Elle est attribu\u00e9e aux familles avec enfants ou ayant \u00e0 charge un ascendant ou un proche parent infirme. Elle est \u00e9galement vers\u00e9e aux jeunes couples mari\u00e9s depuis moins de 5 ans sans enfant \u00e0 charge d\u00e8s lors que l\u2019un ou l\u2019autre a moins de 40 ans au moment du mariage.\n\nDes \u00e9l\u00e9ments plus d\u00e9taill\u00e9s sur l'ALF sont disponibles sur le site caf.fr, en cliquant sur le lien suivant :\n\nhttps://www.caf.fr/aides-et-services/s-informer-sur-les-aides/logement-et-cadre-de-vie \n\nLe foyer allocataire est compos\u00e9 du responsable du dossier (personne qui per\u00e7oit au moins une prestation au regard de sa situation familiale et/ou mon\u00e9taire), et l'ensemble des autres ayants droit au sens de la r\u00e8glementation en vigueur (conjoint, enfant(s) et autre(s) personne(s) \u00e0 charge).\nPlusieurs foyers allocataires peuvent cohabiter dans un m\u00eame lieu, ils constituent alors un seul m\u00e9nage au sens de la d\u00e9finition statistique Insee. C\u2019est le cas, par exemple, lorsque un couple per\u00e7oit des allocations logement et h\u00e9berge son enfant titulaire d'un minimum social des Caf (RSO, RSA, AAH).\nEn pratique, le terme \"allocataire\" est souvent utilis\u00e9 \u00e0 la place de \"foyer allocataire\".\n\nLe droit versable signifie que le foyer allocataire remplit toutes les conditions pour \u00eatre effectivement pay\u00e9 au titre du mois d\u2019observation. En particulier ne sont pas inclus dans ce p\u00e9rim\u00e8tre les b\u00e9n\u00e9ficiaires qui n\u2019ont pas fourni l\u2019int\u00e9gralit\u00e9 de leurs pi\u00e8ces justificatives, ou ceux dont le montant de la prestation est inf\u00e9rieur au seuil de versement.\n\nLe champ g\u00e9ographique d\u2019observation du jeu de donn\u00e9es correspond \u00e0 la Caf de gestion auquel est rattach\u00e9e le foyer allocataire dans le fichier statistique des allocataires, au moment de l\u2019extraction (environ 6 semaines apr\u00e8s la fin du mois observ\u00e9). \n\nDes donn\u00e9es de synth\u00e8se et d'analyse ainsi que des descriptions statistiques et cartographiques sur cette prestation sont disponibles dans le cahier des donn\u00e9es sociales de la Cnaf (page 46), en cliquant sur le lien suivant :\n\nhttp://www.caf.fr/sites/default/files/cnaf/Documents/Dser/cahier_donnees_sociales/CDS_2011.pdf#page=21",
+  "extras": {
+    "ckan:name": "foyers-allocataires-percevant-l-allocation-de-logement-familiale-alf-par-caf",
+    "harvest:domain": "data.caf.fr",
+    "harvest:last_update": "2017-11-27T05:08:27.060207",
+    "harvest:remote_id": "97ad8da7-6740-46d1-8136-94a2675a6395",
+    "harvest:source_id": "560d9133c751df40ee756894",
+    "harvested": "2017-10-02T09:49:40.511097",
+    "remote_url": "Fileas",
+    "source_id": "954ea88a-1b59-4a56-acae-2148a64dbe5e"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "560d915db595086cd601d74f",
+  "last_modified": "2017-11-27T05:08:27.064000",
+  "last_update": "2015-10-01T22:02:37.480000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": "CNAF",
+    "class": "Organization",
+    "id": "5595066cc751df4582a453ba",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-07-02/a1bc08e4a4dc44a89cb29697800a83b5/new_logo-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-07-02/a1bc08e4a4dc44a89cb29697800a83b5/new_logo-100.jpg",
+    "name": "Caisse Nationale des Allocations familiales ",
+    "page": "https://www.data.gouv.fr/fr/organizations/allocations-familiales/",
+    "slug": "allocations-familiales",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/allocations-familiales/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/allocation-de-logement-familiale-alf-par-caf/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:37.479000",
+      "description": "Veuillez consulter le descriptif pour une meilleure lecture",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T21:29:43.212000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/97ad8da7-6740-46d1-8136-94a2675a6395/resource/53e4036a-5d08-4368-899b-78b78825a921/download/ALFCafdepuis1993.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "53e4036a-5d08-4368-899b-78b78825a921",
+      "last_modified": "2017-09-19T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/53e4036a-5d08-4368-899b-78b78825a921",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 5
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:37.479000",
+      "title": "ALF_Caf_depuis_1993",
+      "url": "http://data.caf.fr/dataset/97ad8da7-6740-46d1-8136-94a2675a6395/resource/53e4036a-5d08-4368-899b-78b78825a921/download/ALFCafdepuis1993.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:37.480000",
+      "description": "Lisez-moi.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T21:29:43.197000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/97ad8da7-6740-46d1-8136-94a2675a6395/resource/d6a57d26-e31c-4c71-ac22-796fceaaf08e/download/Descriptif-du-fichier-ALFCafdepuis1993.txt"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "txt",
+      "id": "d6a57d26-e31c-4c71-ac22-796fceaaf08e",
+      "last_modified": "2017-03-29T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d6a57d26-e31c-4c71-ac22-796fceaaf08e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:37.480000",
+      "title": "Descriptif du fichier ALF_Caf_depuis_1993",
+      "url": "http://data.caf.fr/dataset/97ad8da7-6740-46d1-8136-94a2675a6395/resource/d6a57d26-e31c-4c71-ac22-796fceaaf08e/download/Descriptif-du-fichier-ALFCafdepuis1993.txt"
+    }
+  ],
+  "slug": "allocation-de-logement-familiale-alf-par-caf",
+  "spatial": null,
+  "tags": [
+    "alf",
+    "caf",
+    "logement",
+    "sl001"
+  ],
+  "temporal_coverage": null,
+  "title": "Allocation de logement familiale (ALF) - par Caf",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/allocation-de-logement-familiale-alf-par-caf/"
+}

@@ -1,0 +1,112 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T17:11:30.865000",
+  "deleted": null,
+  "description": "Liste des titres les plus r\u00e9serv\u00e9s en 2016 dans le r\u00e9seau des _biblioth\u00e8ques sp\u00e9cialis\u00e9es_. **Attention, seules quelques biblioth\u00e8ques pr\u00eatent des documents et donc permettent la r\u00e9servation de documents - ces \u00e9l\u00e9ments de donn\u00e9es ne sont pas repr\u00e9sentatifs de la totalit\u00e9 du r\u00e9seau des biblioth\u00e8ques et fonds sp\u00e9cialis\u00e9s et patrimoniaux de la Ville de Paris - sont uniquement concern\u00e9es\u00a0:\u00a0**\n\n  * Buffon Centre de Documentation\n  * Biblioth\u00e8que du\u00a0Cin\u00e9ma Fran\u00e7ois Truffaut\n  * Biblioth\u00e8que\u00a0Forney\n  * Biblioth\u00e8que du Breuil\n  * DEVE Documentation interne\n  * Biblioth\u00e8que Paris nature - Parc floral\n  * Maison du jardinage - Parc de Bercy",
+  "extras": {
+    "harvest:domain": "opendata.paris.fr",
+    "harvest:last_update": "2017-09-27T06:27:26.578394",
+    "harvest:remote_id": "titres-les-plus-reserves-bibliotheques-specialisees",
+    "harvest:source_id": "5631ef2988ee3837ce531585",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.paris.fr/explore/dataset/titres-les-plus-reserves-bibliotheques-specialisees/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59590d22a3a7291dd09c8001",
+  "last_modified": "2017-09-27T06:27:26.580000",
+  "last_update": "2017-09-27T06:27:26.577000",
+  "license": "odc-odbl",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff89a3a7292c64a77eb7",
+    "logo": "https://www.data.gouv.fr/s/avatars/b2/0e83ec3699415a87640e97c51cb006-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b2/0e83ec3699415a87640e97c51cb006-100.png",
+    "name": "Mairie de Paris",
+    "page": "https://www.data.gouv.fr/fr/organizations/mairie-de-paris/",
+    "slug": "mairie-de-paris",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/mairie-de-paris/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/titres-les-plus-reserves-bibliotheques-specialisees-en-2016/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-27T06:27:26.577000",
+      "description": "- *Auteur*: auteur[text]\n- *Titre*: titre[text]\n- *Editeur*: editeur[text]\n- *Collection*: collection[text]\n- *Ann\u00e9e \u00e9dition*: annee_edition[int]\n- *Cat\u00e9gorie documentaire*: categorie_documentaire[text]\n- *Nb de r\u00e9servations 2016*: nb_de_reservations_2014[int]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-13T12:59:09.526000",
+        "check:status": 200,
+        "check:url": "https://opendata.paris.fr/explore/dataset/titres-les-plus-reserves-bibliotheques-specialisees/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f8cc9085-2fc1-4372-81ce-e1ebce510396",
+      "last_modified": "2016-08-05T16:32:39",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f8cc9085-2fc1-4372-81ce-e1ebce510396",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-27T06:27:26.577000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.paris.fr/explore/dataset/titres-les-plus-reserves-bibliotheques-specialisees/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-27T06:27:26.577000",
+      "description": "- *Auteur*: auteur[text]\n- *Titre*: titre[text]\n- *Editeur*: editeur[text]\n- *Collection*: collection[text]\n- *Ann\u00e9e \u00e9dition*: annee_edition[int]\n- *Cat\u00e9gorie documentaire*: categorie_documentaire[text]\n- *Nb de r\u00e9servations 2016*: nb_de_reservations_2014[int]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-13T12:59:09.540000",
+        "check:status": 200,
+        "check:url": "https://opendata.paris.fr/explore/dataset/titres-les-plus-reserves-bibliotheques-specialisees/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "d1707e04-b7ae-4792-928e-1b70bd01d4b8",
+      "last_modified": "2016-08-05T16:32:39",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d1707e04-b7ae-4792-928e-1b70bd01d4b8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-09-27T06:27:26.577000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.paris.fr/explore/dataset/titres-les-plus-reserves-bibliotheques-specialisees/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "titres-les-plus-reserves-bibliotheques-specialisees-en-2016",
+  "spatial": null,
+  "tags": [
+    "bibliotheques",
+    "culture",
+    "patrimoine",
+    "references",
+    "reservation"
+  ],
+  "temporal_coverage": null,
+  "title": "Titres les plus r\u00e9serv\u00e9s biblioth\u00e8ques sp\u00e9cialis\u00e9es en 2016",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/titres-les-plus-reserves-bibliotheques-specialisees-en-2016/"
+}

@@ -1,0 +1,149 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T17:10:50.490000",
+  "deleted": null,
+  "description": "Donn\u00e9es de type vecteur, d\u00e9crivant les panneaux indicateurs de signalisation routi\u00e8re et pi\u00e9tonne : poteaux indicateur, potelet pi\u00e9ton, panneaux indicateur...",
+  "extras": {
+    "harvest:domain": "opendata.paris.fr",
+    "harvest:last_update": "2017-11-27T05:11:40.294964",
+    "harvest:remote_id": "panneaux_indicateurs_de_signalisation_routiere_et_pietonne",
+    "harvest:source_id": "5631ef2988ee3837ce531585",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.paris.fr/explore/dataset/panneaux_indicateurs_de_signalisation_routiere_et_pietonne/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59590cfaa3a7291dd09c7fdf",
+  "last_modified": "2017-11-27T05:11:40.299000",
+  "last_update": "2017-11-27T05:11:40.293000",
+  "license": "odc-odbl",
+  "metrics": {
+    "discussions": 1,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff89a3a7292c64a77eb7",
+    "logo": "https://www.data.gouv.fr/s/avatars/b2/0e83ec3699415a87640e97c51cb006-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b2/0e83ec3699415a87640e97c51cb006-100.png",
+    "name": "Mairie de Paris",
+    "page": "https://www.data.gouv.fr/fr/organizations/mairie-de-paris/",
+    "slug": "mairie-de-paris",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/mairie-de-paris/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/panneaux-indicateurs-de-signalisation-routiere-et-pietonne/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:11:40.292000",
+      "description": "- *Geometry X Y*: geom_x_y[geo_point_2d]\n- *Geometry*: geom[geo_shape]\n- *Info*: info[text]\n- *Libelle*: libelle[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "85afd980-c5f9-48d7-82d9-056b88fb1414",
+      "last_modified": "2013-06-20T14:40:11",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/85afd980-c5f9-48d7-82d9-056b88fb1414",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:11:40.292000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.paris.fr/explore/dataset/panneaux_indicateurs_de_signalisation_routiere_et_pietonne/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:11:40.292000",
+      "description": "- *Geometry X Y*: geom_x_y[geo_point_2d]\n- *Geometry*: geom[geo_shape]\n- *Info*: info[text]\n- *Libelle*: libelle[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "9ab823a1-f728-49bd-a1cb-a424af6760ba",
+      "last_modified": "2013-06-20T14:40:11",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9ab823a1-f728-49bd-a1cb-a424af6760ba",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:11:40.292000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.paris.fr/explore/dataset/panneaux_indicateurs_de_signalisation_routiere_et_pietonne/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:11:40.293000",
+      "description": "- *Geometry X Y*: geom_x_y[geo_point_2d]\n- *Geometry*: geom[geo_shape]\n- *Info*: info[text]\n- *Libelle*: libelle[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "b60cf4b1-2381-4347-af9a-bb1654949fec",
+      "last_modified": "2013-06-20T14:40:11",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b60cf4b1-2381-4347-af9a-bb1654949fec",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:11:40.293000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.paris.fr/explore/dataset/panneaux_indicateurs_de_signalisation_routiere_et_pietonne/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:11:40.293000",
+      "description": "- *Geometry X Y*: geom_x_y[geo_point_2d]\n- *Geometry*: geom[geo_shape]\n- *Info*: info[text]\n- *Libelle*: libelle[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "3f1a4ccd-84a6-467c-827a-982608b32e51",
+      "last_modified": "2013-06-20T14:40:11",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3f1a4ccd-84a6-467c-827a-982608b32e51",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:11:40.293000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.paris.fr/explore/dataset/panneaux_indicateurs_de_signalisation_routiere_et_pietonne/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "panneaux-indicateurs-de-signalisation-routiere-et-pietonne",
+  "spatial": null,
+  "tags": [
+    "mobilite-et-espace-public",
+    "panneaux",
+    "pieton",
+    "poteaux",
+    "potelets",
+    "route",
+    "signalisation",
+    "voirie"
+  ],
+  "temporal_coverage": null,
+  "title": "Panneaux indicateurs de signalisation routi\u00e8re et pi\u00e9tonne",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/panneaux-indicateurs-de-signalisation-routiere-et-pietonne/"
+}

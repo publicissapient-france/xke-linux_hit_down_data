@@ -1,0 +1,102 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T18:04:27.976000",
+  "deleted": null,
+  "description": "Ponctualit\u00e9 mensuelle Transilien depuis janvier 2013.\n\nSur Transilien, la qualit\u00e9 de service est \u00e9valu\u00e9e au regard de la \"ponctualit\u00e9 voyageurs\", c\u2019est-\u00e0-dire le pourcentage de voyageurs arrivant avec un retard de moins de cinq minutes \u00e0 leur gare de destination.\n\nDepuis janvier 2002, en accord avec le Syndicat des transports d\u2019Ile-de-France (STIF) qui est l\u2019autorit\u00e9 organisatrice des transports pour Transilien, le mode de calcul ne s\u2019effectue plus sur la base du nombre de trains mais du nombre de voyageurs impact\u00e9s. L\u2019objectif est de refl\u00e9ter la r\u00e9alit\u00e9 du parcours de chaque voyageur. Pour chaque train supprim\u00e9 ou retard\u00e9 de plus de cinq minutes, il est donc possible de conna\u00eetre le nombre de voyageurs qui sont impact\u00e9s par une perturbation.\u00a0\n\nPour r\u00e9aliser ce calcul, des agents mandat\u00e9s par le STIF et Transilien r\u00e9alisent des comptages permettant de conna\u00eetre le nombre d\u2019entrants et de descendants dans les gares, et cela pour tous les trains au cours de la semaine. Ces donn\u00e9es sont actualis\u00e9es en fonction des donn\u00e9es transmises par les portiques de contr\u00f4le.",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T06:23:40.841571",
+    "harvest:remote_id": "regularite-mensuelle-transilien",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/regularite-mensuelle-transilien/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5959198ba3a7291dd09c80cd",
+  "last_modified": "2017-11-27T06:23:40.843000",
+  "last_update": "2017-11-27T06:23:40.840000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/regularite-mensuelle-transilien-1/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:23:40.840000",
+      "description": "- *ID*: id[text]\n- *Date*: date[date]\n- *Service*: service[text]\n- *Ligne*: ligne[text]\n- *Nom de la ligne*: nom_de_la_ligne[text]\n- *Taux de ponctualit\u00e9*: ponctualite[double]\n- *Nombre de voyageurs \u00e0 l'heure pour un voyageur en retard*: nombre_de_voyageurs_a_l_heure_pour_un_voyageur_en_retard[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "d9eda5e8-e254-4506-a967-5f02c1e768cb",
+      "last_modified": "2017-04-06T14:43:05",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d9eda5e8-e254-4506-a967-5f02c1e768cb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T06:23:40.840000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/regularite-mensuelle-transilien/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:23:40.840000",
+      "description": "- *ID*: id[text]\n- *Date*: date[date]\n- *Service*: service[text]\n- *Ligne*: ligne[text]\n- *Nom de la ligne*: nom_de_la_ligne[text]\n- *Taux de ponctualit\u00e9*: ponctualite[double]\n- *Nombre de voyageurs \u00e0 l'heure pour un voyageur en retard*: nombre_de_voyageurs_a_l_heure_pour_un_voyageur_en_retard[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "9bfe79bf-38cc-4798-970e-951312e2d5d0",
+      "last_modified": "2017-04-06T14:43:05",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9bfe79bf-38cc-4798-970e-951312e2d5d0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T06:23:40.840000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/regularite-mensuelle-transilien/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "regularite-mensuelle-transilien-1",
+  "spatial": null,
+  "tags": [
+    "deplacements-transports",
+    "horaire",
+    "rer",
+    "transilien",
+    "transports-en-commun"
+  ],
+  "temporal_coverage": null,
+  "title": "R\u00e9gularit\u00e9 mensuelle Transilien",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/regularite-mensuelle-transilien-1/"
+}

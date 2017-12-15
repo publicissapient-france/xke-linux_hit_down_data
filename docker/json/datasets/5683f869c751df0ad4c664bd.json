@@ -1,0 +1,81 @@
+{
+  "badges": [],
+  "created_at": "2015-12-30T16:29:45.458000",
+  "deleted": null,
+  "description": "Liste des \u00e9tablissements class\u00e9s ERP (recevant du public). Liste \u00e9tablie par le Bureau R\u00e9glementation, Incendie et Acessibilit\u00e9",
+  "extras": {},
+  "frequency": "punctual",
+  "frequency_date": "2015-12-30T00:00:00",
+  "id": "5683f869c751df0ad4c664bd",
+  "last_modified": "2015-12-31T23:33:04.312000",
+  "last_update": "2015-12-30T16:29:50.921000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 4
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "54d8f2a4c751df1df7467389",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-02-09/b5bcf47b74044a88b2bc684dd2c40631/BB_03_noir_2009_rogne-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-02-09/b5bcf47b74044a88b2bc684dd2c40631/BB_03_noir_2009_rogne-100.jpg",
+    "name": "Ville de Boulogne-Billancourt",
+    "page": "https://www.data.gouv.fr/fr/organizations/ville-de-boulogne-billancourt/",
+    "slug": "ville-de-boulogne-billancourt",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ville-de-boulogne-billancourt/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/erp-par-categorie/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "fd64d08b5a952cd8d1492e993f4218472cd67968"
+      },
+      "created_at": "2015-12-30T16:29:50.921000",
+      "description": "Liste des Etablissements Recevant du Public (ERP)",
+      "extras": {},
+      "filesize": 142272,
+      "filetype": "file",
+      "format": "csv",
+      "id": "f83cc248-4731-48de-9e47-2ea536603325",
+      "last_modified": "2015-12-30T16:30:24.441000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f83cc248-4731-48de-9e47-2ea536603325",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 17
+      },
+      "mime": "text/csv",
+      "published": "2015-12-30T16:29:50.921000",
+      "title": "LISTING_ERP.csv",
+      "url": "https://www.data.gouv.fr/s/resources/erp-par-categorie/20151230-162950/LISTING_ERP.csv"
+    }
+  ],
+  "slug": "erp-par-categorie",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:commune",
+    "zones": [
+      "fr:commune:92012@1968-01-01"
+    ]
+  },
+  "tags": [
+    "erp",
+    "etablissement",
+    "public"
+  ],
+  "temporal_coverage": null,
+  "title": "ERP par cat\u00e9gorie",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/erp-par-categorie/"
+}

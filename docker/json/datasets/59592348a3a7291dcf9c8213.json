@@ -1,0 +1,1581 @@
+{
+  "badges": [],
+  "created_at": "2017-06-21T00:00:00",
+  "deleted": null,
+  "description": "export des m\u00e9tadonn\u00e9es du catalogue datalocale. Les m\u00e9tadonn\u00e9es contenues dans ce fichier permettent de r\u00e9cup\u00e9rer pour chaque jeu de donn\u00e9e du catalogue les \u00e9l\u00e9ments de description aussi bien au niveau des jeux de donn\u00e9es que des ressources associ\u00e9es",
+  "extras": {
+    "ckan:name": "liste-des-jeux-de-donnee-du-portail-datalocale",
+    "contact_email": "mailto:datalocale@cg33.fr",
+    "contact_name": "administrateur datalocale",
+    "contact_uri": "https://datacat.datalocale.fr/415915",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/DAILY",
+    "guid": "https://datacat.datalocale.fr/415916",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-09-29T07:49:39.617036",
+    "harvest:remote_id": "0162e4d7-efbb-4459-9168-bc81dd46bbfe",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "a875cbe8-0fd7-4c9e-9b6e-9c235aef4bd7",
+    "issued": "2013-06-11T15:28:28+00:00",
+    "modified": "2016-07-18T09:21:06.350502+00:00",
+    "publisher_email": "mailto:p.romain@cg33.fr",
+    "publisher_name": "Pascal Romain",
+    "publisher_uri": "https://datacat.datalocale.fr/415914",
+    "remote_url": "http://catalogue.datalocale.fr",
+    "theme": "[\"base de donn\u00e9es\"]",
+    "uri": "https://datacat.datalocale.fr/415916"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59592348a3a7291dcf9c8213",
+  "last_modified": "2017-09-29T07:49:39.619000",
+  "last_update": "2017-09-12T07:46:20.346000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-jeux-de-donnee-du-portail-datalocale/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:46:00.058000",
+      "description": "export en csv des m\u00e9tadonn\u00e9es du portail datalocale",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-31T23:39:06.535000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "07f404e8-c4c6-4402-b664-dd242182a81f",
+      "last_modified": "2017-07-07T06:08:11.300000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/07f404e8-c4c6-4402-b664-dd242182a81f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T18:46:00.058000",
+      "title": "datalocale-daily.csv",
+      "url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:46:00.058000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-30T21:59:44.656000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "17351c60-5d00-4106-a0f7-6beb8dcd499f",
+      "last_modified": "2017-07-07T06:08:11.300000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/17351c60-5d00-4106-a0f7-6beb8dcd499f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-07-02T18:46:00.058000",
+      "title": "datalocale-daily.json",
+      "url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:04:49.951000",
+      "description": "export en csv des m\u00e9tadonn\u00e9es du portail datalocale",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T11:50:33.490000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "52b0964a-1b87-4fd3-8a6b-19679fedf552",
+      "last_modified": "2017-07-08T07:04:49.951000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/52b0964a-1b87-4fd3-8a6b-19679fedf552",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-08T07:04:49.951000",
+      "title": "datalocale-daily.csv",
+      "url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:04:49.951000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-30T21:59:44.656000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "07a6ca2b-ef3d-4a52-83df-9c65395c3402",
+      "last_modified": "2017-07-08T07:04:49.952000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/07a6ca2b-ef3d-4a52-83df-9c65395c3402",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-07-08T07:04:49.952000",
+      "title": "datalocale-daily.json",
+      "url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-09T07:00:57.090000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T12:26:08.530000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "5c17e16d-0063-4439-b2a2-89a312f37690",
+      "last_modified": "2017-07-09T07:00:57.090000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5c17e16d-0063-4439-b2a2-89a312f37690",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-07-09T07:00:57.090000",
+      "title": "datalocale-daily.json",
+      "url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-09T07:00:57.090000",
+      "description": "export en csv des m\u00e9tadonn\u00e9es du portail datalocale",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-30T21:59:39.613000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "d57c8610-63c7-4147-8567-8f3c7c3372d6",
+      "last_modified": "2017-07-09T07:00:57.090000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d57c8610-63c7-4147-8567-8f3c7c3372d6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-09T07:00:57.090000",
+      "title": "datalocale-daily.csv",
+      "url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-10T07:03:49.334000",
+      "description": "export en csv des m\u00e9tadonn\u00e9es du portail datalocale",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:41.603000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "474eb4ae-d1dd-4205-8eef-0e98dff446f6",
+      "last_modified": "2017-07-10T07:03:49.334000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/474eb4ae-d1dd-4205-8eef-0e98dff446f6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-10T07:03:49.334000",
+      "title": "datalocale-daily.csv",
+      "url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-10T07:03:49.334000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T23:27:04.907000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "226ce278-b8f5-4e08-91dd-d5185aec3803",
+      "last_modified": "2017-07-10T07:03:49.335000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/226ce278-b8f5-4e08-91dd-d5185aec3803",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-07-10T07:03:49.335000",
+      "title": "datalocale-daily.json",
+      "url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-20T02:29:49.859000",
+      "description": "export en csv des m\u00e9tadonn\u00e9es du portail datalocale",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T07:08:13.472000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f92c892a-2cc9-45e2-a041-450b0e78e8fc",
+      "last_modified": "2017-08-03T06:08:05.011000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f92c892a-2cc9-45e2-a041-450b0e78e8fc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-20T02:29:49.860000",
+      "title": "datalocale-daily.csv",
+      "url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-20T02:29:49.860000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:22.738000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "98262231-2676-44e1-aabe-8d1fe22fe310",
+      "last_modified": "2017-08-03T06:08:05.011000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/98262231-2676-44e1-aabe-8d1fe22fe310",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-07-20T02:29:49.861000",
+      "title": "datalocale-daily.json",
+      "url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-08T06:04:50.161000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T23:27:03.945000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "03cf7817-72ee-41e6-9c88-1fe7d618f7d8",
+      "last_modified": "2017-08-08T06:04:50.161000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/03cf7817-72ee-41e6-9c88-1fe7d618f7d8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-08-08T06:04:50.161000",
+      "title": "datalocale-daily.json",
+      "url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-08T06:04:50.161000",
+      "description": "export en csv des m\u00e9tadonn\u00e9es du portail datalocale",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:23.905000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b497ce46-2cbd-40f8-834b-f1914580de75",
+      "last_modified": "2017-08-08T06:04:50.162000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b497ce46-2cbd-40f8-834b-f1914580de75",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-08T06:04:50.162000",
+      "title": "datalocale-daily.csv",
+      "url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-09T06:03:34.652000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:41.368000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "73644242-a490-48af-b8e9-e1d439a81ad2",
+      "last_modified": "2017-08-09T06:03:34.652000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/73644242-a490-48af-b8e9-e1d439a81ad2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-08-09T06:03:34.652000",
+      "title": "datalocale-daily.json",
+      "url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-09T06:03:34.652000",
+      "description": "export en csv des m\u00e9tadonn\u00e9es du portail datalocale",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:25.585000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e9e20360-b6aa-4b17-856f-0ecc7acc18e6",
+      "last_modified": "2017-08-09T06:03:34.652000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e9e20360-b6aa-4b17-856f-0ecc7acc18e6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-09T06:03:34.652000",
+      "title": "datalocale-daily.csv",
+      "url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-10T06:05:38.509000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:26.215000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "132f859e-d8d9-4215-a695-5f628c1b7785",
+      "last_modified": "2017-08-10T06:05:38.509000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/132f859e-d8d9-4215-a695-5f628c1b7785",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-08-10T06:05:38.509000",
+      "title": "datalocale-daily.json",
+      "url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-10T06:05:38.510000",
+      "description": "export en csv des m\u00e9tadonn\u00e9es du portail datalocale",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:26.294000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "51f49479-966e-4e48-8b12-7ca87f716e11",
+      "last_modified": "2017-08-10T06:05:38.510000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/51f49479-966e-4e48-8b12-7ca87f716e11",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-10T06:05:38.510000",
+      "title": "datalocale-daily.csv",
+      "url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-11T06:06:12.575000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T23:27:04.907000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "cd836c1a-979d-4b5b-aad3-9ab144aa1fd6",
+      "last_modified": "2017-08-11T06:06:12.576000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cd836c1a-979d-4b5b-aad3-9ab144aa1fd6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-08-11T06:06:12.576000",
+      "title": "datalocale-daily.json",
+      "url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-11T06:06:12.577000",
+      "description": "export en csv des m\u00e9tadonn\u00e9es du portail datalocale",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:26.294000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "37863f5b-d9ed-4576-be37-74312716c729",
+      "last_modified": "2017-08-11T06:06:12.578000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/37863f5b-d9ed-4576-be37-74312716c729",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-11T06:06:12.577000",
+      "title": "datalocale-daily.csv",
+      "url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-12T06:01:48.815000",
+      "description": "export en csv des m\u00e9tadonn\u00e9es du portail datalocale",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:27.032000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "84a86597-b53c-448c-9330-669940ad4220",
+      "last_modified": "2017-08-12T06:01:48.816000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/84a86597-b53c-448c-9330-669940ad4220",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-12T06:01:48.816000",
+      "title": "datalocale-daily.csv",
+      "url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-12T06:01:48.816000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:27.022000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "1567368f-7038-4645-b997-7d1c307014d1",
+      "last_modified": "2017-08-12T06:01:48.817000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1567368f-7038-4645-b997-7d1c307014d1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-08-12T06:01:48.817000",
+      "title": "datalocale-daily.json",
+      "url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-13T06:07:38.621000",
+      "description": "export en csv des m\u00e9tadonn\u00e9es du portail datalocale",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T23:27:09.603000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "faa8b850-de1a-4003-988c-51170aa98c22",
+      "last_modified": "2017-08-13T06:07:38.622000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/faa8b850-de1a-4003-988c-51170aa98c22",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-13T06:07:38.622000",
+      "title": "datalocale-daily.csv",
+      "url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-13T06:07:38.622000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T23:27:08.961000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "45166a96-9762-4eed-bfbe-b80b32065cb5",
+      "last_modified": "2017-08-13T06:07:38.623000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/45166a96-9762-4eed-bfbe-b80b32065cb5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-08-13T06:07:38.622000",
+      "title": "datalocale-daily.json",
+      "url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-14T07:10:54.372000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T23:27:17.861000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "5de1ee60-909f-4824-b0a2-ad7ab96be3b1",
+      "last_modified": "2017-08-14T07:10:54.373000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5de1ee60-909f-4824-b0a2-ad7ab96be3b1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-08-14T07:10:54.372000",
+      "title": "datalocale-daily.json",
+      "url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-14T07:10:54.373000",
+      "description": "export en csv des m\u00e9tadonn\u00e9es du portail datalocale",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T23:27:16.860000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ffd810c0-c5c9-47d6-a0e0-b95cc32f64b8",
+      "last_modified": "2017-08-14T07:10:54.374000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ffd810c0-c5c9-47d6-a0e0-b95cc32f64b8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-14T07:10:54.373000",
+      "title": "datalocale-daily.csv",
+      "url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-15T06:06:02.732000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T23:27:18.356000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "217fa10b-26ce-41a2-a614-8e872ca9c22c",
+      "last_modified": "2017-08-15T06:06:02.732000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/217fa10b-26ce-41a2-a614-8e872ca9c22c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-08-15T06:06:02.732000",
+      "title": "datalocale-daily.json",
+      "url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-15T06:06:02.733000",
+      "description": "export en csv des m\u00e9tadonn\u00e9es du portail datalocale",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:28.469000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "afe3b6af-4fc1-4801-a688-5e2bb575bbfc",
+      "last_modified": "2017-08-15T06:06:02.733000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/afe3b6af-4fc1-4801-a688-5e2bb575bbfc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-15T06:06:02.733000",
+      "title": "datalocale-daily.csv",
+      "url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-16T07:10:43.413000",
+      "description": "export en csv des m\u00e9tadonn\u00e9es du portail datalocale",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T23:27:18.866000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "1376f7aa-e190-4576-9b22-c6a961750b0c",
+      "last_modified": "2017-08-16T07:10:43.413000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1376f7aa-e190-4576-9b22-c6a961750b0c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-16T07:10:43.413000",
+      "title": "datalocale-daily.csv",
+      "url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-16T07:10:43.413000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T23:27:59.381000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "7a92d432-ec1f-48f6-9fd0-017b6a5838c9",
+      "last_modified": "2017-08-16T07:10:43.414000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7a92d432-ec1f-48f6-9fd0-017b6a5838c9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-08-16T07:10:43.413000",
+      "title": "datalocale-daily.json",
+      "url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-17T06:02:16.835000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:29.450000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "cbdf71f2-d807-47e8-b796-b69bac2073b4",
+      "last_modified": "2017-08-17T06:02:16.836000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cbdf71f2-d807-47e8-b796-b69bac2073b4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-08-17T06:02:16.836000",
+      "title": "datalocale-daily.json",
+      "url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-17T06:02:16.836000",
+      "description": "export en csv des m\u00e9tadonn\u00e9es du portail datalocale",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T23:27:35.036000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "11f59138-2da7-4afb-8540-d1dcb5e4fec3",
+      "last_modified": "2017-08-17T06:02:16.837000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/11f59138-2da7-4afb-8540-d1dcb5e4fec3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-17T06:02:16.837000",
+      "title": "datalocale-daily.csv",
+      "url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-18T06:08:32.083000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T23:27:21.107000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "cb434208-d72c-444a-a320-e42165ab4b32",
+      "last_modified": "2017-08-18T06:08:32.084000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cb434208-d72c-444a-a320-e42165ab4b32",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-08-18T06:08:32.083000",
+      "title": "datalocale-daily.json",
+      "url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-18T06:08:32.084000",
+      "description": "export en csv des m\u00e9tadonn\u00e9es du portail datalocale",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:31.643000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "5b820a27-66b1-4989-8f81-02f17a42cb30",
+      "last_modified": "2017-08-18T06:08:32.084000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5b820a27-66b1-4989-8f81-02f17a42cb30",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-18T06:08:32.084000",
+      "title": "datalocale-daily.csv",
+      "url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-19T06:04:24.317000",
+      "description": "export en csv des m\u00e9tadonn\u00e9es du portail datalocale",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:31.643000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "180617ce-2c27-49b4-a349-8020a8211bb1",
+      "last_modified": "2017-08-19T06:04:24.317000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/180617ce-2c27-49b4-a349-8020a8211bb1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-19T06:04:24.317000",
+      "title": "datalocale-daily.csv",
+      "url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-19T06:04:24.318000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T23:27:57.229000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "9f267653-29fb-4587-9be2-b2586e215d0a",
+      "last_modified": "2017-08-19T06:04:24.318000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9f267653-29fb-4587-9be2-b2586e215d0a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-08-19T06:04:24.318000",
+      "title": "datalocale-daily.json",
+      "url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-20T06:05:56.151000",
+      "description": "export en csv des m\u00e9tadonn\u00e9es du portail datalocale",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:31.643000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b27407fb-7271-4d21-b36b-d65a36c0ac49",
+      "last_modified": "2017-08-20T06:05:56.151000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b27407fb-7271-4d21-b36b-d65a36c0ac49",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-20T06:05:56.151000",
+      "title": "datalocale-daily.csv",
+      "url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-20T06:05:56.151000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:32.714000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "564ff329-0f6a-4d30-be4b-4e68b0ea243e",
+      "last_modified": "2017-08-20T06:05:56.152000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/564ff329-0f6a-4d30-be4b-4e68b0ea243e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-08-20T06:05:56.152000",
+      "title": "datalocale-daily.json",
+      "url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-21T07:09:30.790000",
+      "description": "export en csv des m\u00e9tadonn\u00e9es du portail datalocale",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:32.637000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "5b34e410-c869-451e-b159-1a19c5919abb",
+      "last_modified": "2017-08-21T07:09:30.791000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5b34e410-c869-451e-b159-1a19c5919abb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-21T07:09:30.791000",
+      "title": "datalocale-daily.csv",
+      "url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-21T07:09:30.791000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:32.714000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "18625aba-5019-4790-9c5b-da99eede89dd",
+      "last_modified": "2017-08-21T07:09:30.796000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/18625aba-5019-4790-9c5b-da99eede89dd",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-08-21T07:09:30.792000",
+      "title": "datalocale-daily.json",
+      "url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-22T06:04:10.880000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:32.714000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "539efbc8-fba4-4b9a-b3be-016f32cccf62",
+      "last_modified": "2017-08-22T06:04:10.881000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/539efbc8-fba4-4b9a-b3be-016f32cccf62",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-08-22T06:04:10.881000",
+      "title": "datalocale-daily.json",
+      "url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-22T06:04:10.881000",
+      "description": "export en csv des m\u00e9tadonn\u00e9es du portail datalocale",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:32.637000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "05ba9018-afb2-43af-94b3-014baa32cd86",
+      "last_modified": "2017-08-22T06:04:10.882000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/05ba9018-afb2-43af-94b3-014baa32cd86",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-22T06:04:10.882000",
+      "title": "datalocale-daily.csv",
+      "url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-23T06:07:31.301000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:32.714000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "4cdf15be-7eb7-47b3-abf5-4e2191c57576",
+      "last_modified": "2017-08-23T06:07:31.303000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4cdf15be-7eb7-47b3-abf5-4e2191c57576",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-08-23T06:07:31.302000",
+      "title": "datalocale-daily.json",
+      "url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-23T06:07:31.303000",
+      "description": "export en csv des m\u00e9tadonn\u00e9es du portail datalocale",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:36.013000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "6a8bd691-d486-4539-83e7-0b5a5e49d8cc",
+      "last_modified": "2017-08-23T06:07:31.303000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6a8bd691-d486-4539-83e7-0b5a5e49d8cc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-23T06:07:31.303000",
+      "title": "datalocale-daily.csv",
+      "url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-24T06:04:47.125000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:36.013000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "405cd8d4-b02c-4490-973a-1fac40289a7f",
+      "last_modified": "2017-08-24T06:04:47.125000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/405cd8d4-b02c-4490-973a-1fac40289a7f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-08-24T06:04:47.125000",
+      "title": "datalocale-daily.json",
+      "url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-24T06:04:47.126000",
+      "description": "export en csv des m\u00e9tadonn\u00e9es du portail datalocale",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:36.013000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "3ed294c8-8768-48df-a1b0-2f3c3afb4da7",
+      "last_modified": "2017-08-24T06:04:47.126000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3ed294c8-8768-48df-a1b0-2f3c3afb4da7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-24T06:04:47.126000",
+      "title": "datalocale-daily.csv",
+      "url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-25T06:04:28.885000",
+      "description": "export en csv des m\u00e9tadonn\u00e9es du portail datalocale",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:36.013000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "77b2f500-3f13-4d79-bd8f-426f846c7d51",
+      "last_modified": "2017-08-25T06:04:28.885000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/77b2f500-3f13-4d79-bd8f-426f846c7d51",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-25T06:04:28.885000",
+      "title": "datalocale-daily.csv",
+      "url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-25T06:04:28.886000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:36.013000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "eaac200a-f4a9-4042-a6a9-98c6fd943e6c",
+      "last_modified": "2017-08-25T06:04:28.886000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/eaac200a-f4a9-4042-a6a9-98c6fd943e6c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-08-25T06:04:28.886000",
+      "title": "datalocale-daily.json",
+      "url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-26T06:09:09.869000",
+      "description": "export en csv des m\u00e9tadonn\u00e9es du portail datalocale",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:36.013000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "fcae86c1-feaa-4456-94e5-4e706400e68d",
+      "last_modified": "2017-08-26T06:09:09.869000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fcae86c1-feaa-4456-94e5-4e706400e68d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-26T06:09:09.869000",
+      "title": "datalocale-daily.csv",
+      "url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-26T06:09:09.870000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:36.013000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "3b3fdc7b-f5b6-44a1-a6db-94e0363492e1",
+      "last_modified": "2017-08-26T06:09:09.870000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3b3fdc7b-f5b6-44a1-a6db-94e0363492e1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-08-26T06:09:09.870000",
+      "title": "datalocale-daily.json",
+      "url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-27T06:03:59.014000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:36.013000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "4d125849-90c9-41ad-adac-ae489610ddc8",
+      "last_modified": "2017-08-27T06:03:59.014000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4d125849-90c9-41ad-adac-ae489610ddc8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-08-27T06:03:59.014000",
+      "title": "datalocale-daily.json",
+      "url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-27T06:03:59.015000",
+      "description": "export en csv des m\u00e9tadonn\u00e9es du portail datalocale",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:36.013000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "efb72084-f1a4-4375-aee3-87075a0d05c2",
+      "last_modified": "2017-08-27T06:03:59.015000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/efb72084-f1a4-4375-aee3-87075a0d05c2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-27T06:03:59.015000",
+      "title": "datalocale-daily.csv",
+      "url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-28T06:07:58.839000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:36.013000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "2451fe06-0ec2-45e7-93e3-1011398ba4e4",
+      "last_modified": "2017-08-28T06:07:58.839000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2451fe06-0ec2-45e7-93e3-1011398ba4e4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-08-28T06:07:58.839000",
+      "title": "datalocale-daily.json",
+      "url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-28T06:07:58.839000",
+      "description": "export en csv des m\u00e9tadonn\u00e9es du portail datalocale",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:36.013000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "01038312-dfe8-46b5-9a9b-937ec862ec48",
+      "last_modified": "2017-08-28T06:07:58.840000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/01038312-dfe8-46b5-9a9b-937ec862ec48",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-28T06:07:58.840000",
+      "title": "datalocale-daily.csv",
+      "url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-29T06:05:17.901000",
+      "description": "export en csv des m\u00e9tadonn\u00e9es du portail datalocale",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:36.013000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "5893602a-e143-4e0e-b76a-7eb41ad412f7",
+      "last_modified": "2017-09-11T06:14:07.870000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5893602a-e143-4e0e-b76a-7eb41ad412f7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-29T06:05:17.901000",
+      "title": "datalocale-daily.csv",
+      "url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-29T06:05:17.902000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:36.013000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "a0ab9c1a-ff3f-48ae-9f3a-f836258e0016",
+      "last_modified": "2017-09-11T06:14:07.870000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a0ab9c1a-ff3f-48ae-9f3a-f836258e0016",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-08-29T06:05:17.902000",
+      "title": "datalocale-daily.json",
+      "url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:46:20.345000",
+      "description": "export en csv des m\u00e9tadonn\u00e9es du portail datalocale",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:36.013000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "282b9143-7e10-4cf7-8e21-0dde1a106d4e",
+      "last_modified": "2017-09-29T07:49:39.615000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/282b9143-7e10-4cf7-8e21-0dde1a106d4e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:46:20.346000",
+      "title": "datalocale-daily.csv",
+      "url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:46:20.346000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T22:44:40.451000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "20ecf630-e0b6-4efa-a1f6-a9aea57c8561",
+      "last_modified": "2017-09-29T07:49:39.615000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/20ecf630-e0b6-4efa-a1f6-a9aea57c8561",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-09-12T07:46:20.346000",
+      "title": "datalocale-daily.json",
+      "url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+    }
+  ],
+  "slug": "liste-des-jeux-de-donnee-du-portail-datalocale",
+  "spatial": null,
+  "tags": [
+    "catalogue",
+    "dcat",
+    "opendata"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des jeux de donn\u00e9e du portail datalocale",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-jeux-de-donnee-du-portail-datalocale/"
+}

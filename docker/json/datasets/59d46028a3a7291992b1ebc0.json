@@ -1,0 +1,229 @@
+{
+  "badges": [],
+  "created_at": "2017-10-03T00:00:00",
+  "deleted": null,
+  "description": "Part des march\u00e9s des collectivit\u00e9s int\u00e9grant le mot cl\u00e9 \"concertation\".",
+  "extras": {
+    "ckan:name": "part-des-marches-des-collectivites-integrant-le-mot-cle-concertation",
+    "contact_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "contact_name": "Mission Agenda 21",
+    "contact_uri": "https://datacat.datalocale.fr/414579",
+    "guid": "https://datacat.datalocale.fr/416306",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-11-27T05:24:04.984311",
+    "harvest:remote_id": "7dcf816c-af61-40ae-8017-bf393d1b722b",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "e4eef320-5c02-4816-ba60-930ca7f10607",
+    "issued": "2013-08-27T09:51:04+00:00",
+    "modified": "2016-07-18T09:21:06.741768+00:00",
+    "publisher_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "publisher_name": "dgsd-a21",
+    "publisher_uri": "https://datacat.datalocale.fr/414578",
+    "theme": "[\"march\u00e9 public\"]",
+    "uri": "https://datacat.datalocale.fr/416306"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59d46028a3a7291992b1ebc0",
+  "last_modified": "2017-11-27T05:24:04.992000",
+  "last_update": "2017-10-14T06:06:42.805000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/part-des-marches-des-collectivites-integrant-le-mot-cle-concertation-3/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-10-04T06:14:32.185000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T20:39:39.873000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416308/raw/2013-09-02-095223tx_marche_public_concertation.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "3b4bfd35-e431-4f15-bbe9-5b7ff7b8b6ac",
+      "last_modified": "2017-10-04T06:14:32.186000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3b4bfd35-e431-4f15-bbe9-5b7ff7b8b6ac",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-04T06:14:32.186000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/416308/raw/2013-09-02-095223tx_marche_public_concertation.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-04T06:14:32.186000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-02T22:55:58.331000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416310/raw/2013-09-02-095223tx_marche_public_concertationdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "32195638-0d35-4d1e-89a4-b6bc7ebff9a0",
+      "last_modified": "2017-10-04T06:14:32.187000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/32195638-0d35-4d1e-89a4-b6bc7ebff9a0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-10-04T06:14:32.186000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/416310/raw/2013-09-02-095223tx_marche_public_concertationdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-05T06:17:35.966000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-30T21:34:28.982000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416308/raw/2013-09-02-095223tx_marche_public_concertation.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "49971a6b-08a3-45bd-85e2-3692c04eecc7",
+      "last_modified": "2017-10-05T06:17:35.967000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/49971a6b-08a3-45bd-85e2-3692c04eecc7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-05T06:17:35.966000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/416308/raw/2013-09-02-095223tx_marche_public_concertation.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-05T06:17:35.967000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T20:39:23.262000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416310/raw/2013-09-02-095223tx_marche_public_concertationdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "f3b989fa-db21-4551-a7c1-095547cef97b",
+      "last_modified": "2017-10-05T06:17:35.967000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f3b989fa-db21-4551-a7c1-095547cef97b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-10-05T06:17:35.967000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/416310/raw/2013-09-02-095223tx_marche_public_concertationdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:06:42.804000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T23:44:03.743000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/distribution/416309/raw/2013-09-02-095223tx_marche_public_concertationdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "b1e3815e-bc8e-4fbf-8e45-dbe9ca4054c1",
+      "last_modified": "2017-11-27T05:24:04.983000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b1e3815e-bc8e-4fbf-8e45-dbe9ca4054c1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-10-14T06:06:42.804000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/distribution/416309/raw/2013-09-02-095223tx_marche_public_concertationdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:06:42.805000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T23:44:10.690000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/distribution/416307/raw/2013-09-02-095223tx_marche_public_concertation.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2c5075ba-002d-4226-ad33-4258c812f1e8",
+      "last_modified": "2017-11-27T05:24:04.983000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2c5075ba-002d-4226-ad33-4258c812f1e8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-14T06:06:42.805000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/distribution/416307/raw/2013-09-02-095223tx_marche_public_concertation.csv"
+    }
+  ],
+  "slug": "part-des-marches-des-collectivites-integrant-le-mot-cle-concertation-3",
+  "spatial": null,
+  "tags": [
+    "commande-publique",
+    "concertation",
+    "marche-public"
+  ],
+  "temporal_coverage": null,
+  "title": "Part des march\u00e9s des collectivit\u00e9s int\u00e9grant le mot cl\u00e9 \"concertation\"",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/part-des-marches-des-collectivites-integrant-le-mot-cle-concertation-3/"
+}

@@ -1,0 +1,100 @@
+{
+  "badges": [],
+  "created_at": "2016-10-21T19:57:58.780000",
+  "deleted": null,
+  "description": "Le BP 2014 - budget principal correspond aux donn\u00e9es du budget principal 2014 de la Ville de Rennes. Ce fichier est constitu\u00e9 de 5 colonnes qui ventilent les donn\u00e9es :  \n  \n\\- par un crit\u00e8re de \"sous-fonction\". Le sous-fonction est la clef d'entr\u00e9e permettant d'identifier la politique publique \u00e0 laquelle la donn\u00e9e budg\u00e9taire fait r\u00e9f\u00e9rence. Exemples: Piscine des Gayeulles, Action socio-\u00e9ducative, Maitrise de l'Energie, etc. Les codifications, internes \u00e0 la Ville de Rennes, s'appuient n\u00e9anmoins sur la nomenclature fonctionnelle M14 r\u00e8glementaire  \n  \n\\- par un crit\u00e8re \"D\u00e9penses-recettes\"  \n  \n\\- par un crit\u00e8re \"Investissement-Fonctionnement\": les d\u00e9penses et recettes des collectivit\u00e9s sont obligatoirement ventil\u00e9es entre les deux fonctions d'investissement et de fonctionnement. La premi\u00e8re recouvre sch\u00e9matiquement les d\u00e9penses qui concourent \u00e0 l'am\u00e9lioration du patrimoine de la Ville: travaux, acquisitions de biens immobiliers, etc. La seconde fait r\u00e9f\u00e9rence aux d\u00e9penses courantes de la Ville, notamment les d\u00e9penses de personnel, de fluides, de charges \u00e0 caract\u00e8re g\u00e9n\u00e9ral.   \n  \n\\- par un crit\u00e8re de d\u00e9penses budg\u00e9taires ou analytiques: les d\u00e9penses budg\u00e9taires sont les d\u00e9penses r\u00e9glementaires, inscrites et vot\u00e9es effectivement \u00e0 chaque sous-fonction. Les d\u00e9penses analytiques correspondent \u00e0 la re-ventilation, \u00e0 des fins analytiques, de d\u00e9penses imput\u00e9es de mani\u00e8re centralis\u00e9e, et singuli\u00e8rement les d\u00e9penses de fluides, l'intervention sur les b\u00e2timents communaux, de maintenance du parc de v\u00e9hicules, de produits stock\u00e9s.",
+  "extras": {
+    "harvest:domain": "data.rennesmetropole.fr",
+    "harvest:last_update": "2017-11-27T04:02:53.269137",
+    "harvest:remote_id": "bp-2014-budget-principal",
+    "harvest:source_id": "580736ec88ee3816625ff490",
+    "ods:has_records": true,
+    "ods:url": "https://data.rennesmetropole.fr/explore/dataset/bp-2014-budget-principal/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "580a5726a3a7292dcea9d1c6",
+  "last_modified": "2017-11-27T04:02:53.270000",
+  "last_update": "2017-11-27T04:02:53.268000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "RM",
+    "class": "Organization",
+    "id": "580735be88ee3814295ff490",
+    "logo": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-100.png",
+    "name": "Rennes M\u00e9tropole en acc\u00e8s libre",
+    "page": "https://www.data.gouv.fr/fr/organizations/rennes-metropole-en-acces-libre-1/",
+    "slug": "rennes-metropole-en-acces-libre-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/rennes-metropole-en-acces-libre-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/bp-2014-ville-de-rennes-budget-principal-par-article/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:02:53.268000",
+      "description": "- *Sous fonction*: sous_fonction[text]\n- *Section*: section[text]\n- *Sens*: depenses_recettes[text]\n- *Budg\u00e9taires analytiques*: budgetaires_analytiques[text] Budg\u00e9taire au analytiques\n- *Article NFA code et libelle*: article_nfa_code_et_libelle[text]\n- *Somme*: bp_2014[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "01b9358b-ab29-4d3a-a396-438abad0a8b4",
+      "last_modified": "2014-02-18T15:49:37",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/01b9358b-ab29-4d3a-a396-438abad0a8b4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T04:02:53.268000",
+      "title": "Export au format CSV",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/bp-2014-budget-principal/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:02:53.268000",
+      "description": "- *Sous fonction*: sous_fonction[text]\n- *Section*: section[text]\n- *Sens*: depenses_recettes[text]\n- *Budg\u00e9taires analytiques*: budgetaires_analytiques[text] Budg\u00e9taire au analytiques\n- *Article NFA code et libelle*: article_nfa_code_et_libelle[text]\n- *Somme*: bp_2014[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "148096a6-3cad-48f0-99cd-2fdd0cc2d6a8",
+      "last_modified": "2014-02-18T15:49:37",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/148096a6-3cad-48f0-99cd-2fdd0cc2d6a8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T04:02:53.268000",
+      "title": "Export au format JSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/bp-2014-budget-principal/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "bp-2014-ville-de-rennes-budget-principal-par-article",
+  "spatial": null,
+  "tags": [
+    "budget",
+    "economie"
+  ],
+  "temporal_coverage": null,
+  "title": "BP 2014 - Ville de Rennes - Budget Principal par article",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/bp-2014-ville-de-rennes-budget-principal-par-article/"
+}

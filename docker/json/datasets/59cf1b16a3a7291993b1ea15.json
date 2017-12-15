@@ -1,0 +1,230 @@
+{
+  "badges": [],
+  "created_at": "2017-09-29T00:00:00",
+  "deleted": null,
+  "description": "Part des collectivit\u00e9s engag\u00e9es dans une d\u00e9marche qualit\u00e9.",
+  "extras": {
+    "ckan:name": "part-des-collectivites-engagees-dans-une-demarche-qualite",
+    "contact_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "contact_name": "Mission Agenda 21",
+    "contact_uri": "https://datacat.datalocale.fr/414579",
+    "guid": "https://datacat.datalocale.fr/415178",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-10-02T07:51:37.603748",
+    "harvest:remote_id": "463015db-42d6-4338-a3e4-22e61b68a08b",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "4c7a522e-3a45-4dc2-83fd-f7f606f84592",
+    "issued": "2013-08-27T09:49:13+00:00",
+    "modified": "2016-07-18T09:21:05.650770+00:00",
+    "publisher_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "publisher_name": "dgsd-a21",
+    "publisher_uri": "https://datacat.datalocale.fr/414578",
+    "theme": "[\"politique publique\"]",
+    "uri": "https://datacat.datalocale.fr/415178"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59cf1b16a3a7291993b1ea15",
+  "last_modified": "2017-10-02T07:51:37.605000",
+  "last_update": "2017-10-02T07:51:37.602000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/part-des-collectivites-engagees-dans-une-demarche-qualite-1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:18:30.573000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T22:01:31.885000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415182/raw/2013-09-02-095046tx_collterr_demarche_qualitedesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "901bf2ea-c3d3-41d8-816f-3bb993316dbc",
+      "last_modified": "2017-09-30T06:18:30.573000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/901bf2ea-c3d3-41d8-816f-3bb993316dbc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-09-30T06:18:30.573000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415182/raw/2013-09-02-095046tx_collterr_demarche_qualitedesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:18:30.573000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T22:01:16.274000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415180/raw/2013-09-02-095046tx_collterr_demarche_qualite.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e39e5f79-0340-4170-9ed1-fd2aa9d7f25d",
+      "last_modified": "2017-09-30T06:18:30.573000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e39e5f79-0340-4170-9ed1-fd2aa9d7f25d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-30T06:18:30.573000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415180/raw/2013-09-02-095046tx_collterr_demarche_qualite.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-01T06:08:22.093000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T18:02:23.863000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415180/raw/2013-09-02-095046tx_collterr_demarche_qualite.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "118c1045-f96c-400a-80b7-873b9ee1c715",
+      "last_modified": "2017-10-01T06:08:22.093000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/118c1045-f96c-400a-80b7-873b9ee1c715",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-01T06:08:22.093000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415180/raw/2013-09-02-095046tx_collterr_demarche_qualite.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-01T06:08:22.094000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T18:02:23.862000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415182/raw/2013-09-02-095046tx_collterr_demarche_qualitedesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "b350ed36-8364-4cee-b7b5-c8b6b608b66e",
+      "last_modified": "2017-10-01T06:08:22.094000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b350ed36-8364-4cee-b7b5-c8b6b608b66e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-10-01T06:08:22.094000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415182/raw/2013-09-02-095046tx_collterr_demarche_qualitedesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-02T07:51:37.602000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T18:02:23.863000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415180/raw/2013-09-02-095046tx_collterr_demarche_qualite.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "71561173-7f6d-461f-b679-c5c7e32ae031",
+      "last_modified": "2017-10-02T07:51:37.602000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/71561173-7f6d-461f-b679-c5c7e32ae031",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-02T07:51:37.602000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415180/raw/2013-09-02-095046tx_collterr_demarche_qualite.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-02T07:51:37.602000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T18:02:23.862000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415182/raw/2013-09-02-095046tx_collterr_demarche_qualitedesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "33d1516a-6cc4-4751-b7d0-488521040f5a",
+      "last_modified": "2017-10-02T07:51:37.602000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/33d1516a-6cc4-4751-b7d0-488521040f5a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-10-02T07:51:37.602000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415182/raw/2013-09-02-095046tx_collterr_demarche_qualitedesc.html"
+    }
+  ],
+  "slug": "part-des-collectivites-engagees-dans-une-demarche-qualite-1",
+  "spatial": null,
+  "tags": [
+    "audit",
+    "methodologie",
+    "norme",
+    "responsabilite-societale"
+  ],
+  "temporal_coverage": null,
+  "title": "Part des collectivit\u00e9s engag\u00e9es dans une d\u00e9marche qualit\u00e9",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/part-des-collectivites-engagees-dans-une-demarche-qualite-1/"
+}

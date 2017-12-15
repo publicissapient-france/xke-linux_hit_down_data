@@ -1,0 +1,102 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T17:46:38.230000",
+  "deleted": null,
+  "description": "Fichier des candidatures pour le second tour des \u00e9lections d\u00e9partementales 2015.",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T06:19:48.409288",
+    "harvest:remote_id": "elections-departementales-2015-candidatures-2e-tour",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:references": "https://www.data.gouv.fr/fr/datasets/elections-departementales-2015-candidatures-2eme-tour/",
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/elections-departementales-2015-candidatures-2e-tour/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5959155ea3a7291dcf9c8068",
+  "last_modified": "2017-11-27T06:19:48.411000",
+  "last_update": "2017-11-27T06:19:48.408000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/elections-departementales-2015-candidatures-2e-tour/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:19:48.408000",
+      "description": "- *Date de l'export*: date_de_l_export[datetime]\n- *Code du d\u00e9partement*: code_du_departement[int]\n- *Libell\u00e9 du d\u00e9partement*: libelle_du_departement[text]\n- *Code du canton*: code_du_canton[int]\n- *Libell\u00e9 du canton*: libelle_du_canton[text]\n- *N\u00b0 Panneau du bin\u00f4me*: ndeg_panneau_du_binome[int]\n- *Code D\u00e9p\u00f4t du bin\u00f4me*: code_depot_du_binome[int]\n- *Nuance bin\u00f4me*: nuance_binome[text]\n- *Nom bin\u00f4me*: nom_binome[text]\n- *N\u00b0 du candidat dans le bin\u00f4me*: ndeg_du_candidat_dans_le_binome[int]\n- *Sexe candidat*: sexe_candidat[text]\n- *Nom candidat*: nom_candidat[text]\n- *Pr\u00e9nom candidat*: prenom_candidat[text]\n- *Date naissance candidat*: date_naissance_candidat[date]\n- *Profession candidat*: profession_candidat[text]\n- *Personnalit\u00e9 candidat*: personnalite_candidat[text]\n- *Le candidat est sortant*: le_candidat_est_sortant[text]\n- *Sexe Supp.*: sexe_supp[text]\n- *Nom Supp.*: nom_supp[text]\n- *Pr\u00e9nom Supp.*: prenom_supp[text]\n- *Date naiss. Supp.*: date_naiss_supp[date]\n- *Personnalit\u00e9 Supp.*: personnalite_supp[text]\n- *Le suppl\u00e9ant est sortant*: le_suppleant_est_sortant[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "4b6ee44f-8241-4d4c-be01-878f917e2b53",
+      "last_modified": "2015-03-26T21:57:14",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4b6ee44f-8241-4d4c-be01-878f917e2b53",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T06:19:48.408000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/elections-departementales-2015-candidatures-2e-tour/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:19:48.408000",
+      "description": "- *Date de l'export*: date_de_l_export[datetime]\n- *Code du d\u00e9partement*: code_du_departement[int]\n- *Libell\u00e9 du d\u00e9partement*: libelle_du_departement[text]\n- *Code du canton*: code_du_canton[int]\n- *Libell\u00e9 du canton*: libelle_du_canton[text]\n- *N\u00b0 Panneau du bin\u00f4me*: ndeg_panneau_du_binome[int]\n- *Code D\u00e9p\u00f4t du bin\u00f4me*: code_depot_du_binome[int]\n- *Nuance bin\u00f4me*: nuance_binome[text]\n- *Nom bin\u00f4me*: nom_binome[text]\n- *N\u00b0 du candidat dans le bin\u00f4me*: ndeg_du_candidat_dans_le_binome[int]\n- *Sexe candidat*: sexe_candidat[text]\n- *Nom candidat*: nom_candidat[text]\n- *Pr\u00e9nom candidat*: prenom_candidat[text]\n- *Date naissance candidat*: date_naissance_candidat[date]\n- *Profession candidat*: profession_candidat[text]\n- *Personnalit\u00e9 candidat*: personnalite_candidat[text]\n- *Le candidat est sortant*: le_candidat_est_sortant[text]\n- *Sexe Supp.*: sexe_supp[text]\n- *Nom Supp.*: nom_supp[text]\n- *Pr\u00e9nom Supp.*: prenom_supp[text]\n- *Date naiss. Supp.*: date_naiss_supp[date]\n- *Personnalit\u00e9 Supp.*: personnalite_supp[text]\n- *Le suppl\u00e9ant est sortant*: le_suppleant_est_sortant[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "1a49d786-f29d-4a05-8515-e5ae6f3a0d43",
+      "last_modified": "2015-03-26T21:57:14",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1a49d786-f29d-4a05-8515-e5ae6f3a0d43",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T06:19:48.408000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/elections-departementales-2015-candidatures-2e-tour/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "elections-departementales-2015-candidatures-2e-tour",
+  "spatial": null,
+  "tags": [
+    "administration",
+    "candidats",
+    "departement",
+    "election"
+  ],
+  "temporal_coverage": null,
+  "title": "\u00c9lections d\u00e9partementales 2015 - Candidatures 2e tour",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/elections-departementales-2015-candidatures-2e-tour/"
+}

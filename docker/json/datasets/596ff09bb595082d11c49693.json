@@ -1,0 +1,99 @@
+{
+  "badges": [],
+  "created_at": "2017-07-20T01:51:55.544000",
+  "deleted": null,
+  "description": "Les donn\u00e9es du Compte administratif de la Ville de Rennes sont des donn\u00e9es de consommation effective qui sont en g\u00e9n\u00e9ral publi\u00e9es en juin de l'ann\u00e9e suivante. Le fichier \"CA 2016 - budgets annexes\" liste les d\u00e9penses et recettes op\u00e9r\u00e9es par la Ville en 2016 sur les budgets annexes de l'eau, de l'assainissement, du chauffage urbain, des pompes fun\u00e8bres ainsi que sur les budgets des Zones d'am\u00e9nagement concert\u00e9es en r\u00e9gie.",
+  "extras": {
+    "harvest:domain": "data.rennesmetropole.fr",
+    "harvest:last_update": "2017-11-27T04:02:27.846574",
+    "harvest:remote_id": "ca-2016-ville-de-rennes-budgets-annexes",
+    "harvest:source_id": "580736ec88ee3816625ff490",
+    "ods:has_records": true,
+    "ods:url": "https://data.rennesmetropole.fr/explore/dataset/ca-2016-ville-de-rennes-budgets-annexes/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "596ff09bb595082d11c49693",
+  "last_modified": "2017-11-27T04:02:27.849000",
+  "last_update": "2017-11-27T04:02:27.845000",
+  "license": "odc-odbl",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "RM",
+    "class": "Organization",
+    "id": "580735be88ee3814295ff490",
+    "logo": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-100.png",
+    "name": "Rennes M\u00e9tropole en acc\u00e8s libre",
+    "page": "https://www.data.gouv.fr/fr/organizations/rennes-metropole-en-acces-libre-1/",
+    "slug": "rennes-metropole-en-acces-libre-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/rennes-metropole-en-acces-libre-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/ca-2016-ville-de-rennes-budgets-annexes/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:02:27.845000",
+      "description": "- *Exercice*: exercice[int] Ann\u00e9e de r\u00e9f\u00e9rence\n- *Collectivit\u00e9*: collectivite[text] Type de collectivit\u00e9 (M\u00e9tropole, Ville, D\u00e9partement...)\n\n- *Nom Collectivit\u00e9*: nom_collectivite[text] Nom de la collectivit\u00e9\n\n- *Code INSEE*: code_insee[text] Code INSEE de la collectivit\u00e9\n\n- *Etape*: entite_financiere_programme[text] Etape budg\u00e9taire\n\n- *Nomenclature*: type_nomenclature[text] Instruction budg\u00e9taire et comptable\n\n- *Nom budget*: nom_budget[text] Libell\u00e9 du budget\n- *Budget*: nom_du_budget[text] Pr\u00e9cise si l'\u00e9l\u00e9ment fait partie du budget principal ou non\n\n- *Section*: section[text] Investissement ou Fonctionnement \n\n- *Sens*: libelle_d_r[text] Recettes ou D\u00e9penses \n\n- *Mouvement*: reel_ou_ordre[text] R\u00e9el, caract\u00e9ris\u00e9 par un mouvement en tr\u00e9sorerie, ou Ordre qui \u00e0 l'inverse,  permet de retracer des mouvements qui ont un impact sur l\u2019actif sans avoir de cons\u00e9quences sur la tr\u00e9sorerie.\n\n- *Budg\u00e9taire / analytique*: budgetaire_analytique[text] Les d\u00e9penses budg\u00e9taires sont les d\u00e9penses r\u00e9glementaires, inscrites et vot\u00e9es effectivement \u00e0 chaque sous-fonction. \nLes d\u00e9penses analytiques correspondent \u00e0 la re-ventilation, \u00e0 des fins analytiques, de d\u00e9penses imput\u00e9es de mani\u00e8re centralis\u00e9e, \net singuli\u00e8rement les d\u00e9penses de fluides, l'intervention sur les b\u00e2timents communaux, de maintenance du parc de v\u00e9hicules, de produits stock\u00e9s.\n- *Chapitre*: chapitre[text] Code du chapitre\n\n- *Libell\u00e9 chapitre*: libelle_chapitre[text] Ensemble d'articles comptables sur lesquels portent l'affectation des cr\u00e9dits et l'ex\u00e9cution du budget.\n\n- *Article*: article[text] Code de l'article\n\n- *Libell\u00e9 Article*: libelle_article[text] Articles comptables r\u00e9glementaires d\u00e9termin\u00e9s par l'instruction budg\u00e9taire et comptable M14 c\u2019est-\u00e0-dire le cadre juridique \nr\u00e9glementant la comptabilit\u00e9 des communes.\n- *R\u00e9alis\u00e9 de l'ann\u00e9e*: realise_de_l_annee[double] Montant en euros\n\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "178e368a-9b55-482d-9d29-32bec4a2cec9",
+      "last_modified": "2017-07-12T08:59:36",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/178e368a-9b55-482d-9d29-32bec4a2cec9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T04:02:27.845000",
+      "title": "Export au format CSV",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/ca-2016-ville-de-rennes-budgets-annexes/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:02:27.845000",
+      "description": "- *Exercice*: exercice[int] Ann\u00e9e de r\u00e9f\u00e9rence\n- *Collectivit\u00e9*: collectivite[text] Type de collectivit\u00e9 (M\u00e9tropole, Ville, D\u00e9partement...)\n\n- *Nom Collectivit\u00e9*: nom_collectivite[text] Nom de la collectivit\u00e9\n\n- *Code INSEE*: code_insee[text] Code INSEE de la collectivit\u00e9\n\n- *Etape*: entite_financiere_programme[text] Etape budg\u00e9taire\n\n- *Nomenclature*: type_nomenclature[text] Instruction budg\u00e9taire et comptable\n\n- *Nom budget*: nom_budget[text] Libell\u00e9 du budget\n- *Budget*: nom_du_budget[text] Pr\u00e9cise si l'\u00e9l\u00e9ment fait partie du budget principal ou non\n\n- *Section*: section[text] Investissement ou Fonctionnement \n\n- *Sens*: libelle_d_r[text] Recettes ou D\u00e9penses \n\n- *Mouvement*: reel_ou_ordre[text] R\u00e9el, caract\u00e9ris\u00e9 par un mouvement en tr\u00e9sorerie, ou Ordre qui \u00e0 l'inverse,  permet de retracer des mouvements qui ont un impact sur l\u2019actif sans avoir de cons\u00e9quences sur la tr\u00e9sorerie.\n\n- *Budg\u00e9taire / analytique*: budgetaire_analytique[text] Les d\u00e9penses budg\u00e9taires sont les d\u00e9penses r\u00e9glementaires, inscrites et vot\u00e9es effectivement \u00e0 chaque sous-fonction. \nLes d\u00e9penses analytiques correspondent \u00e0 la re-ventilation, \u00e0 des fins analytiques, de d\u00e9penses imput\u00e9es de mani\u00e8re centralis\u00e9e, \net singuli\u00e8rement les d\u00e9penses de fluides, l'intervention sur les b\u00e2timents communaux, de maintenance du parc de v\u00e9hicules, de produits stock\u00e9s.\n- *Chapitre*: chapitre[text] Code du chapitre\n\n- *Libell\u00e9 chapitre*: libelle_chapitre[text] Ensemble d'articles comptables sur lesquels portent l'affectation des cr\u00e9dits et l'ex\u00e9cution du budget.\n\n- *Article*: article[text] Code de l'article\n\n- *Libell\u00e9 Article*: libelle_article[text] Articles comptables r\u00e9glementaires d\u00e9termin\u00e9s par l'instruction budg\u00e9taire et comptable M14 c\u2019est-\u00e0-dire le cadre juridique \nr\u00e9glementant la comptabilit\u00e9 des communes.\n- *R\u00e9alis\u00e9 de l'ann\u00e9e*: realise_de_l_annee[double] Montant en euros\n\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "c39a0ae1-594e-47c5-b185-36c9a5f5386a",
+      "last_modified": "2017-07-12T08:59:36",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c39a0ae1-594e-47c5-b185-36c9a5f5386a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T04:02:27.845000",
+      "title": "Export au format JSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/ca-2016-ville-de-rennes-budgets-annexes/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "ca-2016-ville-de-rennes-budgets-annexes",
+  "spatial": null,
+  "tags": [
+    "budget",
+    "economie"
+  ],
+  "temporal_coverage": null,
+  "title": "CA 2016 - Ville de Rennes - Budgets Annexes",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/ca-2016-ville-de-rennes-budgets-annexes/"
+}

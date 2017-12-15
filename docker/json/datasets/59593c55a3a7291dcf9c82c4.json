@@ -1,0 +1,78 @@
+{
+  "badges": [],
+  "created_at": "2016-07-25T00:00:00",
+  "deleted": null,
+  "description": "Export des districts turcs",
+  "extras": {
+    "ckan:name": "districts",
+    "harvest:domain": "opendata.ozwillo.com",
+    "harvest:last_update": "2017-11-27T05:03:56.873595",
+    "harvest:remote_id": "f0f6cb6d-9863-4164-a03d-b8f21d58fce1",
+    "harvest:source_id": "56bbbec4c751df6a689f9dea"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59593c55a3a7291dcf9c82c4",
+  "last_modified": "2017-11-27T05:03:56.878000",
+  "last_update": "2017-07-02T20:32:53.132000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "56c4765fc751df27326c6ddf",
+    "logo": "https://www.data.gouv.fr/s/avatars/c3/f674ad6c354099a8166090b134da4a-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c3/f674ad6c354099a8166090b134da4a-100.png",
+    "name": "Ozwillo",
+    "page": "https://www.data.gouv.fr/fr/organizations/ozwillo/",
+    "slug": "ozwillo",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ozwillo/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/districts-1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T20:32:53.132000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-30T15:26:55.241000",
+        "check:status": 200,
+        "check:url": "https://opendata.ozwillo.com/dataset/f0f6cb6d-9863-4164-a03d-b8f21d58fce1/resource/76fd0e7d-c2bd-42c3-a8b6-35e5ce22fb54/download/export-7729681625763651636.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "76fd0e7d-c2bd-42c3-a8b6-35e5ce22fb54",
+      "last_modified": "2016-07-25T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/76fd0e7d-c2bd-42c3-a8b6-35e5ce22fb54",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T20:32:53.132000",
+      "title": "Export des districts turcs",
+      "url": "https://opendata.ozwillo.com/dataset/f0f6cb6d-9863-4164-a03d-b8f21d58fce1/resource/76fd0e7d-c2bd-42c3-a8b6-35e5ce22fb54/download/export-7729681625763651636.csv"
+    }
+  ],
+  "slug": "districts-1",
+  "spatial": null,
+  "tags": [],
+  "temporal_coverage": null,
+  "title": "Districts (Turquie)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/districts-1/"
+}

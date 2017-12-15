@@ -1,0 +1,96 @@
+{
+  "badges": [],
+  "created_at": "2017-10-12T00:00:00",
+  "deleted": null,
+  "description": "Liste des sites proposant des jeux pour enfants et/ou un mini-golf, issue de la base de donn\u00e9es SIRTAQUI.\nCe fichier contient les informations de g\u00e9olocalisation et de contact, les informations sur le type d\u2019\u00e9quipement, les marques et labels, les conditions d\u2019ouverture et de visites, les tarifs, les \u00e9quipements et les services propos\u00e9s.",
+  "extras": {
+    "ckan:name": "liste-des-sites-de-jeux-pour-enfants-en-aquitaine",
+    "contact_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "contact_name": "CRTA",
+    "contact_uri": "https://datacat.datalocale.fr/414593",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
+    "guid": "https://datacat.datalocale.fr/414686",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-11-09T05:01:39.310171",
+    "harvest:remote_id": "060099ed-1b25-46f3-8e5a-c9d762e6a79b",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "1192947b-887f-41dd-b189-d78ba3a6ce63",
+    "issued": "2015-01-04T20:45:01+00:00",
+    "modified": "2016-07-18T09:21:07.538327+00:00",
+    "publisher_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "publisher_name": "agence SIRTAQUI",
+    "publisher_type": "\"Organisation \u00e0 but non lucratif\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414592",
+    "remote_url": "http://partenaires.tourisme-aquitaine.fr",
+    "theme": "[\"tourisme\"]",
+    "uri": "https://datacat.datalocale.fr/414686"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59e18d01a3a7297d20b5fb6f",
+  "last_modified": "2017-11-09T05:01:39.312000",
+  "last_update": "2017-10-14T06:05:21.109000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-sites-de-jeux-pour-enfants-en-aquitaine-3/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:05:21.109000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T02:06:16.931000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1884860/raw/liste-csv-jeux-pour-enfants-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c85d9794-9252-49ac-82cf-57407bad46cd",
+      "last_modified": "2017-11-09T05:01:39.309000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c85d9794-9252-49ac-82cf-57407bad46cd",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-14T06:05:21.109000",
+      "title": "liste-csv-jeux-pour-enfants-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1884860/raw/liste-csv-jeux-pour-enfants-aquitaine.csv"
+    }
+  ],
+  "slug": "liste-des-sites-de-jeux-pour-enfants-en-aquitaine-3",
+  "spatial": null,
+  "tags": [
+    "enfants",
+    "jeux"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des sites de jeux pour enfants en Aquitaine",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-sites-de-jeux-pour-enfants-en-aquitaine-3/"
+}

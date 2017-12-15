@@ -1,0 +1,105 @@
+{
+  "badges": [],
+  "created_at": "2017-03-01T10:58:48.281000",
+  "deleted": null,
+  "description": "Les donn\u00e9es sont bas\u00e9es sur les flux mobiles sur les antennes relais Orange.\n\n **Fr\u00e9quentation des diff\u00e9rents sites de l'Euro 2016 de la MEL :**\n\n\u00a0 \n\n  * FanZone de Lille\n  * Stade int\u00e9rieur\n  * Stade ext\u00e9rieur\n  * Ensemble des diff\u00e9rentes zones\n\n\n\n\u00a0 \n\nCes donn\u00e9es sont issues de la **g\u00e9olocalisation des flux mobiles analys\u00e9s par Orange** , et ont eu pour objectif  \nl'ad\u00e9quation entre les concentrations de populations et les moyens de s\u00e9curit\u00e9 d\u00e9ploy\u00e9s lors de l'Euro 2016.\n\n* * *\n\n **GLOSSAIRE POUR TOUS LES JEUX DE DONN\u00c9ES EURO 2016 (SOURCE : ORANGE)**\n\n **Zone d\u2019\u00e9tude**\n\nZone couverte par le r\u00e9seau Orange, sur laquelle les donn\u00e9es issues du r\u00e9seau mobile ont \u00e9t\u00e9 capt\u00e9es.\n\n **R\u00e9sidents**\n\nPersonnes dont l\u2019adresse de facturation est celle du d\u00e9partement (Nord).\n\n **Excursionnistes r\u00e9sidents**\n\nR\u00e9sidents du d\u00e9partement qui n\u2019ont pas dormi dans la zone d\u2019\u00e9tude le soir et la veille du jour \u00e9tudi\u00e9\n\n **Touristes fran\u00e7ais**\n\nPersonnes factur\u00e9es en France mais pas dans le d\u00e9partement\n\n **Excursionnistes touristes fran\u00e7ais**\n\nTouristes fran\u00e7ais qui n\u2019ont pas dormi dans la zone d\u2019\u00e9tude le soir et la veille du jour \u00e9tudi\u00e9\n\n **Touristes \u00e9trangers**\n\nPersonnes poss\u00e9dant un mobile \u00e9tranger\n\n **Excursionnistes touristes \u00e9trangers**\n\nTouristes \u00e9trangers qui n\u2019ont pas dormi dans la zone d\u2019\u00e9tude le soir et la veille du jour \u00e9tudi\u00e9\n\n **Lieux de nuit\u00e9es**\n\nD\u00e9coupage du d\u00e9partement en plusieurs zones, sur lesquelles sont comptabilis\u00e9es les nuit\u00e9es effectu\u00e9es sur le d\u00e9partement\n\n **Visiteurs**\n\nPersonnes pr\u00e9sentes au moins 1h entre 00h et 00h dans la zone d\u2019\u00e9tude\n\n **Les \u00ab#\u00bb dans les donn\u00e9es**\n\nLorsque la donn\u00e9e est inf\u00e9rieure ou \u00e9gale \u00e0 20 personnes, la CNIL ne permet pas de renseigner la valeur. Ainsi, entre 1 et 20 personnes, la donn\u00e9e est remplac\u00e9e par \u00ab#\u00bb. Lorsque la donn\u00e9e est \u00ab0\u00bb, c\u2019est qu\u2019aucun mobile n\u2019a \u00e9t\u00e9 capt\u00e9.",
+  "extras": {
+    "harvest:domain": "opendata.lillemetropole.fr",
+    "harvest:last_update": "2017-11-27T05:29:39.406359",
+    "harvest:remote_id": "frequentation-fanzonelille-euro-2016-par-visiteurs-etrangers",
+    "harvest:source_id": "58b68fdcc751df10ea84f9cc",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.lillemetropole.fr//explore/dataset/frequentation-fanzonelille-euro-2016-par-visiteurs-etrangers/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "58b69b58a3a7295a7d8251da",
+  "last_modified": "2017-11-27T05:29:39.409000",
+  "last_update": "2017-11-27T05:29:39.405000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "MEL",
+    "class": "Organization",
+    "id": "58b69c62c751df4b175dd7a4",
+    "logo": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-100.png",
+    "name": "M\u00e9tropole Europ\u00e9enne de Lille ",
+    "page": "https://www.data.gouv.fr/fr/organizations/metropole-europeenne-de-lille/",
+    "slug": "metropole-europeenne-de-lille",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/metropole-europeenne-de-lille/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/frequentation-par-les-etrangers-de-la-fan-zone-de-lille-selon-le-pays-dorigine/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:29:39.405000",
+      "description": "- *Date*: date[date]\n- *Afrique du Sud*: afrique_du_sud[double]\n- *Alg\u00e9rie*: algerie[double]\n- *Allemagne*: allemagne[double]\n- *Arabie Saoudite*: arabie_saoudite[double]\n- *Argentine*: argentine[double]\n- *Australie*: australie[double]\n- *Autres Afrique*: autres_afrique[double]\n- *Autres Am\u00e9rique*: autres_amerique[double]\n- *Autres Asie*: autres_asie[double]\n- *Autres Europe de l'Est*: autres_europe_de_l_est[double]\n- *Autres Moyen Orient*: autres_moyen_orient[double]\n- *Autriche*: autriche[double]\n- *Baltes*: baltes[double]\n- *Belgique*: belgique[double]\n- *B\u00e9nin*: benin[double]\n- *Bosnie-Herz\u00e9govine*: bosnie_herzegovine[double]\n- *Br\u00e9sil*: bresil[double]\n- *Burkina Faso*: burkina_faso[double]\n- *Cameroun*: cameroun[double]\n- *Canada*: canada[double]\n- *Caucase*: caucase[double]\n- *Centrafrique*: centrafrique[double]\n- *Chili*: chili[double]\n- *Chine*: chine[double]\n- *Comores*: comores[double]\n- *Congo-Brazzaville*: congo_brazzaville[double]\n- *Cor\u00e9e du Sud*: coree_du_sud[double]\n- *C\u00f4te d'Ivoire*: cote_d_ivoire[double]\n- *Croatie*: croatie[double]\n- *Danemark*: danemark[double]\n- *\u00c9gypte*: egypte[double]\n- *\u00c9mirats Arabes Unis*: emirats_arabes_unis[double]\n- *Espagne*: espagne[double]\n- *\u00c9tats-Unis*: etats_unis[double]\n- *Finlande*: finlande[double]\n- *France - Autres*: france_autres[double]\n- *Gabon*: gabon[double]\n- *Gr\u00e8ce*: grece[double]\n- *Hongrie*: hongrie[double]\n- *Inde*: inde[double]\n- *Indon\u00e9sie*: indonesie[double]\n- *Irlande*: irlande[double]\n- *Islande*: islande[double]\n- *Isra\u00ebl*: israel[double]\n- *Italie*: italie[double]\n- *Japon*: japon[double]\n- *Liechtenstein*: liechtenstein[double]\n- *Luxembourg*: luxembourg[double]\n- *Malaisie*: malaisie[double]\n- *Mali*: mali[double]\n- *Maroc*: maroc[double]\n- *Maurice*: maurice[double]\n- *Mexique*: mexique[double]\n- *Monaco*: monaco[double]\n- *Niger*: niger[double]\n- *Nigeria*: nigeria[double]\n- *Norv\u00e8ge*: norvege[double]\n- *Pays-Bas*: pays_bas[double]\n- *Pologne*: pologne[double]\n- *Portugal*: portugal[double]\n- *R\u00e9publique tch\u00e8que*: republique_tcheque[double]\n- *Roumanie*: roumanie[double]\n- *Royaume-Uni*: royaume_uni[double]\n- *Russie*: russie[double]\n- *S\u00e9n\u00e9gal*: senegal[double]\n- *Su\u00e8de*: suede[double]\n- *Suisse*: suisse[double]\n- *Tunisie*: tunisie[double]\n- *Turquie*: turquie[double]\n- *Ukraine*: ukraine[double]\n- *Vi\u00eat Nam*: viet_nam[double]\n- *Total g\u00e9n\u00e9ral*: total_general[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b0b8b140-ffc9-406a-a9fe-380753562443",
+      "last_modified": "2016-08-23T09:42:45",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b0b8b140-ffc9-406a-a9fe-380753562443",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:29:39.405000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/frequentation-fanzonelille-euro-2016-par-visiteurs-etrangers/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:29:39.405000",
+      "description": "- *Date*: date[date]\n- *Afrique du Sud*: afrique_du_sud[double]\n- *Alg\u00e9rie*: algerie[double]\n- *Allemagne*: allemagne[double]\n- *Arabie Saoudite*: arabie_saoudite[double]\n- *Argentine*: argentine[double]\n- *Australie*: australie[double]\n- *Autres Afrique*: autres_afrique[double]\n- *Autres Am\u00e9rique*: autres_amerique[double]\n- *Autres Asie*: autres_asie[double]\n- *Autres Europe de l'Est*: autres_europe_de_l_est[double]\n- *Autres Moyen Orient*: autres_moyen_orient[double]\n- *Autriche*: autriche[double]\n- *Baltes*: baltes[double]\n- *Belgique*: belgique[double]\n- *B\u00e9nin*: benin[double]\n- *Bosnie-Herz\u00e9govine*: bosnie_herzegovine[double]\n- *Br\u00e9sil*: bresil[double]\n- *Burkina Faso*: burkina_faso[double]\n- *Cameroun*: cameroun[double]\n- *Canada*: canada[double]\n- *Caucase*: caucase[double]\n- *Centrafrique*: centrafrique[double]\n- *Chili*: chili[double]\n- *Chine*: chine[double]\n- *Comores*: comores[double]\n- *Congo-Brazzaville*: congo_brazzaville[double]\n- *Cor\u00e9e du Sud*: coree_du_sud[double]\n- *C\u00f4te d'Ivoire*: cote_d_ivoire[double]\n- *Croatie*: croatie[double]\n- *Danemark*: danemark[double]\n- *\u00c9gypte*: egypte[double]\n- *\u00c9mirats Arabes Unis*: emirats_arabes_unis[double]\n- *Espagne*: espagne[double]\n- *\u00c9tats-Unis*: etats_unis[double]\n- *Finlande*: finlande[double]\n- *France - Autres*: france_autres[double]\n- *Gabon*: gabon[double]\n- *Gr\u00e8ce*: grece[double]\n- *Hongrie*: hongrie[double]\n- *Inde*: inde[double]\n- *Indon\u00e9sie*: indonesie[double]\n- *Irlande*: irlande[double]\n- *Islande*: islande[double]\n- *Isra\u00ebl*: israel[double]\n- *Italie*: italie[double]\n- *Japon*: japon[double]\n- *Liechtenstein*: liechtenstein[double]\n- *Luxembourg*: luxembourg[double]\n- *Malaisie*: malaisie[double]\n- *Mali*: mali[double]\n- *Maroc*: maroc[double]\n- *Maurice*: maurice[double]\n- *Mexique*: mexique[double]\n- *Monaco*: monaco[double]\n- *Niger*: niger[double]\n- *Nigeria*: nigeria[double]\n- *Norv\u00e8ge*: norvege[double]\n- *Pays-Bas*: pays_bas[double]\n- *Pologne*: pologne[double]\n- *Portugal*: portugal[double]\n- *R\u00e9publique tch\u00e8que*: republique_tcheque[double]\n- *Roumanie*: roumanie[double]\n- *Royaume-Uni*: royaume_uni[double]\n- *Russie*: russie[double]\n- *S\u00e9n\u00e9gal*: senegal[double]\n- *Su\u00e8de*: suede[double]\n- *Suisse*: suisse[double]\n- *Tunisie*: tunisie[double]\n- *Turquie*: turquie[double]\n- *Ukraine*: ukraine[double]\n- *Vi\u00eat Nam*: viet_nam[double]\n- *Total g\u00e9n\u00e9ral*: total_general[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "1d3f068e-4791-4b5c-b677-f79e4fff9200",
+      "last_modified": "2016-08-23T09:42:45",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1d3f068e-4791-4b5c-b677-f79e4fff9200",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:29:39.405000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/frequentation-fanzonelille-euro-2016-par-visiteurs-etrangers/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "frequentation-par-les-etrangers-de-la-fan-zone-de-lille-selon-le-pays-dorigine",
+  "spatial": null,
+  "tags": [
+    "euro-2016",
+    "euro2016",
+    "flux-mobiles",
+    "foot",
+    "frequentation",
+    "geolocalisation",
+    "tourisme"
+  ],
+  "temporal_coverage": null,
+  "title": "Fr\u00e9quentation par les \u00e9trangers de la Fan-Zone de Lille selon le pays d'origine",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/frequentation-par-les-etrangers-de-la-fan-zone-de-lille-selon-le-pays-dorigine/"
+}

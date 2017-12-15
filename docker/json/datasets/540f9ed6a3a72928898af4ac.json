@@ -1,0 +1,108 @@
+{
+  "badges": [],
+  "created_at": "2014-09-09T15:59:33.554000",
+  "deleted": null,
+  "description": "Collisions sur les passages \u00e0 niveau publics pour v\u00e9hicules depuis 2004, y\u00a0compris avec des pi\u00e9tons.\n\n  * \"Total des passages \u00e0 niveau publics routiers\" : hors passages \u00e0 niveau priv\u00e9s et passages \u00e0 niveau isol\u00e9s ou pi\u00e9tons. Les chiffres indiqu\u00e9s prennent en compte les suppressions de passages \u00e0 niveau ainsi que les de\u0301classements et les e\u0301ventuelles reprises de lignes.\n  * \"Tu\u00e9s dans v\u00e9hicule\" : ve\u0301hicules ferroviaires et ve\u0301hicules routiers, y compris deux roues.\n\n\n\nCes donn\u00e9es sont issues du Rapport annuel S\u00e9curit\u00e9 de l'exploitation sur le r\u00e9seau ferr\u00e9 national fran\u00e7ais. Publi\u00e9 chaque ann\u00e9e, ce rapport dresse le bilan des activite\u0301s se\u0301curite\u0301 de l\u2019entreprise et r\u00e9pond \u00e0 l\u2019obligation d\u2019information faite a\u0300 SNCF selon les termes de l\u2019article 17 du de\u0301cret n\u00b0 2006- 1279.\n\nVous avez des questions ou des remarques sur ces donn\u00e9es ? Rendez-vous sur le [forum](http://data.sncf.com/forum/vos-retours-sur-les-donnees) de data.sncf.com.",
+  "extras": {
+    "datagouv_ckan_id": "280e98ff-2482-42eb-b46f-e81c280da16b",
+    "datagouv_ckan_last_sync": "2014-09-17T03:53:10.014000",
+    "harvest:domain": "ressources.data.sncf.com",
+    "harvest:last_update": "2017-11-27T05:02:59.683953",
+    "harvest:remote_id": "collisions-passages-niveau",
+    "harvest:source_id": "563dd01f88ee386a21e72046",
+    "ods:has_records": true,
+    "ods:url": "https://ressources.data.sncf.com/explore/dataset/collisions-passages-niveau/",
+    "remote_url": "http://ressources.data.sncf.com/explore/dataset/collisions-passages-niveau/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "540f9ed6a3a72928898af4ac",
+  "last_modified": "2017-11-27T05:02:59.689000",
+  "last_update": "2017-11-27T05:02:59.682000",
+  "license": "other-open",
+  "metrics": {
+    "cow_criticals": 0,
+    "cow_errors": 0,
+    "cow_score": 0.1499958562137898,
+    "cow_warnings": 4,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb0a3a7292c64a78115",
+    "logo": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-100.png",
+    "name": "SNCF",
+    "page": "https://www.data.gouv.fr/fr/organizations/sncf/",
+    "slug": "sncf",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/sncf/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/collisions-sur-les-passages-a-niveau-depuis-2004-sncf/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:02:59.682000",
+      "description": "- *Date*: date[date]\n- *Total des passages \u00e0 niveau publics routiers*: total_des_passages_a_niveau_publics_routiers[double]\n- *Pi\u00e9tons tu\u00e9s*: pietons_tues[int]\n- *Tu\u00e9s dans v\u00e9hicule*: tues_vehicule[int]\n- *Collision v\u00e9hicule/train*: collision_vehicule_train[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "3e0286ef-33ad-4ed9-a48e-aa85452cd178",
+      "last_modified": "2017-09-21T08:36:11",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3e0286ef-33ad-4ed9-a48e-aa85452cd178",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:02:59.682000",
+      "title": "Export au format CSV",
+      "url": "https://ressources.data.sncf.com/explore/dataset/collisions-passages-niveau/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:02:59.682000",
+      "description": "- *Date*: date[date]\n- *Total des passages \u00e0 niveau publics routiers*: total_des_passages_a_niveau_publics_routiers[double]\n- *Pi\u00e9tons tu\u00e9s*: pietons_tues[int]\n- *Tu\u00e9s dans v\u00e9hicule*: tues_vehicule[int]\n- *Collision v\u00e9hicule/train*: collision_vehicule_train[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "d06ca581-ca2e-4173-945d-06ee8d2b7a34",
+      "last_modified": "2017-09-21T08:36:11",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d06ca581-ca2e-4173-945d-06ee8d2b7a34",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:02:59.682000",
+      "title": "Export au format JSON",
+      "url": "https://ressources.data.sncf.com/explore/dataset/collisions-passages-niveau/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "collisions-sur-les-passages-a-niveau-depuis-2004-sncf",
+  "spatial": null,
+  "tags": [
+    "accidents",
+    "passages-a-niveau",
+    "securite",
+    "securite-ferroviaire"
+  ],
+  "temporal_coverage": null,
+  "title": "Collisions sur les passages \u00e0 niveau depuis 2004",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/collisions-sur-les-passages-a-niveau-depuis-2004-sncf/"
+}

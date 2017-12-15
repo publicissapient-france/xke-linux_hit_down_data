@@ -1,0 +1,101 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T20:06:37.394000",
+  "deleted": null,
+  "description": "Immobilisations incorporelles 2016 issues du Rapport Financier du groupe SNCF R\u00e9seau au 31 d\u00e9cembre 2016 (Comptes consolid\u00e9s incluant l'EPIC SNCF RESEAU et ses filiales)",
+  "extras": {
+    "harvest:domain": "ressources.data.sncf.com",
+    "harvest:last_update": "2017-11-27T05:01:46.220190",
+    "harvest:remote_id": "immobilisations-incorporelles-2016-cco",
+    "harvest:source_id": "563dd01f88ee386a21e72046",
+    "ods:has_records": true,
+    "ods:url": "https://ressources.data.sncf.com/explore/dataset/immobilisations-incorporelles-2016-cco/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5959362da3a7291dd09c824c",
+  "last_modified": "2017-11-27T05:01:46.225000",
+  "last_update": "2017-11-27T05:01:46.219000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb0a3a7292c64a78115",
+    "logo": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-100.png",
+    "name": "SNCF",
+    "page": "https://www.data.gouv.fr/fr/organizations/sncf/",
+    "slug": "sncf",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/sncf/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/immobilisations-incorporelles-sncf-reseau-2016-cco/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:01:46.219000",
+      "description": "- *#*: id[double]\n- *en millions d'euros\u00a0*: en_millions_d_euros[text]\n- *Concessions, brevets, logiciels*: concessions_brevets_logiciels[double]\n- *Autres immobilisations incorporelles*: autres_immobilisations_incorporelles[double]\n- *Immobilisations incorporelles en cours*: immobilisations_incorporelles_en_cours[double]\n- *Total*: total[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "867f711a-b3f0-4dc7-92d0-dfb94dcb9620",
+      "last_modified": "2017-04-05T12:40:04",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/867f711a-b3f0-4dc7-92d0-dfb94dcb9620",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:01:46.219000",
+      "title": "Export au format CSV",
+      "url": "https://ressources.data.sncf.com/explore/dataset/immobilisations-incorporelles-2016-cco/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:01:46.219000",
+      "description": "- *#*: id[double]\n- *en millions d'euros\u00a0*: en_millions_d_euros[text]\n- *Concessions, brevets, logiciels*: concessions_brevets_logiciels[double]\n- *Autres immobilisations incorporelles*: autres_immobilisations_incorporelles[double]\n- *Immobilisations incorporelles en cours*: immobilisations_incorporelles_en_cours[double]\n- *Total*: total[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "10561766-e92d-4664-9d5f-982ccb77487b",
+      "last_modified": "2017-04-05T12:40:04",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/10561766-e92d-4664-9d5f-982ccb77487b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:01:46.219000",
+      "title": "Export au format JSON",
+      "url": "https://ressources.data.sncf.com/explore/dataset/immobilisations-incorporelles-2016-cco/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "immobilisations-incorporelles-sncf-reseau-2016-cco",
+  "spatial": null,
+  "tags": [
+    "comptes-consolides",
+    "immobilisations-incorporelles",
+    "rapport-financier",
+    "sncf-reseau"
+  ],
+  "temporal_coverage": null,
+  "title": "Immobilisations incorporelles SNCF R\u00e9seau 2016 CCO",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/immobilisations-incorporelles-sncf-reseau-2016-cco/"
+}

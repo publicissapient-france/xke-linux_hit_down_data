@@ -1,0 +1,510 @@
+{
+  "badges": [],
+  "created_at": "2017-01-16T10:35:15.829000",
+  "deleted": null,
+  "description": "Cr\u00e9dits en autorisation d'engagement (AE) et cr\u00e9dit de paiement (CP) ainsi que les plafonds d'emploi en emploi temps plein travaill\u00e9 (ETPT) apr\u00e8s le vote de loi de finances pour 2017 par le Parlement.",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": "2018-01-16T10:34:03",
+  "id": "587c93d388ee380e889b81a4",
+  "last_modified": "2017-08-03T12:06:09.992000",
+  "last_update": "2017-01-16T11:00:48.042000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 2
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff8ea3a7292c64a77f02",
+    "logo": "https://www.data.gouv.fr/s/avatars/68/0660a939e7495d94117e0d9845d6f1-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/68/0660a939e7495d94117e0d9845d6f1-100.png",
+    "name": "Minist\u00e8re de l'\u00e9conomie et des finances",
+    "page": "https://www.data.gouv.fr/fr/organizations/ministere-de-leconomie-et-des-finances/",
+    "slug": "ministere-de-leconomie-et-des-finances",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ministere-de-leconomie-et-des-finances/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/loi-de-finances-initiale-pour-2017-lfi-2017/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "dac6dbe059e6577caa60a21dfed53a09164c605e"
+      },
+      "created_at": "2017-01-16T11:00:48.042000",
+      "description": "Pr\u00e9sentation du budget g\u00e9n\u00e9ral vot\u00e9 en loi de finances initiale pour 2017 par le Parlement en AE et CP par mission / programme / Action et cat\u00e9gorie",
+      "extras": {},
+      "filesize": 449944,
+      "filetype": "file",
+      "format": "csv",
+      "id": "86b8afc3-9dbf-484e-9abb-5ae10b77454a",
+      "last_modified": "2017-08-01T18:17:08.935000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/86b8afc3-9dbf-484e-9abb-5ae10b77454a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-01-16T11:00:48.042000",
+      "title": "LFI 2017 budget g\u00e9n\u00e9ral par action et cat\u00e9gorie",
+      "url": "https://www.data.gouv.fr/s/resources/loi-de-finances-initiale-pour-2017-lfi-2017/20170801-181658/LFI2017-BG-Action_Categorie.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "d067c3a5bed23851aa7a73641447c6c895f59bb1"
+      },
+      "created_at": "2017-01-16T10:59:57.648000",
+      "description": "Pr\u00e9sentation du budget g\u00e9n\u00e9ral vot\u00e9 en loi de finances initiale pour 2017 par le Parlement en AE et CP par mission / programme / Action et titre",
+      "extras": {},
+      "filesize": 168370,
+      "filetype": "file",
+      "format": "csv",
+      "id": "75065374-0c3a-4b80-b1ec-8d44992a0501",
+      "last_modified": "2017-05-16T14:00:44.477000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/75065374-0c3a-4b80-b1ec-8d44992a0501",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-01-16T10:59:57.649000",
+      "title": "LFI 2017 budget g\u00e9n\u00e9ral par action et titre",
+      "url": "https://www.data.gouv.fr/s/resources/loi-de-finances-initiale-pour-2017-lfi-2017/20170516-140042/LFI2017-BG-Action_Titre.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "75bc4d16657da9a98fedf503a93432dce6d4331e"
+      },
+      "created_at": "2017-01-16T10:58:45.814000",
+      "description": "Pr\u00e9sentation des budgets des comptes d'affectation sp\u00e9ciale vot\u00e9s en loi de finances initiale pour 2017 par le Parlement en AE et CP par mission / programme / Action et cat\u00e9gorie",
+      "extras": {},
+      "filesize": 29299,
+      "filetype": "file",
+      "format": "csv",
+      "id": "e577b01c-ef9a-40bd-89b3-756660a17758",
+      "last_modified": "2017-08-03T12:02:33.573000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e577b01c-ef9a-40bd-89b3-756660a17758",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-01-16T10:58:45.814000",
+      "title": "LFI 2017 comptes affectation sp\u00e9ciale par action et cat\u00e9gorie",
+      "url": "https://www.data.gouv.fr/s/resources/loi-de-finances-initiale-pour-2017-lfi-2017/20170803-120226/LFI2017-CAS-Action_Categorie.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "5a61c1aa2aeba4252d8daf3308b214d453b415e4"
+      },
+      "created_at": "2017-01-16T10:56:45.113000",
+      "description": "Pr\u00e9sentation des budgets des comptes d'affectation sp\u00e9ciale vot\u00e9s en loi de finances initiale pour 2017 par le Parlement en AE et CP par mission / programme / Action et titre",
+      "extras": {},
+      "filesize": 15557,
+      "filetype": "file",
+      "format": "csv",
+      "id": "0ec88fc0-77d2-4464-b2b0-2179a4e184ef",
+      "last_modified": "2017-05-16T14:01:24.854000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0ec88fc0-77d2-4464-b2b0-2179a4e184ef",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-01-16T10:56:45.113000",
+      "title": "LFI 2017 comptes affectation sp\u00e9ciale par action et titre",
+      "url": "https://www.data.gouv.fr/s/resources/loi-de-finances-initiale-pour-2017-lfi-2017/20170516-140123/LFI2017-CAS-Action_Titre.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "324fa854dee6cc6832480d1d7e4f90479a0ca959"
+      },
+      "created_at": "2017-01-16T10:55:35.339000",
+      "description": "Pr\u00e9sentation des budgets des comptes de concours financiers vot\u00e9s en loi de finances initiale pour 2017 par le Parlement en AE et CP par mission / programme / Action et cat\u00e9gorie",
+      "extras": {},
+      "filesize": 7527,
+      "filetype": "file",
+      "format": "csv",
+      "id": "10151898-9b7d-4208-a53d-e56003bd8baf",
+      "last_modified": "2017-08-03T12:06:09.992000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/10151898-9b7d-4208-a53d-e56003bd8baf",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-01-16T10:55:35.339000",
+      "title": "LFI 2017 comptes de concours financiers par action et cat\u00e9gorie",
+      "url": "https://www.data.gouv.fr/s/resources/loi-de-finances-initiale-pour-2017-lfi-2017/20170803-120608/LFI2017-CCF-Action_Categorie.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "8d43670c880118bb128b136d387427f9866ccd6e"
+      },
+      "created_at": "2017-01-16T10:54:30.654000",
+      "description": "Pr\u00e9sentation des budgets des comptes de concours financiers vot\u00e9s en loi de finances initiale pour 2017 par le Parlement en AE et CP par mission / programme / Action et titre",
+      "extras": {},
+      "filesize": 5409,
+      "filetype": "file",
+      "format": "csv",
+      "id": "11803cdc-e6d6-4b07-b0c0-5cc5c7054b67",
+      "last_modified": "2017-05-16T14:01:59.245000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/11803cdc-e6d6-4b07-b0c0-5cc5c7054b67",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-01-16T10:54:30.654000",
+      "title": "LFI 2017 comptes de concours financiers par action et titre",
+      "url": "https://www.data.gouv.fr/s/resources/loi-de-finances-initiale-pour-2017-lfi-2017/20170516-140157/LFI2017-CCF-Action_Titre.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "57fb9baec4569d027848da4ce9109f8c0f2d2806"
+      },
+      "created_at": "2017-01-16T10:52:21.346000",
+      "description": "Pr\u00e9sentation du budget g\u00e9n\u00e9ral vot\u00e9 en loi de finances initiale pour 2017 par le Parlement en plafond d'emploi par ETP",
+      "extras": {},
+      "filesize": 8243,
+      "filetype": "file",
+      "format": "csv",
+      "id": "47dda477-faa3-4b2b-ba08-9266bb8642b6",
+      "last_modified": "2017-05-16T14:02:28.827000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/47dda477-faa3-4b2b-ba08-9266bb8642b6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-01-16T10:52:21.346000",
+      "title": "LFI 2017 plafond d'emploi du budget g\u00e9n\u00e9ral par minist\u00e8re",
+      "url": "https://www.data.gouv.fr/s/resources/loi-de-finances-initiale-pour-2017-lfi-2017/20170516-140227/LFI2017-ETP-BG-Ministere.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "77af8dfa48989dac9848768a5fd9a1f06f290b5f"
+      },
+      "created_at": "2017-01-16T10:51:09.927000",
+      "description": "Pr\u00e9sentation du budget g\u00e9n\u00e9ral vot\u00e9 en loi de finances initiale pour 2017 par le Parlement en plafond d'emploi par ETP",
+      "extras": {},
+      "filesize": 82618,
+      "filetype": "file",
+      "format": "csv",
+      "id": "9539c15d-1e83-4fa5-9213-4791859650ba",
+      "last_modified": "2017-05-16T14:02:59.208000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9539c15d-1e83-4fa5-9213-4791859650ba",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-01-16T10:51:09.927000",
+      "title": "LFI 2017 plafond d'emploi du budget g\u00e9n\u00e9ral par programme",
+      "url": "https://www.data.gouv.fr/s/resources/loi-de-finances-initiale-pour-2017-lfi-2017/20170516-140257/LFI2017-ETP-BG-Programme.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "6b1514eff3f6129097ece82cb43e24d533a686ef"
+      },
+      "created_at": "2017-01-16T10:49:39.772000",
+      "description": "Pr\u00e9sentation des deux budgets annexes vot\u00e9s en loi de finances initiale pour 2017 par le Parlement en plafond d'emploi par ETP",
+      "extras": {},
+      "filesize": 1114,
+      "filetype": "file",
+      "format": "csv",
+      "id": "fdd37ee4-7060-4f31-9077-496bb43e5103",
+      "last_modified": "2017-05-16T14:03:16.839000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fdd37ee4-7060-4f31-9077-496bb43e5103",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-01-16T10:49:39.772000",
+      "title": "LFI 2017 plafond d'emploi des budgets annexes par minist\u00e8re",
+      "url": "https://www.data.gouv.fr/s/resources/loi-de-finances-initiale-pour-2017-lfi-2017/20170516-140315/LFI2017-ETP-BA-Ministere.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "6e426408b05f9d853c17474b9a2644da4f126edc"
+      },
+      "created_at": "2017-01-16T10:48:32.736000",
+      "description": "Pr\u00e9sentation des deux budgets annexes vot\u00e9s en loi de finances initiale pour 2017 par le Parlement en plafond d'emploi par ETP",
+      "extras": {},
+      "filesize": 1361,
+      "filetype": "file",
+      "format": "csv",
+      "id": "822a4ed7-9dff-4367-ac6c-3d0d6c3ca7ef",
+      "last_modified": "2017-05-16T14:03:35.041000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/822a4ed7-9dff-4367-ac6c-3d0d6c3ca7ef",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-01-16T10:48:32.736000",
+      "title": "LFI 2017 plafond d'emploi des budgets annexes par programme",
+      "url": "https://www.data.gouv.fr/s/resources/loi-de-finances-initiale-pour-2017-lfi-2017/20170516-140333/LFI2017-ETP-BA-Programme.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "a548f7b78e8b0ec609c29b47f8c84cd3b5255a99"
+      },
+      "created_at": "2017-01-16T10:46:48.076000",
+      "description": "Pr\u00e9sentation du budget g\u00e9n\u00e9ral vot\u00e9 en loi de finances initiale pour 2017 par le Parlement en AE et CP par titre 2 (T2) et hors titre 2 (HT2) par minist\u00e8re",
+      "extras": {},
+      "filesize": 11743,
+      "filetype": "file",
+      "format": "csv",
+      "id": "dc25739f-14bf-4c4b-8c35-c8485ee165f2",
+      "last_modified": "2017-05-16T14:05:16.891000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/dc25739f-14bf-4c4b-8c35-c8485ee165f2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-01-16T10:46:48.077000",
+      "title": "LFI 2017 budget g\u00e9n\u00e9ral par titre 2 et hors titre 2 par minist\u00e8re",
+      "url": "https://www.data.gouv.fr/s/resources/loi-de-finances-initiale-pour-2017-lfi-2017/20170516-140514/LFI2017-T2_HT2-BG-Ministere.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "be0c06039dd9dd90e4554f57d650e99653dccdfc"
+      },
+      "created_at": "2017-01-16T10:45:46.873000",
+      "description": "Pr\u00e9sentation du budget g\u00e9n\u00e9ral vot\u00e9 en loi de finances initiale pour 2017 par le Parlement en AE et CP par titre 2 (T2) et hors titre 2 (HT2) par programme",
+      "extras": {},
+      "filesize": 12094,
+      "filetype": "file",
+      "format": "csv",
+      "id": "70817084-aacc-418f-8090-3b7d8d9b684e",
+      "last_modified": "2017-05-16T14:05:37.430000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/70817084-aacc-418f-8090-3b7d8d9b684e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-01-16T10:45:46.873000",
+      "title": "LFI 2017 budget g\u00e9n\u00e9ral par titre 2 et hors titre 2 par programme",
+      "url": "https://www.data.gouv.fr/s/resources/loi-de-finances-initiale-pour-2017-lfi-2017/20170516-140535/LFI2017-T2_HT2-BG-Programme.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "39f6eeb57285727e4ed12ac4ca90b18118a3dfcf"
+      },
+      "created_at": "2017-01-16T10:44:23.782000",
+      "description": "Pr\u00e9sentation des deux budgets annexes vot\u00e9s en loi de finances initiale pour 2017 par le Parlement en AE et CP par titre 2 (T2) et hors titre 2 (HT2) par minist\u00e8re",
+      "extras": {},
+      "filesize": 635,
+      "filetype": "file",
+      "format": "csv",
+      "id": "ba6c0e63-76a1-4af6-827a-1bbed61c12ed",
+      "last_modified": "2017-05-16T14:06:12.344000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ba6c0e63-76a1-4af6-827a-1bbed61c12ed",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-01-16T10:44:23.782000",
+      "title": "LFI 2017 budgets annexes par titre 2 et hors titre 2 par minist\u00e8re",
+      "url": "https://www.data.gouv.fr/s/resources/loi-de-finances-initiale-pour-2017-lfi-2017/20170516-140610/LFI2017-T2_HT2-BA-Ministere.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "1cd819ba5d9107f1c7e2aef6608396999a02171c"
+      },
+      "created_at": "2017-01-16T10:42:49.197000",
+      "description": "Pr\u00e9sentation des deux budgets annexes vot\u00e9s en loi de finances initiale pour 2017 par le Parlement en AE et CP par titre 2 (T2) et hors titre 2 (HT2) par programme",
+      "extras": {},
+      "filesize": 695,
+      "filetype": "file",
+      "format": "csv",
+      "id": "cc8e9e37-50a8-4de0-9cc8-9944a50fde4d",
+      "last_modified": "2017-05-16T14:06:31.844000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cc8e9e37-50a8-4de0-9cc8-9944a50fde4d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-01-16T10:42:49.197000",
+      "title": "LFI 2017 budgets annexes par titre 2 et hors titre 2 par programme",
+      "url": "https://www.data.gouv.fr/s/resources/loi-de-finances-initiale-pour-2017-lfi-2017/20170516-140630/LFI2017-T2_HT2-BA-Programme.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "781b49388f261ae6e5b946a73d4e52998af2f9b0"
+      },
+      "created_at": "2017-01-16T10:41:22.329000",
+      "description": "Pr\u00e9sentation du budget des comptes d'affectation sp\u00e9ciale vot\u00e9 en loi de finances initiale pour 2017 par le Parlement en AE et CP par titre 2 (T2) et hors titre 2 (HT2) par minist\u00e8re",
+      "extras": {},
+      "filesize": 2461,
+      "filetype": "file",
+      "format": "csv",
+      "id": "99f6d537-db65-45b3-af75-be978c5d7c87",
+      "last_modified": "2017-05-16T14:07:00.413000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/99f6d537-db65-45b3-af75-be978c5d7c87",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-01-16T10:41:22.329000",
+      "title": "LFI 2017 budget des comptes d'affectation sp\u00e9ciale par titre 2 et hors titre 2 par minist\u00e8re",
+      "url": "https://www.data.gouv.fr/s/resources/loi-de-finances-initiale-pour-2017-lfi-2017/20170516-140658/LFI2017-T2_HT2-CAS-Ministere.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "c98d93a4b6f70e217e0dca7fed8620be009b72f3"
+      },
+      "created_at": "2017-01-16T10:39:58.548000",
+      "description": "Pr\u00e9sentation du budget des comptes d'affectation sp\u00e9ciale vot\u00e9 en loi de finances initiale pour 2017 par le Parlement en AE et CP par titre 2 (T2) et hors titre 2 (HT2) par programme",
+      "extras": {},
+      "filesize": 2962,
+      "filetype": "file",
+      "format": "csv",
+      "id": "20068175-e59b-47af-b326-936d314a3571",
+      "last_modified": "2017-05-16T14:07:19.079000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/20068175-e59b-47af-b326-936d314a3571",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-01-16T10:39:58.548000",
+      "title": "LFI 2017 budget des comptes d'affectation sp\u00e9ciale par titre 2 et hors titre 2 par programme",
+      "url": "https://www.data.gouv.fr/s/resources/loi-de-finances-initiale-pour-2017-lfi-2017/20170516-140717/LFI2017-T2_HT2-CAS-Programme.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "35e4d083f46d7b93d4883b80ea885bbb6e0f1d4a"
+      },
+      "created_at": "2017-01-16T10:38:36.768000",
+      "description": "Pr\u00e9sentation du budget des comptes de concours financiers vot\u00e9 en loi de finances initiale pour 2017 par le Parlement en AE et CP par titre 2 (T2) et hors titre 2 (HT2) par minist\u00e8re",
+      "extras": {},
+      "filesize": 1820,
+      "filetype": "file",
+      "format": "csv",
+      "id": "f28da107-4e6e-436f-a777-c0d26731b661",
+      "last_modified": "2017-05-16T14:07:56.934000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f28da107-4e6e-436f-a777-c0d26731b661",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-01-16T10:38:36.768000",
+      "title": "LFI 2017 budget des comptes de concours financiers par titre 2 et horts titre 2 par minist\u00e8re",
+      "url": "https://www.data.gouv.fr/s/resources/loi-de-finances-initiale-pour-2017-lfi-2017/20170516-140755/LFI2017-T2_HT2-CCF-Ministere.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "ee08b33f56e0bbd0860ea4fa3f4d1c9ef60fe7c3"
+      },
+      "created_at": "2017-01-16T10:36:53.293000",
+      "description": "Pr\u00e9sentation du budget des comptes de concours financiers vot\u00e9 en loi de finances initiale pour 2017 par le Parlement en AE et CP par titre 2 (T2) et hors titre 2 (HT2) par programme",
+      "extras": {},
+      "filesize": 2406,
+      "filetype": "file",
+      "format": "csv",
+      "id": "63d04e9b-ebba-402c-8eed-bc1dfecc0133",
+      "last_modified": "2017-05-16T14:08:15.795000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/63d04e9b-ebba-402c-8eed-bc1dfecc0133",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-01-16T10:36:53.293000",
+      "title": "LFI 2017 budget des comptes de concours financiers par titre 2 et horts titre 2 par programme",
+      "url": "https://www.data.gouv.fr/s/resources/loi-de-finances-initiale-pour-2017-lfi-2017/20170116-103653/LFI2017-T2_HT2-CCF-Programme.csv"
+    }
+  ],
+  "slug": "loi-de-finances-initiale-pour-2017-lfi-2017",
+  "spatial": {
+    "geom": null,
+    "granularity": "other",
+    "zones": [
+      "country:fr"
+    ]
+  },
+  "tags": [
+    "budget-2017",
+    "etat",
+    "finances-publiques",
+    "loi"
+  ],
+  "temporal_coverage": {
+    "end": "2017-12-31",
+    "start": "2017-01-01"
+  },
+  "title": "Loi de finances initiale pour 2017 (LFI 2017)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/loi-de-finances-initiale-pour-2017-lfi-2017/"
+}

@@ -1,0 +1,305 @@
+{
+  "badges": [],
+  "created_at": "2016-06-22T00:00:00",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es est un d\u00e9nombrement,  par commune, des personnes  membres des foyers allocataires ayant un droit versable \u00e0 une aide personnelle au logement, au titre de d\u00e9cembre de l\u2019ann\u00e9e de r\u00e9f\u00e9rence. Il s\u2019agit d\u2019une prestation vers\u00e9e sous conditions de ressources. Les allocations logement ont pour vocation de soutenir les personnes et familles modestes dans leur effort financier consacr\u00e9 au logement principal. Elles concernent les locataires, les r\u00e9sidents en foyer et les acc\u00e9dants \u00e0 la propri\u00e9t\u00e9.\n\nLes aides au logement sont constitu\u00e9es de l\u2019Allocation de Logement Familiale (ALF), de l\u2019Allocation de Logement Sociale (ALS), et de l\u2019Aide Personnalis\u00e9e au Logement (APL).\n\nDes \u00e9l\u00e9ments plus d\u00e9taill\u00e9s sur les aides aux logement sont disponibles sur le site caf.fr, en cliquant sur le lien suivant :\n\nhttps://www.caf.fr/aides-et-services/s-informer-sur-les-aides/logement-et-cadre-de-vie\n\nDes donn\u00e9es de synth\u00e8se et d'analyse ainsi que des descriptions statistiques et cartographiques sur les aides au logement sont disponibles dans le cahier des donn\u00e9es sociales de la Cnaf (page 46), en cliquant sur le lien suivant :\n\nhttp://www.caf.fr/sites/default/files/cnaf/Documents/Dser/cahier_donnees_sociales/CDS_2011.pdf#page=21\n\nLe foyer allocataire est compos\u00e9 du responsable du dossier (personne qui per\u00e7oit au moins une prestation au regard de sa situation familiale et/ou mon\u00e9taire), et l'ensemble des autres ayants droit au sens de la r\u00e8glementation en vigueur (conjoint, enfant(s) et autre(s) personne(s) \u00e0 charge).\nPlusieurs foyers allocataires peuvent cohabiter dans un m\u00eame lieu, ils constituent alors un seul m\u00e9nage au sens de la d\u00e9finition statistique Insee. C\u2019est le cas, par exemple, lorsque un couple per\u00e7oit des allocations logement et h\u00e9berge son enfant titulaire d'un minimum social des Caf (RSO, RSA, AAH).\nEn pratique, le terme \"allocataire\" est souvent utilis\u00e9 \u00e0 la place de \"foyer allocataire\".\n\nLe droit versable signifie que le foyer allocataire remplit toutes les conditions pour \u00eatre effectivement pay\u00e9 au titre du mois d\u2019observation. En particulier ne sont pas inclus dans ce p\u00e9rim\u00e8tre les b\u00e9n\u00e9ficiaires qui n\u2019ont pas fourni l\u2019int\u00e9gralit\u00e9 de leurs pi\u00e8ces justificatives, ou ceux dont le montant de la prestation est inf\u00e9rieur au seuil de versement.\n\nLe champ g\u00e9ographique d\u2019observation du jeu de donn\u00e9es correspond \u00e0 la commune de r\u00e9sidence du foyer allocataire telle qu\u2019elle est enregistr\u00e9e dans le fichier statistique des allocataires de d\u00e9cembre de l\u2019ann\u00e9e de r\u00e9f\u00e9rence N) extrait en d\u00e9but d\u2019ann\u00e9e N+1 et ce quelle que soit la Caf de gestion.",
+  "extras": {
+    "ckan:name": "population-des-foyers-allocatair",
+    "harvest:domain": "data.caf.fr",
+    "harvest:last_update": "2017-11-27T05:08:52.721636",
+    "harvest:remote_id": "ad042a79-c4b8-4f80-88ef-7d410e121404",
+    "harvest:source_id": "560d9133c751df40ee756894",
+    "harvested": "2017-10-02T09:50:55.447593",
+    "remote_url": "FILEAS Base Communale Allocataires (BCA)",
+    "source_id": "954ea88a-1b59-4a56-acae-2148a64dbe5e"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "560d9161a3a7294a8e94aa17",
+  "last_modified": "2017-11-27T05:08:52.723000",
+  "last_update": "2017-07-02T19:44:11.899000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "CNAF",
+    "class": "Organization",
+    "id": "5595066cc751df4582a453ba",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-07-02/a1bc08e4a4dc44a89cb29697800a83b5/new_logo-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-07-02/a1bc08e4a4dc44a89cb29697800a83b5/new_logo-100.jpg",
+    "name": "Caisse Nationale des Allocations familiales ",
+    "page": "https://www.data.gouv.fr/fr/organizations/allocations-familiales/",
+    "slug": "allocations-familiales",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/allocations-familiales/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/population-des-foyers-allocatair/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:41.521000",
+      "description": "Lisez-moi.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T11:17:17.250000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/ad042a79-c4b8-4f80-88ef-7d410e121404/resource/8895627a-5adb-442d-945c-2f21a5f379d4/download/descriptifPersLogPresta.txt"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "txt",
+      "id": "8895627a-5adb-442d-945c-2f21a5f379d4",
+      "last_modified": "2015-07-27T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8895627a-5adb-442d-945c-2f21a5f379d4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 2
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:41.521000",
+      "title": "Descriptif du fichier  Personnes couvertes avec aide au logement par prestation",
+      "url": "http://data.caf.fr/dataset/ad042a79-c4b8-4f80-88ef-7d410e121404/resource/8895627a-5adb-442d-945c-2f21a5f379d4/download/descriptifPersLogPresta.txt"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:41.521000",
+      "description": "D\u00e9nombrement de la population des foyers allocataires ayant un doit versable \u00e0 une prestation logement (APL, ALF, ALS), en 2009.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T11:17:17.007000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/ad042a79-c4b8-4f80-88ef-7d410e121404/resource/18e53a92-da86-4c9d-9488-25c0c6229538/download/LOGPersPrestaCom2009.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "18e53a92-da86-4c9d-9488-25c0c6229538",
+      "last_modified": "2015-07-27T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/18e53a92-da86-4c9d-9488-25c0c6229538",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 2
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:41.521000",
+      "title": "Personnes couvertes par une aide au logement en 2009",
+      "url": "http://data.caf.fr/dataset/ad042a79-c4b8-4f80-88ef-7d410e121404/resource/18e53a92-da86-4c9d-9488-25c0c6229538/download/LOGPersPrestaCom2009.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:41.522000",
+      "description": "D\u00e9nombrement de la population des foyers allocataires ayant un doit versable \u00e0 une prestation logement (APL, ALF, ALS), en 2010.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T11:17:17.257000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/ad042a79-c4b8-4f80-88ef-7d410e121404/resource/b2f4a665-2dcc-4eae-b777-d90563641aad/download/LOGPersPrestaCom2010.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b2f4a665-2dcc-4eae-b777-d90563641aad",
+      "last_modified": "2015-07-27T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b2f4a665-2dcc-4eae-b777-d90563641aad",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:41.522000",
+      "title": "Personnes couvertes par une aide au logement en 2010",
+      "url": "http://data.caf.fr/dataset/ad042a79-c4b8-4f80-88ef-7d410e121404/resource/b2f4a665-2dcc-4eae-b777-d90563641aad/download/LOGPersPrestaCom2010.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:41.522000",
+      "description": "D\u00e9nombrement de la population des foyers allocataires ayant un doit versable \u00e0 une prestation logement (APL, ALF, ALS), en 2011.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T11:17:17.295000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/ad042a79-c4b8-4f80-88ef-7d410e121404/resource/b324da48-dc27-4611-ac23-3eff6c1febff/download/LOGPersPrestaCom2011.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b324da48-dc27-4611-ac23-3eff6c1febff",
+      "last_modified": "2015-07-27T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b324da48-dc27-4611-ac23-3eff6c1febff",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:41.522000",
+      "title": "Personnes couvertes par une aide au logement en 2011",
+      "url": "http://data.caf.fr/dataset/ad042a79-c4b8-4f80-88ef-7d410e121404/resource/b324da48-dc27-4611-ac23-3eff6c1febff/download/LOGPersPrestaCom2011.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:41.522000",
+      "description": "D\u00e9nombrement de la population des foyers allocataires ayant un doit versable \u00e0 une prestation logement (APL, ALF, ALS), en 2012.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T11:17:17.307000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/ad042a79-c4b8-4f80-88ef-7d410e121404/resource/03f7ea8c-53e4-4c92-8a21-03863d61373b/download/LOGPersPrestaCom2012.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "03f7ea8c-53e4-4c92-8a21-03863d61373b",
+      "last_modified": "2015-07-27T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/03f7ea8c-53e4-4c92-8a21-03863d61373b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:41.522000",
+      "title": "Personnes couvertes par une aide au logement en 2012",
+      "url": "http://data.caf.fr/dataset/ad042a79-c4b8-4f80-88ef-7d410e121404/resource/03f7ea8c-53e4-4c92-8a21-03863d61373b/download/LOGPersPrestaCom2012.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:41.522000",
+      "description": "D\u00e9nombrement de la population des foyers allocataires ayant un doit versable \u00e0 une prestation logement (APL, ALF, ALS), en 2013.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T11:17:17.288000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/ad042a79-c4b8-4f80-88ef-7d410e121404/resource/48c22f83-2dcc-4b20-a8c8-ba073ef890cf/download/LOGPersPrestaCom2013.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "48c22f83-2dcc-4b20-a8c8-ba073ef890cf",
+      "last_modified": "2015-07-27T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/48c22f83-2dcc-4b20-a8c8-ba073ef890cf",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 5
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:41.522000",
+      "title": "Personnes couvertes par une aide au logement en 2013",
+      "url": "http://data.caf.fr/dataset/ad042a79-c4b8-4f80-88ef-7d410e121404/resource/48c22f83-2dcc-4b20-a8c8-ba073ef890cf/download/LOGPersPrestaCom2013.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:41.522000",
+      "description": "D\u00e9nombrement de la population des foyers allocataires ayant un doit versable \u00e0 une prestation logement (APL, ALF, ALS), en 2014.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T21:22:02.471000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/ad042a79-c4b8-4f80-88ef-7d410e121404/resource/2447b641-d819-449a-9285-454e25664f46/download/LOGPersPrestaCom2014.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2447b641-d819-449a-9285-454e25664f46",
+      "last_modified": "2015-07-27T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2447b641-d819-449a-9285-454e25664f46",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 2
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:41.523000",
+      "title": "Personnes couvertes par une aide au logement en 2014",
+      "url": "http://data.caf.fr/dataset/ad042a79-c4b8-4f80-88ef-7d410e121404/resource/2447b641-d819-449a-9285-454e25664f46/download/LOGPersPrestaCom2014.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:44:11.899000",
+      "description": "D\u00e9nombrement de la population des foyers allocataires ayant un doit versable \u00e0 une prestation logement (APL, ALF, ALS), en 2015.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T21:22:02.666000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/ad042a79-c4b8-4f80-88ef-7d410e121404/resource/afe7c84b-2ea9-4016-8a56-5a4142bc039e/download/LOGPersPrestaCom2015.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "afe7c84b-2ea9-4016-8a56-5a4142bc039e",
+      "last_modified": "2016-06-30T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/afe7c84b-2ea9-4016-8a56-5a4142bc039e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": null,
+      "published": "2017-07-02T19:44:11.899000",
+      "title": "Personnes couvertes par une aide au logement en 2015",
+      "url": "http://data.caf.fr/dataset/ad042a79-c4b8-4f80-88ef-7d410e121404/resource/afe7c84b-2ea9-4016-8a56-5a4142bc039e/download/LOGPersPrestaCom2015.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:44:11.899000",
+      "description": "D\u00e9nombrement de la population des foyers allocataires ayant un doit versable \u00e0 une prestation logement (APL, ALF, ALS), en 2016.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T21:22:02.685000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/ad042a79-c4b8-4f80-88ef-7d410e121404/resource/36972bb2-019a-4373-835f-544abc34f28e/download/LOGPERSPRESTACOM2016.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "36972bb2-019a-4373-835f-544abc34f28e",
+      "last_modified": "2017-07-26T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/36972bb2-019a-4373-835f-544abc34f28e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": null,
+      "published": "2017-07-02T19:44:11.899000",
+      "title": "Personnes couvertes par une aide au logement en 2016",
+      "url": "http://data.caf.fr/dataset/ad042a79-c4b8-4f80-88ef-7d410e121404/resource/36972bb2-019a-4373-835f-544abc34f28e/download/LOGPERSPRESTACOM2016.csv"
+    }
+  ],
+  "slug": "population-des-foyers-allocatair",
+  "spatial": null,
+  "tags": [
+    "alf",
+    "als",
+    "apl",
+    "commune",
+    "logement",
+    "population"
+  ],
+  "temporal_coverage": null,
+  "title": "Population couverte par une aide personnelle au logement en d\u00e9cembre - par commune",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/population-des-foyers-allocatair/"
+}

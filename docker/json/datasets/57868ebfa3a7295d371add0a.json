@@ -1,0 +1,144 @@
+{
+  "badges": [],
+  "created_at": "2016-07-13T20:55:59.912000",
+  "deleted": null,
+  "description": "Ce jeu pr\u00e9sente la liste des lyc\u00e9es de la r\u00e9gion \u00cele-de-France, \u00e0 la rentr\u00e9e 2014 - 2015.",
+  "extras": {
+    "harvest:domain": "opendata.hauts-de-seine.fr",
+    "harvest:last_update": "2017-11-27T05:27:15.754116",
+    "harvest:remote_id": "lycees-dile-de-france-2014-2015",
+    "harvest:source_id": "5731a6d688ee38379cd1b934",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.hauts-de-seine.fr//explore/dataset/lycees-dile-de-france-2014-2015/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "57868ebfa3a7295d371add0a",
+  "last_modified": "2017-11-27T05:27:15.758000",
+  "last_update": "2017-11-27T05:27:15.752000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "544e1b0888ee38289ae1ed05",
+    "logo": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-100.jpg",
+    "name": "Hauts-de-Seine le D\u00e9partement",
+    "page": "https://www.data.gouv.fr/fr/organizations/hauts-de-seine-le-departement/",
+    "slug": "hauts-de-seine-le-departement",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/hauts-de-seine-le-departement/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/lycees-publics/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:27:15.751000",
+      "description": "- *patronyme*: patronyme[text]\n- *type*: type[text]\n- *adresse_postale*: adresse_postale[text]\n- *cp*: cp[text]\n- *commune*: commune[text]\n- *bp*: bp[int]\n- *localite_acheminement*: localite_acheminement[text]\n- *uai*: uai[text]\n- *wgs84*: wgs84[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2986e7c6-2397-4540-80fb-5febee11508d",
+      "last_modified": "2014-09-23T09:25:45",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2986e7c6-2397-4540-80fb-5febee11508d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:27:15.751000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/lycees-dile-de-france-2014-2015/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:27:15.752000",
+      "description": "- *patronyme*: patronyme[text]\n- *type*: type[text]\n- *adresse_postale*: adresse_postale[text]\n- *cp*: cp[text]\n- *commune*: commune[text]\n- *bp*: bp[int]\n- *localite_acheminement*: localite_acheminement[text]\n- *uai*: uai[text]\n- *wgs84*: wgs84[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "f8aaa5ad-8ad4-48db-aeb7-6c05364d86e0",
+      "last_modified": "2014-09-23T09:25:45",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f8aaa5ad-8ad4-48db-aeb7-6c05364d86e0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:27:15.752000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/lycees-dile-de-france-2014-2015/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:27:15.752000",
+      "description": "- *patronyme*: patronyme[text]\n- *type*: type[text]\n- *adresse_postale*: adresse_postale[text]\n- *cp*: cp[text]\n- *commune*: commune[text]\n- *bp*: bp[int]\n- *localite_acheminement*: localite_acheminement[text]\n- *uai*: uai[text]\n- *wgs84*: wgs84[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "d84627ea-413b-4a67-919b-9fdabf948231",
+      "last_modified": "2014-09-23T09:25:45",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d84627ea-413b-4a67-919b-9fdabf948231",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:27:15.752000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/lycees-dile-de-france-2014-2015/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:27:15.752000",
+      "description": "- *patronyme*: patronyme[text]\n- *type*: type[text]\n- *adresse_postale*: adresse_postale[text]\n- *cp*: cp[text]\n- *commune*: commune[text]\n- *bp*: bp[int]\n- *localite_acheminement*: localite_acheminement[text]\n- *uai*: uai[text]\n- *wgs84*: wgs84[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "086b0e5c-c7bd-4021-b568-14aa8a22e7a6",
+      "last_modified": "2014-09-23T09:25:45",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/086b0e5c-c7bd-4021-b568-14aa8a22e7a6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:27:15.752000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/lycees-dile-de-france-2014-2015/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "lycees-publics",
+  "spatial": null,
+  "tags": [
+    "enseignement-formation",
+    "lycees"
+  ],
+  "temporal_coverage": null,
+  "title": "Lyc\u00e9es publics",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/lycees-publics/"
+}

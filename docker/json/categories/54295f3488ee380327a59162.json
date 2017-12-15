@@ -1,0 +1,67 @@
+{
+  "acronym": null,
+  "badges": [
+    {
+      "kind": "public-service"
+    },
+    {
+      "kind": "certified"
+    }
+  ],
+  "created_at": "2014-09-29T15:31:32.546000",
+  "deleted": null,
+  "description": "Labellis\u00e9 en 2005 p\u00f4le de comp\u00e9titivit\u00e9 \u00e0 vocation mondiale, Images & R\u00e9seaux accompagne les porteurs d'innovation dans leurs projets et active la rencontre des innovateurs, des industriels et des financeurs pour porter collectivement des technologies, des usages et des march\u00e9s. Images & R\u00e9seaux a \u00e9labor\u00e9 sa feuille de route strat\u00e9gique en coh\u00e9rence avec ses grands objectifs march\u00e9s, et les axes de recherche et de d\u00e9veloppement souhait\u00e9s pour accompagner ses membres dans leur d\u00e9veloppement et en coh\u00e9rence avec les strat\u00e9gies r\u00e9gionales d\u2019innovation et de sp\u00e9cialisation intelligente \u00e9labor\u00e9e par ses deux r\u00e9gions d\u2019appartenance. Ces objectifs ambitieux se d\u00e9clinent aussi gr\u00e2ce \u00e0 un r\u00e9seau fort sur le territoire de la Bretagne, des Pays de la Loire, de partenaires du P\u00f4le, les professionnels au service du d\u00e9veloppement \u00e9conomique r\u00e9gional et au-del\u00e0 via l\u2019implication des adh\u00e9rents (industriels, TPE, PME et Grands Groupes, mais aussi les acteurs de la recherche, de la formation)",
+  "id": "54295f3488ee380327a59162",
+  "last_modified": "2017-09-05T03:15:31.453000",
+  "logo": "https://www.data.gouv.fr/s/avatars/17/f3a9357fae402eab0a5e26204ec7ee-original.jpg",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/17/f3a9357fae402eab0a5e26204ec7ee-100.jpg",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/07/fa481b43f34e98b9e6c0d61bb0b0fa-original.jpeg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/07/fa481b43f34e98b9e6c0d61bb0b0fa-100.jpeg",
+        "class": "User",
+        "first_name": "Julie",
+        "id": "54295da688ee380326a5915c",
+        "last_name": "Hary",
+        "page": "https://www.data.gouv.fr/fr/users/julie-hary/",
+        "slug": "julie-hary",
+        "uri": "https://www.data.gouv.fr/api/1/users/julie-hary/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/f7/c171edef834ffaa6c080213f82b2f5-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/f7/c171edef834ffaa6c080213f82b2f5-100.jpg",
+        "class": "User",
+        "first_name": "Simon",
+        "id": "534fff48a3a7292c64a77b50",
+        "last_name": "Chignard",
+        "page": "https://www.data.gouv.fr/fr/users/simon-chignard/",
+        "slug": "simon-chignard",
+        "uri": "https://www.data.gouv.fr/api/1/users/simon-chignard/"
+      }
+    }
+  ],
+  "metrics": {
+    "dataset_views": 6,
+    "datasets": 2,
+    "followers": 3,
+    "members": 2,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 1,
+    "resource_downloads": 52,
+    "reuse_views": 0,
+    "reuses": 1,
+    "views": 40
+  },
+  "name": "Images & R\u00e9seaux",
+  "page": "https://www.data.gouv.fr/fr/organizations/images-reseaux-1/",
+  "slug": "images-reseaux-1",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/images-reseaux-1/",
+  "url": "http://www.images-et-reseaux.com"
+}

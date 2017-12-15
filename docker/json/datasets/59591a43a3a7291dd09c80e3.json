@@ -1,0 +1,147 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T18:07:31.448000",
+  "deleted": null,
+  "description": "Liste des r\u00e9seaux de lecture publique intercommunaux recens\u00e9s par le\u00a0[MOTif](http://www.lemotif.fr/fr/), organisme associ\u00e9 de la R\u00e9gion \u00cele-de-France.\u00a0Chaque r\u00e9seau est renseign\u00e9 concernant ses caract\u00e9ristiques (type de r\u00e9seau, circulation des usagers et des documents, utilisation d'un Syst\u00e8me Int\u00e9gr\u00e9 de Gestion de Biblioth\u00e8que).\n\n _Voir aussi la carte des r\u00e9seaux\u00a0sur CartoDB en[cliquant sur ce lien](https://iledefrance.cartodb.com/viz/8848728a-8c50-11e5-9e64-0ea31932ec1d/public_map) (nouvelle fen\u00eatre)._",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T06:21:54.972362",
+    "harvest:remote_id": "reseaux-de-lecture-publique-intercommunaux",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/reseaux-de-lecture-publique-intercommunaux/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59591a43a3a7291dd09c80e3",
+  "last_modified": "2017-11-27T06:21:54.975000",
+  "last_update": "2017-11-27T06:21:54.971000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/reseaux-de-lecture-publique-intercommunaux/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:21:54.970000",
+      "description": "- *Nom de l'EPCI*: nom_de_l_epci[text]\n- *Type de r\u00e9seau*: type_de_reseau[text]\n- *Utilisation d'un SIGB commun*: utilisation_d_un_sigb_commun[text]\n- *Circulation des usagers*: circulation_des_usagers[text]\n- *Circulation des documents*: circulation_des_documents[text]\n- *Geo Point*: geo_point[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *Siren15*: siren15[double]\n- *Shape_Leng*: shape_leng[text]\n- *Shape_Area*: shape_area[text]\n- *Departement*: departement[text]\n- *N.B.*: n_b[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b93f02d5-e629-44a4-b4c4-eb9fb64e2b43",
+      "last_modified": "2015-11-16T15:17:40",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b93f02d5-e629-44a4-b4c4-eb9fb64e2b43",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T06:21:54.970000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/reseaux-de-lecture-publique-intercommunaux/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:21:54.970000",
+      "description": "- *Nom de l'EPCI*: nom_de_l_epci[text]\n- *Type de r\u00e9seau*: type_de_reseau[text]\n- *Utilisation d'un SIGB commun*: utilisation_d_un_sigb_commun[text]\n- *Circulation des usagers*: circulation_des_usagers[text]\n- *Circulation des documents*: circulation_des_documents[text]\n- *Geo Point*: geo_point[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *Siren15*: siren15[double]\n- *Shape_Leng*: shape_leng[text]\n- *Shape_Area*: shape_area[text]\n- *Departement*: departement[text]\n- *N.B.*: n_b[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "d3cc565b-01cf-4703-a705-919aad9e13eb",
+      "last_modified": "2015-11-16T15:17:40",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d3cc565b-01cf-4703-a705-919aad9e13eb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T06:21:54.970000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/reseaux-de-lecture-publique-intercommunaux/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:21:54.971000",
+      "description": "- *Nom de l'EPCI*: nom_de_l_epci[text]\n- *Type de r\u00e9seau*: type_de_reseau[text]\n- *Utilisation d'un SIGB commun*: utilisation_d_un_sigb_commun[text]\n- *Circulation des usagers*: circulation_des_usagers[text]\n- *Circulation des documents*: circulation_des_documents[text]\n- *Geo Point*: geo_point[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *Siren15*: siren15[double]\n- *Shape_Leng*: shape_leng[text]\n- *Shape_Area*: shape_area[text]\n- *Departement*: departement[text]\n- *N.B.*: n_b[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "49f7868f-88f0-4e9d-b6ab-7f1d81fd10e5",
+      "last_modified": "2015-11-16T15:17:40",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/49f7868f-88f0-4e9d-b6ab-7f1d81fd10e5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T06:21:54.971000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/reseaux-de-lecture-publique-intercommunaux/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:21:54.971000",
+      "description": "- *Nom de l'EPCI*: nom_de_l_epci[text]\n- *Type de r\u00e9seau*: type_de_reseau[text]\n- *Utilisation d'un SIGB commun*: utilisation_d_un_sigb_commun[text]\n- *Circulation des usagers*: circulation_des_usagers[text]\n- *Circulation des documents*: circulation_des_documents[text]\n- *Geo Point*: geo_point[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *Siren15*: siren15[double]\n- *Shape_Leng*: shape_leng[text]\n- *Shape_Area*: shape_area[text]\n- *Departement*: departement[text]\n- *N.B.*: n_b[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "43ef2dac-c901-4ae6-8649-7eb364c2af56",
+      "last_modified": "2015-11-16T15:17:40",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/43ef2dac-c901-4ae6-8649-7eb364c2af56",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T06:21:54.971000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.iledefrance.fr//explore/dataset/reseaux-de-lecture-publique-intercommunaux/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "reseaux-de-lecture-publique-intercommunaux",
+  "spatial": null,
+  "tags": [
+    "culture",
+    "equipement-culturel",
+    "lecture",
+    "litterature",
+    "livre",
+    "vie-culturelle"
+  ],
+  "temporal_coverage": null,
+  "title": "R\u00e9seaux de lecture publique intercommunaux",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/reseaux-de-lecture-publique-intercommunaux/"
+}

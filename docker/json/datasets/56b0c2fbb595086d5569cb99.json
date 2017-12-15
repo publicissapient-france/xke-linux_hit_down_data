@@ -1,0 +1,146 @@
+{
+  "badges": [],
+  "created_at": "2016-02-02T15:53:47.236000",
+  "deleted": null,
+  "description": "Localisation des m\u00e9diath\u00e8ques, biblioth\u00e8ques et bibliobus sur le territoire de Toulouse",
+  "extras": {
+    "harvest:domain": "data.toulouse-metropole.fr",
+    "harvest:last_update": "2017-11-27T05:18:21.302359",
+    "harvest:remote_id": "mediatheques-bibliotheques-et-bibliobus",
+    "harvest:source_id": "564c3680c751df607daad370",
+    "ods:has_records": true,
+    "ods:url": "https://data.toulouse-metropole.fr//explore/dataset/mediatheques-bibliotheques-et-bibliobus/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "56b0c2fbb595086d5569cb99",
+  "last_modified": "2017-11-27T05:18:21.304000",
+  "last_update": "2017-11-27T05:18:21.301000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb3a3a7292c64a78129",
+    "logo": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-100.jpg",
+    "name": "Toulouse m\u00e9trople",
+    "page": "https://www.data.gouv.fr/fr/organizations/toulouse-metrople/",
+    "slug": "toulouse-metrople",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/toulouse-metrople/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/mediatheques-bibliotheques-et-bibliobus/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:18:21.301000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *Description*: description[text]\n- *Nom*: nom[text]\n- *Numero*: numero[text]\n- *Adresse*: adresse[text]\n- *Horaire*: horaire[text]\n- *Telephone*: telephone[text]\n- *Telephone_2*: telephone_2[text]\n- *CP*: cp[text]\n- *Ville*: ville[text]\n- *Site_Internet*: site_internet[text]\n- *Acces*: acces[text]\n- *Classe*: classe[text]\n- *Parking*: parking[text]\n- *Accessibilite*: accessibilite[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "aae3c9f8-21ac-49e6-9d1b-9a25a3d7c275",
+      "last_modified": "2015-01-01T11:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/aae3c9f8-21ac-49e6-9d1b-9a25a3d7c275",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:18:21.301000",
+      "title": "Export au format CSV",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/mediatheques-bibliotheques-et-bibliobus/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:18:21.301000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *Description*: description[text]\n- *Nom*: nom[text]\n- *Numero*: numero[text]\n- *Adresse*: adresse[text]\n- *Horaire*: horaire[text]\n- *Telephone*: telephone[text]\n- *Telephone_2*: telephone_2[text]\n- *CP*: cp[text]\n- *Ville*: ville[text]\n- *Site_Internet*: site_internet[text]\n- *Acces*: acces[text]\n- *Classe*: classe[text]\n- *Parking*: parking[text]\n- *Accessibilite*: accessibilite[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "0bca2aa3-8887-45f5-b31c-1639f9b450f7",
+      "last_modified": "2015-01-01T11:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0bca2aa3-8887-45f5-b31c-1639f9b450f7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:18:21.301000",
+      "title": "Export au format JSON",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/mediatheques-bibliotheques-et-bibliobus/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:18:21.301000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *Description*: description[text]\n- *Nom*: nom[text]\n- *Numero*: numero[text]\n- *Adresse*: adresse[text]\n- *Horaire*: horaire[text]\n- *Telephone*: telephone[text]\n- *Telephone_2*: telephone_2[text]\n- *CP*: cp[text]\n- *Ville*: ville[text]\n- *Site_Internet*: site_internet[text]\n- *Acces*: acces[text]\n- *Classe*: classe[text]\n- *Parking*: parking[text]\n- *Accessibilite*: accessibilite[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "e6d9168a-ebec-43e1-82e5-d20caa36bf08",
+      "last_modified": "2015-01-01T11:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e6d9168a-ebec-43e1-82e5-d20caa36bf08",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:18:21.301000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/mediatheques-bibliotheques-et-bibliobus/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:18:21.301000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *Description*: description[text]\n- *Nom*: nom[text]\n- *Numero*: numero[text]\n- *Adresse*: adresse[text]\n- *Horaire*: horaire[text]\n- *Telephone*: telephone[text]\n- *Telephone_2*: telephone_2[text]\n- *CP*: cp[text]\n- *Ville*: ville[text]\n- *Site_Internet*: site_internet[text]\n- *Acces*: acces[text]\n- *Classe*: classe[text]\n- *Parking*: parking[text]\n- *Accessibilite*: accessibilite[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "74d4de2e-eff5-41ba-b6dd-aa3bcf0696c3",
+      "last_modified": "2015-01-01T11:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/74d4de2e-eff5-41ba-b6dd-aa3bcf0696c3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:18:21.301000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/mediatheques-bibliotheques-et-bibliobus/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "mediatheques-bibliotheques-et-bibliobus",
+  "spatial": null,
+  "tags": [
+    "bibliobus",
+    "culture",
+    "localisation",
+    "mediatheques"
+  ],
+  "temporal_coverage": null,
+  "title": "M\u00e9diath\u00e8ques, Biblioth\u00e8ques et Bibliobus",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/mediatheques-bibliotheques-et-bibliobus/"
+}

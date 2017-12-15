@@ -1,0 +1,106 @@
+{
+  "badges": [],
+  "created_at": "2017-07-05T01:37:01.268000",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es contient la liste des entreprises iss\u00e9ennes membres de Cap Digital.  \n<http://www.capdigital.com>\n\nFichier source et liste compl\u00e8te:\u00a0<https://www.data.gouv.fr/fr/datasets/membres-du-pole-cap-digital>\n\nCr\u00e9\u00e9 en 2006, Cap Digital est le p\u00f4le de comp\u00e9titivit\u00e9 et de transformation num\u00e9rique. Il regroupe 800 adh\u00e9rents : 670 PME, 50 ETI/GE/EPIC, 70 \u00e9coles, laboratoires de recherche et universit\u00e9s en relation directe avec les entreprises notamment au travers de plusieurs centaines de projets collaboratifs en cours.",
+  "extras": {
+    "harvest:domain": "data.issy.com",
+    "harvest:last_update": "2017-11-27T05:06:05.529753",
+    "harvest:remote_id": "membres_capdigital_160315",
+    "harvest:source_id": "595c266188ee382c7517add5",
+    "ods:has_records": true,
+    "ods:url": "https://data.issy.com//explore/dataset/membres_capdigital_160315/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "595c269da3a7296408d69b64",
+  "last_modified": "2017-11-27T05:06:05.536000",
+  "last_update": "2017-11-27T05:06:05.528000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb7a3a7292c64a78145",
+    "logo": "https://www.data.gouv.fr/s/avatars/b9/beecacecbd4d42ac10ef244f11e44e-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b9/beecacecbd4d42ac10ef244f11e44e-100.png",
+    "name": "Ville d'Issy-les-Moulineaux",
+    "page": "https://www.data.gouv.fr/fr/organizations/ville-d-issy-les-moulineaux/",
+    "slug": "ville-d-issy-les-moulineaux",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ville-d-issy-les-moulineaux/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/les-entreprises-isseennes-membres-de-cap-digital-1/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:06:05.528000",
+      "description": "- *Raison sociale*: raison_sociale[text]\n- *Coll\u00e8ge*: college[text]\n- *Pr\u00e9sentation*: presentation[text]\n- *Adresse*: courrier_rue_1[text]\n- *Code postal*: courrier_code_postal[int]\n- *Ville*: courrier_ville[text]\n- *Site web*: site_web[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "8cbee1d6-cee6-4b0c-91eb-3d0d18911313",
+      "last_modified": "2015-03-18T09:12:34",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8cbee1d6-cee6-4b0c-91eb-3d0d18911313",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:06:05.528000",
+      "title": "Export au format CSV",
+      "url": "https://data.issy.com//explore/dataset/membres_capdigital_160315/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:06:05.528000",
+      "description": "- *Raison sociale*: raison_sociale[text]\n- *Coll\u00e8ge*: college[text]\n- *Pr\u00e9sentation*: presentation[text]\n- *Adresse*: courrier_rue_1[text]\n- *Code postal*: courrier_code_postal[int]\n- *Ville*: courrier_ville[text]\n- *Site web*: site_web[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "fb80fdd5-053f-4484-8f11-9db8a20e71e3",
+      "last_modified": "2015-03-18T09:12:34",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fb80fdd5-053f-4484-8f11-9db8a20e71e3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:06:05.528000",
+      "title": "Export au format JSON",
+      "url": "https://data.issy.com//explore/dataset/membres_capdigital_160315/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "les-entreprises-isseennes-membres-de-cap-digital-1",
+  "spatial": null,
+  "tags": [
+    "business",
+    "cap-digital",
+    "developpement-economique",
+    "economie",
+    "emploi",
+    "entreprises",
+    "innovation",
+    "numerique",
+    "pme"
+  ],
+  "temporal_coverage": null,
+  "title": "Les entreprises iss\u00e9ennes membres de Cap Digital",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/les-entreprises-isseennes-membres-de-cap-digital-1/"
+}

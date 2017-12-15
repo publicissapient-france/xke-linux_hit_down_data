@@ -1,0 +1,53 @@
+{
+  "acronym": null,
+  "badges": [
+    {
+      "kind": "public-service"
+    },
+    {
+      "kind": "certified"
+    }
+  ],
+  "created_at": "2014-04-17T18:21:58.627000",
+  "deleted": null,
+  "description": "Le Groupe RATP est le cinqui\u00e8me acteur mondial du transport public. Associ\u00e9 depuis toujours \u00e0 Paris et \u00e0 son m\u00e9tro centenaire, le plus dense au monde, le groupe RATP est fort d\u2019une exp\u00e9rience unique dans la conception, la gestion des projets, l\u2019exploitation et la maintenance de tous les modes de transports publics urbains et interurbains : ferroviaire, m\u00e9tro, tramway et bus. Il assure quotidiennement la mobilit\u00e9 de 12 millions de personnes en France et dans le monde. Avec ses 14 lignes de m\u00e9tro, ses deux lignes de RER (lignes A et B), ses 6 lignes de tramway (T1, T2, T3a, T3b, T5, T7), ses 350 lignes de bus et ses services de navette en direction de deux a\u00e9roports de la r\u00e9gion parisienne, le r\u00e9seau multimodal exploit\u00e9 par la RATP en Ile-de-France est l\u2019un des plus importants au monde.",
+  "id": "534fffa6a3a7292c64a780b7",
+  "last_modified": "2017-11-25T23:43:23.016000",
+  "logo": "https://www.data.gouv.fr/s/avatars/91/5b9234998a4a288198a725129b4b0b-original.jpg",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/91/5b9234998a4a288198a725129b4b0b-100.jpg",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/32/d3a66ffdd1480581349a332fd30078-original.png",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/32/d3a66ffdd1480581349a332fd30078-100.png",
+        "class": "User",
+        "first_name": "R\u00e9gie Autonome des Transports Parisiens",
+        "id": "534fff47a3a7292c64a77ac6",
+        "last_name": "(RATP)",
+        "page": "https://www.data.gouv.fr/fr/users/regie-autonome-des-transports-parisiens-ratp/",
+        "slug": "regie-autonome-des-transports-parisiens-ratp",
+        "uri": "https://www.data.gouv.fr/api/1/users/regie-autonome-des-transports-parisiens-ratp/"
+      }
+    }
+  ],
+  "metrics": {
+    "dataset_views": 2112,
+    "datasets": 29,
+    "followers": 37,
+    "members": 1,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 17,
+    "resource_downloads": 1159,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 918
+  },
+  "name": "R\u00e9gie autonome des transports parisiens (RATP)",
+  "page": "https://www.data.gouv.fr/fr/organizations/regie-autonome-des-transports-parisiens-ratp/",
+  "slug": "regie-autonome-des-transports-parisiens-ratp",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/regie-autonome-des-transports-parisiens-ratp/",
+  "url": "http://data.ratp.fr"
+}

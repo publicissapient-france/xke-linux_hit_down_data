@@ -1,0 +1,136 @@
+{
+  "badges": [],
+  "created_at": "2014-11-06T00:00:00",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es renseigne le nombre de naissances enregistr\u00e9 par mois \u00e0 Nice pour l'ann\u00e9e 2014.",
+  "extras": {
+    "ckan:name": "nombre-de-naissances-par-mois-pour-l-annee-2014",
+    "harvest:domain": "opendata.nicecotedazur.org",
+    "harvest:last_update": "2017-09-05T15:33:09.131203",
+    "harvest:remote_id": "4b2c6650-0649-4a0d-8fe7-590b09c48fdb",
+    "harvest:source_id": "59aea691c751df40c6e8212c"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59aea795a3a72917d9f3fc7e",
+  "last_modified": "2017-09-05T15:33:09.132000",
+  "last_update": "2017-09-05T15:33:09.130000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "59aea226c751df38f3f6834b",
+    "logo": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-100.png",
+    "name": "Nice C\u00f4te d'Azur",
+    "page": "https://www.data.gouv.fr/fr/organizations/nice-cote-dazur/",
+    "slug": "nice-cote-dazur",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nice-cote-dazur/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/nombre-de-naissances-par-mois-pour-l-annee-2014/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:09.129000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T06:56:44.586000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2015-01-06T07%3A52%3A42.969Z/2014-nombre-de-naissances-par-mois.xls"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xls",
+      "id": "10351d2d-1151-40f9-aa95-4a1ec6ce5298",
+      "last_modified": "2015-01-06T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/10351d2d-1151-40f9-aa95-4a1ec6ce5298",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.ms-excel",
+      "published": "2017-09-05T15:33:09.129000",
+      "title": "2014 Nombre de naissances par mois.xls",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2015-01-06T07%3A52%3A42.969Z/2014-nombre-de-naissances-par-mois.xls"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:09.130000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T06:56:41.778000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2015-01-06T07%3A53%3A02.912Z/2014-nombre-de-naissances-par-mois.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "64d94e28-ba9a-4e3d-9f6b-a9b3a821b704",
+      "last_modified": "2015-01-06T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/64d94e28-ba9a-4e3d-9f6b-a9b3a821b704",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-05T15:33:09.130000",
+      "title": "2014 Nombre de naissances par mois.csv",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2015-01-06T07%3A53%3A02.912Z/2014-nombre-de-naissances-par-mois.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:09.130000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T06:56:42.438000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2015-01-06T07%3A53%3A19.039Z/2014-nombre-de-naissances-par-mois.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "9d0a027e-e2c8-4c1b-8fdb-cee9f3eef731",
+      "last_modified": "2015-01-06T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9d0a027e-e2c8-4c1b-8fdb-cee9f3eef731",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.oasis.opendocument.spreadsheet",
+      "published": "2017-09-05T15:33:09.130000",
+      "title": "2014 Nombre de naissances par mois.ods",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2015-01-06T07%3A53%3A19.039Z/2014-nombre-de-naissances-par-mois.ods"
+    }
+  ],
+  "slug": "nombre-de-naissances-par-mois-pour-l-annee-2014",
+  "spatial": null,
+  "tags": [
+    "mensuel",
+    "naissance",
+    "nombre"
+  ],
+  "temporal_coverage": null,
+  "title": "Nombre de naissances par mois pour l'ann\u00e9e 2014",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/nombre-de-naissances-par-mois-pour-l-annee-2014/"
+}

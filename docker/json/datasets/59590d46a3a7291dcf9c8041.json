@@ -1,0 +1,146 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T17:12:06.829000",
+  "deleted": null,
+  "description": "Liste des march\u00e9s de quartier en 2012 avec :  \n\u2022 Adresse du site  \n\u2022 Jours et horaires d'ouverture (ils sont fixes)  \n\u2022 Type du march\u00e9 : alimentaires couverts,alimentaires d\u00e9couverts,fleurs,timbres,cr\u00e9ation,puces,biologique",
+  "extras": {
+    "harvest:domain": "opendata.paris.fr",
+    "harvest:last_update": "2017-11-27T05:09:06.846334",
+    "harvest:remote_id": "liste_des_marches_de_quartier_a_paris",
+    "harvest:source_id": "5631ef2988ee3837ce531585",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.paris.fr/explore/dataset/liste_des_marches_de_quartier_a_paris/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59590d46a3a7291dcf9c8041",
+  "last_modified": "2017-11-27T05:09:06.865000",
+  "last_update": "2017-11-27T05:09:06.845000",
+  "license": "odc-odbl",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff89a3a7292c64a77eb7",
+    "logo": "https://www.data.gouv.fr/s/avatars/b2/0e83ec3699415a87640e97c51cb006-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b2/0e83ec3699415a87640e97c51cb006-100.png",
+    "name": "Mairie de Paris",
+    "page": "https://www.data.gouv.fr/fr/organizations/mairie-de-paris/",
+    "slug": "mairie-de-paris",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/mairie-de-paris/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-marches-de-quartier-a-paris/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:09:06.845000",
+      "description": "- *Type*: type[text]\n- *Soci\u00e9t\u00e9 gestionnaire*: societe_gestionnaire[text]\n- *March\u00e9*: marche[text]\n- *Arrondissement*: arrondissement[int]\n- *Localisation*: localisation[text]\n- *Adresse Compl\u00e8te (POI approchant)*: adresse_complete_poi_approchant[text]\n- *Lundi*: lundi[text]\n- *Mardi*: mardi[text]\n- *Mercredi*: mercredi[text]\n- *Jeudi*: jeudi[text]\n- *Vendredi*: vendredi[text]\n- *Samedi*: samedi[text]\n- *Dimanche*: dimanche[text]\n- *Jour f\u00e9ri\u00e9*: jour_ferie[text]\n- *geo_coordinates*: geo_coordinates[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "9b50b8d9-0595-4a77-be19-a2fa8bbb9dd5",
+      "last_modified": "2013-07-29T10:26:20",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9b50b8d9-0595-4a77-be19-a2fa8bbb9dd5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:09:06.845000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.paris.fr/explore/dataset/liste_des_marches_de_quartier_a_paris/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:09:06.845000",
+      "description": "- *Type*: type[text]\n- *Soci\u00e9t\u00e9 gestionnaire*: societe_gestionnaire[text]\n- *March\u00e9*: marche[text]\n- *Arrondissement*: arrondissement[int]\n- *Localisation*: localisation[text]\n- *Adresse Compl\u00e8te (POI approchant)*: adresse_complete_poi_approchant[text]\n- *Lundi*: lundi[text]\n- *Mardi*: mardi[text]\n- *Mercredi*: mercredi[text]\n- *Jeudi*: jeudi[text]\n- *Vendredi*: vendredi[text]\n- *Samedi*: samedi[text]\n- *Dimanche*: dimanche[text]\n- *Jour f\u00e9ri\u00e9*: jour_ferie[text]\n- *geo_coordinates*: geo_coordinates[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "fdefa2ee-839a-4a2f-964e-03abb28b0ca9",
+      "last_modified": "2013-07-29T10:26:20",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fdefa2ee-839a-4a2f-964e-03abb28b0ca9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:09:06.845000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.paris.fr/explore/dataset/liste_des_marches_de_quartier_a_paris/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:09:06.845000",
+      "description": "- *Type*: type[text]\n- *Soci\u00e9t\u00e9 gestionnaire*: societe_gestionnaire[text]\n- *March\u00e9*: marche[text]\n- *Arrondissement*: arrondissement[int]\n- *Localisation*: localisation[text]\n- *Adresse Compl\u00e8te (POI approchant)*: adresse_complete_poi_approchant[text]\n- *Lundi*: lundi[text]\n- *Mardi*: mardi[text]\n- *Mercredi*: mercredi[text]\n- *Jeudi*: jeudi[text]\n- *Vendredi*: vendredi[text]\n- *Samedi*: samedi[text]\n- *Dimanche*: dimanche[text]\n- *Jour f\u00e9ri\u00e9*: jour_ferie[text]\n- *geo_coordinates*: geo_coordinates[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "5f9d88e5-c75b-4aae-a090-f0e72bba2e92",
+      "last_modified": "2013-07-29T10:26:20",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5f9d88e5-c75b-4aae-a090-f0e72bba2e92",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:09:06.845000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.paris.fr/explore/dataset/liste_des_marches_de_quartier_a_paris/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:09:06.845000",
+      "description": "- *Type*: type[text]\n- *Soci\u00e9t\u00e9 gestionnaire*: societe_gestionnaire[text]\n- *March\u00e9*: marche[text]\n- *Arrondissement*: arrondissement[int]\n- *Localisation*: localisation[text]\n- *Adresse Compl\u00e8te (POI approchant)*: adresse_complete_poi_approchant[text]\n- *Lundi*: lundi[text]\n- *Mardi*: mardi[text]\n- *Mercredi*: mercredi[text]\n- *Jeudi*: jeudi[text]\n- *Vendredi*: vendredi[text]\n- *Samedi*: samedi[text]\n- *Dimanche*: dimanche[text]\n- *Jour f\u00e9ri\u00e9*: jour_ferie[text]\n- *geo_coordinates*: geo_coordinates[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "e9851dd0-aba3-42c5-8511-758bfb4cb4d2",
+      "last_modified": "2013-07-29T10:26:20",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e9851dd0-aba3-42c5-8511-758bfb4cb4d2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:09:06.845000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.paris.fr/explore/dataset/liste_des_marches_de_quartier_a_paris/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "liste-des-marches-de-quartier-a-paris",
+  "spatial": null,
+  "tags": [
+    "equipements",
+    "marche",
+    "quartier",
+    "services",
+    "social"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des march\u00e9s de quartier \u00e0 Paris",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-marches-de-quartier-a-paris/"
+}

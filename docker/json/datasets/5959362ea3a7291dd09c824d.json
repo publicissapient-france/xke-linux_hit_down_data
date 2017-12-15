@@ -1,0 +1,103 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T20:06:38.525000",
+  "deleted": null,
+  "description": "Provisions risques et charges 2016 issus du Rapport Financier du groupe SNCF R\u00e9seau au 31 d\u00e9cembre 2016 (Comptes sociaux de l'EPIC SNCF R\u00c9SEAU)",
+  "extras": {
+    "harvest:domain": "ressources.data.sncf.com",
+    "harvest:last_update": "2017-11-27T05:02:01.140534",
+    "harvest:remote_id": "provisions-risques-et-charges-2016-cso",
+    "harvest:source_id": "563dd01f88ee386a21e72046",
+    "ods:has_records": true,
+    "ods:url": "https://ressources.data.sncf.com/explore/dataset/provisions-risques-et-charges-2016-cso/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5959362ea3a7291dd09c824d",
+  "last_modified": "2017-11-27T05:02:01.143000",
+  "last_update": "2017-11-27T05:02:01.139000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb0a3a7292c64a78115",
+    "logo": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-100.png",
+    "name": "SNCF",
+    "page": "https://www.data.gouv.fr/fr/organizations/sncf/",
+    "slug": "sncf",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/sncf/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/provisions-risques-et-charges-sncf-reseau-2016-cso/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:02:01.139000",
+      "description": "- *#*: id[double]\n- *En millions d'euros*: en_millions_d_euros[text]\n- *31/12/2015*: 2015_12_31_00_00_00[double]\n- *Dotations *: dotations[double]\n- *Reprises*: reprises[double]\n- *Reclassement*: reclassement[text]\n- *31/12/2016*: 2016_12_31_00_00_00[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "0dab6cee-9af9-4c7a-8bff-ce6ffb8912e1",
+      "last_modified": "2017-04-03T15:40:10",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0dab6cee-9af9-4c7a-8bff-ce6ffb8912e1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:02:01.139000",
+      "title": "Export au format CSV",
+      "url": "https://ressources.data.sncf.com/explore/dataset/provisions-risques-et-charges-2016-cso/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:02:01.139000",
+      "description": "- *#*: id[double]\n- *En millions d'euros*: en_millions_d_euros[text]\n- *31/12/2015*: 2015_12_31_00_00_00[double]\n- *Dotations *: dotations[double]\n- *Reprises*: reprises[double]\n- *Reclassement*: reclassement[text]\n- *31/12/2016*: 2016_12_31_00_00_00[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "5d4295a9-b270-425f-88ed-8428b5a67918",
+      "last_modified": "2017-04-03T15:40:10",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5d4295a9-b270-425f-88ed-8428b5a67918",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:02:01.139000",
+      "title": "Export au format JSON",
+      "url": "https://ressources.data.sncf.com/explore/dataset/provisions-risques-et-charges-2016-cso/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "provisions-risques-et-charges-sncf-reseau-2016-cso",
+  "spatial": null,
+  "tags": [
+    "charges",
+    "comptes-sociaux",
+    "provisions",
+    "rapport-financier",
+    "risques",
+    "sncf-reseau"
+  ],
+  "temporal_coverage": null,
+  "title": "Provisions risques et charges SNCF R\u00e9seau 2016 CSO",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/provisions-risques-et-charges-sncf-reseau-2016-cso/"
+}

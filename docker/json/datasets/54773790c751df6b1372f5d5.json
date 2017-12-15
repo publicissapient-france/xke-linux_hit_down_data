@@ -1,0 +1,128 @@
+{
+  "badges": [],
+  "created_at": "2014-11-27T15:39:12.785000",
+  "deleted": null,
+  "description": "L'Universit\u00e9 Toulouse 1 Capitole diffuse depuis quelques ann\u00e9es une liste noire d'URLs, g\u00e9r\u00e9e par Fabrice Prigent afin de permettre un meilleur contr\u00f4le de l'utilisation d'Internet. Cette base, largement utilis\u00e9e par les \u00e9coles, peut s'int\u00e9grer dans un grand nombre d'outils libres ou commerciaux, en compl\u00e9ment d'autres listes. \r\n\r\n-->> http://dsi.ut-capitole.fr/blacklists/",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": null,
+  "id": "54773790c751df6b1372f5d5",
+  "last_modified": "2016-02-10T07:35:17.949000",
+  "last_update": "2014-11-27T15:40:40.165000",
+  "license": "cc-by-sa",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 4
+  },
+  "organization": null,
+  "owner": {
+    "avatar": null,
+    "avatar_thumbnail": null,
+    "class": "User",
+    "first_name": "Hubert",
+    "id": "534fff41a3a7292c64a7772a",
+    "last_name": "Goffin",
+    "page": "https://www.data.gouv.fr/fr/users/hubert-goffin/",
+    "slug": "hubert-goffin",
+    "uri": "https://www.data.gouv.fr/api/1/users/hubert-goffin/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-noire-durls/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "64b74cb738da83719cf2740a54d6ee588914587c"
+      },
+      "created_at": "2014-11-27T15:39:56.426000",
+      "description": "Extraction au format CSV",
+      "extras": {},
+      "filesize": 44222781,
+      "filetype": "file",
+      "format": "csv",
+      "id": "c3e64b3b-0c40-4ffb-9514-2f0b00870f49",
+      "last_modified": "2014-11-27T15:39:56.426000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c3e64b3b-0c40-4ffb-9514-2f0b00870f49",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 29
+      },
+      "mime": "text/csv",
+      "published": "2014-11-27T15:39:56.426000",
+      "title": "Liste Noire d'URL",
+      "url": "https://www.data.gouv.fr/s/resources/liste-noire-durls/20141127-153953/liste.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "26e021f04eafd20e7a347bacebc32b37eb2835f8"
+      },
+      "created_at": "2014-11-27T15:40:17.480000",
+      "description": "Les fichiers bruts",
+      "extras": {},
+      "filesize": 8845878,
+      "filetype": "file",
+      "format": "tar.gz",
+      "id": "fbfa453d-cfa8-4cc2-a27e-bf0af833152e",
+      "last_modified": "2014-11-27T15:40:17.480000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fbfa453d-cfa8-4cc2-a27e-bf0af833152e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 4
+      },
+      "mime": "application/x-tar",
+      "published": "2014-11-27T15:40:17.480000",
+      "title": "Fichiers Bruts",
+      "url": "https://www.data.gouv.fr/s/resources/liste-noire-durls/20141127-154014/blacklists.tar.gz"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "d13fd9c1e88f737d40ca91762e632134c14eecd0"
+      },
+      "created_at": "2014-11-27T15:40:40.165000",
+      "description": "Le Fichier README",
+      "extras": {},
+      "filesize": 3903,
+      "filetype": "file",
+      "format": null,
+      "id": "779c9734-2f86-41b0-ba8c-b9905017ed76",
+      "last_modified": "2014-11-27T15:40:40.165000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/779c9734-2f86-41b0-ba8c-b9905017ed76",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2014-11-27T15:40:40.165000",
+      "title": "README",
+      "url": "https://www.data.gouv.fr/s/resources/liste-noire-durls/20141127-154029/README"
+    }
+  ],
+  "slug": "liste-noire-durls",
+  "spatial": {
+    "geom": null,
+    "granularity": "other",
+    "zones": []
+  },
+  "tags": [
+    "internet",
+    "liste-noire",
+    "url"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste noire d'URLs",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-noire-durls/"
+}

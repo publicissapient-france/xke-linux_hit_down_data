@@ -1,0 +1,151 @@
+{
+  "badges": [],
+  "created_at": "2016-07-13T20:15:50.354000",
+  "deleted": null,
+  "description": "Historique r\u00e9gional d\u00e9finitif de la r\u00e9alisation de l\u2019\u00e9quilibre mensuel production/consommation (GWh) en fonction de la consommation brute, du solde des \u00e9changes physiques avec l\u2019\u00e9tranger, des soutirages dus au pompage.\n\n __\n\n* * *\n\n**Monthly supply / demand balance (january\u00a02014 to december 2016)**\n\nFinal Regional monthly history of supply/demand balance (GWh) based on gross consumption, the balance of physical exchanges with foreign countries and offtakes due to pumping.\n\n **Keywords :** Electricity, Consumption, Generation, Pumping, Interconnection, Monthly overview",
+  "extras": {
+    "harvest:domain": "opendata.rte-france.com",
+    "harvest:last_update": "2017-11-27T05:14:36.561803",
+    "harvest:remote_id": "equilibre_territoire_mensuel_prod_conso_brute",
+    "harvest:source_id": "56ebe63cc751df69fa170353",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.rte-france.com//explore/dataset/equilibre_territoire_mensuel_prod_conso_brute/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "57868556a3a7294a03b1b6fa",
+  "last_modified": "2017-11-27T05:14:36.568000",
+  "last_update": "2017-11-27T05:14:36.560000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "RTE",
+    "class": "Organization",
+    "id": "55f03e1088ee384bc1a46ec1",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-09-09/595e18df74fa490f93c7b2f52c28730e/sans-titre-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-09-09/595e18df74fa490f93c7b2f52c28730e/sans-titre-100.png",
+    "name": "R\u00e9seau de Transport d'Electricit\u00e9",
+    "page": "https://www.data.gouv.fr/fr/organizations/reseau-de-transport-delectricite/",
+    "slug": "reseau-de-transport-delectricite",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/reseau-de-transport-delectricite/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/equilibre-regional-mensuel-production-consommation-brute-janvier-2014-a-decembre-2016/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:36.559000",
+      "description": "- *Date*: annee[date]\n- *insee_region*: insee_region[text]\n- *R\u00e9gion*: regions_nouvelles[text]\n- *Production totale (MWh)*: production_totale_mwh[double]\n- *Pompage (MWh)*: pompage_mwh[double]\n- *Solde des \u00e9changes physiques (MWh)*: solde_des_echanges_physiques_mwh[double]\n- *Consommation brute (MWh)*: consommation_brute_mwh[double]\n- *Geo Shape*: geo_shape[geo_shape]\n- *Geo Point*: geo_point[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "90965ae1-422c-47c9-a436-0c79ebbf744c",
+      "last_modified": "2017-02-15T16:09:54",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/90965ae1-422c-47c9-a436-0c79ebbf744c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:14:36.559000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.rte-france.com//explore/dataset/equilibre_territoire_mensuel_prod_conso_brute/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:36.559000",
+      "description": "- *Date*: annee[date]\n- *insee_region*: insee_region[text]\n- *R\u00e9gion*: regions_nouvelles[text]\n- *Production totale (MWh)*: production_totale_mwh[double]\n- *Pompage (MWh)*: pompage_mwh[double]\n- *Solde des \u00e9changes physiques (MWh)*: solde_des_echanges_physiques_mwh[double]\n- *Consommation brute (MWh)*: consommation_brute_mwh[double]\n- *Geo Shape*: geo_shape[geo_shape]\n- *Geo Point*: geo_point[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "8d5f7831-6f27-4481-ac53-0ab56fcc38f1",
+      "last_modified": "2017-02-15T16:09:54",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8d5f7831-6f27-4481-ac53-0ab56fcc38f1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:14:36.559000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.rte-france.com//explore/dataset/equilibre_territoire_mensuel_prod_conso_brute/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:36.560000",
+      "description": "- *Date*: annee[date]\n- *insee_region*: insee_region[text]\n- *R\u00e9gion*: regions_nouvelles[text]\n- *Production totale (MWh)*: production_totale_mwh[double]\n- *Pompage (MWh)*: pompage_mwh[double]\n- *Solde des \u00e9changes physiques (MWh)*: solde_des_echanges_physiques_mwh[double]\n- *Consommation brute (MWh)*: consommation_brute_mwh[double]\n- *Geo Shape*: geo_shape[geo_shape]\n- *Geo Point*: geo_point[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "33498618-1ff4-4ef3-ac34-03214f686996",
+      "last_modified": "2017-02-15T16:09:54",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/33498618-1ff4-4ef3-ac34-03214f686996",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:14:36.560000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.rte-france.com//explore/dataset/equilibre_territoire_mensuel_prod_conso_brute/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:36.560000",
+      "description": "- *Date*: annee[date]\n- *insee_region*: insee_region[text]\n- *R\u00e9gion*: regions_nouvelles[text]\n- *Production totale (MWh)*: production_totale_mwh[double]\n- *Pompage (MWh)*: pompage_mwh[double]\n- *Solde des \u00e9changes physiques (MWh)*: solde_des_echanges_physiques_mwh[double]\n- *Consommation brute (MWh)*: consommation_brute_mwh[double]\n- *Geo Shape*: geo_shape[geo_shape]\n- *Geo Point*: geo_point[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "cc609232-0fa6-4204-a37f-15e98d09f7f6",
+      "last_modified": "2017-02-15T16:09:54",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cc609232-0fa6-4204-a37f-15e98d09f7f6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:14:36.560000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.rte-france.com//explore/dataset/equilibre_territoire_mensuel_prod_conso_brute/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "equilibre-regional-mensuel-production-consommation-brute-janvier-2014-a-decembre-2016",
+  "spatial": null,
+  "tags": [
+    "bilan-electrique",
+    "consommation",
+    "electricite",
+    "interconnexion",
+    "pompage",
+    "production",
+    "region",
+    "territoire",
+    "territoires-et-regions"
+  ],
+  "temporal_coverage": null,
+  "title": "Equilibre r\u00e9gional mensuel production = consommation brute (janvier 2014 \u00e0 d\u00e9cembre 2016)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/equilibre-regional-mensuel-production-consommation-brute-janvier-2014-a-decembre-2016/"
+}

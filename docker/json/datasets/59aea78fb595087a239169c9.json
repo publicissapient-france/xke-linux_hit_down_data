@@ -1,0 +1,144 @@
+{
+  "badges": [],
+  "created_at": "2014-06-11T00:00:00",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es pr\u00e9sente la liste des fiches du patrimoine de la Ville de Nice. Ces fiches donnent des informations fouill\u00e9es sur tous les aspects du patrimoine ni\u00e7ois,  class\u00e9s par diff\u00e9rents th\u00e8mes (b\u00e2timents, sites, grands hommes, m\u00e9moire vivante, symboles, moments historiques, nature). Ces fiches sont disponibles sous format papier  au Centre du Patrimoine.",
+  "extras": {
+    "ckan:name": "liste-des-fiches-du-patrimoine-de-la-ville-de-nice",
+    "harvest:domain": "opendata.nicecotedazur.org",
+    "harvest:last_update": "2017-09-05T15:33:02.711632",
+    "harvest:remote_id": "37d97eb7-21f7-41cf-aa17-b77541397549",
+    "harvest:source_id": "59aea691c751df40c6e8212c"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59aea78fb595087a239169c9",
+  "last_modified": "2017-09-05T15:33:02.713000",
+  "last_update": "2017-09-05T15:33:02.711000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "59aea226c751df38f3f6834b",
+    "logo": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-100.png",
+    "name": "Nice C\u00f4te d'Azur",
+    "page": "https://www.data.gouv.fr/fr/organizations/nice-cote-dazur/",
+    "slug": "nice-cote-dazur",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nice-cote-dazur/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-fiches-du-patrimoine-de-la-ville-de-nice/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:02.710000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T09:45:07.684000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-09-26T16%3A12%3A40.252Z/open-data-fiches-patrimoine-2014.xls"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xls",
+      "id": "f91dfd8c-5628-4ec1-babf-71203fccf453",
+      "last_modified": "2014-09-26T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f91dfd8c-5628-4ec1-babf-71203fccf453",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.ms-excel",
+      "published": "2017-09-05T15:33:02.710000",
+      "title": "open-data-fiches-patrimoine-2014.xls",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-09-26T16%3A12%3A40.252Z/open-data-fiches-patrimoine-2014.xls"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:02.710000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T11:09:38.654000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-09-26T16%3A13%3A08.782Z/open-data-fiches-patrimoine-2014.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "e328a03a-ca00-4a20-855e-dc33a75400a0",
+      "last_modified": "2014-09-26T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e328a03a-ca00-4a20-855e-dc33a75400a0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.oasis.opendocument.spreadsheet",
+      "published": "2017-09-05T15:33:02.710000",
+      "title": "open-data-fiches-patrimoine-2014.ods",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-09-26T16%3A13%3A08.782Z/open-data-fiches-patrimoine-2014.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:02.711000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T09:45:07.461000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2015-12-09T18%3A15%3A25.716Z/open-data-fiches-patrimoine-2015.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "cd3a6fc6-3819-4462-acdd-4213935938e9",
+      "last_modified": "2015-12-09T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cd3a6fc6-3819-4462-acdd-4213935938e9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-05T15:33:02.711000",
+      "title": "open-data-fiches-patrimoine-2015.csv",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2015-12-09T18%3A15%3A25.716Z/open-data-fiches-patrimoine-2015.csv"
+    }
+  ],
+  "slug": "liste-des-fiches-du-patrimoine-de-la-ville-de-nice",
+  "spatial": null,
+  "tags": [
+    "batiment",
+    "culture",
+    "fiche",
+    "grands-hommes",
+    "homme",
+    "memoire-vivante",
+    "moment",
+    "nature",
+    "patrimoine",
+    "site",
+    "symboles"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des fiches du patrimoine de la Ville de Nice",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-fiches-du-patrimoine-de-la-ville-de-nice/"
+}

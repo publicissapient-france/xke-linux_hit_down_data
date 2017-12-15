@@ -1,0 +1,104 @@
+{
+  "badges": [],
+  "created_at": "2016-03-18T12:30:44.933000",
+  "deleted": null,
+  "description": "Evolution nationale annuelle des longueurs (km) de circuits en exploitation du r\u00e9seau de transport d\u2019\u00e9lectricit\u00e9 par niveau de tension (63 kV, 90 kV, 225 kV, 400 kV, ...) et par nature d\u2019\u00e9volution (nouvelle infrastructure, renouvellement, mise en souterrain, ferraill\u00e9e, autres modifications).\n\nLes natures d'\u00e9volution d'un tron\u00e7on sont :\n\n  * Nouveau : quand l\u2019installation du tron\u00e7on fait l\u2019objet d\u2019un nouveau trac\u00e9 (une nouvelle liaison par exemple)\n  * Renouvel\u00e9 : quand un tron\u00e7on a\u00e9rien est remplac\u00e9 par un tron\u00e7on a\u00e9rien ou quand un tron\u00e7on souterrain est remplac\u00e9 par un tron\u00e7on souterrain\n  * Mis en souterrain : quand un tron\u00e7on a\u00e9rien est remplac\u00e9 par un tron\u00e7on souterrain \n  * Ferraill\u00e9 : quand\u00a0le tron\u00e7on\u00a0a \u00e9t\u00e9 retir\u00e9 physiquement du r\u00e9seau \n  * Autres modifications : Ce sont toutes les variations de longueur non recens\u00e9es dans les tron\u00e7ons neufs et ferraill\u00e9s. Cela concerne principalement les tron\u00e7ons mis en r\u00e9serve (d\u00e9connect\u00e9s du r\u00e9seau mais toujours en place) mais aussi les corrections d\u2019erreur ou de longueur\n\n\n\n* * *\n\n**National changes in lengths of circuits of the electricity transport network (2011 to 2016)**\n\nAnnual changes of lengths (km) of circuits in operation on the electricity transport network, by voltage level (63 kV, 90 kV, 225 kV, 400 kV, ...) and by type of change (new infrastructure, renewal, underground laying, scrapped, other changes).\n\nTypes of changes to a section include :\n\n  * New : when installation of the section is a new route (a new link for example) \n  * Renewed : when an overhead section is replaced with an overhead section or when an underground section is replaced with an underground section \n  * Buried : when an overhead section is replaced with an underground section \n  * Scrapped : when the section is physically retired from the network \n  * Other changes : These are all the unrecorded length variations in new and scrapped sections. These are mainly sections placed in reserve (disconnected from the network but still in place), but also corrections of errors and length \n\n\n\n**Keywords :** Electricity, Circuit, Network, Annual electricty report\n\n__",
+  "extras": {
+    "harvest:domain": "opendata.rte-france.com",
+    "harvest:last_update": "2017-11-27T05:14:30.303832",
+    "harvest:remote_id": "evolution_longueurs_circuits",
+    "harvest:source_id": "56ebe63cc751df69fa170353",
+    "ods:has_records": true,
+    "ods:references": "http://www.rte-france.com/fr/article/bilans-electriques-nationaux",
+    "ods:url": "https://opendata.rte-france.com//explore/dataset/evolution_longueurs_circuits/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "56ebe6e4a3a72907ffef49b8",
+  "last_modified": "2017-11-27T05:14:30.307000",
+  "last_update": "2017-11-27T05:14:30.302000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "RTE",
+    "class": "Organization",
+    "id": "55f03e1088ee384bc1a46ec1",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-09-09/595e18df74fa490f93c7b2f52c28730e/sans-titre-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-09-09/595e18df74fa490f93c7b2f52c28730e/sans-titre-100.png",
+    "name": "R\u00e9seau de Transport d'Electricit\u00e9",
+    "page": "https://www.data.gouv.fr/fr/organizations/reseau-de-transport-delectricite/",
+    "slug": "reseau-de-transport-delectricite",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/reseau-de-transport-delectricite/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/evolutions-nationales-annuelles-des-longueurs-de-circuits-du-reseau-de-transport-delectricite-2011-a-2016/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:30.302000",
+      "description": "- *Ann\u00e9e*: annee[date] Ann\u00e9e\nYear\n- *Nature \u00e9volution*: nature_evolution[text] Nature de l'\u00e9volution\nType of change\n- *Circ a\u00e9rien 400 kV (km)*: circ_aer_400kv[double] Circuit a\u00e9rien 400 kV en km\n400 kV overhead circuit in km\n- *Circ sout 400 kV (km)*: circ_sout_400kv[double] Circuit souterrain 400 kV en km\n400 kV underground circuit in km\n- *Circ total 400 kV (km)*: circ_tot_400kv[double] Circuit 400 kV en km\n400 kV circuit total in km\n- *Circ a\u00e9rien 225 kV (km)*: circ_aer_225kv[double] Circuit a\u00e9rien 225 kV en km\n225 kV overhead circuit in km\n- *Circ sout 225 kV (km)*: circ_sout_225kv[double] Circuit souterrain 225 kV en km\n225 kV underground circuit in km\n- *Circ total 225 kV (km)*: circ_tot_225kv[double] Circuit 225 kV en km\n225 kV circuit total in km\n- *Circ a\u00e9rien 150 kV (km)*: circ_aer_150kv[double] Circuit a\u00e9rien150 kV en km\n150 kV overhead circuit in km\n- *Circ sout 150 kV (km)*: circ_sout_150kv[double] Circuit souterrain 150 kV en km\n150 kV underground circuit in km\n- *Circ total 150 kV (km)*: circ_tot_150kv[double] Circuit 150 kV en km\n150 kV circuit total in km\n- *Circ a\u00e9rien 90 kV (km)*: circ_aer_90kv[double] Circuit a\u00e9rien 150 kV en km\n90 kV overhead circuit in km\n- *Circ sout 90 kV (km)*: circ_sout_90kv[double] Circuit souterrain 90 kV en km\n90 kV underground circuit in km\n- *Circ total 90 kV (km)*: circ_tot_90kv[double] Circuit 90 kV en km\n90 kV circuit total in km\n- *Circ a\u00e9rien 63 kV (km)*: circ_aer_63kv[double] Circuit a\u00e9rien 63 kV en km\n63 kV overhead circuit in km\n- *Circ sout 63 kV (km)*: circ_sout_63kv[double] Circuit souterrain 63 kV en km\n63 kV underground circuit in km\n- *Circ total 63 kV (km)*: circ_tot_63kv[double] Circuit 63 kV en km\n63 kV circuit total in km\n- *Circ a\u00e9rien 45 kV (km)*: circ_aer_45kv[double] Circuit a\u00e9rien 45 kV en km\n45 kV overhead circuit in km\n- *Circ sout 45 kV (km)*: circ_sout_45kv[double] Circuit souterrain 45 kV en km\n45 kV underground circuit in km\n- *Circ total 45 kV (km)*: circ_tot_45kv[double] Circuit 45 kV en km\n45 kV circuit total in km\n- *Circ aerien MT (km)*: circ_aer_mt[double] Circuit a\u00e9rien Moyenne Tension en km\nMedium Voltage overhead circuit in km\n- *Circ sout MT (km)*: circ_sout_mt[double] Circuit souterrain Moyenne Tension en km\nMedium Voltage underground circuit in km\n- *Circ total MT (km)*: circ_tot_mt[double] Circuit Moyenne Tension en km\nMedium Voltage total circuit in km\n- *Circ aerien total (km)*: circ_aer_tot[double] Circuit a\u00e9rien toutes tensions en km\nAll voltages overhead circuit in km\n- *Circ sout total (km)*: circ_sout_tot[double] Circuit souterrain toutes tensions en km\nAll voltages underground total circuit in km\n- *Circ total (km)*: circ_tot[double] Circuit toutes tensions en km\nAll voltages circuit in km\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "9be144ba-e60d-4be7-b447-d47f4beeda3d",
+      "last_modified": "2017-02-15T16:40:29",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9be144ba-e60d-4be7-b447-d47f4beeda3d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:14:30.302000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.rte-france.com//explore/dataset/evolution_longueurs_circuits/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:30.302000",
+      "description": "- *Ann\u00e9e*: annee[date] Ann\u00e9e\nYear\n- *Nature \u00e9volution*: nature_evolution[text] Nature de l'\u00e9volution\nType of change\n- *Circ a\u00e9rien 400 kV (km)*: circ_aer_400kv[double] Circuit a\u00e9rien 400 kV en km\n400 kV overhead circuit in km\n- *Circ sout 400 kV (km)*: circ_sout_400kv[double] Circuit souterrain 400 kV en km\n400 kV underground circuit in km\n- *Circ total 400 kV (km)*: circ_tot_400kv[double] Circuit 400 kV en km\n400 kV circuit total in km\n- *Circ a\u00e9rien 225 kV (km)*: circ_aer_225kv[double] Circuit a\u00e9rien 225 kV en km\n225 kV overhead circuit in km\n- *Circ sout 225 kV (km)*: circ_sout_225kv[double] Circuit souterrain 225 kV en km\n225 kV underground circuit in km\n- *Circ total 225 kV (km)*: circ_tot_225kv[double] Circuit 225 kV en km\n225 kV circuit total in km\n- *Circ a\u00e9rien 150 kV (km)*: circ_aer_150kv[double] Circuit a\u00e9rien150 kV en km\n150 kV overhead circuit in km\n- *Circ sout 150 kV (km)*: circ_sout_150kv[double] Circuit souterrain 150 kV en km\n150 kV underground circuit in km\n- *Circ total 150 kV (km)*: circ_tot_150kv[double] Circuit 150 kV en km\n150 kV circuit total in km\n- *Circ a\u00e9rien 90 kV (km)*: circ_aer_90kv[double] Circuit a\u00e9rien 150 kV en km\n90 kV overhead circuit in km\n- *Circ sout 90 kV (km)*: circ_sout_90kv[double] Circuit souterrain 90 kV en km\n90 kV underground circuit in km\n- *Circ total 90 kV (km)*: circ_tot_90kv[double] Circuit 90 kV en km\n90 kV circuit total in km\n- *Circ a\u00e9rien 63 kV (km)*: circ_aer_63kv[double] Circuit a\u00e9rien 63 kV en km\n63 kV overhead circuit in km\n- *Circ sout 63 kV (km)*: circ_sout_63kv[double] Circuit souterrain 63 kV en km\n63 kV underground circuit in km\n- *Circ total 63 kV (km)*: circ_tot_63kv[double] Circuit 63 kV en km\n63 kV circuit total in km\n- *Circ a\u00e9rien 45 kV (km)*: circ_aer_45kv[double] Circuit a\u00e9rien 45 kV en km\n45 kV overhead circuit in km\n- *Circ sout 45 kV (km)*: circ_sout_45kv[double] Circuit souterrain 45 kV en km\n45 kV underground circuit in km\n- *Circ total 45 kV (km)*: circ_tot_45kv[double] Circuit 45 kV en km\n45 kV circuit total in km\n- *Circ aerien MT (km)*: circ_aer_mt[double] Circuit a\u00e9rien Moyenne Tension en km\nMedium Voltage overhead circuit in km\n- *Circ sout MT (km)*: circ_sout_mt[double] Circuit souterrain Moyenne Tension en km\nMedium Voltage underground circuit in km\n- *Circ total MT (km)*: circ_tot_mt[double] Circuit Moyenne Tension en km\nMedium Voltage total circuit in km\n- *Circ aerien total (km)*: circ_aer_tot[double] Circuit a\u00e9rien toutes tensions en km\nAll voltages overhead circuit in km\n- *Circ sout total (km)*: circ_sout_tot[double] Circuit souterrain toutes tensions en km\nAll voltages underground total circuit in km\n- *Circ total (km)*: circ_tot[double] Circuit toutes tensions en km\nAll voltages circuit in km\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "0bd684a8-3f9a-4382-b22a-cbe1308b6c40",
+      "last_modified": "2017-02-15T16:40:29",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0bd684a8-3f9a-4382-b22a-cbe1308b6c40",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:14:30.302000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.rte-france.com//explore/dataset/evolution_longueurs_circuits/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "evolutions-nationales-annuelles-des-longueurs-de-circuits-du-reseau-de-transport-delectricite-2011-a-2016",
+  "spatial": null,
+  "tags": [
+    "bilan-electrique",
+    "circuit",
+    "electricite",
+    "reseau",
+    "reseau-de-transport"
+  ],
+  "temporal_coverage": null,
+  "title": "Evolutions nationales annuelles des longueurs de circuits du r\u00e9seau de transport d'\u00e9lectricit\u00e9 (2011 \u00e0 2016)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/evolutions-nationales-annuelles-des-longueurs-de-circuits-du-reseau-de-transport-delectricite-2011-a-2016/"
+}

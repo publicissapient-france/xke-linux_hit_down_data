@@ -1,0 +1,68 @@
+{
+  "acronym": null,
+  "badges": [
+    {
+      "kind": "public-service"
+    },
+    {
+      "kind": "certified"
+    }
+  ],
+  "created_at": "2016-02-08T14:46:46.308000",
+  "deleted": null,
+  "description": "Mairie de Bar-le-Duc (Meuse)",
+  "id": "56b89c46c751df22549f9dea",
+  "last_modified": "2017-11-17T17:58:06.432000",
+  "logo": "https://www.data.gouv.fr/s/avatars/8b/58db990a63444694de31f24bc9de0a-original.png",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/8b/58db990a63444694de31f24bc9de0a-100.png",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/72/6b5d73a45c4cadbc1173551b66bd92-original.png",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/72/6b5d73a45c4cadbc1173551b66bd92-100.png",
+        "class": "User",
+        "first_name": "Mairie",
+        "id": "56976bb888ee387b41b7e1f8",
+        "last_name": "de Bar-le-Duc",
+        "page": "https://www.data.gouv.fr/fr/users/mairie-de-bar-le-duc/",
+        "slug": "mairie-de-bar-le-duc",
+        "uri": "https://www.data.gouv.fr/api/1/users/mairie-de-bar-le-duc/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/f7/c171edef834ffaa6c080213f82b2f5-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/f7/c171edef834ffaa6c080213f82b2f5-100.jpg",
+        "class": "User",
+        "first_name": "Simon",
+        "id": "534fff48a3a7292c64a77b50",
+        "last_name": "Chignard",
+        "page": "https://www.data.gouv.fr/fr/users/simon-chignard/",
+        "slug": "simon-chignard",
+        "uri": "https://www.data.gouv.fr/api/1/users/simon-chignard/"
+      }
+    }
+  ],
+  "metrics": {
+    "badges": 0,
+    "dataset_views": 12,
+    "datasets": 24,
+    "followers": 0,
+    "members": 2,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 0,
+    "resource_downloads": 23,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 119
+  },
+  "name": "Mairie de Bar-le-Duc",
+  "page": "https://www.data.gouv.fr/fr/organizations/mairie-de-bar-le-duc/",
+  "slug": "mairie-de-bar-le-duc",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/mairie-de-bar-le-duc/",
+  "url": null
+}

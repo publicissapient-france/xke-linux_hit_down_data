@@ -1,0 +1,148 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T18:22:26.652000",
+  "deleted": null,
+  "description": "Les missions locales s'adressent \u00e0 tous les jeunes de 16 \u00e0 25 ans qui rencontrent des difficult\u00e9s, notamment en mati\u00e8re d'acc\u00e8s \u00e0 l'emploi ou \u00e0 la formation.   \n  \n**Structure des donn\u00e9es**  \nD\u00e9partement, nom de la structure, adresse, t\u00e9l\u00e9phone et g\u00e9olocalisation (WGS84)",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T05:37:27.674780",
+    "harvest:remote_id": "carte-des-missions-locales",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:references": "http://www.iledefrance.fr/aides-regionales-appels-projets/parcours-orientation-professionnelle-pop",
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/carte-des-missions-locales/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59591dc2a3a7291dd09c814c",
+  "last_modified": "2017-11-27T05:37:27.676000",
+  "last_update": "2017-11-27T05:37:27.674000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/carte-des-missions-locales/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:37:27.673000",
+      "description": "- *Dpt*: dpt[int]\n- *Nom Structure*: nom_structure[text]\n- *Adresse si\u00e8ge*: adresse_siege[text]\n- *T\u00e9l\u00e9phone si\u00e8ge*: telephone_siege[text]\n- *WGS84*: wgs84[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e2660039-f0fe-4cbb-9f25-be82e2f17625",
+      "last_modified": "2014-03-10T12:19:24",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e2660039-f0fe-4cbb-9f25-be82e2f17625",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:37:27.673000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/carte-des-missions-locales/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:37:27.673000",
+      "description": "- *Dpt*: dpt[int]\n- *Nom Structure*: nom_structure[text]\n- *Adresse si\u00e8ge*: adresse_siege[text]\n- *T\u00e9l\u00e9phone si\u00e8ge*: telephone_siege[text]\n- *WGS84*: wgs84[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "504f50a1-19e2-467d-a1d0-9ad204e1d7cc",
+      "last_modified": "2014-03-10T12:19:24",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/504f50a1-19e2-467d-a1d0-9ad204e1d7cc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:37:27.673000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/carte-des-missions-locales/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:37:27.673000",
+      "description": "- *Dpt*: dpt[int]\n- *Nom Structure*: nom_structure[text]\n- *Adresse si\u00e8ge*: adresse_siege[text]\n- *T\u00e9l\u00e9phone si\u00e8ge*: telephone_siege[text]\n- *WGS84*: wgs84[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "6f58e2e7-2735-4131-8a9c-46741560352c",
+      "last_modified": "2014-03-10T12:19:24",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6f58e2e7-2735-4131-8a9c-46741560352c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:37:27.673000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/carte-des-missions-locales/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:37:27.674000",
+      "description": "- *Dpt*: dpt[int]\n- *Nom Structure*: nom_structure[text]\n- *Adresse si\u00e8ge*: adresse_siege[text]\n- *T\u00e9l\u00e9phone si\u00e8ge*: telephone_siege[text]\n- *WGS84*: wgs84[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "535b6846-77ba-479d-9c1f-371f7d50bde7",
+      "last_modified": "2014-03-10T12:19:24",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/535b6846-77ba-479d-9c1f-371f7d50bde7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:37:27.674000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.iledefrance.fr//explore/dataset/carte-des-missions-locales/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "carte-des-missions-locales",
+  "spatial": null,
+  "tags": [
+    "acces-aux-droits",
+    "emploi",
+    "formation-professionnelle",
+    "geolocalisation",
+    "insertion-professionnelle",
+    "orientation-scolaire"
+  ],
+  "temporal_coverage": null,
+  "title": "Carte des missions locales",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/carte-des-missions-locales/"
+}

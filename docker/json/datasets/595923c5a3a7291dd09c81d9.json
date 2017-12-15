@@ -1,0 +1,94 @@
+{
+  "badges": [],
+  "created_at": "2017-06-12T00:00:00",
+  "deleted": null,
+  "description": "Masses des d\u00e9chets r\u00e9siduels (m\u00e9nagers et non m\u00e9nagers) trait\u00e9s par type de fili\u00e8re pendant l'ann\u00e9e n par le service public de gestion des d\u00e9chets.\n\nExprim\u00e9 en tonnes.\n\nAnn\u00e9es disponibles : de 2006 \u00e0 ann\u00e9e en cours - 2 ans (d\u00e9lai de collecte et de consolidation des donn\u00e9es), sauf 2008.\n\nCet indicateur contient 6 sous-indicateurs : \n\n* cg33_dgac_det_odd_TRT-AUT : Gisement de d\u00e9chets orient\u00e9 vers d'autres fili\u00e8res d'\u00e9limination. Exprim\u00e9 en tonnes. Ann\u00e9es disponibles : de 2006 \u00e0 ann\u00e9e en cours - 2 ans (d\u00e9lai de collecte et de consolidation des donn\u00e9es), sauf 2008.\n\n* cg33_dgac_det_odd_TRT-BIO : Gisement de d\u00e9chets orient\u00e9 vers la fili\u00e8re de valorisation biologique. Exprim\u00e9 en tonnes. Ann\u00e9es disponibles : de 2006 \u00e0 ann\u00e9e en cours - 2 ans (d\u00e9lai de collecte et de consolidation des donn\u00e9es), sauf 2008.\n\n* cg33_dgac_det_odd_TRT-BTP : Gisement de d\u00e9chets orient\u00e9 vers le remblaiement BTP. Exprim\u00e9 en tonnes. Ann\u00e9es disponibles : de 2006 \u00e0 ann\u00e9e en cours - 2 ans (d\u00e9lai de collecte et de consolidation des donn\u00e9es), sauf 2008.\n\n* cg33_dgac_det_odd_TRT-INC : Gisement de d\u00e9chets orient\u00e9 vers l'incin\u00e9ration. Ann\u00e9es disponibles : de 2006 \u00e0 ann\u00e9e en cours - 2 ans (d\u00e9lai de collecte et de consolidation des donn\u00e9es), sauf 2008.\n\n* cg33_dgac_det_odd_TRT-MAT : Gisement de d\u00e9chets orient\u00e9 vers les fili\u00e8res de valorisation mati\u00e8re. Ann\u00e9es disponibles : de 2006 \u00e0 ann\u00e9e en cours - 2 ans (d\u00e9lai de collecte et de consolidation des donn\u00e9es), sauf 2008.\n\n* cg33_dgac_det_odd_TRT-STO : Gisement de d\u00e9chets orient\u00e9 vers les sites d'enfouissement. Ann\u00e9es disponibles : de 2006 \u00e0 ann\u00e9e en cours - 2 ans (d\u00e9lai de collecte et de consolidation des donn\u00e9es), sauf 2008.",
+  "extras": {
+    "ckan:name": "tonnages-de-dechets-menages-et-assimiles-traites-par-type-de-filiere",
+    "contact_name": "Direction de l'environnement et du tourisme",
+    "contact_uri": "https://datacat.datalocale.fr/415018",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+    "guid": "https://datacat.datalocale.fr/414697",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-07-07T06:10:13.319296",
+    "harvest:remote_id": "8226c299-9e0e-47d0-86c2-294f05e7bb6c",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "139c5531-00af-424f-ae20-20ed1f50f3fd",
+    "issued": "2014-03-24T15:05:40+00:00",
+    "modified": "2016-07-21T06:23:23.832119+00:00",
+    "publisher_email": "mailto:f.uteau@cg33.fr",
+    "publisher_name": "Franck Uteau",
+    "publisher_uri": "https://datacat.datalocale.fr/414695",
+    "theme": "[\"gestion des d\u00e9chets\"]",
+    "uri": "https://datacat.datalocale.fr/414697"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "595923c5a3a7291dd09c81d9",
+  "last_modified": "2017-07-07T06:10:13.322000",
+  "last_update": "2017-07-02T18:48:05.745000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/tonnages-de-dechets-menages-et-assimiles-traites-par-type-de-filiere-1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:48:05.745000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-27T20:52:36.645000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414699/raw/Opendata_33_TRT.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ddb2d2f8-f8c3-4b50-8366-43f5a9cb47b9",
+      "last_modified": "2017-07-07T06:10:13.318000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ddb2d2f8-f8c3-4b50-8366-43f5a9cb47b9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T18:48:05.745000",
+      "title": "indicateurs du traitement des d\u00e9chets par fili\u00e8re",
+      "url": "https://datacat.datalocale.fr/file/414699/raw/Opendata_33_TRT.csv"
+    }
+  ],
+  "slug": "tonnages-de-dechets-menages-et-assimiles-traites-par-type-de-filiere-1",
+  "spatial": null,
+  "tags": [
+    "ants",
+    "dechets",
+    "empreinte-ecologique"
+  ],
+  "temporal_coverage": null,
+  "title": "Tonnages de d\u00e9chets m\u00e9nages et assimil\u00e9s trait\u00e9s par type de fili\u00e8re",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/tonnages-de-dechets-menages-et-assimiles-traites-par-type-de-filiere-1/"
+}

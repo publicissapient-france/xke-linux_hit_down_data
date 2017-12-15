@@ -1,0 +1,147 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T17:12:35.988000",
+  "deleted": null,
+  "description": "La Ville accompagne une exp\u00e9rimentation propos\u00e9e par Cisco place de la Nation qui vise \u00e0 mesurer les diff\u00e9rents usages li\u00e9s aux d\u00e9placements sur la place (v\u00e9hicules motoris\u00e9s, v\u00e9los, pi\u00e9tons) ainsi que les pollutions atmosph\u00e9riques et sonores.\n\nA compter de d\u00e9cembre 2015 et pendant une dur\u00e9e d\u2019un an, une cinquantaine de capteurs situ\u00e9s tout au long de la place mesureront et analyseront en temps r\u00e9el l'usage fait de la place.\n\nEn savoir plus ici: <https://frama.link/pariscapteurs>\n\nLes donn\u00e9es mesur\u00e9es par ces capteurs sont:\n\n\\- Pression:\u00a0[https://opendata.paris.fr/explore/dataset/place-de...](https://opendata.paris.fr/explore/dataset/place-de-la-nation-pression0/)\n\n\\- Temp\u00e9rature:\u00a0[https://opendata.paris.fr/explore/dataset/place-de...](https://opendata.paris.fr/explore/dataset/place-de-la-nation-temperature/)\n\n\\- Humidit\u00e9:\u00a0[https://opendata.paris.fr/explore/dataset/place-de...](https://opendata.paris.fr/explore/dataset/place-de-la-nation-rh/)",
+  "extras": {
+    "harvest:domain": "opendata.paris.fr",
+    "harvest:last_update": "2017-11-27T05:12:23.348161",
+    "harvest:remote_id": "place-de-la-nation-points-de-mesure-qualite-air",
+    "harvest:source_id": "5631ef2988ee3837ce531585",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.paris.fr/explore/dataset/place-de-la-nation-points-de-mesure-qualite-air/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59590d64a3a7291dd09c8030",
+  "last_modified": "2017-11-27T05:12:23.351000",
+  "last_update": "2017-11-27T05:12:23.347000",
+  "license": "odc-odbl",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff89a3a7292c64a77eb7",
+    "logo": "https://www.data.gouv.fr/s/avatars/b2/0e83ec3699415a87640e97c51cb006-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b2/0e83ec3699415a87640e97c51cb006-100.png",
+    "name": "Mairie de Paris",
+    "page": "https://www.data.gouv.fr/fr/organizations/mairie-de-paris/",
+    "slug": "mairie-de-paris",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/mairie-de-paris/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/place-de-la-nation-points-de-mesure-des-capteurs-de-qualite-dair/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:12:23.346000",
+      "description": "- *id*: id[text]\n- *type*: type[text]\n- *measures*: measures[text]\n- *lat*: lat[double]\n- *lon*: lon[double]\n- *xy*: xy[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "372100b3-fa1e-44a6-87da-3a3276a7275d",
+      "last_modified": "2016-06-28T09:28:56",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/372100b3-fa1e-44a6-87da-3a3276a7275d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:12:23.346000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.paris.fr/explore/dataset/place-de-la-nation-points-de-mesure-qualite-air/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:12:23.347000",
+      "description": "- *id*: id[text]\n- *type*: type[text]\n- *measures*: measures[text]\n- *lat*: lat[double]\n- *lon*: lon[double]\n- *xy*: xy[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "2f51ae9f-737f-43e5-8339-f3113cc4d713",
+      "last_modified": "2016-06-28T09:28:56",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2f51ae9f-737f-43e5-8339-f3113cc4d713",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:12:23.347000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.paris.fr/explore/dataset/place-de-la-nation-points-de-mesure-qualite-air/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:12:23.347000",
+      "description": "- *id*: id[text]\n- *type*: type[text]\n- *measures*: measures[text]\n- *lat*: lat[double]\n- *lon*: lon[double]\n- *xy*: xy[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "9c4f2b82-e557-407c-9f8a-3195c91254c8",
+      "last_modified": "2016-06-28T09:28:56",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9c4f2b82-e557-407c-9f8a-3195c91254c8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:12:23.347000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.paris.fr/explore/dataset/place-de-la-nation-points-de-mesure-qualite-air/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:12:23.347000",
+      "description": "- *id*: id[text]\n- *type*: type[text]\n- *measures*: measures[text]\n- *lat*: lat[double]\n- *lon*: lon[double]\n- *xy*: xy[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "c98dab62-0d00-4669-bb09-bbd8a0f8ea9a",
+      "last_modified": "2016-06-28T09:28:56",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c98dab62-0d00-4669-bb09-bbd8a0f8ea9a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:12:23.347000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.paris.fr/explore/dataset/place-de-la-nation-points-de-mesure-qualite-air/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "place-de-la-nation-points-de-mesure-des-capteurs-de-qualite-dair",
+  "spatial": null,
+  "tags": [
+    "air",
+    "equipements",
+    "iot",
+    "pollution",
+    "services",
+    "social"
+  ],
+  "temporal_coverage": null,
+  "title": "Place de la Nation - points de mesure des capteurs de qualit\u00e9 d'air",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/place-de-la-nation-points-de-mesure-des-capteurs-de-qualite-dair/"
+}

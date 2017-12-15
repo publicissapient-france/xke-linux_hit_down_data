@@ -1,0 +1,145 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T17:12:09.743000",
+  "deleted": null,
+  "description": "Donn\u00e9es de type vecteur, d\u00e9crivant la partie routi\u00e8re du r\u00e9seau d'assainissement.",
+  "extras": {
+    "harvest:domain": "opendata.paris.fr",
+    "harvest:last_update": "2017-11-27T05:09:17.089482",
+    "harvest:remote_id": "cheminement_d_assainissement",
+    "harvest:source_id": "5631ef2988ee3837ce531585",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.paris.fr/explore/dataset/cheminement_d_assainissement/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59590d49a3a7291dcf9c8043",
+  "last_modified": "2017-11-27T05:09:17.092000",
+  "last_update": "2017-11-27T05:09:17.088000",
+  "license": "odc-odbl",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff89a3a7292c64a77eb7",
+    "logo": "https://www.data.gouv.fr/s/avatars/b2/0e83ec3699415a87640e97c51cb006-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b2/0e83ec3699415a87640e97c51cb006-100.png",
+    "name": "Mairie de Paris",
+    "page": "https://www.data.gouv.fr/fr/organizations/mairie-de-paris/",
+    "slug": "mairie-de-paris",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/mairie-de-paris/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/cheminement-dassainissement/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:09:17.087000",
+      "description": "- *Geometry X Y*: geom_x_y[geo_point_2d]\n- *Geometry*: geom[geo_shape]\n- *Info*: info[text]\n- *Libelle*: libelle[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "64883e25-543b-42ba-8592-83d9ba54dd78",
+      "last_modified": "2013-06-20T15:13:42",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/64883e25-543b-42ba-8592-83d9ba54dd78",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:09:17.087000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.paris.fr/explore/dataset/cheminement_d_assainissement/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:09:17.088000",
+      "description": "- *Geometry X Y*: geom_x_y[geo_point_2d]\n- *Geometry*: geom[geo_shape]\n- *Info*: info[text]\n- *Libelle*: libelle[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "9c530a93-5c1f-42e7-9764-0265ffa22f02",
+      "last_modified": "2013-06-20T15:13:42",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9c530a93-5c1f-42e7-9764-0265ffa22f02",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:09:17.088000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.paris.fr/explore/dataset/cheminement_d_assainissement/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:09:17.088000",
+      "description": "- *Geometry X Y*: geom_x_y[geo_point_2d]\n- *Geometry*: geom[geo_shape]\n- *Info*: info[text]\n- *Libelle*: libelle[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "51bea494-c503-4701-939e-42888d737e88",
+      "last_modified": "2013-06-20T15:13:42",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/51bea494-c503-4701-939e-42888d737e88",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:09:17.088000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.paris.fr/explore/dataset/cheminement_d_assainissement/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:09:17.088000",
+      "description": "- *Geometry X Y*: geom_x_y[geo_point_2d]\n- *Geometry*: geom[geo_shape]\n- *Info*: info[text]\n- *Libelle*: libelle[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "9d20655c-cc06-4dd5-9901-62047c117b5f",
+      "last_modified": "2013-06-20T15:13:42",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9d20655c-cc06-4dd5-9901-62047c117b5f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:09:17.088000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.paris.fr/explore/dataset/cheminement_d_assainissement/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "cheminement-dassainissement",
+  "spatial": null,
+  "tags": [
+    "environnement",
+    "fil-deau",
+    "mobilite-et-espace-public",
+    "rigole"
+  ],
+  "temporal_coverage": null,
+  "title": "Cheminement d'assainissement",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/cheminement-dassainissement/"
+}

@@ -1,0 +1,534 @@
+{
+  "badges": [],
+  "created_at": "2014-11-27T16:53:41.150000",
+  "deleted": null,
+  "description": "Les r\u00e9sultats des \u00e9lections cantonales depuis 1988 sont disponibles au niveau des cantons.\r\n\r\nJusqu'aux \u00e9lections de 1998, les r\u00e9sultats ont \u00e9t\u00e9 obtenus aupr\u00e8s de la Banque de donn\u00e9es sociopolitiques de Grenoble, dont le Centre de donn\u00e9es sociopolitiques [CDSP](http://cdsp.sciences-po.fr) de Sciences Po a pris la suite en 2005. Ils sont agr\u00e9g\u00e9s par tendances politiques avec plus ou moins de d\u00e9tails selon les ann\u00e9es d'\u00e9lection. \u00c0 partir de 2001, les r\u00e9sultats proviennent du Minist\u00e8re de l'int\u00e9rieur et sont d\u00e9taill\u00e9s par candidats.\r\n\r\nLe CDSP a proc\u00e9d\u00e9 \u00e0 des v\u00e9rifications sur les fichiers, essentiellement par des tests de coh\u00e9rence (par exemple, comparaison du nombre d'exprim\u00e9s et de la somme des voix pour chaque parti/candidat), mais des erreurs peuvent subsister. \r\n\r\nLa citation des fichiers est disponible dans la description de chaque ressource. Dans le cas d'utilisation de l'ensemble des fichiers, il convient d'utiliser les mod\u00e8les suivants.\r\n\r\n**Citation lors de l'utilisation de l'ensemble des fichiers**: R\u00e9sultats des \u00e9lections cantonales 1988-2011 par canton, CANTONALES1988-2011.zip [fichier informatique], Grenoble : Banque de Donn\u00e9es Socio-Politiques, Paris : Minist\u00e8re de l\u2019Int\u00e9rieur, France [producteurs], Centre de Donn\u00e9es Socio-Politiques [diffuseur], septembre 2009.\r\n\r\nLa citation de chaque fichier est indiqu\u00e9e dans la description de la ressource.\r\nL'inventaire des donn\u00e9es d'\u00e9lections de la Ve R\u00e9publique renseigne le fonds des r\u00e9sultats \u00e9lectoraux du CDSP, selon plusieurs niveaux territoriaux. ",
+  "extras": {},
+  "frequency": "punctual",
+  "frequency_date": null,
+  "id": "54774905c751df0eb372f5d4",
+  "last_modified": "2016-03-08T23:35:37.583000",
+  "last_update": "2015-02-19T18:16:07.264000",
+  "license": "odc-odbl",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 2,
+    "views": 399
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "543b8dd288ee3869dba42d04",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-01-29/9db46d8621cc476c9485c256e4a5846a/SCIENCES_PO_logo_RGB-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-01-29/9db46d8621cc476c9485c256e4a5846a/SCIENCES_PO_logo_RGB-100.jpg",
+    "name": "Sciences Po",
+    "page": "https://www.data.gouv.fr/fr/organizations/sciences-po/",
+    "slug": "sciences-po",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/sciences-po/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/elections-cantonales-1988-2011/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "077b9d759d467b46f304bc9a5bc149c37d643eb6"
+      },
+      "created_at": "2014-11-27T16:54:00.812000",
+      "description": "R\u00e9sultats des \u00e9lections cantonales de 1988 \u00e0 2011 au format xls. ",
+      "extras": {},
+      "filesize": 4075010,
+      "filetype": "file",
+      "format": "zip",
+      "id": "747469ab-e22f-4428-bebb-d6def76e7fd0",
+      "last_modified": "2015-02-20T11:33:55.602000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/747469ab-e22f-4428-bebb-d6def76e7fd0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 125
+      },
+      "mime": "application/zip",
+      "published": "2014-11-27T16:54:00.812000",
+      "title": "Tous les jeux de donn\u00e9es de 1988 \u00e0 2011 au format XLS en une archive",
+      "url": "https://www.data.gouv.fr/s/resources/elections-cantonales-1988-2011/community/20150204-171301/CANTONALES_1988-2011-xls.zip"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "e3ac3f247085d92271e47e704a45ef6b5161c137"
+      },
+      "created_at": "2015-01-05T19:15:09.698000",
+      "description": "R\u00e9sultats des \u00e9lections cantonales de 1988 \u00e0 2011 au format CSV.",
+      "extras": {},
+      "filesize": 1424348,
+      "filetype": "file",
+      "format": "zip",
+      "id": "fbb1265b-65c6-484d-b3f0-ca18a10ca894",
+      "last_modified": "2015-02-20T11:34:32.919000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fbb1265b-65c6-484d-b3f0-ca18a10ca894",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 34
+      },
+      "mime": "application/zip",
+      "published": "2015-01-05T19:15:09.698000",
+      "title": "Tous les jeux de donn\u00e9es de 1988 \u00e0 2011 au format CSV avec leur documentation en une archive",
+      "url": "https://www.data.gouv.fr/s/resources/elections-cantonales-1988-2011/community/20150204-171314/CANTONALES_1988-2011-csv.zip"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "4b02a318071c39682aac41bbaebfe005dbc682eb"
+      },
+      "created_at": "2015-01-05T19:22:49.416000",
+      "description": "citation : R\u00e9sultats des \u00e9lections cantonales premier tour du 25/09/1988 par canton, cdsp_cant1988t1_canton.xls [fichier informatique], Banque de Donn\u00e9es Socio-Politiques, Grenoble [producteur], Centre de Donn\u00e9es Socio-Politiques [diffuseur], septembre 2009.\r\n\r\nAttention: la nomenclature des cantons est celle de 2009",
+      "extras": {},
+      "filesize": 152179,
+      "filetype": "file",
+      "format": "csv",
+      "id": "750b5a7e-3171-47ad-ac5c-52080a413094",
+      "last_modified": "2015-01-05T19:22:49.416000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/750b5a7e-3171-47ad-ac5c-52080a413094",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 55
+      },
+      "mime": "text/csv",
+      "published": "2015-01-05T19:22:49.416000",
+      "title": "R\u00e9sultats agr\u00e9g\u00e9s des cantonales 1988 1er tour (25 septembre 1988)",
+      "url": "https://www.data.gouv.fr/s/resources/elections-cantonales-1988-2011/20150105-191849/cdsp_cant1988t1_canton-ag.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "da912f5154633e529b334d398188c440725218d4"
+      },
+      "created_at": "2015-01-05T19:33:34.774000",
+      "description": "citation : R\u00e9sultats des \u00e9lections cantonales second tour du 02/10/1988 par canton, cdsp_cant1988t2_canton.xls [fichier informatique], Banque de Donn\u00e9es Socio-Politiques, Grenoble [producteur], Centre de Donn\u00e9es Socio-Politiques [diffuseur], septembre 2009..\r\n\r\nAttention: la nomenclature des cantons est celle de 2009",
+      "extras": {},
+      "filesize": 80343,
+      "filetype": "file",
+      "format": "csv",
+      "id": "586bab45-3507-4208-b0e9-7c4e38980ddc",
+      "last_modified": "2015-01-05T19:33:34.774000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/586bab45-3507-4208-b0e9-7c4e38980ddc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 27
+      },
+      "mime": "text/csv",
+      "published": "2015-01-05T19:33:34.774000",
+      "title": "R\u00e9sultats agr\u00e9g\u00e9s des cantonales 1988 2nd tour (2 octobre 1988)",
+      "url": "https://www.data.gouv.fr/s/resources/elections-cantonales-1988-2011/20150105-193332/cdsp_cant1988t2_canton-ag.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "1f1cbc36af67f2924a69ba48e709beecb8371530"
+      },
+      "created_at": "2015-01-05T19:33:54.436000",
+      "description": "citation : R\u00e9sultats des \u00e9lections cantonales premier tour du 22/03/1992 par canton, cdsp_cant1992t1_canton.xls [fichier informatique], Banque de Donn\u00e9es Socio-Politiques, Grenoble [producteur], Centre de Donn\u00e9es Socio-Politiques [diffuseur], septembre 2009.\r\n\r\nAttention: la nomenclature des cantons est celle de 2009",
+      "extras": {},
+      "filesize": 183352,
+      "filetype": "file",
+      "format": "csv",
+      "id": "6489d180-542a-499e-b818-90b694edbde2",
+      "last_modified": "2015-01-05T19:33:54.436000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6489d180-542a-499e-b818-90b694edbde2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 16
+      },
+      "mime": "text/csv",
+      "published": "2015-01-05T19:33:54.436000",
+      "title": "R\u00e9sultats agr\u00e9g\u00e9s des cantonales 1992 1er tour (22 mars 1992)",
+      "url": "https://www.data.gouv.fr/s/resources/elections-cantonales-1988-2011/20150105-193350/cdsp_cant1992t1_canton-ag.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "25a719f8195b94281bdd096e5c19330e0bffc389"
+      },
+      "created_at": "2015-01-05T19:34:15.078000",
+      "description": "citation : R\u00e9sultats des \u00e9lections cantonales second tour du 29/03/1992 par canton, cdsp_cant1992t2_canton.xls [fichier informatique], Banque de Donn\u00e9es Socio-Politiques, Grenoble [producteur], Centre de Donn\u00e9es Socio-Politiques [diffuseur], septembre 2009.\r\n\r\nAttention: la nomenclature des cantons est celle de 2009",
+      "extras": {},
+      "filesize": 119442,
+      "filetype": "file",
+      "format": "csv",
+      "id": "91e33ebb-d2d7-46d1-b603-ed80ba4c4bac",
+      "last_modified": "2015-01-05T19:34:15.078000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/91e33ebb-d2d7-46d1-b603-ed80ba4c4bac",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 6
+      },
+      "mime": "text/csv",
+      "published": "2015-01-05T19:34:15.078000",
+      "title": "R\u00e9sultats agr\u00e9g\u00e9s des cantonales 1992 2nd tour (29 mars 1992)",
+      "url": "https://www.data.gouv.fr/s/resources/elections-cantonales-1988-2011/20150105-193403/cdsp_cant1992t2_canton-ag.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "c0f2b1e3b81acdf5719d7926d52377a8ba359cc4"
+      },
+      "created_at": "2015-01-05T19:34:35.610000",
+      "description": "citation : R\u00e9sultats des \u00e9lections cantonales premier tour du 20/03/1994 par canton, cdsp_cant1994t1_canton.xls [fichier informatique], Banque de Donn\u00e9es Socio-Politiques, Grenoble [producteur], Centre de Donn\u00e9es Socio-Politiques [diffuseur], septembre 2009.\r\n\r\nAttention: la nomenclature des cantons est celle de 2009",
+      "extras": {},
+      "filesize": 181085,
+      "filetype": "file",
+      "format": "csv",
+      "id": "de939920-04a8-40b6-aeb7-01d597b51166",
+      "last_modified": "2015-01-05T19:34:35.610000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/de939920-04a8-40b6-aeb7-01d597b51166",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 9
+      },
+      "mime": "text/csv",
+      "published": "2015-01-05T19:34:35.610000",
+      "title": "R\u00e9sultats agr\u00e9g\u00e9s des cantonales 1994 1er tour (20 mars 1994)",
+      "url": "https://www.data.gouv.fr/s/resources/elections-cantonales-1988-2011/20150105-193434/cdsp_cant1994t1_canton-ag.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "bdcca7d05abf6353cd80671760912fb4ff296362"
+      },
+      "created_at": "2015-01-05T19:34:58.946000",
+      "description": "citation : R\u00e9sultats des \u00e9lections cantonales second tour du 27/03/1994 par canton, cdsp_cant1994t2_canton.xls [fichier informatique], Banque de Donn\u00e9es Socio-Politiques, Grenoble [producteur], Centre de Donn\u00e9es Socio-Politiques [diffuseur], septembre 2009.\r\n\r\nAttention: la nomenclature des cantons est celle de 2009",
+      "extras": {},
+      "filesize": 115502,
+      "filetype": "file",
+      "format": "csv",
+      "id": "d549fc63-8be8-48f5-853d-617f29155fab",
+      "last_modified": "2015-01-05T19:34:58.946000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d549fc63-8be8-48f5-853d-617f29155fab",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 6
+      },
+      "mime": "text/csv",
+      "published": "2015-01-05T19:34:58.946000",
+      "title": "R\u00e9sultats agr\u00e9g\u00e9s des cantonales 1994 2nd tour (27 mars 1994)",
+      "url": "https://www.data.gouv.fr/s/resources/elections-cantonales-1988-2011/20150105-193447/cdsp_cant1994t2_canton-ag.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "09c959815868da1ac8b8bc378ac5042df0c03676"
+      },
+      "created_at": "2015-01-05T19:35:18.502000",
+      "description": "citation : R\u00e9sultats des \u00e9lections cantonales premier tour du 15/03/1998 par canton, cdsp_cant1998t1_canton.xls [fichier informatique], Banque de Donn\u00e9es Socio-Politiques, Grenoble [producteur], Centre de Donn\u00e9es Socio-Politiques [diffuseur], septembre 2009.",
+      "extras": {},
+      "filesize": 166495,
+      "filetype": "file",
+      "format": "csv",
+      "id": "f15912bc-5c8c-4325-a054-fbb8764ea876",
+      "last_modified": "2015-01-05T19:35:18.502000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f15912bc-5c8c-4325-a054-fbb8764ea876",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 5
+      },
+      "mime": "text/csv",
+      "published": "2015-01-05T19:35:18.502000",
+      "title": "R\u00e9sultats agr\u00e9g\u00e9s des cantonales 1998 1er tour (15 mars 1998)",
+      "url": "https://www.data.gouv.fr/s/resources/elections-cantonales-1988-2011/20150105-193516/cdsp_cant1998t1_canton-ag.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "1f02ccf2efeaf28aea8e6ce78b95c99914eb7aad"
+      },
+      "created_at": "2015-01-05T19:35:35.717000",
+      "description": "citation : R\u00e9sultats des \u00e9lections cantonales second tour du 22/03/1998 par canton, cdsp_cant1998t2_canton.xls [fichier informatique], Banque de Donn\u00e9es Socio-Politiques, Grenoble [producteur], Centre de Donn\u00e9es Socio-Politiques [diffuseur], septembre 2009.",
+      "extras": {},
+      "filesize": 132061,
+      "filetype": "file",
+      "format": "csv",
+      "id": "052541e8-99b8-4779-99fa-99f90c174eaf",
+      "last_modified": "2015-01-05T19:40:26.540000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/052541e8-99b8-4779-99fa-99f90c174eaf",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 6
+      },
+      "mime": "text/csv",
+      "published": "2015-01-05T19:35:35.717000",
+      "title": "R\u00e9sultats agr\u00e9g\u00e9s des cantonales 1998 2nd tour (22 mars 1998)",
+      "url": "https://www.data.gouv.fr/s/resources/elections-cantonales-1988-2011/20150105-193533/cdsp_cant1998t2_canton-ag.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "56c3ef89e508452ee869bbf6e867d18d3f5d6647"
+      },
+      "created_at": "2015-01-05T19:38:30.969000",
+      "description": "citation : R\u00e9sultats des \u00e9lections cantonales premier tour du 11/03/2001 par canton, cdsp_cant2001t1_canton.xls [fichier informatique], Minist\u00e8re de l'Int\u00e9rieur, France [producteur], Centre de Donn\u00e9es Socio-Politiques [diffuseur], mars 2009.",
+      "extras": {},
+      "filesize": 504381,
+      "filetype": "file",
+      "format": "csv",
+      "id": "841dc926-6605-4666-b275-94cded4a3a04",
+      "last_modified": "2015-01-05T19:39:24.748000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/841dc926-6605-4666-b275-94cded4a3a04",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 5
+      },
+      "mime": "text/csv",
+      "published": "2015-01-05T19:38:30.969000",
+      "title": "R\u00e9sultats des cantonales 2001 1er tour (11 mars 2001)",
+      "url": "https://www.data.gouv.fr/s/resources/elections-cantonales-1988-2011/20150105-193828/cdsp_cant2001t1_canton.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "7f2639cd276048314fa807d7a4f33ed70f784b53"
+      },
+      "created_at": "2015-01-05T19:38:54.168000",
+      "description": "citation : R\u00e9sultats des \u00e9lections cantonales second tour du 18/03/2001 par canton, cdsp_cant2001t2_canton.xls [fichier informatique], Minist\u00e8re de l'Int\u00e9rieur, France [producteur], Centre de Donn\u00e9es Socio-Politiques [diffuseur], mars 2009.",
+      "extras": {},
+      "filesize": 164062,
+      "filetype": "file",
+      "format": "csv",
+      "id": "fe99528e-880e-49f8-b337-7228ec95e785",
+      "last_modified": "2015-01-05T19:38:54.168000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fe99528e-880e-49f8-b337-7228ec95e785",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 2
+      },
+      "mime": "text/csv",
+      "published": "2015-01-05T19:38:54.168000",
+      "title": "R\u00e9sultats des cantonales 2001 2nd tour (18 mars 2001)",
+      "url": "https://www.data.gouv.fr/s/resources/elections-cantonales-1988-2011/20150105-193850/cdsp_cant2001t2_canton.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "12c09e52a8ae1e938c6669e45e54c30a1247a626"
+      },
+      "created_at": "2015-01-05T19:40:45.506000",
+      "description": "citation : R\u00e9sultats des \u00e9lections cantonales premier tour du 21/03/2004 par canton, cdsp_cant2004t1_canton.xls [fichier informatique], Minist\u00e8re de l'Int\u00e9rieur, France [producteur], Centre de Donn\u00e9es Socio-politiques [diffuseur], mars 2009.",
+      "extras": {},
+      "filesize": 595720,
+      "filetype": "file",
+      "format": "csv",
+      "id": "ca453381-b3b8-4acd-9322-5d88e18b72ac",
+      "last_modified": "2015-01-05T19:40:45.506000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ca453381-b3b8-4acd-9322-5d88e18b72ac",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": "text/csv",
+      "published": "2015-01-05T19:40:45.506000",
+      "title": "R\u00e9sultats des cantonales 2004 1er tour (21 mars 2004)",
+      "url": "https://www.data.gouv.fr/s/resources/elections-cantonales-1988-2011/20150105-194036/cdsp_cant2004t1_canton.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "61318b654802cbd85fed037a44ae6e3fa3983da8"
+      },
+      "created_at": "2015-01-05T19:41:26.140000",
+      "description": "citation : R\u00e9sultats des \u00e9lections cantonales second tour du 28/03/2004 par canton, cdsp_cant2004t2_canton.xls [fichier informatique], Minist\u00e8re de l'Int\u00e9rieur, France [producteur], Centre de Donn\u00e9es Socio-politiques [diffuseur], mars 2009.",
+      "extras": {},
+      "filesize": 210781,
+      "filetype": "file",
+      "format": "csv",
+      "id": "35984a9d-4bf8-49bc-b567-b87066de7158",
+      "last_modified": "2015-01-05T19:41:26.140000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/35984a9d-4bf8-49bc-b567-b87066de7158",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": "text/csv",
+      "published": "2015-01-05T19:41:26.140000",
+      "title": "R\u00e9sultats des cantonales 2004 2nd tour (28 mars 2004)",
+      "url": "https://www.data.gouv.fr/s/resources/elections-cantonales-1988-2011/20150105-194118/cdsp_cant2004t2_canton.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "8d2046b556d9eac4ab927f77419d30e42fac877a"
+      },
+      "created_at": "2015-01-05T19:41:42.111000",
+      "description": "citation : R\u00e9sultats des \u00e9lections cantonales premier tour du 09/03/2008 par canton, cdsp_cant2008t1_canton.xls [fichier informatique], Minist\u00e8re de l'Int\u00e9rieur, France [producteur], Centre de Donn\u00e9es Socio-Politiques [diffuseur], mars 2009.",
+      "extras": {},
+      "filesize": 422186,
+      "filetype": "file",
+      "format": "csv",
+      "id": "9f5ff8c5-e4a6-48d9-a71b-29d6761c2ff7",
+      "last_modified": "2015-01-05T19:41:42.111000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9f5ff8c5-e4a6-48d9-a71b-29d6761c2ff7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 3
+      },
+      "mime": "text/csv",
+      "published": "2015-01-05T19:41:42.111000",
+      "title": "R\u00e9sultats des cantonales 2008 1er tour (09 mars 2008)",
+      "url": "https://www.data.gouv.fr/s/resources/elections-cantonales-1988-2011/20150105-194139/cdsp_cant2008t1_canton.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "724709387c488999cf591be026c4e7a218a75970"
+      },
+      "created_at": "2015-01-05T19:41:57.327000",
+      "description": "citation : R\u00e9sultats des \u00e9lections cantonales second tour du 16/03/2008 par canton, cdsp_cant2008t2_canton.xls [fichier informatique], Minist\u00e8re de l'Int\u00e9rieur, France [producteur], Centre de Donn\u00e9es Socio-Politiques [diffuseur], mars 2009.",
+      "extras": {},
+      "filesize": 138998,
+      "filetype": "file",
+      "format": "csv",
+      "id": "76108dc4-19b4-45ef-888e-579e96cee962",
+      "last_modified": "2015-01-05T19:41:57.327000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/76108dc4-19b4-45ef-888e-579e96cee962",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 2
+      },
+      "mime": "text/csv",
+      "published": "2015-01-05T19:41:57.327000",
+      "title": "R\u00e9sultats des cantonales 2008 2nd tour (16 mars 2008)",
+      "url": "https://www.data.gouv.fr/s/resources/elections-cantonales-1988-2011/20150105-194155/cdsp_cant2008t2_canton.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "d606f964e8fa454abca39abe970a09bb8c08453c"
+      },
+      "created_at": "2015-01-05T19:42:15.211000",
+      "description": "citation : R\u00e9sultats des \u00e9lections cantonales premier tour du 20/03/2011, cdsp_cant2011t1_canton.xls [fichier informatique], Minist\u00e8re de l'Int\u00e9rieur [producteur], Centre de Donn\u00e9es Socio-Politiques [diffuseur], Mai 2011.",
+      "extras": {},
+      "filesize": 463349,
+      "filetype": "file",
+      "format": "csv",
+      "id": "1cd1cd91-e4b4-459c-bb8b-36514d33ac18",
+      "last_modified": "2015-02-20T11:51:17.683000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1cd1cd91-e4b4-459c-bb8b-36514d33ac18",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 14
+      },
+      "mime": "text/csv",
+      "published": "2015-01-05T19:42:15.211000",
+      "title": "R\u00e9sultats des cantonales 2011 1er tour (20 mars 2011)",
+      "url": "https://www.data.gouv.fr/s/resources/elections-cantonales-1988-2011/20150105-194204/cdsp_cant2011t1_canton.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "77c15ea90d3d697924f8d99c1a0ec6873af59c9d"
+      },
+      "created_at": "2015-01-05T19:42:42.499000",
+      "description": "citation : R\u00e9sultats des \u00e9lections cantonales second tour du 27/03/2011, cdsp_cant2011t2_canton.xls [fichier informatique], Minist\u00e8re de l'Int\u00e9rieur [producteur], Centre de Donn\u00e9es Socio-Politiques [diffuseur], Janvier 2012.",
+      "extras": {},
+      "filesize": 179721,
+      "filetype": "file",
+      "format": "csv",
+      "id": "431f36c2-405c-4158-92bd-35b1909d299c",
+      "last_modified": "2015-02-20T11:51:38.975000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/431f36c2-405c-4158-92bd-35b1909d299c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 11
+      },
+      "mime": "text/csv",
+      "published": "2015-01-05T19:42:42.499000",
+      "title": "R\u00e9sultats des cantonales 2011 2nd tour (27 mars 2011)",
+      "url": "https://www.data.gouv.fr/s/resources/elections-cantonales-1988-2011/20150105-194241/cdsp_cant2011t2_canton.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "f4d3cfd7b11641429caf7080b8d751e602e0558f"
+      },
+      "created_at": "2015-02-19T18:16:07.264000",
+      "description": "Ce tableau renseigne le fonds des r\u00e9sultats \u00e9lectoraux du CDSP, selon plusieurs niveaux territoriaux. Sont indiqu\u00e9es les donn\u00e9es disponibles au CDSP et publi\u00e9es sur data.gouv.fr, les donn\u00e9es disponibles au CDSP mais qui ne sont pas publi\u00e9es sur data.gouv.fr et les donn\u00e9es manquantes dans le fonds CDSP. ",
+      "extras": {},
+      "filesize": 44032,
+      "filetype": "file",
+      "format": "xls",
+      "id": "1be3438a-72e9-41b9-aafc-5b6cd6899062",
+      "last_modified": "2015-02-20T11:52:25.104000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1be3438a-72e9-41b9-aafc-5b6cd6899062",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.ms-excel",
+      "published": "2015-02-19T18:16:07.264000",
+      "title": "Inventaire des donn\u00e9es d'\u00e9lections de la Ve R\u00e9publique",
+      "url": "https://www.data.gouv.fr/s/resources/elections-cantonales-1988-2011/20150219-181605/Tab_InventaireFichierElections.xls"
+    }
+  ],
+  "slug": "elections-cantonales-1988-2011",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:canton",
+    "zones": [
+      "country:fr"
+    ]
+  },
+  "tags": [
+    "cantonales",
+    "cantons",
+    "elections",
+    "elections-cantonales"
+  ],
+  "temporal_coverage": {
+    "end": "2011-12-31",
+    "start": "1988-01-01"
+  },
+  "title": "\u00c9lections cantonales 1988-2011",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/elections-cantonales-1988-2011/"
+}

@@ -1,0 +1,79 @@
+{
+  "badges": [],
+  "created_at": "2015-06-01T00:00:00",
+  "deleted": null,
+  "description": "Aides directes \u00e0 la presse retrac\u00e9es par le programme 180 \"Presse\". Sources de donn\u00e9es : Rapports annuels de performance (RAP) 2008 \u00e0 2014.",
+  "extras": {
+    "ckan:name": "aides-directes-presse",
+    "harvest:domain": "www.nosdonnees.fr",
+    "harvest:last_update": "2017-07-10T06:04:42.996777",
+    "harvest:remote_id": "0bced79d-01ec-47d8-a65f-79f68e8bb240",
+    "harvest:source_id": "5878ee1588ee385bffa6f719"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5878ee27a3a7291484cac7c6",
+  "last_modified": "2017-07-10T06:04:42.999000",
+  "last_update": "2017-01-13T16:11:35.815000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff99a3a7292c64a78016",
+    "logo": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-100.png",
+    "name": "NosDonn\u00e9es.fr",
+    "page": "https://www.data.gouv.fr/fr/organizations/nosdonnees-fr/",
+    "slug": "nosdonnees-fr",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nosdonnees-fr/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/aides-directes-presse/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:11:35.815000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T16:39:11.199000",
+        "check:status": 200,
+        "check:url": "https://www.dropbox.com/s/zr7mie3ttpdhvq7/Aides_directes_presse_P180.csv?dl=0"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "973e3a60-1cc3-452e-b069-72923eb3a760",
+      "last_modified": "2017-07-10T06:04:42.996000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/973e3a60-1cc3-452e-b069-72923eb3a760",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:11:35.815000",
+      "title": "Aides_directes_presse_P180",
+      "url": "https://www.dropbox.com/s/zr7mie3ttpdhvq7/Aides_directes_presse_P180.csv?dl=0"
+    }
+  ],
+  "slug": "aides-directes-presse",
+  "spatial": null,
+  "tags": [],
+  "temporal_coverage": null,
+  "title": "Aides directes \u00e0 la presse 2008-2014",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/aides-directes-presse/"
+}

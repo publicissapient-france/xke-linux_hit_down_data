@@ -1,0 +1,107 @@
+{
+  "badges": [],
+  "created_at": "2014-09-09T16:00:07.162000",
+  "deleted": null,
+  "description": "Agents de nationalit\u00e9 \u00e9trang\u00e8re au 31 d\u00e9cembre depuis 2010.\n\n  * \"Coll\u00e8ge\" : classification selon les coll\u00e8ges de repr\u00e9sentation du personnel, \u00e0 savoir \u201cex\u00e9cution\u201d, \u201cma\u00eetrise\u201d et \u201ccadre\u201d.\n  * \u201cAgents au statut\u201d : \u00e9galement d\u00e9sign\u00e9 par \u201ccadre permanent\u201d \u00e0 l\u2019int\u00e9rieur de SNCF, cette notion d\u00e9signe une position statutaire, quelque soit le coll\u00e8ge de l\u2019agent, conforme aux dispositions de la directive interne RH 001 (\u201cStatut des relations collectives entre la SNCF et son personnel\u201d).\n  * \"Agents contractuels\" : d\u00e9signe un agent qui n\u2019est pas au statut, mais et qui est li\u00e9 \u00e0 SNCF par un contrat de travail de droit commun.\n  * Le personnel roulant comprend les agents de conduite (\u00ab ex\u00e9cution roulants conduite \u00bb) et les chefs de bord (\u201cex\u00e9cution roulants trains \u00bb).\n\n\n\nCes donn\u00e9es sont issues du Bilan social publi\u00e9 chaque ann\u00e9e par la Direction coh\u00e9sion & ressources humaines de SNCF. Le bilan social pr\u00e9sente les donn\u00e9es relatives \u00e0 l\u2019ensemble du personnel de l\u2019entreprise \u00e0 l\u2019exception des m\u00e9decins qui interviennent dans le cadre de la m\u00e9decine du travail et de la m\u00e9decine de soins des agents en activit\u00e9, des stagiaires, des concierges et du personnel contractuel sous contrait aid\u00e9.\n\nVous avez des questions ou des remarques sur ces donn\u00e9es ? Rendez-vous sur le [forum](http://data.sncf.com/forum/vos-retours-sur-les-donnees) de data.sncf.com.",
+  "extras": {
+    "datagouv_ckan_id": "2c722091-29b2-48de-bc23-fb63e2840cc2",
+    "datagouv_ckan_last_sync": "2014-09-17T03:37:48.108000",
+    "harvest:domain": "ressources.data.sncf.com",
+    "harvest:last_update": "2017-11-27T05:02:19.306626",
+    "harvest:remote_id": "agents-nationalite-etrangere",
+    "harvest:source_id": "563dd01f88ee386a21e72046",
+    "ods:has_records": true,
+    "ods:url": "https://ressources.data.sncf.com/explore/dataset/agents-nationalite-etrangere/",
+    "remote_url": "http://ressources.data.sncf.com/explore/dataset/agents-nationalite-etrangere/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "540f9b52a3a72928898af4a9",
+  "last_modified": "2017-11-27T05:02:19.309000",
+  "last_update": "2017-11-27T05:02:19.301000",
+  "license": "other-open",
+  "metrics": {
+    "cow_criticals": 0,
+    "cow_errors": 0,
+    "cow_score": 0.1499958562137898,
+    "cow_warnings": 3,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 2
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb0a3a7292c64a78115",
+    "logo": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-100.png",
+    "name": "SNCF",
+    "page": "https://www.data.gouv.fr/fr/organizations/sncf/",
+    "slug": "sncf",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/sncf/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/agents-sncf-de-nationalite-etrangere/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:02:19.301000",
+      "description": "- *Date*: date[date]\n- *Contrat de travail*: contrat_travail[text]\n- *Coll\u00e8ge*: college[text]\n- *Nombre d'agents*: nombre_agents[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "63ef2498-25a8-4952-ad1b-e386c73f4caf",
+      "last_modified": "2016-11-04T14:32:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/63ef2498-25a8-4952-ad1b-e386c73f4caf",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:02:19.301000",
+      "title": "Export au format CSV",
+      "url": "https://ressources.data.sncf.com/explore/dataset/agents-nationalite-etrangere/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:02:19.301000",
+      "description": "- *Date*: date[date]\n- *Contrat de travail*: contrat_travail[text]\n- *Coll\u00e8ge*: college[text]\n- *Nombre d'agents*: nombre_agents[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "1216d0f8-e263-4c90-a3af-c3f68fd09892",
+      "last_modified": "2016-11-04T14:32:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1216d0f8-e263-4c90-a3af-c3f68fd09892",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:02:19.301000",
+      "title": "Export au format JSON",
+      "url": "https://ressources.data.sncf.com/explore/dataset/agents-nationalite-etrangere/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "agents-sncf-de-nationalite-etrangere",
+  "spatial": null,
+  "tags": [
+    "ressources-humaines",
+    "social",
+    "social-et-ressources-humaines"
+  ],
+  "temporal_coverage": null,
+  "title": "Agents SNCF de nationalit\u00e9 \u00e9trang\u00e8re",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/agents-sncf-de-nationalite-etrangere/"
+}

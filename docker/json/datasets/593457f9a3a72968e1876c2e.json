@@ -1,0 +1,151 @@
+{
+  "badges": [],
+  "created_at": "2017-02-06T00:00:00",
+  "deleted": null,
+  "description": "Indicateurs d'utilisation (kilom\u00e9trage) et de consommation (volume d'utilisation) du pool d\u00e9partemental",
+  "extras": {
+    "ckan:name": "indicateurs-de-la-flotte-de-vehicule-du-departement-de-la-gironde1",
+    "contact_email": "mailto:dgat-dp-sl@cg33.fr",
+    "contact_name": "Bureau de la Gestion Mobilier de bureau et v\u00e9hicules",
+    "contact_uri": "https://datacat.datalocale.fr/416119",
+    "guid": "https://datacat.datalocale.fr/416120",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-06-04T20:56:57.234797",
+    "harvest:remote_id": "6617f9b4-1d80-49ba-a95a-3ca8a7fe0ea2",
+    "harvest:source_id": "59342bc2c751df46b29d4f99",
+    "identifier": "c5160e4e-3a2c-4a99-9190-e8959a28f4fb",
+    "issued": "2014-03-13T15:59:17+00:00",
+    "modified": "2016-07-18T09:21:06.587687+00:00",
+    "publisher_email": "mailto:datalocale@gironde.fr",
+    "publisher_name": "D\u00e9partement de la Gironde",
+    "publisher_type": "\"Collectivit\u00e9 locale\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414548",
+    "remote_url": "http://www.gironde.fr/jcms/cgw_42020/mobilites-2030",
+    "theme": "[\"moyen de transport\"]",
+    "uri": "https://datacat.datalocale.fr/416120"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "593457f9a3a72968e1876c2e",
+  "last_modified": "2017-06-04T20:56:57.237000",
+  "last_update": "2017-06-04T20:56:57.233000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": null,
+  "owner": {
+    "avatar": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-original.jpg",
+    "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-100.jpg",
+    "class": "User",
+    "first_name": "Ressourcerie",
+    "id": "534fff47a3a7292c64a77adc",
+    "last_name": "datalocale",
+    "page": "https://www.data.gouv.fr/fr/users/ressourcerie-datalocale/",
+    "slug": "ressourcerie-datalocale",
+    "uri": "https://www.data.gouv.fr/api/1/users/ressourcerie-datalocale/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/indicateurs-de-la-flotte-de-vehicule-du-departement-de-la-gironde1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:57.232000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T03:30:53.816000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416122/raw/pool2011.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "54db2ebb-84a2-40b9-b65b-5cff83731f00",
+      "last_modified": "2017-06-04T20:56:57.233000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/54db2ebb-84a2-40b9-b65b-5cff83731f00",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:56:57.233000",
+      "title": "Consommation et kilom\u00e9trage des v\u00e9hicules du Pool pour 2011",
+      "url": "https://datacat.datalocale.fr/file/416122/raw/pool2011.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:57.233000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T20:15:38.242000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416126/raw/pool2013.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "de668cd2-e1a7-4dd3-8c35-5463a2ba06bd",
+      "last_modified": "2017-06-04T20:56:57.233000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/de668cd2-e1a7-4dd3-8c35-5463a2ba06bd",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:56:57.233000",
+      "title": "Consommation et kilom\u00e9trage des v\u00e9hicules du Pool pour 2013",
+      "url": "https://datacat.datalocale.fr/file/416126/raw/pool2013.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:57.233000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T17:47:40.314000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416124/raw/pool2012.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "1639b082-2909-41bb-9703-27838ecd8eda",
+      "last_modified": "2017-06-04T20:56:57.234000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1639b082-2909-41bb-9703-27838ecd8eda",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:56:57.233000",
+      "title": "Consommation et kilom\u00e9trage des v\u00e9hicules du Pool pour 2012",
+      "url": "https://datacat.datalocale.fr/file/416124/raw/pool2012.csv"
+    }
+  ],
+  "slug": "indicateurs-de-la-flotte-de-vehicule-du-departement-de-la-gironde1",
+  "spatial": null,
+  "tags": [
+    "flotte",
+    "gironde",
+    "mobilite",
+    "transport"
+  ],
+  "temporal_coverage": null,
+  "title": "indicateurs de la flotte de v\u00e9hicule du D\u00e9partement de la Gironde",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/indicateurs-de-la-flotte-de-vehicule-du-departement-de-la-gironde1/"
+}

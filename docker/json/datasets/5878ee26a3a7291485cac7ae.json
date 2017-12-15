@@ -1,0 +1,107 @@
+{
+  "badges": [],
+  "created_at": "2013-03-15T00:00:00",
+  "deleted": null,
+  "description": "",
+  "extras": {
+    "ckan:name": "aide-la-presse-hebdomadaire-r-gionale-en-2012",
+    "harvest:domain": "www.nosdonnees.fr",
+    "harvest:last_update": "2017-07-10T06:04:42.107741",
+    "harvest:remote_id": "b55ad42d-0efb-404e-bfa4-144e6f5270e1",
+    "harvest:source_id": "5878ee1588ee385bffa6f719",
+    "remote_url": "http://www.data.gouv.fr/DataSet/571913?xtmc=Direction%20g%C3%A9n%C3%A9rale%20des%20m%C3%A9dias%20et%20des%20industries%20culturelles&xtcr=2"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5878ee26a3a7291485cac7ae",
+  "last_modified": "2017-07-10T06:04:42.109000",
+  "last_update": "2017-01-13T16:11:34.823000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff99a3a7292c64a78016",
+    "logo": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-100.png",
+    "name": "NosDonn\u00e9es.fr",
+    "page": "https://www.data.gouv.fr/fr/organizations/nosdonnees-fr/",
+    "slug": "nosdonnees-fr",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nosdonnees-fr/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/aide-la-presse-hebdomadaire-r-gionale-en-2012/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:11:34.822000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:36:12.166000",
+        "check:status": 200,
+        "check:url": "http://www.nosdonnees.fr/dataset/b55ad42d-0efb-404e-bfa4-144e6f5270e1/resource/6df175e4-7adf-4cb1-9102-031e4c54d18f/download/fondsstrat2012pressehebdoregionale.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "6df175e4-7adf-4cb1-9102-031e4c54d18f",
+      "last_modified": "2013-03-15T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6df175e4-7adf-4cb1-9102-031e4c54d18f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "",
+      "published": "2017-01-13T16:11:34.822000",
+      "title": "2013-03-15T103821/fondsstrat_2012_pressehebdoRegionale.ods",
+      "url": "http://www.nosdonnees.fr/dataset/b55ad42d-0efb-404e-bfa4-144e6f5270e1/resource/6df175e4-7adf-4cb1-9102-031e4c54d18f/download/fondsstrat2012pressehebdoregionale.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:11:34.823000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T05:58:10.048000",
+        "check:status": 200,
+        "check:url": "http://www.nosdonnees.fr/dataset/b55ad42d-0efb-404e-bfa4-144e6f5270e1/resource/9a45371f-b167-4c54-b822-2d2b58de026d/download/fondsstrat2012pressehebdoregionale.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "9a45371f-b167-4c54-b822-2d2b58de026d",
+      "last_modified": "2013-03-15T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9a45371f-b167-4c54-b822-2d2b58de026d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "",
+      "published": "2017-01-13T16:11:34.823000",
+      "title": "2013-03-15T103834/fondsstrat_2012_pressehebdoRegionale.csv",
+      "url": "http://www.nosdonnees.fr/dataset/b55ad42d-0efb-404e-bfa4-144e6f5270e1/resource/9a45371f-b167-4c54-b822-2d2b58de026d/download/fondsstrat2012pressehebdoregionale.csv"
+    }
+  ],
+  "slug": "aide-la-presse-hebdomadaire-r-gionale-en-2012",
+  "spatial": null,
+  "tags": [],
+  "temporal_coverage": null,
+  "title": "Aide \u00e0 la presse hebdomadaire r\u00e9gionale en 2012",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/aide-la-presse-hebdomadaire-r-gionale-en-2012/"
+}

@@ -1,0 +1,88 @@
+{
+  "badges": [],
+  "created_at": "2015-11-06T16:18:44.671000",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es regroupe les horaires et localisation des parcs de la Ville ainsi que les coordonn\u00e9es, horaires et contact du service parcs et jardin de la ville de Meudon.",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": "2016-11-06T16:17:17",
+  "id": "563cc4d488ee3851fa531575",
+  "last_modified": "2016-02-18T05:38:03.575000",
+  "last_update": "2015-11-06T16:20:35.213000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "54d89442c751df1245467389",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-02-09/c8e02b8db0004b17b0aa311404798324/logo_meudon_couleur_HD-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-02-09/c8e02b8db0004b17b0aa311404798324/logo_meudon_couleur_HD-100.jpg",
+    "name": "Ville de Meudon",
+    "page": "https://www.data.gouv.fr/fr/organizations/ville-de-meudon/",
+    "slug": "ville-de-meudon",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ville-de-meudon/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/les-parcs-et-le-service-parcs-et-jardins-de-meudon/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "733afab6c1c045d0bcb0b1e38b86400a828abdfa"
+      },
+      "created_at": "2015-11-06T16:20:35.213000",
+      "description": "En format CSV, ce fichier regroupe la localisation et les horaires des parcs de la ville de Meudon et Meudon-la-For\u00eat ainsi que les contacts, coordonn\u00e9es et horaires du service parcs et jardins de la Ville.",
+      "extras": {},
+      "filesize": 3686,
+      "filetype": "file",
+      "format": "csv",
+      "id": "61d5b358-dbfe-4115-a003-b1ff8960221f",
+      "last_modified": "2015-11-06T16:20:42.110000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/61d5b358-dbfe-4115-a003-b1ff8960221f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2015-11-06T16:20:35.213000",
+      "title": "G\u00e9olocalisation et horaires des parcs et coordonn\u00e9es du service parcs et jardins de la Ville de Meudon",
+      "url": "https://www.data.gouv.fr/s/resources/les-parcs-et-le-service-parcs-et-jardins-de-meudon/20151106-162035/Parcs_et_service_parcs_et_jardins_de_Meudon_20-10-15.csv"
+    }
+  ],
+  "slug": "les-parcs-et-le-service-parcs-et-jardins-de-meudon",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:commune",
+    "zones": [
+      "fr:commune:92048@1968-01-01"
+    ]
+  },
+  "tags": [
+    "cadre-de-vie-environnement",
+    "meudon",
+    "meudon-la-foret",
+    "parcs",
+    "service-public",
+    "services-d-utilite-publique-et-s",
+    "vert"
+  ],
+  "temporal_coverage": {
+    "end": "2016-12-31",
+    "start": "2015-11-06"
+  },
+  "title": "Les parcs et le service Parcs et jardins de Meudon",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/les-parcs-et-le-service-parcs-et-jardins-de-meudon/"
+}

@@ -1,0 +1,151 @@
+{
+  "badges": [],
+  "created_at": "2017-07-05T01:36:58.477000",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es contient des informations sur les espaces de co-working / espaces collaboratifs propos\u00e9s par la Communaut\u00e9 d'agglom\u00e9ration Grand Paris Seine Ouest (GPSO) \u00e0 Issy-les-Moulineaux et aussi \u00e0 Boulogne-Billancourt, Chaville, Marnes-la-Coquette, Meudon, S\u00e8vres, Vanves et Ville-d'Avray\u00a0: localisation, adresse, horaires d\u2019ouverture et de fermeture, contact.",
+  "extras": {
+    "harvest:domain": "data.issy.com",
+    "harvest:last_update": "2017-11-27T05:06:12.703898",
+    "harvest:remote_id": "espaces-de-co-working",
+    "harvest:source_id": "595c266188ee382c7517add5",
+    "ods:has_records": true,
+    "ods:url": "https://data.issy.com//explore/dataset/espaces-de-co-working/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "595c269aa3a7296408d69b63",
+  "last_modified": "2017-11-27T05:06:12.706000",
+  "last_update": "2017-11-27T05:06:12.703000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb7a3a7292c64a78145",
+    "logo": "https://www.data.gouv.fr/s/avatars/b9/beecacecbd4d42ac10ef244f11e44e-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b9/beecacecbd4d42ac10ef244f11e44e-100.png",
+    "name": "Ville d'Issy-les-Moulineaux",
+    "page": "https://www.data.gouv.fr/fr/organizations/ville-d-issy-les-moulineaux/",
+    "slug": "ville-d-issy-les-moulineaux",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ville-d-issy-les-moulineaux/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/espaces-de-co-working-1/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:06:12.702000",
+      "description": "- *Ville*: commune[text]\n- *Lieu*: nom[text]\n- *Adresse*: localisati[text]\n- *Jours et heures*: horaire[text]\n- *Contact*: contact[text]\n- *T\u00e9l\u00e9phone*: telephone[text]\n- *Email*: mail[text]\n- *Web*: site_web[text]\n- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "5a330e31-1add-4ccb-b977-8007e171f80e",
+      "last_modified": "2015-06-24T20:08:12",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5a330e31-1add-4ccb-b977-8007e171f80e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:06:12.702000",
+      "title": "Export au format CSV",
+      "url": "https://data.issy.com//explore/dataset/espaces-de-co-working/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:06:12.702000",
+      "description": "- *Ville*: commune[text]\n- *Lieu*: nom[text]\n- *Adresse*: localisati[text]\n- *Jours et heures*: horaire[text]\n- *Contact*: contact[text]\n- *T\u00e9l\u00e9phone*: telephone[text]\n- *Email*: mail[text]\n- *Web*: site_web[text]\n- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "60ad2a82-fc2f-4e58-8673-4a138187c807",
+      "last_modified": "2015-06-24T20:08:12",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/60ad2a82-fc2f-4e58-8673-4a138187c807",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:06:12.702000",
+      "title": "Export au format JSON",
+      "url": "https://data.issy.com//explore/dataset/espaces-de-co-working/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:06:12.703000",
+      "description": "- *Ville*: commune[text]\n- *Lieu*: nom[text]\n- *Adresse*: localisati[text]\n- *Jours et heures*: horaire[text]\n- *Contact*: contact[text]\n- *T\u00e9l\u00e9phone*: telephone[text]\n- *Email*: mail[text]\n- *Web*: site_web[text]\n- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "b88c02db-ec1c-4adc-ba05-7a849edbbf13",
+      "last_modified": "2015-06-24T20:08:12",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b88c02db-ec1c-4adc-ba05-7a849edbbf13",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:06:12.703000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.issy.com//explore/dataset/espaces-de-co-working/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:06:12.703000",
+      "description": "- *Ville*: commune[text]\n- *Lieu*: nom[text]\n- *Adresse*: localisati[text]\n- *Jours et heures*: horaire[text]\n- *Contact*: contact[text]\n- *T\u00e9l\u00e9phone*: telephone[text]\n- *Email*: mail[text]\n- *Web*: site_web[text]\n- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "be830c88-f68a-4af9-a2e1-d4034a9e8cae",
+      "last_modified": "2015-06-24T20:08:12",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/be830c88-f68a-4af9-a2e1-d4034a9e8cae",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:06:12.703000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.issy.com//explore/dataset/espaces-de-co-working/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "espaces-de-co-working-1",
+  "spatial": null,
+  "tags": [
+    "business",
+    "coworking",
+    "deplacements",
+    "developpement-economique",
+    "economie",
+    "emploi",
+    "pme",
+    "transports",
+    "travail",
+    "travailler"
+  ],
+  "temporal_coverage": null,
+  "title": "Espaces de co-working",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/espaces-de-co-working-1/"
+}

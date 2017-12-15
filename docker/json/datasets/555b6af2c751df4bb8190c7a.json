@@ -1,0 +1,113 @@
+{
+  "badges": [],
+  "created_at": "2015-05-19T18:55:14.709000",
+  "deleted": null,
+  "description": "Pour certains **fichiers sensibles** (fichiers de police judiciaire, syst\u00e8me d'information Schengen, fichiers de renseignement, etc.), la loi n'autorise pas une consultation directe. Toute personne peut alors demander \u00e0 la CNIL de v\u00e9rifier, pour son compte, si des informations la concernant sont enregistr\u00e9es dans ces fichiers. \n\nCe **droit d'acc\u00e8s indirect** (DAI) permet la <a Href=\"http://www.cnil.fr/vos-droits/exercer-vos-droits/le-droit-dacces/le-droit-daccces-indirect/\" target=\"_blank\">v\u00e9rification</a> de ces fichiers par certains membres de la CNIL (magistrats). Le demandeur est inform\u00e9 des suites donn\u00e9es \u00e0 ces v\u00e9rifications.\n\nLe jeu de donn\u00e9es contient le nombre de demandes re\u00e7ues chaque ann\u00e9e par la CNIL depuis 1984, ainsi que le nombre de v\u00e9rifications r\u00e9alis\u00e9es.",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": "2015-10-12T00:00:00",
+  "id": "555b6af2c751df4bb8190c7a",
+  "last_modified": "2017-03-30T17:55:13.351000",
+  "last_update": "2017-03-30T00:00:00",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 2,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 120
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff61a3a7292c64a77d59",
+    "logo": "https://www.data.gouv.fr/s/avatars/43/4f3dcc999b4e34b7cccf57f64f0b17-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/43/4f3dcc999b4e34b7cccf57f64f0b17-100.jpg",
+    "name": "CNIL",
+    "page": "https://www.data.gouv.fr/fr/organizations/cnil/",
+    "slug": "cnil",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/cnil/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/droit-dacces-indirect-donnees-generales/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "a23b8a55e9493790dafd711ab3033d3485e416f2"
+      },
+      "created_at": "2015-05-19T18:57:27.941000",
+      "description": "Le **droit d'acc\u00e8s indirect** (DAI) permet \u00e0 tout citoyen de demander \u00e0 la CNIL qu'elle v\u00e9rifie le contenu d'un fichier dont la loi n'autorise pas la consultation directe (fichiers de police judiciaire, syst\u00e8me d'information Schengen, fichiers de renseignement, FICOBA, etc.). Les membres de la CNIL ayant la qualit\u00e9 de magistrat proc\u00e8dent \u00e0 [ces v\u00e9rifications ](http://www.cnil.fr/vos-droits/exercer-vos-droits/le-droit-dacces/le-droit-daccces-indirect/)avec le concours du service du DAI.\n\nLe jeu de donn\u00e9es contient le nombre de demandes re\u00e7ues chaque ann\u00e9e par la CNIL depuis 1984 ainsi que le nombre de v\u00e9rifications r\u00e9alis\u00e9es (une m\u00eame demande \u00e9tant susceptible de porter sur plusieurs fichiers).",
+      "extras": {},
+      "filesize": 558,
+      "filetype": "file",
+      "format": "csv",
+      "id": "fe377db2-b890-435b-885c-e87bb3fc0bbb",
+      "last_modified": "2017-03-30T17:38:26.004000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fe377db2-b890-435b-885c-e87bb3fc0bbb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 39
+      },
+      "mime": "text/csv",
+      "published": "2017-03-30T00:00:00",
+      "title": "Droit d'acc\u00e8s indirect",
+      "url": "https://www.data.gouv.fr/s/resources/droit-dacces-indirect-donnees-generales/20170330-173820/OpenCNIL_Volumes_DAI_depuis_1984_VD_20170329.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "4f5e2fdca8b52f03ba9f7cd4b072662c76eca4bd"
+      },
+      "created_at": "2015-05-19T18:55:57.581000",
+      "description": "Le **droit d'acc\u00e8s indirect** (DAI) permet \u00e0 tout citoyen de demander \u00e0 la CNIL qu'elle v\u00e9rifie le contenu d'un fichier dont la loi n'autorise pas la consultation directe (fichiers de police judiciaire, syst\u00e8me d'information Schengen, fichiers de renseignement, FICOBA, etc.). Les membres de la CNIL ayant la qualit\u00e9 de magistrat proc\u00e8dent \u00e0 [ces v\u00e9rifications ](http://www.cnil.fr/vos-droits/exercer-vos-droits/le-droit-dacces/le-droit-daccces-indirect/)avec le concours du service du DAI.\n\nLe jeu de donn\u00e9es contient le nombre de demandes re\u00e7ues chaque ann\u00e9e par la CNIL depuis 1984 ainsi que le nombre de v\u00e9rifications r\u00e9alis\u00e9es (une m\u00eame demande \u00e9tant susceptible de porter sur plusieurs fichiers).",
+      "extras": {},
+      "filesize": 11217,
+      "filetype": "file",
+      "format": "xlsx",
+      "id": "eab9bca1-e38e-4d0e-9a4e-d63c9d12347d",
+      "last_modified": "2017-03-30T17:38:00.211000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/eab9bca1-e38e-4d0e-9a4e-d63c9d12347d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 25
+      },
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "published": "2017-03-30T00:00:00",
+      "title": "Droit d'acc\u00e8s indirect",
+      "url": "https://www.data.gouv.fr/s/resources/droit-dacces-indirect-donnees-generales/20170330-173755/OpenCNIL_Volumes_DAI_depuis_1984_VD_20170329.xlsx"
+    }
+  ],
+  "slug": "droit-dacces-indirect-donnees-generales",
+  "spatial": {
+    "geom": null,
+    "granularity": "country",
+    "zones": [
+      "country:fr"
+    ]
+  },
+  "tags": [
+    "acces",
+    "cnil",
+    "droit",
+    "fichiers",
+    "ficoba",
+    "gendarmerie",
+    "indirect",
+    "informatique-et-libertes",
+    "police",
+    "renseignement",
+    "schengen"
+  ],
+  "temporal_coverage": null,
+  "title": "Droit d'acc\u00e8s indirect (donn\u00e9es g\u00e9n\u00e9rales)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/droit-dacces-indirect-donnees-generales/"
+}

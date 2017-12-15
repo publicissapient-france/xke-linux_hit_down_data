@@ -1,0 +1,99 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T18:15:44.618000",
+  "deleted": null,
+  "description": "Ces chiffres concernent les DEFM : Demandeurs d'Emploi en Fin de Mois. \n\nPr\u00e9cision sur la cat\u00e9gorie A : selon l'INSEE, la cat\u00e9gorie A correspond aux \"demandeurs d'emplois tenus de faire des actes positifs de recherche d'emploi, sans emploi\".",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T05:35:28.844148",
+    "harvest:remote_id": "demandeurs_d_emplois_categorie_a_de_janvier_2000_a_avril_2013",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/demandeurs_d_emplois_categorie_a_de_janvier_2000_a_avril_2013/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59591c30a3a7291dcf9c8146",
+  "last_modified": "2017-11-27T05:35:28.846000",
+  "last_update": "2017-11-27T05:35:28.843000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/demandeurs-demploi-categorie-a-de-janvier-2000-a-avril-2013/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:35:28.843000",
+      "description": "- *Ann\u00e9e*: annee[int]\n- *Mois*: mois[text]\n- *Paris*: paris[int]\n- *Seine-et-Marne*: seine_et_marne[int]\n- *Yvelines*: yvelines[int]\n- *Essonne*: essonne[int]\n- *Hauts-de-Seine*: hauts_de_seine[int]\n- *Seine-Saint-Denis*: seine_saint_denis[int]\n- *Val-de-Marne*: val_de_marne[int]\n- *Val-d'Oise*: val_d_oise[int]\n- *Ile-de-France*: ile_de_france[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "aa4e3062-e737-484a-bc71-5c087c07e75e",
+      "last_modified": "2013-07-15T07:46:46",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/aa4e3062-e737-484a-bc71-5c087c07e75e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:35:28.843000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/demandeurs_d_emplois_categorie_a_de_janvier_2000_a_avril_2013/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:35:28.843000",
+      "description": "- *Ann\u00e9e*: annee[int]\n- *Mois*: mois[text]\n- *Paris*: paris[int]\n- *Seine-et-Marne*: seine_et_marne[int]\n- *Yvelines*: yvelines[int]\n- *Essonne*: essonne[int]\n- *Hauts-de-Seine*: hauts_de_seine[int]\n- *Seine-Saint-Denis*: seine_saint_denis[int]\n- *Val-de-Marne*: val_de_marne[int]\n- *Val-d'Oise*: val_d_oise[int]\n- *Ile-de-France*: ile_de_france[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "d22242d1-79ba-4100-917c-e676364e8e64",
+      "last_modified": "2013-07-15T07:46:46",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d22242d1-79ba-4100-917c-e676364e8e64",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:35:28.843000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/demandeurs_d_emplois_categorie_a_de_janvier_2000_a_avril_2013/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "demandeurs-demploi-categorie-a-de-janvier-2000-a-avril-2013",
+  "spatial": null,
+  "tags": [
+    "emploi",
+    "population"
+  ],
+  "temporal_coverage": null,
+  "title": "Demandeurs d'emploi cat\u00e9gorie A : de janvier 2000 \u00e0 avril 2013",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/demandeurs-demploi-categorie-a-de-janvier-2000-a-avril-2013/"
+}

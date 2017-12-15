@@ -1,0 +1,145 @@
+{
+  "badges": [],
+  "created_at": "2017-01-31T17:46:46.323000",
+  "deleted": null,
+  "description": "Liste et localisation des institutions culturelles fran\u00e7aise produisant des ressources p\u00e9dagogiques en ligne et partenaires du site Histoire des arts.  \nLa g\u00e9olocalisation de ce jeu de donn\u00e9es est effectu\u00e9e \u00e0 partir de l'adresse postale, et \u00e0 d\u00e9faut, du code postal.\n\n[Consultez le portail Histoire des arts ](http://www.histoiredesarts.culture.fr/)",
+  "extras": {
+    "harvest:domain": "data.culturecommunication.gouv.fr",
+    "harvest:last_update": "2017-11-27T05:25:03.201687",
+    "harvest:remote_id": "liste-des-institutions-culturelles-francaise-produisant-des-ressources-pedagogiq",
+    "harvest:source_id": "5890bf69c751df4121ae0a65",
+    "ods:has_records": true,
+    "ods:url": "https://data.culturecommunication.gouv.fr//explore/dataset/liste-des-institutions-culturelles-francaise-produisant-des-ressources-pedagogiq/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5890bf76a3a72974cbf0dc8f",
+  "last_modified": "2017-11-27T05:25:03.206000",
+  "last_update": "2017-11-27T05:25:03.200000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff91a3a7292c64a77f73",
+    "logo": "https://www.data.gouv.fr/s/avatars/cf/f1ce1cb584470c8b83a9839dd9c83e-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/cf/f1ce1cb584470c8b83a9839dd9c83e-100.jpg",
+    "name": "Minist\u00e8re de la Culture",
+    "page": "https://www.data.gouv.fr/fr/organizations/ministere-de-la-culture-et-de-la-communication/",
+    "slug": "ministere-de-la-culture-et-de-la-communication",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ministere-de-la-culture-et-de-la-communication/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/institutions-culturelles-productrices-de-ressources-pedagogiques-en-ligne/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:25:03.200000",
+      "description": "- *Institution*: institution[text]\n- *site*: site[text]\n- *num_voie*: num_voie[text]\n- *nom_voie*: nom_voie[text]\n- *adresse*: adresse[text]\n- *CP Ville*: cp_ville[text]\n- *Ville*: ville[text]\n- *R\u00e9gion*: region[text]\n- *geolocalisation*: geolocalisation[text]\n- *geo_cp*: geo_cp[text]\n- *coordonnees_finales*: coordonnees_finales[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "5b691a0d-f845-4b34-8dfc-d61defd1d7f7",
+      "last_modified": "2017-09-14T10:48:27",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5b691a0d-f845-4b34-8dfc-d61defd1d7f7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:25:03.200000",
+      "title": "Export au format CSV",
+      "url": "https://data.culturecommunication.gouv.fr//explore/dataset/liste-des-institutions-culturelles-francaise-produisant-des-ressources-pedagogiq/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:25:03.200000",
+      "description": "- *Institution*: institution[text]\n- *site*: site[text]\n- *num_voie*: num_voie[text]\n- *nom_voie*: nom_voie[text]\n- *adresse*: adresse[text]\n- *CP Ville*: cp_ville[text]\n- *Ville*: ville[text]\n- *R\u00e9gion*: region[text]\n- *geolocalisation*: geolocalisation[text]\n- *geo_cp*: geo_cp[text]\n- *coordonnees_finales*: coordonnees_finales[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "f6fb5f34-4448-41be-938a-57272a0e2541",
+      "last_modified": "2017-09-14T10:48:27",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f6fb5f34-4448-41be-938a-57272a0e2541",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:25:03.200000",
+      "title": "Export au format JSON",
+      "url": "https://data.culturecommunication.gouv.fr//explore/dataset/liste-des-institutions-culturelles-francaise-produisant-des-ressources-pedagogiq/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:25:03.200000",
+      "description": "- *Institution*: institution[text]\n- *site*: site[text]\n- *num_voie*: num_voie[text]\n- *nom_voie*: nom_voie[text]\n- *adresse*: adresse[text]\n- *CP Ville*: cp_ville[text]\n- *Ville*: ville[text]\n- *R\u00e9gion*: region[text]\n- *geolocalisation*: geolocalisation[text]\n- *geo_cp*: geo_cp[text]\n- *coordonnees_finales*: coordonnees_finales[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "0788a0cb-02c7-489c-aa0b-bc0c447ee0ca",
+      "last_modified": "2017-09-14T10:48:27",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0788a0cb-02c7-489c-aa0b-bc0c447ee0ca",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:25:03.200000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.culturecommunication.gouv.fr//explore/dataset/liste-des-institutions-culturelles-francaise-produisant-des-ressources-pedagogiq/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:25:03.200000",
+      "description": "- *Institution*: institution[text]\n- *site*: site[text]\n- *num_voie*: num_voie[text]\n- *nom_voie*: nom_voie[text]\n- *adresse*: adresse[text]\n- *CP Ville*: cp_ville[text]\n- *Ville*: ville[text]\n- *R\u00e9gion*: region[text]\n- *geolocalisation*: geolocalisation[text]\n- *geo_cp*: geo_cp[text]\n- *coordonnees_finales*: coordonnees_finales[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "703ac5ed-5dbb-40cd-ab43-afd89fef3924",
+      "last_modified": "2017-09-14T10:48:27",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/703ac5ed-5dbb-40cd-ab43-afd89fef3924",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:25:03.200000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.culturecommunication.gouv.fr//explore/dataset/liste-des-institutions-culturelles-francaise-produisant-des-ressources-pedagogiq/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "institutions-culturelles-productrices-de-ressources-pedagogiques-en-ligne",
+  "spatial": null,
+  "tags": [
+    "education-enseignement",
+    "histoire-des-arts",
+    "organisme-culturel"
+  ],
+  "temporal_coverage": null,
+  "title": "Institutions culturelles productrices de ressources p\u00e9dagogiques en ligne",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/institutions-culturelles-productrices-de-ressources-pedagogiques-en-ligne/"
+}

@@ -1,0 +1,47 @@
+{
+  "acronym": null,
+  "badges": [],
+  "created_at": "2017-01-16T16:50:28.415000",
+  "deleted": null,
+  "description": "Ville de Beauvais, 57 000 habitants au c\u0153ur de l'Oise.",
+  "id": "587cebc488ee3805cb9b81a4",
+  "last_modified": "2017-09-05T03:13:02.034000",
+  "logo": "https://www.data.gouv.fr/s/avatars/ce/4e140ed3d9438d864540827f44799f-original.jpg",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/ce/4e140ed3d9438d864540827f44799f-100.jpg",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Wilfried",
+        "id": "587ca2f6c751df34e3ae0a65",
+        "last_name": "Dorison",
+        "page": "https://www.data.gouv.fr/fr/users/wilfried-dorison/",
+        "slug": "wilfried-dorison",
+        "uri": "https://www.data.gouv.fr/api/1/users/wilfried-dorison/"
+      }
+    }
+  ],
+  "metrics": {
+    "badges": 0,
+    "dataset_views": 0,
+    "datasets": 1,
+    "followers": 1,
+    "members": 1,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 0,
+    "resource_downloads": 0,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "name": "Ville de Beauvais",
+  "page": "https://www.data.gouv.fr/fr/organizations/ville-de-beauvais/",
+  "slug": "ville-de-beauvais",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/ville-de-beauvais/",
+  "url": "http://www.beauvais.fr"
+}

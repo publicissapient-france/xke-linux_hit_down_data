@@ -1,0 +1,151 @@
+{
+  "badges": [],
+  "created_at": "2017-03-01T10:58:17.571000",
+  "deleted": null,
+  "description": "Caract\u00e9ristiques des principaux \u00e9tablissements d'enseignement sup\u00e9rieur. Situation au 1er janvier 2017.",
+  "extras": {
+    "harvest:domain": "opendata.lillemetropole.fr",
+    "harvest:last_update": "2017-11-27T05:30:01.572771",
+    "harvest:remote_id": "principaux-etablissements-denseignement-superieur",
+    "harvest:source_id": "58b68fdcc751df10ea84f9cc",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.lillemetropole.fr//explore/dataset/principaux-etablissements-denseignement-superieur/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "58b69b39a3a7295a7c825114",
+  "last_modified": "2017-11-27T05:30:01.574000",
+  "last_update": "2017-11-27T05:30:01.572000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "MEL",
+    "class": "Organization",
+    "id": "58b69c62c751df4b175dd7a4",
+    "logo": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-100.png",
+    "name": "M\u00e9tropole Europ\u00e9enne de Lille ",
+    "page": "https://www.data.gouv.fr/fr/organizations/metropole-europeenne-de-lille/",
+    "slug": "metropole-europeenne-de-lille",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/metropole-europeenne-de-lille/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/principaux-etablissements-denseignement-superieur-sur-le-territoire-de-la-mel/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:30:01.571000",
+      "description": "- *uai - identifiant*: uai[text]\n- *Libell\u00e9*: uo_lib[text]\n- *sigle*: sigle[text]\n- *type d'\u00e9tablissement*: type_d_etablissement[text]\n- *Secteur d'\u00e9tablissement*: secteur_d_etablissement[text]\n- *Site internet*: url[text]\n- *G\u00e9olocalisation*: coordonnees[geo_point_2d]\n- *rattachement*: rattachement[text]\n- *rattachement_identifiants*: rattachement_identifiants[text]\n- *dernier_decret_legifrance*: dernier_decret_legifrance[text]\n- *localisation*: localisation[text]\n- *Code commune*: com_code[text]\n- *Commune*: com_nom[text]\n- *Code unit\u00e9 urbaine*: uucr_id[text]\n- *Unit\u00e9 urbaine*: uucr_nom[text]\n- *Code d\u00e9partement*: dep_id[text]\n- *D\u00e9partement*: dep_nom[text]\n- *Code acad\u00e9mie*: aca_id[text]\n- *Acad\u00e9mie*: aca_nom[text]\n- *Code r\u00e9gion*: reg_id[text]\n- *R\u00e9gion*: reg_nom[text]\n- *Mention distribution*: mention_distribution[text]\n- *Adresse*: adresse_uai[text]\n- *Lieu dit*: lieu_dit_uai[text]\n- *Boite postale*: boite_postale_uai[text]\n- *Code postal*: code_postal_uai[text]\n- *Localit\u00e9*: localite_acheminement_uai[text]\n- *Pays*: pays_etranger_acheminement[text]\n- *Num\u00e9ro de t\u00e9l\u00e9phone*: numero_telephone_uai[text]\n- *siret*: siret[text]\n- *Identifiant GRID*: identifiant_grid[text]\n- *identifiant_eter*: identifiant_eter[text]\n- *statut_juridique_court*: statut_juridique_court[text]\n- *Statut juridique*: statut_juridique_long[text]\n- *qualification_court*: qualification_court[text]\n- *Qualification*: qualification_long[text]\n- *compte_facebook*: compte_facebook[text]\n- *compte_twitter*: compte_twitter[text]\n- *compte_flickr*: compte_flickr[text]\n- *flux_rss*: flux_rss[text]\n- *compte_linkedin*: compte_linkedin[text]\n- *compte_pinterest*: compte_pinterest[text]\n- *compte_france_culture*: compte_france_culture[text]\n- *compte_scribd*: compte_scribd[text]\n- *compte_scoopit*: compte_scoopit[text]\n- *compte_tumblr*: compte_tumblr[text]\n- *compte_viadeo*: compte_viadeo[text]\n- *compte_dailymotion*: compte_dailymotion[text]\n- *compte_vimeo*: compte_vimeo[text]\n- *compte_youtube*: compte_youtube[text]\n- *compte_googleplus*: compte_googleplus[text]\n- *autres*: autres[text]\n- *mooc*: mooc[text]\n- *statut_operateur_lolf*: statut_operateur_lolf[text]\n- *libelle_mission_chef_de_file*: libelle_mission_chef_de_file[text]\n- *identifiant_programme_lolf_chef_de_file*: identifiant_programme_lolf_chef_de_file[text]\n- *libelle_programme_lolf_chef_de_file*: libelle_programme_lolf_chef_de_file[text]\n- *identifiants_autres_programmes_lolf*: identifiants_autres_programmes_lolf[text]\n- *libelles_autres_programmes_lolf*: libelles_autres_programmes_lolf[text]\n- *association*: association[text]\n- *association_identifiants*: association_identifiants[text]\n- *Identifiant wikidata*: identifiant_wikidata[text]\n- *El\u00e9ment GRID*: element_grid[text]\n- *Identifiant OrgRef*: identifiant_orgref[text]\n- *Identifiant ISNI*: identifiant_isni[text]\n- *El\u00e9ment ISNI*: element_isni[text]\n- *El\u00e9ment Funding Data*: element_fundref[text]\n- *Ancien code r\u00e9gion*: reg_id_old[text]\n- *Ancienne r\u00e9gion*: reg_nom_old[text]\n- *English name*: uo_lib_en[text]\n- *El\u00e9ment wikidata*: element_wikidata[text]\n- *Effectifs d'\u00e9tudiants inscrits 2010-11*: inscrits_2010[text]\n- *Effectifs d'\u00e9tudiants inscrits 2011-12*: inscrits_2011[text]\n- *Effectifs d'\u00e9tudiants inscrits 2012-13*: inscrits_2012[text]\n- *Effectifs d'\u00e9tudiants inscrits 2013-14*: inscrits_2013[text]\n- *Effectifs d'\u00e9tudiants inscrits 2014-15*: inscrits_2014[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b992d77e-6d07-4400-843e-f9b1f6c79676",
+      "last_modified": "2017-02-15T11:16:52",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b992d77e-6d07-4400-843e-f9b1f6c79676",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:30:01.571000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/principaux-etablissements-denseignement-superieur/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:30:01.571000",
+      "description": "- *uai - identifiant*: uai[text]\n- *Libell\u00e9*: uo_lib[text]\n- *sigle*: sigle[text]\n- *type d'\u00e9tablissement*: type_d_etablissement[text]\n- *Secteur d'\u00e9tablissement*: secteur_d_etablissement[text]\n- *Site internet*: url[text]\n- *G\u00e9olocalisation*: coordonnees[geo_point_2d]\n- *rattachement*: rattachement[text]\n- *rattachement_identifiants*: rattachement_identifiants[text]\n- *dernier_decret_legifrance*: dernier_decret_legifrance[text]\n- *localisation*: localisation[text]\n- *Code commune*: com_code[text]\n- *Commune*: com_nom[text]\n- *Code unit\u00e9 urbaine*: uucr_id[text]\n- *Unit\u00e9 urbaine*: uucr_nom[text]\n- *Code d\u00e9partement*: dep_id[text]\n- *D\u00e9partement*: dep_nom[text]\n- *Code acad\u00e9mie*: aca_id[text]\n- *Acad\u00e9mie*: aca_nom[text]\n- *Code r\u00e9gion*: reg_id[text]\n- *R\u00e9gion*: reg_nom[text]\n- *Mention distribution*: mention_distribution[text]\n- *Adresse*: adresse_uai[text]\n- *Lieu dit*: lieu_dit_uai[text]\n- *Boite postale*: boite_postale_uai[text]\n- *Code postal*: code_postal_uai[text]\n- *Localit\u00e9*: localite_acheminement_uai[text]\n- *Pays*: pays_etranger_acheminement[text]\n- *Num\u00e9ro de t\u00e9l\u00e9phone*: numero_telephone_uai[text]\n- *siret*: siret[text]\n- *Identifiant GRID*: identifiant_grid[text]\n- *identifiant_eter*: identifiant_eter[text]\n- *statut_juridique_court*: statut_juridique_court[text]\n- *Statut juridique*: statut_juridique_long[text]\n- *qualification_court*: qualification_court[text]\n- *Qualification*: qualification_long[text]\n- *compte_facebook*: compte_facebook[text]\n- *compte_twitter*: compte_twitter[text]\n- *compte_flickr*: compte_flickr[text]\n- *flux_rss*: flux_rss[text]\n- *compte_linkedin*: compte_linkedin[text]\n- *compte_pinterest*: compte_pinterest[text]\n- *compte_france_culture*: compte_france_culture[text]\n- *compte_scribd*: compte_scribd[text]\n- *compte_scoopit*: compte_scoopit[text]\n- *compte_tumblr*: compte_tumblr[text]\n- *compte_viadeo*: compte_viadeo[text]\n- *compte_dailymotion*: compte_dailymotion[text]\n- *compte_vimeo*: compte_vimeo[text]\n- *compte_youtube*: compte_youtube[text]\n- *compte_googleplus*: compte_googleplus[text]\n- *autres*: autres[text]\n- *mooc*: mooc[text]\n- *statut_operateur_lolf*: statut_operateur_lolf[text]\n- *libelle_mission_chef_de_file*: libelle_mission_chef_de_file[text]\n- *identifiant_programme_lolf_chef_de_file*: identifiant_programme_lolf_chef_de_file[text]\n- *libelle_programme_lolf_chef_de_file*: libelle_programme_lolf_chef_de_file[text]\n- *identifiants_autres_programmes_lolf*: identifiants_autres_programmes_lolf[text]\n- *libelles_autres_programmes_lolf*: libelles_autres_programmes_lolf[text]\n- *association*: association[text]\n- *association_identifiants*: association_identifiants[text]\n- *Identifiant wikidata*: identifiant_wikidata[text]\n- *El\u00e9ment GRID*: element_grid[text]\n- *Identifiant OrgRef*: identifiant_orgref[text]\n- *Identifiant ISNI*: identifiant_isni[text]\n- *El\u00e9ment ISNI*: element_isni[text]\n- *El\u00e9ment Funding Data*: element_fundref[text]\n- *Ancien code r\u00e9gion*: reg_id_old[text]\n- *Ancienne r\u00e9gion*: reg_nom_old[text]\n- *English name*: uo_lib_en[text]\n- *El\u00e9ment wikidata*: element_wikidata[text]\n- *Effectifs d'\u00e9tudiants inscrits 2010-11*: inscrits_2010[text]\n- *Effectifs d'\u00e9tudiants inscrits 2011-12*: inscrits_2011[text]\n- *Effectifs d'\u00e9tudiants inscrits 2012-13*: inscrits_2012[text]\n- *Effectifs d'\u00e9tudiants inscrits 2013-14*: inscrits_2013[text]\n- *Effectifs d'\u00e9tudiants inscrits 2014-15*: inscrits_2014[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "7f8d9931-9a79-4545-b20a-c85cf82bdf15",
+      "last_modified": "2017-02-15T11:16:52",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7f8d9931-9a79-4545-b20a-c85cf82bdf15",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:30:01.571000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/principaux-etablissements-denseignement-superieur/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:30:01.571000",
+      "description": "- *uai - identifiant*: uai[text]\n- *Libell\u00e9*: uo_lib[text]\n- *sigle*: sigle[text]\n- *type d'\u00e9tablissement*: type_d_etablissement[text]\n- *Secteur d'\u00e9tablissement*: secteur_d_etablissement[text]\n- *Site internet*: url[text]\n- *G\u00e9olocalisation*: coordonnees[geo_point_2d]\n- *rattachement*: rattachement[text]\n- *rattachement_identifiants*: rattachement_identifiants[text]\n- *dernier_decret_legifrance*: dernier_decret_legifrance[text]\n- *localisation*: localisation[text]\n- *Code commune*: com_code[text]\n- *Commune*: com_nom[text]\n- *Code unit\u00e9 urbaine*: uucr_id[text]\n- *Unit\u00e9 urbaine*: uucr_nom[text]\n- *Code d\u00e9partement*: dep_id[text]\n- *D\u00e9partement*: dep_nom[text]\n- *Code acad\u00e9mie*: aca_id[text]\n- *Acad\u00e9mie*: aca_nom[text]\n- *Code r\u00e9gion*: reg_id[text]\n- *R\u00e9gion*: reg_nom[text]\n- *Mention distribution*: mention_distribution[text]\n- *Adresse*: adresse_uai[text]\n- *Lieu dit*: lieu_dit_uai[text]\n- *Boite postale*: boite_postale_uai[text]\n- *Code postal*: code_postal_uai[text]\n- *Localit\u00e9*: localite_acheminement_uai[text]\n- *Pays*: pays_etranger_acheminement[text]\n- *Num\u00e9ro de t\u00e9l\u00e9phone*: numero_telephone_uai[text]\n- *siret*: siret[text]\n- *Identifiant GRID*: identifiant_grid[text]\n- *identifiant_eter*: identifiant_eter[text]\n- *statut_juridique_court*: statut_juridique_court[text]\n- *Statut juridique*: statut_juridique_long[text]\n- *qualification_court*: qualification_court[text]\n- *Qualification*: qualification_long[text]\n- *compte_facebook*: compte_facebook[text]\n- *compte_twitter*: compte_twitter[text]\n- *compte_flickr*: compte_flickr[text]\n- *flux_rss*: flux_rss[text]\n- *compte_linkedin*: compte_linkedin[text]\n- *compte_pinterest*: compte_pinterest[text]\n- *compte_france_culture*: compte_france_culture[text]\n- *compte_scribd*: compte_scribd[text]\n- *compte_scoopit*: compte_scoopit[text]\n- *compte_tumblr*: compte_tumblr[text]\n- *compte_viadeo*: compte_viadeo[text]\n- *compte_dailymotion*: compte_dailymotion[text]\n- *compte_vimeo*: compte_vimeo[text]\n- *compte_youtube*: compte_youtube[text]\n- *compte_googleplus*: compte_googleplus[text]\n- *autres*: autres[text]\n- *mooc*: mooc[text]\n- *statut_operateur_lolf*: statut_operateur_lolf[text]\n- *libelle_mission_chef_de_file*: libelle_mission_chef_de_file[text]\n- *identifiant_programme_lolf_chef_de_file*: identifiant_programme_lolf_chef_de_file[text]\n- *libelle_programme_lolf_chef_de_file*: libelle_programme_lolf_chef_de_file[text]\n- *identifiants_autres_programmes_lolf*: identifiants_autres_programmes_lolf[text]\n- *libelles_autres_programmes_lolf*: libelles_autres_programmes_lolf[text]\n- *association*: association[text]\n- *association_identifiants*: association_identifiants[text]\n- *Identifiant wikidata*: identifiant_wikidata[text]\n- *El\u00e9ment GRID*: element_grid[text]\n- *Identifiant OrgRef*: identifiant_orgref[text]\n- *Identifiant ISNI*: identifiant_isni[text]\n- *El\u00e9ment ISNI*: element_isni[text]\n- *El\u00e9ment Funding Data*: element_fundref[text]\n- *Ancien code r\u00e9gion*: reg_id_old[text]\n- *Ancienne r\u00e9gion*: reg_nom_old[text]\n- *English name*: uo_lib_en[text]\n- *El\u00e9ment wikidata*: element_wikidata[text]\n- *Effectifs d'\u00e9tudiants inscrits 2010-11*: inscrits_2010[text]\n- *Effectifs d'\u00e9tudiants inscrits 2011-12*: inscrits_2011[text]\n- *Effectifs d'\u00e9tudiants inscrits 2012-13*: inscrits_2012[text]\n- *Effectifs d'\u00e9tudiants inscrits 2013-14*: inscrits_2013[text]\n- *Effectifs d'\u00e9tudiants inscrits 2014-15*: inscrits_2014[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "612f0094-1c55-4386-8e0e-cda014827673",
+      "last_modified": "2017-02-15T11:16:52",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/612f0094-1c55-4386-8e0e-cda014827673",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:30:01.572000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/principaux-etablissements-denseignement-superieur/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:30:01.572000",
+      "description": "- *uai - identifiant*: uai[text]\n- *Libell\u00e9*: uo_lib[text]\n- *sigle*: sigle[text]\n- *type d'\u00e9tablissement*: type_d_etablissement[text]\n- *Secteur d'\u00e9tablissement*: secteur_d_etablissement[text]\n- *Site internet*: url[text]\n- *G\u00e9olocalisation*: coordonnees[geo_point_2d]\n- *rattachement*: rattachement[text]\n- *rattachement_identifiants*: rattachement_identifiants[text]\n- *dernier_decret_legifrance*: dernier_decret_legifrance[text]\n- *localisation*: localisation[text]\n- *Code commune*: com_code[text]\n- *Commune*: com_nom[text]\n- *Code unit\u00e9 urbaine*: uucr_id[text]\n- *Unit\u00e9 urbaine*: uucr_nom[text]\n- *Code d\u00e9partement*: dep_id[text]\n- *D\u00e9partement*: dep_nom[text]\n- *Code acad\u00e9mie*: aca_id[text]\n- *Acad\u00e9mie*: aca_nom[text]\n- *Code r\u00e9gion*: reg_id[text]\n- *R\u00e9gion*: reg_nom[text]\n- *Mention distribution*: mention_distribution[text]\n- *Adresse*: adresse_uai[text]\n- *Lieu dit*: lieu_dit_uai[text]\n- *Boite postale*: boite_postale_uai[text]\n- *Code postal*: code_postal_uai[text]\n- *Localit\u00e9*: localite_acheminement_uai[text]\n- *Pays*: pays_etranger_acheminement[text]\n- *Num\u00e9ro de t\u00e9l\u00e9phone*: numero_telephone_uai[text]\n- *siret*: siret[text]\n- *Identifiant GRID*: identifiant_grid[text]\n- *identifiant_eter*: identifiant_eter[text]\n- *statut_juridique_court*: statut_juridique_court[text]\n- *Statut juridique*: statut_juridique_long[text]\n- *qualification_court*: qualification_court[text]\n- *Qualification*: qualification_long[text]\n- *compte_facebook*: compte_facebook[text]\n- *compte_twitter*: compte_twitter[text]\n- *compte_flickr*: compte_flickr[text]\n- *flux_rss*: flux_rss[text]\n- *compte_linkedin*: compte_linkedin[text]\n- *compte_pinterest*: compte_pinterest[text]\n- *compte_france_culture*: compte_france_culture[text]\n- *compte_scribd*: compte_scribd[text]\n- *compte_scoopit*: compte_scoopit[text]\n- *compte_tumblr*: compte_tumblr[text]\n- *compte_viadeo*: compte_viadeo[text]\n- *compte_dailymotion*: compte_dailymotion[text]\n- *compte_vimeo*: compte_vimeo[text]\n- *compte_youtube*: compte_youtube[text]\n- *compte_googleplus*: compte_googleplus[text]\n- *autres*: autres[text]\n- *mooc*: mooc[text]\n- *statut_operateur_lolf*: statut_operateur_lolf[text]\n- *libelle_mission_chef_de_file*: libelle_mission_chef_de_file[text]\n- *identifiant_programme_lolf_chef_de_file*: identifiant_programme_lolf_chef_de_file[text]\n- *libelle_programme_lolf_chef_de_file*: libelle_programme_lolf_chef_de_file[text]\n- *identifiants_autres_programmes_lolf*: identifiants_autres_programmes_lolf[text]\n- *libelles_autres_programmes_lolf*: libelles_autres_programmes_lolf[text]\n- *association*: association[text]\n- *association_identifiants*: association_identifiants[text]\n- *Identifiant wikidata*: identifiant_wikidata[text]\n- *El\u00e9ment GRID*: element_grid[text]\n- *Identifiant OrgRef*: identifiant_orgref[text]\n- *Identifiant ISNI*: identifiant_isni[text]\n- *El\u00e9ment ISNI*: element_isni[text]\n- *El\u00e9ment Funding Data*: element_fundref[text]\n- *Ancien code r\u00e9gion*: reg_id_old[text]\n- *Ancienne r\u00e9gion*: reg_nom_old[text]\n- *English name*: uo_lib_en[text]\n- *El\u00e9ment wikidata*: element_wikidata[text]\n- *Effectifs d'\u00e9tudiants inscrits 2010-11*: inscrits_2010[text]\n- *Effectifs d'\u00e9tudiants inscrits 2011-12*: inscrits_2011[text]\n- *Effectifs d'\u00e9tudiants inscrits 2012-13*: inscrits_2012[text]\n- *Effectifs d'\u00e9tudiants inscrits 2013-14*: inscrits_2013[text]\n- *Effectifs d'\u00e9tudiants inscrits 2014-15*: inscrits_2014[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "7eaed527-34b7-4367-81c9-31508da68963",
+      "last_modified": "2017-02-15T11:16:52",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7eaed527-34b7-4367-81c9-31508da68963",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:30:01.572000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/principaux-etablissements-denseignement-superieur/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "principaux-etablissements-denseignement-superieur-sur-le-territoire-de-la-mel",
+  "spatial": null,
+  "tags": [
+    "academies",
+    "ecoles",
+    "education",
+    "enseignement",
+    "enseignement-superieur",
+    "etablissement",
+    "formation",
+    "recherche",
+    "universites"
+  ],
+  "temporal_coverage": null,
+  "title": "Principaux \u00e9tablissements d'enseignement sup\u00e9rieur sur le territoire de la MEL",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/principaux-etablissements-denseignement-superieur-sur-le-territoire-de-la-mel/"
+}

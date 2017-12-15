@@ -1,0 +1,46 @@
+{
+  "acronym": "GRTgaz",
+  "badges": [],
+  "created_at": "2017-10-16T09:49:05.576000",
+  "deleted": null,
+  "description": "GRTgaz construit, entretient et d\u00e9veloppe en France 85% du r\u00e9seau de transport de gaz naturel \u00e0 haute pression. Entreprise de service public, GRTgaz assure le bon fonctionnement du syst\u00e8me gazier dans les meilleures conditions de s\u00e9curit\u00e9, de co\u00fbt et de fiabilit\u00e9. Avec plus de 32000 km de gazoducs, 28 stations de compression et 4475 postes de livraison, GRTgaz assure ainsi l\u2019acheminement du gaz que lui confient ses clients exp\u00e9diteurs vers des sites industriels, des centrales de production d\u2019\u00e9lectricit\u00e9 \u00e0 gaz, ou bien vers des r\u00e9seaux de distribution publique pour l\u2019alimentation des particuliers, des collectivit\u00e9s et des entreprises.\n\nGRTgaz contribue \u00e0 alimenter la plateforme Open Data R\u00e9seaux Energies (ODRE) qui rassemble des donn\u00e9es gaz et \u00e9lectricit\u00e9 \u00e0 l'\u00e9chelle nationale : [https://opendata.reseaux-energies.fr/pages/accueil/](https://opendata.reseaux-energies.fr)",
+  "id": "59e4647188ee383dd24bfc85",
+  "last_modified": "2017-11-24T23:56:43.027000",
+  "logo": "https://www.data.gouv.fr/s/avatars/12/d70a359c7b46fa84ad834ceed5fa30-original.jpg",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/12/d70a359c7b46fa84ad834ceed5fa30-100.jpg",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Alain",
+        "id": "594785f388ee382f3565078e",
+        "last_name": "Bissonnier",
+        "page": "https://www.data.gouv.fr/fr/users/alain-bissonnier/",
+        "slug": "alain-bissonnier",
+        "uri": "https://www.data.gouv.fr/api/1/users/alain-bissonnier/"
+      }
+    }
+  ],
+  "metrics": {
+    "dataset_views": 0,
+    "datasets": 9,
+    "followers": 0,
+    "members": 1,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 0,
+    "resource_downloads": 2,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "name": "GRTgaz",
+  "page": "https://www.data.gouv.fr/fr/organizations/grtgaz/",
+  "slug": "grtgaz",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/grtgaz/",
+  "url": "http://www.grtgaz.com"
+}

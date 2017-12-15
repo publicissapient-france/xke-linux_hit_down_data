@@ -1,0 +1,127 @@
+{
+  "badges": [],
+  "created_at": "2016-03-31T22:54:31.651000",
+  "deleted": null,
+  "description": "Ces donn\u00e9es pr\u00e9sentent les loyers observ\u00e9s par les observatoires des loyers du r\u00e9seau selon le type de logement, l'\u00e9poque de construction, le nombre de pi\u00e8ces ou l'anciennet\u00e9 d'occupation. Les donn\u00e9es sont mise \u00e0 disposition pour chaque ann\u00e9e de collecte et selon deux \u00e9chelles g\u00e9ographiques : l'agglom\u00e9ration et la ville centre. Elles correspondent aux r\u00e9sultats pr\u00e9sent\u00e9s sur  www.observatoires-des-loyers.org.",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": null,
+  "id": "56fd8e8788ee387079c352f7",
+  "last_modified": "2017-10-10T15:41:31.108000",
+  "last_update": "2017-03-30T17:29:18.306000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 10
+  },
+  "organization": {
+    "acronym": "OLL",
+    "class": "Organization",
+    "id": "56c60175c751df04486c6de0",
+    "logo": "https://www.data.gouv.fr/s/avatars/2a/001570ae6b4b20a2e510ac6f9fe565-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2a/001570ae6b4b20a2e510ac6f9fe565-100.jpg",
+    "name": "Observatoires Locaux des Loyers",
+    "page": "https://www.data.gouv.fr/fr/organizations/observatoires-locaux-des-loyers/",
+    "slug": "observatoires-locaux-des-loyers",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/observatoires-locaux-des-loyers/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/resultats-nationaux-des-observatoires-locaux-des-loyers/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-03-30T17:29:18.305000",
+      "description": "Ce fichier contient les r\u00e9sultats publi\u00e9s sur le site internet du r\u00e9seau des observatoires de loyers pour les agglom\u00e9rations de Nice-Menton, de Marseille, d'Arles, de Besan\u00e7on, de Toulouse, de Montpellier et de S\u00e8te",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T13:43:36.463000",
+        "check:status": 200,
+        "check:url": "https://www.observatoires-des-loyers.org/datagouv/2016/Base_OP_2016_Nationale.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "1fee314d-c278-424f-a029-a74d877eb185",
+      "last_modified": "2017-10-10T15:41:30.761000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1fee314d-c278-424f-a029-a74d877eb185",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 4
+      },
+      "mime": null,
+      "published": "2017-03-30T17:29:18.306000",
+      "title": "Loyers 2016 dans les agglom\u00e9rations observ\u00e9es par les observatoires du r\u00e9seau",
+      "url": "https://www.observatoires-des-loyers.org/datagouv/2016/Base_OP_2016_Nationale.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2016-08-30T16:21:18.147000",
+      "description": "Ce fichier contient les r\u00e9sultats publi\u00e9s sur le site internet du r\u00e9seau des observatoires de loyers pour les agglom\u00e9rations de Nice-Menton, de Marseille, d'Arles, de Besan\u00e7on, de Toulouse, de Montpellier et de S\u00e8te",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T13:43:36.463000",
+        "check:status": 200,
+        "check:url": "https://www.observatoires-des-loyers.org/datagouv/2015/Base_OP_2015_Nationale.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "15d902ed-4dc3-457d-9c5d-bfe1151cb573",
+      "last_modified": "2017-10-10T15:41:30.940000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/15d902ed-4dc3-457d-9c5d-bfe1151cb573",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 14
+      },
+      "mime": null,
+      "published": "2016-08-30T16:21:18.147000",
+      "title": "Loyers 2015 dans les agglom\u00e9rations observ\u00e9es par les observatoires du r\u00e9seau",
+      "url": "https://www.observatoires-des-loyers.org/datagouv/2015/Base_OP_2015_Nationale.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2016-03-31T23:37:17.294000",
+      "description": "Ce fichier contient les r\u00e9sultats publi\u00e9s sur le site internet du r\u00e9seau des observatoires de loyers pour les agglom\u00e9rations de Nice-Menton, de Marseille, d'Arles, de Besan\u00e7on, de Toulouse, de Montpellier et de S\u00e8te",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T13:43:36.478000",
+        "check:status": 200,
+        "check:url": "https://www.observatoires-des-loyers.org/datagouv/2014/Base_OP_2014_Nationale.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "42aaf838-46c9-4434-95a9-00173c6d4627",
+      "last_modified": "2017-10-10T15:41:31.108000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/42aaf838-46c9-4434-95a9-00173c6d4627",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 35
+      },
+      "mime": null,
+      "published": "2016-03-31T23:37:17.294000",
+      "title": "Loyers 2014 dans les agglom\u00e9rations observ\u00e9es par les observatoires du r\u00e9seau",
+      "url": "https://www.observatoires-des-loyers.org/datagouv/2014/Base_OP_2014_Nationale.csv"
+    }
+  ],
+  "slug": "resultats-nationaux-des-observatoires-locaux-des-loyers",
+  "spatial": null,
+  "tags": [],
+  "temporal_coverage": null,
+  "title": "R\u00e9sultats nationaux des observatoires locaux des loyers",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/resultats-nationaux-des-observatoires-locaux-des-loyers/"
+}

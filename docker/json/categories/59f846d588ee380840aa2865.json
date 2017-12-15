@@ -1,0 +1,46 @@
+{
+  "acronym": "Coeur C\u00f4te Fleurie",
+  "badges": [],
+  "created_at": "2017-10-31T10:48:05.181000",
+  "deleted": null,
+  "description": "Cr\u00e9\u00e9 en 1974 par Michel d'Ornano, le District du Canton de Trouville-Deauville s'est transform\u00e9 le 1er janvier 2002 en une Communaut\u00e9 de Communes appel\u00e9e \"Coeur C\u00f4te Fleurie\". Regroupant les communes de : B\u00e9nerville-sur-Mer, Blonville-sur-Mer, Deauville, Saint-Arnoult, Saint-Pierre-Azif, Touques, Tourg\u00e9ville, Trouville-sur-Mer, Vauville, Villers-sur-Mer et Villerville, la Communaut\u00e9 de Communes compte de 20 282 (population INSEE) jusqu'\u00e0 120 000 habitants en pleine saison sur un territoire de 6 906 hectares. Le diagnostic du PLU fait \u00e9tat de 74 000 habitants en moyenne. La Communaut\u00e9 de Communes est un \u00c9tablissement Public de Coop\u00e9ration Intercommunale (EPCI) regroupant plusieurs communes d'un seul tenant et sans enclave. Elle a pour objet d'associer des communes au sein d'un espace de solidarit\u00e9, en vue de l'\u00e9laboration de projets communs de d\u00e9veloppement et d'am\u00e9nagement de l'espace",
+  "id": "59f846d588ee380840aa2865",
+  "last_modified": "2017-10-31T10:50:43.011000",
+  "logo": "https://www.data.gouv.fr/s/avatars/9c/51d093e5ff4e39a583c03020bb43cf-original.jpg",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/9c/51d093e5ff4e39a583c03020bb43cf-100.jpg",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Beno\u00eet",
+        "id": "59f703c388ee387fe606c70c",
+        "last_name": "Salif",
+        "page": "https://www.data.gouv.fr/fr/users/benoit-salif/",
+        "slug": "benoit-salif",
+        "uri": "https://www.data.gouv.fr/api/1/users/benoit-salif/"
+      }
+    }
+  ],
+  "metrics": {
+    "dataset_views": 0,
+    "datasets": 44,
+    "followers": 0,
+    "members": 1,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 0,
+    "resource_downloads": 2,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "name": "Communaut\u00e9 de Communes Coeur C\u00f4te Fleurie",
+  "page": "https://www.data.gouv.fr/fr/organizations/communaute-de-communes-coeur-cote-fleurie/",
+  "slug": "communaute-de-communes-coeur-cote-fleurie",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/communaute-de-communes-coeur-cote-fleurie/",
+  "url": "http://www.coeurcotefleurie.org/"
+}

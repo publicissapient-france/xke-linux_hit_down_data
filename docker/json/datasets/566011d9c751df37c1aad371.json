@@ -1,0 +1,197 @@
+{
+  "badges": [],
+  "created_at": "2015-12-03T10:56:41.332000",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es contient les subventions allou\u00e9es par la Commission europ\u00e9enne aux participants au PCRDT \u00e0 la date du 15 juillet 2015.\n\nDonn\u00e9es compl\u00e9mentaires dans Contrats sign\u00e9s du programme-cadre recherche et d\u00e9veloppement technologique (H2020) de la Commission europ\u00e9enne \n\nCes donn\u00e9es sont reprises dans les tableau de bord du site [Horizon 2020](http://www.horizon2020.gouv.fr/cid91235/donnees-statistiques-horizon-2020.html) du minist\u00e8re en charge de l'Enseignement sup\u00e9rieur et de la Recherche.",
+  "extras": {},
+  "frequency": "punctual",
+  "frequency_date": "2015-12-03T00:00:00",
+  "id": "566011d9c751df37c1aad371",
+  "last_modified": "2016-03-24T14:51:16.205000",
+  "last_update": "2015-12-03T00:00:00",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 1,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 1,
+    "views": 2
+  },
+  "organization": {
+    "acronym": "MESRI",
+    "class": "Organization",
+    "id": "534fff90a3a7292c64a77f45",
+    "logo": "https://www.data.gouv.fr/s/avatars/00/933e61180545a6a4c5afa4f6077183-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/00/933e61180545a6a4c5afa4f6077183-100.jpg",
+    "name": "Minist\u00e8re de l'Enseignement sup\u00e9rieur, de la Recherche et de l'Innovation",
+    "page": "https://www.data.gouv.fr/fr/organizations/enseignement-superieur-et-recherche/",
+    "slug": "enseignement-superieur-et-recherche",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/enseignement-superieur-et-recherche/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/participations-dans-les-contrats-signes-du-programme-cadre-recherche-et-developpement-technologique-h2020-de-la-commission-europeenne-1/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2015-12-03T11:25:12.149000",
+      "description": "",
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-11-07T08:13:38.386000",
+        "check:status": 404,
+        "check:url": "https://data.enseignementsup-recherche.gouv.fr/api/datasets/1.0/fr-esr-h2020_participations-dans-les-contrats-signes/attachments/fr_esr_h2020_pcrdt_contrats_signes_descriptif_docx/"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "docx",
+      "id": "0566c21a-8e53-48fa-91f0-141ff237853c",
+      "last_modified": "2016-03-24T14:51:16.205000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0566c21a-8e53-48fa-91f0-141ff237853c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": null,
+      "published": "2015-12-03T00:00:00",
+      "title": "Note explicative sur les donn\u00e9es H2020",
+      "url": "https://data.enseignementsup-recherche.gouv.fr/api/datasets/1.0/fr-esr-h2020_participations-dans-les-contrats-signes/attachments/fr_esr_h2020_pcrdt_contrats_signes_descriptif_docx/"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-12-03T11:25:12.149000",
+      "description": "Export CSV",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T06:57:45.326000",
+        "check:status": 200,
+        "check:url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-h2020_participations-dans-les-contrats-signes/download/?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "666867ec-7e41-43ad-ad62-cc7d621db511",
+      "last_modified": "2016-03-24T14:47:04.754000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/666867ec-7e41-43ad-ad62-cc7d621db511",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": null,
+      "published": "2015-12-03T00:00:00",
+      "title": "Export CSV",
+      "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-h2020_participations-dans-les-contrats-signes/download/?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-12-03T11:25:12.150000",
+      "description": "Export JSON",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T08:13:38.317000",
+        "check:status": 200,
+        "check:url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-h2020_participations-dans-les-contrats-signes/download/?format=json&timezone=Europe/Berlin"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "7c9d8194-ebe9-4489-bae1-a4f46c7d8be5",
+      "last_modified": "2016-03-24T14:48:17.953000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7c9d8194-ebe9-4489-bae1-a4f46c7d8be5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2015-12-03T00:00:00",
+      "title": "Export JSON",
+      "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-h2020_participations-dans-les-contrats-signes/download/?format=json&timezone=Europe/Berlin"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-12-03T11:25:12.150000",
+      "description": "Export Excel",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T02:22:36.560000",
+        "check:status": 200,
+        "check:url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-h2020_participations-dans-les-contrats-signes/download/?format=xls&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xlsx",
+      "id": "a70b1a1a-b000-44ce-a909-5be5fee1d1ef",
+      "last_modified": "2016-03-24T14:48:01.696000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a70b1a1a-b000-44ce-a909-5be5fee1d1ef",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": null,
+      "published": "2015-12-03T00:00:00",
+      "title": "Export Excel",
+      "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-h2020_participations-dans-les-contrats-signes/download/?format=xls&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-12-03T11:25:12.151000",
+      "description": "API",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T06:57:45.556000",
+        "check:status": 200,
+        "check:url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-h2020_participations-dans-les-contrats-signes/?tab=api"
+      },
+      "filesize": null,
+      "filetype": "api",
+      "format": null,
+      "id": "5e263e9e-b723-4c29-8a90-a43d21e08f59",
+      "last_modified": "2016-03-24T14:47:41.602000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5e263e9e-b723-4c29-8a90-a43d21e08f59",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2015-12-03T00:00:00",
+      "title": "API",
+      "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-h2020_participations-dans-les-contrats-signes/?tab=api"
+    }
+  ],
+  "slug": "participations-dans-les-contrats-signes-du-programme-cadre-recherche-et-developpement-technologique-h2020-de-la-commission-europeenne-1",
+  "spatial": {
+    "geom": null,
+    "granularity": "country",
+    "zones": [
+      "country-group:ue",
+      "country:fr"
+    ]
+  },
+  "tags": [
+    "europe",
+    "h2020",
+    "pcrdt",
+    "recherche",
+    "recherche-et-developpement"
+  ],
+  "temporal_coverage": {
+    "end": "2015-07-15",
+    "start": "2014-01-01"
+  },
+  "title": "Participations dans les contrats sign\u00e9s du programme-cadre recherche et d\u00e9veloppement technologique (H2020) de la Commission europ\u00e9enne",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/participations-dans-les-contrats-signes-du-programme-cadre-recherche-et-developpement-technologique-h2020-de-la-commission-europeenne-1/"
+}

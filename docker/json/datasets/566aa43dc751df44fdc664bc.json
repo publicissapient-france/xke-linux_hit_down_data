@@ -1,0 +1,79 @@
+{
+  "badges": [],
+  "created_at": "2015-12-11T11:23:57.044000",
+  "deleted": null,
+  "description": "Ces donn\u00e9es sont issues d'une collecte d\u2019informations r\u00e9alis\u00e9es par Quorum Impact et Mapotempo \u00e0 l\u2019\u00e9chelle nationale aupr\u00e8s des pr\u00e9fectures afin d\u2019obtenir des donn\u00e9es sur les plus de 50 000 lieux d\u2019affichage des panneaux \u00e9lectoraux. Elles ont \u00e9t\u00e9 align\u00e9es puis consolid\u00e9es et compl\u00e9t\u00e9es pour \u00eatre localis\u00e9es par g\u00e9ocodage automatique et associ\u00e9es \u00e0 un canton.\n",
+  "extras": {},
+  "frequency": "unknown",
+  "frequency_date": "2015-12-11T00:00:00",
+  "id": "566aa43dc751df44fdc664bc",
+  "last_modified": "2015-12-16T10:32:29.345000",
+  "last_update": "2015-12-11T11:26:32.640000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 1,
+    "followers": 0,
+    "issues": 1,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": null,
+  "owner": {
+    "avatar": "https://www.data.gouv.fr/s/avatars/ea/1561a47978421eb622bc9eefac29cf-original.png",
+    "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/ea/1561a47978421eb622bc9eefac29cf-100.png",
+    "class": "User",
+    "first_name": "Quorum",
+    "id": "565eedd888ee383673e72047",
+    "last_name": "HQ",
+    "page": "https://www.data.gouv.fr/fr/users/quorum-impact/",
+    "slug": "quorum-impact",
+    "uri": "https://www.data.gouv.fr/api/1/users/quorum-impact/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/affichage-electoral-optimise/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "d478f1dda3c0f608b1b50aa0e47f9fab2c96d144"
+      },
+      "created_at": "2015-12-11T11:26:32.640000",
+      "description": "",
+      "extras": {},
+      "filesize": 13064343,
+      "filetype": "file",
+      "format": "csv",
+      "id": "91eda571-a7c9-4b0b-9d90-6be922683990",
+      "last_modified": "2015-12-11T11:26:39.830000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/91eda571-a7c9-4b0b-9d90-6be922683990",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 9
+      },
+      "mime": "text/csv",
+      "published": "2015-12-11T11:26:32.640000",
+      "title": "panneaux d'affichage \u00e9lections",
+      "url": "https://www.data.gouv.fr/s/resources/affichage-electoral-optimise/20151211-112630/panneaux-election.csv"
+    }
+  ],
+  "slug": "affichage-electoral-optimise",
+  "spatial": {
+    "geom": null,
+    "granularity": "other",
+    "zones": []
+  },
+  "tags": [
+    "election-locale",
+    "elections",
+    "panneau-d-affichage"
+  ],
+  "temporal_coverage": null,
+  "title": "Affichage electoral Optimis\u00e9 ",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/affichage-electoral-optimise/"
+}

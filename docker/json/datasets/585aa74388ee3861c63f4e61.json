@@ -1,0 +1,194 @@
+{
+  "badges": [],
+  "created_at": "2016-12-21T17:01:07.444000",
+  "deleted": null,
+  "description": "Institution de Retraite Compl\u00e9mentaire des Agents Non Titulaires de l\u2019Etat et des Collectivit\u00e9s publiques.\n\nLe r\u00e9gime de l\u2019Ircantec s\u2019applique d\u2019une part aux salari\u00e9s des employeurs relevant du champ d\u2019application, d\u2019autre part aux \u00e9lus des collectivit\u00e9s territoriales. Les affili\u00e9s sont g\u00e9r\u00e9s selon deux r\u00e9glementations distinctes.\n\n- Salari\u00e9s : le r\u00e9gime est alors compl\u00e9mentaire de la S\u00e9curit\u00e9 sociale.\n- \u00c9lus : selon les cas, le r\u00e9gime est soit compl\u00e9mentaire de la S\u00e9curit\u00e9 sociale, soit le r\u00e9gime de retraite unique et obligatoire.\n\nLes nouveaux retrait\u00e9s sont des affili\u00e9s faisant calculer et mettre en paiement leurs droits \u00e0 retraite dans l\u2019ann\u00e9e consid\u00e9r\u00e9e.\n\nPour plus de d\u00e9tails, veuillez-vous r\u00e9f\u00e9rer au glossaire suivant\u00a0: [http://retraitesolidarite.caissedesdepots.fr/node/603/654](http://retraitesolidarite.caissedesdepots.fr/node/603/654)\n\nSource : Annuaires statistique et rapports d\u2019activit\u00e9 Ircantec \n",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": null,
+  "id": "585aa74388ee3861c63f4e61",
+  "last_modified": "2017-07-25T20:01:02.714000",
+  "last_update": "2017-06-30T00:00:00",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "583c0dcd88ee38765ac65bb3",
+    "logo": "https://www.data.gouv.fr/s/avatars/54/96509fd1244abbb678c746b173de0e-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/54/96509fd1244abbb678c746b173de0e-100.jpg",
+    "name": "Caisse des D\u00e9p\u00f4ts - Retraites",
+    "page": "https://www.data.gouv.fr/fr/organizations/caisse-des-depots-retraites/",
+    "slug": "caisse-des-depots-retraites",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/caisse-des-depots-retraites/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/nouveaux-retraites-ircantec-1/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-07-25T20:01:02.682000",
+      "description": "**Notice de lecture**\n\nColonne 1 : Ann\u00e9e.\n\nColonne 2 : Effectifs de nouveaux retrait\u00e9s ayant des points valid\u00e9s.\n\nColonne 3 : Effectifs de nouveaux retrait\u00e9s ayant des points valid\u00e9s et gratuits.\n\nColonne 4 : Effectifs de nouveaux retrait\u00e9s ayant des points cotis\u00e9s.\n\nColonne 5 : Effectifs de nouveaux retrait\u00e9s ayant des points cotis\u00e9s et gratuits.\n\nColonne 6 : Effectifs de nouveaux retrait\u00e9s ayant des points valid\u00e9s et cotis\u00e9s.\n\nColonne 7 : Effectifs de nouveaux retrait\u00e9s ayant des points valid\u00e9s et cotis\u00e9s et gratuits.\n\nColonne 8 : Effectifs de nouveaux retrait\u00e9s ayant des points faisant parti d'autres cas.\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T17:10:26.984000",
+        "check:status": 200,
+        "check:url": "http://retraitesolidarite.caissedesdepots.fr/sites/default/files/IRC_NvRET_04_originepts.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "4aadbf64-4676-4882-a020-597ef3ba802f",
+      "last_modified": "2017-07-25T20:01:02.682000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4aadbf64-4676-4882-a020-597ef3ba802f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-06-30T00:00:00",
+      "title": "Effectif des nouveaux retrait\u00e9s \u00e0 l\u2019IRCANTEC, par origine de points",
+      "url": "http://retraitesolidarite.caissedesdepots.fr/sites/default/files/IRC_NvRET_04_originepts.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-25T19:58:43.502000",
+      "description": "**Notice de lecture**\n\nColonne 1 : Ann\u00e9e.\n\nColonne 2 : Age des nouveaux retrait\u00e9s.\n\nColonne 3 : Effectif des nouveaux retrait\u00e9s femmes de droit direct.\n\nColonne 4 : Effectif des nouveaux retrait\u00e9s hommes de droit direct.\n\nColonne 5 : Nombre de points moyens des nouveaux retrait\u00e9s femmes.\n\nColonne 6 : Nombre de points moyens des nouveaux retrait\u00e9s hommes.\n\nColonne 7 : Dur\u00e9e moyenne de cotisation en ann\u00e9e des retrait\u00e9s femmes.\n\nColonne 8 : Dur\u00e9e moyenne de cotisation en ann\u00e9e des retrait\u00e9s hommes.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T17:10:26.971000",
+        "check:status": 200,
+        "check:url": "http://retraitesolidarite.caissedesdepots.fr/sites/default/files/IRC_NvRET_05_DP_age_sex.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "99817ee9-a4dd-48a4-8926-050cbbf38f53",
+      "last_modified": "2017-07-25T19:58:43.502000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/99817ee9-a4dd-48a4-8926-050cbbf38f53",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-06-30T00:00:00",
+      "title": "Effectif, nombre de points moyens et dur\u00e9e moyenne de carri\u00e8re des nouveaux retrait\u00e9s de droit direct \u00e0 l'Ircantec, par \u00e2ge",
+      "url": "http://retraitesolidarite.caissedesdepots.fr/sites/default/files/IRC_NvRET_05_DP_age_sex.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-25T19:54:56.403000",
+      "description": "**Notice de lecture**\n\nColonne 1 : Ann\u00e9e.\n\nColonne 2 : Sexe des nouveaux retrait\u00e9s.\n\nColonne 3 \u00e0 15 : Effectif des nouveaux retrait\u00e9s par sexe et par tranche de points.\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T17:10:27.003000",
+        "check:status": 200,
+        "check:url": "http://retraitesolidarite.caissedesdepots.fr/sites/default/files/IRC_NvRET_03_trpts_sex.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "65f208c8-5755-4008-b6cc-dfb37b3ddcc9",
+      "last_modified": "2017-07-25T19:54:56.403000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/65f208c8-5755-4008-b6cc-dfb37b3ddcc9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-06-30T00:00:00",
+      "title": "Effectif des nouveaux retrait\u00e9s \u00e0 l\u2019IRCANTEC, par tranche de points et par sexe",
+      "url": "http://retraitesolidarite.caissedesdepots.fr/sites/default/files/IRC_NvRET_03_trpts_sex.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-25T19:53:15.826000",
+      "description": "**Notice de lecture**\n\nColonne 1 : Ann\u00e9e.\n\nColonne 2 : Nombre de points moyens vers\u00e9s aux femmes ayant une p\u00e9riodicit\u00e9 de paiement en capital unique.\n\nColonne 3 : Nombre de points moyens vers\u00e9s aux femmes ayant une p\u00e9riodicit\u00e9 de paiement annuelle.\n\nColonne 4 : Nombre de points moyens vers\u00e9s aux femmes ayant une p\u00e9riodicit\u00e9 de paiement trismestrielle.\n\nColonne 5 : Nombre de points moyens vers\u00e9s aux femmes ayant une p\u00e9riodicit\u00e9 de paiement mensuelle.\n\nColonne 6 : Nombre de points moyens vers\u00e9s aux hommes ayant une p\u00e9riodicit\u00e9 de paiement en capital unique.\n\nColonne 7 : Nombre de points moyens vers\u00e9s aux hommes ayant une p\u00e9riodicit\u00e9 de paiement annuelle.\n\nColonne 8 : Nombre de points moyens vers\u00e9s aux hommes ayant une p\u00e9riodicit\u00e9 de paiement trimestrielle.\n\nColonne 9 : Nombre de points moyens vers\u00e9s aux hommes ayant une p\u00e9riodicit\u00e9 de paiement mensuelle",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T17:10:27.014000",
+        "check:status": 200,
+        "check:url": "http://retraitesolidarite.caissedesdepots.fr/sites/default/files/IRC_NvRET_02_per_ptsm_sex.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "05650ea1-5b72-4594-b2c5-9502c5069c09",
+      "last_modified": "2017-07-25T19:53:15.826000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/05650ea1-5b72-4594-b2c5-9502c5069c09",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-06-30T00:00:00",
+      "title": "Nombre de points moyens acquis par les nouveaux retrait\u00e9s \u00e0 l\u2019IRCANTEC, par p\u00e9riodicit\u00e9 de paiement",
+      "url": "http://retraitesolidarite.caissedesdepots.fr/sites/default/files/IRC_NvRET_02_per_ptsm_sex.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-25T19:50:56.267000",
+      "description": "**Notice de lecture**\n\nColonne 1 : Ann\u00e9e.\n\nColonne 2 : Effectif de femmes ayant une p\u00e9riodicit\u00e9 de paiement en capital unique.\n\nColonne 3 : Effectif de femmes ayant une p\u00e9riodicit\u00e9 de paiement annuelle.\n\nColonne 4 : Effectif de femmes ayant une p\u00e9riodicit\u00e9 de paiement trimestrielle.\n\nColonne 5 : Effectif de femmes ayant une p\u00e9riodicit\u00e9 de paiement mensuelle.\n\nColonne 6 : Effectif d'hommes ayant une p\u00e9riodicit\u00e9 de paiement en capital unique.\n\nColonne 7 : Effectif d'hommes ayant une p\u00e9riodicit\u00e9 de paiement annuelle.\n\nColonne 8 : Effectif d'hommes ayant une p\u00e9riodicit\u00e9 de paiement trimestrielle.\n\nColonne 9 : Effectif d'hommes ayant une p\u00e9riodicit\u00e9 de paiement mensuelle.\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T17:10:27.324000",
+        "check:status": 200,
+        "check:url": "http://retraitesolidarite.caissedesdepots.fr/sites/default/files/IRC_NvRET_01_period_sex.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ac2e011c-fa3a-49c0-b2a0-eb8b92a92ac3",
+      "last_modified": "2017-07-25T19:50:56.267000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ac2e011c-fa3a-49c0-b2a0-eb8b92a92ac3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-06-30T00:00:00",
+      "title": "Effectif des nouveaux retrait\u00e9s \u00e0 l\u2019IRCANTEC, par sexe et par p\u00e9riodicit\u00e9 de paiement",
+      "url": "http://retraitesolidarite.caissedesdepots.fr/sites/default/files/IRC_NvRET_01_period_sex.csv"
+    }
+  ],
+  "slug": "nouveaux-retraites-ircantec-1",
+  "spatial": {
+    "geom": null,
+    "granularity": "country",
+    "zones": [
+      "country:fr"
+    ]
+  },
+  "tags": [
+    "ircantec",
+    "retraites",
+    "traitement"
+  ],
+  "temporal_coverage": {
+    "end": "2016-12-31",
+    "start": "2015-01-01"
+  },
+  "title": "Nouveaux retrait\u00e9s IRCANTEC",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/nouveaux-retraites-ircantec-1/"
+}

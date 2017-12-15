@@ -1,0 +1,118 @@
+{
+  "badges": [],
+  "created_at": "2014-01-30T00:00:00",
+  "deleted": null,
+  "description": "Pour la premi\u00e8re fois en 2014, l'Assembl\u00e9e nationale publie e ligne l'int\u00e9gralit\u00e9 des subeventions accord\u00e9es aux collectivit\u00e9s et associations dans le cadre de la r\u00e9serve parlementaire de 2013. Les tableaux html scrap\u00e9s et compl\u00e9t\u00e9s des informations tir\u00e9es de NosD\u00e9put\u00e9s sont rendus accessibles en CSV et mis \u00e0 jour r\u00e9guli\u00e8rement.",
+  "extras": {
+    "Source": "http://www2.assemblee-nationale.fr/reserve_parlementaire/plf",
+    "ckan:name": "r-serve-parlementaire-2013-de-l-assembl-e-nationale",
+    "harvest:domain": "www.nosdonnees.fr",
+    "harvest:last_update": "2017-07-10T06:06:05.885000",
+    "harvest:remote_id": "0b2666ad-91fd-427f-9b9a-a315d24d4782",
+    "harvest:source_id": "5878ee1588ee385bffa6f719",
+    "remote_url": "http://www.regardscitoyens.org/reserve-parlementaire-episode-ii-toutes-les-donnees-2013-de-lassemblee-en-opendata/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5878ee81a3a7291484cac82b",
+  "last_modified": "2017-07-10T06:06:05.886000",
+  "last_update": "2017-01-13T16:13:05.674000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff99a3a7292c64a78016",
+    "logo": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-100.png",
+    "name": "NosDonn\u00e9es.fr",
+    "page": "https://www.data.gouv.fr/fr/organizations/nosdonnees-fr/",
+    "slug": "nosdonnees-fr",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nosdonnees-fr/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/r-serve-parlementaire-2013-de-l-assembl-e-nationale/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:13:05.673000",
+      "description": "ID_SUBVENTION;NOM_BENEFICIAIRE;DESCRIPTION_SUBVENTION;ADRESSE_BENEFICIAIRE;PROGRAMME_PJL_FINANCE;MONTANT_SUBVENTION;PRENOM_NOM_DEPUTE_NOSDEPUTES;ID_DEPUTE_AN;ID_NOSDEPUTES;NOM_DEPUTE_NOSDEPUTES;PRENOM_DEPUTE_NOSDEPUTES;SEXE_DEPUTE;DATE_NAISSANCE_DEPUTE;LIEU_NAISSANCE_DEPUTE;ID_DEPARTEMENT;21;NUMERO_CIRCONSCRIPTION;DATE_DEBUT_MANDAT;DATE_FIN_MANDAT;MANDAT_CLOS;GROUPE_SIGLE;PARTI_RATTACHEMENT_FINANCIER;PROFESSION;PLACE_HEMICYCLE;URL_DEPUTE_AN;SLUG_NOSDEPUTES;URL_DEPUTE_NOSDEPUTES;API_NOSDEPUTES;NB_MANDATS",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T18:14:02.110000",
+        "check:status": 200,
+        "check:url": "http://www.regardscitoyens.org/reserveparlementaire/reserve-assemblee-2013.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c6309be8-d187-4d34-9957-4a277009a6fe",
+      "last_modified": "2017-07-10T06:06:05.884000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c6309be8-d187-4d34-9957-4a277009a6fe",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "",
+      "published": "2017-01-13T16:13:05.673000",
+      "title": "R\u00e9serve parlementaire Assembl\u00e9e nationale 2013 CSV/UTF8 ",
+      "url": "http://www.regardscitoyens.org/reserveparlementaire/reserve-assemblee-2013.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:13:05.674000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T18:12:55.713000",
+        "check:status": 200,
+        "check:url": "http://www.nosdonnees.fr/storage/f/2014-01-31T095615/reserve-assemblee-2013.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv/utf8",
+      "id": "62b16fea-e12b-43bc-bc55-f01d29107f48",
+      "last_modified": "2014-01-31T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/62b16fea-e12b-43bc-bc55-f01d29107f48",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "",
+      "published": "2017-01-13T16:13:05.674000",
+      "title": "R\u00e9serve parlementaire Assembl\u00e9e nationale 2013 Refine CSV/UTF8 ",
+      "url": "http://www.nosdonnees.fr/storage/f/2014-01-31T095615/reserve-assemblee-2013.csv"
+    }
+  ],
+  "slug": "r-serve-parlementaire-2013-de-l-assembl-e-nationale",
+  "spatial": null,
+  "tags": [
+    "2013",
+    "assemblee",
+    "assemblee-nationale",
+    "associations",
+    "collectivites",
+    "parlement",
+    "reserve",
+    "reserve-parlementaire",
+    "subventions"
+  ],
+  "temporal_coverage": null,
+  "title": "R\u00e9serve parlementaire 2013 de l'Assembl\u00e9e nationale",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/r-serve-parlementaire-2013-de-l-assembl-e-nationale/"
+}

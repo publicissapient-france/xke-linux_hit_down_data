@@ -1,0 +1,164 @@
+{
+  "badges": [],
+  "created_at": "2016-10-21T19:59:29.408000",
+  "deleted": null,
+  "description": "Vues a\u00e9riennes verticales orthorectifi\u00e9es, c\u2019est-\u00e0-dire corrig\u00e9es des d\u00e9formations li\u00e9es au relief.  \nLes b\u00e2timents ne sont pas rectifi\u00e9s, \u00e0 la diff\u00e9rence des ouvrages d\u2019art ou des superstructures li\u00e9es \u00e0 la voirie.\n\n\\- Projection utilis\u00e9e pour l'acquisition des donn\u00e9es : Lambert 93 / IGN69  \n\\- Classe de pr\u00e9cision planim\u00e9trique des donn\u00e9es : 20 cm  \n\\- R\u00e9solution native : 10 cm  \n\\- Recouvrement : 80%-80% (sur le territoire de Rennes M\u00e9tropole) et 65%-65% sur le reste du territoire d\u00e9partemental  \n\\- Livraison sous forme de tuiles de 1 km x 1 km  \n\\- Syntaxe utilis\u00e9e pour la d\u00e9nomination des tuiles : XXXX_YYYY, issus des coordonn\u00e9es XY RGF93-CC48  \n\\- Dates des prises de vues : les 2 et 3 juillet 2014 (nord de l'agglom\u00e9ration) et 9 et 11 septembre (territoire restant) sur 43 communes de l'agglom\u00e9ration\n\nCe jeu de donn\u00e9es est compos\u00e9 de 999 dalles de 1 km x 1 km pour un volume d'environ 600 Go pour la r\u00e9solution 10 cm.\n\nLa pleine propri\u00e9t\u00e9 de l\u2019orthophotographie 2014 appartient au syndicat M\u00e9galis Bretagne et \u00e0 l\u2019ensemble des collectivit\u00e9s territoriales bretonnes.",
+  "extras": {
+    "harvest:domain": "data.rennesmetropole.fr",
+    "harvest:last_update": "2017-04-06T05:02:16.163213",
+    "harvest:remote_id": "orthophotographie-2014",
+    "harvest:source_id": "580736ec88ee3816625ff490",
+    "ods:has_records": true,
+    "ods:url": "https://data.rennesmetropole.fr/explore/dataset/orthophotographie-2014/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "580a5781a3a7292dcfa9d1fe",
+  "last_modified": "2017-04-06T05:02:16.165000",
+  "last_update": "2017-04-06T05:02:16.162000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "RM",
+    "class": "Organization",
+    "id": "580735be88ee3814295ff490",
+    "logo": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-100.png",
+    "name": "Rennes M\u00e9tropole en acc\u00e8s libre",
+    "page": "https://www.data.gouv.fr/fr/organizations/rennes-metropole-en-acces-libre-1/",
+    "slug": "rennes-metropole-en-acces-libre-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/rennes-metropole-en-acces-libre-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/orthophotographie-aerienne-2014-sur-rennes-metropole/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T05:02:16.161000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *dalle*: dalle[text]\n- *fichier*: fichier[text]\n- *xmin*: xmin[double]\n- *ymin*: ymin[double]\n- *xmax*: xmax[double]\n- *ymax*: ymax[double]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-30T22:02:57.809000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/orthophotographie-2014/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f1dfd9da-6c33-46a0-8599-bf198e30e548",
+      "last_modified": "2015-08-17T10:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f1dfd9da-6c33-46a0-8599-bf198e30e548",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-04-06T05:02:16.161000",
+      "title": "Export au format CSV",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/orthophotographie-2014/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T05:02:16.161000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *dalle*: dalle[text]\n- *fichier*: fichier[text]\n- *xmin*: xmin[double]\n- *ymin*: ymin[double]\n- *xmax*: xmax[double]\n- *ymax*: ymax[double]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-30T22:02:53.479000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/orthophotographie-2014/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "5ab65cf5-94e9-47eb-a4a4-170b16dddec1",
+      "last_modified": "2015-08-17T10:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5ab65cf5-94e9-47eb-a4a4-170b16dddec1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-04-06T05:02:16.161000",
+      "title": "Export au format JSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/orthophotographie-2014/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T05:02:16.161000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *dalle*: dalle[text]\n- *fichier*: fichier[text]\n- *xmin*: xmin[double]\n- *ymin*: ymin[double]\n- *xmax*: xmax[double]\n- *ymax*: ymax[double]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-30T22:02:59.033000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/orthophotographie-2014/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "0361da04-8aed-4d1a-9625-f30514176998",
+      "last_modified": "2015-08-17T10:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0361da04-8aed-4d1a-9625-f30514176998",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-04-06T05:02:16.161000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/orthophotographie-2014/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T05:02:16.162000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *dalle*: dalle[text]\n- *fichier*: fichier[text]\n- *xmin*: xmin[double]\n- *ymin*: ymin[double]\n- *xmax*: xmax[double]\n- *ymax*: ymax[double]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-30T22:02:55.204000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/orthophotographie-2014/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "d62783b5-d01c-41e1-b16d-16ddd651179b",
+      "last_modified": "2015-08-17T10:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d62783b5-d01c-41e1-b16d-16ddd651179b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-04-06T05:02:16.162000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/orthophotographie-2014/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "orthophotographie-aerienne-2014-sur-rennes-metropole",
+  "spatial": null,
+  "tags": [
+    "photographie-aerienne",
+    "referentiels-geographiques"
+  ],
+  "temporal_coverage": null,
+  "title": "Orthophotographie a\u00e9rienne 2014 sur Rennes M\u00e9tropole",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/orthophotographie-aerienne-2014-sur-rennes-metropole/"
+}

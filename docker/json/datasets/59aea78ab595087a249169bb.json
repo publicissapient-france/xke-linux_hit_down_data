@@ -1,0 +1,278 @@
+{
+  "badges": [],
+  "created_at": "2014-05-30T00:00:00",
+  "deleted": null,
+  "description": "Cartographie des \u00e9coles et groupes scolaires de la Ville de Nice.\n\nLes metadonn\u00e9es sont contenues dans le fichier pdf.",
+  "extras": {
+    "ckan:name": "cartographie-des-ecoles-et-groupes-scolaires-de-la-ville-de-nice",
+    "harvest:domain": "opendata.nicecotedazur.org",
+    "harvest:last_update": "2017-09-05T15:32:58.908117",
+    "harvest:remote_id": "2f6ab5e7-e64d-4707-81f0-25515a4b0007",
+    "harvest:source_id": "59aea691c751df40c6e8212c",
+    "spatial": "{\"type\": \"Polygon\", \"coordinates\": [[[7.18572247, 43.73539667], [7.30032942, 43.76571376], [7.31865968, 43.69642031], [7.20405273, 43.66610322], [7.18572247, 43.73539667]]]}",
+    "spatial-text": "NICE"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59aea78ab595087a249169bb",
+  "last_modified": "2017-09-05T15:32:58.910000",
+  "last_update": "2017-09-05T15:32:58.907000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "59aea226c751df38f3f6834b",
+    "logo": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-100.png",
+    "name": "Nice C\u00f4te d'Azur",
+    "page": "https://www.data.gouv.fr/fr/organizations/nice-cote-dazur/",
+    "slug": "nice-cote-dazur",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nice-cote-dazur/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/cartographie-des-ecoles-et-groupes-scolaires-de-la-ville-de-nice/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:32:58.903000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T18:55:17.106000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-05-30T12%3A55%3A32.787Z/ig-base-equipements-education.geojson"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "geojson",
+      "id": "78e495c4-7398-4809-ade9-812725699d51",
+      "last_modified": "2014-05-30T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/78e495c4-7398-4809-ade9-812725699d51",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/plain",
+      "published": "2017-09-05T15:32:58.903000",
+      "title": "ig_base_equipements_education.geojson",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-05-30T12%3A55%3A32.787Z/ig-base-equipements-education.geojson"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:32:58.904000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T12:57:08.437000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-05-30T12%3A55%3A02.275Z/ig-base-equipements-education.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b963432f-7ab7-4aaf-9d0c-ab6e6f1636dc",
+      "last_modified": "2014-05-30T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b963432f-7ab7-4aaf-9d0c-ab6e6f1636dc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-05T15:32:58.904000",
+      "title": "ig_base_equipements_education.csv",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-05-30T12%3A55%3A02.275Z/ig-base-equipements-education.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:32:58.905000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T12:57:07.827000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-05-30T12%3A55%3A45.300Z/ig-base-equipements-education.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "8aaf0758-8f4a-4ff0-9cac-779dbb38905d",
+      "last_modified": "2014-05-30T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8aaf0758-8f4a-4ff0-9cac-779dbb38905d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-09-05T15:32:58.905000",
+      "title": "ig_base_equipements_education.json",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-05-30T12%3A55%3A45.300Z/ig-base-equipements-education.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:32:58.905000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T18:55:16.984000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-05-30T12%3A56%3A01.672Z/ig-base-equipements-education.kmz"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "kmz",
+      "id": "69ebe7eb-d507-4899-bcc9-5a74ee9e1581",
+      "last_modified": "2014-05-30T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/69ebe7eb-d507-4899-bcc9-5a74ee9e1581",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.google-earth.kmz",
+      "published": "2017-09-05T15:32:58.905000",
+      "title": "ig_base_equipements_education.kmz",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-05-30T12%3A56%3A01.672Z/ig-base-equipements-education.kmz"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:32:58.906000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T12:57:10.612000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-05-30T12%3A56%3A32.083Z/ig-base-equipements-education-rgf93l93-shapefile.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "54646ac0-6d29-4922-b0a4-07700954b100",
+      "last_modified": "2014-05-30T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/54646ac0-6d29-4922-b0a4-07700954b100",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-09-05T15:32:58.906000",
+      "title": "ig_base_equipements_education_RGF93L93_shapefile.zip",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-05-30T12%3A56%3A32.083Z/ig-base-equipements-education-rgf93l93-shapefile.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:32:58.906000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T18:55:16.820000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-05-30T12%3A56%3A43.676Z/ig-base-equipements-education-wgs84-shapefile.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "cc9d3742-d676-4606-9eb7-087dcbb06f3f",
+      "last_modified": "2014-05-30T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cc9d3742-d676-4606-9eb7-087dcbb06f3f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-09-05T15:32:58.906000",
+      "title": "ig_base_equipements_education_WGS84_shapefile.zip",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-05-30T12%3A56%3A43.676Z/ig-base-equipements-education-wgs84-shapefile.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:32:58.907000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T19:03:34",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-05-30T13%3A06%3A05.578Z/ig-base-equipements-education.pdf"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "pdf",
+      "id": "5590c3e2-6a6d-4e4a-a5b7-c553a9511b7b",
+      "last_modified": "2014-05-30T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5590c3e2-6a6d-4e4a-a5b7-c553a9511b7b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/pdf",
+      "published": "2017-09-05T15:32:58.907000",
+      "title": "ig_base_equipements_education.pdf",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-05-30T13%3A06%3A05.578Z/ig-base-equipements-education.pdf"
+    }
+  ],
+  "slug": "cartographie-des-ecoles-et-groupes-scolaires-de-la-ville-de-nice",
+  "spatial": {
+    "geom": {
+      "coordinates": [
+        [
+          [
+            [
+              7.18572247,
+              43.73539667
+            ],
+            [
+              7.30032942,
+              43.76571376
+            ],
+            [
+              7.31865968,
+              43.69642031
+            ],
+            [
+              7.20405273,
+              43.66610322
+            ],
+            [
+              7.18572247,
+              43.73539667
+            ]
+          ]
+        ]
+      ],
+      "type": "MultiPolygon"
+    },
+    "granularity": "other",
+    "zones": []
+  },
+  "tags": [
+    "ecole",
+    "primaire",
+    "scolaire"
+  ],
+  "temporal_coverage": null,
+  "title": "Cartographie des \u00e9coles et groupes scolaires de la Ville de Nice",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/cartographie-des-ecoles-et-groupes-scolaires-de-la-ville-de-nice/"
+}

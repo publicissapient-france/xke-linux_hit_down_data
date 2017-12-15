@@ -1,0 +1,104 @@
+{
+  "badges": [],
+  "created_at": "2016-07-13T20:15:43.598000",
+  "deleted": null,
+  "description": "Historique\u00a0journalier de la puissance maximale (GW) n\u00e9cessaire pour couvrir les pics de la consommation brute fran\u00e7aise.\n\nCet historique est compl\u00e9t\u00e9 par les valeurs des temp\u00e9ratures de r\u00e9f\u00e9rence et moyenne.\n\n* * *\n\n **Daily peak consumption peak (january 2012 to\u00a0september 2017)**\n\nDaily history of maximum power (GW) required to cover peaks in French consumption. \n\nThis history is supplemented with the reference and average temperature values.\n\n **Keywords :** Electricity, Peak, Temperature, Monthly overview\n\n ___  \n_",
+  "extras": {
+    "harvest:domain": "opendata.rte-france.com",
+    "harvest:last_update": "2017-11-27T05:14:46.093232",
+    "harvest:remote_id": "pic_journalier_consommation_brute",
+    "harvest:source_id": "56ebe63cc751df69fa170353",
+    "ods:has_records": true,
+    "ods:references": "http://www.rte-france.com/fr/article/apercus-electriques-mensuels",
+    "ods:url": "https://opendata.rte-france.com//explore/dataset/pic_journalier_consommation_brute/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5786854fa3a7294a03b1b6f1",
+  "last_modified": "2017-11-27T05:14:46.095000",
+  "last_update": "2017-11-27T05:14:46.092000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "RTE",
+    "class": "Organization",
+    "id": "55f03e1088ee384bc1a46ec1",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-09-09/595e18df74fa490f93c7b2f52c28730e/sans-titre-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-09-09/595e18df74fa490f93c7b2f52c28730e/sans-titre-100.png",
+    "name": "R\u00e9seau de Transport d'Electricit\u00e9",
+    "page": "https://www.data.gouv.fr/fr/organizations/reseau-de-transport-delectricite/",
+    "slug": "reseau-de-transport-delectricite",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/reseau-de-transport-delectricite/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/pic-journalier-de-la-consommation-brute-delectricite-janvier-2012-a-septembre-2017/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:46.091000",
+      "description": "- *Jour*: jour[date]\n- *Pic de consommation journalier (MW)*: pic_de_consommation_journalier_mw[int] Consommation maximum (GW)\nMaximum consumption (GW)\n- *Temp moyenne (\u00b0C)*: t_moyenne[double] Temp\u00e9rature moyenne (\u00b0C)\nMean temperature (\u00b0C)\n- *Temp Ref (\u00b0C)*: t_ref[double] Temp\u00e9rature de r\u00e9f\u00e9rence (\u00b0C)\nReference temperature (\u00b0C)\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "31d4c5a5-a8c2-44b9-8e1d-57d8fbb4d05b",
+      "last_modified": "2017-10-24T16:21:48",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/31d4c5a5-a8c2-44b9-8e1d-57d8fbb4d05b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:14:46.091000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.rte-france.com//explore/dataset/pic_journalier_consommation_brute/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:46.092000",
+      "description": "- *Jour*: jour[date]\n- *Pic de consommation journalier (MW)*: pic_de_consommation_journalier_mw[int] Consommation maximum (GW)\nMaximum consumption (GW)\n- *Temp moyenne (\u00b0C)*: t_moyenne[double] Temp\u00e9rature moyenne (\u00b0C)\nMean temperature (\u00b0C)\n- *Temp Ref (\u00b0C)*: t_ref[double] Temp\u00e9rature de r\u00e9f\u00e9rence (\u00b0C)\nReference temperature (\u00b0C)\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "e8a57804-9c43-4351-9fdd-e01029f1044d",
+      "last_modified": "2017-10-24T16:21:48",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e8a57804-9c43-4351-9fdd-e01029f1044d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:14:46.092000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.rte-france.com//explore/dataset/pic_journalier_consommation_brute/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "pic-journalier-de-la-consommation-brute-delectricite-janvier-2012-a-septembre-2017",
+  "spatial": null,
+  "tags": [
+    "apercu-mensuel",
+    "consommation",
+    "electricite",
+    "pic",
+    "temperature"
+  ],
+  "temporal_coverage": null,
+  "title": "Pic journalier de la consommation brute d'\u00e9lectricit\u00e9 (janvier 2012 \u00e0 septembre 2017)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/pic-journalier-de-la-consommation-brute-delectricite-janvier-2012-a-septembre-2017/"
+}

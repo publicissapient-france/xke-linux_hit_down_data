@@ -1,0 +1,146 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T17:11:29.505000",
+  "deleted": null,
+  "description": "Liste des 120 stations de taxis dans Paris r\u00e9f\u00e9renc\u00e9es dans l\u2019application mobile Paris Taxis.\n\nLes donn\u00e9es de disponibilit\u00e9s des taxis sont maintenant disponibles sur\u00a0[le.taxi\u00a0](http://le.taxi/)",
+  "extras": {
+    "harvest:domain": "opendata.paris.fr",
+    "harvest:last_update": "2017-11-27T05:11:11.071683",
+    "harvest:remote_id": "paris_taxis_stations",
+    "harvest:source_id": "5631ef2988ee3837ce531585",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.paris.fr/explore/dataset/paris_taxis_stations/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59590d21a3a7291dd09c8000",
+  "last_modified": "2017-11-27T05:11:11.073000",
+  "last_update": "2017-11-27T05:11:11.071000",
+  "license": "odc-odbl",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff89a3a7292c64a77eb7",
+    "logo": "https://www.data.gouv.fr/s/avatars/b2/0e83ec3699415a87640e97c51cb006-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b2/0e83ec3699415a87640e97c51cb006-100.png",
+    "name": "Mairie de Paris",
+    "page": "https://www.data.gouv.fr/fr/organizations/mairie-de-paris/",
+    "slug": "mairie-de-paris",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/mairie-de-paris/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/stations-de-taxis-de-lapplication-mobile-paris-taxis/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:11:11.070000",
+      "description": "- *station_id*: station_id[text]\n- *station_name*: station_name[text]\n- *station_number*: station_number[int]\n- *address*: address[text]\n- *address_precision*: address_precision[text]\n- *zip_code*: zip_code[text]\n- *city*: city[text]\n- *geo_coordinates*: geo_coordinates[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "dbf61f68-3498-4c7c-ad02-4d4163ff9253",
+      "last_modified": "2014-09-30T17:14:47",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/dbf61f68-3498-4c7c-ad02-4d4163ff9253",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:11:11.070000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.paris.fr/explore/dataset/paris_taxis_stations/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:11:11.070000",
+      "description": "- *station_id*: station_id[text]\n- *station_name*: station_name[text]\n- *station_number*: station_number[int]\n- *address*: address[text]\n- *address_precision*: address_precision[text]\n- *zip_code*: zip_code[text]\n- *city*: city[text]\n- *geo_coordinates*: geo_coordinates[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "e49a6f3e-6e93-4911-bf62-6078b1a41d6b",
+      "last_modified": "2014-09-30T17:14:47",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e49a6f3e-6e93-4911-bf62-6078b1a41d6b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:11:11.070000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.paris.fr/explore/dataset/paris_taxis_stations/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:11:11.070000",
+      "description": "- *station_id*: station_id[text]\n- *station_name*: station_name[text]\n- *station_number*: station_number[int]\n- *address*: address[text]\n- *address_precision*: address_precision[text]\n- *zip_code*: zip_code[text]\n- *city*: city[text]\n- *geo_coordinates*: geo_coordinates[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "19156563-be2c-46db-82cd-f6e0b17620e9",
+      "last_modified": "2014-09-30T17:14:47",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/19156563-be2c-46db-82cd-f6e0b17620e9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:11:11.070000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.paris.fr/explore/dataset/paris_taxis_stations/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:11:11.071000",
+      "description": "- *station_id*: station_id[text]\n- *station_name*: station_name[text]\n- *station_number*: station_number[int]\n- *address*: address[text]\n- *address_precision*: address_precision[text]\n- *zip_code*: zip_code[text]\n- *city*: city[text]\n- *geo_coordinates*: geo_coordinates[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "b6784ab2-6a57-4e21-a4bd-57c705d6b983",
+      "last_modified": "2014-09-30T17:14:47",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b6784ab2-6a57-4e21-a4bd-57c705d6b983",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:11:11.071000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.paris.fr/explore/dataset/paris_taxis_stations/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "stations-de-taxis-de-lapplication-mobile-paris-taxis",
+  "spatial": null,
+  "tags": [
+    "borne",
+    "mobilite-et-espace-public",
+    "station",
+    "taxi",
+    "taxis"
+  ],
+  "temporal_coverage": null,
+  "title": "Stations de taxis de l\u2019application mobile Paris Taxis",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/stations-de-taxis-de-lapplication-mobile-paris-taxis/"
+}

@@ -1,0 +1,98 @@
+{
+  "badges": [],
+  "created_at": "2017-09-11T00:00:00",
+  "deleted": null,
+  "description": "Liste des \u00e9quipements de plaisance (\u00e9cluses, haltes nautiques, ports de plaisance, yacht club) en Aquitaine, issue de la base de donn\u00e9es SIRTAQUI.\n\nCe fichier contient les informations de g\u00e9olocalisation et de contact, les informations sur le type d\u2019\u00e9quipement, les marques et labels, les conditions d\u2019ouverture et de visites, les tarifs, les \u00e9quipements et les services propos\u00e9s.",
+  "extras": {
+    "ckan:name": "liste-des-equipements-de-plaisance-en-aquitaine",
+    "contact_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "contact_name": "CRTA",
+    "contact_uri": "https://datacat.datalocale.fr/414593",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
+    "guid": "https://datacat.datalocale.fr/415700",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-09-29T07:49:12.727625",
+    "harvest:remote_id": "8f10dc45-ef6a-4a3b-ad59-2997ca8b7e67",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "874abaad-c08a-4113-8b92-4aa84e4fc863",
+    "issued": "2014-12-24T12:42:00+00:00",
+    "modified": "2016-07-18T09:21:07.356268+00:00",
+    "publisher_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "publisher_name": "agence SIRTAQUI",
+    "publisher_type": "\"Organisation \u00e0 but non lucratif\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414592",
+    "remote_url": "http://partenaires.tourisme-aquitaine.fr",
+    "theme": "[\"tourisme\"]",
+    "uri": "https://datacat.datalocale.fr/415700"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59b77492a3a729499be72a5e",
+  "last_modified": "2017-09-29T07:49:12.729000",
+  "last_update": "2017-09-12T07:45:54.060000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-equipements-de-plaisance-en-aquitaine-1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:45:54.059000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T01:27:50.647000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1282313/raw/liste-equipements-plaisance-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "5012bb51-9c1b-4c85-8113-318b4ae506a6",
+      "last_modified": "2017-09-29T07:49:12.726000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5012bb51-9c1b-4c85-8113-318b4ae506a6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:45:54.060000",
+      "title": "liste-equipements-plaisance-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1282313/raw/liste-equipements-plaisance-aquitaine.csv"
+    }
+  ],
+  "slug": "liste-des-equipements-de-plaisance-en-aquitaine-1",
+  "spatial": null,
+  "tags": [
+    "nautisme",
+    "navigation",
+    "plaisance",
+    "tourisme"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des \u00e9quipements de plaisance en Aquitaine",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-equipements-de-plaisance-en-aquitaine-1/"
+}

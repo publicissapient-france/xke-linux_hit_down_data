@@ -1,0 +1,205 @@
+{
+  "badges": [],
+  "created_at": "2017-10-12T00:00:00",
+  "deleted": null,
+  "description": "Liste du petit patrimoine rural (Chapelles, Croix, Fontaines, Fours \u00e0 pains ou \u00e0 prunes, Lavoirs, Moulins, Pigeonniers, Puits, Sources, \u2026) en Aquitaine, issue de la base de donn\u00e9es SIRTAQUI.\nCe fichier contient les informations de g\u00e9olocalisation et de contact, les informations sur l\u2019activit\u00e9, les marques et labels, les conditions d\u2019ouverture et de visites, les tarifs, les \u00e9quipements et les services propos\u00e9s.",
+  "extras": {
+    "ckan:name": "liste-du-petit-patrimoine-rural-en-aquitaine",
+    "contact_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "contact_name": "CRTA",
+    "contact_uri": "https://datacat.datalocale.fr/414593",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
+    "guid": "https://datacat.datalocale.fr/415743",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-11-09T05:01:45.180807",
+    "harvest:remote_id": "74261906-530d-4bce-ad33-a8dc12f6a01c",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "8f731d5c-5ae4-4262-813f-04d17b2489f5",
+    "issued": "2015-01-01T20:32:40+00:00",
+    "modified": "2016-07-18T09:21:07.222388+00:00",
+    "publisher_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "publisher_name": "agence SIRTAQUI",
+    "publisher_type": "\"Organisation \u00e0 but non lucratif\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414592",
+    "remote_url": "http://partenaires.tourisme-aquitaine.fr",
+    "theme": "[\"tourisme\"]",
+    "uri": "https://datacat.datalocale.fr/415743"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59e18d15a3a7297d20b5fb74",
+  "last_modified": "2017-11-09T05:01:45.183000",
+  "last_update": "2017-10-14T06:05:41.254000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-du-petit-patrimoine-rural-en-aquitaine-3/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:05:41.251000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T00:30:39.653000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415747/raw/liste-petit-patrimoine-rural-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "bf83768f-c0bf-470c-b6a6-af2e3cf16818",
+      "last_modified": "2017-11-09T05:01:45.179000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/bf83768f-c0bf-470c-b6a6-af2e3cf16818",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-14T06:05:41.251000",
+      "title": "export en csv (utf-8) du petit patrimoine rural r\u00e9f\u00e9renc\u00e9 dans la base de donn\u00e9es de SIRTAQUI. Les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es dans la projection WGS84 ",
+      "url": "https://datacat.datalocale.fr/file/415747/raw/liste-petit-patrimoine-rural-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:05:41.252000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-17T08:51:05.412000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414600/raw/sp%C3%A9cifications%20du%20jeu%20de%20donn%C3%A9es"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "993ae0eb-bbb7-4fc4-b4b2-28d319a01636",
+      "last_modified": "2017-11-09T05:01:45.179000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/993ae0eb-bbb7-4fc4-b4b2-28d319a01636",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-14T06:05:41.252000",
+      "title": "sp\u00e9cifications du jeu de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414600/raw/sp%C3%A9cifications%20du%20jeu%20de%20donn%C3%A9es"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:05:41.252000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-11-17T10:30:17.227000",
+        "check:status": 501,
+        "check:url": "http://wcf.tourinsoft.com/Syndication/aquitaine/a4a9387b-8bb4-4d38-bec3-9385b3978609/Objects?$format=json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "d951d757-e118-4723-9e78-0f7ec128043b",
+      "last_modified": "2017-11-09T05:01:45.180000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d951d757-e118-4723-9e78-0f7ec128043b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-10-14T06:05:41.252000",
+      "title": "consommation des donn\u00e9es temps r\u00e9el",
+      "url": "http://wcf.tourinsoft.com/Syndication/aquitaine/a4a9387b-8bb4-4d38-bec3-9385b3978609/Objects?$format=json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:05:41.253000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-17T10:43:42.144000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1889061/raw/liste-csv-petit-patrimoine-rural-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ef32852c-4c6a-4de0-b849-9704ca01a4ee",
+      "last_modified": "2017-11-09T05:01:45.179000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ef32852c-4c6a-4de0-b849-9704ca01a4ee",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-14T06:05:41.253000",
+      "title": "liste-csv-petit-patrimoine-rural-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1889061/raw/liste-csv-petit-patrimoine-rural-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:05:41.254000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T00:30:41.777000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415745/raw/liste-xml-petit-patrimoine-rural-aquitaine.xml"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "1a14daef-5811-479f-a438-162b5fcecf2b",
+      "last_modified": "2017-11-09T05:01:45.179000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1a14daef-5811-479f-a438-162b5fcecf2b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/xml",
+      "published": "2017-10-14T06:05:41.254000",
+      "title": "export en xml (tourinfo) du petit patrimoine rural r\u00e9f\u00e9renc\u00e9 dans la base de donn\u00e9es de SIRTAQUI. Les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es dans la projection WGS84 ",
+      "url": "https://datacat.datalocale.fr/file/415745/raw/liste-xml-petit-patrimoine-rural-aquitaine.xml"
+    }
+  ],
+  "slug": "liste-du-petit-patrimoine-rural-en-aquitaine-3",
+  "spatial": null,
+  "tags": [
+    "culture",
+    "patrimoine",
+    "tourisme"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste du petit patrimoine rural en Aquitaine",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-du-petit-patrimoine-rural-en-aquitaine-3/"
+}

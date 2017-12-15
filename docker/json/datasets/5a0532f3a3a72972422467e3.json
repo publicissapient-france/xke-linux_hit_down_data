@@ -1,0 +1,124 @@
+{
+  "badges": [],
+  "created_at": "2017-11-09T00:00:00",
+  "deleted": null,
+  "description": "Liste des campings class\u00e9s de 1 \u00e0 5 \u00e9toile(s) en Aquitaine, issue de la base de donn\u00e9es SIRTAQUI.\n\nCe fichier contient les informations de g\u00e9olocalisation et de contact, les informations sur le classement, les marques et labels, les cha\u00eenes, la capacit\u00e9 en nombre de personnes, les conditions d\u2019ouverture, les tarifs, les \u00e9quipements et les services propos\u00e9s.",
+  "extras": {
+    "ckan:name": "liste-des-campings-classes-en-aquitaine",
+    "contact_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "contact_name": "CRTA",
+    "contact_uri": "https://datacat.datalocale.fr/414593",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
+    "guid": "https://datacat.datalocale.fr/415508",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-11-14T05:15:41.235585",
+    "harvest:remote_id": "5b222ade-6c20-430f-b6f0-03148a3b384e",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "6b10a7b6-521e-476a-928c-8df586fbf736",
+    "issued": "2014-12-24T12:24:56+00:00",
+    "modified": "2016-07-18T09:21:07.409690+00:00",
+    "publisher_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "publisher_name": "agence SIRTAQUI",
+    "publisher_type": "\"Organisation \u00e0 but non lucratif\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414592",
+    "remote_url": "http://www.sirtaqui-aquitaine.com",
+    "theme": "[\"tourisme\"]",
+    "uri": "https://datacat.datalocale.fr/415508"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5a0532f3a3a72972422467e3",
+  "last_modified": "2017-11-14T05:15:41.238000",
+  "last_update": "2017-11-10T06:02:43.921000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-campings-classes-en-aquitaine-4/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-10T06:02:43.921000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T19:27:22.758000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/distribution/1902308/raw/liste-xml-campings-classes-aquitaine.xml"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "21014695-5925-4e42-98cc-4be28f8176c7",
+      "last_modified": "2017-11-14T05:15:41.234000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/21014695-5925-4e42-98cc-4be28f8176c7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/xml",
+      "published": "2017-11-10T06:02:43.921000",
+      "title": "liste-xml-campings-classes-aquitaine.xml",
+      "url": "https://datacat.datalocale.fr/distribution/1902308/raw/liste-xml-campings-classes-aquitaine.xml"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-10T06:02:43.921000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T19:27:24.540000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/distribution/427594/raw/liste-csv-campings-classes-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "92c6b301-549b-41d9-8ace-9d93e7f40cb5",
+      "last_modified": "2017-11-14T05:15:41.235000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/92c6b301-549b-41d9-8ace-9d93e7f40cb5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-10T06:02:43.921000",
+      "title": "liste-csv-campings-classes-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/distribution/427594/raw/liste-csv-campings-classes-aquitaine.csv"
+    }
+  ],
+  "slug": "liste-des-campings-classes-en-aquitaine-4",
+  "spatial": null,
+  "tags": [
+    "camping",
+    "hebergement",
+    "tourisme"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des campings class\u00e9s en Aquitaine",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-campings-classes-en-aquitaine-4/"
+}

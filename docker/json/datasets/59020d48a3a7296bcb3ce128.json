@@ -1,0 +1,83 @@
+{
+  "badges": [],
+  "created_at": "2017-03-06T00:00:00",
+  "deleted": null,
+  "description": "",
+  "extras": {
+    "ckan:name": "organisations-privees-bulgares",
+    "harvest:domain": "opendata.data-ozwillo.org",
+    "harvest:last_update": "2017-04-27T17:24:56.788765",
+    "harvest:remote_id": "45c4f36a-e804-4f4f-8ad1-8f2aa0ec0b10",
+    "harvest:source_id": "57599de9c751df1a1dac31a0",
+    "remote_url": "Ozwillo"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59020d48a3a7296bcb3ce128",
+  "last_modified": "2017-04-27T17:24:56.790000",
+  "last_update": "2017-04-27T17:24:56.784000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "56c4765fc751df27326c6ddf",
+    "logo": "https://www.data.gouv.fr/s/avatars/c3/f674ad6c354099a8166090b134da4a-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c3/f674ad6c354099a8166090b134da4a-100.png",
+    "name": "Ozwillo",
+    "page": "https://www.data.gouv.fr/fr/organizations/ozwillo/",
+    "slug": "ozwillo",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ozwillo/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/organisations-privees-bulgares/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-04-27T17:24:56.784000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-10-30T20:51:01.135000",
+        "check:status": 503,
+        "check:url": "https://opendata.data-ozwillo.org/dataset/45c4f36a-e804-4f4f-8ad1-8f2aa0ec0b10/resource/150cd722-0fcd-482c-82bc-c4c81db13968/download/orgprbg0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "150cd722-0fcd-482c-82bc-c4c81db13968",
+      "last_modified": "2017-03-06T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/150cd722-0fcd-482c-82bc-c4c81db13968",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-04-27T17:24:56.784000",
+      "title": "Export des organisations priv\u00e9es bulgares",
+      "url": "https://opendata.data-ozwillo.org/dataset/45c4f36a-e804-4f4f-8ad1-8f2aa0ec0b10/resource/150cd722-0fcd-482c-82bc-c4c81db13968/download/orgprbg0.csv"
+    }
+  ],
+  "slug": "organisations-privees-bulgares",
+  "spatial": null,
+  "tags": [
+    "bulgaria",
+    "organisation"
+  ],
+  "temporal_coverage": null,
+  "title": "Organisations priv\u00e9es bulgares",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/organisations-privees-bulgares/"
+}

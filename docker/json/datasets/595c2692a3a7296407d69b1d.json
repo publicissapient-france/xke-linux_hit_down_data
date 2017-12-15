@@ -1,0 +1,112 @@
+{
+  "badges": [],
+  "created_at": "2017-07-05T01:36:50.313000",
+  "deleted": null,
+  "description": "Inventaire faunistique du d\u00e9partement des hauts-de-seine\n\n* * *\n\nCe jeux de donn\u00e9es recense l'ensemble des esp\u00e8ces animales inventori\u00e9es sur la majeure partie du territoire des Hauts-de-Seine. Il constitue un v\u00e9ritable atlas de la faune d\u00e9partemental agr\u00e9geant des informations sur des groupes taxonomiques tr\u00e8s divers.  \nCet inventaire de la faune s'adresse aussi bien au grand public qu'aux experts et permet d'am\u00e9liorer la connaissance des esp\u00e8ces \u00e0 l'\u00e9chelle d\u00e9partementale. De fait il peut devenir un outil d'aide \u00e0 la d\u00e9cision, notamment en mati\u00e8re de gestion et de pr\u00e9servation des milieux.\n\n **Lexique**\n\nNom vernaculaire : nom usuel, en langue locale, donn\u00e9 \u00e0 une ou plusieurs esp\u00e8ces animales ou v\u00e9g\u00e9tales dans son pays ou sa r\u00e9gion d'origine.  \nBiodiversit\u00e9 : La biodiversit\u00e9, au sens \u00e9tymologique du terme, \u00e9voque la diversit\u00e9 du vivant, c'est-\u00e0-dire tous les processus, les modes de vie ou les fonctions qui conduisent \u00e0 maintenir un organisme \u00e0 l'\u00e9tat de vie.  \nGroupe taxonomique : Regroupe des esp\u00e8ces partageant des crit\u00e8res sp\u00e9cifiques et un m\u00eame anc\u00eatre commun.\n\n **Observations particuli\u00e8res**\n\nLes donn\u00e9es de cet inventaire faunistique utilisent les r\u00e9f\u00e9rentiels taxonomiques pour la flore et la faune de France m\u00e9tropolitaine : \"TAXREF\" \u00e9dit\u00e9s par le Mus\u00e9um national d'Histoire naturelle.  \nLa r\u00e9alisation de cet inventaire n'aurait pas \u00e9t\u00e9 possible sans la participation active des partenaires du Conseil d\u00e9partemental notamment les associations naturalistes locales ou nationales.\n\n **Donn\u00e9es connexes**\n\nLe r\u00e9f\u00e9rentiel taxonomique TAXREF du Mus\u00e9um national d'Histoire naturelle  \n[Pr\u00e9sentation du r\u00e9f\u00e9rentiel taxonomique](http://inpn.mnhn.fr/programme/referentiel-taxonomique-taxref)",
+  "extras": {
+    "harvest:domain": "data.issy.com",
+    "harvest:last_update": "2017-11-27T05:06:36.737283",
+    "harvest:remote_id": "inventaire-de-la-faune",
+    "harvest:source_id": "595c266188ee382c7517add5",
+    "ods:has_records": true,
+    "ods:url": "https://data.issy.com//explore/dataset/inventaire-de-la-faune/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "595c2692a3a7296407d69b1d",
+  "last_modified": "2017-11-27T05:06:36.743000",
+  "last_update": "2017-11-27T05:06:36.736000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb7a3a7292c64a78145",
+    "logo": "https://www.data.gouv.fr/s/avatars/b9/beecacecbd4d42ac10ef244f11e44e-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b9/beecacecbd4d42ac10ef244f11e44e-100.png",
+    "name": "Ville d'Issy-les-Moulineaux",
+    "page": "https://www.data.gouv.fr/fr/organizations/ville-d-issy-les-moulineaux/",
+    "slug": "ville-d-issy-les-moulineaux",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ville-d-issy-les-moulineaux/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/inventaire-de-la-faune-1/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:06:36.735000",
+      "description": "- *NOM_SC*: nom_sc[text] Nom scientifique de l'animal\n- *NOM_FR*: nom_fr[text] Nom vernaculaire / fran\u00e7ais de l'animal\n- *COMMUNE*: commune[text] Nom de la commune\n- *CODE_INSEE*: code_insee[text] Code INSEE de la commune\n- *DATE_OBS*: date_obs[date] Date de l'observation\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-27T11:20:55.379000",
+        "check:status": 200,
+        "check:url": "https://data.issy.com//explore/dataset/inventaire-de-la-faune/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "9660962c-4803-4fbd-aacc-ab7bbdbae378",
+      "last_modified": "2016-03-31T10:32:27",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9660962c-4803-4fbd-aacc-ab7bbdbae378",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:06:36.735000",
+      "title": "Export au format CSV",
+      "url": "https://data.issy.com//explore/dataset/inventaire-de-la-faune/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:06:36.735000",
+      "description": "- *NOM_SC*: nom_sc[text] Nom scientifique de l'animal\n- *NOM_FR*: nom_fr[text] Nom vernaculaire / fran\u00e7ais de l'animal\n- *COMMUNE*: commune[text] Nom de la commune\n- *CODE_INSEE*: code_insee[text] Code INSEE de la commune\n- *DATE_OBS*: date_obs[date] Date de l'observation\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-27T11:21:07.898000",
+        "check:status": 200,
+        "check:url": "https://data.issy.com//explore/dataset/inventaire-de-la-faune/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "414e703f-5092-4de3-a193-05d8eb37a471",
+      "last_modified": "2016-03-31T10:32:27",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/414e703f-5092-4de3-a193-05d8eb37a471",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:06:36.736000",
+      "title": "Export au format JSON",
+      "url": "https://data.issy.com//explore/dataset/inventaire-de-la-faune/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "inventaire-de-la-faune-1",
+  "spatial": null,
+  "tags": [
+    "animaux",
+    "environnement",
+    "especes",
+    "faune",
+    "inventaires"
+  ],
+  "temporal_coverage": null,
+  "title": "Inventaire de la faune",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/inventaire-de-la-faune-1/"
+}

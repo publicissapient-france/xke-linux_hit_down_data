@@ -1,0 +1,164 @@
+{
+  "badges": [],
+  "created_at": "2016-10-21T19:59:23.333000",
+  "deleted": null,
+  "description": "Rennes M\u00e9tropole dispose depuis 2013 d'un R\u00e9f\u00e9rentiel Voies et Adresses (RVA) sur les communes de l\u2019agglom\u00e9ration.  \n  \nLocalisation de l\u2019adresse postale sous la forme d\u2019un point.  \n  \nUne adresse appartient \u00e0 une et une seule voie.  \nUne adresse appartient \u00e0 une et une seule commune.  \nUne adresse se situe sur le territoire de la commune de la voie \u00e0 laquelle elle appartient.  \nUne adresse est unique.  \n  \nDans la mesure du possible, une adresse se situe dans la parcelle cadastrale correspondante et devant   \nl\u2019entr\u00e9e du b\u00e2timent concern\u00e9 (quand cette information est connue). A d\u00e9faut de conna\u00eetre l\u2019entr\u00e9e,   \nl\u2019adresse est plac\u00e9e sur la parcelle correspondante et positionn\u00e9e en coh\u00e9rence avec les adresses voisines   \n(ni trop pr\u00e8s, ni trop loin du tron\u00e7on de la voie \u00e0 laquelle elle appartient).  \n  \n  \nVolum\u00e9trie approximative : 96 000 adresses",
+  "extras": {
+    "harvest:domain": "data.rennesmetropole.fr",
+    "harvest:last_update": "2017-04-06T05:02:43.700144",
+    "harvest:remote_id": "adresses-du-referentiel-voies-et-adresses-de-rennes-metropole",
+    "harvest:source_id": "580736ec88ee3816625ff490",
+    "ods:has_records": true,
+    "ods:references": "https://public.sig.rennesmetropole.fr/geonetwork/srv/fre/csw?service=CSW&SERVICE=CSW&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&request=GetRecordById&resultType=results&VERSION=2.0.2&version=2.0.2&ElementSetName=full&id=9e4e8a3d-190d-4397-8d24-97aa37d1b3d7",
+    "ods:url": "https://data.rennesmetropole.fr/explore/dataset/adresses-du-referentiel-voies-et-adresses-de-rennes-metropole/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "580a577ba3a7292dcfa9d1fa",
+  "last_modified": "2017-04-06T05:02:43.702000",
+  "last_update": "2017-04-06T05:02:43.698000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "RM",
+    "class": "Organization",
+    "id": "580735be88ee3814295ff490",
+    "logo": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-100.png",
+    "name": "Rennes M\u00e9tropole en acc\u00e8s libre",
+    "page": "https://www.data.gouv.fr/fr/organizations/rennes-metropole-en-acces-libre-1/",
+    "slug": "rennes-metropole-en-acces-libre-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/rennes-metropole-en-acces-libre-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/adresses-du-referentiel-voies-et-adresses-de-rennes-metropole/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T05:02:43.697000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *gml_id*: gml_id[text]\n- *id_adr*: id_adr[int]\n- *id_voie*: id_voie[int]\n- *id_user*: id_user[int]\n- *numero*: numero[int]\n- *orientation_deg*: orientation_deg[double]\n- *orientation_grd*: orientation_grd[double]\n- *date_modif*: date_modif[text]\n- *bornage*: bornage[text]\n- *objectid*: objectid[int]\n- *denomination*: denomination[text]\n- *fantoir*: fantoir[text]\n- *code_insee*: code_insee[int]\n- *nom*: nom[text]\n- *adresse*: adresse[text]\n- *adresse_complete*: adresse_complete[text]\n- *coord_x_cc48*: coord_x_cc48[double]\n- *coord_y_cc48*: coord_y_cc48[double]\n- *coord_x_l93*: coord_x_l93[double]\n- *coord_y_l93*: coord_y_l93[double]\n- *lon_wgs84*: lon_wgs84[double]\n- *lat_wgs84*: lat_wgs84[double]\n- *modif_geom*: modif_geom[text]\n- *modif_attr*: modif_attr[text]\n- *extension*: extension[text]\n- *batiment*: batiment[text]\n- *date_creat*: date_creat[text]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-25T07:47:13.349000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/adresses-du-referentiel-voies-et-adresses-de-rennes-metropole/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ac551d92-1796-49a7-aa5f-fad66d3cb30a",
+      "last_modified": "2016-11-30T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ac551d92-1796-49a7-aa5f-fad66d3cb30a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-04-06T05:02:43.697000",
+      "title": "Export au format CSV",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/adresses-du-referentiel-voies-et-adresses-de-rennes-metropole/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T05:02:43.698000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *gml_id*: gml_id[text]\n- *id_adr*: id_adr[int]\n- *id_voie*: id_voie[int]\n- *id_user*: id_user[int]\n- *numero*: numero[int]\n- *orientation_deg*: orientation_deg[double]\n- *orientation_grd*: orientation_grd[double]\n- *date_modif*: date_modif[text]\n- *bornage*: bornage[text]\n- *objectid*: objectid[int]\n- *denomination*: denomination[text]\n- *fantoir*: fantoir[text]\n- *code_insee*: code_insee[int]\n- *nom*: nom[text]\n- *adresse*: adresse[text]\n- *adresse_complete*: adresse_complete[text]\n- *coord_x_cc48*: coord_x_cc48[double]\n- *coord_y_cc48*: coord_y_cc48[double]\n- *coord_x_l93*: coord_x_l93[double]\n- *coord_y_l93*: coord_y_l93[double]\n- *lon_wgs84*: lon_wgs84[double]\n- *lat_wgs84*: lat_wgs84[double]\n- *modif_geom*: modif_geom[text]\n- *modif_attr*: modif_attr[text]\n- *extension*: extension[text]\n- *batiment*: batiment[text]\n- *date_creat*: date_creat[text]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-25T07:47:14.535000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/adresses-du-referentiel-voies-et-adresses-de-rennes-metropole/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "fa0c8835-2504-4c13-9a8f-6f11e3b2b8f4",
+      "last_modified": "2016-11-30T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fa0c8835-2504-4c13-9a8f-6f11e3b2b8f4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-04-06T05:02:43.698000",
+      "title": "Export au format JSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/adresses-du-referentiel-voies-et-adresses-de-rennes-metropole/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T05:02:43.698000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *gml_id*: gml_id[text]\n- *id_adr*: id_adr[int]\n- *id_voie*: id_voie[int]\n- *id_user*: id_user[int]\n- *numero*: numero[int]\n- *orientation_deg*: orientation_deg[double]\n- *orientation_grd*: orientation_grd[double]\n- *date_modif*: date_modif[text]\n- *bornage*: bornage[text]\n- *objectid*: objectid[int]\n- *denomination*: denomination[text]\n- *fantoir*: fantoir[text]\n- *code_insee*: code_insee[int]\n- *nom*: nom[text]\n- *adresse*: adresse[text]\n- *adresse_complete*: adresse_complete[text]\n- *coord_x_cc48*: coord_x_cc48[double]\n- *coord_y_cc48*: coord_y_cc48[double]\n- *coord_x_l93*: coord_x_l93[double]\n- *coord_y_l93*: coord_y_l93[double]\n- *lon_wgs84*: lon_wgs84[double]\n- *lat_wgs84*: lat_wgs84[double]\n- *modif_geom*: modif_geom[text]\n- *modif_attr*: modif_attr[text]\n- *extension*: extension[text]\n- *batiment*: batiment[text]\n- *date_creat*: date_creat[text]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-25T07:46:49.943000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/adresses-du-referentiel-voies-et-adresses-de-rennes-metropole/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "45b3d3cb-42ed-4975-a62b-479cc018ef70",
+      "last_modified": "2016-11-30T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/45b3d3cb-42ed-4975-a62b-479cc018ef70",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-04-06T05:02:43.698000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/adresses-du-referentiel-voies-et-adresses-de-rennes-metropole/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T05:02:43.698000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *gml_id*: gml_id[text]\n- *id_adr*: id_adr[int]\n- *id_voie*: id_voie[int]\n- *id_user*: id_user[int]\n- *numero*: numero[int]\n- *orientation_deg*: orientation_deg[double]\n- *orientation_grd*: orientation_grd[double]\n- *date_modif*: date_modif[text]\n- *bornage*: bornage[text]\n- *objectid*: objectid[int]\n- *denomination*: denomination[text]\n- *fantoir*: fantoir[text]\n- *code_insee*: code_insee[int]\n- *nom*: nom[text]\n- *adresse*: adresse[text]\n- *adresse_complete*: adresse_complete[text]\n- *coord_x_cc48*: coord_x_cc48[double]\n- *coord_y_cc48*: coord_y_cc48[double]\n- *coord_x_l93*: coord_x_l93[double]\n- *coord_y_l93*: coord_y_l93[double]\n- *lon_wgs84*: lon_wgs84[double]\n- *lat_wgs84*: lat_wgs84[double]\n- *modif_geom*: modif_geom[text]\n- *modif_attr*: modif_attr[text]\n- *extension*: extension[text]\n- *batiment*: batiment[text]\n- *date_creat*: date_creat[text]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-25T07:47:18.925000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/adresses-du-referentiel-voies-et-adresses-de-rennes-metropole/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "104bf381-68ce-45a2-b51c-9fcc695f7c7c",
+      "last_modified": "2016-11-30T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/104bf381-68ce-45a2-b51c-9fcc695f7c7c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-04-06T05:02:43.698000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/adresses-du-referentiel-voies-et-adresses-de-rennes-metropole/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "adresses-du-referentiel-voies-et-adresses-de-rennes-metropole",
+  "spatial": null,
+  "tags": [
+    "referentiels-geographiques"
+  ],
+  "temporal_coverage": null,
+  "title": "Adresses du r\u00e9f\u00e9rentiel voies et adresses de Rennes M\u00e9tropole",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/adresses-du-referentiel-voies-et-adresses-de-rennes-metropole/"
+}

@@ -1,0 +1,46 @@
+{
+  "acronym": null,
+  "badges": [],
+  "created_at": "2017-09-05T15:09:58.664000",
+  "deleted": null,
+  "description": "M\u00e9tropole Nice C\u00f4te d\u2019Azur",
+  "id": "59aea226c751df38f3f6834b",
+  "last_modified": "2017-09-05T15:26:54.272000",
+  "logo": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-original.png",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-100.png",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/fb/0ce0e3727f45dc9c64f7c01c6ea490-original.png",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/fb/0ce0e3727f45dc9c64f7c01c6ea490-100.png",
+        "class": "User",
+        "first_name": "Vincent",
+        "id": "574c8ccc88ee3843b6d1b934",
+        "last_name": "Bataille",
+        "page": "https://www.data.gouv.fr/fr/users/vincent-bataille-2/",
+        "slug": "vincent-bataille-2",
+        "uri": "https://www.data.gouv.fr/api/1/users/vincent-bataille-2/"
+      }
+    }
+  ],
+  "metrics": {
+    "dataset_views": 1,
+    "datasets": 177,
+    "followers": 0,
+    "members": 1,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 0,
+    "resource_downloads": 1,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "name": "Nice C\u00f4te d'Azur",
+  "page": "https://www.data.gouv.fr/fr/organizations/nice-cote-dazur/",
+  "slug": "nice-cote-dazur",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/nice-cote-dazur/",
+  "url": "http://opendata.nicecotedazur.org/"
+}

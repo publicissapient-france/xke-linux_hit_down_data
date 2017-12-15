@@ -1,0 +1,104 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T19:49:15.361000",
+  "deleted": null,
+  "description": "Budget Primitif 2017 de la Ville de Toulouse",
+  "extras": {
+    "harvest:domain": "data.toulouse-metropole.fr",
+    "harvest:last_update": "2017-11-27T05:19:41.713636",
+    "harvest:remote_id": "budget-primitif-2017-ville-toulouse",
+    "harvest:source_id": "564c3680c751df607daad370",
+    "ods:has_records": true,
+    "ods:url": "https://data.toulouse-metropole.fr//explore/dataset/budget-primitif-2017-ville-toulouse/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5959321ba3a7291dcf9c825a",
+  "last_modified": "2017-11-27T05:19:41.715000",
+  "last_update": "2017-11-27T05:19:41.713000",
+  "license": "odc-odbl",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb3a3a7292c64a78129",
+    "logo": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-100.jpg",
+    "name": "Toulouse m\u00e9trople",
+    "page": "https://www.data.gouv.fr/fr/organizations/toulouse-metrople/",
+    "slug": "toulouse-metrople",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/toulouse-metrople/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/budget-primitif-2017-ville-de-toulouse/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:19:41.712000",
+      "description": "- *Entit\u00e9 financi\u00e8re programme*: entite_financiere_programme[text]\n- *Nature AP/EPCP*: nature_ap_epcp[text]\n- *Type mouvement*: type_mouvement[text]\n- *Section*: section[text]\n- *Nomenclature comptable*: nomenclature_comptable[text]\n- *Code chapitre*: code_chapitre[text]\n- *Libell\u00e9 chapitre*: libelle_chapitre[text]\n- *Code article*: code_article[text]\n- *Libell\u00e9 article*: libelle_article[text]\n- *Code pr\u00e9sentation crois\u00e9e*: code_presentation_croisee[text]\n- *Libell\u00e9 pr\u00e9sentation crois\u00e9e*: libelle_presentation_croisee[text]\n- *Chapitre par nature*: chapitre_par_nature[text]\n- *Libell\u00e9 par nature*: libelle_par_nature[text]\n- *Mt CP Vot\u00e9 BP*: mt_cp_vote_bp[double]\n- *Mt CP ICNE BP*: mt_cp_icne_bp[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "633ad720-e545-4043-9dcc-4137b8ae7f08",
+      "last_modified": "2017-01-31T10:00:34",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/633ad720-e545-4043-9dcc-4137b8ae7f08",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:19:41.712000",
+      "title": "Export au format CSV",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/budget-primitif-2017-ville-toulouse/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:19:41.713000",
+      "description": "- *Entit\u00e9 financi\u00e8re programme*: entite_financiere_programme[text]\n- *Nature AP/EPCP*: nature_ap_epcp[text]\n- *Type mouvement*: type_mouvement[text]\n- *Section*: section[text]\n- *Nomenclature comptable*: nomenclature_comptable[text]\n- *Code chapitre*: code_chapitre[text]\n- *Libell\u00e9 chapitre*: libelle_chapitre[text]\n- *Code article*: code_article[text]\n- *Libell\u00e9 article*: libelle_article[text]\n- *Code pr\u00e9sentation crois\u00e9e*: code_presentation_croisee[text]\n- *Libell\u00e9 pr\u00e9sentation crois\u00e9e*: libelle_presentation_croisee[text]\n- *Chapitre par nature*: chapitre_par_nature[text]\n- *Libell\u00e9 par nature*: libelle_par_nature[text]\n- *Mt CP Vot\u00e9 BP*: mt_cp_vote_bp[double]\n- *Mt CP ICNE BP*: mt_cp_icne_bp[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "d1492b0d-867c-4fcb-b04e-894b1c475589",
+      "last_modified": "2017-01-31T10:00:34",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d1492b0d-867c-4fcb-b04e-894b1c475589",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:19:41.713000",
+      "title": "Export au format JSON",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/budget-primitif-2017-ville-toulouse/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "budget-primitif-2017-ville-de-toulouse",
+  "spatial": null,
+  "tags": [
+    "budget",
+    "budget-primitif",
+    "finance",
+    "finances-publiques",
+    "m14",
+    "mairie",
+    "ville"
+  ],
+  "temporal_coverage": null,
+  "title": "Budget primitif 2017 Ville de Toulouse",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/budget-primitif-2017-ville-de-toulouse/"
+}

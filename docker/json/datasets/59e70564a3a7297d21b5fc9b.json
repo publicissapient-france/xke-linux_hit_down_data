@@ -1,0 +1,103 @@
+{
+  "badges": [],
+  "created_at": "2017-10-18T09:40:20.276000",
+  "deleted": null,
+  "description": "Liste de pr\u00e9noms des nouveaux n\u00e9s r\u00e9sidant \u00e0 Armenti\u00e8res\u00a0choisis en 2016",
+  "extras": {
+    "harvest:domain": "opendata.lillemetropole.fr",
+    "harvest:last_update": "2017-11-27T05:28:40.567301",
+    "harvest:remote_id": "prenoms-armentieres",
+    "harvest:source_id": "58b68fdcc751df10ea84f9cc",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.lillemetropole.fr//explore/dataset/prenoms-armentieres/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59e70564a3a7297d21b5fc9b",
+  "last_modified": "2017-11-27T05:28:40.570000",
+  "last_update": "2017-11-27T05:28:40.565000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "MEL",
+    "class": "Organization",
+    "id": "58b69c62c751df4b175dd7a4",
+    "logo": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-100.png",
+    "name": "M\u00e9tropole Europ\u00e9enne de Lille ",
+    "page": "https://www.data.gouv.fr/fr/organizations/metropole-europeenne-de-lille/",
+    "slug": "metropole-europeenne-de-lille",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/metropole-europeenne-de-lille/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/prenoms-des-nouveaux-nes-residant-a-armentieres/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:28:40.565000",
+      "description": "- *Pr\u00e9nom*: prenom[text]\n- *Sexe*: sexe[text]\n- *Mois*: mois[date]\n- *Commune*: commune[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b46c3608-5b7d-4dfc-b43c-3efe3b5e5302",
+      "last_modified": "2017-06-21T13:49:34",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b46c3608-5b7d-4dfc-b43c-3efe3b5e5302",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:28:40.565000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/prenoms-armentieres/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:28:40.565000",
+      "description": "- *Pr\u00e9nom*: prenom[text]\n- *Sexe*: sexe[text]\n- *Mois*: mois[date]\n- *Commune*: commune[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "37ef0a83-7b98-4e3a-995f-b4a87478dea3",
+      "last_modified": "2017-06-21T13:49:34",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/37ef0a83-7b98-4e3a-995f-b4a87478dea3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:28:40.565000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/prenoms-armentieres/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "prenoms-des-nouveaux-nes-residant-a-armentieres",
+  "spatial": null,
+  "tags": [
+    "administration",
+    "citoyennete",
+    "finances-publiques",
+    "gouvernement",
+    "naissances",
+    "prenom"
+  ],
+  "temporal_coverage": null,
+  "title": "Pr\u00e9noms des nouveaux n\u00e9s r\u00e9sidant \u00e0 Armenti\u00e8res",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/prenoms-des-nouveaux-nes-residant-a-armentieres/"
+}

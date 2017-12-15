@@ -1,0 +1,106 @@
+{
+  "badges": [],
+  "created_at": "2017-11-17T05:12:59.081000",
+  "deleted": null,
+  "description": "Liste des expositions pr\u00e9sent\u00e9es au Mus\u00e9e Saint-Raymond, mus\u00e9e des Antiques de Toulouse.",
+  "extras": {
+    "harvest:domain": "data.toulouse-metropole.fr",
+    "harvest:last_update": "2017-11-27T05:22:54.193471",
+    "harvest:remote_id": "expositions-msr",
+    "harvest:source_id": "564c3680c751df607daad370",
+    "ods:has_records": true,
+    "ods:references": "http://saintraymond.toulouse.fr/Les-expositions_r26.html",
+    "ods:url": "https://data.toulouse-metropole.fr//explore/dataset/expositions-msr/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5a0e61cbb5950840efec248b",
+  "last_modified": "2017-11-27T05:22:54.195000",
+  "last_update": "2017-11-27T05:22:54.192000",
+  "license": "odc-odbl",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb3a3a7292c64a78129",
+    "logo": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-100.jpg",
+    "name": "Toulouse m\u00e9trople",
+    "page": "https://www.data.gouv.fr/fr/organizations/toulouse-metrople/",
+    "slug": "toulouse-metrople",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/toulouse-metrople/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/expositions-du-musee-saint-raymond/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:22:54.191000",
+      "description": "- *titre de l'exposition*: titre_de_l_exposition[text]\n- *lieu*: lieu[text]\n- *titre*: titre[text]\n- *sous-titre*: sous_titre[text]\n- *date de d\u00e9but*: date_de_debut[date]\n- *date de fin*: date_de_fin[date]\n- *ann\u00e9e*: annee[double]\n- *th\u00e8me*: theme[text]\n- *URL page officielle sur le site du mus\u00e9e*: url_page_officielle_sur_le_site_du_musee[text]\n- *URI BNF ou SUDOC du catalogue d'exposition*: uri_bnf_ou_sudoc_du_catalogue_d_exposition[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "457c2300-9c57-4514-a307-23fc00bba1b0",
+      "last_modified": "2017-10-20T15:12:08",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/457c2300-9c57-4514-a307-23fc00bba1b0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:22:54.191000",
+      "title": "Export au format CSV",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/expositions-msr/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:22:54.192000",
+      "description": "- *titre de l'exposition*: titre_de_l_exposition[text]\n- *lieu*: lieu[text]\n- *titre*: titre[text]\n- *sous-titre*: sous_titre[text]\n- *date de d\u00e9but*: date_de_debut[date]\n- *date de fin*: date_de_fin[date]\n- *ann\u00e9e*: annee[double]\n- *th\u00e8me*: theme[text]\n- *URL page officielle sur le site du mus\u00e9e*: url_page_officielle_sur_le_site_du_musee[text]\n- *URI BNF ou SUDOC du catalogue d'exposition*: uri_bnf_ou_sudoc_du_catalogue_d_exposition[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "23aa3b38-c08f-4ef2-aded-c081cc76d76b",
+      "last_modified": "2017-10-20T15:12:08",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/23aa3b38-c08f-4ef2-aded-c081cc76d76b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:22:54.192000",
+      "title": "Export au format JSON",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/expositions-msr/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "expositions-du-musee-saint-raymond",
+  "spatial": null,
+  "tags": [
+    "antiquite",
+    "archeologie",
+    "culture",
+    "evenement",
+    "exposition",
+    "musee",
+    "patrimoine",
+    "saint-raymond"
+  ],
+  "temporal_coverage": null,
+  "title": "Expositions du Mus\u00e9e Saint-Raymond",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/expositions-du-musee-saint-raymond/"
+}

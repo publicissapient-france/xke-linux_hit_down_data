@@ -1,0 +1,46 @@
+{
+  "acronym": "BPCE",
+  "badges": [],
+  "created_at": "2017-10-16T15:02:28.585000",
+  "deleted": null,
+  "description": "Le Groupe BPCE exerce tous les m\u00e9tiers de la banque et de l\u2019assurance en s\u2019appuyant sur ses deux grands r\u00e9seaux coop\u00e9ratifs, Banque Populaire et Caisse d\u2019Epargne, ainsi que sur ses filiales.\n\nLe Groupe BPCE, 2e groupe bancaire en France, est profond\u00e9ment ancr\u00e9 dans les territoires. Ses 108 000 collaborateurs sont au service de 31,2 millions de clients dont 9 millions de soci\u00e9taires. Les entreprises du groupe exercent leur m\u00e9tier de banquier et d\u2019assureur au plus pr\u00e8s des besoins des personnes et des territoires. Avec les 15 Banques Populaires, les 15 Caisses d\u2019Epargne, Natixis, le Cr\u00e9dit Foncier, la Banque Palatine...\n\nLe Groupe BPCE propose \u00e0 ses clients une offre compl\u00e8te de produits et de services : solutions d\u2019\u00e9pargne, de placement, de tr\u00e9sorerie, de financement, d\u2019assurance, d\u2019investissement. Fid\u00e8le \u00e0 son statut coop\u00e9ratif, le groupe les accompagne dans leurs projets et construit avec eux une relation dans la dur\u00e9e, contribuant ainsi \u00e0 20 % du financement de l\u2019\u00e9conomie fran\u00e7aise.",
+  "id": "59e4ade488ee38366b2f58ab",
+  "last_modified": "2017-11-23T21:46:19.271000",
+  "logo": "https://www.data.gouv.fr/s/avatars/d1/3e1b26bae144319b284c4b5512bea9-original.jpg",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/d1/3e1b26bae144319b284c4b5512bea9-100.jpg",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Baptiste",
+        "id": "59366e5ac751df41e71905c6",
+        "last_name": "Sans Jofre",
+        "page": "https://www.data.gouv.fr/fr/users/baptiste-sans-jofre/",
+        "slug": "baptiste-sans-jofre",
+        "uri": "https://www.data.gouv.fr/api/1/users/baptiste-sans-jofre/"
+      }
+    }
+  ],
+  "metrics": {
+    "dataset_views": 14,
+    "datasets": 48,
+    "followers": 1,
+    "members": 1,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 0,
+    "resource_downloads": 1,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 2
+  },
+  "name": "Groupe BPCE",
+  "page": "https://www.data.gouv.fr/fr/organizations/groupe-bpce/",
+  "slug": "groupe-bpce",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/groupe-bpce/",
+  "url": "https://www.groupebpce.fr/"
+}

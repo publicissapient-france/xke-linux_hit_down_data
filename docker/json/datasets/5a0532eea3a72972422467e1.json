@@ -1,0 +1,235 @@
+{
+  "badges": [],
+  "created_at": "2017-11-09T00:00:00",
+  "deleted": null,
+  "description": "Liste des \u00e9quipements et des prestataires d\u2019activit\u00e9s li\u00e9s \u00e0 l\u2019auto et/ou la moto (circuits auto et/ou moto, 4x4, sports automobiles, buggies, conduite sur glace, moto, moto-cross, quad, scooter, scooter de mer, trial) en Aquitaine, issue de la base de donn\u00e9es SIRTAQUI.\n\nCe fichier contient les informations de g\u00e9olocalisation et de contact, les informations sur le type d\u2019\u00e9quipement/d\u2019activit\u00e9, les marques et labels, les conditions d\u2019ouverture et de visites, les tarifs, les \u00e9quipements et les services propos\u00e9s.",
+  "extras": {
+    "ckan:name": "liste-des-activites-de-pratique-auto-et-moto-en-aquitaine",
+    "contact_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "contact_name": "CRTA",
+    "contact_uri": "https://datacat.datalocale.fr/414593",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
+    "guid": "https://datacat.datalocale.fr/415939",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-11-14T05:15:29.454171",
+    "harvest:remote_id": "feb57096-3b65-4945-8af0-11b1b952e26e",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "aa5b6f72-1a03-43d8-b615-c8035ae2efe5",
+    "issued": "2014-12-23T11:08:40+00:00",
+    "modified": "2016-07-18T09:21:07.177541+00:00",
+    "publisher_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "publisher_name": "agence SIRTAQUI",
+    "publisher_type": "\"Organisation \u00e0 but non lucratif\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414592",
+    "remote_url": "http://www.sirtaqui-aquitaine.com",
+    "theme": "[\"tourisme\"]",
+    "uri": "https://datacat.datalocale.fr/415939"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5a0532eea3a72972422467e1",
+  "last_modified": "2017-11-14T05:15:29.457000",
+  "last_update": "2017-11-10T06:02:38.749000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-activites-de-pratique-auto-et-moto-en-aquitaine-4/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-10T06:02:38.747000",
+      "description": "export en csv (utf-8) des activit\u00e9s de la base de donn\u00e9es SIRTAQUI avec coordonn\u00e9es en wgs84",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-19T19:06:44.404000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/distribution/415944/raw/liste-activites-auto-moto-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "cc3edce7-407e-458b-98d4-b71a01a91900",
+      "last_modified": "2017-11-14T05:15:29.453000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cc3edce7-407e-458b-98d4-b71a01a91900",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-10T06:02:38.747000",
+      "title": "liste-csv-activites-auto-moto-aquitaine",
+      "url": "https://datacat.datalocale.fr/distribution/415944/raw/liste-activites-auto-moto-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-10T06:02:38.747000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-19T19:06:47.601000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/415943"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "db631d67-7f85-4738-ac3e-36472e57dc53",
+      "last_modified": "2017-11-14T05:15:29.453000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/db631d67-7f85-4738-ac3e-36472e57dc53",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-10T06:02:38.747000",
+      "title": "description des champs des jeux de donn\u00e9es ",
+      "url": "https://datacat.datalocale.fr/415943"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-10T06:02:38.747000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-19T19:06:32.659000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/distribution/415940/raw/liste-xml-activites-auto-moto-aquitaine.xml"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "9d4a24d5-c5b7-4e63-8f2c-944c00024d0b",
+      "last_modified": "2017-11-14T05:15:29.453000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9d4a24d5-c5b7-4e63-8f2c-944c00024d0b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/xml",
+      "published": "2017-11-10T06:02:38.747000",
+      "title": "export au format tourinfo des donn\u00e9es de la base SIRTAQUI",
+      "url": "https://datacat.datalocale.fr/distribution/415940/raw/liste-xml-activites-auto-moto-aquitaine.xml"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-10T06:02:38.748000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-19T19:06:40.211000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/distribution/489906/raw/liste-csv-activites-auto-moto-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "4cde5885-f7bd-47e7-a2a3-db475a9b5ba2",
+      "last_modified": "2017-11-14T05:15:29.453000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4cde5885-f7bd-47e7-a2a3-db475a9b5ba2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-10T06:02:38.748000",
+      "title": "liste-csv-activites-auto-moto-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/distribution/489906/raw/liste-csv-activites-auto-moto-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-10T06:02:38.748000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-19T19:06:35.911000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/distribution/495863/raw/liste-csv-activites-auto-moto-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "0de2efc2-0c49-4b23-8869-fd4f6eca29a8",
+      "last_modified": "2017-11-14T05:15:29.453000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0de2efc2-0c49-4b23-8869-fd4f6eca29a8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-10T06:02:38.748000",
+      "title": "liste-csv-activites-auto-moto-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/distribution/495863/raw/liste-csv-activites-auto-moto-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-10T06:02:38.749000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-11-17T09:38:03.679000",
+        "check:status": 501,
+        "check:url": "http://wcf.tourinsoft.com/Syndication/aquitaine/4025e896-e45e-46fc-958a-6a31c34c06c2/Objects?$format=json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "d4a5c3d2-8a40-4b64-873e-debaa0a18ffa",
+      "last_modified": "2017-11-14T05:15:29.453000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d4a5c3d2-8a40-4b64-873e-debaa0a18ffa",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-10T06:02:38.749000",
+      "title": " Flux de r\u00e9cup\u00e9ration des donn\u00e9es en temps r\u00e9el ",
+      "url": "http://wcf.tourinsoft.com/Syndication/aquitaine/4025e896-e45e-46fc-958a-6a31c34c06c2/Objects?$format=json"
+    }
+  ],
+  "slug": "liste-des-activites-de-pratique-auto-et-moto-en-aquitaine-4",
+  "spatial": null,
+  "tags": [
+    "auto",
+    "moto",
+    "quad",
+    "scooter",
+    "sport",
+    "tourisme"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des activit\u00e9s de pratique auto et moto en aquitaine",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-activites-de-pratique-auto-et-moto-en-aquitaine-4/"
+}

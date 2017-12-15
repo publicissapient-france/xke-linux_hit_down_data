@@ -1,0 +1,1579 @@
+{
+  "badges": [],
+  "created_at": "2017-06-21T00:00:00",
+  "deleted": null,
+  "description": "Sur le territoire de la Gironde et par commune, prix TTC du service de l'eau potable au m\u00b3 pour une facture type de 120 m\u00b3",
+  "extras": {
+    "ckan:name": "liste-des-prix-de-leau-par-commune",
+    "contact_email": "mailto:dgad-dat-set@cg33.fr",
+    "contact_name": "set-dat",
+    "contact_uri": "https://datacat.datalocale.fr/414668",
+    "guid": "https://datacat.datalocale.fr/414891",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-09-29T07:50:26.172001",
+    "harvest:remote_id": "0f1a1882-3115-4b50-9750-ddeb070102eb",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "22b59657-8f75-42fd-8b25-9d0800c3385f",
+    "issued": "2013-01-02T17:00:38+00:00",
+    "modified": "2016-07-18T09:21:05.237618+00:00",
+    "publisher_email": "mailto:c.gaffory@cg33.fr",
+    "publisher_name": "Christian Gaffory",
+    "publisher_uri": "https://datacat.datalocale.fr/414667",
+    "theme": "[\"besoin en eau\"]",
+    "uri": "https://datacat.datalocale.fr/414891"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5959235ca3a7291dcf9c8219",
+  "last_modified": "2017-09-29T07:50:26.173000",
+  "last_update": "2017-09-12T07:47:08.663000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 2
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-prix-de-leau-par-commune/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:46:20.979000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T22:50:32.558000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e9fe439c-d0c8-4173-a9b1-161b0f91fc6c",
+      "last_modified": "2017-07-07T06:08:31.727000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e9fe439c-d0c8-4173-a9b1-161b0f91fc6c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T18:46:20.979000",
+      "title": "tableau d\u00e9taillant les prix ttc par commune pour l'ann\u00e9e 2011",
+      "url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:46:20.979000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-27T12:00:43.380000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "02a1c36b-b696-419e-8eda-60056713e51d",
+      "last_modified": "2017-07-07T06:08:31.727000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/02a1c36b-b696-419e-8eda-60056713e51d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-07-02T18:46:20.979000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:05:13.229000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-27T11:59:47.517000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "8cf2146c-5a3e-4e3c-b88f-a2773867e79b",
+      "last_modified": "2017-07-08T07:05:13.230000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8cf2146c-5a3e-4e3c-b88f-a2773867e79b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-07-08T07:05:13.230000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:05:13.230000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-27T11:59:22.996000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "3c9dd2ac-f861-4430-bcc7-398e2ed39d42",
+      "last_modified": "2017-07-08T07:05:13.230000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3c9dd2ac-f861-4430-bcc7-398e2ed39d42",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-08T07:05:13.230000",
+      "title": "tableau d\u00e9taillant les prix ttc par commune pour l'ann\u00e9e 2011",
+      "url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-09T07:01:21.220000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-27T11:59:47.517000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "edd00ad6-df89-450c-9b81-58da903eb0c3",
+      "last_modified": "2017-07-09T07:01:21.220000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/edd00ad6-df89-450c-9b81-58da903eb0c3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-07-09T07:01:21.220000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-09T07:01:21.220000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-27T11:59:50.465000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "1f3c3cbc-da6a-4e49-9219-a9e3fb2c5196",
+      "last_modified": "2017-07-09T07:01:21.221000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1f3c3cbc-da6a-4e49-9219-a9e3fb2c5196",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-09T07:01:21.220000",
+      "title": "tableau d\u00e9taillant les prix ttc par commune pour l'ann\u00e9e 2011",
+      "url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-10T07:04:47.905000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:01:35.258000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "39ea8bf6-d1bd-4504-bb56-34d3c120de83",
+      "last_modified": "2017-07-10T07:04:47.905000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/39ea8bf6-d1bd-4504-bb56-34d3c120de83",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-10T07:04:47.905000",
+      "title": "tableau d\u00e9taillant les prix ttc par commune pour l'ann\u00e9e 2011",
+      "url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-10T07:04:47.906000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:01:35.244000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "cebd17a3-e547-4f38-95b7-62da33285b66",
+      "last_modified": "2017-07-10T07:04:47.906000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cebd17a3-e547-4f38-95b7-62da33285b66",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-07-10T07:04:47.906000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-20T02:30:04.271000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:01:35.244000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "a012be29-c9a4-4808-bdd1-dc1236ae293b",
+      "last_modified": "2017-08-03T06:08:19.786000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a012be29-c9a4-4808-bdd1-dc1236ae293b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-07-20T02:30:04.272000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-20T02:30:04.272000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:40.773000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "3aaa1724-e350-4d32-8e02-0d4db269553a",
+      "last_modified": "2017-08-03T06:08:19.786000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3aaa1724-e350-4d32-8e02-0d4db269553a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-20T02:30:04.272000",
+      "title": "tableau d\u00e9taillant les prix ttc par commune pour l'ann\u00e9e 2011",
+      "url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-08T06:05:06.259000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:01:35.244000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "902213bc-4e4c-4363-968f-84d91b39b450",
+      "last_modified": "2017-08-08T06:05:06.259000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/902213bc-4e4c-4363-968f-84d91b39b450",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-08T06:05:06.259000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-08T06:05:06.259000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:01:35.258000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "cbac24cb-5d7a-463c-a20c-8e0d32a242a4",
+      "last_modified": "2017-08-08T06:05:06.259000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cbac24cb-5d7a-463c-a20c-8e0d32a242a4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-08T06:05:06.259000",
+      "title": "tableau d\u00e9taillant les prix ttc par commune pour l'ann\u00e9e 2011",
+      "url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-09T06:03:52.058000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:40.773000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "dd38a425-07b4-46d0-8146-ff07c2671a23",
+      "last_modified": "2017-08-09T06:03:52.058000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/dd38a425-07b4-46d0-8146-ff07c2671a23",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-09T06:03:52.058000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-09T06:03:52.059000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:43.718000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "1bfa14ff-448e-4fd2-a505-9f2df8c3fff5",
+      "last_modified": "2017-08-09T06:03:52.059000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1bfa14ff-448e-4fd2-a505-9f2df8c3fff5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-09T06:03:52.059000",
+      "title": "tableau d\u00e9taillant les prix ttc par commune pour l'ann\u00e9e 2011",
+      "url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-10T06:05:55.987000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:44.496000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "c03dd4f8-5285-4d78-a88d-86237e039cfa",
+      "last_modified": "2017-08-10T06:05:55.987000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c03dd4f8-5285-4d78-a88d-86237e039cfa",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-10T06:05:55.987000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-10T06:05:55.987000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:48.231000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "de93f0c4-031f-402d-81fc-962b8f55a159",
+      "last_modified": "2017-08-10T06:05:55.987000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/de93f0c4-031f-402d-81fc-962b8f55a159",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-10T06:05:55.987000",
+      "title": "tableau d\u00e9taillant les prix ttc par commune pour l'ann\u00e9e 2011",
+      "url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-11T06:06:30.460000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:42.681000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "7e350c24-6545-43d4-acc8-70874a02317d",
+      "last_modified": "2017-08-11T06:06:30.461000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7e350c24-6545-43d4-acc8-70874a02317d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-11T06:06:30.461000",
+      "title": "tableau d\u00e9taillant les prix ttc par commune pour l'ann\u00e9e 2011",
+      "url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-11T06:06:30.461000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:43.803000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "398b53b9-dc38-4559-a91d-a0e9fd4d59e8",
+      "last_modified": "2017-08-11T06:06:30.461000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/398b53b9-dc38-4559-a91d-a0e9fd4d59e8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-11T06:06:30.461000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-12T06:02:06.525000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:46.351000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2cbd7bb9-c38f-4a32-afb9-4bb12dca9f33",
+      "last_modified": "2017-08-12T06:02:06.525000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2cbd7bb9-c38f-4a32-afb9-4bb12dca9f33",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-12T06:02:06.525000",
+      "title": "tableau d\u00e9taillant les prix ttc par commune pour l'ann\u00e9e 2011",
+      "url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-12T06:02:06.525000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:47.197000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "506ecbef-e5ef-462a-9b3b-4384324fc2d4",
+      "last_modified": "2017-08-12T06:02:06.525000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/506ecbef-e5ef-462a-9b3b-4384324fc2d4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-12T06:02:06.525000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-13T06:07:57.069000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:40.773000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "b0b1ca2e-6735-4898-9327-5d441a20d3de",
+      "last_modified": "2017-08-13T06:07:57.069000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b0b1ca2e-6735-4898-9327-5d441a20d3de",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-13T06:07:57.069000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-13T06:07:57.069000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:44.405000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "11af21f0-5d89-4695-b590-5662cce87963",
+      "last_modified": "2017-08-13T06:07:57.070000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/11af21f0-5d89-4695-b590-5662cce87963",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-13T06:07:57.070000",
+      "title": "tableau d\u00e9taillant les prix ttc par commune pour l'ann\u00e9e 2011",
+      "url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-14T07:11:16.531000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:47.197000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "c463a1b0-c40f-4f54-9a15-3cc95a61768c",
+      "last_modified": "2017-08-14T07:11:16.532000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c463a1b0-c40f-4f54-9a15-3cc95a61768c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-14T07:11:16.531000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-14T07:11:16.532000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:48.231000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c732b2d6-0f9f-4c1d-917e-2a27076af255",
+      "last_modified": "2017-08-14T07:11:16.532000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c732b2d6-0f9f-4c1d-917e-2a27076af255",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-14T07:11:16.532000",
+      "title": "tableau d\u00e9taillant les prix ttc par commune pour l'ann\u00e9e 2011",
+      "url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-15T06:06:23.569000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:42.681000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "fe29f403-f96d-4610-bef0-72efc3f0abfa",
+      "last_modified": "2017-08-15T06:06:23.569000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fe29f403-f96d-4610-bef0-72efc3f0abfa",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-15T06:06:23.569000",
+      "title": "tableau d\u00e9taillant les prix ttc par commune pour l'ann\u00e9e 2011",
+      "url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-15T06:06:23.569000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:44.496000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "c314c1d9-5021-40cd-be01-38199c9637dd",
+      "last_modified": "2017-08-15T06:06:23.570000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c314c1d9-5021-40cd-be01-38199c9637dd",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-15T06:06:23.569000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-16T07:11:06.081000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:47.197000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "e863f921-035d-4fb2-831c-a815fb86a805",
+      "last_modified": "2017-08-16T07:11:06.081000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e863f921-035d-4fb2-831c-a815fb86a805",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-16T07:11:06.081000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-16T07:11:06.081000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:49.811000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "8304f705-102c-452c-a181-1f6614dc4603",
+      "last_modified": "2017-08-16T07:11:06.082000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8304f705-102c-452c-a181-1f6614dc4603",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-16T07:11:06.081000",
+      "title": "tableau d\u00e9taillant les prix ttc par commune pour l'ann\u00e9e 2011",
+      "url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-17T06:02:39.514000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:43.394000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "da658081-555b-43a1-8d23-62b33d745edb",
+      "last_modified": "2017-08-17T06:02:39.514000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/da658081-555b-43a1-8d23-62b33d745edb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-17T06:02:39.514000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-17T06:02:39.514000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:46.351000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "877461b9-eed3-4798-bc1c-a4a59421bbb6",
+      "last_modified": "2017-08-17T06:02:39.515000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/877461b9-eed3-4798-bc1c-a4a59421bbb6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-17T06:02:39.514000",
+      "title": "tableau d\u00e9taillant les prix ttc par commune pour l'ann\u00e9e 2011",
+      "url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-18T06:09:00.183000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:47.274000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "77e9531b-80ff-401e-802f-c2b06aea5c99",
+      "last_modified": "2017-08-18T06:09:00.184000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/77e9531b-80ff-401e-802f-c2b06aea5c99",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-18T06:09:00.183000",
+      "title": "tableau d\u00e9taillant les prix ttc par commune pour l'ann\u00e9e 2011",
+      "url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-18T06:09:00.184000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:48.151000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "3dbd1c2c-d6e8-4f0a-8d6d-b05bc31ee075",
+      "last_modified": "2017-08-18T06:09:00.184000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3dbd1c2c-d6e8-4f0a-8d6d-b05bc31ee075",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-18T06:09:00.184000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-19T06:04:48.162000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:43.803000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "e4b9548f-a5fb-48d8-bcac-705a67e944f2",
+      "last_modified": "2017-08-19T06:04:48.162000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e4b9548f-a5fb-48d8-bcac-705a67e944f2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-19T06:04:48.162000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-19T06:04:48.163000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:46.351000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "9bd5a977-a3e0-4809-9130-a30901b689c2",
+      "last_modified": "2017-08-19T06:04:48.163000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9bd5a977-a3e0-4809-9130-a30901b689c2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-19T06:04:48.163000",
+      "title": "tableau d\u00e9taillant les prix ttc par commune pour l'ann\u00e9e 2011",
+      "url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-20T06:06:23.302000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:47.197000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "a46cb0d1-ad16-4c5e-9cbc-bc505bbf3a83",
+      "last_modified": "2017-08-20T06:06:23.303000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a46cb0d1-ad16-4c5e-9cbc-bc505bbf3a83",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-20T06:06:23.303000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-20T06:06:23.303000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:49.172000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "13e0a184-1ef5-4f6b-98f7-e396008c35f0",
+      "last_modified": "2017-08-20T06:06:23.303000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/13e0a184-1ef5-4f6b-98f7-e396008c35f0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-20T06:06:23.303000",
+      "title": "tableau d\u00e9taillant les prix ttc par commune pour l'ann\u00e9e 2011",
+      "url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-21T07:10:01.851000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:50.685000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "16425b7a-3195-4ac8-a18c-21ab4b463a02",
+      "last_modified": "2017-08-21T07:10:01.852000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/16425b7a-3195-4ac8-a18c-21ab4b463a02",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-21T07:10:01.851000",
+      "title": "tableau d\u00e9taillant les prix ttc par commune pour l'ann\u00e9e 2011",
+      "url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-21T07:10:01.852000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:48.151000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "d75a5177-8bd7-43bf-b2d1-9a87e3fa5009",
+      "last_modified": "2017-08-21T07:10:01.852000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d75a5177-8bd7-43bf-b2d1-9a87e3fa5009",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-21T07:10:01.852000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-22T06:04:38.279000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:48.231000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "7af1bc44-7762-4080-ad2c-4c0170d50425",
+      "last_modified": "2017-08-22T06:04:38.279000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7af1bc44-7762-4080-ad2c-4c0170d50425",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-22T06:04:38.279000",
+      "title": "tableau d\u00e9taillant les prix ttc par commune pour l'ann\u00e9e 2011",
+      "url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-22T06:04:38.280000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:51.477000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "225dd470-cbdd-48f8-830d-6b2416bac427",
+      "last_modified": "2017-08-22T06:04:38.280000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/225dd470-cbdd-48f8-830d-6b2416bac427",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-22T06:04:38.280000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-23T06:07:59.236000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:50.774000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "1e7edc52-50f8-47b7-b987-14d5a682ce3e",
+      "last_modified": "2017-08-23T06:07:59.236000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1e7edc52-50f8-47b7-b987-14d5a682ce3e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-23T06:07:59.236000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-23T06:07:59.237000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T19:01:57.605000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "902e4ed1-5a6d-4e17-91bf-4ddcba962d6a",
+      "last_modified": "2017-08-23T06:07:59.237000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/902e4ed1-5a6d-4e17-91bf-4ddcba962d6a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-23T06:07:59.237000",
+      "title": "tableau d\u00e9taillant les prix ttc par commune pour l'ann\u00e9e 2011",
+      "url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-24T06:05:17.268000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:50.774000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "957a89ed-8a50-42ff-aa1b-ce15dc57ba18",
+      "last_modified": "2017-08-24T06:05:17.268000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/957a89ed-8a50-42ff-aa1b-ce15dc57ba18",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-24T06:05:17.268000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-24T06:05:17.268000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:51.392000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "07c6114b-fcb5-481f-aeb2-a0596aa2b32b",
+      "last_modified": "2017-08-24T06:05:17.269000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/07c6114b-fcb5-481f-aeb2-a0596aa2b32b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-24T06:05:17.268000",
+      "title": "tableau d\u00e9taillant les prix ttc par commune pour l'ann\u00e9e 2011",
+      "url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-25T06:04:58.503000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T19:01:58.547000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "9bc9aaea-1a4f-4382-b5d1-135ee7e9c8b6",
+      "last_modified": "2017-08-25T06:04:58.503000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9bc9aaea-1a4f-4382-b5d1-135ee7e9c8b6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-25T06:04:58.503000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-25T06:04:58.503000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T19:01:58.546000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ffbcc9c5-727a-469e-bceb-04dca5c8ac96",
+      "last_modified": "2017-08-25T06:04:58.504000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ffbcc9c5-727a-469e-bceb-04dca5c8ac96",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-25T06:04:58.503000",
+      "title": "tableau d\u00e9taillant les prix ttc par commune pour l'ann\u00e9e 2011",
+      "url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-26T06:09:39.849000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T10:02:51.392000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "fb8e126a-d1a8-4b11-809b-f9c86c60e050",
+      "last_modified": "2017-08-26T06:09:39.849000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fb8e126a-d1a8-4b11-809b-f9c86c60e050",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-26T06:09:39.849000",
+      "title": "tableau d\u00e9taillant les prix ttc par commune pour l'ann\u00e9e 2011",
+      "url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-26T06:09:39.849000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T19:01:59.281000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "83fc8697-53f4-4c70-889d-6f0fc8f29b2f",
+      "last_modified": "2017-08-26T06:09:39.850000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/83fc8697-53f4-4c70-889d-6f0fc8f29b2f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-26T06:09:39.849000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-27T06:04:29.983000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T19:01:59.203000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b13c19c9-a317-42d2-b2aa-4d1d47b43c62",
+      "last_modified": "2017-08-27T06:04:29.983000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b13c19c9-a317-42d2-b2aa-4d1d47b43c62",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-27T06:04:29.983000",
+      "title": "tableau d\u00e9taillant les prix ttc par commune pour l'ann\u00e9e 2011",
+      "url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-27T06:04:29.984000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T19:01:59.281000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "570bed97-bdba-4197-9acc-be4c1ef76c40",
+      "last_modified": "2017-08-27T06:04:29.984000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/570bed97-bdba-4197-9acc-be4c1ef76c40",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-27T06:04:29.984000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-28T06:08:31.338000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T19:01:59.203000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "76ddc808-cefe-453f-b773-956a511556a2",
+      "last_modified": "2017-08-28T06:08:31.338000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/76ddc808-cefe-453f-b773-956a511556a2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-28T06:08:31.338000",
+      "title": "tableau d\u00e9taillant les prix ttc par commune pour l'ann\u00e9e 2011",
+      "url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-28T06:08:31.338000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T19:02:00.167000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "ad339d36-bc26-43cd-8ff2-5dd97ede47c3",
+      "last_modified": "2017-08-28T06:08:31.339000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ad339d36-bc26-43cd-8ff2-5dd97ede47c3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-28T06:08:31.339000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-29T06:05:50.959000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T19:02:00.167000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "cb8367df-cac0-43e7-9bf5-db7aa979d120",
+      "last_modified": "2017-09-11T06:15:01.204000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cb8367df-cac0-43e7-9bf5-db7aa979d120",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-29T06:05:50.959000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-29T06:05:50.960000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T19:02:00.320000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a1cef7ea-d35b-4e6b-a756-a3202f2828f9",
+      "last_modified": "2017-09-11T06:15:01.205000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a1cef7ea-d35b-4e6b-a756-a3202f2828f9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-29T06:05:50.960000",
+      "title": "tableau d\u00e9taillant les prix ttc par commune pour l'ann\u00e9e 2011",
+      "url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:47:08.663000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T19:02:00.320000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "170eba0f-4c79-4f6e-b18e-1728970637bc",
+      "last_modified": "2017-09-29T07:50:26.170000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/170eba0f-4c79-4f6e-b18e-1728970637bc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:47:08.663000",
+      "title": "tableau d\u00e9taillant les prix ttc par commune pour l'ann\u00e9e 2011",
+      "url": "https://datacat.datalocale.fr/file/414895/raw/R_OPENDATA_PRIX-E-TTC.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:47:08.663000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T19:02:01.082000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "90a58de0-516a-4fa4-858d-5e00fa1e27d1",
+      "last_modified": "2017-09-29T07:50:26.171000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/90a58de0-516a-4fa4-858d-5e00fa1e27d1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-09-12T07:47:08.663000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414893/raw/2013-01-18-093944R_OPENDATA_PRIX-E-TTCdesc.html"
+    }
+  ],
+  "slug": "liste-des-prix-de-leau-par-commune",
+  "spatial": null,
+  "tags": [
+    "commune",
+    "eau",
+    "prix"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des prix de l'eau par commune",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-prix-de-leau-par-commune/"
+}

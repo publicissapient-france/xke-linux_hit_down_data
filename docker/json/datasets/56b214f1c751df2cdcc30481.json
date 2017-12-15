@@ -1,0 +1,79 @@
+{
+  "badges": [],
+  "created_at": "2016-02-03T15:55:45.209000",
+  "deleted": null,
+  "description": "Liste et contacts des services de la Ville de Bar-le-Duc",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": "2017-02-03T15:54:28",
+  "id": "56b214f1c751df2cdcc30481",
+  "last_modified": "2016-02-08T14:57:47.172000",
+  "last_update": "2016-02-03T15:56:01.793000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 2
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "56b89c46c751df22549f9dea",
+    "logo": "https://www.data.gouv.fr/s/avatars/8b/58db990a63444694de31f24bc9de0a-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/8b/58db990a63444694de31f24bc9de0a-100.png",
+    "name": "Mairie de Bar-le-Duc",
+    "page": "https://www.data.gouv.fr/fr/organizations/mairie-de-bar-le-duc/",
+    "slug": "mairie-de-bar-le-duc",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/mairie-de-bar-le-duc/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/annuaire-des-services-de-la-ville-de-bar-le-duc/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "35b2013d9db5d41822db8b563da08dc790401d32"
+      },
+      "created_at": "2016-02-03T15:56:01.792000",
+      "description": "",
+      "extras": {},
+      "filesize": 4419,
+      "filetype": "file",
+      "format": "csv",
+      "id": "bc8aac62-df2b-4905-8da2-106915715448",
+      "last_modified": "2016-02-03T15:56:03.755000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/bc8aac62-df2b-4905-8da2-106915715448",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 2
+      },
+      "mime": "text/csv",
+      "published": "2016-02-03T15:56:01.793000",
+      "title": "Annuaire des services de la Ville de Bar-le-Duc",
+      "url": "https://www.data.gouv.fr/s/resources/annuaire-des-services-de-la-ville-de-bar-le-duc/20160203-155601/Annuaire_des_services_Ville.csv"
+    }
+  ],
+  "slug": "annuaire-des-services-de-la-ville-de-bar-le-duc",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:commune",
+    "zones": [
+      "fr:commune:55029@1942-01-01"
+    ]
+  },
+  "tags": [
+    "annuaire-de-services"
+  ],
+  "temporal_coverage": null,
+  "title": "Annuaire des services de la Ville de Bar-le-Duc",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/annuaire-des-services-de-la-ville-de-bar-le-duc/"
+}

@@ -1,0 +1,172 @@
+{
+  "badges": [],
+  "created_at": "2016-10-21T19:59:17.229000",
+  "deleted": null,
+  "description": "**Etat des stations du service LE v\u00e9lo STAR en temps r\u00e9el, comprenant notamment le nombre de v\u00e9los disponibles,\u00a0le nombre de places disponibles\u00a0et leur \u00e9tat de fonctionnement.**",
+  "extras": {
+    "harvest:domain": "data.rennesmetropole.fr",
+    "harvest:last_update": "2016-10-21T19:59:17.233297",
+    "harvest:remote_id": "etat-des-stations-le-velo-star-en-temps-reel0",
+    "harvest:source_id": "580736ec88ee3816625ff490",
+    "ods:has_records": true,
+    "ods:url": "https://data.rennesmetropole.fr/explore/dataset/etat-des-stations-le-velo-star-en-temps-reel0/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "580a5775a3a7292dcea9d201",
+  "last_modified": "2016-10-21T19:59:17.237000",
+  "last_update": "2016-10-21T19:59:17.232000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "RM",
+    "class": "Organization",
+    "id": "580735be88ee3814295ff490",
+    "logo": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-100.png",
+    "name": "Rennes M\u00e9tropole en acc\u00e8s libre",
+    "page": "https://www.data.gouv.fr/fr/organizations/rennes-metropole-en-acces-libre-1/",
+    "slug": "rennes-metropole-en-acces-libre-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/rennes-metropole-en-acces-libre-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/etat-des-stations-le-velo-star-en-temps-reel-1/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2016-10-21T19:59:17.231000",
+      "description": "- *Station (ID)*: idstation[int] Identifiant de la station du service LE v\u00e9lo STAR concern\u00e9e : pour obtenir plus d'informations sur cette station, vous devez consulter le jeu de donn\u00e9es \"Topologie des stations du service LE v\u00e9lo STAR\" en filtrant sur la station avec l'identifiant correspondant.\n- *Nom*: nom[text]\n- *Coordonn\u00e9es*: coordonnees[geo_point_2d]\n- *Etat*: etat[text] Etat de fonctionnement de la station, ne peut prendre que 2 valeurs : \"En fonctionnement\" ou \"En panne\".\n- *Emplacements actuels*: nombreemplacementsactuels[int]\n- *Emplacements disponibles*: nombreemplacementsdisponibles[int]\n- *V\u00e9los disponibles*: nombrevelosdisponibles[int]\n- *Derni\u00e8re mise \u00e0 jour*: lastupdate[datetime]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T15:11:19.278000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/etat-des-stations-le-velo-star-en-temps-reel0/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "544f4758-0f6d-4eb4-a370-bcd085171da1",
+      "last_modified": "2014-11-26T15:44:53",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/544f4758-0f6d-4eb4-a370-bcd085171da1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2016-10-21T19:59:17.231000",
+      "title": "Export au format CSV",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/etat-des-stations-le-velo-star-en-temps-reel0/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2016-10-21T19:59:17.231000",
+      "description": "- *Station (ID)*: idstation[int] Identifiant de la station du service LE v\u00e9lo STAR concern\u00e9e : pour obtenir plus d'informations sur cette station, vous devez consulter le jeu de donn\u00e9es \"Topologie des stations du service LE v\u00e9lo STAR\" en filtrant sur la station avec l'identifiant correspondant.\n- *Nom*: nom[text]\n- *Coordonn\u00e9es*: coordonnees[geo_point_2d]\n- *Etat*: etat[text] Etat de fonctionnement de la station, ne peut prendre que 2 valeurs : \"En fonctionnement\" ou \"En panne\".\n- *Emplacements actuels*: nombreemplacementsactuels[int]\n- *Emplacements disponibles*: nombreemplacementsdisponibles[int]\n- *V\u00e9los disponibles*: nombrevelosdisponibles[int]\n- *Derni\u00e8re mise \u00e0 jour*: lastupdate[datetime]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T15:11:19.306000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/etat-des-stations-le-velo-star-en-temps-reel0/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "e2be02a1-9a40-414b-909a-84c98f2ca4e5",
+      "last_modified": "2014-11-26T15:44:53",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e2be02a1-9a40-414b-909a-84c98f2ca4e5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2016-10-21T19:59:17.231000",
+      "title": "Export au format JSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/etat-des-stations-le-velo-star-en-temps-reel0/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2016-10-21T19:59:17.232000",
+      "description": "- *Station (ID)*: idstation[int] Identifiant de la station du service LE v\u00e9lo STAR concern\u00e9e : pour obtenir plus d'informations sur cette station, vous devez consulter le jeu de donn\u00e9es \"Topologie des stations du service LE v\u00e9lo STAR\" en filtrant sur la station avec l'identifiant correspondant.\n- *Nom*: nom[text]\n- *Coordonn\u00e9es*: coordonnees[geo_point_2d]\n- *Etat*: etat[text] Etat de fonctionnement de la station, ne peut prendre que 2 valeurs : \"En fonctionnement\" ou \"En panne\".\n- *Emplacements actuels*: nombreemplacementsactuels[int]\n- *Emplacements disponibles*: nombreemplacementsdisponibles[int]\n- *V\u00e9los disponibles*: nombrevelosdisponibles[int]\n- *Derni\u00e8re mise \u00e0 jour*: lastupdate[datetime]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T13:03:47.229000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/etat-des-stations-le-velo-star-en-temps-reel0/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "fbcc6847-623b-44a7-b0aa-741989d146fb",
+      "last_modified": "2014-11-26T15:44:53",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fbcc6847-623b-44a7-b0aa-741989d146fb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2016-10-21T19:59:17.232000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/etat-des-stations-le-velo-star-en-temps-reel0/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2016-10-21T19:59:17.232000",
+      "description": "- *Station (ID)*: idstation[int] Identifiant de la station du service LE v\u00e9lo STAR concern\u00e9e : pour obtenir plus d'informations sur cette station, vous devez consulter le jeu de donn\u00e9es \"Topologie des stations du service LE v\u00e9lo STAR\" en filtrant sur la station avec l'identifiant correspondant.\n- *Nom*: nom[text]\n- *Coordonn\u00e9es*: coordonnees[geo_point_2d]\n- *Etat*: etat[text] Etat de fonctionnement de la station, ne peut prendre que 2 valeurs : \"En fonctionnement\" ou \"En panne\".\n- *Emplacements actuels*: nombreemplacementsactuels[int]\n- *Emplacements disponibles*: nombreemplacementsdisponibles[int]\n- *V\u00e9los disponibles*: nombrevelosdisponibles[int]\n- *Derni\u00e8re mise \u00e0 jour*: lastupdate[datetime]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T15:11:19.329000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/etat-des-stations-le-velo-star-en-temps-reel0/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "c5993f0f-c6f4-4927-b0c5-af52150dd680",
+      "last_modified": "2014-11-26T15:44:53",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c5993f0f-c6f4-4927-b0c5-af52150dd680",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2016-10-21T19:59:17.232000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/etat-des-stations-le-velo-star-en-temps-reel0/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "etat-des-stations-le-velo-star-en-temps-reel-1",
+  "spatial": null,
+  "tags": [
+    "arceaux",
+    "disponibilite",
+    "emplacements",
+    "mobilite",
+    "places",
+    "stations",
+    "temps-reel",
+    "transport",
+    "velo",
+    "velostar"
+  ],
+  "temporal_coverage": null,
+  "title": "Etat des stations LE v\u00e9lo STAR en temps r\u00e9el",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/etat-des-stations-le-velo-star-en-temps-reel-1/"
+}

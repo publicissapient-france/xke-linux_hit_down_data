@@ -1,0 +1,81 @@
+{
+  "acronym": null,
+  "badges": [
+    {
+      "kind": "public-service"
+    },
+    {
+      "kind": "certified"
+    }
+  ],
+  "created_at": "2014-04-17T18:21:37.845000",
+  "deleted": null,
+  "description": "Le Minist\u00e8re de la culture a pour mission de rendre accessible au plus grand nombre les \u0153uvres culturelles mondiales et celles de la France.\n\nA ce titre, il conduit la politique de sauvegarde, de protection et de mise en valeur du patrimoine culturel dans toutes ses composantes, il favorise la cr\u00e9ation des \u0153uvres de l'art et de l'esprit et le d\u00e9veloppement des pratiques et de l'\u00e9ducation artistique et culturelle sur l'ensemble du territoire. Le Minist\u00e8re de la culture veille au d\u00e9veloppement des industries cr\u00e9atives et culturelles. Il contribue au d\u00e9veloppement des nouvelles technologies de diffusion et de valorisation du patrimoine culturel mat\u00e9riel et immat\u00e9riel.\n\nLes donn\u00e9es publiques en mati\u00e8re de culture et de communication sont accessibles sur une plateforme d\u00e9di\u00e9e  https://data.culturecommunication.gouv.fr synchronis\u00e9e avec la plateforme www.data.gouv.fr.\nCette initiative s\u2019inscrit dans le cadre de l\u2019engagement du Minist\u00e8re de la culture et de la communication en faveur de l'ouverture et du partage des donn\u00e9es publiques, ainsi que dans le d\u00e9veloppement d\u2019une \u00e9conomie num\u00e9rique culturelle. ",
+  "id": "534fff91a3a7292c64a77f73",
+  "last_modified": "2017-11-26T22:55:14.625000",
+  "logo": "https://www.data.gouv.fr/s/avatars/cf/f1ce1cb584470c8b83a9839dd9c83e-original.jpg",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/cf/f1ce1cb584470c8b83a9839dd9c83e-100.jpg",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/82/ba80705b52477cae099318b5488a50-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/82/ba80705b52477cae099318b5488a50-100.jpg",
+        "class": "User",
+        "first_name": "ALIACAR",
+        "id": "534fff3ca3a7292c64a7737f",
+        "last_name": "Roselyne",
+        "page": "https://www.data.gouv.fr/fr/users/aliacar-roselyne/",
+        "slug": "aliacar-roselyne",
+        "uri": "https://www.data.gouv.fr/api/1/users/aliacar-roselyne/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Mamadou",
+        "id": "534fff43a3a7292c64a778ce",
+        "last_name": "DIA",
+        "page": "https://www.data.gouv.fr/fr/users/mamadou-dia/",
+        "slug": "mamadou-dia",
+        "uri": "https://www.data.gouv.fr/api/1/users/mamadou-dia/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Gaelle",
+        "id": "544f87cbc751df60fe8269f5",
+        "last_name": "Pichon-Meunier",
+        "page": "https://www.data.gouv.fr/fr/users/gaelle-pichon-meunier/",
+        "slug": "gaelle-pichon-meunier",
+        "uri": "https://www.data.gouv.fr/api/1/users/gaelle-pichon-meunier/"
+      }
+    }
+  ],
+  "metrics": {
+    "dataset_views": 36293,
+    "datasets": 76,
+    "followers": 145,
+    "members": 3,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 57,
+    "resource_downloads": 14964,
+    "reuse_views": 9,
+    "reuses": 0,
+    "views": 1876
+  },
+  "name": "Minist\u00e8re de la Culture",
+  "page": "https://www.data.gouv.fr/fr/organizations/ministere-de-la-culture-et-de-la-communication/",
+  "slug": "ministere-de-la-culture-et-de-la-communication",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/ministere-de-la-culture-et-de-la-communication/",
+  "url": null
+}

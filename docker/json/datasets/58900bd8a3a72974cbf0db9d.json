@@ -1,0 +1,105 @@
+{
+  "badges": [],
+  "created_at": "2017-01-31T05:00:24.069000",
+  "deleted": null,
+  "description": "Inventaire des volumes conserv\u00e9s par la Biblioth\u00e8que Andr\u00e9-Desguine\n\n* * *\n\nLa biblioth\u00e8que Andr\u00e9-Desguine, qui porte le nom de son donateur, est riche de pr\u00e8s de 55 000 volumes.\n\nLe caract\u00e8re exceptionnel de la donation tient autant \u00e0 son importance quantitative, qu'\u00e0 son ampleur chronologique. En effet, elle compte 8000 \u00e9ditions ant\u00e9rieures \u00e0 1800, dont 158 incunables. Quant aux quelque 44 000 volumes composant les fonds modernes (\u00e9ditions du 19e si\u00e8cle pour plus de la moiti\u00e9), ils offrent, par leur exhaustivit\u00e9 dans bien des domaines, un panorama global de l'histoire intellectuelle et sociale de cette p\u00e9riode.\n\nCe qui singularise \u00e9galement cette collection patrimoniale c'est l'outil formidable qu'elle constitue pour appr\u00e9hender l'histoire du livre imprim\u00e9\n\n**Observations particuli\u00e8res**\n\nUn chantier de r\u00e9colement est actuellement en cours. Ce jeu de donn\u00e9es n'est donc pas un inventaire exhaustif de la collection. Il ne contient que les documents qui ont d\u00e9j\u00e0 fait l'objet d'un r\u00e9colement et sera enrichi chaque ann\u00e9e.",
+  "extras": {
+    "harvest:domain": "opendata.hauts-de-seine.fr",
+    "harvest:last_update": "2017-11-27T05:26:53.092324",
+    "harvest:remote_id": "inventaire-de-la-bibliotheque-andre-desguine",
+    "harvest:source_id": "5731a6d688ee38379cd1b934",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.hauts-de-seine.fr//explore/dataset/inventaire-de-la-bibliotheque-andre-desguine/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "58900bd8a3a72974cbf0db9d",
+  "last_modified": "2017-11-27T05:26:53.095000",
+  "last_update": "2017-11-27T05:26:53.091000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "544e1b0888ee38289ae1ed05",
+    "logo": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-100.jpg",
+    "name": "Hauts-de-Seine le D\u00e9partement",
+    "page": "https://www.data.gouv.fr/fr/organizations/hauts-de-seine-le-departement/",
+    "slug": "hauts-de-seine-le-departement",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/hauts-de-seine-le-departement/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/inventaire-de-la-bibliotheque-andre-desguine/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:26:53.090000",
+      "description": "- *COTE*: cote[text] Cote\n- *AUTEUR*: auteur[text] Auteur(s)\n- *TITRE*: titre[text] Titre\n- *LIEU*: lieu[text] Lieu d'\u00e9dition\n- *EDITEUR*: editeur[text] Editeur\n- *ANNEE*: annee[text] Ann\u00e9e d'\u00e9dition\n- *FICHIER*: fichier[text] Lien vers l'ouvrage num\u00e9ris\u00e9\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "4cbfa218-fdf1-49f2-a469-5de37367b0f9",
+      "last_modified": "2017-01-29T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4cbfa218-fdf1-49f2-a469-5de37367b0f9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:26:53.090000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/inventaire-de-la-bibliotheque-andre-desguine/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:26:53.091000",
+      "description": "- *COTE*: cote[text] Cote\n- *AUTEUR*: auteur[text] Auteur(s)\n- *TITRE*: titre[text] Titre\n- *LIEU*: lieu[text] Lieu d'\u00e9dition\n- *EDITEUR*: editeur[text] Editeur\n- *ANNEE*: annee[text] Ann\u00e9e d'\u00e9dition\n- *FICHIER*: fichier[text] Lien vers l'ouvrage num\u00e9ris\u00e9\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "61ebbf60-5783-4c8f-a2e9-af640461150f",
+      "last_modified": "2017-01-29T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/61ebbf60-5783-4c8f-a2e9-af640461150f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:26:53.091000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/inventaire-de-la-bibliotheque-andre-desguine/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "inventaire-de-la-bibliotheque-andre-desguine",
+  "spatial": null,
+  "tags": [
+    "andre-desguine",
+    "archives",
+    "bibliotheques",
+    "catalogues",
+    "culture-tourisme",
+    "inventaires",
+    "ouvrages"
+  ],
+  "temporal_coverage": null,
+  "title": "Inventaire de la Biblioth\u00e8que Andr\u00e9-Desguine",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/inventaire-de-la-bibliotheque-andre-desguine/"
+}

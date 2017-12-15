@@ -1,0 +1,1400 @@
+{
+  "badges": [],
+  "created_at": "2017-06-21T00:00:00",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es pr\u00e9sente la liste exhaustive des incubateurs publics soutenus par le minist\u00e8re de l'Education nationale, de l'Enseignement sup\u00e9rieur et de la Recherche, des plateformes technologiques (PFT), des centres de ressources technologiques (CRT), des centres de d\u00e9veloppement technologique (CDT), des soci\u00e9t\u00e9s d'acc\u00e9l\u00e9ration du transfert de technologies (SATT), des instituts de recherche technologique (IRT), des p\u00f4les \u00e9tudiants pour l'innovation, le transfert et l'entrepreneuriat (PEPITE) et des instituts Carnot en activit\u00e9 au 1er janvier 2014.\n\nPour les SATT et les IRT, outre les si\u00e8ges adminstratifs, les implantations secondaires sont r\u00e9pertori\u00e9es.",
+  "extras": {
+    "ckan:name": "structures-de-transfert-et-de-valorisation",
+    "guid": "https://datacat.datalocale.fr/415067",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-09-29T07:53:44.848058",
+    "harvest:remote_id": "b485ea44-81b2-49b5-bb58-22e68151fab7",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "3b985229-eac1-47c8-a203-3a31ae2f9025",
+    "issued": "2014-05-03T16:13:02+00:00",
+    "modified": "2016-07-18T09:21:05.494380+00:00",
+    "remote_url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/?tab=metas&location=12,44.88312,-0.5361&q=code_region%3DR72",
+    "theme": "[\"organisation de l'enseignement\"]",
+    "uri": "https://datacat.datalocale.fr/415067"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "595923aba3a7291dd09c81d0",
+  "last_modified": "2017-09-29T07:53:44.851000",
+  "last_update": "2017-09-12T07:50:27.526000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/structures-de-transfert-et-de-valorisation-1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:47:39.410000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T18:12:35.766000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2b4421f7-1d5e-4bc8-b745-4280d9f5493c",
+      "last_modified": "2017-07-07T06:09:47.886000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2b4421f7-1d5e-4bc8-b745-4280d9f5493c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T18:47:39.410000",
+      "title": "r\u00e9partition des coordonn\u00e9es g\u00e9ographiques en deux colonnes pour la pr\u00e9visualisation",
+      "url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:47:39.410000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T18:12:35.677000",
+        "check:status": 200,
+        "check:url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "5018edd5-6afa-48e5-85e1-e5116664a322",
+      "last_modified": "2017-07-07T06:09:47.887000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5018edd5-6afa-48e5-85e1-e5116664a322",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T18:47:39.410000",
+      "title": "export en csv des structures du territoire aquitain",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:06:43.133000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T18:12:35.677000",
+        "check:status": 200,
+        "check:url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "de63063b-d945-43f0-87fb-352da3dec447",
+      "last_modified": "2017-07-08T07:06:43.133000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/de63063b-d945-43f0-87fb-352da3dec447",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-08T07:06:43.133000",
+      "title": "export en csv des structures du territoire aquitain",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:06:43.134000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T18:12:35.766000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a703e4a0-428d-4864-9107-acd01fbf88d7",
+      "last_modified": "2017-07-08T07:06:43.134000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a703e4a0-428d-4864-9107-acd01fbf88d7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-08T07:06:43.134000",
+      "title": "r\u00e9partition des coordonn\u00e9es g\u00e9ographiques en deux colonnes pour la pr\u00e9visualisation",
+      "url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-09T07:02:56.030000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T18:12:35.766000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "81d72205-2980-4c16-9fa2-a557ca948fbe",
+      "last_modified": "2017-07-09T07:02:56.030000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/81d72205-2980-4c16-9fa2-a557ca948fbe",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-09T07:02:56.030000",
+      "title": "r\u00e9partition des coordonn\u00e9es g\u00e9ographiques en deux colonnes pour la pr\u00e9visualisation",
+      "url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-09T07:02:56.030000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T18:12:35.677000",
+        "check:status": 200,
+        "check:url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "bde933ed-e250-45fd-9b70-bdb7e6d5cfa1",
+      "last_modified": "2017-07-09T07:02:56.031000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/bde933ed-e250-45fd-9b70-bdb7e6d5cfa1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-09T07:02:56.031000",
+      "title": "export en csv des structures du territoire aquitain",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-10T07:07:35.521000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-18T01:19:43.041000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "6162b0e0-eae5-41af-a8d8-2793451584ff",
+      "last_modified": "2017-07-10T07:07:35.521000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6162b0e0-eae5-41af-a8d8-2793451584ff",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-10T07:07:35.521000",
+      "title": "r\u00e9partition des coordonn\u00e9es g\u00e9ographiques en deux colonnes pour la pr\u00e9visualisation",
+      "url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-10T07:07:35.521000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-26T04:24:59.679000",
+        "check:status": 200,
+        "check:url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "b98d5ce5-d6ca-46dc-b90d-831c73f27b6c",
+      "last_modified": "2017-07-10T07:07:35.521000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b98d5ce5-d6ca-46dc-b90d-831c73f27b6c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-10T07:07:35.521000",
+      "title": "export en csv des structures du territoire aquitain",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-20T02:31:03.306000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-26T04:24:47.908000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e7fb2288-f836-4a8f-9a5e-badeceb7d8ed",
+      "last_modified": "2017-08-03T06:09:18.501000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e7fb2288-f836-4a8f-9a5e-badeceb7d8ed",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-20T02:31:03.306000",
+      "title": "r\u00e9partition des coordonn\u00e9es g\u00e9ographiques en deux colonnes pour la pr\u00e9visualisation",
+      "url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-20T02:31:03.307000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T14:54:05.923000",
+        "check:status": 200,
+        "check:url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "80ee8985-acd8-4f63-a6db-97ad364d1611",
+      "last_modified": "2017-08-03T06:09:18.501000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/80ee8985-acd8-4f63-a6db-97ad364d1611",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-20T02:31:03.307000",
+      "title": "export en csv des structures du territoire aquitain",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-08T06:06:30.029000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T14:54:06.404000",
+        "check:status": 200,
+        "check:url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "ed2dfed7-cd53-46ac-bfa4-617b0e026c4d",
+      "last_modified": "2017-08-08T06:06:30.030000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ed2dfed7-cd53-46ac-bfa4-617b0e026c4d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-08-08T06:06:30.029000",
+      "title": "export en csv des structures du territoire aquitain",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-08T06:06:30.030000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T14:54:08.287000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "62dff5f1-76ea-4939-bff1-324d24ba4222",
+      "last_modified": "2017-08-08T06:06:30.030000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/62dff5f1-76ea-4939-bff1-324d24ba4222",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-08T06:06:30.030000",
+      "title": "r\u00e9partition des coordonn\u00e9es g\u00e9ographiques en deux colonnes pour la pr\u00e9visualisation",
+      "url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-09T06:04:56.879000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T14:54:07.491000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a22c253f-e63c-4c0b-840d-3c4a772456a6",
+      "last_modified": "2017-08-09T06:04:56.880000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a22c253f-e63c-4c0b-840d-3c4a772456a6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-09T06:04:56.879000",
+      "title": "r\u00e9partition des coordonn\u00e9es g\u00e9ographiques en deux colonnes pour la pr\u00e9visualisation",
+      "url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-09T06:04:56.880000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T14:54:07.447000",
+        "check:status": 200,
+        "check:url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "19ee0c4c-da25-4fcf-801f-64b9d3085fa4",
+      "last_modified": "2017-08-09T06:04:56.881000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/19ee0c4c-da25-4fcf-801f-64b9d3085fa4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-08-09T06:04:56.880000",
+      "title": "export en csv des structures du territoire aquitain",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-10T06:07:03.675000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-26T01:04:48.336000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "91aaec83-d56d-46fc-bade-a443e073d73d",
+      "last_modified": "2017-08-10T06:07:03.675000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/91aaec83-d56d-46fc-bade-a443e073d73d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-10T06:07:03.675000",
+      "title": "r\u00e9partition des coordonn\u00e9es g\u00e9ographiques en deux colonnes pour la pr\u00e9visualisation",
+      "url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-10T06:07:03.675000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T14:54:08.139000",
+        "check:status": 200,
+        "check:url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "bc0ab89b-1bd4-4be1-93ce-ec13bfa775d0",
+      "last_modified": "2017-08-10T06:07:03.675000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/bc0ab89b-1bd4-4be1-93ce-ec13bfa775d0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-08-10T06:07:03.675000",
+      "title": "export en csv des structures du territoire aquitain",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-11T06:07:40.714000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "d0f63d4a-693d-474b-963c-285fa520ba19",
+      "last_modified": "2017-08-11T06:07:40.714000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d0f63d4a-693d-474b-963c-285fa520ba19",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-11T06:07:40.714000",
+      "title": "r\u00e9partition des coordonn\u00e9es g\u00e9ographiques en deux colonnes pour la pr\u00e9visualisation",
+      "url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-11T06:07:40.714000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-26T04:25:11.583000",
+        "check:status": 200,
+        "check:url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "24981de1-11b4-4a04-b565-96b6cbe676c9",
+      "last_modified": "2017-08-11T06:07:40.714000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/24981de1-11b4-4a04-b565-96b6cbe676c9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-08-11T06:07:40.714000",
+      "title": "export en csv des structures du territoire aquitain",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-12T06:03:19.868000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "c9d8301c-633e-4fe5-8148-348ed9f667fd",
+      "last_modified": "2017-08-12T06:03:19.869000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c9d8301c-633e-4fe5-8148-348ed9f667fd",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-08-12T06:03:19.869000",
+      "title": "export en csv des structures du territoire aquitain",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-12T06:03:19.869000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ac3c3957-6075-4f1d-94be-4c536f236af7",
+      "last_modified": "2017-08-12T06:03:19.869000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ac3c3957-6075-4f1d-94be-4c536f236af7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-12T06:03:19.869000",
+      "title": "r\u00e9partition des coordonn\u00e9es g\u00e9ographiques en deux colonnes pour la pr\u00e9visualisation",
+      "url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-13T06:09:13.369000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f5b9edd5-d432-44b8-83ff-fa973ec55bd8",
+      "last_modified": "2017-08-13T06:09:13.369000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f5b9edd5-d432-44b8-83ff-fa973ec55bd8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-13T06:09:13.369000",
+      "title": "r\u00e9partition des coordonn\u00e9es g\u00e9ographiques en deux colonnes pour la pr\u00e9visualisation",
+      "url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-13T06:09:13.369000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-26T04:25:24.370000",
+        "check:status": 200,
+        "check:url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "319c15a4-fea7-4e74-babf-ab558f066f34",
+      "last_modified": "2017-08-13T06:09:13.369000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/319c15a4-fea7-4e74-babf-ab558f066f34",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-08-13T06:09:13.369000",
+      "title": "export en csv des structures du territoire aquitain",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-14T07:12:39.566000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-26T04:25:05.485000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "14016d2c-aa91-4064-aad3-55f9228d0b4f",
+      "last_modified": "2017-08-14T07:12:39.566000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/14016d2c-aa91-4064-aad3-55f9228d0b4f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-14T07:12:39.566000",
+      "title": "r\u00e9partition des coordonn\u00e9es g\u00e9ographiques en deux colonnes pour la pr\u00e9visualisation",
+      "url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-14T07:12:39.566000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "5778bebf-2ec1-485e-b838-eb4eb2ef6bca",
+      "last_modified": "2017-08-14T07:12:39.567000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5778bebf-2ec1-485e-b838-eb4eb2ef6bca",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-08-14T07:12:39.566000",
+      "title": "export en csv des structures du territoire aquitain",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-15T06:08:26.478000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "344a19ea-0eec-46e8-aaeb-6f8d53ade88b",
+      "last_modified": "2017-08-15T06:08:26.479000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/344a19ea-0eec-46e8-aaeb-6f8d53ade88b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-15T06:08:26.479000",
+      "title": "r\u00e9partition des coordonn\u00e9es g\u00e9ographiques en deux colonnes pour la pr\u00e9visualisation",
+      "url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-15T06:08:26.479000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-26T04:25:34.690000",
+        "check:status": 200,
+        "check:url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "f08f1f5f-c893-4c03-a0f9-dcb687acd7b2",
+      "last_modified": "2017-08-15T06:08:26.479000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f08f1f5f-c893-4c03-a0f9-dcb687acd7b2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-08-15T06:08:26.479000",
+      "title": "export en csv des structures du territoire aquitain",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-16T07:12:35.543000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-26T04:25:44.054000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "16aa1f74-5603-468b-ad70-807d9935a983",
+      "last_modified": "2017-08-16T07:12:35.544000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/16aa1f74-5603-468b-ad70-807d9935a983",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-16T07:12:35.544000",
+      "title": "r\u00e9partition des coordonn\u00e9es g\u00e9ographiques en deux colonnes pour la pr\u00e9visualisation",
+      "url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-16T07:12:35.544000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "c8cf829d-706d-4bcc-b041-6960b5d4ec5b",
+      "last_modified": "2017-08-16T07:12:35.544000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c8cf829d-706d-4bcc-b041-6960b5d4ec5b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-08-16T07:12:35.544000",
+      "title": "export en csv des structures du territoire aquitain",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-17T06:04:12.488000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "1bb5c107-eb0c-430c-a818-c6406c878579",
+      "last_modified": "2017-08-17T06:04:12.488000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1bb5c107-eb0c-430c-a818-c6406c878579",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-17T06:04:12.488000",
+      "title": "r\u00e9partition des coordonn\u00e9es g\u00e9ographiques en deux colonnes pour la pr\u00e9visualisation",
+      "url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-17T06:04:12.489000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "1d2722f8-0349-4c07-88fb-b370c090118b",
+      "last_modified": "2017-08-17T06:04:12.489000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1d2722f8-0349-4c07-88fb-b370c090118b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-08-17T06:04:12.489000",
+      "title": "export en csv des structures du territoire aquitain",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-18T06:10:49.702000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "9ff6ce19-c79f-415c-8e28-4222b0caa836",
+      "last_modified": "2017-08-18T06:10:49.703000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9ff6ce19-c79f-415c-8e28-4222b0caa836",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-18T06:10:49.703000",
+      "title": "r\u00e9partition des coordonn\u00e9es g\u00e9ographiques en deux colonnes pour la pr\u00e9visualisation",
+      "url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-18T06:10:49.703000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "fdfcb827-95cb-4e45-a2f2-2e057cd4bd74",
+      "last_modified": "2017-08-18T06:10:49.703000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fdfcb827-95cb-4e45-a2f2-2e057cd4bd74",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-08-18T06:10:49.703000",
+      "title": "export en csv des structures du territoire aquitain",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-19T06:06:27.720000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ecf91984-8d9e-448a-b1bb-ddf8559ccd3b",
+      "last_modified": "2017-08-19T06:06:27.720000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ecf91984-8d9e-448a-b1bb-ddf8559ccd3b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-19T06:06:27.720000",
+      "title": "r\u00e9partition des coordonn\u00e9es g\u00e9ographiques en deux colonnes pour la pr\u00e9visualisation",
+      "url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-19T06:06:27.720000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "38e01cde-f285-4751-83bd-a281de4782b5",
+      "last_modified": "2017-08-19T06:06:27.721000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/38e01cde-f285-4751-83bd-a281de4782b5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-08-19T06:06:27.720000",
+      "title": "export en csv des structures du territoire aquitain",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-20T06:08:03.710000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "78c26f9a-b00c-47ed-bd2e-bb028a781a90",
+      "last_modified": "2017-08-20T06:08:03.710000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/78c26f9a-b00c-47ed-bd2e-bb028a781a90",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-20T06:08:03.710000",
+      "title": "r\u00e9partition des coordonn\u00e9es g\u00e9ographiques en deux colonnes pour la pr\u00e9visualisation",
+      "url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-20T06:08:03.710000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "d8200764-3dfa-4b69-a3a5-66fad5c43d29",
+      "last_modified": "2017-08-20T06:08:03.710000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d8200764-3dfa-4b69-a3a5-66fad5c43d29",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-08-20T06:08:03.710000",
+      "title": "export en csv des structures du territoire aquitain",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-21T07:11:57.201000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "df85fcfd-7ccf-4e08-8a8a-ad441c9b9226",
+      "last_modified": "2017-08-21T07:11:57.201000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/df85fcfd-7ccf-4e08-8a8a-ad441c9b9226",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-21T07:11:57.201000",
+      "title": "r\u00e9partition des coordonn\u00e9es g\u00e9ographiques en deux colonnes pour la pr\u00e9visualisation",
+      "url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-21T07:11:57.202000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "7b988dc5-7f8d-4501-829c-349951144b85",
+      "last_modified": "2017-08-21T07:11:57.202000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7b988dc5-7f8d-4501-829c-349951144b85",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-08-21T07:11:57.202000",
+      "title": "export en csv des structures du territoire aquitain",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-22T06:06:38.312000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "f4caa7ef-adf9-46e5-b733-b43b567289ad",
+      "last_modified": "2017-08-22T06:06:38.312000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f4caa7ef-adf9-46e5-b733-b43b567289ad",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-08-22T06:06:38.312000",
+      "title": "export en csv des structures du territoire aquitain",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-22T06:06:38.312000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "d1d3a5ce-9b50-462d-a392-25d9569154b9",
+      "last_modified": "2017-08-22T06:06:38.313000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d1d3a5ce-9b50-462d-a392-25d9569154b9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-22T06:06:38.313000",
+      "title": "r\u00e9partition des coordonn\u00e9es g\u00e9ographiques en deux colonnes pour la pr\u00e9visualisation",
+      "url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-23T06:09:53.646000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "5fa8ca29-f6ec-4dd4-a474-73aa314a63eb",
+      "last_modified": "2017-08-23T06:09:53.646000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5fa8ca29-f6ec-4dd4-a474-73aa314a63eb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-23T06:09:53.646000",
+      "title": "r\u00e9partition des coordonn\u00e9es g\u00e9ographiques en deux colonnes pour la pr\u00e9visualisation",
+      "url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-23T06:09:53.646000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "7646f48b-0d1c-4234-b1e6-a81487139683",
+      "last_modified": "2017-08-23T06:09:53.647000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7646f48b-0d1c-4234-b1e6-a81487139683",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-08-23T06:09:53.646000",
+      "title": "export en csv des structures du territoire aquitain",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-24T06:07:51.707000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "4bdd1d3c-6497-4ec2-895f-9c8c4dab6fca",
+      "last_modified": "2017-08-24T06:07:51.707000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4bdd1d3c-6497-4ec2-895f-9c8c4dab6fca",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-24T06:07:51.707000",
+      "title": "r\u00e9partition des coordonn\u00e9es g\u00e9ographiques en deux colonnes pour la pr\u00e9visualisation",
+      "url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-24T06:07:51.708000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "e7d7ac26-332b-445d-8ba2-4cdaa89fffdd",
+      "last_modified": "2017-08-24T06:07:51.708000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e7d7ac26-332b-445d-8ba2-4cdaa89fffdd",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-08-24T06:07:51.708000",
+      "title": "export en csv des structures du territoire aquitain",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-25T06:07:03.417000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "0cb383ac-e8fc-4aa7-a946-81e7b8d08657",
+      "last_modified": "2017-08-25T06:07:03.418000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0cb383ac-e8fc-4aa7-a946-81e7b8d08657",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-25T06:07:03.418000",
+      "title": "r\u00e9partition des coordonn\u00e9es g\u00e9ographiques en deux colonnes pour la pr\u00e9visualisation",
+      "url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-25T06:07:03.418000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "b1e52f8b-3d55-4687-9465-dbfd969bca32",
+      "last_modified": "2017-08-25T06:07:03.418000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b1e52f8b-3d55-4687-9465-dbfd969bca32",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-08-25T06:07:03.418000",
+      "title": "export en csv des structures du territoire aquitain",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-26T06:11:46.353000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "c7da8186-d6fd-429d-9d8a-f7b653eeaca0",
+      "last_modified": "2017-08-26T06:11:46.354000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c7da8186-d6fd-429d-9d8a-f7b653eeaca0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-08-26T06:11:46.354000",
+      "title": "export en csv des structures du territoire aquitain",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-26T06:11:46.355000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "9bfe85ef-e508-4630-8866-3e5a143f05be",
+      "last_modified": "2017-08-26T06:11:46.355000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9bfe85ef-e508-4630-8866-3e5a143f05be",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-26T06:11:46.355000",
+      "title": "r\u00e9partition des coordonn\u00e9es g\u00e9ographiques en deux colonnes pour la pr\u00e9visualisation",
+      "url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-27T06:06:39.182000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "473a1313-bce6-49a7-8f29-36f0d889f2d7",
+      "last_modified": "2017-08-27T06:06:39.183000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/473a1313-bce6-49a7-8f29-36f0d889f2d7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-08-27T06:06:39.182000",
+      "title": "export en csv des structures du territoire aquitain",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-27T06:06:39.183000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "34c5561f-1443-41f8-a634-70947d7e096c",
+      "last_modified": "2017-08-27T06:06:39.183000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/34c5561f-1443-41f8-a634-70947d7e096c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-27T06:06:39.183000",
+      "title": "r\u00e9partition des coordonn\u00e9es g\u00e9ographiques en deux colonnes pour la pr\u00e9visualisation",
+      "url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-28T06:10:44.918000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "9c07d546-44b7-48af-8e4e-726b0f41c76c",
+      "last_modified": "2017-08-28T06:10:44.918000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9c07d546-44b7-48af-8e4e-726b0f41c76c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-08-28T06:10:44.918000",
+      "title": "export en csv des structures du territoire aquitain",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-28T06:10:44.918000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b8990524-f4f8-4744-aa99-90477fd28732",
+      "last_modified": "2017-08-28T06:10:44.919000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b8990524-f4f8-4744-aa99-90477fd28732",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-28T06:10:44.919000",
+      "title": "r\u00e9partition des coordonn\u00e9es g\u00e9ographiques en deux colonnes pour la pr\u00e9visualisation",
+      "url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-29T06:08:05.899000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "6e9bb357-acc4-4b10-bcc3-2c02e821b643",
+      "last_modified": "2017-09-11T06:18:43.008000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6e9bb357-acc4-4b10-bcc3-2c02e821b643",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-08-29T06:08:05.900000",
+      "title": "export en csv des structures du territoire aquitain",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-29T06:08:05.900000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "9335d98a-8afa-4961-8b14-ae84b5f867c1",
+      "last_modified": "2017-09-11T06:18:43.008000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9335d98a-8afa-4961-8b14-ae84b5f867c1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-29T06:08:05.900000",
+      "title": "r\u00e9partition des coordonn\u00e9es g\u00e9ographiques en deux colonnes pour la pr\u00e9visualisation",
+      "url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:50:27.525000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "0be9adcb-1f19-4007-a831-a770ae00f984",
+      "last_modified": "2017-09-29T07:53:44.846000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0be9adcb-1f19-4007-a831-a770ae00f984",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:50:27.525000",
+      "title": "r\u00e9partition des coordonn\u00e9es g\u00e9ographiques en deux colonnes pour la pr\u00e9visualisation",
+      "url": "https://datacat.datalocale.fr/file/415070/raw/fr-esr-structures-de-transfert-et-de-valorisation.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:50:27.526000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "ae3113ad-c925-4b5b-aea4-8fd773a22876",
+      "last_modified": "2017-09-29T07:53:44.846000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ae3113ad-c925-4b5b-aea4-8fd773a22876",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-09-12T07:50:27.526000",
+      "title": "export en csv des structures du territoire aquitain",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/download?format=csv&q=code_region%3DR72"
+    }
+  ],
+  "slug": "structures-de-transfert-et-de-valorisation-1",
+  "spatial": null,
+  "tags": [
+    "education",
+    "enseignement",
+    "formation",
+    "recherche"
+  ],
+  "temporal_coverage": null,
+  "title": "Structures de transfert et de valorisation",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/structures-de-transfert-et-de-valorisation-1/"
+}

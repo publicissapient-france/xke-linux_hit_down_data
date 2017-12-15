@@ -1,0 +1,416 @@
+{
+  "badges": [],
+  "created_at": "2017-10-03T00:00:00",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es retranscrit les r\u00e9sultats, bureau par bureau des seconds tours des \u00e9lections l\u00e9gislatives dans la circonscription de Bordeaux-centre pour les quatre scrutins  de 1997, 2002, 2004, 2007 fournis par le service des \u00e9lections de la mairie de Bordeaux.\n\nDans la premi\u00e8re colonne est indiqu\u00e9 le nom du bureau de vote, dans la deuxi\u00e8me le nombre d'inscrits, dans la troisi\u00e8me le pourcentage d'abstention, et dans les Deux derni\u00e8res colonnes les pourcentages des Deux candidats du second tour.",
+  "extras": {
+    "ckan:name": "resultats-des-elections-legislatives-dans-la-circonscription-de-bordeaux-centre",
+    "guid": "https://datacat.datalocale.fr/415270",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-11-27T05:24:28.531815",
+    "harvest:remote_id": "80bbc3ec-b617-4765-9724-4659640fd5f8",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "53c6032b-9098-419e-b058-ff5c111752a1",
+    "issued": "2013-03-05T14:55:45+00:00",
+    "modified": "2016-07-18T09:21:05.731767+00:00",
+    "uri": "https://datacat.datalocale.fr/415270"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59d46048b59508043de9ba23",
+  "last_modified": "2017-11-27T05:24:28.534000",
+  "last_update": "2017-10-14T06:07:36.686000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/resultats-des-elections-legislatives-dans-la-circonscription-de-bordeaux-centre-3/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-10-04T06:15:04.780000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T19:00:00.002000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415272/raw/Legislativesbordeauxpoints-1997.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "1a330279-05ed-4a1a-83ac-2a1dd7bcdc1e",
+      "last_modified": "2017-10-04T06:15:04.780000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1a330279-05ed-4a1a-83ac-2a1dd7bcdc1e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-04T06:15:04.780000",
+      "title": "ann\u00e9e 1997 : r\u00e9sultat en pourcentage dans un fichier csv en UTF-8 avec s\u00e9parateur virgule. Vous pouvez ouvrir ce fichier avec un \u00e9diteur de texte (notepad, vim, textmate) ou avec LibreOffice ou Excel. Attention avec ce dernier aux options d'import car par",
+      "url": "https://datacat.datalocale.fr/file/415272/raw/Legislativesbordeauxpoints-1997.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-04T06:15:04.781000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T18:59:58.120000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415274/raw/Legislativesbordeauxpoints-2002.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ca9b9cd2-7f71-428b-8691-b258cef0e4f1",
+      "last_modified": "2017-10-04T06:15:04.781000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ca9b9cd2-7f71-428b-8691-b258cef0e4f1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-04T06:15:04.781000",
+      "title": "ann\u00e9e 2002 : r\u00e9sultat en pourcentage dans un fichier csv en UTF-8 avec s\u00e9parateur virgule. Vous pouvez ouvrir ce fichier avec un \u00e9diteur de texte (notepad, vim, textmate) ou avec LibreOffice ou Excel. Attention avec ce dernier aux options d'import car par",
+      "url": "https://datacat.datalocale.fr/file/415274/raw/Legislativesbordeauxpoints-2002.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-04T06:15:04.781000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T14:24:01.570000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415278/raw/Legislativesbordeauxpoints-2007.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "bin",
+      "id": "4284b8a9-4916-47e8-bd6e-2232a334eef6",
+      "last_modified": "2017-10-04T06:15:04.782000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4284b8a9-4916-47e8-bd6e-2232a334eef6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/octet-stream",
+      "published": "2017-10-04T06:15:04.781000",
+      "title": "ann\u00e9e 2007 : r\u00e9sultat en pourcentage dans un fichier csv en UTF-8 avec s\u00e9parateur virgule. Vous pouvez ouvrir ce fichier avec un \u00e9diteur de texte (notepad, vim, textmate) ou avec LibreOffice ou Excel. Attention avec ce dernier aux options d'import car par",
+      "url": "https://datacat.datalocale.fr/file/415278/raw/Legislativesbordeauxpoints-2007.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-04T06:15:04.782000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T18:43:54.157000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415276/raw/Legislativesbordeauxpoints-2004.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "bin",
+      "id": "9db96bb2-446c-445e-9657-07b115519f83",
+      "last_modified": "2017-10-04T06:15:04.782000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9db96bb2-446c-445e-9657-07b115519f83",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/octet-stream",
+      "published": "2017-10-04T06:15:04.782000",
+      "title": "ann\u00e9e 2004 : r\u00e9sultat en pourcentage dans un fichier csv en UTF-8 avec s\u00e9parateur virgule. Vous pouvez ouvrir ce fichier avec un \u00e9diteur de texte (notepad, vim, textmate) ou avec LibreOffice ou Excel. Attention avec ce dernier aux options d'import car par",
+      "url": "https://datacat.datalocale.fr/file/415276/raw/Legislativesbordeauxpoints-2004.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-04T06:15:04.783000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T18:59:54.311000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415280/raw/Legislativesbordeauxpoints.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "f3bab37c-4bf5-4e85-9521-eb59668a438b",
+      "last_modified": "2017-10-04T06:15:04.783000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f3bab37c-4bf5-4e85-9521-eb59668a438b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-10-04T06:15:04.783000",
+      "title": "R\u00e9sultats en pourcentage dans un fichier ods en UTF-8. Vous pouvez ouvrir ce fichier avec LibreOffice ou Excel (2010). ",
+      "url": "https://datacat.datalocale.fr/file/415280/raw/Legislativesbordeauxpoints.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-05T06:18:06.198000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T18:59:54.312000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415276/raw/Legislativesbordeauxpoints-2004.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "bin",
+      "id": "f3462181-99ed-448c-b736-8945e300d9c1",
+      "last_modified": "2017-10-05T06:18:06.198000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f3462181-99ed-448c-b736-8945e300d9c1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/octet-stream",
+      "published": "2017-10-05T06:18:06.198000",
+      "title": "ann\u00e9e 2004 : r\u00e9sultat en pourcentage dans un fichier csv en UTF-8 avec s\u00e9parateur virgule. Vous pouvez ouvrir ce fichier avec un \u00e9diteur de texte (notepad, vim, textmate) ou avec LibreOffice ou Excel. Attention avec ce dernier aux options d'import car par",
+      "url": "https://datacat.datalocale.fr/file/415276/raw/Legislativesbordeauxpoints-2004.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-05T06:18:06.198000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "f99b18e1-af3d-4185-a2a7-1f469da0cc33",
+      "last_modified": "2017-10-05T06:18:06.198000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f99b18e1-af3d-4185-a2a7-1f469da0cc33",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-10-05T06:18:06.198000",
+      "title": "R\u00e9sultats en pourcentage dans un fichier ods en UTF-8. Vous pouvez ouvrir ce fichier avec LibreOffice ou Excel (2010). ",
+      "url": "https://datacat.datalocale.fr/file/415280/raw/Legislativesbordeauxpoints.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-05T06:18:06.199000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "0e7ecb3d-ab8e-4d7b-8e2d-ea5c3875f90f",
+      "last_modified": "2017-10-05T06:18:06.199000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0e7ecb3d-ab8e-4d7b-8e2d-ea5c3875f90f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-05T06:18:06.199000",
+      "title": "ann\u00e9e 2002 : r\u00e9sultat en pourcentage dans un fichier csv en UTF-8 avec s\u00e9parateur virgule. Vous pouvez ouvrir ce fichier avec un \u00e9diteur de texte (notepad, vim, textmate) ou avec LibreOffice ou Excel. Attention avec ce dernier aux options d'import car par",
+      "url": "https://datacat.datalocale.fr/file/415274/raw/Legislativesbordeauxpoints-2002.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-05T06:18:06.199000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "14541cb9-902d-48c7-9b4e-96d92ab1432f",
+      "last_modified": "2017-10-05T06:18:06.199000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/14541cb9-902d-48c7-9b4e-96d92ab1432f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-05T06:18:06.199000",
+      "title": "ann\u00e9e 1997 : r\u00e9sultat en pourcentage dans un fichier csv en UTF-8 avec s\u00e9parateur virgule. Vous pouvez ouvrir ce fichier avec un \u00e9diteur de texte (notepad, vim, textmate) ou avec LibreOffice ou Excel. Attention avec ce dernier aux options d'import car par",
+      "url": "https://datacat.datalocale.fr/file/415272/raw/Legislativesbordeauxpoints-1997.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-05T06:18:06.200000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "bin",
+      "id": "da5d2ac6-c75e-4cb8-a954-278b7eebd8b5",
+      "last_modified": "2017-10-05T06:18:06.200000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/da5d2ac6-c75e-4cb8-a954-278b7eebd8b5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/octet-stream",
+      "published": "2017-10-05T06:18:06.200000",
+      "title": "ann\u00e9e 2007 : r\u00e9sultat en pourcentage dans un fichier csv en UTF-8 avec s\u00e9parateur virgule. Vous pouvez ouvrir ce fichier avec un \u00e9diteur de texte (notepad, vim, textmate) ou avec LibreOffice ou Excel. Attention avec ce dernier aux options d'import car par",
+      "url": "https://datacat.datalocale.fr/file/415278/raw/Legislativesbordeauxpoints-2007.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:07:36.685000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "e8512566-bf81-46c9-b917-4c8035e889c9",
+      "last_modified": "2017-11-27T05:24:28.530000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e8512566-bf81-46c9-b917-4c8035e889c9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-10-14T06:07:36.685000",
+      "title": "R\u00e9sultats en pourcentage dans un fichier ods en UTF-8. Vous pouvez ouvrir ce fichier avec LibreOffice ou Excel (2010). ",
+      "url": "https://datacat.datalocale.fr/distribution/415279/raw/Legislativesbordeauxpoints.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:07:36.685000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a02b87a7-36ae-4430-a837-4dc3a96e07db",
+      "last_modified": "2017-11-27T05:24:28.530000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a02b87a7-36ae-4430-a837-4dc3a96e07db",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-14T06:07:36.685000",
+      "title": "ann\u00e9e 2002 : r\u00e9sultat en pourcentage dans un fichier csv en UTF-8 avec s\u00e9parateur virgule. Vous pouvez ouvrir ce fichier avec un \u00e9diteur de texte (notepad, vim, textmate) ou avec LibreOffice ou Excel. Attention avec ce dernier aux options d'import car par",
+      "url": "https://datacat.datalocale.fr/distribution/415273/raw/Legislativesbordeauxpoints-2002.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:07:36.686000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "bin",
+      "id": "04d31f1c-6136-4c94-b488-255019c54dde",
+      "last_modified": "2017-11-27T05:24:28.530000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/04d31f1c-6136-4c94-b488-255019c54dde",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/octet-stream",
+      "published": "2017-10-14T06:07:36.686000",
+      "title": "ann\u00e9e 2007 : r\u00e9sultat en pourcentage dans un fichier csv en UTF-8 avec s\u00e9parateur virgule. Vous pouvez ouvrir ce fichier avec un \u00e9diteur de texte (notepad, vim, textmate) ou avec LibreOffice ou Excel. Attention avec ce dernier aux options d'import car par",
+      "url": "https://datacat.datalocale.fr/distribution/415277/raw/Legislativesbordeauxpoints-2007.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:07:36.686000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "bin",
+      "id": "1303c5bd-8cbe-4362-94d1-b60b5b59861d",
+      "last_modified": "2017-11-27T05:24:28.530000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1303c5bd-8cbe-4362-94d1-b60b5b59861d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/octet-stream",
+      "published": "2017-10-14T06:07:36.686000",
+      "title": "ann\u00e9e 2004 : r\u00e9sultat en pourcentage dans un fichier csv en UTF-8 avec s\u00e9parateur virgule. Vous pouvez ouvrir ce fichier avec un \u00e9diteur de texte (notepad, vim, textmate) ou avec LibreOffice ou Excel. Attention avec ce dernier aux options d'import car par",
+      "url": "https://datacat.datalocale.fr/distribution/415275/raw/Legislativesbordeauxpoints-2004.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:07:36.686000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2851808b-492b-49c0-acc9-50986af82b4c",
+      "last_modified": "2017-11-27T05:24:28.530000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2851808b-492b-49c0-acc9-50986af82b4c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-14T06:07:36.686000",
+      "title": "ann\u00e9e 1997 : r\u00e9sultat en pourcentage dans un fichier csv en UTF-8 avec s\u00e9parateur virgule. Vous pouvez ouvrir ce fichier avec un \u00e9diteur de texte (notepad, vim, textmate) ou avec LibreOffice ou Excel. Attention avec ce dernier aux options d'import car par",
+      "url": "https://datacat.datalocale.fr/distribution/415271/raw/Legislativesbordeauxpoints-1997.csv"
+    }
+  ],
+  "slug": "resultats-des-elections-legislatives-dans-la-circonscription-de-bordeaux-centre-3",
+  "spatial": null,
+  "tags": [],
+  "temporal_coverage": null,
+  "title": "R\u00e9sultats des \u00e9lections l\u00e9gislatives dans la circonscription de Bordeaux-centre",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/resultats-des-elections-legislatives-dans-la-circonscription-de-bordeaux-centre-3/"
+}

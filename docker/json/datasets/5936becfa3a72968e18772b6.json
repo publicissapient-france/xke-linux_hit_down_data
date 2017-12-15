@@ -1,0 +1,1016 @@
+{
+  "badges": [],
+  "created_at": "2017-06-06T00:00:00",
+  "deleted": null,
+  "description": "Liste des mus\u00e9es en Aquitaine, issue de la base de donn\u00e9es SIRTAQUI.\n\u2003\nCe fichier contient les informations de g\u00e9olocalisation et de contact, les informations sur l\u2019activit\u00e9, les marques et labels, les conditions d\u2019ouverture et de visites, les tarifs, les \u00e9quipements et les services propos\u00e9s.",
+  "extras": {
+    "ckan:name": "liste-des-musees-en-aquitaine",
+    "contact_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "contact_name": "CRTA",
+    "contact_uri": "https://datacat.datalocale.fr/414593",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
+    "guid": "https://datacat.datalocale.fr/415842",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-09-11T06:14:41.025347",
+    "harvest:remote_id": "bb2a0b69-3d4d-45bd-8ac0-58fb8b6bc3b0",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "9e5ffc1b-a63b-49ff-9102-4285257bbf81",
+    "issued": "2015-01-04T09:13:27+00:00",
+    "modified": "2016-07-18T09:21:07.131519+00:00",
+    "publisher_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "publisher_name": "agence SIRTAQUI",
+    "publisher_type": "\"Organisation \u00e0 but non lucratif\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414592",
+    "remote_url": "http://partenaires.tourisme-aquitaine.fr",
+    "theme": "[\"tourisme\"]",
+    "uri": "https://datacat.datalocale.fr/415842"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5936becfa3a72968e18772b6",
+  "last_modified": "2017-09-11T06:14:41.027000",
+  "last_update": "2017-08-28T06:08:19.585000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-musees-en-aquitaine/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:40:15.696000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T10:23:31.972000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1572939/raw/liste-csv-musees-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a1c6baad-8bda-49c8-bd06-55059a81f1bd",
+      "last_modified": "2017-06-06T16:40:15.699000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a1c6baad-8bda-49c8-bd06-55059a81f1bd",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:40:15.699000",
+      "title": "liste-csv-musees-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1572939/raw/liste-csv-musees-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:40:15.699000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T04:20:48.227000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415844/raw/liste-xml-musees-aquitaine.xml"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "6a3a7902-a1d0-4b7e-b519-d8f11a4a0e6f",
+      "last_modified": "2017-06-06T16:40:15.700000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6a3a7902-a1d0-4b7e-b519-d8f11a4a0e6f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/xml",
+      "published": "2017-06-06T16:40:15.699000",
+      "title": "extraction en xml (tourinfo) de la liste des mus\u00e9es r\u00e9f\u00e9renc\u00e9es dans la base de donnes SIRTAQUI. les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es en wgs84",
+      "url": "https://datacat.datalocale.fr/file/415844/raw/liste-xml-musees-aquitaine.xml"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:40:15.700000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T04:22:41.530000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414600/raw/sp%C3%A9cifications%20du%20jeu%20de%20donn%C3%A9es"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ba20410e-80eb-4d58-bb4f-e4dea87e1ae1",
+      "last_modified": "2017-06-06T16:40:15.700000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ba20410e-80eb-4d58-bb4f-e4dea87e1ae1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:40:15.700000",
+      "title": "sp\u00e9cifications du jeu de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414600/raw/sp%C3%A9cifications%20du%20jeu%20de%20donn%C3%A9es"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:40:15.700000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-11-22T04:20:50.353000",
+        "check:status": 501,
+        "check:url": "http://wcf.tourinsoft.com/Syndication/aquitaine/094df128-7ac5-43e5-a7e9-a5d752317674/Objects?$format=json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "4997bb10-e3dc-4dc6-9d2c-69803c4095c3",
+      "last_modified": "2017-06-06T16:40:15.701000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4997bb10-e3dc-4dc6-9d2c-69803c4095c3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-06-06T16:40:15.700000",
+      "title": "consommation des donn\u00e9es temps r\u00e9el",
+      "url": "http://wcf.tourinsoft.com/Syndication/aquitaine/094df128-7ac5-43e5-a7e9-a5d752317674/Objects?$format=json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:40:15.701000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T04:20:45.438000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415846/raw/liste-musees-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "27513031-ac67-4a6d-aac8-01dce767bdda",
+      "last_modified": "2017-06-06T16:40:15.701000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/27513031-ac67-4a6d-aac8-01dce767bdda",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:40:15.701000",
+      "title": "export en csv (utf-8) des mus\u00e9es r\u00e9f\u00e9renc\u00e9s dans la base de donn\u00e9es de SIRTAQUI. Les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es dans la projection WGS84",
+      "url": "https://datacat.datalocale.fr/file/415846/raw/liste-musees-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:46:13.244000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-11-22T04:23:25.713000",
+        "check:status": 501,
+        "check:url": "http://wcf.tourinsoft.com/Syndication/aquitaine/094df128-7ac5-43e5-a7e9-a5d752317674/Objects?$format=json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "cf9e4d11-4b75-4e9f-b516-4ae1e36e5ba9",
+      "last_modified": "2017-07-07T06:08:25.001000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cf9e4d11-4b75-4e9f-b516-4ae1e36e5ba9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T18:46:13.245000",
+      "title": "consommation des donn\u00e9es temps r\u00e9el",
+      "url": "http://wcf.tourinsoft.com/Syndication/aquitaine/094df128-7ac5-43e5-a7e9-a5d752317674/Objects?$format=json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:46:13.245000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T19:40:41.096000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414600/raw/sp%C3%A9cifications%20du%20jeu%20de%20donn%C3%A9es"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "8b8b8f17-66aa-42c5-85f9-e6eeed01d2f8",
+      "last_modified": "2017-07-07T06:08:25.001000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8b8b8f17-66aa-42c5-85f9-e6eeed01d2f8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T18:46:13.245000",
+      "title": "sp\u00e9cifications du jeu de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414600/raw/sp%C3%A9cifications%20du%20jeu%20de%20donn%C3%A9es"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:46:13.245000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T19:40:41.103000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415844/raw/liste-xml-musees-aquitaine.xml"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "f620e3bb-84ab-498d-833c-4336c6df5782",
+      "last_modified": "2017-07-07T06:08:25.001000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f620e3bb-84ab-498d-833c-4336c6df5782",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/xml",
+      "published": "2017-07-02T18:46:13.245000",
+      "title": "extraction en xml (tourinfo) de la liste des mus\u00e9es r\u00e9f\u00e9renc\u00e9es dans la base de donnes SIRTAQUI. les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es en wgs84",
+      "url": "https://datacat.datalocale.fr/file/415844/raw/liste-xml-musees-aquitaine.xml"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:46:13.246000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T19:40:41.206000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415846/raw/liste-musees-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "7d0c4f8a-51f3-4488-afdd-d47cd739b6b0",
+      "last_modified": "2017-07-07T06:08:25.001000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7d0c4f8a-51f3-4488-afdd-d47cd739b6b0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T18:46:13.246000",
+      "title": "export en csv (utf-8) des mus\u00e9es r\u00e9f\u00e9renc\u00e9s dans la base de donn\u00e9es de SIRTAQUI. Les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es dans la projection WGS84",
+      "url": "https://datacat.datalocale.fr/file/415846/raw/liste-musees-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:46:13.246000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T17:27:34.925000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1599857/raw/liste-csv-musees-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "8d5feed0-71c4-4932-9755-e1a47d412177",
+      "last_modified": "2017-07-07T06:08:25.002000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8d5feed0-71c4-4932-9755-e1a47d412177",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T18:46:13.246000",
+      "title": "liste-csv-musees-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1599857/raw/liste-csv-musees-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:05:05.100000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T19:40:44.778000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414600/raw/sp%C3%A9cifications%20du%20jeu%20de%20donn%C3%A9es"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "811485f2-7aa2-4381-9373-044d274582c9",
+      "last_modified": "2017-07-09T07:01:13.132000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/811485f2-7aa2-4381-9373-044d274582c9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-08T07:05:05.100000",
+      "title": "sp\u00e9cifications du jeu de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414600/raw/sp%C3%A9cifications%20du%20jeu%20de%20donn%C3%A9es"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:05:05.100000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T19:40:46.091000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415846/raw/liste-musees-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "491f2cdc-b4bb-4f05-a32b-93cf6d2a5e20",
+      "last_modified": "2017-07-09T07:01:13.133000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/491f2cdc-b4bb-4f05-a32b-93cf6d2a5e20",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-08T07:05:05.101000",
+      "title": "export en csv (utf-8) des mus\u00e9es r\u00e9f\u00e9renc\u00e9s dans la base de donn\u00e9es de SIRTAQUI. Les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es dans la projection WGS84",
+      "url": "https://datacat.datalocale.fr/file/415846/raw/liste-musees-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:05:05.101000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T19:40:44.874000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415844/raw/liste-xml-musees-aquitaine.xml"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "35793634-d12c-44ba-af78-e18ec8fa8bb8",
+      "last_modified": "2017-07-09T07:01:13.133000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/35793634-d12c-44ba-af78-e18ec8fa8bb8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/xml",
+      "published": "2017-07-08T07:05:05.101000",
+      "title": "extraction en xml (tourinfo) de la liste des mus\u00e9es r\u00e9f\u00e9renc\u00e9es dans la base de donnes SIRTAQUI. les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es en wgs84",
+      "url": "https://datacat.datalocale.fr/file/415844/raw/liste-xml-musees-aquitaine.xml"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:05:05.102000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T17:27:38.911000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1636665/raw/liste-csv-musees-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f4aa1787-0732-4235-8cf4-bfb35f71ab9b",
+      "last_modified": "2017-07-09T07:01:13.133000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f4aa1787-0732-4235-8cf4-bfb35f71ab9b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-08T07:05:05.102000",
+      "title": "liste-csv-musees-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1636665/raw/liste-csv-musees-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:05:05.102000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-10-25T19:40:41.702000",
+        "check:status": 501,
+        "check:url": "http://wcf.tourinsoft.com/Syndication/aquitaine/094df128-7ac5-43e5-a7e9-a5d752317674/Objects?$format=json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "31ec9650-2854-4baa-a618-15b9582dd1f2",
+      "last_modified": "2017-07-09T07:01:13.133000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/31ec9650-2854-4baa-a618-15b9582dd1f2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-08T07:05:05.102000",
+      "title": "consommation des donn\u00e9es temps r\u00e9el",
+      "url": "http://wcf.tourinsoft.com/Syndication/aquitaine/094df128-7ac5-43e5-a7e9-a5d752317674/Objects?$format=json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-10T07:04:26.700000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T19:40:49.868000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415844/raw/liste-xml-musees-aquitaine.xml"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "7c8cb076-23c7-46ab-9832-ee6cc904c65a",
+      "last_modified": "2017-08-13T06:07:49.817000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7c8cb076-23c7-46ab-9832-ee6cc904c65a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/xml",
+      "published": "2017-07-10T07:04:26.700000",
+      "title": "extraction en xml (tourinfo) de la liste des mus\u00e9es r\u00e9f\u00e9renc\u00e9es dans la base de donnes SIRTAQUI. les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es en wgs84",
+      "url": "https://datacat.datalocale.fr/file/415844/raw/liste-xml-musees-aquitaine.xml"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-10T07:04:26.701000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-10-25T19:40:50.828000",
+        "check:status": 501,
+        "check:url": "http://wcf.tourinsoft.com/Syndication/aquitaine/094df128-7ac5-43e5-a7e9-a5d752317674/Objects?$format=json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "1b1252d1-1da1-4519-bad2-5c7fb4571a1d",
+      "last_modified": "2017-08-13T06:07:49.817000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1b1252d1-1da1-4519-bad2-5c7fb4571a1d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-10T07:04:26.701000",
+      "title": "consommation des donn\u00e9es temps r\u00e9el",
+      "url": "http://wcf.tourinsoft.com/Syndication/aquitaine/094df128-7ac5-43e5-a7e9-a5d752317674/Objects?$format=json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-10T07:04:26.701000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T19:40:46.844000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414600/raw/sp%C3%A9cifications%20du%20jeu%20de%20donn%C3%A9es"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "46468341-d11d-405c-9f60-f4e8eeb3f6e6",
+      "last_modified": "2017-08-13T06:07:49.818000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/46468341-d11d-405c-9f60-f4e8eeb3f6e6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-10T07:04:26.701000",
+      "title": "sp\u00e9cifications du jeu de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414600/raw/sp%C3%A9cifications%20du%20jeu%20de%20donn%C3%A9es"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-10T07:04:26.702000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T19:40:51.898000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1636665/raw/liste-csv-musees-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2741e36e-690e-417f-9ab5-9c3665545411",
+      "last_modified": "2017-08-13T06:07:49.818000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2741e36e-690e-417f-9ab5-9c3665545411",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-10T07:04:26.702000",
+      "title": "liste-csv-musees-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1636665/raw/liste-csv-musees-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-10T07:04:26.702000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T19:40:49.256000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415846/raw/liste-musees-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e3de54eb-f65a-4656-a692-59037a8189bd",
+      "last_modified": "2017-08-13T06:07:49.818000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e3de54eb-f65a-4656-a692-59037a8189bd",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-10T07:04:26.702000",
+      "title": "export en csv (utf-8) des mus\u00e9es r\u00e9f\u00e9renc\u00e9s dans la base de donn\u00e9es de SIRTAQUI. Les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es dans la projection WGS84",
+      "url": "https://datacat.datalocale.fr/file/415846/raw/liste-musees-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-14T07:11:08.826000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T17:27:39.796000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1706528/raw/liste-csv-musees-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "0ecbb342-d1f0-420e-bb13-8d27adb2c9ff",
+      "last_modified": "2017-08-20T06:06:13.480000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0ecbb342-d1f0-420e-bb13-8d27adb2c9ff",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-14T07:11:08.826000",
+      "title": "liste-csv-musees-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1706528/raw/liste-csv-musees-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-14T07:11:08.826000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T19:40:51.977000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415844/raw/liste-xml-musees-aquitaine.xml"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "a474e867-c1b0-401b-b70e-a09400204f8d",
+      "last_modified": "2017-08-20T06:06:13.480000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a474e867-c1b0-401b-b70e-a09400204f8d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/xml",
+      "published": "2017-08-14T07:11:08.826000",
+      "title": "extraction en xml (tourinfo) de la liste des mus\u00e9es r\u00e9f\u00e9renc\u00e9es dans la base de donnes SIRTAQUI. les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es en wgs84",
+      "url": "https://datacat.datalocale.fr/file/415844/raw/liste-xml-musees-aquitaine.xml"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-14T07:11:08.827000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T19:40:57.668000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415846/raw/liste-musees-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "22fd6010-3def-4a5b-a905-a8b547f32005",
+      "last_modified": "2017-08-20T06:06:13.481000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/22fd6010-3def-4a5b-a905-a8b547f32005",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-14T07:11:08.827000",
+      "title": "export en csv (utf-8) des mus\u00e9es r\u00e9f\u00e9renc\u00e9s dans la base de donn\u00e9es de SIRTAQUI. Les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es dans la projection WGS84",
+      "url": "https://datacat.datalocale.fr/file/415846/raw/liste-musees-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-14T07:11:08.827000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T19:41:02.882000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414600/raw/sp%C3%A9cifications%20du%20jeu%20de%20donn%C3%A9es"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b6f396ae-c9ed-4611-8ee9-1298dd0355dc",
+      "last_modified": "2017-08-20T06:06:13.481000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b6f396ae-c9ed-4611-8ee9-1298dd0355dc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-14T07:11:08.827000",
+      "title": "sp\u00e9cifications du jeu de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414600/raw/sp%C3%A9cifications%20du%20jeu%20de%20donn%C3%A9es"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-14T07:11:08.828000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-10-25T19:41:04.485000",
+        "check:status": 501,
+        "check:url": "http://wcf.tourinsoft.com/Syndication/aquitaine/094df128-7ac5-43e5-a7e9-a5d752317674/Objects?$format=json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "5ae77b6b-d7af-4ec8-b048-a333a95845f6",
+      "last_modified": "2017-08-20T06:06:13.481000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5ae77b6b-d7af-4ec8-b048-a333a95845f6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-08-14T07:11:08.828000",
+      "title": "consommation des donn\u00e9es temps r\u00e9el",
+      "url": "http://wcf.tourinsoft.com/Syndication/aquitaine/094df128-7ac5-43e5-a7e9-a5d752317674/Objects?$format=json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-21T07:09:49.249000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T19:41:02.835000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1732790/raw/liste-csv-musees-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ea694eca-c124-42de-9622-5d63e7d39dca",
+      "last_modified": "2017-08-27T06:04:18.247000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ea694eca-c124-42de-9622-5d63e7d39dca",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-21T07:09:49.250000",
+      "title": "liste-csv-musees-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1732790/raw/liste-csv-musees-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-21T07:09:49.250000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T19:41:09.466000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414600/raw/sp%C3%A9cifications%20du%20jeu%20de%20donn%C3%A9es"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "61180e13-31de-45bb-8fa0-617781eea2c1",
+      "last_modified": "2017-08-27T06:04:18.247000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/61180e13-31de-45bb-8fa0-617781eea2c1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-21T07:09:49.250000",
+      "title": "sp\u00e9cifications du jeu de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414600/raw/sp%C3%A9cifications%20du%20jeu%20de%20donn%C3%A9es"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-21T07:09:49.251000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T19:41:03.833000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415844/raw/liste-xml-musees-aquitaine.xml"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "db6f9307-b8c1-4a38-8bfc-c17605db6aa8",
+      "last_modified": "2017-08-27T06:04:18.247000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/db6f9307-b8c1-4a38-8bfc-c17605db6aa8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/xml",
+      "published": "2017-08-21T07:09:49.251000",
+      "title": "extraction en xml (tourinfo) de la liste des mus\u00e9es r\u00e9f\u00e9renc\u00e9es dans la base de donnes SIRTAQUI. les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es en wgs84",
+      "url": "https://datacat.datalocale.fr/file/415844/raw/liste-xml-musees-aquitaine.xml"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-21T07:09:49.251000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-10-25T19:41:10.380000",
+        "check:status": 501,
+        "check:url": "http://wcf.tourinsoft.com/Syndication/aquitaine/094df128-7ac5-43e5-a7e9-a5d752317674/Objects?$format=json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "c473b79e-fda6-41f9-be32-3f7c78c060de",
+      "last_modified": "2017-08-27T06:04:18.247000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c473b79e-fda6-41f9-be32-3f7c78c060de",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-08-21T07:09:49.251000",
+      "title": "consommation des donn\u00e9es temps r\u00e9el",
+      "url": "http://wcf.tourinsoft.com/Syndication/aquitaine/094df128-7ac5-43e5-a7e9-a5d752317674/Objects?$format=json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-21T07:09:49.252000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T19:41:00.049000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415846/raw/liste-musees-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "590b189c-168d-43d0-a4cf-b90304a82ddf",
+      "last_modified": "2017-08-27T06:04:18.247000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/590b189c-168d-43d0-a4cf-b90304a82ddf",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-21T07:09:49.252000",
+      "title": "export en csv (utf-8) des mus\u00e9es r\u00e9f\u00e9renc\u00e9s dans la base de donn\u00e9es de SIRTAQUI. Les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es dans la projection WGS84",
+      "url": "https://datacat.datalocale.fr/file/415846/raw/liste-musees-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-28T06:08:19.582000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T19:41:11.879000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415844/raw/liste-xml-musees-aquitaine.xml"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "8a18ccaa-82a3-4008-a51d-00861a156e3a",
+      "last_modified": "2017-09-11T06:14:41.023000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8a18ccaa-82a3-4008-a51d-00861a156e3a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/xml",
+      "published": "2017-08-28T06:08:19.583000",
+      "title": "extraction en xml (tourinfo) de la liste des mus\u00e9es r\u00e9f\u00e9renc\u00e9es dans la base de donnes SIRTAQUI. les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es en wgs84",
+      "url": "https://datacat.datalocale.fr/file/415844/raw/liste-xml-musees-aquitaine.xml"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-28T06:08:19.583000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T19:41:14.736000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415846/raw/liste-musees-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "5258aa10-94ce-47a7-912b-5f31efd46371",
+      "last_modified": "2017-09-11T06:14:41.023000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5258aa10-94ce-47a7-912b-5f31efd46371",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-28T06:08:19.584000",
+      "title": "export en csv (utf-8) des mus\u00e9es r\u00e9f\u00e9renc\u00e9s dans la base de donn\u00e9es de SIRTAQUI. Les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es dans la projection WGS84",
+      "url": "https://datacat.datalocale.fr/file/415846/raw/liste-musees-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-28T06:08:19.584000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T17:27:43.601000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1745821/raw/liste-csv-musees-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "01a7a43d-e2db-49e9-a2dc-134b8e71174b",
+      "last_modified": "2017-09-11T06:14:41.023000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/01a7a43d-e2db-49e9-a2dc-134b8e71174b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-28T06:08:19.584000",
+      "title": "liste-csv-musees-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1745821/raw/liste-csv-musees-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-28T06:08:19.585000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T19:41:11.977000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414600/raw/sp%C3%A9cifications%20du%20jeu%20de%20donn%C3%A9es"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "fe8b704f-3798-464e-bf89-043668b75e0c",
+      "last_modified": "2017-09-11T06:14:41.024000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fe8b704f-3798-464e-bf89-043668b75e0c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-28T06:08:19.585000",
+      "title": "sp\u00e9cifications du jeu de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414600/raw/sp%C3%A9cifications%20du%20jeu%20de%20donn%C3%A9es"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-28T06:08:19.585000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-10-25T19:41:12.732000",
+        "check:status": 501,
+        "check:url": "http://wcf.tourinsoft.com/Syndication/aquitaine/094df128-7ac5-43e5-a7e9-a5d752317674/Objects?$format=json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "cf21b4f2-823a-4d97-a236-17e11d16d3c7",
+      "last_modified": "2017-09-11T06:14:41.024000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cf21b4f2-823a-4d97-a236-17e11d16d3c7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-08-28T06:08:19.585000",
+      "title": "consommation des donn\u00e9es temps r\u00e9el",
+      "url": "http://wcf.tourinsoft.com/Syndication/aquitaine/094df128-7ac5-43e5-a7e9-a5d752317674/Objects?$format=json"
+    }
+  ],
+  "slug": "liste-des-musees-en-aquitaine",
+  "spatial": null,
+  "tags": [
+    "culture",
+    "musee",
+    "tourisme",
+    "visites"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des mus\u00e9es en Aquitaine",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-musees-en-aquitaine/"
+}

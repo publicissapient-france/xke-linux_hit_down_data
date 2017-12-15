@@ -1,0 +1,757 @@
+{
+  "badges": [],
+  "created_at": "2017-06-21T00:00:00",
+  "deleted": null,
+  "description": "",
+  "extras": {
+    "ckan:name": "opera-en-france",
+    "guid": "https://datacat.datalocale.fr/416291",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-09-29T07:51:49.798016",
+    "harvest:remote_id": "e6ce7b5d-863a-4ea2-9bd9-e9078806a565",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "de365e4c-33b9-4aa8-b422-7b25d3f9c7b2",
+    "issued": "2015-12-03T08:59:37+00:00",
+    "modified": "2016-07-18T09:21:06.723855+00:00",
+    "uri": "https://datacat.datalocale.fr/416291"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5959237fa3a7291dd09c81bd",
+  "last_modified": "2017-09-29T07:51:49.802000",
+  "last_update": "2017-09-12T07:48:34.271000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/opera-en-france/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:46:55.938000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-25T04:12:33.205000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a40f2daa-ffbe-4291-94f4-6b9877124ff8",
+      "last_modified": "2017-07-07T06:09:06.605000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a40f2daa-ffbe-4291-94f4-6b9877124ff8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T18:46:55.938000",
+      "title": "csv",
+      "url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:05:53.844000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-25T04:12:33.205000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "bb35f1aa-2a15-45c7-a9ff-d5a7319c196b",
+      "last_modified": "2017-07-08T07:05:53.844000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/bb35f1aa-2a15-45c7-a9ff-d5a7319c196b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-08T07:05:53.844000",
+      "title": "csv",
+      "url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-09T07:02:03.557000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-25T04:12:33.205000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ec78f39c-80e8-43dd-9653-6a465a1a57d6",
+      "last_modified": "2017-07-09T07:02:03.558000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ec78f39c-80e8-43dd-9653-6a465a1a57d6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-09T07:02:03.557000",
+      "title": "csv",
+      "url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-10T07:06:23.728000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-25T04:12:33.205000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "8fc6a545-eade-4707-ba02-b8116f436b52",
+      "last_modified": "2017-07-10T07:06:23.729000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8fc6a545-eade-4707-ba02-b8116f436b52",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-10T07:06:23.728000",
+      "title": "csv",
+      "url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-20T02:30:31.172000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-25T04:12:33.205000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "bc3ffd7c-8c7f-4dec-9e0d-c1e547883bf0",
+      "last_modified": "2017-08-03T06:08:45.624000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/bc3ffd7c-8c7f-4dec-9e0d-c1e547883bf0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-20T02:30:31.173000",
+      "title": "csv",
+      "url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-08T06:05:41.619000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-25T04:12:33.205000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "fa835689-b270-4bed-ad34-d35d36e4bee6",
+      "last_modified": "2017-08-08T06:05:41.619000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fa835689-b270-4bed-ad34-d35d36e4bee6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-08T06:05:41.619000",
+      "title": "csv",
+      "url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-09T06:04:19.113000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T22:11:21.591000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e761a4fd-ded5-490a-b1a0-aa9854e592bc",
+      "last_modified": "2017-08-09T06:04:19.113000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e761a4fd-ded5-490a-b1a0-aa9854e592bc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-09T06:04:19.113000",
+      "title": "csv",
+      "url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-10T06:06:26.544000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T22:11:24.183000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a5b5595e-f768-4b96-8415-db12f16ff844",
+      "last_modified": "2017-08-10T06:06:26.545000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a5b5595e-f768-4b96-8415-db12f16ff844",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-10T06:06:26.544000",
+      "title": "csv",
+      "url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-11T06:07:01.392000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "fd2a9d2c-544f-423d-8ed6-0f3d7e0b784c",
+      "last_modified": "2017-08-11T06:07:01.392000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fd2a9d2c-544f-423d-8ed6-0f3d7e0b784c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-11T06:07:01.392000",
+      "title": "csv",
+      "url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-12T06:02:39.473000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "aee9b75f-83b9-49b5-a426-7a1caff30840",
+      "last_modified": "2017-08-12T06:02:39.473000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/aee9b75f-83b9-49b5-a426-7a1caff30840",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-12T06:02:39.473000",
+      "title": "csv",
+      "url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-13T06:08:30.388000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "24208f9c-bd0c-49a8-85a2-08afefbb042b",
+      "last_modified": "2017-08-13T06:08:30.388000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/24208f9c-bd0c-49a8-85a2-08afefbb042b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-13T06:08:30.388000",
+      "title": "csv",
+      "url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-14T07:11:52.167000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "65f44189-4672-4cb3-9c82-33d3100357bc",
+      "last_modified": "2017-08-14T07:11:52.168000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/65f44189-4672-4cb3-9c82-33d3100357bc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-14T07:11:52.167000",
+      "title": "csv",
+      "url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-15T06:07:06.226000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T22:11:24.183000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ca0f44e5-87db-4766-814d-b435edbbcb9a",
+      "last_modified": "2017-08-15T06:07:06.226000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ca0f44e5-87db-4766-814d-b435edbbcb9a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-15T06:07:06.226000",
+      "title": "csv",
+      "url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-16T07:11:45.322000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "597a090a-db43-42c7-beea-aa36cbb37b3a",
+      "last_modified": "2017-08-16T07:11:45.323000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/597a090a-db43-42c7-beea-aa36cbb37b3a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-16T07:11:45.322000",
+      "title": "csv",
+      "url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-17T06:03:20.439000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "7ec606f6-e449-405c-a1df-299236a607e7",
+      "last_modified": "2017-08-17T06:03:20.439000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7ec606f6-e449-405c-a1df-299236a607e7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-17T06:03:20.439000",
+      "title": "csv",
+      "url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-18T06:09:48.798000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T22:11:25.678000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "cb114782-fb39-4b87-9c9d-2770cedb5822",
+      "last_modified": "2017-08-18T06:09:48.798000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cb114782-fb39-4b87-9c9d-2770cedb5822",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-18T06:09:48.798000",
+      "title": "csv",
+      "url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-19T06:05:32.023000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "3e1ad5c9-8891-4106-9371-96e9dc28b9d8",
+      "last_modified": "2017-08-19T06:05:32.023000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3e1ad5c9-8891-4106-9371-96e9dc28b9d8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-19T06:05:32.023000",
+      "title": "csv",
+      "url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-20T06:07:05.981000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c75219d3-4283-4542-885d-beaf123b856b",
+      "last_modified": "2017-08-20T06:07:05.981000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c75219d3-4283-4542-885d-beaf123b856b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-20T06:07:05.981000",
+      "title": "csv",
+      "url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-21T07:10:47.440000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "1961a30b-3f6d-4438-ad1e-7d16e79ef717",
+      "last_modified": "2017-08-21T07:10:47.441000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1961a30b-3f6d-4438-ad1e-7d16e79ef717",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-21T07:10:47.440000",
+      "title": "csv",
+      "url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-22T06:05:33.335000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "09ac6f18-bf7e-4873-a7a0-e21a53dac898",
+      "last_modified": "2017-08-22T06:05:33.335000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/09ac6f18-bf7e-4873-a7a0-e21a53dac898",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-22T06:05:33.335000",
+      "title": "csv",
+      "url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-23T06:08:46.611000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T22:11:28.008000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "cf8a4ae5-0c23-4d66-bb02-bdb8f4eae0bc",
+      "last_modified": "2017-08-23T06:08:46.612000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cf8a4ae5-0c23-4d66-bb02-bdb8f4eae0bc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-23T06:08:46.611000",
+      "title": "csv",
+      "url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-24T06:06:10.597000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T22:11:58.545000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "99a465c7-3a9c-4a6b-a170-04c2bdece277",
+      "last_modified": "2017-08-24T06:06:10.597000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/99a465c7-3a9c-4a6b-a170-04c2bdece277",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-24T06:06:10.597000",
+      "title": "csv",
+      "url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-25T06:05:51.068000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "d21eebae-37ed-492b-80e8-bfc149d21c67",
+      "last_modified": "2017-08-25T06:05:51.068000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d21eebae-37ed-492b-80e8-bfc149d21c67",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-25T06:05:51.068000",
+      "title": "csv",
+      "url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-26T06:10:34.699000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T22:12:05.976000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "bb29258e-0e49-483b-857f-644930b32c4c",
+      "last_modified": "2017-08-26T06:10:34.700000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/bb29258e-0e49-483b-857f-644930b32c4c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-26T06:10:34.699000",
+      "title": "csv",
+      "url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-27T06:05:27.228000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T22:12:08.357000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "48a37698-be36-4613-81c5-faa18dc174b3",
+      "last_modified": "2017-08-27T06:05:27.229000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/48a37698-be36-4613-81c5-faa18dc174b3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-27T06:05:27.229000",
+      "title": "csv",
+      "url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-28T06:09:28.138000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T22:12:09.597000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f1ce66ef-8424-4ea5-92a8-ae3bd4077828",
+      "last_modified": "2017-08-28T06:09:28.138000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f1ce66ef-8424-4ea5-92a8-ae3bd4077828",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-28T06:09:28.138000",
+      "title": "csv",
+      "url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-29T06:06:48.592000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T22:12:15.627000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "07b1dc3b-c074-4356-b978-0ac9f49ecb3b",
+      "last_modified": "2017-09-11T06:16:36.200000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/07b1dc3b-c074-4356-b978-0ac9f49ecb3b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-29T06:06:48.592000",
+      "title": "csv",
+      "url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:48:34.271000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T22:12:10.027000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "80e27884-4647-48f0-9385-460aad9645ca",
+      "last_modified": "2017-09-29T07:51:49.797000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/80e27884-4647-48f0-9385-460aad9645ca",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:48:34.271000",
+      "title": "csv",
+      "url": "https://datacat.datalocale.fr/file/416293/raw/operaRevu.csv"
+    }
+  ],
+  "slug": "opera-en-france",
+  "spatial": null,
+  "tags": [],
+  "temporal_coverage": null,
+  "title": "op\u00e9ra en france",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/opera-en-france/"
+}

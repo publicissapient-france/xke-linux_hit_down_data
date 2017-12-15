@@ -1,0 +1,103 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T18:23:21.821000",
+  "deleted": null,
+  "description": "Recensement des \u00e9v\u00e9nements litt\u00e9raires en\u00a0\u00cele-de-France, de plus d'une \u00e9dition, d'une dur\u00e9e inf\u00e9rieure \u00e0 2 mois et dont le livre est le \"sujet\" principal. Mention\u00a0des \u00e9v\u00e9nements soutenus par la R\u00e9gion en 2013.",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T05:58:50.613578",
+    "harvest:remote_id": "manifestations_litteraires_sept14",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/manifestations_litteraires_sept14/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59591df9a3a7291dcf9c8177",
+  "last_modified": "2017-11-27T05:58:50.614000",
+  "last_update": "2017-11-27T05:58:50.613000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/manifestations-litteraires/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:58:50.612000",
+      "description": "- *Nom manifestation*: nom_manifestation[text]\n- *Lieu(x) de l'\u00e9v\u00e9nement*: lieu_x_de_l_evenement[text]\n- *Code postal*: code_postal[text]\n- *Ville*: ville[text]\n- *URL Site Web*: url_site_web[text]\n- *Periode \u00e9v\u00e9nement*: periode_evenement[text]\n- *Periodicit\u00e9*: periodicite[text]\n- *Organisateur*: organisateur[text]\n- *Th\u00e8me(s)*: theme[text]\n- *Subvention R\u00e9gion 2013*: subvention_region_2013[text]\n- *ID*: id[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "01fdd30f-fee1-48a7-a2e6-ca817e95df31",
+      "last_modified": "2014-10-10T10:06:20",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/01fdd30f-fee1-48a7-a2e6-ca817e95df31",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:58:50.612000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/manifestations_litteraires_sept14/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:58:50.613000",
+      "description": "- *Nom manifestation*: nom_manifestation[text]\n- *Lieu(x) de l'\u00e9v\u00e9nement*: lieu_x_de_l_evenement[text]\n- *Code postal*: code_postal[text]\n- *Ville*: ville[text]\n- *URL Site Web*: url_site_web[text]\n- *Periode \u00e9v\u00e9nement*: periode_evenement[text]\n- *Periodicit\u00e9*: periodicite[text]\n- *Organisateur*: organisateur[text]\n- *Th\u00e8me(s)*: theme[text]\n- *Subvention R\u00e9gion 2013*: subvention_region_2013[text]\n- *ID*: id[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "5fe51bf3-4242-45d2-9a33-482df7942ae0",
+      "last_modified": "2014-10-10T10:06:20",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5fe51bf3-4242-45d2-9a33-482df7942ae0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:58:50.613000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/manifestations_litteraires_sept14/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "manifestations-litteraires",
+  "spatial": null,
+  "tags": [
+    "arts",
+    "edition",
+    "evenement",
+    "lecture",
+    "livre",
+    "vie-culturelle"
+  ],
+  "temporal_coverage": null,
+  "title": "Manifestations litt\u00e9raires",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/manifestations-litteraires/"
+}

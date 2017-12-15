@@ -1,0 +1,113 @@
+{
+  "badges": [],
+  "created_at": "2017-11-22T04:02:17.304000",
+  "deleted": null,
+  "description": "Les indicateurs sont r\u00e9alis\u00e9s \u00e0 partir des donn\u00e9es issues du Syst\u00e8me d\u2019Information sur le Suivi de l\u2019Etudiant (SISE), qui recense les inscrits (SISE Inscriptions). Le champ couvre l\u2019ensemble des universit\u00e9s fran\u00e7aises (y compris l\u2019universit\u00e9 de Lorraine devenue grand \u00e9tablissement en 2011, l\u2019institut universitaire d\u2019Albi, le CUFR de Mayotte et l\u2019universit\u00e9 de Polyn\u00e9sie fran\u00e7aise mais non compris l\u2019universit\u00e9 de Nouvelle Cal\u00e9donie (donn\u00e9es non disponibles en 2015-2016)).\n\nCes indicateurs sont calcul\u00e9s sur la base des inscriptions administratives, et non d\u2019une pr\u00e9sence effective de l\u2019\u00e9tudiant. Ils peuvent \u00eatre de ce fait biais\u00e9s n\u00e9gativement.\n\n### Passage en deuxi\u00e8me ann\u00e9e en un ou deux ans\n\n#### PACES \n\nLe champ des indicateurs est constitu\u00e9 des bacheliers 2014 inscrits en 2014-2015 en Premi\u00e8re Ann\u00e9e Commune aux \u00c9tudes de Sant\u00e9 (PACES) dans l\u2019enseignement sup\u00e9rieur public.\n\nLes indicateurs sont calcul\u00e9s en rapportant des effectifs d\u2019\u00e9tudiants :\n\nBase (d\u00e9nominateur) : \u00e9tudiants du champ inscrits en PACES pendant l\u2019ann\u00e9e 2014-2015 ;\n\nPassage en deuxi\u00e8me ann\u00e9e (num\u00e9rateur) : \u00e9tudiants de la base (d\u00e9nominateur) inscrits, quel que soit l\u2019\u00e9tablissement d\u2019accueil, en deuxi\u00e8me ann\u00e9e de premier cycle d\u2019\u00e9tudes de m\u00e9decine (PCEM2), d\u2019odontologie (dentaire), de pharmacie ou de ma\u00efeutique (sage-femme) :   \npendant l\u2019ann\u00e9e 2015-2016 (passage en un an) ;   \npendant l\u2019ann\u00e9e 2016-2017 (passage en deux ans).\n\nRedoublement (num\u00e9rateur) : \u00e9tudiants de la base (d\u00e9nominateur) r\u00e9inscrits en PACES pendant l\u2019ann\u00e9e 2015-2016, quel que soit l\u2019\u00e9tablissement d\u2019accueil.",
+  "extras": {
+    "harvest:domain": "data.enseignementsup-recherche.gouv.fr",
+    "harvest:last_update": "2017-11-27T04:00:15.354591",
+    "harvest:remote_id": "fr-esr-parcours-des-bacheliers-en-paces",
+    "harvest:source_id": "586961d688ee3816ad3f4e5d",
+    "ods:has_records": true,
+    "ods:url": "https://data.enseignementsup-recherche.gouv.fr//explore/dataset/fr-esr-parcours-des-bacheliers-en-paces/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5a14e8b9a3a7297775073502",
+  "last_modified": "2017-11-27T04:00:15.359000",
+  "last_update": "2017-11-27T04:00:15.353000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 1,
+    "views": 3
+  },
+  "organization": {
+    "acronym": "MESRI",
+    "class": "Organization",
+    "id": "534fff90a3a7292c64a77f45",
+    "logo": "https://www.data.gouv.fr/s/avatars/00/933e61180545a6a4c5afa4f6077183-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/00/933e61180545a6a4c5afa4f6077183-100.jpg",
+    "name": "Minist\u00e8re de l'Enseignement sup\u00e9rieur, de la Recherche et de l'Innovation",
+    "page": "https://www.data.gouv.fr/fr/organizations/enseignement-superieur-et-recherche/",
+    "slug": "enseignement-superieur-et-recherche",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/enseignement-superieur-et-recherche/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/parcours-des-bachelieres-et-bacheliers-inscrits-pour-la-premiere-fois-en-paces/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:00:15.352000",
+      "description": "- *Id S\u00e9rie ou type de Bac*: serie_bac[int]\n- *S\u00e9rie ou type de Bac*: serie_bac_lib[text]\n- *Id \u00c2ge au bac*: age_au_bac[text]\n- *\u00c2ge au bac*: age_au_bac_lib[text]\n- *Id Sexe*: sexe[int]\n- *Sexe*: sexe_lib[text]\n- *Id Mention au Bac*: mention_bac[text]\n- *Mention au Bac*: mention_bac_lib[text]\n- *Ann\u00e9e de cohorte (Ann\u00e9e de premi\u00e8re inscription)*: cohorte[text]\n- *Effectif de n\u00e9obacheliers de la cohorte*: effectif_neobacheliers[int]\n- *Passage en 2\u00e8me ann\u00e9e d'\u00e9tudes de sant\u00e9 en 1 an*: passage_en_de2_1_an[int]\n- *Passage en 2\u00e8me ann\u00e9e d'\u00e9tudes de sant\u00e9 en 2 ans*: passage_en_de2_2_ans[int]\n- *Passage en 2\u00e8me ann\u00e9e d'\u00e9tudes de sant\u00e9 en 1 ou 2 ans*: passage_en_de2_1_2_ans[int]\n- *Passage en 2\u00e8me ann\u00e9e d'\u00e9tudes de sant\u00e9 dans la fili\u00e8re M\u00e9decine en 1 ou 2 ans*: de2_medecine[int]\n- *Passage en 2\u00e8me ann\u00e9e d'\u00e9tudes de sant\u00e9 dans la fili\u00e8re Pharmacie en 1 ou 2 ans*: de2_pharmacie[int]\n- *Passage en 2\u00e8me ann\u00e9e d'\u00e9tudes de sant\u00e9 dans la fili\u00e8re Chirurgie dentaire en 1 ou 2 ans*: de2_chirurgie_dentaire[int]\n- *Passage en 2\u00e8me ann\u00e9e d'\u00e9tudes de sant\u00e9 dans la fili\u00e8re Ma\u00efeutique en 1 ou 2 ans*: de2_maieutique[int]\n- *Redoublement*: redoublement[int]\n- *Passage dans d'autres dipl\u00f4mes de sant\u00e9*: autres_sante[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "94b6acf3-45d2-425a-b4e6-54b6d22b31a0",
+      "last_modified": "2017-11-21T08:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/94b6acf3-45d2-425a-b4e6-54b6d22b31a0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T04:00:15.352000",
+      "title": "Export au format CSV",
+      "url": "https://data.enseignementsup-recherche.gouv.fr//explore/dataset/fr-esr-parcours-des-bacheliers-en-paces/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:00:15.353000",
+      "description": "- *Id S\u00e9rie ou type de Bac*: serie_bac[int]\n- *S\u00e9rie ou type de Bac*: serie_bac_lib[text]\n- *Id \u00c2ge au bac*: age_au_bac[text]\n- *\u00c2ge au bac*: age_au_bac_lib[text]\n- *Id Sexe*: sexe[int]\n- *Sexe*: sexe_lib[text]\n- *Id Mention au Bac*: mention_bac[text]\n- *Mention au Bac*: mention_bac_lib[text]\n- *Ann\u00e9e de cohorte (Ann\u00e9e de premi\u00e8re inscription)*: cohorte[text]\n- *Effectif de n\u00e9obacheliers de la cohorte*: effectif_neobacheliers[int]\n- *Passage en 2\u00e8me ann\u00e9e d'\u00e9tudes de sant\u00e9 en 1 an*: passage_en_de2_1_an[int]\n- *Passage en 2\u00e8me ann\u00e9e d'\u00e9tudes de sant\u00e9 en 2 ans*: passage_en_de2_2_ans[int]\n- *Passage en 2\u00e8me ann\u00e9e d'\u00e9tudes de sant\u00e9 en 1 ou 2 ans*: passage_en_de2_1_2_ans[int]\n- *Passage en 2\u00e8me ann\u00e9e d'\u00e9tudes de sant\u00e9 dans la fili\u00e8re M\u00e9decine en 1 ou 2 ans*: de2_medecine[int]\n- *Passage en 2\u00e8me ann\u00e9e d'\u00e9tudes de sant\u00e9 dans la fili\u00e8re Pharmacie en 1 ou 2 ans*: de2_pharmacie[int]\n- *Passage en 2\u00e8me ann\u00e9e d'\u00e9tudes de sant\u00e9 dans la fili\u00e8re Chirurgie dentaire en 1 ou 2 ans*: de2_chirurgie_dentaire[int]\n- *Passage en 2\u00e8me ann\u00e9e d'\u00e9tudes de sant\u00e9 dans la fili\u00e8re Ma\u00efeutique en 1 ou 2 ans*: de2_maieutique[int]\n- *Redoublement*: redoublement[int]\n- *Passage dans d'autres dipl\u00f4mes de sant\u00e9*: autres_sante[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "4262a433-20a1-4dbd-913c-f371ce43b32b",
+      "last_modified": "2017-11-21T08:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4262a433-20a1-4dbd-913c-f371ce43b32b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T04:00:15.353000",
+      "title": "Export au format JSON",
+      "url": "https://data.enseignementsup-recherche.gouv.fr//explore/dataset/fr-esr-parcours-des-bacheliers-en-paces/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "parcours-des-bachelieres-et-bacheliers-inscrits-pour-la-premiere-fois-en-paces",
+  "spatial": null,
+  "tags": [
+    "bac",
+    "bacheliers",
+    "cohorte",
+    "data1ercycle",
+    "datapaces",
+    "donnees-sexuees",
+    "education",
+    "enseignement",
+    "formation",
+    "formations-de-sante",
+    "mention-au-bac",
+    "paces",
+    "parcours",
+    "recherche",
+    "reussite",
+    "statistiques"
+  ],
+  "temporal_coverage": null,
+  "title": "Parcours des bacheli\u00e8res et bacheliers inscrits pour la premi\u00e8re fois en PACES",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/parcours-des-bachelieres-et-bacheliers-inscrits-pour-la-premiere-fois-en-paces/"
+}

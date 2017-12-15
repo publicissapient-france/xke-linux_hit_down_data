@@ -1,0 +1,187 @@
+{
+  "badges": [],
+  "created_at": "2017-03-05T00:00:00",
+  "deleted": null,
+  "description": "Export des codes NAF bulgares, espagnols, fran\u00e7ais, italiens et turcs",
+  "extras": {
+    "ckan:name": "codes-naf",
+    "harvest:domain": "opendata.ozwillo.com",
+    "harvest:last_update": "2017-11-27T05:03:50.551603",
+    "harvest:remote_id": "d77a65b1-9da9-49c0-a0be-eb900c1cc400",
+    "harvest:source_id": "56bbbec4c751df6a689f9dea",
+    "remote_url": "Ozwillo"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59593c53a3a7291dcf9c82bf",
+  "last_modified": "2017-11-27T05:03:50.553000",
+  "last_update": "2017-07-02T20:32:51.573000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "56c4765fc751df27326c6ddf",
+    "logo": "https://www.data.gouv.fr/s/avatars/c3/f674ad6c354099a8166090b134da4a-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c3/f674ad6c354099a8166090b134da4a-100.png",
+    "name": "Ozwillo",
+    "page": "https://www.data.gouv.fr/fr/organizations/ozwillo/",
+    "slug": "ozwillo",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ozwillo/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/codes-naf-1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T20:32:51.571000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T13:43:23.749000",
+        "check:status": 200,
+        "check:url": "https://opendata.ozwillo.com/dataset/d77a65b1-9da9-49c0-a0be-eb900c1cc400/resource/d69eb5b5-07d6-4ca6-a7f7-cf4a66910034/download/orgactfractivitnaf20080.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "d69eb5b5-07d6-4ca6-a7f7-cf4a66910034",
+      "last_modified": "2017-03-05T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d69eb5b5-07d6-4ca6-a7f7-cf4a66910034",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 2
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T20:32:51.571000",
+      "title": "Codes NAF fran\u00e7ais",
+      "url": "https://opendata.ozwillo.com/dataset/d77a65b1-9da9-49c0-a0be-eb900c1cc400/resource/d69eb5b5-07d6-4ca6-a7f7-cf4a66910034/download/orgactfractivitnaf20080.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T20:32:51.571000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T13:43:24.845000",
+        "check:status": 200,
+        "check:url": "https://opendata.ozwillo.com/dataset/d77a65b1-9da9-49c0-a0be-eb900c1cc400/resource/75dc1787-ea1b-476d-9869-913643d39224/download/orgactbg0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "75dc1787-ea1b-476d-9869-913643d39224",
+      "last_modified": "2017-03-05T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/75dc1787-ea1b-476d-9869-913643d39224",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T20:32:51.571000",
+      "title": "Codes NAF bulgares",
+      "url": "https://opendata.ozwillo.com/dataset/d77a65b1-9da9-49c0-a0be-eb900c1cc400/resource/75dc1787-ea1b-476d-9869-913643d39224/download/orgactbg0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T20:32:51.572000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T13:43:24.303000",
+        "check:status": 200,
+        "check:url": "https://opendata.ozwillo.com/dataset/d77a65b1-9da9-49c0-a0be-eb900c1cc400/resource/3ec99caa-7535-45b2-ab9c-b4c2a3fb73f8/download/orgactesactividadcnae20080.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "3ec99caa-7535-45b2-ab9c-b4c2a3fb73f8",
+      "last_modified": "2017-03-05T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3ec99caa-7535-45b2-ab9c-b4c2a3fb73f8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T20:32:51.572000",
+      "title": "Codes NAF espagnols",
+      "url": "https://opendata.ozwillo.com/dataset/d77a65b1-9da9-49c0-a0be-eb900c1cc400/resource/3ec99caa-7535-45b2-ab9c-b4c2a3fb73f8/download/orgactesactividadcnae20080.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T20:32:51.572000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T13:43:24.017000",
+        "check:status": 200,
+        "check:url": "https://opendata.ozwillo.com/dataset/d77a65b1-9da9-49c0-a0be-eb900c1cc400/resource/99915ccf-3b19-47a0-a595-c41ce9a56ba9/download/orgactitattivitateco20070.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "99915ccf-3b19-47a0-a595-c41ce9a56ba9",
+      "last_modified": "2017-03-05T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/99915ccf-3b19-47a0-a595-c41ce9a56ba9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T20:32:51.572000",
+      "title": "Codes NAF italiens",
+      "url": "https://opendata.ozwillo.com/dataset/d77a65b1-9da9-49c0-a0be-eb900c1cc400/resource/99915ccf-3b19-47a0-a595-c41ce9a56ba9/download/orgactitattivitateco20070.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T20:32:51.573000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T13:43:24.845000",
+        "check:status": 200,
+        "check:url": "https://opendata.ozwillo.com/dataset/d77a65b1-9da9-49c0-a0be-eb900c1cc400/resource/50241408-0f4a-400f-9ed0-2da435d02f8d/download/orgacttraktivitenace20080.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "50241408-0f4a-400f-9ed0-2da435d02f8d",
+      "last_modified": "2017-03-05T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/50241408-0f4a-400f-9ed0-2da435d02f8d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T20:32:51.573000",
+      "title": "Codes NAF turcs",
+      "url": "https://opendata.ozwillo.com/dataset/d77a65b1-9da9-49c0-a0be-eb900c1cc400/resource/50241408-0f4a-400f-9ed0-2da435d02f8d/download/orgacttraktivitenace20080.csv"
+    }
+  ],
+  "slug": "codes-naf-1",
+  "spatial": null,
+  "tags": [],
+  "temporal_coverage": null,
+  "title": "Codes NAF",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/codes-naf-1/"
+}

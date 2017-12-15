@@ -1,0 +1,104 @@
+{
+  "badges": [],
+  "created_at": "2017-07-05T01:37:09.296000",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es contient de nombreuses informations sur les grandes masses budg\u00e9taires de la Ville d'Issy-les-Moulineaux: r\u00e9sultats d'exercices, r\u00e9sultats ant\u00e9rieurs cumul\u00e9s, reports d'investissement, recettes, d\u00e9penses, capacit\u00e9s d'autofinancement, etc.",
+  "extras": {
+    "harvest:domain": "data.issy.com",
+    "harvest:last_update": "2017-11-27T05:05:32.634150",
+    "harvest:remote_id": "resultats-des-exercices-budgetaires-a-issy",
+    "harvest:source_id": "595c266188ee382c7517add5",
+    "ods:has_records": true,
+    "ods:url": "https://data.issy.com//explore/dataset/resultats-des-exercices-budgetaires-a-issy/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "595c26a5a3a7296407d69b24",
+  "last_modified": "2017-11-27T05:05:32.639000",
+  "last_update": "2017-11-27T05:05:32.633000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb7a3a7292c64a78145",
+    "logo": "https://www.data.gouv.fr/s/avatars/b9/beecacecbd4d42ac10ef244f11e44e-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b9/beecacecbd4d42ac10ef244f11e44e-100.png",
+    "name": "Ville d'Issy-les-Moulineaux",
+    "page": "https://www.data.gouv.fr/fr/organizations/ville-d-issy-les-moulineaux/",
+    "slug": "ville-d-issy-les-moulineaux",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ville-d-issy-les-moulineaux/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/resultats-des-exercices-budgetaires-a-issy-les-moulineaux/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:05:32.633000",
+      "description": "- *Exercices*: exercice[text]\n- *R\u00e9sultat de l'exercice*: resultat_exercice[double]\n- *R\u00e9sultat ant\u00e9rieur cumul\u00e9*: resultat_anterieur_cumule[double]\n- *Report d'investissement*: reports_investissement[double]\n- *R\u00e9sultat global net*: resultat_global_net[double]\n- *Recettes*: recettes[double]\n- *Recettes de fonctionnement*: recettes_fonctionnement[double]\n- *Recettes d'investissement*: recettes_investissement[double]\n- *D\u00e9penses*: depenses[double]\n- *D\u00e9penses de fonctionnement*: depenses_fonctionnement[double]\n- *D\u00e9penses d'investissement*: depenses_investissement[double]\n- *Capacit\u00e9 d'autofinancement*: capacite_autofinancement[double]\n- *Exc\u00e9dent Brut Courant (CAF hors int\u00e9r\u00eat de dette et pdt exceptionnels)*: excedent_brut_courant_caf_hors_interet_de_dette_et_pdt_exceptionnels[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "d3a3b4d0-7488-46be-850b-c9f3bf8b06db",
+      "last_modified": "2016-04-07T17:23:51",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d3a3b4d0-7488-46be-850b-c9f3bf8b06db",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:05:32.633000",
+      "title": "Export au format CSV",
+      "url": "https://data.issy.com//explore/dataset/resultats-des-exercices-budgetaires-a-issy/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:05:32.633000",
+      "description": "- *Exercices*: exercice[text]\n- *R\u00e9sultat de l'exercice*: resultat_exercice[double]\n- *R\u00e9sultat ant\u00e9rieur cumul\u00e9*: resultat_anterieur_cumule[double]\n- *Report d'investissement*: reports_investissement[double]\n- *R\u00e9sultat global net*: resultat_global_net[double]\n- *Recettes*: recettes[double]\n- *Recettes de fonctionnement*: recettes_fonctionnement[double]\n- *Recettes d'investissement*: recettes_investissement[double]\n- *D\u00e9penses*: depenses[double]\n- *D\u00e9penses de fonctionnement*: depenses_fonctionnement[double]\n- *D\u00e9penses d'investissement*: depenses_investissement[double]\n- *Capacit\u00e9 d'autofinancement*: capacite_autofinancement[double]\n- *Exc\u00e9dent Brut Courant (CAF hors int\u00e9r\u00eat de dette et pdt exceptionnels)*: excedent_brut_courant_caf_hors_interet_de_dette_et_pdt_exceptionnels[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "f21218b2-5bd7-49d3-a6ec-f9dcdac82c59",
+      "last_modified": "2016-04-07T17:23:51",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f21218b2-5bd7-49d3-a6ec-f9dcdac82c59",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:05:32.633000",
+      "title": "Export au format JSON",
+      "url": "https://data.issy.com//explore/dataset/resultats-des-exercices-budgetaires-a-issy/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "resultats-des-exercices-budgetaires-a-issy-les-moulineaux",
+  "spatial": null,
+  "tags": [
+    "administration",
+    "budget",
+    "citoyennete",
+    "finances-publiques",
+    "gouvernement",
+    "resultat-dexercice",
+    "resultat-global"
+  ],
+  "temporal_coverage": null,
+  "title": "R\u00e9sultats des exercices budg\u00e9taires \u00e0 Issy-les-Moulineaux",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/resultats-des-exercices-budgetaires-a-issy-les-moulineaux/"
+}

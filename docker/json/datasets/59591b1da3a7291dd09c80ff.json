@@ -1,0 +1,100 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T18:11:09.004000",
+  "deleted": null,
+  "description": "Il s\u2019agit de la pr\u00e9sentation des bourses par \u00e9chelon, par sexe et par type de formation. \n\nChaque extraction concerne une session (f\u00e9vrier ou septembre). Les extractions septembre N et f\u00e9vrier N+1 peuvent \u00eatre cumul\u00e9es pour repr\u00e9senter une ann\u00e9e scolaire ou civile. \n\nDeux secteurs de formation sont concern\u00e9s : le social (=1) et le sanitaire (=2).",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T06:08:59.489884",
+    "harvest:remote_id": "fss_-_repartition_des_bourses_par_echelon_et_par_sexe_fev_2010",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/fss_-_repartition_des_bourses_par_echelon_et_par_sexe_fev_2010/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59591b1da3a7291dd09c80ff",
+  "last_modified": "2017-11-27T06:08:59.491000",
+  "last_update": "2017-11-27T06:08:59.489000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/fss-repartition-des-bourses-par-echelon-et-par-sexe-fev-2010/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:08:59.489000",
+      "description": "- *Echelon Description*: echelon_description[text]\n- *Formation Type*: formation_type[int]\n- *Nombre Etudiants*: nombre_etudiants[int]\n- *Sexe Description*: sexe_description[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "cb027d5d-9d40-40cc-aad0-ed69807ba622",
+      "last_modified": "2013-06-04T21:04:22",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cb027d5d-9d40-40cc-aad0-ed69807ba622",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T06:08:59.489000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/fss_-_repartition_des_bourses_par_echelon_et_par_sexe_fev_2010/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:08:59.489000",
+      "description": "- *Echelon Description*: echelon_description[text]\n- *Formation Type*: formation_type[int]\n- *Nombre Etudiants*: nombre_etudiants[int]\n- *Sexe Description*: sexe_description[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "51a843fe-60b6-4e18-9512-d8d7e7a932fc",
+      "last_modified": "2013-06-04T21:04:22",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/51a843fe-60b6-4e18-9512-d8d7e7a932fc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T06:08:59.489000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/fss_-_repartition_des_bourses_par_echelon_et_par_sexe_fev_2010/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "fss-repartition-des-bourses-par-echelon-et-par-sexe-fev-2010",
+  "spatial": null,
+  "tags": [
+    "bourse-detudes",
+    "enseignement-formation-recherche",
+    "formations-sanitaires-et-sociales"
+  ],
+  "temporal_coverage": null,
+  "title": "FSS - r\u00e9partition des bourses par \u00e9chelon et par sexe (f\u00e9v. 2010)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/fss-repartition-des-bourses-par-echelon-et-par-sexe-fev-2010/"
+}

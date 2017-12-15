@@ -1,0 +1,167 @@
+{
+  "badges": [],
+  "created_at": "2014-08-05T00:00:00",
+  "deleted": null,
+  "description": "L'[ACTION](http://www.action-nogent.fr) publie ici les r\u00e9sultats du 1er et du 2\u00e8me tour des [\u00e9lections pr\u00e9sidentielles fran\u00e7aises de 2012](http://fr.wikipedia.org/wiki/%C3%89lections_pr%C3%A9sidentielles_fran%C3%A7aises_de_2012) sur la commune de [Nogent-sur-Marne](http://www.ville-nogentsurmarne.fr) par [bureau de vote](http://fr.wikipedia.org/wiki/Bureau_de_vote).",
+  "extras": {
+    "ckan:name": "elections-presidentielles-2012-resultats-par-bureau-de-vote-sur-la-commune-de-nogent-sur-marne",
+    "harvest:domain": "www.nosdonnees.fr",
+    "harvest:last_update": "2017-07-10T06:05:09.417027",
+    "harvest:remote_id": "a54bfb8e-eea8-4801-bde1-66fd2af1b79c",
+    "harvest:source_id": "5878ee1588ee385bffa6f719",
+    "remote_url": "http:www.ville-nogentsurmarne.fr"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5878ee45a3a7291484cac7ec",
+  "last_modified": "2017-07-10T06:05:09.418000",
+  "last_update": "2017-01-13T16:12:05.629000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff99a3a7292c64a78016",
+    "logo": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-100.png",
+    "name": "NosDonn\u00e9es.fr",
+    "page": "https://www.data.gouv.fr/fr/organizations/nosdonnees-fr/",
+    "slug": "nosdonnees-fr",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nosdonnees-fr/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/elections-presidentielles-2012-resultats-par-bureau-de-vote-sur-la-commune-de-nogent-sur-marne-1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:05.627000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T04:53:25.549000",
+        "check:status": 200,
+        "check:url": "http://www.nosdonnees.fr/dataset/a54bfb8e-eea8-4801-bde1-66fd2af1b79c/resource/acce24c7-b964-4bcb-9452-cb0a65c68440/download/electionspresidentielles20121ertour.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "acce24c7-b964-4bcb-9452-cb0a65c68440",
+      "last_modified": "2017-07-10T06:05:09.416000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/acce24c7-b964-4bcb-9452-cb0a65c68440",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:12:05.627000",
+      "title": "R\u00e9sultats du 1er tour des \u00e9lections pr\u00e9sidentielles 2012 \u00e0 Nogent-sur-Marne ",
+      "url": "http://www.nosdonnees.fr/dataset/a54bfb8e-eea8-4801-bde1-66fd2af1b79c/resource/acce24c7-b964-4bcb-9452-cb0a65c68440/download/electionspresidentielles20121ertour.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:05.628000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T04:53:31.107000",
+        "check:status": 200,
+        "check:url": "http://www.nosdonnees.fr/dataset/a54bfb8e-eea8-4801-bde1-66fd2af1b79c/resource/62a02422-ca02-4b00-b60f-ee049e90eff1/download/electionspresidentielles20121ertour.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "62a02422-ca02-4b00-b60f-ee049e90eff1",
+      "last_modified": "2017-07-10T06:05:09.416000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/62a02422-ca02-4b00-b60f-ee049e90eff1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:12:05.628000",
+      "title": "R\u00e9sultats du 1er tour des \u00e9lections pr\u00e9sidentielles 2012 \u00e0 Nogent-sur-Marne",
+      "url": "http://www.nosdonnees.fr/dataset/a54bfb8e-eea8-4801-bde1-66fd2af1b79c/resource/62a02422-ca02-4b00-b60f-ee049e90eff1/download/electionspresidentielles20121ertour.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:05.628000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T04:53:21.268000",
+        "check:status": 200,
+        "check:url": "http://www.nosdonnees.fr/dataset/a54bfb8e-eea8-4801-bde1-66fd2af1b79c/resource/12728b98-cb08-44b2-bd5b-54b093dabcb4/download/electionspresidentielles20122emetour.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "12728b98-cb08-44b2-bd5b-54b093dabcb4",
+      "last_modified": "2017-07-10T06:05:09.416000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/12728b98-cb08-44b2-bd5b-54b093dabcb4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:12:05.628000",
+      "title": "R\u00e9sultats du 2\u00e8me tour des \u00e9lections pr\u00e9sidentielles 2012 \u00e0 Nogent-sur-Marne",
+      "url": "http://www.nosdonnees.fr/dataset/a54bfb8e-eea8-4801-bde1-66fd2af1b79c/resource/12728b98-cb08-44b2-bd5b-54b093dabcb4/download/electionspresidentielles20122emetour.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:05.629000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T04:53:20.768000",
+        "check:status": 200,
+        "check:url": "http://www.nosdonnees.fr/dataset/a54bfb8e-eea8-4801-bde1-66fd2af1b79c/resource/faa9a369-c8ff-4d10-a209-b4e793a68041/download/electionspresidentielles20122emetour.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "faa9a369-c8ff-4d10-a209-b4e793a68041",
+      "last_modified": "2017-07-10T06:05:09.416000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/faa9a369-c8ff-4d10-a209-b4e793a68041",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:12:05.629000",
+      "title": "R\u00e9sultats du 2\u00e8me tour des \u00e9lections pr\u00e9sidentielles 2012 \u00e0 Nogent-sur-Marne",
+      "url": "http://www.nosdonnees.fr/dataset/a54bfb8e-eea8-4801-bde1-66fd2af1b79c/resource/faa9a369-c8ff-4d10-a209-b4e793a68041/download/electionspresidentielles20122emetour.csv"
+    }
+  ],
+  "slug": "elections-presidentielles-2012-resultats-par-bureau-de-vote-sur-la-commune-de-nogent-sur-marne-1",
+  "spatial": null,
+  "tags": [
+    "elections",
+    "elections-presidentielles",
+    "nogent-sur-marne",
+    "resultats",
+    "vote"
+  ],
+  "temporal_coverage": null,
+  "title": "Elections Pr\u00e9sidentielles 2012 - R\u00e9sultats par bureau de vote sur la commune de Nogent-sur-Marne",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/elections-presidentielles-2012-resultats-par-bureau-de-vote-sur-la-commune-de-nogent-sur-marne-1/"
+}

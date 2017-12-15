@@ -1,0 +1,113 @@
+{
+  "badges": [],
+  "created_at": "2017-01-05T03:24:49.533000",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es contient les subventions allou\u00e9es par la Commission europ\u00e9enne aux participants au PCRDT \u00e0 la date du 6 octobre 2014.\u00a0\n\nDonn\u00e9es compl\u00e9mentaires dans _Contrats sign\u00e9s du programme-cadre recherche et d\u00e9veloppement technologique (7\u00e8me PCRDT) de la Commission europ\u00e9enne_",
+  "extras": {
+    "harvest:domain": "data.enseignementsup-recherche.gouv.fr",
+    "harvest:last_update": "2017-11-27T04:00:05.019400",
+    "harvest:remote_id": "fr-esr-7eme_pcrdt-contrats-signes-et-participations",
+    "harvest:source_id": "586961d688ee3816ad3f4e5d",
+    "ods:has_records": true,
+    "ods:references": "Base E-Corda - FP7 projects and participants database (21 f\u00e9vrier 2014)",
+    "ods:url": "https://data.enseignementsup-recherche.gouv.fr//explore/dataset/fr-esr-7eme_pcrdt-contrats-signes-et-participations/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "586dae71a3a7290df6f4be9d",
+  "last_modified": "2017-11-27T04:00:05.022000",
+  "last_update": "2017-11-27T04:00:05.018000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "MESRI",
+    "class": "Organization",
+    "id": "534fff90a3a7292c64a77f45",
+    "logo": "https://www.data.gouv.fr/s/avatars/00/933e61180545a6a4c5afa4f6077183-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/00/933e61180545a6a4c5afa4f6077183-100.jpg",
+    "name": "Minist\u00e8re de l'Enseignement sup\u00e9rieur, de la Recherche et de l'Innovation",
+    "page": "https://www.data.gouv.fr/fr/organizations/enseignement-superieur-et-recherche/",
+    "slug": "enseignement-superieur-et-recherche",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/enseignement-superieur-et-recherche/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/participations-dans-les-contrats-signes-du-programme-cadre-recherche-et-developpement-technologique-7eme-pcrdt-de-la-commission-europeenne-1/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:00:05.018000",
+      "description": "- *APPEL*: appel[text]\n- *programme_code*: programme_code[text]\n- *programme*: programme[text]\n- *priorite_code*: priorite_code[text]\n- *priorite*: priorite[text]\n- *activite_code*: activite_code[text]\n- *activite*: activite[text]\n- *instrument_code_groupe*: instrument_code_groupe[text]\n- *instrument_groupe*: instrument_groupe[text]\n- *instrument_code*: instrument_code[text]\n- *instrument*: instrument[text]\n- *zone_pays_code*: zone_pays_code[text]\n- *zone_pays*: zone_pays[text]\n- *pays_code*: pays_code[text]\n- *pays*: pays[text]\n- *type_org_code*: type_org_code[text]\n- *type_organisme*: type_organisme[text]\n- *nb_participation*: nb_participation[int]\n- *nb_coordination*: nb_coordination[int]\n- *montant_contribution_\u20ac*: montant_contribution[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "4c8d48ae-6ced-4b71-a621-fc1944dd6b5c",
+      "last_modified": "2014-10-28T10:00:36",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4c8d48ae-6ced-4b71-a621-fc1944dd6b5c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T04:00:05.018000",
+      "title": "Export au format CSV",
+      "url": "https://data.enseignementsup-recherche.gouv.fr//explore/dataset/fr-esr-7eme_pcrdt-contrats-signes-et-participations/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:00:05.018000",
+      "description": "- *APPEL*: appel[text]\n- *programme_code*: programme_code[text]\n- *programme*: programme[text]\n- *priorite_code*: priorite_code[text]\n- *priorite*: priorite[text]\n- *activite_code*: activite_code[text]\n- *activite*: activite[text]\n- *instrument_code_groupe*: instrument_code_groupe[text]\n- *instrument_groupe*: instrument_groupe[text]\n- *instrument_code*: instrument_code[text]\n- *instrument*: instrument[text]\n- *zone_pays_code*: zone_pays_code[text]\n- *zone_pays*: zone_pays[text]\n- *pays_code*: pays_code[text]\n- *pays*: pays[text]\n- *type_org_code*: type_org_code[text]\n- *type_organisme*: type_organisme[text]\n- *nb_participation*: nb_participation[int]\n- *nb_coordination*: nb_coordination[int]\n- *montant_contribution_\u20ac*: montant_contribution[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "ba374917-d9c5-40b7-bc0a-f36717ade4c9",
+      "last_modified": "2014-10-28T10:00:36",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ba374917-d9c5-40b7-bc0a-f36717ade4c9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T04:00:05.018000",
+      "title": "Export au format JSON",
+      "url": "https://data.enseignementsup-recherche.gouv.fr//explore/dataset/fr-esr-7eme_pcrdt-contrats-signes-et-participations/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "participations-dans-les-contrats-signes-du-programme-cadre-recherche-et-developpement-technologique-7eme-pcrdt-de-la-commission-europeenne-1",
+  "spatial": null,
+  "tags": [
+    "cooperation",
+    "developpement",
+    "e-corda",
+    "education",
+    "enseignement",
+    "europe",
+    "financement-europeen",
+    "formation",
+    "fp7",
+    "pays",
+    "pcrdt",
+    "recherche",
+    "statistiques",
+    "ue"
+  ],
+  "temporal_coverage": null,
+  "title": "Participations dans les contrats sign\u00e9s du programme-cadre recherche et d\u00e9veloppement technologique (7\u00e8me PCRDT) de la Commission europ\u00e9enne",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/participations-dans-les-contrats-signes-du-programme-cadre-recherche-et-developpement-technologique-7eme-pcrdt-de-la-commission-europeenne-1/"
+}

@@ -1,0 +1,343 @@
+{
+  "badges": [],
+  "created_at": "2017-09-29T00:00:00",
+  "deleted": null,
+  "description": "Liste de producteurs du terroir (type de produits : Asperges, Bi\u00e8res, Biscottes, Blonde d'Aquitaine, Caviar, Ch\u00e2taigne, Cidre, Confiserie / chocolat, Confitures, Conserverie, Eau, Eau-de-vie de prune, \u00c9pice, Escargots, Floc de Gascogne, Foie gras, Fraise, Fromage, Fruits / l\u00e9gumes, Fruits de mer, Glaces, Huile, Hu\u00eetre, Jus de fruits, Melons, Noisettes, Noix, Pain, P\u00e2tisserie, Piment, Poisson, Pommes, Produit apicole, Produits c\u00e9r\u00e9aliers, Produits de canards gras, Produits laitiers, Pruneaux, Salaisons, Sp\u00e9cialit\u00e9s \u00e0 base de noisettes, Sp\u00e9cialit\u00e9s \u00e0 base de pruneaux, Spiritueux, Tabac, Tomates, Truffe, Viandes, Vins, Volailles) en Aquitaine, issue de la base de donn\u00e9es SIRTAQUI.\n\nCe fichier contient les informations de g\u00e9olocalisation et de contact, les informations sur l\u2019activit\u00e9, les marques et labels, les conditions d\u2019ouverture et de visites, les tarifs, les \u00e9quipements et les services propos\u00e9s.",
+  "extras": {
+    "ckan:name": "liste-des-producteurs-de-terroir-en-aquitaine",
+    "contact_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "contact_name": "CRTA",
+    "contact_uri": "https://datacat.datalocale.fr/414593",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
+    "guid": "https://datacat.datalocale.fr/415881",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-10-05T06:16:42.491214",
+    "harvest:remote_id": "3342912c-9f68-4670-a97c-3620ad8e4972",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "a211df5b-c33a-40fb-b0f3-d01b5c6154c5",
+    "issued": "2015-01-01T20:14:03+00:00",
+    "modified": "2016-07-18T09:21:07.186776+00:00",
+    "publisher_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "publisher_name": "agence SIRTAQUI",
+    "publisher_type": "\"Organisation \u00e0 but non lucratif\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414592",
+    "remote_url": "http://partenaires.tourisme-aquitaine.fr",
+    "theme": "[\"tourisme\"]",
+    "uri": "https://datacat.datalocale.fr/415881"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59cf1ae8b59508043ce9b870",
+  "last_modified": "2017-10-05T06:16:42.493000",
+  "last_update": "2017-10-02T07:50:49.148000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-producteurs-de-terroir-en-aquitaine-2/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:17:44.362000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-11-24T01:16:54.618000",
+        "check:status": 501,
+        "check:url": "http://wcf.tourinsoft.com/Syndication/aquitaine/74750ccd-4859-413e-9f16-0ab696f34c60/Objects?$format=json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "2e670642-1f50-49bd-9b4c-8f9e56c56e79",
+      "last_modified": "2017-10-01T06:07:37.796000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2e670642-1f50-49bd-9b4c-8f9e56c56e79",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-09-30T06:17:44.362000",
+      "title": "consommation des donn\u00e9es temps r\u00e9el",
+      "url": "http://wcf.tourinsoft.com/Syndication/aquitaine/74750ccd-4859-413e-9f16-0ab696f34c60/Objects?$format=json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:17:44.363000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T03:45:19.888000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415885/raw/liste-producteurs-terroir-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "8a1e6927-f1e4-4265-9900-118cf8c29874",
+      "last_modified": "2017-10-01T06:07:37.796000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8a1e6927-f1e4-4265-9900-118cf8c29874",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-30T06:17:44.363000",
+      "title": "export en csv (utf-8) des producteurs de terroir r\u00e9f\u00e9renc\u00e9s dans la base de donn\u00e9es de SIRTAQUI. Les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es dans la projection WGS84 ",
+      "url": "https://datacat.datalocale.fr/file/415885/raw/liste-producteurs-terroir-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:17:44.364000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T08:50:25.633000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414600/raw/sp%C3%A9cifications%20du%20jeu%20de%20donn%C3%A9es"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "664ce154-fe22-4cac-b48c-44e7c680a3c3",
+      "last_modified": "2017-10-01T06:07:37.796000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/664ce154-fe22-4cac-b48c-44e7c680a3c3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-30T06:17:44.364000",
+      "title": "sp\u00e9cifications du jeu de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414600/raw/sp%C3%A9cifications%20du%20jeu%20de%20donn%C3%A9es"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:17:44.364000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T15:27:30.919000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1810412/raw/liste-csv-producteurs-terroir-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a1ac5ec2-2e47-4e22-8a37-8616f3d7d487",
+      "last_modified": "2017-10-01T06:07:37.797000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a1ac5ec2-2e47-4e22-8a37-8616f3d7d487",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-30T06:17:44.364000",
+      "title": "liste-csv-producteurs-terroir-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1810412/raw/liste-csv-producteurs-terroir-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:17:44.364000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-27T07:11:49.327000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415883/raw/liste-xml-producteurs-terroir-aquitaine.xml"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "8890d4d3-c46e-4ee2-ab37-8b9ed9dd112c",
+      "last_modified": "2017-10-01T06:07:37.797000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8890d4d3-c46e-4ee2-ab37-8b9ed9dd112c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/xml",
+      "published": "2017-09-30T06:17:44.364000",
+      "title": "export en xml (tourinfo) des producteurs de terroir r\u00e9f\u00e9renc\u00e9s dans la base de donn\u00e9es de SIRTAQUI. Les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es dans la projection WGS84 ",
+      "url": "https://datacat.datalocale.fr/file/415883/raw/liste-xml-producteurs-terroir-aquitaine.xml"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-02T07:50:49.146000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T08:50:25.633000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414600/raw/sp%C3%A9cifications%20du%20jeu%20de%20donn%C3%A9es"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "191ad2c2-653e-48b8-b5a6-457a5f0bb3ad",
+      "last_modified": "2017-10-05T06:16:42.489000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/191ad2c2-653e-48b8-b5a6-457a5f0bb3ad",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-02T07:50:49.146000",
+      "title": "sp\u00e9cifications du jeu de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414600/raw/sp%C3%A9cifications%20du%20jeu%20de%20donn%C3%A9es"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-02T07:50:49.146000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-11-02T02:45:54.077000",
+        "check:status": 501,
+        "check:url": "http://wcf.tourinsoft.com/Syndication/aquitaine/74750ccd-4859-413e-9f16-0ab696f34c60/Objects?$format=json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "cab4353b-81ba-4a01-8448-c69406c57c2e",
+      "last_modified": "2017-10-05T06:16:42.489000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cab4353b-81ba-4a01-8448-c69406c57c2e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-10-02T07:50:49.146000",
+      "title": "consommation des donn\u00e9es temps r\u00e9el",
+      "url": "http://wcf.tourinsoft.com/Syndication/aquitaine/74750ccd-4859-413e-9f16-0ab696f34c60/Objects?$format=json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-02T07:50:49.147000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-02T02:45:51.002000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415885/raw/liste-producteurs-terroir-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ad900ffd-e31a-42ca-886d-c7a531b89ea8",
+      "last_modified": "2017-10-05T06:16:42.489000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ad900ffd-e31a-42ca-886d-c7a531b89ea8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-02T07:50:49.147000",
+      "title": "export en csv (utf-8) des producteurs de terroir r\u00e9f\u00e9renc\u00e9s dans la base de donn\u00e9es de SIRTAQUI. Les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es dans la projection WGS84 ",
+      "url": "https://datacat.datalocale.fr/file/415885/raw/liste-producteurs-terroir-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-02T07:50:49.147000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-17T23:00:55.957000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1823524/raw/liste-csv-producteurs-terroir-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "97c4dc4a-581b-4b57-9e1c-e60cfd18332a",
+      "last_modified": "2017-10-05T06:16:42.490000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/97c4dc4a-581b-4b57-9e1c-e60cfd18332a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-02T07:50:49.148000",
+      "title": "liste-csv-producteurs-terroir-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1823524/raw/liste-csv-producteurs-terroir-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-02T07:50:49.148000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-02T02:45:50.474000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415883/raw/liste-xml-producteurs-terroir-aquitaine.xml"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "ce8c1081-fd3e-478a-a083-7213ea06b2b4",
+      "last_modified": "2017-10-05T06:16:42.490000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ce8c1081-fd3e-478a-a083-7213ea06b2b4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/xml",
+      "published": "2017-10-02T07:50:49.148000",
+      "title": "export en xml (tourinfo) des producteurs de terroir r\u00e9f\u00e9renc\u00e9s dans la base de donn\u00e9es de SIRTAQUI. Les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es dans la projection WGS84 ",
+      "url": "https://datacat.datalocale.fr/file/415883/raw/liste-xml-producteurs-terroir-aquitaine.xml"
+    }
+  ],
+  "slug": "liste-des-producteurs-de-terroir-en-aquitaine-2",
+  "spatial": null,
+  "tags": [
+    "degustation",
+    "locavore",
+    "producteur",
+    "produit",
+    "terroir",
+    "tourisme"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des producteurs de terroir en Aquitaine",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-producteurs-de-terroir-en-aquitaine-2/"
+}

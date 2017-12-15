@@ -1,0 +1,32 @@
+{
+  "acronym": null,
+  "badges": [],
+  "created_at": "2016-06-22T22:49:52.009000",
+  "deleted": null,
+  "description": "The open API for building cool stuff with transport data",
+  "id": "576af9f088ee382315ab6512",
+  "last_modified": "2017-11-24T23:56:43.129000",
+  "logo": "https://www.data.gouv.fr/s/avatars/76/51e50e49924344876db939b11ff701-original.png",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/76/51e50e49924344876db939b11ff701-100.png",
+  "members": [],
+  "metrics": {
+    "badges": 0,
+    "dataset_views": 17,
+    "datasets": 40,
+    "followers": 2,
+    "members": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 0,
+    "resource_downloads": 9,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 41
+  },
+  "name": "Navitia",
+  "page": "https://www.data.gouv.fr/fr/organizations/navitia/",
+  "slug": "navitia",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/navitia/",
+  "url": "http://www.navitia.io/"
+}

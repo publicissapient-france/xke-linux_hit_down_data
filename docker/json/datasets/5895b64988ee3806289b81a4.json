@@ -1,0 +1,99 @@
+{
+  "badges": [],
+  "created_at": "2017-02-04T12:08:57.859000",
+  "deleted": null,
+  "description": "Donn\u00e9es pr\u00e9lev\u00e9es lors de l'exp\u00e9dition du bateau \u00abJulo\u00bb en mai 2015.",
+  "extras": {},
+  "frequency": "punctual",
+  "frequency_date": null,
+  "id": "5895b64988ee3806289b81a4",
+  "last_modified": "2017-02-04T12:59:31.454000",
+  "last_update": "2017-02-04T12:58:39.910000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 1,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "AE",
+    "class": "Organization",
+    "id": "5895b38988ee3805179b81a4",
+    "logo": "https://www.data.gouv.fr/s/avatars/a1/ab9ed3f2454484bc469e52969a2f52-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/a1/ab9ed3f2454484bc469e52969a2f52-100.png",
+    "name": "Astrolabe Exp\u00e9ditions",
+    "page": "https://www.data.gouv.fr/fr/organizations/astrolabe-expeditions/",
+    "slug": "astrolabe-expeditions",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/astrolabe-expeditions/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/expedition-julo/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "ff7abd3a543c136cb6e8954c084dd747c28b719c"
+      },
+      "created_at": "2017-02-04T12:58:39.909000",
+      "description": "Magnitude de fond de ciel.\nMesures prises durant l'exp\u00e9dition Julo en mai 2015.",
+      "extras": {},
+      "filesize": 805,
+      "filetype": "file",
+      "format": "csv",
+      "id": "61603f3f-f524-401b-8109-748ed1b7eae2",
+      "last_modified": "2017-02-04T12:59:31.454000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/61603f3f-f524-401b-8109-748ed1b7eae2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-02-04T12:58:39.910000",
+      "title": "Mesures de pollution lumineuse",
+      "url": "https://www.data.gouv.fr/s/resources/expedition-julo/20170204-125839/julo_pollution_lumineuse.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "78710960ae46dae070d15c82b9c7f475767f8699"
+      },
+      "created_at": "2017-02-04T12:10:16.791000",
+      "description": "Positions des pr\u00e9l\u00e8vements de plancton effectu\u00e9es lors de la mission Julo.",
+      "extras": {},
+      "filesize": 8085,
+      "filetype": "file",
+      "format": "json",
+      "id": "9b6dc58c-0305-4b62-bc09-f9f12dec4ad9",
+      "last_modified": "2017-02-04T12:16:42.703000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9b6dc58c-0305-4b62-bc09-f9f12dec4ad9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-02-04T12:10:16.791000",
+      "title": "Pr\u00e9l\u00e8vements de plancton",
+      "url": "https://www.data.gouv.fr/s/resources/prelevements-de-plancton-de-lexpedition-julo/20170204-121016/julo_plancton.json"
+    }
+  ],
+  "slug": "expedition-julo",
+  "spatial": null,
+  "tags": [
+    "oceanographie",
+    "plancton"
+  ],
+  "temporal_coverage": null,
+  "title": "Exp\u00e9dition Julo",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/expedition-julo/"
+}

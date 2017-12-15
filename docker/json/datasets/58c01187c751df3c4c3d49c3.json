@@ -1,0 +1,84 @@
+{
+  "badges": [],
+  "created_at": "2017-03-08T15:13:27.777000",
+  "deleted": null,
+  "description": "Meudon ouvre ses comptes administratifs depuis 2012. Chaque tableau d\u00e9taille les informations g\u00e9n\u00e9rales, la pr\u00e9sentation g\u00e9n\u00e9rale du budget, le vote du budget et les annexes, pour les diff\u00e9rents budgets de la ville. Tous les tableaux de l'exercice 2013 sont ouverts sous forme de tableau CSV. Ce premier tableur est le sommaire du budget annexe 05 H\u00f4tel d'activit\u00e9s artisanales du potager du dauphin. Les chiffres sont donn\u00e9s par rapport \u00e0 la population meudonnaise et par rapport \u00e0 la moyenne nationale.",
+  "extras": {},
+  "frequency": "punctual",
+  "frequency_date": null,
+  "id": "58c01187c751df3c4c3d49c3",
+  "last_modified": "2017-03-08T15:14:36.610000",
+  "last_update": "2017-03-08T15:14:34.843000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "54d89442c751df1245467389",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-02-09/c8e02b8db0004b17b0aa311404798324/logo_meudon_couleur_HD-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-02-09/c8e02b8db0004b17b0aa311404798324/logo_meudon_couleur_HD-100.jpg",
+    "name": "Ville de Meudon",
+    "page": "https://www.data.gouv.fr/fr/organizations/ville-de-meudon/",
+    "slug": "ville-de-meudon",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ville-de-meudon/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/compte-administratif-2013-sommaire-budget-annexe-05-hotel-dactivites-artisanales-du-potager-du-dauphin/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "ecbb13c9ff04b575bc08aa763b4f28ab0b1feef7"
+      },
+      "created_at": "2017-03-08T15:14:34.843000",
+      "description": "Meudon ouvre ses comptes administratifs depuis 2012. Chaque tableau d\u00e9taille les informations g\u00e9n\u00e9rales, la pr\u00e9sentation g\u00e9n\u00e9rale du budget, le vote du budget et les annexes, pour les diff\u00e9rents budgets de la ville. Tous les tableaux de l'exercice 2013 sont ouverts sous forme de tableau CSV. Ce premier tableur est le sommaire du budget annexe 05 h\u00f4tel d'activit\u00e9s artisanales du potager du dauphin. Les chiffres sont donn\u00e9s par rapport \u00e0 la population meudonnaise et par rapport \u00e0 la moyenne nationale.",
+      "extras": {},
+      "filesize": 6017,
+      "filetype": "file",
+      "format": "csv",
+      "id": "431bc66b-7eb4-4bb1-b8ed-1bfc1df63cb5",
+      "last_modified": "2017-03-08T15:14:36.610000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/431bc66b-7eb4-4bb1-b8ed-1bfc1df63cb5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-03-08T15:14:34.843000",
+      "title": "Compte administratif 2013 - sommaire budget annexe 05 - Hotel d'activit\u00e9s artisanales du potager du dauphin.",
+      "url": "https://www.data.gouv.fr/s/resources/compte-administratif-2013-sommaire-budget-annexe-05-hotel-dactivites-artisanales-du-potager-du-dauphin/20170308-151434/Onglet_5_CA2013_hotel_activites_artisanales_potager_dauphin.csv"
+    }
+  ],
+  "slug": "compte-administratif-2013-sommaire-budget-annexe-05-hotel-dactivites-artisanales-du-potager-du-dauphin",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:commune",
+    "zones": [
+      "fr:commune:92048@1968-01-01"
+    ]
+  },
+  "tags": [
+    "artisanat",
+    "budget",
+    "budget-2013",
+    "budget-annexe",
+    "commune",
+    "compte-administratif"
+  ],
+  "temporal_coverage": null,
+  "title": "Compte administratif 2013 - sommaire budget annexe 05 - Hotel d'activit\u00e9s artisanales du potager du dauphin.",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/compte-administratif-2013-sommaire-budget-annexe-05-hotel-dactivites-artisanales-du-potager-du-dauphin/"
+}

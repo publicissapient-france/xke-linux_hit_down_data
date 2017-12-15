@@ -1,0 +1,147 @@
+{
+  "badges": [],
+  "created_at": "2017-10-14T09:37:59.346000",
+  "deleted": null,
+  "description": "Donn\u00e9es du recensement de la population 2013 \u00e0 l'\u00e9chelle des grands quartiers sur le th\u00e8me Population.\n\nPour information le mod\u00e8le de donn\u00e9es est d\u00e9crit dans la pi\u00e8ce jointe.",
+  "extras": {
+    "harvest:domain": "data.toulouse-metropole.fr",
+    "harvest:last_update": "2017-11-27T05:17:14.975126",
+    "harvest:remote_id": "recensement-population-2013-grands-quartiers-population-toulouse",
+    "harvest:source_id": "564c3680c751df607daad370",
+    "ods:has_records": true,
+    "ods:references": "https://www.insee.fr/fr/statistiques/2386737#documentation",
+    "ods:url": "https://data.toulouse-metropole.fr//explore/dataset/recensement-population-2013-grands-quartiers-population-toulouse/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59e1bed7a3a7297d20b5fb84",
+  "last_modified": "2017-11-27T05:17:14.978000",
+  "last_update": "2017-11-27T05:17:14.973000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb3a3a7292c64a78129",
+    "logo": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-100.jpg",
+    "name": "Toulouse m\u00e9trople",
+    "page": "https://www.data.gouv.fr/fr/organizations/toulouse-metrople/",
+    "slug": "toulouse-metrople",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/toulouse-metrople/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/recensement-population-2013-grands-quartiers-population/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:17:14.971000",
+      "description": "- *Geo Point*: geo_point[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *GRD_QUART*: grd_quart[text]\n- *Libell\u00e9 des grands quartiers*: libelle_des_grands_quartiers[text]\n- *REG2016*: reg2016[text]\n- *DEP*: dep[text]\n- *UU2010*: uu2010[text]\n- *CODE_INSEE*: code_insee[text]\n- *C13_MEN*: c13_men[double]\n- *C13_MENPSEUL*: c13_menpseul[double]\n- *C13_MENHSEUL*: c13_menhseul[double]\n- *C13_MENFSEUL*: c13_menfseul[double]\n- *C13_MENSFAM*: c13_mensfam[double]\n- *C13_MENFAM*: c13_menfam[double]\n- *C13_MENCOUPSENF*: c13_mencoupsenf[double]\n- *C13_MENCOUPAENF*: c13_mencoupaenf[double]\n- *C13_MENFAMMONO*: c13_menfammono[double]\n- *C13_PMEN*: c13_pmen[double]\n- *C13_PMEN_MENPSEUL*: c13_pmen_menpseul[double]\n- *C13_PMEN_MENHSEUL*: c13_pmen_menhseul[double]\n- *C13_PMEN_MENFSEUL*: c13_pmen_menfseul[double]\n- *C13_PMEN_MENSFAM*: c13_pmen_mensfam[double]\n- *C13_PMEN_MENFAM*: c13_pmen_menfam[double]\n- *C13_PMEN_MENCOUPSENF*: c13_pmen_mencoupsenf[double]\n- *C13_PMEN_MENCOUPAENF*: c13_pmen_mencoupaenf[double]\n- *C13_PMEN_MENFAMMONO*: c13_pmen_menfammono[double]\n- *P13_POP15P*: p13_pop15p[double]\n- *P13_POP1524*: p13_pop1524[double]\n- *P13_POP2554*: p13_pop2554[double]\n- *P13_POP5579*: p13_pop5579[double]\n- *P13_POP80P*: p13_pop80p[double]\n- *P13_POPMEN15P*: p13_popmen15p[double]\n- *P13_POPMEN1524*: p13_popmen1524[double]\n- *P13_POPMEN2554*: p13_popmen2554[double]\n- *P13_POPMEN5579*: p13_popmen5579[double]\n- *P13_POPMEN80P*: p13_popmen80p[double]\n- *P13_POP15P_PSEUL*: p13_pop15p_pseul[double]\n- *P13_POP1524_PSEUL*: p13_pop1524_pseul[double]\n- *P13_POP2554_PSEUL*: p13_pop2554_pseul[double]\n- *P13_POP5579_PSEUL*: p13_pop5579_pseul[double]\n- *P13_POP80P_PSEUL*: p13_pop80p_pseul[double]\n- *P13_POP15P_MARIEE*: p13_pop15p_mariee[double]\n- *P13_POP15P_NONMARIEE*: p13_pop15p_nonmariee[double]\n- *C13_MEN_CS1*: c13_men_cs1[double]\n- *C13_MEN_CS2*: c13_men_cs2[double]\n- *C13_MEN_CS3*: c13_men_cs3[double]\n- *C13_MEN_CS4*: c13_men_cs4[double]\n- *C13_MEN_CS5*: c13_men_cs5[double]\n- *C13_MEN_CS6*: c13_men_cs6[double]\n- *C13_MEN_CS7*: c13_men_cs7[double]\n- *C13_MEN_CS8*: c13_men_cs8[double]\n- *C13_PMEN_CS1*: c13_pmen_cs1[double]\n- *C13_PMEN_CS2*: c13_pmen_cs2[double]\n- *C13_PMEN_CS3*: c13_pmen_cs3[double]\n- *C13_PMEN_CS4*: c13_pmen_cs4[double]\n- *C13_PMEN_CS5*: c13_pmen_cs5[double]\n- *C13_PMEN_CS6*: c13_pmen_cs6[double]\n- *C13_PMEN_CS7*: c13_pmen_cs7[double]\n- *C13_PMEN_CS8*: c13_pmen_cs8[double]\n- *C13_FAM*: c13_fam[double]\n- *C13_COUPAENF*: c13_coupaenf[double]\n- *C13_FAMMONO*: c13_fammono[double]\n- *C13_COUPSENF*: c13_coupsenf[double]\n- *C13_NE24F0*: c13_ne24f0[double]\n- *C13_NE24F1*: c13_ne24f1[double]\n- *C13_NE24F2*: c13_ne24f2[double]\n- *C13_NE24F3*: c13_ne24f3[double]\n- *C13_NE24F4P*: c13_ne24f4p[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c63a1ea6-2438-41b1-bd44-b141f1994546",
+      "last_modified": "2017-10-12T13:12:30",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c63a1ea6-2438-41b1-bd44-b141f1994546",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:17:14.971000",
+      "title": "Export au format CSV",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/recensement-population-2013-grands-quartiers-population-toulouse/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:17:14.972000",
+      "description": "- *Geo Point*: geo_point[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *GRD_QUART*: grd_quart[text]\n- *Libell\u00e9 des grands quartiers*: libelle_des_grands_quartiers[text]\n- *REG2016*: reg2016[text]\n- *DEP*: dep[text]\n- *UU2010*: uu2010[text]\n- *CODE_INSEE*: code_insee[text]\n- *C13_MEN*: c13_men[double]\n- *C13_MENPSEUL*: c13_menpseul[double]\n- *C13_MENHSEUL*: c13_menhseul[double]\n- *C13_MENFSEUL*: c13_menfseul[double]\n- *C13_MENSFAM*: c13_mensfam[double]\n- *C13_MENFAM*: c13_menfam[double]\n- *C13_MENCOUPSENF*: c13_mencoupsenf[double]\n- *C13_MENCOUPAENF*: c13_mencoupaenf[double]\n- *C13_MENFAMMONO*: c13_menfammono[double]\n- *C13_PMEN*: c13_pmen[double]\n- *C13_PMEN_MENPSEUL*: c13_pmen_menpseul[double]\n- *C13_PMEN_MENHSEUL*: c13_pmen_menhseul[double]\n- *C13_PMEN_MENFSEUL*: c13_pmen_menfseul[double]\n- *C13_PMEN_MENSFAM*: c13_pmen_mensfam[double]\n- *C13_PMEN_MENFAM*: c13_pmen_menfam[double]\n- *C13_PMEN_MENCOUPSENF*: c13_pmen_mencoupsenf[double]\n- *C13_PMEN_MENCOUPAENF*: c13_pmen_mencoupaenf[double]\n- *C13_PMEN_MENFAMMONO*: c13_pmen_menfammono[double]\n- *P13_POP15P*: p13_pop15p[double]\n- *P13_POP1524*: p13_pop1524[double]\n- *P13_POP2554*: p13_pop2554[double]\n- *P13_POP5579*: p13_pop5579[double]\n- *P13_POP80P*: p13_pop80p[double]\n- *P13_POPMEN15P*: p13_popmen15p[double]\n- *P13_POPMEN1524*: p13_popmen1524[double]\n- *P13_POPMEN2554*: p13_popmen2554[double]\n- *P13_POPMEN5579*: p13_popmen5579[double]\n- *P13_POPMEN80P*: p13_popmen80p[double]\n- *P13_POP15P_PSEUL*: p13_pop15p_pseul[double]\n- *P13_POP1524_PSEUL*: p13_pop1524_pseul[double]\n- *P13_POP2554_PSEUL*: p13_pop2554_pseul[double]\n- *P13_POP5579_PSEUL*: p13_pop5579_pseul[double]\n- *P13_POP80P_PSEUL*: p13_pop80p_pseul[double]\n- *P13_POP15P_MARIEE*: p13_pop15p_mariee[double]\n- *P13_POP15P_NONMARIEE*: p13_pop15p_nonmariee[double]\n- *C13_MEN_CS1*: c13_men_cs1[double]\n- *C13_MEN_CS2*: c13_men_cs2[double]\n- *C13_MEN_CS3*: c13_men_cs3[double]\n- *C13_MEN_CS4*: c13_men_cs4[double]\n- *C13_MEN_CS5*: c13_men_cs5[double]\n- *C13_MEN_CS6*: c13_men_cs6[double]\n- *C13_MEN_CS7*: c13_men_cs7[double]\n- *C13_MEN_CS8*: c13_men_cs8[double]\n- *C13_PMEN_CS1*: c13_pmen_cs1[double]\n- *C13_PMEN_CS2*: c13_pmen_cs2[double]\n- *C13_PMEN_CS3*: c13_pmen_cs3[double]\n- *C13_PMEN_CS4*: c13_pmen_cs4[double]\n- *C13_PMEN_CS5*: c13_pmen_cs5[double]\n- *C13_PMEN_CS6*: c13_pmen_cs6[double]\n- *C13_PMEN_CS7*: c13_pmen_cs7[double]\n- *C13_PMEN_CS8*: c13_pmen_cs8[double]\n- *C13_FAM*: c13_fam[double]\n- *C13_COUPAENF*: c13_coupaenf[double]\n- *C13_FAMMONO*: c13_fammono[double]\n- *C13_COUPSENF*: c13_coupsenf[double]\n- *C13_NE24F0*: c13_ne24f0[double]\n- *C13_NE24F1*: c13_ne24f1[double]\n- *C13_NE24F2*: c13_ne24f2[double]\n- *C13_NE24F3*: c13_ne24f3[double]\n- *C13_NE24F4P*: c13_ne24f4p[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "551025bc-41d7-4c7d-bd30-31245920c568",
+      "last_modified": "2017-10-12T13:12:30",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/551025bc-41d7-4c7d-bd30-31245920c568",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:17:14.972000",
+      "title": "Export au format JSON",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/recensement-population-2013-grands-quartiers-population-toulouse/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:17:14.973000",
+      "description": "- *Geo Point*: geo_point[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *GRD_QUART*: grd_quart[text]\n- *Libell\u00e9 des grands quartiers*: libelle_des_grands_quartiers[text]\n- *REG2016*: reg2016[text]\n- *DEP*: dep[text]\n- *UU2010*: uu2010[text]\n- *CODE_INSEE*: code_insee[text]\n- *C13_MEN*: c13_men[double]\n- *C13_MENPSEUL*: c13_menpseul[double]\n- *C13_MENHSEUL*: c13_menhseul[double]\n- *C13_MENFSEUL*: c13_menfseul[double]\n- *C13_MENSFAM*: c13_mensfam[double]\n- *C13_MENFAM*: c13_menfam[double]\n- *C13_MENCOUPSENF*: c13_mencoupsenf[double]\n- *C13_MENCOUPAENF*: c13_mencoupaenf[double]\n- *C13_MENFAMMONO*: c13_menfammono[double]\n- *C13_PMEN*: c13_pmen[double]\n- *C13_PMEN_MENPSEUL*: c13_pmen_menpseul[double]\n- *C13_PMEN_MENHSEUL*: c13_pmen_menhseul[double]\n- *C13_PMEN_MENFSEUL*: c13_pmen_menfseul[double]\n- *C13_PMEN_MENSFAM*: c13_pmen_mensfam[double]\n- *C13_PMEN_MENFAM*: c13_pmen_menfam[double]\n- *C13_PMEN_MENCOUPSENF*: c13_pmen_mencoupsenf[double]\n- *C13_PMEN_MENCOUPAENF*: c13_pmen_mencoupaenf[double]\n- *C13_PMEN_MENFAMMONO*: c13_pmen_menfammono[double]\n- *P13_POP15P*: p13_pop15p[double]\n- *P13_POP1524*: p13_pop1524[double]\n- *P13_POP2554*: p13_pop2554[double]\n- *P13_POP5579*: p13_pop5579[double]\n- *P13_POP80P*: p13_pop80p[double]\n- *P13_POPMEN15P*: p13_popmen15p[double]\n- *P13_POPMEN1524*: p13_popmen1524[double]\n- *P13_POPMEN2554*: p13_popmen2554[double]\n- *P13_POPMEN5579*: p13_popmen5579[double]\n- *P13_POPMEN80P*: p13_popmen80p[double]\n- *P13_POP15P_PSEUL*: p13_pop15p_pseul[double]\n- *P13_POP1524_PSEUL*: p13_pop1524_pseul[double]\n- *P13_POP2554_PSEUL*: p13_pop2554_pseul[double]\n- *P13_POP5579_PSEUL*: p13_pop5579_pseul[double]\n- *P13_POP80P_PSEUL*: p13_pop80p_pseul[double]\n- *P13_POP15P_MARIEE*: p13_pop15p_mariee[double]\n- *P13_POP15P_NONMARIEE*: p13_pop15p_nonmariee[double]\n- *C13_MEN_CS1*: c13_men_cs1[double]\n- *C13_MEN_CS2*: c13_men_cs2[double]\n- *C13_MEN_CS3*: c13_men_cs3[double]\n- *C13_MEN_CS4*: c13_men_cs4[double]\n- *C13_MEN_CS5*: c13_men_cs5[double]\n- *C13_MEN_CS6*: c13_men_cs6[double]\n- *C13_MEN_CS7*: c13_men_cs7[double]\n- *C13_MEN_CS8*: c13_men_cs8[double]\n- *C13_PMEN_CS1*: c13_pmen_cs1[double]\n- *C13_PMEN_CS2*: c13_pmen_cs2[double]\n- *C13_PMEN_CS3*: c13_pmen_cs3[double]\n- *C13_PMEN_CS4*: c13_pmen_cs4[double]\n- *C13_PMEN_CS5*: c13_pmen_cs5[double]\n- *C13_PMEN_CS6*: c13_pmen_cs6[double]\n- *C13_PMEN_CS7*: c13_pmen_cs7[double]\n- *C13_PMEN_CS8*: c13_pmen_cs8[double]\n- *C13_FAM*: c13_fam[double]\n- *C13_COUPAENF*: c13_coupaenf[double]\n- *C13_FAMMONO*: c13_fammono[double]\n- *C13_COUPSENF*: c13_coupsenf[double]\n- *C13_NE24F0*: c13_ne24f0[double]\n- *C13_NE24F1*: c13_ne24f1[double]\n- *C13_NE24F2*: c13_ne24f2[double]\n- *C13_NE24F3*: c13_ne24f3[double]\n- *C13_NE24F4P*: c13_ne24f4p[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "058aeff3-dab7-404b-846a-7e035fa514c6",
+      "last_modified": "2017-10-12T13:12:30",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/058aeff3-dab7-404b-846a-7e035fa514c6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:17:14.973000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/recensement-population-2013-grands-quartiers-population-toulouse/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:17:14.973000",
+      "description": "- *Geo Point*: geo_point[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *GRD_QUART*: grd_quart[text]\n- *Libell\u00e9 des grands quartiers*: libelle_des_grands_quartiers[text]\n- *REG2016*: reg2016[text]\n- *DEP*: dep[text]\n- *UU2010*: uu2010[text]\n- *CODE_INSEE*: code_insee[text]\n- *C13_MEN*: c13_men[double]\n- *C13_MENPSEUL*: c13_menpseul[double]\n- *C13_MENHSEUL*: c13_menhseul[double]\n- *C13_MENFSEUL*: c13_menfseul[double]\n- *C13_MENSFAM*: c13_mensfam[double]\n- *C13_MENFAM*: c13_menfam[double]\n- *C13_MENCOUPSENF*: c13_mencoupsenf[double]\n- *C13_MENCOUPAENF*: c13_mencoupaenf[double]\n- *C13_MENFAMMONO*: c13_menfammono[double]\n- *C13_PMEN*: c13_pmen[double]\n- *C13_PMEN_MENPSEUL*: c13_pmen_menpseul[double]\n- *C13_PMEN_MENHSEUL*: c13_pmen_menhseul[double]\n- *C13_PMEN_MENFSEUL*: c13_pmen_menfseul[double]\n- *C13_PMEN_MENSFAM*: c13_pmen_mensfam[double]\n- *C13_PMEN_MENFAM*: c13_pmen_menfam[double]\n- *C13_PMEN_MENCOUPSENF*: c13_pmen_mencoupsenf[double]\n- *C13_PMEN_MENCOUPAENF*: c13_pmen_mencoupaenf[double]\n- *C13_PMEN_MENFAMMONO*: c13_pmen_menfammono[double]\n- *P13_POP15P*: p13_pop15p[double]\n- *P13_POP1524*: p13_pop1524[double]\n- *P13_POP2554*: p13_pop2554[double]\n- *P13_POP5579*: p13_pop5579[double]\n- *P13_POP80P*: p13_pop80p[double]\n- *P13_POPMEN15P*: p13_popmen15p[double]\n- *P13_POPMEN1524*: p13_popmen1524[double]\n- *P13_POPMEN2554*: p13_popmen2554[double]\n- *P13_POPMEN5579*: p13_popmen5579[double]\n- *P13_POPMEN80P*: p13_popmen80p[double]\n- *P13_POP15P_PSEUL*: p13_pop15p_pseul[double]\n- *P13_POP1524_PSEUL*: p13_pop1524_pseul[double]\n- *P13_POP2554_PSEUL*: p13_pop2554_pseul[double]\n- *P13_POP5579_PSEUL*: p13_pop5579_pseul[double]\n- *P13_POP80P_PSEUL*: p13_pop80p_pseul[double]\n- *P13_POP15P_MARIEE*: p13_pop15p_mariee[double]\n- *P13_POP15P_NONMARIEE*: p13_pop15p_nonmariee[double]\n- *C13_MEN_CS1*: c13_men_cs1[double]\n- *C13_MEN_CS2*: c13_men_cs2[double]\n- *C13_MEN_CS3*: c13_men_cs3[double]\n- *C13_MEN_CS4*: c13_men_cs4[double]\n- *C13_MEN_CS5*: c13_men_cs5[double]\n- *C13_MEN_CS6*: c13_men_cs6[double]\n- *C13_MEN_CS7*: c13_men_cs7[double]\n- *C13_MEN_CS8*: c13_men_cs8[double]\n- *C13_PMEN_CS1*: c13_pmen_cs1[double]\n- *C13_PMEN_CS2*: c13_pmen_cs2[double]\n- *C13_PMEN_CS3*: c13_pmen_cs3[double]\n- *C13_PMEN_CS4*: c13_pmen_cs4[double]\n- *C13_PMEN_CS5*: c13_pmen_cs5[double]\n- *C13_PMEN_CS6*: c13_pmen_cs6[double]\n- *C13_PMEN_CS7*: c13_pmen_cs7[double]\n- *C13_PMEN_CS8*: c13_pmen_cs8[double]\n- *C13_FAM*: c13_fam[double]\n- *C13_COUPAENF*: c13_coupaenf[double]\n- *C13_FAMMONO*: c13_fammono[double]\n- *C13_COUPSENF*: c13_coupsenf[double]\n- *C13_NE24F0*: c13_ne24f0[double]\n- *C13_NE24F1*: c13_ne24f1[double]\n- *C13_NE24F2*: c13_ne24f2[double]\n- *C13_NE24F3*: c13_ne24f3[double]\n- *C13_NE24F4P*: c13_ne24f4p[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "98740310-0446-458c-8ac5-7529057444ec",
+      "last_modified": "2017-10-12T13:12:30",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/98740310-0446-458c-8ac5-7529057444ec",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:17:14.973000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/recensement-population-2013-grands-quartiers-population-toulouse/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "recensement-population-2013-grands-quartiers-population",
+  "spatial": null,
+  "tags": [
+    "age",
+    "csp",
+    "population",
+    "sexe",
+    "statistiques"
+  ],
+  "temporal_coverage": null,
+  "title": "Recensement population 2013 - Grands quartiers - Population",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/recensement-population-2013-grands-quartiers-population/"
+}

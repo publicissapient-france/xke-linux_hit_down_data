@@ -1,0 +1,146 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T18:24:35.394000",
+  "deleted": null,
+  "description": "Bilan des aides vers\u00e9es\u00a0aux\u00a0lyc\u00e9es professionnels \u00e9ligibles au dispositif \"parcours europ\u00e9ens\".\n\nLe nombre pr\u00e9visionnel d\u2019\u00e9l\u00e8ves \u00e9ligibles au dispositif (quotient familial inf\u00e9rieur \u00e0 20 000 \u20ac) \u00e9taient de 669. Le bilan \u00e9tabli \u00e0 ce jour montre que 510 \u00e9l\u00e8ves de 50 lyc\u00e9es ont b\u00e9n\u00e9fici\u00e9 de ce dispositif (aide individuelle de 426 \u20ac). La diff\u00e9rence entre l\u2019effectif pr\u00e9visionnel et le nombre r\u00e9el de d\u2019\u00e9l\u00e8ves b\u00e9n\u00e9ficiaires s\u2019explique de diverses fa\u00e7ons :\n\n  * \u00a0le voyage pr\u00e9vu a \u00e9t\u00e9 annul\u00e9,\n  * \u00a0les financements europ\u00e9ens obtenus ont \u00e9t\u00e9 sup\u00e9rieurs \u00e0 ce qui avait \u00e9t\u00e9 pr\u00e9vu et la R\u00e9gion a donc \u00e9t\u00e9 moins sollicit\u00e9e,\n  * certains \u00e9l\u00e8ves ne sont pas \u00e9ligibles car le quotient familial d\u00e9passe 20 000 \u20ac,\n  * \u00a0des \u00e9l\u00e8ves se d\u00e9sistent.",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T06:21:21.299690",
+    "harvest:remote_id": "bilan-parcours-europeens-des-lycees-professionnels-2015",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/bilan-parcours-europeens-des-lycees-professionnels-2015/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59591e43a3a7291dcf9c8180",
+  "last_modified": "2017-11-27T06:21:21.302000",
+  "last_update": "2017-11-27T06:21:21.298000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/parcours-europeens-des-lycees-professionnels-2015/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:21:21.297000",
+      "description": "- *Code RNE*: code_rne[text]\n- *type*: type[text]\n- *Acad\u00e9mies*: academies[text]\n- *Etablissements*: etablissements[text]\n- *Adresses*: adresses[text]\n- *Code postal*: code_postal[int]\n- *Wsg84*: wsg84[geo_point_2d]\n- *Affectation CP 15-045*: affectation_cp_15_045[text]\n- *Nombre B\u00e9n\u00e9ficiaires*: nombre_beneficiaires[int]\n- *bilan bourse*: bilan_bourse[text]\n- *Frais de Partenariat*: frais_de_partenariat[text]\n- *Reliquats n-1*: reliquats_n_1[text]\n- *Consommation r\u00e9elle*: consommation_reelle[text]\n- *Diff\u00e9rence*: difference[text]\n- *Disponible*: disponible[text]\n- *D\u00e9saffectation*: desaffectation[text]\n- *Compl\u00e9ment*: complement[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "5c6cbe24-29ca-4d81-9d93-4fd056d0e3a8",
+      "last_modified": "2015-10-16T10:07:39",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5c6cbe24-29ca-4d81-9d93-4fd056d0e3a8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T06:21:21.297000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/bilan-parcours-europeens-des-lycees-professionnels-2015/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:21:21.297000",
+      "description": "- *Code RNE*: code_rne[text]\n- *type*: type[text]\n- *Acad\u00e9mies*: academies[text]\n- *Etablissements*: etablissements[text]\n- *Adresses*: adresses[text]\n- *Code postal*: code_postal[int]\n- *Wsg84*: wsg84[geo_point_2d]\n- *Affectation CP 15-045*: affectation_cp_15_045[text]\n- *Nombre B\u00e9n\u00e9ficiaires*: nombre_beneficiaires[int]\n- *bilan bourse*: bilan_bourse[text]\n- *Frais de Partenariat*: frais_de_partenariat[text]\n- *Reliquats n-1*: reliquats_n_1[text]\n- *Consommation r\u00e9elle*: consommation_reelle[text]\n- *Diff\u00e9rence*: difference[text]\n- *Disponible*: disponible[text]\n- *D\u00e9saffectation*: desaffectation[text]\n- *Compl\u00e9ment*: complement[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "1fba20a4-ab7d-47da-9a09-a0096bc2c3c9",
+      "last_modified": "2015-10-16T10:07:39",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1fba20a4-ab7d-47da-9a09-a0096bc2c3c9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T06:21:21.297000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/bilan-parcours-europeens-des-lycees-professionnels-2015/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:21:21.298000",
+      "description": "- *Code RNE*: code_rne[text]\n- *type*: type[text]\n- *Acad\u00e9mies*: academies[text]\n- *Etablissements*: etablissements[text]\n- *Adresses*: adresses[text]\n- *Code postal*: code_postal[int]\n- *Wsg84*: wsg84[geo_point_2d]\n- *Affectation CP 15-045*: affectation_cp_15_045[text]\n- *Nombre B\u00e9n\u00e9ficiaires*: nombre_beneficiaires[int]\n- *bilan bourse*: bilan_bourse[text]\n- *Frais de Partenariat*: frais_de_partenariat[text]\n- *Reliquats n-1*: reliquats_n_1[text]\n- *Consommation r\u00e9elle*: consommation_reelle[text]\n- *Diff\u00e9rence*: difference[text]\n- *Disponible*: disponible[text]\n- *D\u00e9saffectation*: desaffectation[text]\n- *Compl\u00e9ment*: complement[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "3c154e96-bb4f-4dfa-b3e8-e68873abab68",
+      "last_modified": "2015-10-16T10:07:39",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3c154e96-bb4f-4dfa-b3e8-e68873abab68",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T06:21:21.298000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/bilan-parcours-europeens-des-lycees-professionnels-2015/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:21:21.298000",
+      "description": "- *Code RNE*: code_rne[text]\n- *type*: type[text]\n- *Acad\u00e9mies*: academies[text]\n- *Etablissements*: etablissements[text]\n- *Adresses*: adresses[text]\n- *Code postal*: code_postal[int]\n- *Wsg84*: wsg84[geo_point_2d]\n- *Affectation CP 15-045*: affectation_cp_15_045[text]\n- *Nombre B\u00e9n\u00e9ficiaires*: nombre_beneficiaires[int]\n- *bilan bourse*: bilan_bourse[text]\n- *Frais de Partenariat*: frais_de_partenariat[text]\n- *Reliquats n-1*: reliquats_n_1[text]\n- *Consommation r\u00e9elle*: consommation_reelle[text]\n- *Diff\u00e9rence*: difference[text]\n- *Disponible*: disponible[text]\n- *D\u00e9saffectation*: desaffectation[text]\n- *Compl\u00e9ment*: complement[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "09d7d7e5-dacc-4ea1-b132-c3905b93cc65",
+      "last_modified": "2015-10-16T10:07:39",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/09d7d7e5-dacc-4ea1-b132-c3905b93cc65",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T06:21:21.298000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.iledefrance.fr//explore/dataset/bilan-parcours-europeens-des-lycees-professionnels-2015/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "parcours-europeens-des-lycees-professionnels-2015",
+  "spatial": null,
+  "tags": [
+    "bilan",
+    "enseignement-formation-recherche",
+    "europe",
+    "finances-publiques",
+    "parcours"
+  ],
+  "temporal_coverage": null,
+  "title": "Parcours europ\u00e9ens des lyc\u00e9es professionnels 2015",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/parcours-europeens-des-lycees-professionnels-2015/"
+}

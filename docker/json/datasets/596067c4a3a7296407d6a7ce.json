@@ -1,0 +1,395 @@
+{
+  "badges": [],
+  "created_at": "2017-07-07T00:00:00",
+  "deleted": null,
+  "description": "Les jeux de donn\u00e9es mis \u00e0 disposition permettent de disposer de la liste des arr\u00eats d'autocar du r\u00e9seau TransGironde avec pour chaque ligne du r\u00e9seau, l'indication des points d'arr\u00eats et des horaires th\u00e9oriques de passage. \n\nCes informations sont structur\u00e9es aux formats Trident et GTFS dans un souci d'interop\u00e9rabilit\u00e9 avec le format transmodel.\n\nLes jeux de donn\u00e9es sont disponibles en plusieurs versions :\n\n* donn\u00e9es concernant seulement les donn\u00e9es de lignes r\u00e9guli\u00e8res : intitul\u00e9 des exports commen\u00e7ant par LR\n* donn\u00e9es concernant les lignes r\u00e9guli\u00e8res, les renforts scolaires et les dessertes d'\u00e9tablissements",
+  "extras": {
+    "ckan:name": "horaires-des-lignes-du-reseau-transgironde",
+    "contact_email": "mailto: DGAT-DTT-SGOT@cg33.fr",
+    "contact_name": "Direction des transports terrestres",
+    "contact_uri": "https://datacat.datalocale.fr/415491",
+    "dcat_type": "https://datacat.datalocale.fr/1338308",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/QUARTERLY",
+    "guid": "https://datacat.datalocale.fr/415492",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-11-27T05:19:40.510888",
+    "harvest:remote_id": "1b77e262-f370-458b-adfc-c4d79889e5b9",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "698199ad-990c-4c97-9df5-9a4484b8002e",
+    "issued": "2013-03-19T17:40:05+00:00",
+    "modified": "2016-12-22T13:42:34.804880+00:00",
+    "publisher_email": "mailto:datalocale@gironde.fr",
+    "publisher_name": "D\u00e9partement de la Gironde",
+    "publisher_type": "\"Collectivit\u00e9 locale\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414548",
+    "remote_url": "http://transgironde.gironde.fr/",
+    "theme": "[\"organisation des transports\"]",
+    "uri": "https://datacat.datalocale.fr/415492"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "596067c4a3a7296407d6a7ce",
+  "last_modified": "2017-11-27T05:19:40.513000",
+  "last_update": "2017-09-12T07:44:31.546000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 2,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/horaires-des-lignes-du-reseau-transgironde-3/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:04:04.575000",
+      "description": "export des lignes r\u00e9guli\u00e8res au format GTFS",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-18T21:40:59.720000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1479301/raw/download"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "zip",
+      "id": "fc1726cd-68e3-4147-9479-34ef39d16beb",
+      "last_modified": "2017-08-15T06:05:17.421000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fc1726cd-68e3-4147-9479-34ef39d16beb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-07-08T07:04:04.575000",
+      "title": "exportGTFS.zip",
+      "url": "https://datacat.datalocale.fr/file/1479301/raw/download"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:04:04.576000",
+      "description": "export des lignes r\u00e9guli\u00e8res du r\u00e9seau transgironde au format GTFS",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-15T21:47:13.994000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1455635/raw/download"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "zip",
+      "id": "52f8678c-3478-488b-a622-a928977b92e3",
+      "last_modified": "2017-08-15T06:05:17.421000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/52f8678c-3478-488b-a622-a928977b92e3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-07-08T07:04:04.576000",
+      "title": "exportGTFS-LR.zip",
+      "url": "https://datacat.datalocale.fr/file/1455635/raw/download"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:04:04.576000",
+      "description": "export des horaires des lignes du r\u00e9seau transgironde au format Trident",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-18T21:38:52.259000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1455887/raw/download"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ce4ca928-c29f-4f1f-935f-c23a4920a092",
+      "last_modified": "2017-08-15T06:05:17.421000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ce4ca928-c29f-4f1f-935f-c23a4920a092",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-08T07:04:04.576000",
+      "title": "ExportTrident.zip",
+      "url": "https://datacat.datalocale.fr/file/1455887/raw/download"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:04:04.577000",
+      "description": "export des lignes r\u00e9guli\u00e8res du r\u00e9seau transgironde au format TRIDENT",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-15T21:47:13.571000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1456501/raw/download"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "zip",
+      "id": "9dfee4db-f93c-448d-9b61-9f099519f012",
+      "last_modified": "2017-08-15T06:05:17.421000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9dfee4db-f93c-448d-9b61-9f099519f012",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-07-08T07:04:04.577000",
+      "title": "exportTrident-LR.zip",
+      "url": "https://datacat.datalocale.fr/file/1456501/raw/download"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-16T07:09:59.044000",
+      "description": "export des lignes r\u00e9guli\u00e8res au format GTFS",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T18:47:27.833000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1479301/raw/download"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "zip",
+      "id": "d16b1244-b6ec-4677-a894-2ff92cb29745",
+      "last_modified": "2017-09-11T06:12:18.396000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d16b1244-b6ec-4677-a894-2ff92cb29745",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-08-16T07:09:59.045000",
+      "title": "exportGTFS.zip",
+      "url": "https://datacat.datalocale.fr/file/1479301/raw/download"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-16T07:09:59.045000",
+      "description": "export des horaires des lignes du r\u00e9seau transgironde au format Trident",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T13:37:16.507000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1455887/raw/download"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "eea22955-a443-438e-9bef-15942e2b4b09",
+      "last_modified": "2017-09-11T06:12:18.396000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/eea22955-a443-438e-9bef-15942e2b4b09",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-16T07:09:59.045000",
+      "title": "ExportTrident.zip",
+      "url": "https://datacat.datalocale.fr/file/1455887/raw/download"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-16T07:09:59.045000",
+      "description": "export des lignes r\u00e9guli\u00e8res du r\u00e9seau transgironde au format GTFS",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-14T22:29:12.668000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1455635/raw/download"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "zip",
+      "id": "4cabfeeb-b82c-4c17-b4b9-5ad91ff4ed2c",
+      "last_modified": "2017-09-11T06:12:18.396000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4cabfeeb-b82c-4c17-b4b9-5ad91ff4ed2c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-08-16T07:09:59.046000",
+      "title": "exportGTFS-LR.zip",
+      "url": "https://datacat.datalocale.fr/file/1455635/raw/download"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-16T07:09:59.046000",
+      "description": "export des lignes r\u00e9guli\u00e8res du r\u00e9seau transgironde au format TRIDENT",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-14T22:29:12.647000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1456501/raw/download"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "zip",
+      "id": "eb59bf90-9e1c-4960-af6b-2881845d5822",
+      "last_modified": "2017-09-11T06:12:18.396000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/eb59bf90-9e1c-4960-af6b-2881845d5822",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-08-16T07:09:59.046000",
+      "title": "exportTrident-LR.zip",
+      "url": "https://datacat.datalocale.fr/file/1456501/raw/download"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:44:31.544000",
+      "description": "export des lignes r\u00e9guli\u00e8res du r\u00e9seau transgironde au format TRIDENT",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-14T22:29:12.647000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1456501/raw/download"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "zip",
+      "id": "cbd6f145-d31c-42b2-ba00-026e01593d9a",
+      "last_modified": "2017-11-27T05:19:40.509000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cbd6f145-d31c-42b2-ba00-026e01593d9a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-09-12T07:44:31.544000",
+      "title": "exportTrident-LR.zip",
+      "url": "https://datacat.datalocale.fr/distribution/1105756/raw/download"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:44:31.545000",
+      "description": "export des lignes r\u00e9guli\u00e8res du r\u00e9seau transgironde au format GTFS",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-14T22:29:12.668000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1455635/raw/download"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "zip",
+      "id": "51f7cc38-4a2c-45a7-b53b-471aa93f8bff",
+      "last_modified": "2017-11-27T05:19:40.509000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/51f7cc38-4a2c-45a7-b53b-471aa93f8bff",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-09-12T07:44:31.545000",
+      "title": "exportGTFS-LR.zip",
+      "url": "https://datacat.datalocale.fr/distribution/1105677/raw/download"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:44:31.545000",
+      "description": "export des lignes r\u00e9guli\u00e8res au format GTFS",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-14T22:29:12.650000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1479301/raw/download"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "zip",
+      "id": "4c214671-74ba-4c7e-814f-b1df431b6a23",
+      "last_modified": "2017-11-27T05:19:40.509000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4c214671-74ba-4c7e-814f-b1df431b6a23",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-09-12T07:44:31.545000",
+      "title": "exportGTFS.zip",
+      "url": "https://datacat.datalocale.fr/distribution/1105620/raw/download"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:44:31.546000",
+      "description": "export des horaires des lignes du r\u00e9seau transgironde au format Trident",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-14T22:29:12.672000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1455887/raw/download"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "0dbc63d5-2a9e-416a-b266-6ae251c00140",
+      "last_modified": "2017-11-27T05:19:40.509000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0dbc63d5-2a9e-416a-b266-6ae251c00140",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:44:31.546000",
+      "title": "ExportTrident.zip",
+      "url": "https://datacat.datalocale.fr/distribution/1105682/raw/download"
+    }
+  ],
+  "slug": "horaires-des-lignes-du-reseau-transgironde-3",
+  "spatial": null,
+  "tags": [
+    "autobus",
+    "transgironde",
+    "transport"
+  ],
+  "temporal_coverage": null,
+  "title": "Horaires des lignes du r\u00e9seau transgironde",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/horaires-des-lignes-du-reseau-transgironde-3/"
+}

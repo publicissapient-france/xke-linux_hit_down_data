@@ -1,0 +1,116 @@
+{
+  "badges": [],
+  "created_at": "2014-09-30T16:44:06.489000",
+  "deleted": null,
+  "description": "Le jeu de donn\u00e9es met \u00e0 disposition les comptages des certificats d'utilit\u00e9 par origine du d\u00e9posant d\u00e9pos\u00e9s depuis 2009.",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": null,
+  "id": "542ac1b688ee38568616059e",
+  "last_modified": "2016-03-07T17:52:11.950000",
+  "last_update": "2014-09-30T16:45:34.019000",
+  "license": "fr-lo",
+  "metrics": {
+    "cow_criticals": 0,
+    "cow_errors": 0,
+    "cow_score": 0,
+    "cow_warnings": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "542a61d888ee382b8f22e2d7",
+    "logo": "https://www.data.gouv.fr/s/avatars/0a/277d25e3174a8db89dad2b67d42331-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/0a/277d25e3174a8db89dad2b67d42331-100.png",
+    "name": "Institut national de la propri\u00e9t\u00e9 industrielle (INPI)",
+    "page": "https://www.data.gouv.fr/fr/organizations/institut-national-de-la-propriete-industrielle-inpi/",
+    "slug": "institut-national-de-la-propriete-industrielle-inpi",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/institut-national-de-la-propriete-industrielle-inpi/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/principales-origines-des-depots-de-certificats-dutilite/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "e0101715270c93d44a2589bb7350f00c2a8842c0"
+      },
+      "created_at": "2014-09-30T16:44:49.411000",
+      "description": "Comptages des certificats d'utilit\u00e9 par origine du d\u00e9posant d\u00e9pos\u00e9s depuis 2009.",
+      "extras": {},
+      "filesize": 2395,
+      "filetype": "file",
+      "format": "csv",
+      "id": "2143cb5d-0d05-4406-a72f-4ad4728757a3",
+      "last_modified": "2016-03-07T17:51:56.750000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2143cb5d-0d05-4406-a72f-4ad4728757a3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": "text/csv",
+      "published": "2014-09-30T16:44:49.411000",
+      "title": "Principales origines des d\u00e9p\u00f4ts de certificats d'utilit\u00e9",
+      "url": "https://www.data.gouv.fr/s/resources/principales-origines-des-depots-de-certificats-dutilite/20160307-175155/Opendata_DE_2015-10-006.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "f70953eb4d651d27ba6f89f17e5a3999c18e1dc8"
+      },
+      "created_at": "2014-09-30T16:45:34.019000",
+      "description": "Glossaire, principes de comptage, m\u00e9thodologie.",
+      "extras": {},
+      "filesize": 4329,
+      "filetype": "file",
+      "format": "csv",
+      "id": "71a501c5-8753-4d05-870a-0cbd647e61de",
+      "last_modified": "2016-03-07T17:52:11.950000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/71a501c5-8753-4d05-870a-0cbd647e61de",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2014-09-30T16:45:34.019000",
+      "title": "Glossaire",
+      "url": "https://www.data.gouv.fr/s/resources/principales-origines-des-depots-de-certificats-dutilite/20160307-175210/Opendata_DE_Glossaire_20140923.csv"
+    }
+  ],
+  "slug": "principales-origines-des-depots-de-certificats-dutilite",
+  "spatial": {
+    "geom": null,
+    "granularity": "country",
+    "zones": []
+  },
+  "tags": [
+    "brevet-depose",
+    "certificat-d-utilite",
+    "deposant",
+    "depot",
+    "economie",
+    "innovation",
+    "inpi",
+    "propriete-industrielle",
+    "voie-nationale"
+  ],
+  "temporal_coverage": {
+    "end": "2013-12-31",
+    "start": "2009-01-01"
+  },
+  "title": "Principales origines des d\u00e9p\u00f4ts de certificats d'utilit\u00e9",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/principales-origines-des-depots-de-certificats-dutilite/"
+}

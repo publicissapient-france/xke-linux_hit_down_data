@@ -1,0 +1,108 @@
+{
+  "badges": [],
+  "created_at": "2014-09-09T16:00:21.952000",
+  "deleted": null,
+  "description": "Nombre de journ\u00e9es d\u2019absence des agents SNCF depuis 2010.\n\nCes donn\u00e9es\u00a0int\u00e8grent\u00a0toutes\u00a0les absences de courte et longue dur\u00e9e, y compris celles ayant d\u00e9but\u00e9 au cours de\u00a0l\u2019exercice\u00a0pr\u00e9c\u00e9dent pour la part se prolongeant sur\u00a0l\u2019exercice\u00a0en cours.\u00a0Ces donn\u00e9es ne comptabilisent pas les cong\u00e9s annuels et cong\u00e9s de fin de carri\u00e8re.\n\n  * \"Coll\u00e8ge\" : classification selon les coll\u00e8ges de repr\u00e9sentation du personnel, \u00e0 savoir \u201cex\u00e9cution\u201d, \u201cma\u00eetrise\u201d et \u201ccadre\u201d.\n  * Le personnel roulant comprend les agents de conduite (\u00ab ex\u00e9cution roulants conduite \u00bb) et les chefs de bord (\u201cex\u00e9cution roulants trains \u00bb).\n\n\n\nCes donn\u00e9es sont issues du Bilan social publi\u00e9 chaque ann\u00e9e par la Direction coh\u00e9sion & ressources humaines de SNCF. Le bilan social pr\u00e9sente les donn\u00e9es relatives \u00e0 l\u2019ensemble du personnel de l\u2019entreprise \u00e0 l\u2019exception des m\u00e9decins qui interviennent dans le cadre de la m\u00e9decine du travail et de la m\u00e9decine de soins des agents en activit\u00e9, des stagiaires, des concierges et du personnel contractuel sous contrait aid\u00e9.\n\nVous avez des questions ou des remarques sur ces donn\u00e9es ? Rendez-vous sur le [forum](http://data.sncf.com/forum/vos-retours-sur-les-donnees) de data.sncf.com.",
+  "extras": {
+    "datagouv_ckan_id": "6bada0e5-ffc7-49b5-8dd3-9384581ea529",
+    "datagouv_ckan_last_sync": "2014-09-16T09:42:02.517000",
+    "harvest:domain": "ressources.data.sncf.com",
+    "harvest:last_update": "2017-11-27T05:03:05.982449",
+    "harvest:remote_id": "journees-absence-agents",
+    "harvest:source_id": "563dd01f88ee386a21e72046",
+    "ods:has_records": true,
+    "ods:url": "https://ressources.data.sncf.com/explore/dataset/journees-absence-agents/",
+    "remote_url": "http://ressources.data.sncf.com/explore/dataset/journees-absence-agents/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "54101072a3a72937cb2c7038",
+  "last_modified": "2017-11-27T05:03:05.988000",
+  "last_update": "2017-11-27T05:03:05.980000",
+  "license": "other-open",
+  "metrics": {
+    "cow_criticals": 0,
+    "cow_errors": 0,
+    "cow_score": 0.1499958562137898,
+    "cow_warnings": 3,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 14
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb0a3a7292c64a78115",
+    "logo": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-100.png",
+    "name": "SNCF",
+    "page": "https://www.data.gouv.fr/fr/organizations/sncf/",
+    "slug": "sncf",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/sncf/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/nombre-de-journees-d-absence-des-agents-sncf-sncf/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:03:05.979000",
+      "description": "- *Date*: date[date]\n- *Coll\u00e8ge*: college[text]\n- *Motif*: motif[text]\n- *Nombre de journ\u00e9es d'absence*: nombre_journees_absence[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a2b5fc60-7932-4024-b258-0f8a391166f1",
+      "last_modified": "2015-07-03T10:31:58",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a2b5fc60-7932-4024-b258-0f8a391166f1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:03:05.979000",
+      "title": "Export au format CSV",
+      "url": "https://ressources.data.sncf.com/explore/dataset/journees-absence-agents/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:03:05.980000",
+      "description": "- *Date*: date[date]\n- *Coll\u00e8ge*: college[text]\n- *Motif*: motif[text]\n- *Nombre de journ\u00e9es d'absence*: nombre_journees_absence[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "ad84250a-7d2e-41ac-b086-3087046d6188",
+      "last_modified": "2015-07-03T10:31:58",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ad84250a-7d2e-41ac-b086-3087046d6188",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:03:05.980000",
+      "title": "Export au format JSON",
+      "url": "https://ressources.data.sncf.com/explore/dataset/journees-absence-agents/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "nombre-de-journees-d-absence-des-agents-sncf-sncf",
+  "spatial": null,
+  "tags": [
+    "emploi",
+    "ressources-humaines",
+    "social",
+    "social-et-ressources-humaines"
+  ],
+  "temporal_coverage": null,
+  "title": "Nombre de journ\u00e9es d\u2019absence des agents SNCF",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/nombre-de-journees-d-absence-des-agents-sncf-sncf/"
+}

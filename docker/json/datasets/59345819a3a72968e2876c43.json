@@ -1,0 +1,101 @@
+{
+  "badges": [],
+  "created_at": "2017-03-24T00:00:00",
+  "deleted": null,
+  "description": "Liste des fermes-auberges en Aquitaine, issue de la base de donn\u00e9es SIRTAQUI.\n\nCe fichier contient les informations de g\u00e9olocalisation et de contact, les informations sur l\u2019activit\u00e9, les marques et labels, les cha\u00eenes, les conditions d\u2019ouverture, les tarifs, le nombre de couverts, les \u00e9quipements et les services propos\u00e9s.",
+  "extras": {
+    "ckan:name": "liste-des-fermes-auberges-en-aquitaine1",
+    "contact_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "contact_name": "CRTA",
+    "contact_uri": "https://datacat.datalocale.fr/414593",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
+    "guid": "https://datacat.datalocale.fr/415729",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-06-04T20:57:29.276316",
+    "harvest:remote_id": "82ade1ce-f33d-41da-bdb8-2dce457d4d7c",
+    "harvest:source_id": "59342bc2c751df46b29d4f99",
+    "identifier": "8e23cded-3272-4f1d-8951-055e4cc7c82c",
+    "issued": "2015-01-04T10:03:16+00:00",
+    "modified": "2016-07-18T09:21:07.338359+00:00",
+    "publisher_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "publisher_name": "agence SIRTAQUI",
+    "publisher_type": "\"Organisation \u00e0 but non lucratif\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414592",
+    "remote_url": "http://partenaires.tourisme-aquitaine.fr",
+    "theme": "[\"tourisme\"]",
+    "uri": "https://datacat.datalocale.fr/415729"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59345819a3a72968e2876c43",
+  "last_modified": "2017-06-04T20:57:29.278000",
+  "last_update": "2017-06-04T20:57:29.275000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": null,
+  "owner": {
+    "avatar": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-original.jpg",
+    "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-100.jpg",
+    "class": "User",
+    "first_name": "Ressourcerie",
+    "id": "534fff47a3a7292c64a77adc",
+    "last_name": "datalocale",
+    "page": "https://www.data.gouv.fr/fr/users/ressourcerie-datalocale/",
+    "slug": "ressourcerie-datalocale",
+    "uri": "https://www.data.gouv.fr/api/1/users/ressourcerie-datalocale/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-fermes-auberges-en-aquitaine1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:57:29.275000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T04:43:15.999000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1487056/raw/liste-csv-fermes-auberge-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e08e5b69-20a1-4738-9b8c-e1e177ba243a",
+      "last_modified": "2017-06-04T20:57:29.275000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e08e5b69-20a1-4738-9b8c-e1e177ba243a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:57:29.275000",
+      "title": "liste-csv-fermes-auberge-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1487056/raw/liste-csv-fermes-auberge-aquitaine.csv"
+    }
+  ],
+  "slug": "liste-des-fermes-auberges-en-aquitaine1",
+  "spatial": null,
+  "tags": [
+    "degustation",
+    "ferme",
+    "locavore",
+    "producteur",
+    "produit",
+    "terroir",
+    "tourisme"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des fermes auberges en Aquitaine",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-fermes-auberges-en-aquitaine1/"
+}

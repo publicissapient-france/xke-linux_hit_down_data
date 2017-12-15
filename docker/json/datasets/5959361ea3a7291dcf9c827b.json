@@ -1,0 +1,147 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T20:06:22.147000",
+  "deleted": null,
+  "description": "Liste des voies du R\u00e9seau Ferr\u00e9 National typ\u00e9es avec le type de d\u00e9clivit\u00e9.\n\nCe jeu de donn\u00e9e liste les voies du r\u00e9seau, en pr\u00e9cisant leur d\u00e9clivit\u00e9.\n\nLa d\u00e9clivit\u00e9 est exprim\u00e9e dans le sens des PK croissants, en mm/m. Elle peut d\u00e9crire une rampe (d\u00e9clivit\u00e9 positive), un palier (d\u00e9clivit\u00e9 nulle) ou une pente (d\u00e9clivit\u00e9 n\u00e9gative). \n\nCe jeu publie les donn\u00e9es en l\u2019\u00e9tat des bases \u00e0 la date de publication. \n\nLes coordonn\u00e9es g\u00e9ographiques sont une conversion des coordonn\u00e9es ferroviaires en Lambert 93 et en WGS84\u00a0(EPSG:3857).",
+  "extras": {
+    "harvest:domain": "ressources.data.sncf.com",
+    "harvest:last_update": "2017-11-27T05:02:29.833993",
+    "harvest:remote_id": "caracteristique-des-voies-et-declivite",
+    "harvest:source_id": "563dd01f88ee386a21e72046",
+    "ods:has_records": true,
+    "ods:url": "https://ressources.data.sncf.com/explore/dataset/caracteristique-des-voies-et-declivite/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5959361ea3a7291dcf9c827b",
+  "last_modified": "2017-11-27T05:02:29.836000",
+  "last_update": "2017-11-27T05:02:29.833000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb0a3a7292c64a78115",
+    "logo": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-100.png",
+    "name": "SNCF",
+    "page": "https://www.data.gouv.fr/fr/organizations/sncf/",
+    "slug": "sncf",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/sncf/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/caracteristique-des-voies-et-declivite/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:02:29.832000",
+      "description": "- *Ligne*: ligne[text]\n- *Libell\u00e9 Ligne*: libelle_ligne[text]\n- *Nom voie*: nom_voie[text]\n- *Libell\u00e9 voie*: libelle_voie[text]\n- *Type D\u00e9clivit\u00e9*: type_declivite[text]\n- *Valeur*: valeur[double]\n- *Rang*: rang[text]\n- *PK Debut*: pk_debut[text]\n- *PK fin*: pk_fin[text]\n- *X D\u00e9but (Lambert 93)*: x_debut_lambert_93[double]\n- *Y D\u00e9but (Lambert 93)*: y_debut_lambert_93[double]\n- *X Fin (Lambert 93)*: x_fin_lambert_93[double]\n- *Y Fin (Lambert 93)*: y_fin_lambert_93[double]\n- *X D\u00e9but (WGS84)*: x_debut_wgs84[double]\n- *Y D\u00e9but (WGS84)*: y_debut_wgs84[double]\n- *X Fin (WGS84)*: x_fin_wgs84[double]\n- *Y Fin (WGS84)*: y_fin_wgs84[double]\n- *coordonnees_geo_debut*: coordonnees_geo_debut[geo_point_2d]\n- *coordonnees_geo_fin*: coordonnees_geo_fin[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "4dc7528f-5151-4751-9ebb-316444d1173c",
+      "last_modified": "2017-04-06T09:07:19",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4dc7528f-5151-4751-9ebb-316444d1173c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:02:29.832000",
+      "title": "Export au format CSV",
+      "url": "https://ressources.data.sncf.com/explore/dataset/caracteristique-des-voies-et-declivite/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:02:29.832000",
+      "description": "- *Ligne*: ligne[text]\n- *Libell\u00e9 Ligne*: libelle_ligne[text]\n- *Nom voie*: nom_voie[text]\n- *Libell\u00e9 voie*: libelle_voie[text]\n- *Type D\u00e9clivit\u00e9*: type_declivite[text]\n- *Valeur*: valeur[double]\n- *Rang*: rang[text]\n- *PK Debut*: pk_debut[text]\n- *PK fin*: pk_fin[text]\n- *X D\u00e9but (Lambert 93)*: x_debut_lambert_93[double]\n- *Y D\u00e9but (Lambert 93)*: y_debut_lambert_93[double]\n- *X Fin (Lambert 93)*: x_fin_lambert_93[double]\n- *Y Fin (Lambert 93)*: y_fin_lambert_93[double]\n- *X D\u00e9but (WGS84)*: x_debut_wgs84[double]\n- *Y D\u00e9but (WGS84)*: y_debut_wgs84[double]\n- *X Fin (WGS84)*: x_fin_wgs84[double]\n- *Y Fin (WGS84)*: y_fin_wgs84[double]\n- *coordonnees_geo_debut*: coordonnees_geo_debut[geo_point_2d]\n- *coordonnees_geo_fin*: coordonnees_geo_fin[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "cba8611a-d6a4-44fd-beb4-d527307d053d",
+      "last_modified": "2017-04-06T09:07:19",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cba8611a-d6a4-44fd-beb4-d527307d053d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:02:29.832000",
+      "title": "Export au format JSON",
+      "url": "https://ressources.data.sncf.com/explore/dataset/caracteristique-des-voies-et-declivite/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:02:29.833000",
+      "description": "- *Ligne*: ligne[text]\n- *Libell\u00e9 Ligne*: libelle_ligne[text]\n- *Nom voie*: nom_voie[text]\n- *Libell\u00e9 voie*: libelle_voie[text]\n- *Type D\u00e9clivit\u00e9*: type_declivite[text]\n- *Valeur*: valeur[double]\n- *Rang*: rang[text]\n- *PK Debut*: pk_debut[text]\n- *PK fin*: pk_fin[text]\n- *X D\u00e9but (Lambert 93)*: x_debut_lambert_93[double]\n- *Y D\u00e9but (Lambert 93)*: y_debut_lambert_93[double]\n- *X Fin (Lambert 93)*: x_fin_lambert_93[double]\n- *Y Fin (Lambert 93)*: y_fin_lambert_93[double]\n- *X D\u00e9but (WGS84)*: x_debut_wgs84[double]\n- *Y D\u00e9but (WGS84)*: y_debut_wgs84[double]\n- *X Fin (WGS84)*: x_fin_wgs84[double]\n- *Y Fin (WGS84)*: y_fin_wgs84[double]\n- *coordonnees_geo_debut*: coordonnees_geo_debut[geo_point_2d]\n- *coordonnees_geo_fin*: coordonnees_geo_fin[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "a7c0cbb9-5661-4248-b1af-f3f6c32131d4",
+      "last_modified": "2017-04-06T09:07:19",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a7c0cbb9-5661-4248-b1af-f3f6c32131d4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:02:29.833000",
+      "title": "Export au format GeoJSON",
+      "url": "https://ressources.data.sncf.com/explore/dataset/caracteristique-des-voies-et-declivite/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:02:29.833000",
+      "description": "- *Ligne*: ligne[text]\n- *Libell\u00e9 Ligne*: libelle_ligne[text]\n- *Nom voie*: nom_voie[text]\n- *Libell\u00e9 voie*: libelle_voie[text]\n- *Type D\u00e9clivit\u00e9*: type_declivite[text]\n- *Valeur*: valeur[double]\n- *Rang*: rang[text]\n- *PK Debut*: pk_debut[text]\n- *PK fin*: pk_fin[text]\n- *X D\u00e9but (Lambert 93)*: x_debut_lambert_93[double]\n- *Y D\u00e9but (Lambert 93)*: y_debut_lambert_93[double]\n- *X Fin (Lambert 93)*: x_fin_lambert_93[double]\n- *Y Fin (Lambert 93)*: y_fin_lambert_93[double]\n- *X D\u00e9but (WGS84)*: x_debut_wgs84[double]\n- *Y D\u00e9but (WGS84)*: y_debut_wgs84[double]\n- *X Fin (WGS84)*: x_fin_wgs84[double]\n- *Y Fin (WGS84)*: y_fin_wgs84[double]\n- *coordonnees_geo_debut*: coordonnees_geo_debut[geo_point_2d]\n- *coordonnees_geo_fin*: coordonnees_geo_fin[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "1198210a-4b86-4af6-8e96-0594dce10f66",
+      "last_modified": "2017-04-06T09:07:19",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1198210a-4b86-4af6-8e96-0594dce10f66",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:02:29.833000",
+      "title": "Export au format Shapefile",
+      "url": "https://ressources.data.sncf.com/explore/dataset/caracteristique-des-voies-et-declivite/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "caracteristique-des-voies-et-declivite",
+  "spatial": null,
+  "tags": [
+    "declivite",
+    "description-du-reseau",
+    "geolocalisation",
+    "infrastructure",
+    "sncf-reseau",
+    "voies"
+  ],
+  "temporal_coverage": null,
+  "title": "Caract\u00e9ristique des voies et d\u00e9clivit\u00e9",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/caracteristique-des-voies-et-declivite/"
+}

@@ -1,0 +1,101 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T17:49:01.132000",
+  "deleted": null,
+  "description": "L\u2019extraction permet de visualiser les territoires sur lesquels il est constat\u00e9 des carences en termes de m\u00b2 de plan d\u2019eau pour la pratique de la natation scolaires d\u2019une part et d\u2019autre part pour la pratique de la natation pour les sportifs et le grand public. Les carences sont pr\u00e9sent\u00e9es en m\u00e8tres carr\u00e9s et lorsque la R\u00e9gion a financ\u00e9 des cr\u00e9ations, r\u00e9habilitations ou r\u00e9habilitations avec extension d\u2019au moins 125 m\u00b2 de plan d\u2019eau d\u2019\u00e9quipements aquatiques, elle a permis de diminuer ces carences dans les territoires concern\u00e9s.",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T06:08:21.810752",
+    "harvest:remote_id": "carences_en_equipements_aquatiques_2007-2012",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/carences_en_equipements_aquatiques_2007-2012/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "595915eda3a7291dcf9c807d",
+  "last_modified": "2017-11-27T06:08:21.812000",
+  "last_update": "2017-11-27T06:08:21.810000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/carences-en-equipements-aquatiques-2007-2012/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:08:21.809000",
+      "description": "- *Collectivit\u00e9/EPCI/S*: collectivite_epci_s[text]\n- *Carences Scolaires (m\u00b2)*: carences_scolaires_m2[text]\n- *Carences Sportif/GP (m\u00b2)*: carences_sportif_gp_m2[text]\n- *m\u00b2 plan d'eau r\u00e9habilit\u00e9s par un financement de la R\u00e9gion IDF*: m2_plan_d_eau_rehabilites_par_un_financement_de_la_region_idf[text]\n- *m\u00b2 plan d'eau d\u00e9construits par un financement de la R\u00e9gion IDF*: m2_plan_d_eau_deconstruits_par_un_financement_de_la_region_idf[text]\n- *m\u00b2 plan d'eau cr\u00e9\u00e9s par un financement de la R\u00e9gion IDF*: m2_plan_d_eau_crees_par_un_financement_de_la_region_idf[text]\n- *Etat Scolaire (m\u00b2)*: etat_scolaire_m2[int]\n- *Etat Sportif/GP (m\u00b2)*: etat_sportif_gp_m2[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e9a9517f-cc04-4ed3-b55f-5f832047e5f8",
+      "last_modified": "2013-05-30T01:41:13",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e9a9517f-cc04-4ed3-b55f-5f832047e5f8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T06:08:21.809000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/carences_en_equipements_aquatiques_2007-2012/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:08:21.810000",
+      "description": "- *Collectivit\u00e9/EPCI/S*: collectivite_epci_s[text]\n- *Carences Scolaires (m\u00b2)*: carences_scolaires_m2[text]\n- *Carences Sportif/GP (m\u00b2)*: carences_sportif_gp_m2[text]\n- *m\u00b2 plan d'eau r\u00e9habilit\u00e9s par un financement de la R\u00e9gion IDF*: m2_plan_d_eau_rehabilites_par_un_financement_de_la_region_idf[text]\n- *m\u00b2 plan d'eau d\u00e9construits par un financement de la R\u00e9gion IDF*: m2_plan_d_eau_deconstruits_par_un_financement_de_la_region_idf[text]\n- *m\u00b2 plan d'eau cr\u00e9\u00e9s par un financement de la R\u00e9gion IDF*: m2_plan_d_eau_crees_par_un_financement_de_la_region_idf[text]\n- *Etat Scolaire (m\u00b2)*: etat_scolaire_m2[int]\n- *Etat Sportif/GP (m\u00b2)*: etat_sportif_gp_m2[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "11074365-5118-4b57-a5f7-8e208ff22a57",
+      "last_modified": "2013-05-30T01:41:13",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/11074365-5118-4b57-a5f7-8e208ff22a57",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T06:08:21.810000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/carences_en_equipements_aquatiques_2007-2012/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "carences-en-equipements-aquatiques-2007-2012",
+  "spatial": null,
+  "tags": [
+    "equipements-sportifs",
+    "loisirs",
+    "sport",
+    "sport-tourisme-loisirs"
+  ],
+  "temporal_coverage": null,
+  "title": "Carences en \u00e9quipements aquatiques  2007-2012",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/carences-en-equipements-aquatiques-2007-2012/"
+}

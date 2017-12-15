@@ -1,0 +1,99 @@
+{
+  "badges": [],
+  "created_at": "2016-10-21T19:58:44.479000",
+  "deleted": null,
+  "description": "R\u00e9sultats d\u00e9taill\u00e9s pour Rennes des \u00e9lections euop\u00e9ennes de 2004, 2009 et 2014 par bureau de vote, au format CSV.  \nUn bureau de vote appartient \u00e0 un lieu de vote, lui m\u00eame inscrit dans un canton qui appartient \u00e0 une circonscription.  \nA la fin du fichier, des totaux sont effectu\u00e9s par canton, et par lieu de vote.  \nAttention : les lieux de votes peuvent varier d'une \u00e9lection \u00e0 l'autre, ainsi que le d\u00e9coupage des cantons et circonscriptions.  \nIl s'agit des r\u00e9sultats rennais exclusivement : les cantons et circonscriptions concernent souvent des territoires plus vastes que la seule ville de Rennes.",
+  "extras": {
+    "harvest:domain": "data.rennesmetropole.fr",
+    "harvest:last_update": "2017-11-27T04:02:58.605472",
+    "harvest:remote_id": "resultats-des-elections-europeennes-a-rennes-de-2004-a-2014",
+    "harvest:source_id": "580736ec88ee3816625ff490",
+    "ods:has_records": true,
+    "ods:url": "https://data.rennesmetropole.fr/explore/dataset/resultats-des-elections-europeennes-a-rennes-de-2004-a-2014/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "580a5754a3a7292dcea9d1ec",
+  "last_modified": "2017-11-27T04:02:58.607000",
+  "last_update": "2017-11-27T04:02:58.604000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "RM",
+    "class": "Organization",
+    "id": "580735be88ee3814295ff490",
+    "logo": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-100.png",
+    "name": "Rennes M\u00e9tropole en acc\u00e8s libre",
+    "page": "https://www.data.gouv.fr/fr/organizations/rennes-metropole-en-acces-libre-1/",
+    "slug": "rennes-metropole-en-acces-libre-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/rennes-metropole-en-acces-libre-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/resultats-des-elections-europeennes-a-rennes-de-2004-a-2014/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:02:58.603000",
+      "description": "- *CODE_ELECTION*: code_election[text]\n- *NOM_ELECTION*: nom_election[text]\n- *NUMERO_TOUR*: numero_tour[int]\n- *DATE_ELECTION*: date_election[text]\n- *NIVEAU_DETAIL*: niveau_detail[text]\n- *NUMERO_LIEU*: numero_lieu[int]\n- *NOM_LIEU*: nom_lieu[text]\n- *ADRESSE_LIEU*: adresse_lieu[text]\n- *NUMERO_CANTON*: numero_canton[int]\n- *NOM_CANTON*: nom_canton[text]\n- *NUMERO_CIRCONSCRIPTION*: numero_circonscription[int]\n- *NOM_CIRCONSCRIPTION*: nom_circonscription[text]\n- *NB_INSCRITS*: nb_inscrits[int]\n- *NB_EMARGEMENTS*: nb_emargements[int]\n- *NB_BULLETINS*: nb_bulletins[int]\n- *NB_NULS*: nb_nuls[int]\n- *NB_EXPRIMES*: nb_exprimes[int]\n- *POURCENTAGE_PARTICIPATION*: pourcentage_participation[double]\n- *VALID*: valid[text]\n- *CANDIDAT_1*: candidat_1[text]\n- *NB_VOIX_1*: nb_voix_1[int]\n- *POURCENTAGE_1*: pourcentage_1[double]\n- *CANDIDAT_2*: candidat_2[text]\n- *NB_VOIX_2*: nb_voix_2[int]\n- *POURCENTAGE_2*: pourcentage_2[double]\n- *CANDIDAT_3*: candidat_3[text]\n- *NB_VOIX_3*: nb_voix_3[int]\n- *POURCENTAGE_3*: pourcentage_3[double]\n- *CANDIDAT_4*: candidat_4[text]\n- *NB_VOIX_4*: nb_voix_4[int]\n- *POURCENTAGE_4*: pourcentage_4[double]\n- *CANDIDAT_5*: candidat_5[text]\n- *NB_VOIX_5*: nb_voix_5[int]\n- *POURCENTAGE_5*: pourcentage_5[double]\n- *CANDIDAT_6*: candidat_6[text]\n- *NB_VOIX_6*: nb_voix_6[int]\n- *POURCENTAGE_6*: pourcentage_6[double]\n- *CANDIDAT_7*: candidat_7[text]\n- *NB_VOIX_7*: nb_voix_7[int]\n- *POURCENTAGE_7*: pourcentage_7[double]\n- *CANDIDAT_8*: candidat_8[text]\n- *NB_VOIX_8*: nb_voix_8[int]\n- *POURCENTAGE_8*: pourcentage_8[double]\n- *CANDIDAT_9*: candidat_9[text]\n- *NB_VOIX_9*: nb_voix_9[int]\n- *POURCENTAGE_9*: pourcentage_9[double]\n- *CANDIDAT_10*: candidat_10[text]\n- *NB_VOIX_10*: nb_voix_10[int]\n- *POURCENTAGE_10*: pourcentage_10[double]\n- *CANDIDAT_11*: candidat_11[text]\n- *NB_VOIX_11*: nb_voix_11[int]\n- *POURCENTAGE_11*: pourcentage_11[double]\n- *CANDIDAT_12*: candidat_12[text]\n- *NB_VOIX_12*: nb_voix_12[int]\n- *POURCENTAGE_12*: pourcentage_12[double]\n- *CANDIDAT_13*: candidat_13[text]\n- *NB_VOIX_13*: nb_voix_13[int]\n- *POURCENTAGE_13*: pourcentage_13[double]\n- *CANDIDAT_14*: candidat_14[text]\n- *NB_VOIX_14*: nb_voix_14[int]\n- *POURCENTAGE_14*: pourcentage_14[double]\n- *CANDIDAT_15*: candidat_15[text]\n- *NB_VOIX_15*: nb_voix_15[int]\n- *POURCENTAGE_15*: pourcentage_15[double]\n- *CANDIDAT_16*: candidat_16[text]\n- *NB_VOIX_16*: nb_voix_16[int]\n- *POURCENTAGE_16*: pourcentage_16[int]\n- *CANDIDAT_17*: candidat_17[text]\n- *NB_VOIX_17*: nb_voix_17[int]\n- *POURCENTAGE_17*: pourcentage_17[double]\n- *CANDIDAT_18*: candidat_18[text]\n- *NB_VOIX_18*: nb_voix_18[int]\n- *POURCENTAGE_18*: pourcentage_18[double]\n- *CANDIDAT_19*: candidat_19[text]\n- *NB_VOIX_19*: nb_voix_19[int]\n- *POURCENTAGE_19*: pourcentage_19[int]\n- *CANDIDAT_20*: candidat_20[text]\n- *NB_VOIX_20*: nb_voix_20[int]\n- *POURCENTAGE_20*: pourcentage_20[double]\n- *CANDIDAT_21*: candidat_21[text]\n- *NB_VOIX_21*: nb_voix_21[int]\n- *POURCENTAGE_21*: pourcentage_21[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "67b649b4-6ecb-42d0-aca2-644ae1b5ed27",
+      "last_modified": "2015-04-15T13:09:42",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/67b649b4-6ecb-42d0-aca2-644ae1b5ed27",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T04:02:58.603000",
+      "title": "Export au format CSV",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/resultats-des-elections-europeennes-a-rennes-de-2004-a-2014/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:02:58.604000",
+      "description": "- *CODE_ELECTION*: code_election[text]\n- *NOM_ELECTION*: nom_election[text]\n- *NUMERO_TOUR*: numero_tour[int]\n- *DATE_ELECTION*: date_election[text]\n- *NIVEAU_DETAIL*: niveau_detail[text]\n- *NUMERO_LIEU*: numero_lieu[int]\n- *NOM_LIEU*: nom_lieu[text]\n- *ADRESSE_LIEU*: adresse_lieu[text]\n- *NUMERO_CANTON*: numero_canton[int]\n- *NOM_CANTON*: nom_canton[text]\n- *NUMERO_CIRCONSCRIPTION*: numero_circonscription[int]\n- *NOM_CIRCONSCRIPTION*: nom_circonscription[text]\n- *NB_INSCRITS*: nb_inscrits[int]\n- *NB_EMARGEMENTS*: nb_emargements[int]\n- *NB_BULLETINS*: nb_bulletins[int]\n- *NB_NULS*: nb_nuls[int]\n- *NB_EXPRIMES*: nb_exprimes[int]\n- *POURCENTAGE_PARTICIPATION*: pourcentage_participation[double]\n- *VALID*: valid[text]\n- *CANDIDAT_1*: candidat_1[text]\n- *NB_VOIX_1*: nb_voix_1[int]\n- *POURCENTAGE_1*: pourcentage_1[double]\n- *CANDIDAT_2*: candidat_2[text]\n- *NB_VOIX_2*: nb_voix_2[int]\n- *POURCENTAGE_2*: pourcentage_2[double]\n- *CANDIDAT_3*: candidat_3[text]\n- *NB_VOIX_3*: nb_voix_3[int]\n- *POURCENTAGE_3*: pourcentage_3[double]\n- *CANDIDAT_4*: candidat_4[text]\n- *NB_VOIX_4*: nb_voix_4[int]\n- *POURCENTAGE_4*: pourcentage_4[double]\n- *CANDIDAT_5*: candidat_5[text]\n- *NB_VOIX_5*: nb_voix_5[int]\n- *POURCENTAGE_5*: pourcentage_5[double]\n- *CANDIDAT_6*: candidat_6[text]\n- *NB_VOIX_6*: nb_voix_6[int]\n- *POURCENTAGE_6*: pourcentage_6[double]\n- *CANDIDAT_7*: candidat_7[text]\n- *NB_VOIX_7*: nb_voix_7[int]\n- *POURCENTAGE_7*: pourcentage_7[double]\n- *CANDIDAT_8*: candidat_8[text]\n- *NB_VOIX_8*: nb_voix_8[int]\n- *POURCENTAGE_8*: pourcentage_8[double]\n- *CANDIDAT_9*: candidat_9[text]\n- *NB_VOIX_9*: nb_voix_9[int]\n- *POURCENTAGE_9*: pourcentage_9[double]\n- *CANDIDAT_10*: candidat_10[text]\n- *NB_VOIX_10*: nb_voix_10[int]\n- *POURCENTAGE_10*: pourcentage_10[double]\n- *CANDIDAT_11*: candidat_11[text]\n- *NB_VOIX_11*: nb_voix_11[int]\n- *POURCENTAGE_11*: pourcentage_11[double]\n- *CANDIDAT_12*: candidat_12[text]\n- *NB_VOIX_12*: nb_voix_12[int]\n- *POURCENTAGE_12*: pourcentage_12[double]\n- *CANDIDAT_13*: candidat_13[text]\n- *NB_VOIX_13*: nb_voix_13[int]\n- *POURCENTAGE_13*: pourcentage_13[double]\n- *CANDIDAT_14*: candidat_14[text]\n- *NB_VOIX_14*: nb_voix_14[int]\n- *POURCENTAGE_14*: pourcentage_14[double]\n- *CANDIDAT_15*: candidat_15[text]\n- *NB_VOIX_15*: nb_voix_15[int]\n- *POURCENTAGE_15*: pourcentage_15[double]\n- *CANDIDAT_16*: candidat_16[text]\n- *NB_VOIX_16*: nb_voix_16[int]\n- *POURCENTAGE_16*: pourcentage_16[int]\n- *CANDIDAT_17*: candidat_17[text]\n- *NB_VOIX_17*: nb_voix_17[int]\n- *POURCENTAGE_17*: pourcentage_17[double]\n- *CANDIDAT_18*: candidat_18[text]\n- *NB_VOIX_18*: nb_voix_18[int]\n- *POURCENTAGE_18*: pourcentage_18[double]\n- *CANDIDAT_19*: candidat_19[text]\n- *NB_VOIX_19*: nb_voix_19[int]\n- *POURCENTAGE_19*: pourcentage_19[int]\n- *CANDIDAT_20*: candidat_20[text]\n- *NB_VOIX_20*: nb_voix_20[int]\n- *POURCENTAGE_20*: pourcentage_20[double]\n- *CANDIDAT_21*: candidat_21[text]\n- *NB_VOIX_21*: nb_voix_21[int]\n- *POURCENTAGE_21*: pourcentage_21[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "905b87ac-f352-4432-8a1c-caafe4912e8e",
+      "last_modified": "2015-04-15T13:09:42",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/905b87ac-f352-4432-8a1c-caafe4912e8e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T04:02:58.604000",
+      "title": "Export au format JSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/resultats-des-elections-europeennes-a-rennes-de-2004-a-2014/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "resultats-des-elections-europeennes-a-rennes-de-2004-a-2014",
+  "spatial": null,
+  "tags": [
+    "citoyennete"
+  ],
+  "temporal_coverage": null,
+  "title": "R\u00e9sultats des \u00e9lections europ\u00e9ennes \u00e0 Rennes de 2004 \u00e0 2014",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/resultats-des-elections-europeennes-a-rennes-de-2004-a-2014/"
+}

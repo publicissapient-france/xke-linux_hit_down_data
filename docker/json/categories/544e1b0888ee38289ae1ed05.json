@@ -1,0 +1,81 @@
+{
+  "acronym": null,
+  "badges": [
+    {
+      "kind": "public-service"
+    },
+    {
+      "kind": "certified"
+    }
+  ],
+  "created_at": "2014-10-27T11:14:31.884000",
+  "deleted": null,
+  "description": "Le D\u00e9partement des Hauts-de-Seine fait partie des premi\u00e8res collectivit\u00e9s qui, au-del\u00e0 de la lib\u00e9ration des donn\u00e9es et de la d\u00e9marche de transparence, ont fait le choix d'\u00eatre des acteurs du d\u00e9veloppement de l'Open Data, une d\u00e9marche d\u2019ouverture et d'innovation. Inaugur\u00e9e le 24 janvier 2013, la [plateforme des donn\u00e9es publiques du d\u00e9partement](https://opendata.hauts-de-seine.fr) rend ainsi accessible l\u2019essentiel de ses donn\u00e9es.\n\nLes principales orientations de la politique d\u00e9partementale en la mati\u00e8re :\n\n&nbsp;&nbsp;&nbsp;**- Renforcer la transparence de l'action publique**</br>\nIl s\u2019agit de donner la possibilit\u00e9 aux alto-s\u00e9quanais de mieux comprendre l\u2019action du D\u00e9partement et de participer activement \u00e0 la vie de leur collectivit\u00e9. En donnant ainsi la possibilit\u00e9 aux citoyens de s\u2019informer sur les actions du D\u00e9partement gr\u00e2ce \u00e0 la lecture et la manipulation de ses donn\u00e9es, leur compr\u00e9hension est am\u00e9lior\u00e9e.\n\n&nbsp;&nbsp;&nbsp;**- D\u00e9mocratiser l'acc\u00e8s aux informations**</br>\nUne plateforme d\u2018acc\u00e8s aux diff\u00e9rentes \u00ab donn\u00e9es publiques \u00bb rassembl\u00e9es, cr\u00e9\u00e9es, conserv\u00e9es ou \u00e9dit\u00e9es par les services d\u00e9partementaux. Outre l\u2019engagement vers plus de transparence, cette d\u00e9marche correspond \u00e9galement \u00e0 une mise en conformit\u00e9 au regard des diff\u00e9rentes lois qui visent \u00e0 faciliter l\u2019acc\u00e8s des citoyens \u00e0 l\u2019information. C\u2019est le cas notamment de la loi CADA de 1978 incitant les collectivit\u00e9s publiques \u00e0 publier les donn\u00e9es d\u00e9crivant leur action politique et administrative.\n\nLes fondamentaux de l'Open Data consistent \u00e0 lib\u00e9rer les donn\u00e9es brutes, qui sont le gage de la transparence. Pour une meilleure lisibilit\u00e9 des donn\u00e9es, le D\u00e9partement accompagne la publication des donn\u00e9es brutes de notices explicatives appel\u00e9es \u00e0 s'enrichir au gr\u00e9 des \u00e9changes.\n\n&nbsp;&nbsp;&nbsp;**- Favoriser le d\u00e9veloppement de nouveaux services**</br>\nMarque d\u2019innovation, l\u2019ouverture de donn\u00e9es s\u2019inscrit dans une dynamique de d\u00e9veloppement \u00e9conomique. En effet, la r\u00e9utilisation des donn\u00e9es sous leurs diff\u00e9rentes formes permet la cr\u00e9ation de valeur et le d\u00e9veloppement de services innovants.  En ayant acc\u00e8s aux donn\u00e9es du territoire, les professionnels pourront proposer des services au plus pr\u00e8s des besoins et des attentes de la population.\n\n&nbsp;&nbsp;&nbsp;**- Promouvoir le d\u00e9veloppement territorial**</br>\nLe D\u00e9partement travaille avec ses partenaires pour que l'Open Data des Hauts-de-Seine soit un point f\u00e9d\u00e9rateur de l'offre de donn\u00e9es publiques des acteurs du territoire.\n\nLa d\u00e9marche Open Data permet de repenser le lien citoyen et de renforcer la d\u00e9mocratie locale. V\u00e9ritable levier de modernisation de l\u2019action publique, ses b\u00e9n\u00e9fices sont \u00e0 la fois d\u00e9mocratiques et \u00e9conomiques en permettant de d\u00e9velopper l\u2019attractivit\u00e9 des territoires.\n</br>\n- *Contacter la mission Open Data :* [opendata@hauts-de-seine.fr](mailto:opendata@hauts-de-seine.fr)</br>\n- *En savoir plus sur l'action du D\u00e9partement :* [www.hauts-de-seine.fr](http://www.hauts-de-seine.fr/)",
+  "id": "544e1b0888ee38289ae1ed05",
+  "last_modified": "2017-11-23T16:37:20.496000",
+  "logo": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-original.jpg",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-100.jpg",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/41/17b47b052e43149bd0cd6a0a77b213-original.png",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/41/17b47b052e43149bd0cd6a0a77b213-100.png",
+        "class": "User",
+        "first_name": "OpenDataHautsdeSeine",
+        "id": "534fff46a3a7292c64a77a03",
+        "last_name": "OpenData92",
+        "page": "https://www.data.gouv.fr/fr/users/opendatahautsdeseine-opendata92/",
+        "slug": "opendatahautsdeseine-opendata92",
+        "uri": "https://www.data.gouv.fr/api/1/users/opendatahautsdeseine-opendata92/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "pilot",
+        "id": "54539af8c751df69db225d2e",
+        "last_name": "caroline",
+        "page": "https://www.data.gouv.fr/fr/users/pilot-caroline/",
+        "slug": "pilot-caroline",
+        "uri": "https://www.data.gouv.fr/api/1/users/pilot-caroline/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/2015-01-13/3724266c62c048efb256d076172bda55/Costard-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-01-13/3724266c62c048efb256d076172bda55/Costard-100.jpg",
+        "class": "User",
+        "first_name": "Anthony",
+        "id": "5447cc14c751df7b385d0572",
+        "last_name": "Guillerm",
+        "page": "https://www.data.gouv.fr/fr/users/anthony-guillerm/",
+        "slug": "anthony-guillerm",
+        "uri": "https://www.data.gouv.fr/api/1/users/anthony-guillerm/"
+      }
+    }
+  ],
+  "metrics": {
+    "dataset_views": 393,
+    "datasets": 136,
+    "followers": 15,
+    "members": 3,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 0,
+    "resource_downloads": 153,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 217
+  },
+  "name": "Hauts-de-Seine le D\u00e9partement",
+  "page": "https://www.data.gouv.fr/fr/organizations/hauts-de-seine-le-departement/",
+  "slug": "hauts-de-seine-le-departement",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/hauts-de-seine-le-departement/",
+  "url": "http://www.hauts-de-seine.fr"
+}

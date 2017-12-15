@@ -1,0 +1,79 @@
+{
+  "badges": [],
+  "created_at": "2015-02-05T11:06:26.321000",
+  "deleted": null,
+  "description": "\r\n\r\n- Boites aux lettres\r\n- Bureau de poste\r\n- Distributeurs de billets\r\n- Fontaines d'eau potables\r\n- toilettes Publiques\r\n",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": null,
+  "id": "54d340a2c751df3cdd46738a",
+  "last_modified": "2015-11-29T01:45:01.338000",
+  "last_update": "2015-02-05T11:07:40.424000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 1,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 2
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5437e8c288ee387cb68f5e87",
+    "logo": "https://www.data.gouv.fr/s/avatars/2014-12-17/4978ecfa957246e281634a1ff8af8ad5/Blason_Chaville_Ciril-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-12-17/4978ecfa957246e281634a1ff8af8ad5/Blason_Chaville_Ciril-100.jpg",
+    "name": "Commune de Chaville",
+    "page": "https://www.data.gouv.fr/fr/organizations/commune-de-chaville/",
+    "slug": "commune-de-chaville",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/commune-de-chaville/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/vie-pratique-2/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "b1f141390ab18cce59ca9f02fa0b75f34d1bfd8f"
+      },
+      "created_at": "2015-02-05T11:07:40.424000",
+      "description": "\r\n- Poi",
+      "extras": {},
+      "filesize": 2878,
+      "filetype": "file",
+      "format": "csv",
+      "id": "cfdf34cc-db45-4a09-bc10-f8fac54fe052",
+      "last_modified": "2015-02-05T11:07:40.424000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cfdf34cc-db45-4a09-bc10-f8fac54fe052",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": "text/csv",
+      "published": "2015-02-05T11:07:40.424000",
+      "title": "Poste, Distributeurs de billets, Fontaines Eau potables, ...",
+      "url": "https://www.data.gouv.fr/s/resources/vie-pratique-2/20150205-110737/secours_urgence_1.csv"
+    }
+  ],
+  "slug": "vie-pratique-2",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:commune",
+    "zones": []
+  },
+  "tags": [
+    "distributeurs-de-billets",
+    "fontaines-a-eau",
+    "poste",
+    "sanisettes"
+  ],
+  "temporal_coverage": null,
+  "title": "VIE PRATIQUE",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/vie-pratique-2/"
+}

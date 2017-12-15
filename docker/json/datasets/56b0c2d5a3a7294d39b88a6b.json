@@ -1,0 +1,108 @@
+{
+  "badges": [],
+  "created_at": "2016-02-02T15:53:09.076000",
+  "deleted": null,
+  "description": "Depuis 2010, r\u00e9partition des usagers inscrits dans toutes les biblioth\u00e8ques du r\u00e9seau de la Biblioth\u00e8que de Toulouse (BMVR), par profil d'emprunteur.",
+  "extras": {
+    "harvest:domain": "data.toulouse-metropole.fr",
+    "harvest:last_update": "2017-11-27T05:18:37.719243",
+    "harvest:remote_id": "usagers-inscrits-a-la-bibliotheque-de-toulouse0",
+    "harvest:source_id": "564c3680c751df607daad370",
+    "ods:has_records": true,
+    "ods:url": "https://data.toulouse-metropole.fr//explore/dataset/usagers-inscrits-a-la-bibliotheque-de-toulouse0/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "56b0c2d5a3a7294d39b88a6b",
+  "last_modified": "2017-11-27T05:18:37.723000",
+  "last_update": "2017-11-27T05:18:37.717000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb3a3a7292c64a78129",
+    "logo": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-100.jpg",
+    "name": "Toulouse m\u00e9trople",
+    "page": "https://www.data.gouv.fr/fr/organizations/toulouse-metrople/",
+    "slug": "toulouse-metrople",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/toulouse-metrople/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/usagers-inscrits-a-la-bibliotheque-de-toulouse/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:18:37.717000",
+      "description": "- *ANNEE*: annee[int]\n- *Profil d'usager*: profil_d_usager[text]\n- *ANC*: anc[int]\n- *BON*: bon[int]\n- *BUS*: bus[int]\n- *CAB*: cab[int]\n- *COL*: col[int]\n- *CYP*: cyp[int]\n- *DAU*: dau[int]\n- *DEM*: dem[int]\n- *DUR*: dur[int]\n- *EMP*: emp[int]\n- *EXU*: exu[int]\n- *FAB*: fab[int]\n- *FCJ*: fcj[int]\n- *IZA*: iza[int]\n- *MIN*: min[int]\n- *PAV*: pav[int]\n- *PER*: per[int]\n- *PIN*: pin[int]\n- *PRA*: pra[int]\n- *PVP*: pvp[int]\n- *RAN*: ran[int]\n- *REY*: rey[int]\n- *ROS*: ros[int]\n- *SER*: ser[int]\n- *All*: all[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "39644374-5f51-4341-915c-4d4661c695e6",
+      "last_modified": "2017-01-25T09:24:57",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/39644374-5f51-4341-915c-4d4661c695e6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:18:37.717000",
+      "title": "Export au format CSV",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/usagers-inscrits-a-la-bibliotheque-de-toulouse0/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:18:37.717000",
+      "description": "- *ANNEE*: annee[int]\n- *Profil d'usager*: profil_d_usager[text]\n- *ANC*: anc[int]\n- *BON*: bon[int]\n- *BUS*: bus[int]\n- *CAB*: cab[int]\n- *COL*: col[int]\n- *CYP*: cyp[int]\n- *DAU*: dau[int]\n- *DEM*: dem[int]\n- *DUR*: dur[int]\n- *EMP*: emp[int]\n- *EXU*: exu[int]\n- *FAB*: fab[int]\n- *FCJ*: fcj[int]\n- *IZA*: iza[int]\n- *MIN*: min[int]\n- *PAV*: pav[int]\n- *PER*: per[int]\n- *PIN*: pin[int]\n- *PRA*: pra[int]\n- *PVP*: pvp[int]\n- *RAN*: ran[int]\n- *REY*: rey[int]\n- *ROS*: ros[int]\n- *SER*: ser[int]\n- *All*: all[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "310f5a6e-729d-45db-b24e-850e743385db",
+      "last_modified": "2017-01-25T09:24:57",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/310f5a6e-729d-45db-b24e-850e743385db",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:18:37.717000",
+      "title": "Export au format JSON",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/usagers-inscrits-a-la-bibliotheque-de-toulouse0/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "usagers-inscrits-a-la-bibliotheque-de-toulouse",
+  "spatial": null,
+  "tags": [
+    "abonnes",
+    "bibliotheque",
+    "bm",
+    "bmvr",
+    "culture",
+    "inscrits",
+    "lecteurs",
+    "mediatheque",
+    "statistiques",
+    "usagers"
+  ],
+  "temporal_coverage": null,
+  "title": "Usagers inscrits \u00e0 la Biblioth\u00e8que de Toulouse",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/usagers-inscrits-a-la-bibliotheque-de-toulouse/"
+}

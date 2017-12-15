@@ -1,0 +1,145 @@
+{
+  "badges": [],
+  "created_at": "2017-07-05T01:39:52.820000",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es contient des informations sur les emplacements des espaces canins, canisites, distributeurs et d\u00e9positaires de sacs canins \u00e0 Issy-les-Moulineaux.",
+  "extras": {
+    "harvest:domain": "data.issy.com",
+    "harvest:last_update": "2017-11-27T05:04:28.946528",
+    "harvest:remote_id": "canisites-distributeurs-et-depositaires-de-sacs-canins-a-issy-les-moulineaux",
+    "harvest:source_id": "595c266188ee382c7517add5",
+    "ods:has_records": true,
+    "ods:url": "https://data.issy.com//explore/dataset/canisites-distributeurs-et-depositaires-de-sacs-canins-a-issy-les-moulineaux/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "595c2748a3a7296407d69b5e",
+  "last_modified": "2017-11-27T05:04:28.950000",
+  "last_update": "2017-11-27T05:04:28.945000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb7a3a7292c64a78145",
+    "logo": "https://www.data.gouv.fr/s/avatars/b9/beecacecbd4d42ac10ef244f11e44e-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b9/beecacecbd4d42ac10ef244f11e44e-100.png",
+    "name": "Ville d'Issy-les-Moulineaux",
+    "page": "https://www.data.gouv.fr/fr/organizations/ville-d-issy-les-moulineaux/",
+    "slug": "ville-d-issy-les-moulineaux",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ville-d-issy-les-moulineaux/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/canisites-distributeurs-et-depositaires-de-sacs-canins-a-issy-les-moulineaux/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:04:28.944000",
+      "description": "- *Adresse*: localisati[text]\n- *Pr\u00e9cision sur la localisation*: comp_local[text]\n- *Solution*: type_solut[text]\n- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "aa0304fb-7bf1-4138-b4f3-1577de7d1531",
+      "last_modified": "2015-08-06T14:15:55",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/aa0304fb-7bf1-4138-b4f3-1577de7d1531",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:04:28.944000",
+      "title": "Export au format CSV",
+      "url": "https://data.issy.com//explore/dataset/canisites-distributeurs-et-depositaires-de-sacs-canins-a-issy-les-moulineaux/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:04:28.944000",
+      "description": "- *Adresse*: localisati[text]\n- *Pr\u00e9cision sur la localisation*: comp_local[text]\n- *Solution*: type_solut[text]\n- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "92258479-cf19-4d55-9dc6-5ec4ca372d70",
+      "last_modified": "2015-08-06T14:15:55",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/92258479-cf19-4d55-9dc6-5ec4ca372d70",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:04:28.944000",
+      "title": "Export au format JSON",
+      "url": "https://data.issy.com//explore/dataset/canisites-distributeurs-et-depositaires-de-sacs-canins-a-issy-les-moulineaux/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:04:28.945000",
+      "description": "- *Adresse*: localisati[text]\n- *Pr\u00e9cision sur la localisation*: comp_local[text]\n- *Solution*: type_solut[text]\n- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "aa7aa04d-28e7-43e4-a770-3230ac0589f6",
+      "last_modified": "2015-08-06T14:15:55",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/aa7aa04d-28e7-43e4-a770-3230ac0589f6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:04:28.945000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.issy.com//explore/dataset/canisites-distributeurs-et-depositaires-de-sacs-canins-a-issy-les-moulineaux/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:04:28.945000",
+      "description": "- *Adresse*: localisati[text]\n- *Pr\u00e9cision sur la localisation*: comp_local[text]\n- *Solution*: type_solut[text]\n- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "d41ac8de-e746-4875-867a-b28e5c40d75a",
+      "last_modified": "2015-08-06T14:15:55",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d41ac8de-e746-4875-867a-b28e5c40d75a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:04:28.945000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.issy.com//explore/dataset/canisites-distributeurs-et-depositaires-de-sacs-canins-a-issy-les-moulineaux/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "canisites-distributeurs-et-depositaires-de-sacs-canins-a-issy-les-moulineaux",
+  "spatial": null,
+  "tags": [
+    "canisites",
+    "chien",
+    "environnement",
+    "sacs-canins"
+  ],
+  "temporal_coverage": null,
+  "title": "Canisites, distributeurs et d\u00e9positaires de sacs canins \u00e0 Issy-les-Moulineaux",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/canisites-distributeurs-et-depositaires-de-sacs-canins-a-issy-les-moulineaux/"
+}

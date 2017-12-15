@@ -1,0 +1,82 @@
+{
+  "badges": [],
+  "created_at": "2016-03-29T00:00:00",
+  "deleted": null,
+  "description": "A l'occasion de l'Open Data Data Day 2016, Yelloworking le coworking \u00e0 Aix publie le d\u00e9tail de ces recettes dans un fichier librement r\u00e9utilisable en open data. Ces donn\u00e9es ne comptent pas les recettes exceptionnelles issues des  campagnes de crowdfounding. \nPlus d'infos : hello@yelloworking.com",
+  "extras": {
+    "ckan:name": "recettes-de-yelloworking-espace-de-coworking-a-aix",
+    "harvest:domain": "www.nosdonnees.fr",
+    "harvest:last_update": "2017-07-10T06:05:56.104212",
+    "harvest:remote_id": "cf8f503f-0e8c-452c-ac18-6b5ef591dd98",
+    "harvest:source_id": "5878ee1588ee385bffa6f719"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5878ee77a3a7291485cac803",
+  "last_modified": "2017-07-10T06:05:56.109000",
+  "last_update": "2017-01-13T16:12:55.264000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff99a3a7292c64a78016",
+    "logo": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-100.png",
+    "name": "NosDonn\u00e9es.fr",
+    "page": "https://www.data.gouv.fr/fr/organizations/nosdonnees-fr/",
+    "slug": "nosdonnees-fr",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nosdonnees-fr/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/recettes-de-yelloworking-espace-de-coworking-a-aix/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:55.264000",
+      "description": "Le fichier comporte le d\u00e9tail des recettes d\u00e9clin\u00e9es selon [l'offre] (http://yelloworking.com/offres/).",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T14:09:23.028000",
+        "check:status": 200,
+        "check:url": "http://www.nosdonnees.fr/dataset/cf8f503f-0e8c-452c-ac18-6b5ef591dd98/resource/7bc28914-b324-473e-a146-ce43f2920b68/download/recettesyelloworkingquotidien.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "7bc28914-b324-473e-a146-ce43f2920b68",
+      "last_modified": "2017-07-10T06:05:56.103000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7bc28914-b324-473e-a146-ce43f2920b68",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:12:55.264000",
+      "title": "Recettes d\u00e9taill\u00e9es de Yelloworking",
+      "url": "http://www.nosdonnees.fr/dataset/cf8f503f-0e8c-452c-ac18-6b5ef591dd98/resource/7bc28914-b324-473e-a146-ce43f2920b68/download/recettesyelloworkingquotidien.csv"
+    }
+  ],
+  "slug": "recettes-de-yelloworking-espace-de-coworking-a-aix",
+  "spatial": null,
+  "tags": [
+    "coworking",
+    "transparence"
+  ],
+  "temporal_coverage": null,
+  "title": "Recettes de Yelloworking, espace de coworking \u00e0 Aix en Provence",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/recettes-de-yelloworking-espace-de-coworking-a-aix/"
+}

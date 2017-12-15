@@ -1,0 +1,81 @@
+{
+  "badges": [],
+  "created_at": "2015-07-16T10:09:22.336000",
+  "deleted": null,
+  "description": "Liste des voies publiques, avec nom complet officiel et appartenance \u00e0 l'un des 15 quartiers de Saint-Malo.",
+  "extras": {},
+  "frequency": "punctual",
+  "frequency_date": null,
+  "id": "55a766b2c751df158c330fd5",
+  "last_modified": "2016-02-26T03:36:43.873000",
+  "last_update": "2015-07-16T10:09:32.599000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 33
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "53ba4599a3a729219b7beaca",
+    "logo": "https://www.data.gouv.fr/s/avatars/71/d80c263317463ca8050811b5b22be6-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/71/d80c263317463ca8050811b5b22be6-100.png",
+    "name": "Ville de Saint-Malo",
+    "page": "https://www.data.gouv.fr/fr/organizations/ville-de-saint-malo/",
+    "slug": "ville-de-saint-malo",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ville-de-saint-malo/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/index-des-rues/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "e0e1f52399f180f9b8b93fc4d4a06eb465410df6"
+      },
+      "created_at": "2015-07-16T10:09:32.599000",
+      "description": null,
+      "extras": {},
+      "filesize": 51592,
+      "filetype": "file",
+      "format": "csv",
+      "id": "4dbe5a36-ba2e-4686-a3e2-e01f933ea565",
+      "last_modified": "2015-07-16T10:09:37.485000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4dbe5a36-ba2e-4686-a3e2-e01f933ea565",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 32
+      },
+      "mime": "text/csv",
+      "published": "2015-07-16T10:09:32.599000",
+      "title": "35288-STMALO-INDEX-RUES.csv",
+      "url": "https://www.data.gouv.fr/s/resources/index-des-rues/20150716-100932/35288-STMALO-INDEX-RUES.csv"
+    }
+  ],
+  "slug": "index-des-rues",
+  "spatial": {
+    "geom": null,
+    "granularity": "other",
+    "zones": [
+      "fr:commune:35288@1942-01-01"
+    ]
+  },
+  "tags": [
+    "rue",
+    "voie",
+    "voirie"
+  ],
+  "temporal_coverage": null,
+  "title": "Index des rues",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/index-des-rues/"
+}

@@ -1,0 +1,104 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T19:51:19.825000",
+  "deleted": null,
+  "description": "R\u00e9sultats du premier tour des \u00e9lections l\u00e9gislatives du dimanche 11 juin 2017.",
+  "extras": {
+    "harvest:domain": "data.toulouse-metropole.fr",
+    "harvest:last_update": "2017-11-27T05:22:45.579016",
+    "harvest:remote_id": "elections-legislatives-2017-1er-tour-resultats-ville-de-toulouse",
+    "harvest:source_id": "564c3680c751df607daad370",
+    "ods:has_records": true,
+    "ods:url": "https://data.toulouse-metropole.fr//explore/dataset/elections-legislatives-2017-1er-tour-resultats-ville-de-toulouse/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59593297a3a7291dcf9c8269",
+  "last_modified": "2017-11-27T05:22:45.581000",
+  "last_update": "2017-11-27T05:22:45.578000",
+  "license": "odc-odbl",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb3a3a7292c64a78129",
+    "logo": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-100.jpg",
+    "name": "Toulouse m\u00e9trople",
+    "page": "https://www.data.gouv.fr/fr/organizations/toulouse-metrople/",
+    "slug": "toulouse-metrople",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/toulouse-metrople/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/elections-legislatives-2017-1er-tour-resultats-ville-de-toulouse/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:22:45.578000",
+      "description": "- *Sequence*: sequence[int] Num\u00e9ro de s\u00e9quence incr\u00e9ment\u00e9 par ligne de 1 \u00e0 n\n- *Type*: type[text] Type d'\u00e9lection\u00a0: \u00ab\u00a0PR\u00a0\u00bb pour la pr\u00e9sidentielle\n- *Ann\u00e9e*: annee[text] Ann\u00e9e de l'\u00e9lection\u00a0: \u00ab\u00a02017\u00bb\n- *Tour*: numero_tour[int] Num\u00e9ro du tour\u00a0: \u00ab\u00a01\u00a0\u00bb pour le 1ier tour, \u00ab\u00a02\u00a0\u00bb pour le 2i\u00e8me tour\n- *D\u00e9partement*: dpt[int] Code du d\u00e9partement\u00a0: \u00ab\u00a031\u00a0\u00bb\n- *Commune*: commune[int] Code de la commune\u00a0: \u00ab\u00a0555\u00a0\u00bb\n- *Num\u00e9ro du bureau*: numero_lieu[text] \u00ab\u00a00001\u00a0\u00bb \u00e0 \u00ab\u00a00256\u00a0\u00bb, 7 bureaux ont une lettre accol\u00e9e ex 69A\n- * Code canton*: code_canton[int] \u00ab\u00a015\u00a0\u00bb pour Toulouse I\n\u00ab\u00a016\u00bb pour Toulouse II\n\u00ab\u00a017\u00a0\u00bb pour Toulouse III\n\u00ab\u00a018\u00a0\u00bb pour Toulouse IV\n\u00ab\u00a019\u00a0\u00bb pour Toulouse V\n\u00ab\u00a010\u00a0\u00bb pour Toulouse VI\n\u00ab\u00a021\u00a0\u00bb pour Toulouse VII\n\u00ab\u00a022\u00a0\u00bb pour Toulouse VIII\n\u00ab\u00a023\u00a0\u00bb pour Toulouse IX\n\u00ab\u00a024\u00a0\u00bb pour Toulouse X\n\u00ab\u00a025\u00a0\u00bb pour Toulouse XI\n\n- *Code circonscription*: code_circo[text] \u00ab\u00a001\u00a0\u00bb pour circonscription 1\n\u00ab\u00a002\u00a0\u00bb pour circonscription 2\n\u00ab\u00a003\u00a0\u00bb pour circonscription 3\n\u00ab\u00a005\u00a0\u00bb pour circonscription 5\n\u00ab\u00a009\u00a0\u00bb pour circonscription 9\n\n- *Indicatif*: indicatif[text]\n- *Nombre d'inscrits*: nb_inscrits[int] Nombre d'inscrits\n- *Nombre d'abstentions*: abstention[int]\n- *Nombre de votants*: nb_bulletins[int]\n- *Nombre de votants d'apr\u00e8s les feuilles d'\u00e9margement*: nb_emargements[int] Nombre de votants d'apr\u00e8s les feuilles d'\u00e9margement\n\n- *Nombre de bulletins blancs*: blancs[int]\n- *Nombre de bulletins nuls*: nb_nuls[int] Nombre de bulletins nuls\n- *Nombre d'exprim\u00e9s*: nb_exprimes[int] Nombre de votants\n- *Nombre de candidats*: nb_candidats[int]\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_1[int] Code du d\u00e9p\u00f4t du candidat\n\n- *Nombre de voix du candidat*: nb_voix_1[int]\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_2[int] Code du d\u00e9p\u00f4t du candidat\n- *Nombre de voix du candidat*: nb_voix_2[int]\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_3[int] Code du d\u00e9p\u00f4t du candidat\n- *Nombre de voix du candidat*: nb_voix_3[int]\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_4[int] Code du d\u00e9p\u00f4t du candidat\n- *Nombre de voix du candidat*: nb_voix_4[int]\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_5[text] Code du d\u00e9p\u00f4t du candidat\n- *Nombre de voix du candidat*: nb_voix_5[int] Nombre de voix du candidat\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_6[text] Code du d\u00e9p\u00f4t du candidat\n- *Nombre de voix du candidat*: nb_voix_6[int] Nombre de voix du candidat\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_7[text] Code du d\u00e9p\u00f4t du candidat\n- *Nombre de voix du candidat*: nb_voix_7[int] Nombre de voix du candidat\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_8[text] Code du d\u00e9p\u00f4t du candidat\n- *Nombre de voix du candidat*: nb_voix_8[int] Nombre de voix du candidat\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_9[text] Code du d\u00e9p\u00f4t du candidat\n- *Nombre de voix du candidat*: nb_voix_9[int] Nombre de voix du candidat\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_10[text]\n- *Nombre de voix du candidat*: nb_voix_10[int] Nombre de voix du candidat\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_11[text] Code du d\u00e9p\u00f4t du candidat\n- *Nombre de voix du candidat*: nb_voix_11[int] Nombre de voix du candidat\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_12[text] Code du d\u00e9p\u00f4t du candidat\n- *Nombre de voix du candidat*: nb_voix_12[int] Nombre de voix du candidat\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_13[text] Code du d\u00e9p\u00f4t du candidat\n- *Nombre de voix du candidat*: nb_voix_13[int] Nombre de voix du candidat\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_14[text] Code du d\u00e9p\u00f4t du candidat\n- *Nombre de voix du candidat*: nb_voix_14[int] Nombre de voix du candidat\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_15[int] Code du d\u00e9p\u00f4t du candidat\n- *Nombre de voix du candidat*: nb_voix_15[int] Nombre de voix du candidat\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_16[text] Code du d\u00e9p\u00f4t du candidat\n- *Nombre de voix du candidat*: nb_voix_16[int] Nombre de voix du candidat\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_17[text] Code du d\u00e9p\u00f4t du candidat\n- *Nombre de voix du candidat*: nb_voix_17[int] Nombre de voix du candidat\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "df6ae964-1e0e-4bfa-bb13-ca56baa95fc7",
+      "last_modified": "2017-06-11T22:33:01",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/df6ae964-1e0e-4bfa-bb13-ca56baa95fc7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:22:45.578000",
+      "title": "Export au format CSV",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/elections-legislatives-2017-1er-tour-resultats-ville-de-toulouse/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:22:45.578000",
+      "description": "- *Sequence*: sequence[int] Num\u00e9ro de s\u00e9quence incr\u00e9ment\u00e9 par ligne de 1 \u00e0 n\n- *Type*: type[text] Type d'\u00e9lection\u00a0: \u00ab\u00a0PR\u00a0\u00bb pour la pr\u00e9sidentielle\n- *Ann\u00e9e*: annee[text] Ann\u00e9e de l'\u00e9lection\u00a0: \u00ab\u00a02017\u00bb\n- *Tour*: numero_tour[int] Num\u00e9ro du tour\u00a0: \u00ab\u00a01\u00a0\u00bb pour le 1ier tour, \u00ab\u00a02\u00a0\u00bb pour le 2i\u00e8me tour\n- *D\u00e9partement*: dpt[int] Code du d\u00e9partement\u00a0: \u00ab\u00a031\u00a0\u00bb\n- *Commune*: commune[int] Code de la commune\u00a0: \u00ab\u00a0555\u00a0\u00bb\n- *Num\u00e9ro du bureau*: numero_lieu[text] \u00ab\u00a00001\u00a0\u00bb \u00e0 \u00ab\u00a00256\u00a0\u00bb, 7 bureaux ont une lettre accol\u00e9e ex 69A\n- * Code canton*: code_canton[int] \u00ab\u00a015\u00a0\u00bb pour Toulouse I\n\u00ab\u00a016\u00bb pour Toulouse II\n\u00ab\u00a017\u00a0\u00bb pour Toulouse III\n\u00ab\u00a018\u00a0\u00bb pour Toulouse IV\n\u00ab\u00a019\u00a0\u00bb pour Toulouse V\n\u00ab\u00a010\u00a0\u00bb pour Toulouse VI\n\u00ab\u00a021\u00a0\u00bb pour Toulouse VII\n\u00ab\u00a022\u00a0\u00bb pour Toulouse VIII\n\u00ab\u00a023\u00a0\u00bb pour Toulouse IX\n\u00ab\u00a024\u00a0\u00bb pour Toulouse X\n\u00ab\u00a025\u00a0\u00bb pour Toulouse XI\n\n- *Code circonscription*: code_circo[text] \u00ab\u00a001\u00a0\u00bb pour circonscription 1\n\u00ab\u00a002\u00a0\u00bb pour circonscription 2\n\u00ab\u00a003\u00a0\u00bb pour circonscription 3\n\u00ab\u00a005\u00a0\u00bb pour circonscription 5\n\u00ab\u00a009\u00a0\u00bb pour circonscription 9\n\n- *Indicatif*: indicatif[text]\n- *Nombre d'inscrits*: nb_inscrits[int] Nombre d'inscrits\n- *Nombre d'abstentions*: abstention[int]\n- *Nombre de votants*: nb_bulletins[int]\n- *Nombre de votants d'apr\u00e8s les feuilles d'\u00e9margement*: nb_emargements[int] Nombre de votants d'apr\u00e8s les feuilles d'\u00e9margement\n\n- *Nombre de bulletins blancs*: blancs[int]\n- *Nombre de bulletins nuls*: nb_nuls[int] Nombre de bulletins nuls\n- *Nombre d'exprim\u00e9s*: nb_exprimes[int] Nombre de votants\n- *Nombre de candidats*: nb_candidats[int]\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_1[int] Code du d\u00e9p\u00f4t du candidat\n\n- *Nombre de voix du candidat*: nb_voix_1[int]\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_2[int] Code du d\u00e9p\u00f4t du candidat\n- *Nombre de voix du candidat*: nb_voix_2[int]\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_3[int] Code du d\u00e9p\u00f4t du candidat\n- *Nombre de voix du candidat*: nb_voix_3[int]\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_4[int] Code du d\u00e9p\u00f4t du candidat\n- *Nombre de voix du candidat*: nb_voix_4[int]\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_5[text] Code du d\u00e9p\u00f4t du candidat\n- *Nombre de voix du candidat*: nb_voix_5[int] Nombre de voix du candidat\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_6[text] Code du d\u00e9p\u00f4t du candidat\n- *Nombre de voix du candidat*: nb_voix_6[int] Nombre de voix du candidat\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_7[text] Code du d\u00e9p\u00f4t du candidat\n- *Nombre de voix du candidat*: nb_voix_7[int] Nombre de voix du candidat\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_8[text] Code du d\u00e9p\u00f4t du candidat\n- *Nombre de voix du candidat*: nb_voix_8[int] Nombre de voix du candidat\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_9[text] Code du d\u00e9p\u00f4t du candidat\n- *Nombre de voix du candidat*: nb_voix_9[int] Nombre de voix du candidat\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_10[text]\n- *Nombre de voix du candidat*: nb_voix_10[int] Nombre de voix du candidat\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_11[text] Code du d\u00e9p\u00f4t du candidat\n- *Nombre de voix du candidat*: nb_voix_11[int] Nombre de voix du candidat\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_12[text] Code du d\u00e9p\u00f4t du candidat\n- *Nombre de voix du candidat*: nb_voix_12[int] Nombre de voix du candidat\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_13[text] Code du d\u00e9p\u00f4t du candidat\n- *Nombre de voix du candidat*: nb_voix_13[int] Nombre de voix du candidat\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_14[text] Code du d\u00e9p\u00f4t du candidat\n- *Nombre de voix du candidat*: nb_voix_14[int] Nombre de voix du candidat\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_15[int] Code du d\u00e9p\u00f4t du candidat\n- *Nombre de voix du candidat*: nb_voix_15[int] Nombre de voix du candidat\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_16[text] Code du d\u00e9p\u00f4t du candidat\n- *Nombre de voix du candidat*: nb_voix_16[int] Nombre de voix du candidat\n- *Code d\u00e9p\u00f4t du candidat*: code_depot_17[text] Code du d\u00e9p\u00f4t du candidat\n- *Nombre de voix du candidat*: nb_voix_17[int] Nombre de voix du candidat\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "d7f99e74-596b-488b-a7a7-b52a95c538b4",
+      "last_modified": "2017-06-11T22:33:01",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d7f99e74-596b-488b-a7a7-b52a95c538b4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:22:45.578000",
+      "title": "Export au format JSON",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/elections-legislatives-2017-1er-tour-resultats-ville-de-toulouse/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "elections-legislatives-2017-1er-tour-resultats-ville-de-toulouse",
+  "spatial": null,
+  "tags": [
+    "1er",
+    "2017",
+    "citoyennete",
+    "election",
+    "legislative",
+    "premier",
+    "tour"
+  ],
+  "temporal_coverage": null,
+  "title": "Elections l\u00e9gislatives 2017 - 1er tour - R\u00e9sultats - Ville de Toulouse",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/elections-legislatives-2017-1er-tour-resultats-ville-de-toulouse/"
+}

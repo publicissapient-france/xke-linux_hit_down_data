@@ -1,0 +1,228 @@
+{
+  "badges": [],
+  "created_at": "2017-09-29T00:00:00",
+  "deleted": null,
+  "description": "Taux de participation aux \u00e9lections pr\u00e9sidentielles pour la France m\u00e9tropolitaine, par d\u00e9partements.",
+  "extras": {
+    "ckan:name": "taux-de-participation-aux-elections-presidentielles",
+    "contact_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "contact_name": "Mission Agenda 21",
+    "contact_uri": "https://datacat.datalocale.fr/414579",
+    "guid": "https://datacat.datalocale.fr/416168",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-10-02T07:52:44.625276",
+    "harvest:remote_id": "5a7ba244-7080-48e4-829e-582b2cfbebb4",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "ca52eb4f-ac36-4921-aad4-adfec3bd4f83",
+    "issued": "2013-08-27T09:46:59+00:00",
+    "modified": "2016-07-18T09:21:06.643522+00:00",
+    "publisher_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "publisher_name": "dgsd-a21",
+    "publisher_uri": "https://datacat.datalocale.fr/414578",
+    "theme": "[\"\u00e9lection pr\u00e9sidentielle\"]",
+    "uri": "https://datacat.datalocale.fr/416168"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59cf1b4eb59508043ce9b880",
+  "last_modified": "2017-10-02T07:52:44.627000",
+  "last_update": "2017-10-02T07:52:44.624000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/taux-de-participation-aux-elections-presidentielles-1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:19:26.662000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-14T05:34:16.641000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415140/raw/2013-01-14-164721DVZ_IG_1-1_Presidentielles_2007.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c2ab19ff-bd8a-4e8e-b763-4fb8aa88e84c",
+      "last_modified": "2017-09-30T06:19:26.662000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c2ab19ff-bd8a-4e8e-b763-4fb8aa88e84c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-30T06:19:26.662000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8. Ce fichier contient les informations utilis\u00e9es pour construire l'indice de gouvernance d\u00e9partemental",
+      "url": "https://datacat.datalocale.fr/file/415140/raw/2013-01-14-164721DVZ_IG_1-1_Presidentielles_2007.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:19:26.662000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-15T23:16:33.478000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415142/raw/2013-01-14-164722DVZ_IG_1-2_Presidentielles2012.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c84cde38-0617-4384-9e44-964aabb3182a",
+      "last_modified": "2017-09-30T06:19:26.662000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c84cde38-0617-4384-9e44-964aabb3182a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-30T06:19:26.662000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8. Ce fichier contient les informations utilis\u00e9es pour construire l'indice de gouvernance d\u00e9partemental",
+      "url": "https://datacat.datalocale.fr/file/415142/raw/2013-01-14-164722DVZ_IG_1-2_Presidentielles2012.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-01T06:09:21.851000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-14T05:34:16.641000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415140/raw/2013-01-14-164721DVZ_IG_1-1_Presidentielles_2007.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "476391ee-0563-48cc-937e-86841987ddbc",
+      "last_modified": "2017-10-01T06:09:21.851000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/476391ee-0563-48cc-937e-86841987ddbc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-01T06:09:21.851000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8. Ce fichier contient les informations utilis\u00e9es pour construire l'indice de gouvernance d\u00e9partemental",
+      "url": "https://datacat.datalocale.fr/file/415140/raw/2013-01-14-164721DVZ_IG_1-1_Presidentielles_2007.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-01T06:09:21.852000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-15T23:16:33.478000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415142/raw/2013-01-14-164722DVZ_IG_1-2_Presidentielles2012.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "88df10d4-a0ee-4961-921f-e849739bfca4",
+      "last_modified": "2017-10-01T06:09:21.852000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/88df10d4-a0ee-4961-921f-e849739bfca4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-01T06:09:21.852000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8. Ce fichier contient les informations utilis\u00e9es pour construire l'indice de gouvernance d\u00e9partemental",
+      "url": "https://datacat.datalocale.fr/file/415142/raw/2013-01-14-164722DVZ_IG_1-2_Presidentielles2012.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-02T07:52:44.623000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-14T05:34:16.641000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415140/raw/2013-01-14-164721DVZ_IG_1-1_Presidentielles_2007.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "bcf39842-6abe-4fd8-aae9-d27e6ae206e1",
+      "last_modified": "2017-10-02T07:52:44.623000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/bcf39842-6abe-4fd8-aae9-d27e6ae206e1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-02T07:52:44.623000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8. Ce fichier contient les informations utilis\u00e9es pour construire l'indice de gouvernance d\u00e9partemental",
+      "url": "https://datacat.datalocale.fr/file/415140/raw/2013-01-14-164721DVZ_IG_1-1_Presidentielles_2007.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-02T07:52:44.624000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T09:48:37.213000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415142/raw/2013-01-14-164722DVZ_IG_1-2_Presidentielles2012.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "6a036336-efae-4984-9c83-e219bc9a00f5",
+      "last_modified": "2017-10-02T07:52:44.624000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6a036336-efae-4984-9c83-e219bc9a00f5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-02T07:52:44.624000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8. Ce fichier contient les informations utilis\u00e9es pour construire l'indice de gouvernance d\u00e9partemental",
+      "url": "https://datacat.datalocale.fr/file/415142/raw/2013-01-14-164722DVZ_IG_1-2_Presidentielles2012.csv"
+    }
+  ],
+  "slug": "taux-de-participation-aux-elections-presidentielles-1",
+  "spatial": null,
+  "tags": [
+    "elections",
+    "participation"
+  ],
+  "temporal_coverage": null,
+  "title": "Taux de participation aux \u00e9lections pr\u00e9sidentielles",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/taux-de-participation-aux-elections-presidentielles-1/"
+}

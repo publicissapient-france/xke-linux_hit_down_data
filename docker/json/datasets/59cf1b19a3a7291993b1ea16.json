@@ -1,0 +1,228 @@
+{
+  "badges": [],
+  "created_at": "2017-09-29T00:00:00",
+  "deleted": null,
+  "description": "Part des \u00e9tablissements scolaires en Agenda21.",
+  "extras": {
+    "ckan:name": "part-des-etablissements-scolaires-en-agenda21",
+    "contact_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "contact_name": "Mission Agenda 21",
+    "contact_uri": "https://datacat.datalocale.fr/414579",
+    "guid": "https://datacat.datalocale.fr/415363",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-10-02T07:51:40.660184",
+    "harvest:remote_id": "d9d89c72-a3c7-4879-a615-0b4697c780ea",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "5edc9da4-8cc4-4ae5-bdd8-34ac47e48993",
+    "issued": "2013-08-27T09:50:52+00:00",
+    "modified": "2016-07-18T09:21:05.813108+00:00",
+    "publisher_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "publisher_name": "dgsd-a21",
+    "publisher_uri": "https://datacat.datalocale.fr/414578",
+    "theme": "[\"d\u00e9veloppement social\"]",
+    "uri": "https://datacat.datalocale.fr/415363"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59cf1b19a3a7291993b1ea16",
+  "last_modified": "2017-10-02T07:51:40.662000",
+  "last_update": "2017-10-02T07:51:40.659000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/part-des-etablissements-scolaires-en-agenda21-1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:18:33.404000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T21:40:44.468000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415367/raw/2013-09-02-095338tx_etab_scolaire_agenda21desc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "7af96a9e-5319-4b40-9f0d-05dd1c03b5e5",
+      "last_modified": "2017-09-30T06:18:33.405000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7af96a9e-5319-4b40-9f0d-05dd1c03b5e5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-09-30T06:18:33.404000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415367/raw/2013-09-02-095338tx_etab_scolaire_agenda21desc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:18:33.405000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T21:40:43.745000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415365/raw/2013-09-02-095338tx_etab_scolaire_agenda21.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "91b27a95-1a74-445b-be53-34b639ba0b92",
+      "last_modified": "2017-09-30T06:18:33.405000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/91b27a95-1a74-445b-be53-34b639ba0b92",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-30T06:18:33.405000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415365/raw/2013-09-02-095338tx_etab_scolaire_agenda21.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-01T06:08:25.070000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T21:40:41.591000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415367/raw/2013-09-02-095338tx_etab_scolaire_agenda21desc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "ca78e689-efe4-4abb-8282-d1e785c309cf",
+      "last_modified": "2017-10-01T06:08:25.070000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ca78e689-efe4-4abb-8282-d1e785c309cf",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-10-01T06:08:25.070000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415367/raw/2013-09-02-095338tx_etab_scolaire_agenda21desc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-01T06:08:25.070000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-11T17:34:24.541000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415365/raw/2013-09-02-095338tx_etab_scolaire_agenda21.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "38056202-e1ae-45b4-9b26-88af10895a0a",
+      "last_modified": "2017-10-01T06:08:25.071000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/38056202-e1ae-45b4-9b26-88af10895a0a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-01T06:08:25.070000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415365/raw/2013-09-02-095338tx_etab_scolaire_agenda21.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-02T07:51:40.658000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-11T17:37:52.121000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415367/raw/2013-09-02-095338tx_etab_scolaire_agenda21desc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "7b0ac8a1-c907-4301-bf4e-8976fc6b8364",
+      "last_modified": "2017-10-02T07:51:40.658000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7b0ac8a1-c907-4301-bf4e-8976fc6b8364",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-10-02T07:51:40.658000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415367/raw/2013-09-02-095338tx_etab_scolaire_agenda21desc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-02T07:51:40.659000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T21:40:40.957000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415365/raw/2013-09-02-095338tx_etab_scolaire_agenda21.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "16fef33b-ebbe-4d3b-b528-5c85ab0c8f37",
+      "last_modified": "2017-10-02T07:51:40.659000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/16fef33b-ebbe-4d3b-b528-5c85ab0c8f37",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-02T07:51:40.659000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415365/raw/2013-09-02-095338tx_etab_scolaire_agenda21.csv"
+    }
+  ],
+  "slug": "part-des-etablissements-scolaires-en-agenda21-1",
+  "spatial": null,
+  "tags": [
+    "agenda-21",
+    "developpement-durable"
+  ],
+  "temporal_coverage": null,
+  "title": "Part des \u00e9tablissements scolaires en Agenda21",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/part-des-etablissements-scolaires-en-agenda21-1/"
+}

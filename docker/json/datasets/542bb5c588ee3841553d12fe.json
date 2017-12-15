@@ -1,0 +1,111 @@
+{
+  "badges": [],
+  "created_at": "2014-10-01T10:05:25.386000",
+  "deleted": null,
+  "description": "Le jeu de donn\u00e9es met \u00e0 disposition les comptages de dessins et mod\u00e8les selon les principales origines des d\u00e9posants depuis 2010.",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": null,
+  "id": "542bb5c588ee3841553d12fe",
+  "last_modified": "2016-09-23T16:21:15.478000",
+  "last_update": "2014-10-01T10:15:16.970000",
+  "license": "fr-lo",
+  "metrics": {
+    "cow_criticals": 0,
+    "cow_errors": 0,
+    "cow_score": 0,
+    "cow_warnings": 0,
+    "discussions": 0,
+    "followers": 1,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 4
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "542a61d888ee382b8f22e2d7",
+    "logo": "https://www.data.gouv.fr/s/avatars/0a/277d25e3174a8db89dad2b67d42331-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/0a/277d25e3174a8db89dad2b67d42331-100.png",
+    "name": "Institut national de la propri\u00e9t\u00e9 industrielle (INPI)",
+    "page": "https://www.data.gouv.fr/fr/organizations/institut-national-de-la-propriete-industrielle-inpi/",
+    "slug": "institut-national-de-la-propriete-industrielle-inpi",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/institut-national-de-la-propriete-industrielle-inpi/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/principales-origines-des-dessins-et-modeles-par-la-voie-nationale/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "b4cb25332056a3a5541649fce34f5e91c8cf77c6"
+      },
+      "created_at": "2014-10-01T10:06:17.483000",
+      "description": "Les comptages excluent les dessins et mod\u00e8les issus de la proc\u00e9dure simplifi\u00e9e.",
+      "extras": {},
+      "filesize": 865,
+      "filetype": "file",
+      "format": "csv",
+      "id": "eb136c2f-2b61-4273-9282-e6e66b2f9eaa",
+      "last_modified": "2016-03-07T17:36:41.282000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/eb136c2f-2b61-4273-9282-e6e66b2f9eaa",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 8
+      },
+      "mime": "text/csv",
+      "published": "2014-10-01T10:06:17.483000",
+      "title": "Principales origines des dessins et mod\u00e8les par la voie nationale ",
+      "url": "https://www.data.gouv.fr/s/resources/principales-origines-des-dessins-et-modeles-par-la-voie-nationale/20160307-173640/Opendata_DE_2015-10-021.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "b4cb25332056a3a5541649fce34f5e91c8cf77c6"
+      },
+      "created_at": "2014-10-01T10:15:16.970000",
+      "description": "Glossaire, m\u00e9thodes de comptage, m\u00e9thodologie.",
+      "extras": {},
+      "filesize": 865,
+      "filetype": "file",
+      "format": "csv",
+      "id": "833e45cf-a174-411a-84f4-89fa3c17e118",
+      "last_modified": "2016-03-07T17:37:01.987000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/833e45cf-a174-411a-84f4-89fa3c17e118",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2014-10-01T10:15:16.970000",
+      "title": "Glossaire",
+      "url": "https://www.data.gouv.fr/s/resources/principales-origines-des-dessins-et-modeles-par-la-voie-nationale/20160307-173657/Opendata_DE_2015-10-021.csv"
+    }
+  ],
+  "slug": "principales-origines-des-dessins-et-modeles-par-la-voie-nationale",
+  "spatial": {
+    "geom": null,
+    "granularity": "country",
+    "zones": []
+  },
+  "tags": [
+    "deposant",
+    "dessins-et-modeles",
+    "economie",
+    "innovation",
+    "inpi",
+    "propriete-industrielle",
+    "voie-nationale"
+  ],
+  "temporal_coverage": null,
+  "title": "Principales origines des dessins et mod\u00e8les par la voie nationale ",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/principales-origines-des-dessins-et-modeles-par-la-voie-nationale/"
+}

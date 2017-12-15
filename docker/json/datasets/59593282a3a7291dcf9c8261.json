@@ -1,0 +1,146 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T19:50:58.853000",
+  "deleted": null,
+  "description": "Donn\u00e9es du recensement de la population 2012 \u00e0 l'\u00e9chelle des grands quartiers sur le th\u00e8me Dipl\u00f4mes",
+  "extras": {
+    "harvest:domain": "data.toulouse-metropole.fr",
+    "harvest:last_update": "2017-11-27T05:19:15.275352",
+    "harvest:remote_id": "recensement-population-2012-grands-quartiers-diplomes",
+    "harvest:source_id": "564c3680c751df607daad370",
+    "ods:has_records": true,
+    "ods:references": "http://www.insee.fr/fr/regions/midi-pyrenees/default.asp",
+    "ods:url": "https://data.toulouse-metropole.fr//explore/dataset/recensement-population-2012-grands-quartiers-diplomes/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59593282a3a7291dcf9c8261",
+  "last_modified": "2017-11-27T05:19:15.277000",
+  "last_update": "2017-11-27T05:19:15.274000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb3a3a7292c64a78129",
+    "logo": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-100.jpg",
+    "name": "Toulouse m\u00e9trople",
+    "page": "https://www.data.gouv.fr/fr/organizations/toulouse-metrople/",
+    "slug": "toulouse-metrople",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/toulouse-metrople/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/recensement-population-2012-grands-quartiers-diplomes/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:19:15.273000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *GRD_QUART*: grd_quart[text]\n- *Libelle des grands quartiers*: libgq[text]\n- *REG2016*: reg2016[text]\n- *DEP*: dep[text]\n- *UU2010*: uu2010[text]\n- *CODE_INSEE*: code_insee[text]\n- *P12_POP0205*: p12_pop0205[double]\n- *P12_POP0610*: p12_pop0610[double]\n- *P12_POP1114*: p12_pop1114[double]\n- *P12_POP1517*: p12_pop1517[double]\n- *P12_POP1824*: p12_pop1824[double]\n- *P12_POP2529*: p12_pop2529[double]\n- *P12_POP30P*: p12_pop30p[double]\n- *P12_SCOL0205*: p12_scol0205[double]\n- *P12_SCOL0610*: p12_scol0610[double]\n- *P12_SCOL1114*: p12_scol1114[double]\n- *P12_SCOL1517*: p12_scol1517[double]\n- *P12_SCOL1824*: p12_scol1824[double]\n- *P12_SCOL2529*: p12_scol2529[double]\n- *P12_SCOL30P*: p12_scol30p[double]\n- *P12_NSCOL15P*: p12_nscol15p[double]\n- *P12_NSCOL15P_DIPL0*: p12_nscol15p_dipl0[double]\n- *P12_NSCOL15P_CEP*: p12_nscol15p_cep[double]\n- *P12_NSCOL15P_BEPC*: p12_nscol15p_bepc[double]\n- *P12_NSCOL15P_CAPBEP*: p12_nscol15p_capbep[double]\n- *P12_NSCOL15P_BAC*: p12_nscol15p_bac[double]\n- *P12_NSCOL15P_BACP2*: p12_nscol15p_bacp2[double]\n- *P12_NSCOL15P_SUP*: p12_nscol15p_sup[double]\n- *P12_HNSCOL15P*: p12_hnscol15p[double]\n- *P12_HNSCOL15P_DIPL0*: p12_hnscol15p_dipl0[double]\n- *P12_HNSCOL15P_CEP*: p12_hnscol15p_cep[double]\n- *P12_HNSCOL15P_BEPC*: p12_hnscol15p_bepc[double]\n- *P12_HNSCOL15P_CAPBEP*: p12_hnscol15p_capbep[double]\n- *P12_HNSCOL15P_BAC*: p12_hnscol15p_bac[double]\n- *P12_HNSCOL15P_BACP2*: p12_hnscol15p_bacp2[double]\n- *P12_HNSCOL15P_SUP*: p12_hnscol15p_sup[double]\n- *P12_FNSCOL15P*: p12_fnscol15p[double]\n- *P12_FNSCOL15P_DIPL0*: p12_fnscol15p_dipl0[double]\n- *P12_FNSCOL15P_CEP*: p12_fnscol15p_cep[double]\n- *P12_FNSCOL15P_BEPC*: p12_fnscol15p_bepc[double]\n- *P12_FNSCOL15P_CAPBEP*: p12_fnscol15p_capbep[double]\n- *P12_FNSCOL15P_BAC*: p12_fnscol15p_bac[double]\n- *P12_FNSCOL15P_BACP2*: p12_fnscol15p_bacp2[double]\n- *P12_FNSCOL15P_SUP*: p12_fnscol15p_sup[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ebc885d7-519b-4469-b634-fe352cdefbb1",
+      "last_modified": "2016-02-22T17:29:12",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ebc885d7-519b-4469-b634-fe352cdefbb1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:19:15.273000",
+      "title": "Export au format CSV",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/recensement-population-2012-grands-quartiers-diplomes/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:19:15.273000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *GRD_QUART*: grd_quart[text]\n- *Libelle des grands quartiers*: libgq[text]\n- *REG2016*: reg2016[text]\n- *DEP*: dep[text]\n- *UU2010*: uu2010[text]\n- *CODE_INSEE*: code_insee[text]\n- *P12_POP0205*: p12_pop0205[double]\n- *P12_POP0610*: p12_pop0610[double]\n- *P12_POP1114*: p12_pop1114[double]\n- *P12_POP1517*: p12_pop1517[double]\n- *P12_POP1824*: p12_pop1824[double]\n- *P12_POP2529*: p12_pop2529[double]\n- *P12_POP30P*: p12_pop30p[double]\n- *P12_SCOL0205*: p12_scol0205[double]\n- *P12_SCOL0610*: p12_scol0610[double]\n- *P12_SCOL1114*: p12_scol1114[double]\n- *P12_SCOL1517*: p12_scol1517[double]\n- *P12_SCOL1824*: p12_scol1824[double]\n- *P12_SCOL2529*: p12_scol2529[double]\n- *P12_SCOL30P*: p12_scol30p[double]\n- *P12_NSCOL15P*: p12_nscol15p[double]\n- *P12_NSCOL15P_DIPL0*: p12_nscol15p_dipl0[double]\n- *P12_NSCOL15P_CEP*: p12_nscol15p_cep[double]\n- *P12_NSCOL15P_BEPC*: p12_nscol15p_bepc[double]\n- *P12_NSCOL15P_CAPBEP*: p12_nscol15p_capbep[double]\n- *P12_NSCOL15P_BAC*: p12_nscol15p_bac[double]\n- *P12_NSCOL15P_BACP2*: p12_nscol15p_bacp2[double]\n- *P12_NSCOL15P_SUP*: p12_nscol15p_sup[double]\n- *P12_HNSCOL15P*: p12_hnscol15p[double]\n- *P12_HNSCOL15P_DIPL0*: p12_hnscol15p_dipl0[double]\n- *P12_HNSCOL15P_CEP*: p12_hnscol15p_cep[double]\n- *P12_HNSCOL15P_BEPC*: p12_hnscol15p_bepc[double]\n- *P12_HNSCOL15P_CAPBEP*: p12_hnscol15p_capbep[double]\n- *P12_HNSCOL15P_BAC*: p12_hnscol15p_bac[double]\n- *P12_HNSCOL15P_BACP2*: p12_hnscol15p_bacp2[double]\n- *P12_HNSCOL15P_SUP*: p12_hnscol15p_sup[double]\n- *P12_FNSCOL15P*: p12_fnscol15p[double]\n- *P12_FNSCOL15P_DIPL0*: p12_fnscol15p_dipl0[double]\n- *P12_FNSCOL15P_CEP*: p12_fnscol15p_cep[double]\n- *P12_FNSCOL15P_BEPC*: p12_fnscol15p_bepc[double]\n- *P12_FNSCOL15P_CAPBEP*: p12_fnscol15p_capbep[double]\n- *P12_FNSCOL15P_BAC*: p12_fnscol15p_bac[double]\n- *P12_FNSCOL15P_BACP2*: p12_fnscol15p_bacp2[double]\n- *P12_FNSCOL15P_SUP*: p12_fnscol15p_sup[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "17a4b2e3-840c-4ba2-b525-9bb805f0a494",
+      "last_modified": "2016-02-22T17:29:12",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/17a4b2e3-840c-4ba2-b525-9bb805f0a494",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:19:15.274000",
+      "title": "Export au format JSON",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/recensement-population-2012-grands-quartiers-diplomes/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:19:15.274000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *GRD_QUART*: grd_quart[text]\n- *Libelle des grands quartiers*: libgq[text]\n- *REG2016*: reg2016[text]\n- *DEP*: dep[text]\n- *UU2010*: uu2010[text]\n- *CODE_INSEE*: code_insee[text]\n- *P12_POP0205*: p12_pop0205[double]\n- *P12_POP0610*: p12_pop0610[double]\n- *P12_POP1114*: p12_pop1114[double]\n- *P12_POP1517*: p12_pop1517[double]\n- *P12_POP1824*: p12_pop1824[double]\n- *P12_POP2529*: p12_pop2529[double]\n- *P12_POP30P*: p12_pop30p[double]\n- *P12_SCOL0205*: p12_scol0205[double]\n- *P12_SCOL0610*: p12_scol0610[double]\n- *P12_SCOL1114*: p12_scol1114[double]\n- *P12_SCOL1517*: p12_scol1517[double]\n- *P12_SCOL1824*: p12_scol1824[double]\n- *P12_SCOL2529*: p12_scol2529[double]\n- *P12_SCOL30P*: p12_scol30p[double]\n- *P12_NSCOL15P*: p12_nscol15p[double]\n- *P12_NSCOL15P_DIPL0*: p12_nscol15p_dipl0[double]\n- *P12_NSCOL15P_CEP*: p12_nscol15p_cep[double]\n- *P12_NSCOL15P_BEPC*: p12_nscol15p_bepc[double]\n- *P12_NSCOL15P_CAPBEP*: p12_nscol15p_capbep[double]\n- *P12_NSCOL15P_BAC*: p12_nscol15p_bac[double]\n- *P12_NSCOL15P_BACP2*: p12_nscol15p_bacp2[double]\n- *P12_NSCOL15P_SUP*: p12_nscol15p_sup[double]\n- *P12_HNSCOL15P*: p12_hnscol15p[double]\n- *P12_HNSCOL15P_DIPL0*: p12_hnscol15p_dipl0[double]\n- *P12_HNSCOL15P_CEP*: p12_hnscol15p_cep[double]\n- *P12_HNSCOL15P_BEPC*: p12_hnscol15p_bepc[double]\n- *P12_HNSCOL15P_CAPBEP*: p12_hnscol15p_capbep[double]\n- *P12_HNSCOL15P_BAC*: p12_hnscol15p_bac[double]\n- *P12_HNSCOL15P_BACP2*: p12_hnscol15p_bacp2[double]\n- *P12_HNSCOL15P_SUP*: p12_hnscol15p_sup[double]\n- *P12_FNSCOL15P*: p12_fnscol15p[double]\n- *P12_FNSCOL15P_DIPL0*: p12_fnscol15p_dipl0[double]\n- *P12_FNSCOL15P_CEP*: p12_fnscol15p_cep[double]\n- *P12_FNSCOL15P_BEPC*: p12_fnscol15p_bepc[double]\n- *P12_FNSCOL15P_CAPBEP*: p12_fnscol15p_capbep[double]\n- *P12_FNSCOL15P_BAC*: p12_fnscol15p_bac[double]\n- *P12_FNSCOL15P_BACP2*: p12_fnscol15p_bacp2[double]\n- *P12_FNSCOL15P_SUP*: p12_fnscol15p_sup[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "1a16f225-e350-4f2e-98ff-097c0b94c284",
+      "last_modified": "2016-02-22T17:29:12",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1a16f225-e350-4f2e-98ff-097c0b94c284",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:19:15.274000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/recensement-population-2012-grands-quartiers-diplomes/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:19:15.274000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *GRD_QUART*: grd_quart[text]\n- *Libelle des grands quartiers*: libgq[text]\n- *REG2016*: reg2016[text]\n- *DEP*: dep[text]\n- *UU2010*: uu2010[text]\n- *CODE_INSEE*: code_insee[text]\n- *P12_POP0205*: p12_pop0205[double]\n- *P12_POP0610*: p12_pop0610[double]\n- *P12_POP1114*: p12_pop1114[double]\n- *P12_POP1517*: p12_pop1517[double]\n- *P12_POP1824*: p12_pop1824[double]\n- *P12_POP2529*: p12_pop2529[double]\n- *P12_POP30P*: p12_pop30p[double]\n- *P12_SCOL0205*: p12_scol0205[double]\n- *P12_SCOL0610*: p12_scol0610[double]\n- *P12_SCOL1114*: p12_scol1114[double]\n- *P12_SCOL1517*: p12_scol1517[double]\n- *P12_SCOL1824*: p12_scol1824[double]\n- *P12_SCOL2529*: p12_scol2529[double]\n- *P12_SCOL30P*: p12_scol30p[double]\n- *P12_NSCOL15P*: p12_nscol15p[double]\n- *P12_NSCOL15P_DIPL0*: p12_nscol15p_dipl0[double]\n- *P12_NSCOL15P_CEP*: p12_nscol15p_cep[double]\n- *P12_NSCOL15P_BEPC*: p12_nscol15p_bepc[double]\n- *P12_NSCOL15P_CAPBEP*: p12_nscol15p_capbep[double]\n- *P12_NSCOL15P_BAC*: p12_nscol15p_bac[double]\n- *P12_NSCOL15P_BACP2*: p12_nscol15p_bacp2[double]\n- *P12_NSCOL15P_SUP*: p12_nscol15p_sup[double]\n- *P12_HNSCOL15P*: p12_hnscol15p[double]\n- *P12_HNSCOL15P_DIPL0*: p12_hnscol15p_dipl0[double]\n- *P12_HNSCOL15P_CEP*: p12_hnscol15p_cep[double]\n- *P12_HNSCOL15P_BEPC*: p12_hnscol15p_bepc[double]\n- *P12_HNSCOL15P_CAPBEP*: p12_hnscol15p_capbep[double]\n- *P12_HNSCOL15P_BAC*: p12_hnscol15p_bac[double]\n- *P12_HNSCOL15P_BACP2*: p12_hnscol15p_bacp2[double]\n- *P12_HNSCOL15P_SUP*: p12_hnscol15p_sup[double]\n- *P12_FNSCOL15P*: p12_fnscol15p[double]\n- *P12_FNSCOL15P_DIPL0*: p12_fnscol15p_dipl0[double]\n- *P12_FNSCOL15P_CEP*: p12_fnscol15p_cep[double]\n- *P12_FNSCOL15P_BEPC*: p12_fnscol15p_bepc[double]\n- *P12_FNSCOL15P_CAPBEP*: p12_fnscol15p_capbep[double]\n- *P12_FNSCOL15P_BAC*: p12_fnscol15p_bac[double]\n- *P12_FNSCOL15P_BACP2*: p12_fnscol15p_bacp2[double]\n- *P12_FNSCOL15P_SUP*: p12_fnscol15p_sup[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "6d061326-4dfb-4c6b-a3c2-a8298273d7ec",
+      "last_modified": "2016-02-22T17:29:12",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6d061326-4dfb-4c6b-a3c2-a8298273d7ec",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:19:15.274000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/recensement-population-2012-grands-quartiers-diplomes/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "recensement-population-2012-grands-quartiers-diplomes",
+  "spatial": null,
+  "tags": [
+    "diplome",
+    "eleve",
+    "scolarite",
+    "statistiques"
+  ],
+  "temporal_coverage": null,
+  "title": "Recensement population 2012 - Grands quartiers - Dipl\u00f4mes",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/recensement-population-2012-grands-quartiers-diplomes/"
+}

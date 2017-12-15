@@ -1,0 +1,259 @@
+{
+  "badges": [],
+  "created_at": "2017-06-06T00:00:00",
+  "deleted": null,
+  "description": "Liste des campings class\u00e9s aire naturelle en Aquitaine, issue de la base de donn\u00e9es SIRTAQUI.\n\nCe fichier contient les informations de g\u00e9olocalisation et de contact, les informations sur le classement, les marques et labels, les cha\u00eenes, la capacit\u00e9 en nombre de personnes, les conditions d\u2019ouverture, les tarifs, les \u00e9quipements et les services propos\u00e9s.",
+  "extras": {
+    "ckan:name": "liste-des-campings-aire-naturelle-en-aquitaine",
+    "contact_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "contact_name": "CRTA",
+    "contact_uri": "https://datacat.datalocale.fr/414593",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
+    "guid": "https://datacat.datalocale.fr/415060",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-09-11T06:13:14.136906",
+    "harvest:remote_id": "92b0917e-b954-4722-8208-02c3ed2c13ad",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "3ad48da8-7ded-4bd2-8efc-163f2a148a16",
+    "issued": "2014-12-24T12:10:17+00:00",
+    "modified": "2016-07-18T09:21:07.446864+00:00",
+    "publisher_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "publisher_name": "agence SIRTAQUI",
+    "publisher_type": "\"Organisation \u00e0 but non lucratif\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414592",
+    "remote_url": "http://www.sirtaqui-aquitaine.com",
+    "theme": "[\"tourisme\"]",
+    "uri": "https://datacat.datalocale.fr/415060"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5936bea9a3a72968e187729b",
+  "last_modified": "2017-09-11T06:13:14.139000",
+  "last_update": "2017-08-28T06:07:27.474000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-campings-aire-naturelle-en-aquitaine/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:39:37.382000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-02T16:37:13.520000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1573125/raw/liste-csv-campings-aires-naturelles-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f7a1d866-57ae-4eb8-ba07-a426c771dd81",
+      "last_modified": "2017-06-06T16:39:37.383000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f7a1d866-57ae-4eb8-ba07-a426c771dd81",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:39:37.382000",
+      "title": "liste-csv-campings-aires-naturelles-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1573125/raw/liste-csv-campings-aires-naturelles-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:45:38.528000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-02T16:37:13.512000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1599322/raw/liste-csv-campings-aires-naturelles-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2923e6f2-6560-49e1-9e0a-61d8820382fe",
+      "last_modified": "2017-07-07T06:07:50.883000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2923e6f2-6560-49e1-9e0a-61d8820382fe",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T18:45:38.528000",
+      "title": "liste-csv-campings-aires-naturelles-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1599322/raw/liste-csv-campings-aires-naturelles-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:04:27.039000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-02T16:37:13.632000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1636182/raw/liste-csv-campings-aires-naturelles-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "3b46a63a-0856-493b-a4f4-ae70d0d4d15a",
+      "last_modified": "2017-07-09T07:00:32.823000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3b46a63a-0856-493b-a4f4-ae70d0d4d15a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-08T07:04:27.039000",
+      "title": "liste-csv-campings-aires-naturelles-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1636182/raw/liste-csv-campings-aires-naturelles-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-10T07:02:52.724000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-02T16:37:13.632000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1649363/raw/liste-csv-campings-aires-naturelles-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "aed1e1c5-8321-4d4a-b302-1c2c5f066a63",
+      "last_modified": "2017-08-13T06:07:20.341000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/aed1e1c5-8321-4d4a-b302-1c2c5f066a63",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-10T07:02:52.724000",
+      "title": "liste-csv-campings-aires-naturelles-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1649363/raw/liste-csv-campings-aires-naturelles-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-14T07:10:33.814000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-02T16:37:13.520000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1716987/raw/liste-csv-campings-aires-naturelles-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "492c216f-8843-4218-af77-83224d480dfb",
+      "last_modified": "2017-08-20T06:05:29.867000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/492c216f-8843-4218-af77-83224d480dfb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-14T07:10:33.814000",
+      "title": "liste-csv-campings-aires-naturelles-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1716987/raw/liste-csv-campings-aires-naturelles-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-21T07:09:03.787000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-02T16:37:13.512000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1730076/raw/liste-csv-campings-aires-naturelles-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2d323721-0754-4a8e-833e-0748ec960269",
+      "last_modified": "2017-08-27T06:03:28.435000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2d323721-0754-4a8e-833e-0748ec960269",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-21T07:09:03.787000",
+      "title": "liste-csv-campings-aires-naturelles-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1730076/raw/liste-csv-campings-aires-naturelles-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-28T06:07:27.473000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-16T18:18:27.943000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1743111/raw/liste-csv-campings-aires-naturelles-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ab81bf01-7ae7-4eb3-9759-8323433df987",
+      "last_modified": "2017-09-11T06:13:14.135000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ab81bf01-7ae7-4eb3-9759-8323433df987",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-28T06:07:27.474000",
+      "title": "liste-csv-campings-aires-naturelles-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1743111/raw/liste-csv-campings-aires-naturelles-aquitaine.csv"
+    }
+  ],
+  "slug": "liste-des-campings-aire-naturelle-en-aquitaine",
+  "spatial": null,
+  "tags": [
+    "camping",
+    "hebergement",
+    "tourisme"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des campings aire naturelle en Aquitaine",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-campings-aire-naturelle-en-aquitaine/"
+}

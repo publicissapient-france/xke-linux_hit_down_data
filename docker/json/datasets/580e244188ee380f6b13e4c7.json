@@ -1,0 +1,108 @@
+{
+  "badges": [],
+  "created_at": "2016-10-24T17:09:53.858000",
+  "deleted": null,
+  "description": "Base de donn\u00e9es des Infrastructures de Recharges de V\u00e9hicules Electriques (IRVE) install\u00e9es dans la Communaut\u00e9 d'Agglom\u00e9ration de Rambouillet Territoires.",
+  "extras": {},
+  "frequency": "monthly",
+  "frequency_date": "2016-11-24T17:08:00",
+  "id": "580e244188ee380f6b13e4c7",
+  "last_modified": "2017-03-23T14:56:13.660000",
+  "last_update": "2017-03-23T14:56:07.741000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 2,
+    "followers": 1,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": "RT78",
+    "class": "Organization",
+    "id": "580e1e1388ee385e8e13e4cb",
+    "logo": "https://www.data.gouv.fr/s/avatars/b3/b9abff49674b139da297d2bd735bf3-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b3/b9abff49674b139da297d2bd735bf3-100.jpg",
+    "name": "Communaut\u00e9 d'Agglom\u00e9ration de Rambouillet Territoires",
+    "page": "https://www.data.gouv.fr/fr/organizations/rambouillet-territoires/",
+    "slug": "rambouillet-territoires",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/rambouillet-territoires/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/bornes-de-recharge-de-rambouillet-territoires/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "1b81087748c0504595e95751754fc11bcf337337"
+      },
+      "created_at": "2017-03-23T14:56:07.741000",
+      "description": "",
+      "extras": {},
+      "filesize": 34442,
+      "filetype": "file",
+      "format": "csv",
+      "id": "ca25e3fa-bf6a-4fb4-8fc7-8cc4c67104e4",
+      "last_modified": "2017-03-23T14:56:13.660000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ca25e3fa-bf6a-4fb4-8fc7-8cc4c67104e4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-03-23T14:56:07.741000",
+      "title": "IRVE_RT78_20170323",
+      "url": "https://www.data.gouv.fr/s/resources/bornes-de-recharge-de-rambouillet-territoires/20170323-145607/IRVE_RT78_20170323.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "5f37d1fec1843755fb597270faf815cd0c33fb8b"
+      },
+      "created_at": "2016-10-25T13:40:07.453000",
+      "description": null,
+      "extras": {},
+      "filesize": 3221,
+      "filetype": "file",
+      "format": "csv",
+      "id": "8d1f8c7c-293b-4d77-bf15-683136a48831",
+      "last_modified": "2016-10-25T13:40:07.453000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8d1f8c7c-293b-4d77-bf15-683136a48831",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": "text/csv",
+      "published": "2016-10-25T13:40:07.453000",
+      "title": "BDD_IRVE-RT78.csv",
+      "url": "https://www.data.gouv.fr/s/resources/irve-de-rambouillet-territoires/20161025-134007/BDD_IRVE-RT78.csv"
+    }
+  ],
+  "slug": "bornes-de-recharge-de-rambouillet-territoires",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:departement",
+    "zones": []
+  },
+  "tags": [
+    "borne-de-rechargement-electrique",
+    "irve",
+    "rt78",
+    "vehicule-electrique"
+  ],
+  "temporal_coverage": {
+    "end": "2026-10-23",
+    "start": "2016-10-24"
+  },
+  "title": "Bornes de recharge de Rambouillet Territoires",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/bornes-de-recharge-de-rambouillet-territoires/"
+}

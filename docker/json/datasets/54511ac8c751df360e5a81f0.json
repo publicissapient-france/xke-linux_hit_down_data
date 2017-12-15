@@ -1,0 +1,559 @@
+{
+  "badges": [],
+  "created_at": "2014-10-29T17:50:15.994000",
+  "deleted": null,
+  "description": "Ces fichiers reprennent les audiences mensuelles de fr\u00e9quentation des pages Action du site Gouvernement.fr, qui d\u00e9taillent les r\u00e9formes port\u00e9es par le Gouvernement. Il s'agit de donn\u00e9es quantitatives repr\u00e9sentant le nombre de visites pour chacune des actions.",
+  "extras": {},
+  "frequency": "monthly",
+  "frequency_date": null,
+  "id": "54511ac8c751df360e5a81f0",
+  "last_modified": "2016-06-14T15:17:38.158000",
+  "last_update": "2016-06-01T00:00:00",
+  "license": "other-open",
+  "metrics": {
+    "cow_criticals": 0,
+    "cow_errors": 0,
+    "cow_score": 0,
+    "cow_warnings": 0,
+    "discussions": 0,
+    "followers": 1,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 26
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "54126af3a3a7292a9bbf14d6",
+    "logo": "https://www.data.gouv.fr/s/avatars/b2/8b7173d1ec41b6a1935a5c74635d95-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b2/8b7173d1ec41b6a1935a5c74635d95-100.png",
+    "name": "Service d'Information du Gouvernement",
+    "page": "https://www.data.gouv.fr/fr/organizations/service-d-information-du-gouvernement/",
+    "slug": "service-d-information-du-gouvernement",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/service-d-information-du-gouvernement/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/audiences-mensuelles-actions-gouvernement-fr/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "24caebd03f343c2eb3a0c3726b5be393c31dd62a"
+      },
+      "created_at": "2016-06-14T15:17:34.656000",
+      "description": "Rapport de fr\u00e9quentation du site gouvernement.fr du 01/05/2016 au 31/05/2016 Source : Analyser NX",
+      "extras": {},
+      "filesize": 8293,
+      "filetype": "file",
+      "format": "csv",
+      "id": "234bb13b-9734-49e5-b48e-c0f61c73270b",
+      "last_modified": "2016-06-14T15:17:38.158000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/234bb13b-9734-49e5-b48e-c0f61c73270b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 15
+      },
+      "mime": "text/csv",
+      "published": "2016-06-01T00:00:00",
+      "title": "Audiences-actions-gouvernement.fr-Mai 2016",
+      "url": "https://www.data.gouv.fr/s/resources/audiences-mensuelles-actions-gouvernement-fr/20160614-151734/actions_5_2016.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "1af716f7f1f245d6f0ad11df4e76831e393b1522"
+      },
+      "created_at": "2016-06-14T15:16:57.975000",
+      "description": "Rapport de fr\u00e9quentation du site gouvernement.fr du 01/04/2016 au 30/04/2016 Source : Analyser NX",
+      "extras": {},
+      "filesize": 7546,
+      "filetype": "file",
+      "format": "csv",
+      "id": "d2696e99-44b9-4fac-9e5f-007ddba519e7",
+      "last_modified": "2016-06-14T15:17:00.942000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d2696e99-44b9-4fac-9e5f-007ddba519e7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": "text/csv",
+      "published": "2016-05-01T00:00:00",
+      "title": "Audiences-actions-gouvernement.fr-Avril 2016",
+      "url": "https://www.data.gouv.fr/s/resources/audiences-mensuelles-actions-gouvernement-fr/20160614-151657/actions_4_2016.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "9b76d0166f3bab26db7d44098f86767e15088bb6"
+      },
+      "created_at": "2016-06-14T15:16:32.454000",
+      "description": "Rapport de fr\u00e9quentation du site gouvernement.fr du 01/03/2016 au 31/03/2016 Source : Analyser NX",
+      "extras": {},
+      "filesize": 7364,
+      "filetype": "file",
+      "format": "csv",
+      "id": "381c4959-a07c-435b-b9f7-704ff878d724",
+      "last_modified": "2016-06-14T15:16:37.192000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/381c4959-a07c-435b-b9f7-704ff878d724",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2016-04-01T00:00:00",
+      "title": "Audiences-actions-gouvernement.fr-Mars 2016",
+      "url": "https://www.data.gouv.fr/s/resources/audiences-mensuelles-actions-gouvernement-fr/20160614-151632/actions_3_2016.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "9e8c1414bd63a99d23bac65c0e9cdf59892967bf"
+      },
+      "created_at": "2016-06-14T15:16:03.468000",
+      "description": "Rapport de fr\u00e9quentation du site gouvernement.fr du 01/02/2016 au 29/02/2016 Source : Analyser NX",
+      "extras": {},
+      "filesize": 7617,
+      "filetype": "file",
+      "format": "csv",
+      "id": "82dc9d66-baae-4265-b593-a4edbc3da7ff",
+      "last_modified": "2016-06-14T15:16:12.015000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/82dc9d66-baae-4265-b593-a4edbc3da7ff",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2016-03-01T00:00:00",
+      "title": "Audiences-actions-gouvernement.fr-F\u00e9vrier2016",
+      "url": "https://www.data.gouv.fr/s/resources/audiences-mensuelles-actions-gouvernement-fr/20160614-151603/actions_2_2016.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "90815ed0a77767b74377cebbc1fe5fdabecf9e3d"
+      },
+      "created_at": "2016-06-14T15:15:38.473000",
+      "description": "Rapport de fr\u00e9quentation du site gouvernement.fr du 01/01/2016 au 31/01/2016 Source : Analyser NX",
+      "extras": {},
+      "filesize": 7340,
+      "filetype": "file",
+      "format": "csv",
+      "id": "8a335914-1b33-4bd8-a962-df22757424ef",
+      "last_modified": "2016-06-14T15:15:43.976000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8a335914-1b33-4bd8-a962-df22757424ef",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2016-02-01T00:00:00",
+      "title": "Audiences-actions-gouvernement.fr-Janvier 2016",
+      "url": "https://www.data.gouv.fr/s/resources/audiences-mensuelles-actions-gouvernement-fr/20160614-151538/actions_1_2016.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "cc5f60fe64860a73b9b83e2596d35fe236a6f514"
+      },
+      "created_at": "2016-06-14T15:14:38.396000",
+      "description": "Rapport de fr\u00e9quentation du site gouvernement.fr du 01/12/2015 au 31/12/2015 Source : Analyser NX",
+      "extras": {},
+      "filesize": 7400,
+      "filetype": "file",
+      "format": "csv",
+      "id": "14cfeaf1-ffc4-4eaf-9931-0e56213bd98c",
+      "last_modified": "2016-06-14T15:14:42.769000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/14cfeaf1-ffc4-4eaf-9931-0e56213bd98c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": "text/csv",
+      "published": "2016-01-01T00:00:00",
+      "title": "Audiences-actions-gouvernement.fr-D\u00e9cembre2015",
+      "url": "https://www.data.gouv.fr/s/resources/audiences-mensuelles-actions-gouvernement-fr/20160614-151438/actions_12_2015.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "e31f8707e1ad375a6c06ea45c86e1be2e3fddea3"
+      },
+      "created_at": "2016-06-14T15:14:12.841000",
+      "description": "Rapport de fr\u00e9quentation du site gouvernement.fr du 01/11/2015 au 30/11/2015 Source : Analyser NX",
+      "extras": {},
+      "filesize": 7197,
+      "filetype": "file",
+      "format": "csv",
+      "id": "9cd67f35-73b6-4eef-8e3c-8bf078260a82",
+      "last_modified": "2016-06-14T15:14:17.710000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9cd67f35-73b6-4eef-8e3c-8bf078260a82",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2015-12-01T00:00:00",
+      "title": "Audiences-actions-gouvernement.fr-Novembre 2015",
+      "url": "https://www.data.gouv.fr/s/resources/audiences-mensuelles-actions-gouvernement-fr/20160614-151412/actions_11_2015.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "1f486fae195392eb4e7ba9edf0dfa066d8ee0c7a"
+      },
+      "created_at": "2016-06-14T15:13:46.988000",
+      "description": "Rapport de fr\u00e9quentation du site gouvernement.fr du 01/10/2015 au 31/10/2015 Source : Analyser NX",
+      "extras": {},
+      "filesize": 7494,
+      "filetype": "file",
+      "format": "csv",
+      "id": "531ed8b6-a4f6-495f-8d2e-1bf25879df6a",
+      "last_modified": "2016-06-14T15:13:52.244000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/531ed8b6-a4f6-495f-8d2e-1bf25879df6a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2015-11-01T00:00:00",
+      "title": "Audiences-actions-gouvernement.fr-Octobre 2015",
+      "url": "https://www.data.gouv.fr/s/resources/audiences-mensuelles-actions-gouvernement-fr/20160614-151346/actions_10_2015.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "a3253308de0ba76ed58c34feb17b75b8f23c579b"
+      },
+      "created_at": "2016-06-14T15:13:20.277000",
+      "description": "Rapport de fr\u00e9quentation du site gouvernement.fr du 01/09/2015 au 30/09/2015 Source : Analyser NX",
+      "extras": {},
+      "filesize": 7110,
+      "filetype": "file",
+      "format": "csv",
+      "id": "b1439451-ebad-4cd2-afa1-d122b83197b3",
+      "last_modified": "2016-06-14T15:13:25.527000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b1439451-ebad-4cd2-afa1-d122b83197b3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2015-10-01T00:00:00",
+      "title": "Audiences-actions-gouvernement.fr-Septembre 2015",
+      "url": "https://www.data.gouv.fr/s/resources/audiences-mensuelles-actions-gouvernement-fr/20160614-151320/actions_9_2015.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "1ec2715e07391b2fcd500a67f04c739c2def6419"
+      },
+      "created_at": "2016-06-14T15:12:48.106000",
+      "description": "Rapport de fr\u00e9quentation du site gouvernement.fr du 01/08/2015 au 31/08/2015 Source : Analyser NX",
+      "extras": {},
+      "filesize": 6901,
+      "filetype": "file",
+      "format": "csv",
+      "id": "58bb1afb-41c3-461e-88d9-747c27d25a6a",
+      "last_modified": "2016-06-14T15:12:53.747000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/58bb1afb-41c3-461e-88d9-747c27d25a6a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2015-09-01T00:00:00",
+      "title": "Audiences-actions-gouvernement.fr-Ao\u00fbt 2015",
+      "url": "https://www.data.gouv.fr/s/resources/audiences-mensuelles-actions-gouvernement-fr/20160614-151248/actions_8_2015.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "e8baa7962d4115f0476f7fc83842245177ad5aa9"
+      },
+      "created_at": "2016-06-14T15:12:20.998000",
+      "description": "Rapport de fr\u00e9quentation du site gouvernement.fr du 01/07/2015 au 31/07/2015 Source : Analyser NX",
+      "extras": {},
+      "filesize": 6984,
+      "filetype": "file",
+      "format": "csv",
+      "id": "c5594d93-7399-4b2a-9b94-16167bcaf7f7",
+      "last_modified": "2016-06-14T15:12:27.179000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c5594d93-7399-4b2a-9b94-16167bcaf7f7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2015-08-01T00:00:00",
+      "title": "Audiences-actions-gouvernement.fr-Juillet 2015",
+      "url": "https://www.data.gouv.fr/s/resources/audiences-mensuelles-actions-gouvernement-fr/20160614-151220/actions_7_2015.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "f7d2f98f8bae3cd81962efd3dfb7a956639c7df2"
+      },
+      "created_at": "2015-07-22T14:43:21.144000",
+      "description": "Rapport de fr\u00e9quentation des actions site gouvernement.fr du 01/06/2015 au 30/06/2015 Source : Analyser NX",
+      "extras": {},
+      "filesize": 7032,
+      "filetype": "file",
+      "format": "csv",
+      "id": "133c8e70-440e-4e27-ae29-f646d2077b02",
+      "last_modified": "2015-07-22T14:43:21.144000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/133c8e70-440e-4e27-ae29-f646d2077b02",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 3
+      },
+      "mime": "text/csv",
+      "published": "2015-07-22T14:43:21.144000",
+      "title": "Audiences-actions-gouvernement.fr-Juin-2015",
+      "url": "https://www.data.gouv.fr/s/resources/audiences-mensuelles-actions-gouvernement-fr/20150722-144319/actions_6_2015.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "e63b35e5f6468de8532de8dbb7b705d3d89b080f"
+      },
+      "created_at": "2015-07-22T14:42:59.775000",
+      "description": "Rapport de fr\u00e9quentation des actions site gouvernement.fr du 01/05/2015 au 31/05/2015 Source : Analyser NX",
+      "extras": {},
+      "filesize": 6869,
+      "filetype": "file",
+      "format": "csv",
+      "id": "851418e2-101e-47bc-954e-3d921df15c3d",
+      "last_modified": "2015-07-22T14:42:59.775000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/851418e2-101e-47bc-954e-3d921df15c3d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2015-07-22T14:42:59.775000",
+      "title": "Audiences-actions-gouvernement.fr-Mai-2015",
+      "url": "https://www.data.gouv.fr/s/resources/audiences-mensuelles-actions-gouvernement-fr/20150722-144257/actions_5_2015.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "ef729f6d2f8c04ab46ae15e72d8b2d51f359b8ea"
+      },
+      "created_at": "2015-05-18T18:45:42.289000",
+      "description": "Rapport de fr\u00e9quentation des actions site gouvernement.fr du 01/04/2015 au 30/04/2015 Source : Analyser NX",
+      "extras": {},
+      "filesize": 6940,
+      "filetype": "file",
+      "format": "csv",
+      "id": "fab0e3d6-c75f-467c-bbbb-d0335333b102",
+      "last_modified": "2015-05-18T18:45:42.289000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fab0e3d6-c75f-467c-bbbb-d0335333b102",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 3
+      },
+      "mime": "text/csv",
+      "published": "2015-05-18T18:45:42.289000",
+      "title": "Audiences-actions-gouvernement.fr-Avril-2015",
+      "url": "https://www.data.gouv.fr/s/resources/audiences-mensuelles-actions-gouvernement-fr/20150518-184537/actions_4_2015.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "ae7a15de2852fc2f326017387b707c03a7a61b49"
+      },
+      "created_at": "2015-04-02T19:10:02.962000",
+      "description": "Rapport de fr\u00e9quentation des actions site gouvernement.fr du 01/03/2015 au 31/03/2015 Source : Analyser NX\r\n",
+      "extras": {},
+      "filesize": 6513,
+      "filetype": "file",
+      "format": "csv",
+      "id": "e2711f73-eaed-403a-8dc9-e0259ca8bdf9",
+      "last_modified": "2015-04-02T19:10:02.962000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e2711f73-eaed-403a-8dc9-e0259ca8bdf9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": "text/csv",
+      "published": "2015-04-02T19:10:02.962000",
+      "title": "Audiences-actions-gouvernement.fr-Mars-2015",
+      "url": "https://www.data.gouv.fr/s/resources/audiences-mensuelles-actions-gouvernement-fr/20150402-191001/actions_3_2015.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "a43a66ffc29ea232befe95949707ab4400d055bd"
+      },
+      "created_at": "2015-03-05T16:20:22.277000",
+      "description": "Rapport de fr\u00e9quentation des actions site gouvernement.fr du 01/02/2015 au 28/02/2015 Source : Analyser NX",
+      "extras": {},
+      "filesize": 6701,
+      "filetype": "file",
+      "format": "csv",
+      "id": "8241f716-08c0-437f-9567-e74dc847703f",
+      "last_modified": "2015-03-05T16:20:22.277000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8241f716-08c0-437f-9567-e74dc847703f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 3
+      },
+      "mime": "text/csv",
+      "published": "2015-03-05T16:20:22.277000",
+      "title": "Audiences-actions-gouvernement.fr-F\u00e9vrier-2015",
+      "url": "https://www.data.gouv.fr/s/resources/audiences-mensuelles-actions-gouvernement-fr/20150305-162020/actions_2_2015.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "aa5989ec16b93b521d6da3471e0ec3c211b40ca9"
+      },
+      "created_at": "2014-11-03T10:33:55.187000",
+      "description": "Rapport de fr\u00e9quentation des actions site gouvernement.fr du 01/10/2014 au 31/10/2014 Source : Analyser NX",
+      "extras": {},
+      "filesize": 6010,
+      "filetype": "file",
+      "format": "csv",
+      "id": "8cb533fd-bd5b-43d8-a412-4afc792aca65",
+      "last_modified": "2014-11-03T10:33:55.187000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8cb533fd-bd5b-43d8-a412-4afc792aca65",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": "text/csv",
+      "published": "2014-11-03T10:33:55.187000",
+      "title": "Audiences-actions-gouvernement.fr-Octobre-2014",
+      "url": "https://www.data.gouv.fr/s/resources/audiences-mensuelles-actions-gouvernement-fr/20141103-103353/actions_10_2014.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "5fc0c3237dee25eb28daab659650d87ffcd4535d"
+      },
+      "created_at": "2014-12-01T17:10:22.838000",
+      "description": "Rapport de fr\u00e9quentation des actions site gouvernement.fr du 01/11/2014 au 30/11/2014 Source : Analyser NX",
+      "extras": {},
+      "filesize": 6057,
+      "filetype": "file",
+      "format": "csv",
+      "id": "9064f7ef-0765-4d8f-aa11-20eb188db2dc",
+      "last_modified": "2014-12-01T17:10:22.838000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9064f7ef-0765-4d8f-aa11-20eb188db2dc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 2
+      },
+      "mime": "text/csv",
+      "published": "2014-12-01T17:10:22.838000",
+      "title": "Audiences-actions-gouvernement.fr-Novembre-2014",
+      "url": "https://www.data.gouv.fr/s/resources/audiences-mensuelles-actions-gouvernement-fr/20141201-170959/actions_11_2014.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "8610b137793cab0bcf5d5cddb88b5aadf99a06cc"
+      },
+      "created_at": "2015-02-04T09:40:54.923000",
+      "description": "Rapport de fr\u00e9quentation des actions site [gouvernement.fr](http://www.gouvernement.fr) du 01/12/2014 au 31/12/2014 Source : Analyser NX",
+      "extras": {},
+      "filesize": 6416,
+      "filetype": "file",
+      "format": "csv",
+      "id": "90c6a780-631f-4ca7-8ffc-4760551bcf6b",
+      "last_modified": "2015-02-04T09:40:54.923000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/90c6a780-631f-4ca7-8ffc-4760551bcf6b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2015-02-04T09:40:54.923000",
+      "title": "Audiences-actions-gouvernement.fr-D\u00e9cembre-2014",
+      "url": "https://www.data.gouv.fr/s/resources/audiences-mensuelles-actions-gouvernement-fr/20150204-094053/actions_12_2014.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "d5d2e24fe62ed12aeb0cb2978d45b5dfb0086c27"
+      },
+      "created_at": "2015-02-04T09:41:48.952000",
+      "description": "Rapport de fr\u00e9quentation des actions site [gouvernement.fr](http://www.gouvernement.fr) du 01/01/2015 au 31/01/2015 Source : Analyser NX",
+      "extras": {},
+      "filesize": 6865,
+      "filetype": "file",
+      "format": "csv",
+      "id": "970eabe3-e60a-4132-8650-3a7a1c159b6b",
+      "last_modified": "2015-03-05T16:20:33.332000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/970eabe3-e60a-4132-8650-3a7a1c159b6b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2015-02-04T09:41:48.952000",
+      "title": "Audiences-actions-gouvernement.fr-Janvier-2015",
+      "url": "https://www.data.gouv.fr/s/resources/audiences-mensuelles-actions-gouvernement-fr/20150204-094148/actions_1_2015.csv"
+    }
+  ],
+  "slug": "audiences-mensuelles-actions-gouvernement-fr",
+  "spatial": {
+    "geom": null,
+    "granularity": "country",
+    "zones": []
+  },
+  "tags": [
+    "actions",
+    "audiences",
+    "gouvernement",
+    "reformes",
+    "site-internet"
+  ],
+  "temporal_coverage": null,
+  "title": "Audiences mensuelles Actions Gouvernement.fr",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/audiences-mensuelles-actions-gouvernement-fr/"
+}

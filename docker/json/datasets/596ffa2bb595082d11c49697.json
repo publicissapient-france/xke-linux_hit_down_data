@@ -1,0 +1,151 @@
+{
+  "badges": [],
+  "created_at": "2017-07-20T02:32:43.537000",
+  "deleted": null,
+  "description": "Data.e vise \u00e0 collecter des donn\u00e9es g\u00e9olocalis\u00e9es sur les effectifs de femmes et d'hommes\u00a0travaillant sur le territoire de la MEL.\u00a0  \nCe jeu de donn\u00e9es est contributif et ouvert : envoyez-nous vos effectifs femmes-hommes pour participer \u00e0 cette exp\u00e9rimentation.\u00a0\n\n![](/assets/theme_image/contact entreprises1.PNG)",
+  "extras": {
+    "harvest:domain": "opendata.lillemetropole.fr",
+    "harvest:last_update": "2017-11-27T05:29:28.585419",
+    "harvest:remote_id": "datae-test",
+    "harvest:source_id": "58b68fdcc751df10ea84f9cc",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.lillemetropole.fr//explore/dataset/datae-test/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "596ffa2bb595082d11c49697",
+  "last_modified": "2017-11-27T05:29:28.586000",
+  "last_update": "2017-11-27T05:29:28.584000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "MEL",
+    "class": "Organization",
+    "id": "58b69c62c751df4b175dd7a4",
+    "logo": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-100.png",
+    "name": "M\u00e9tropole Europ\u00e9enne de Lille ",
+    "page": "https://www.data.gouv.fr/fr/organizations/metropole-europeenne-de-lille/",
+    "slug": "metropole-europeenne-de-lille",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/metropole-europeenne-de-lille/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/data-e/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:29:28.584000",
+      "description": "- *Nom de l'\u00e9tablissement*: nom_de_l_etablissement[text]\n- *Coordonn\u00e9es g\u00e9ographique*: coordonnees_geographique[geo_point_2d]\n- *Type d'\u00e9tablissement*: type_d_etablissement[text]\n- *Secteur d'activit\u00e9*: secteur_d_activite[text]\n- *Domaine de formation*: domaine_de_formation[text]\n- *Nombre de femmes*: nombre_de_femmes[double]\n- *Nombre d'hommes*: nombre_d_hommes[double]\n- *Date de la donn\u00e9e (Ann\u00e9e)*: date_de_la_donnee_annee[double]\n- *empty*: empty[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b6006fd5-e382-4d1e-93e0-24d3ac16e127",
+      "last_modified": "2017-07-17T13:30:59",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b6006fd5-e382-4d1e-93e0-24d3ac16e127",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:29:28.584000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/datae-test/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:29:28.584000",
+      "description": "- *Nom de l'\u00e9tablissement*: nom_de_l_etablissement[text]\n- *Coordonn\u00e9es g\u00e9ographique*: coordonnees_geographique[geo_point_2d]\n- *Type d'\u00e9tablissement*: type_d_etablissement[text]\n- *Secteur d'activit\u00e9*: secteur_d_activite[text]\n- *Domaine de formation*: domaine_de_formation[text]\n- *Nombre de femmes*: nombre_de_femmes[double]\n- *Nombre d'hommes*: nombre_d_hommes[double]\n- *Date de la donn\u00e9e (Ann\u00e9e)*: date_de_la_donnee_annee[double]\n- *empty*: empty[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "a7e7a810-46b0-42ee-ac11-40ba0844a6e8",
+      "last_modified": "2017-07-17T13:30:59",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a7e7a810-46b0-42ee-ac11-40ba0844a6e8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:29:28.584000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/datae-test/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:29:28.584000",
+      "description": "- *Nom de l'\u00e9tablissement*: nom_de_l_etablissement[text]\n- *Coordonn\u00e9es g\u00e9ographique*: coordonnees_geographique[geo_point_2d]\n- *Type d'\u00e9tablissement*: type_d_etablissement[text]\n- *Secteur d'activit\u00e9*: secteur_d_activite[text]\n- *Domaine de formation*: domaine_de_formation[text]\n- *Nombre de femmes*: nombre_de_femmes[double]\n- *Nombre d'hommes*: nombre_d_hommes[double]\n- *Date de la donn\u00e9e (Ann\u00e9e)*: date_de_la_donnee_annee[double]\n- *empty*: empty[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "c9e6877b-59f6-4ca2-8396-f50a80dba971",
+      "last_modified": "2017-07-17T13:30:59",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c9e6877b-59f6-4ca2-8396-f50a80dba971",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:29:28.584000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/datae-test/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:29:28.584000",
+      "description": "- *Nom de l'\u00e9tablissement*: nom_de_l_etablissement[text]\n- *Coordonn\u00e9es g\u00e9ographique*: coordonnees_geographique[geo_point_2d]\n- *Type d'\u00e9tablissement*: type_d_etablissement[text]\n- *Secteur d'activit\u00e9*: secteur_d_activite[text]\n- *Domaine de formation*: domaine_de_formation[text]\n- *Nombre de femmes*: nombre_de_femmes[double]\n- *Nombre d'hommes*: nombre_d_hommes[double]\n- *Date de la donn\u00e9e (Ann\u00e9e)*: date_de_la_donnee_annee[double]\n- *empty*: empty[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "f3c9b0f9-5148-4a06-9ace-4c0ee18ae9b2",
+      "last_modified": "2017-07-17T13:30:59",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f3c9b0f9-5148-4a06-9ace-4c0ee18ae9b2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:29:28.584000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/datae-test/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "data-e",
+  "spatial": null,
+  "tags": [
+    "business",
+    "developpement-economique",
+    "economie",
+    "egalite-femmes-hommes",
+    "emploi",
+    "enseignement",
+    "entreprise",
+    "formation",
+    "genre",
+    "pme"
+  ],
+  "temporal_coverage": null,
+  "title": "Data.e",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/data-e/"
+}

@@ -1,0 +1,206 @@
+{
+  "badges": [],
+  "created_at": "2017-06-06T00:00:00",
+  "deleted": null,
+  "description": "La liste des \u00e9quipements sportifs du d\u00e9partement est r\u00e9alis\u00e9 dans l'objectif de permettre un \u00e9gal acc\u00e8s de tous aux pratiques sportives. Le bureau de l'am\u00e9nagement sportif des territoires participe a la mise en \u0153uvre du Sch\u00e9ma D\u00e9partemental des \u00c9quipements Sportifs qui vise a assurer une couverture optimale et agir en faveur d'un am\u00e9nagement durable et \u00e9quilibr\u00e9 du territoire.",
+  "extras": {
+    "ckan:name": "liste-des-equipements-sportifs-du-departement",
+    "contact_email": "mailto:dgaj-dsa@cg33.fr",
+    "contact_name": "Direction des sports et de la vie associative",
+    "contact_uri": "https://datacat.datalocale.fr/414725",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+    "guid": "https://datacat.datalocale.fr/414726",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-06-06T16:39:50.365771",
+    "harvest:remote_id": "708e75a9-7f25-4d4a-bfd4-18f4b1aa32ea",
+    "harvest:source_id": "59365a72c751df28ed47c9eb",
+    "identifier": "17b65454-e54b-4511-a4b3-5eef294695ff",
+    "issued": "2012-12-28T15:22:02+00:00",
+    "modified": "2016-07-25T09:49:43.205327+00:00",
+    "publisher_email": "mailto:t.trijoulet@cg33.fr",
+    "publisher_name": "DSA-BAG",
+    "publisher_uri": "https://datacat.datalocale.fr/414724",
+    "remote_url": "http://www.gironde.fr/jcms/c_17021/pratiquer-un-sport-en-gironde",
+    "theme": "[\"sport\"]",
+    "uri": "https://datacat.datalocale.fr/414726"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5936beb6a3a72968e18772a4",
+  "last_modified": "2017-06-06T16:39:50.373000",
+  "last_update": "2017-06-06T16:39:50.364000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-equipements-sportifs-du-departement/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:39:50.362000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-01T19:19:07.917000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414730/raw/20160209_RES_FichesInstallationsGironde.geocoded.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b6569db3-0161-42f4-be90-a24857519fb2",
+      "last_modified": "2017-06-06T16:39:50.363000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b6569db3-0161-42f4-be90-a24857519fb2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:39:50.363000",
+      "title": "extraction de la base de donn\u00e9es nationale du minist\u00e8re des sports. Ce fichier a \u00e9t\u00e9 g\u00e9ocod\u00e9 \u00e0 l'aide du service en ligne adresse.gouv.fr. Il est encod\u00e9 en UTF-8 et utilise le s\u00e9parateur virgule",
+      "url": "https://datacat.datalocale.fr/file/414730/raw/20160209_RES_FichesInstallationsGironde.geocoded.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:39:50.363000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T11:49:10.563000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414732/raw/20160209_RES_FichesEquipementGironde.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "55e4cc2e-b210-4340-9eed-86ffb422ec1f",
+      "last_modified": "2017-06-06T16:39:50.363000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/55e4cc2e-b210-4340-9eed-86ffb422ec1f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:39:50.363000",
+      "title": "extraction de la liste des \u00e9quipements sportifs du d\u00e9partement de la Gironde enco\u00e9s en UTF-8.\r\nLa g\u00e9olocalisation est exprim\u00e9e en wgs84",
+      "url": "https://datacat.datalocale.fr/file/414732/raw/20160209_RES_FichesEquipementGironde.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:39:50.363000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-01T19:19:07.938000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414728/raw/LISTE_EQUIPEMENTS_SPORTIFS_CG.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "7b61f820-e4c7-43c7-94e2-589a81a0ce93",
+      "last_modified": "2017-06-06T16:39:50.364000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7b61f820-e4c7-43c7-94e2-589a81a0ce93",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:39:50.364000",
+      "title": "Liste au format csv des \u00e9quipements sportifs du d\u00e9partement. Les coordonn\u00e9es sont exprim\u00e9es dans la projection WGS84",
+      "url": "https://datacat.datalocale.fr/file/414728/raw/LISTE_EQUIPEMENTS_SPORTIFS_CG.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:39:50.364000",
+      "description": "documentation du jeu de donn\u00e9es en pdf",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-01T19:19:07.800000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414736/raw/20160209_DocumentationRES_data.gouv.pdf"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "pdf",
+      "id": "ecde9f16-bb0f-494e-b906-3724888b39ea",
+      "last_modified": "2017-06-06T16:39:50.364000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ecde9f16-bb0f-494e-b906-3724888b39ea",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/pdf",
+      "published": "2017-06-06T16:39:50.364000",
+      "title": "Documentation-jeu-donnees.pdf",
+      "url": "https://datacat.datalocale.fr/file/414736/raw/20160209_DocumentationRES_data.gouv.pdf"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:39:50.364000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-01T19:19:07.911000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414734/raw/20160209_RES_TypEq_CommunesGironde.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "8a067f9e-3b58-4fb2-88fc-08b31484e750",
+      "last_modified": "2017-06-06T16:39:50.365000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8a067f9e-3b58-4fb2-88fc-08b31484e750",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:39:50.364000",
+      "title": "liste des \u00e9quipements sportifs par type et par commune extrait de la base de donn\u00e9es nationale.\r\nFichier encod\u00e9 en UTF-8",
+      "url": "https://datacat.datalocale.fr/file/414734/raw/20160209_RES_TypEq_CommunesGironde.csv"
+    }
+  ],
+  "slug": "liste-des-equipements-sportifs-du-departement",
+  "spatial": null,
+  "tags": [
+    "college",
+    "conseil-departemental",
+    "equipement",
+    "gironde",
+    "sport"
+  ],
+  "temporal_coverage": null,
+  "title": "liste des \u00e9quipements sportifs du d\u00e9partement",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-equipements-sportifs-du-departement/"
+}

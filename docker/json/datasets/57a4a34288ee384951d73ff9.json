@@ -1,0 +1,234 @@
+{
+  "badges": [],
+  "created_at": "2016-08-05T16:31:30.645000",
+  "deleted": null,
+  "description": "Ce document repr\u00e9sente le budget primitif de la Communaut\u00e9 d'Agglom\u00e9ration Bar-le-Duc Sud Meuse pour l'ann\u00e9e 2016, au format PDF non synth\u00e9tis\u00e9 feuilletable en ligne et t\u00e9l\u00e9chargeable.",
+  "extras": {},
+  "frequency": "punctual",
+  "frequency_date": null,
+  "id": "57a4a34288ee384951d73ff9",
+  "last_modified": "2017-01-18T11:23:21.193000",
+  "last_update": "2017-01-18T11:22:59.982000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 2
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "56b8a4ffc751df02a29f9deb",
+    "logo": "https://www.data.gouv.fr/s/avatars/50/57ae17a70e4c8e96dc74e50f80c748-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/50/57ae17a70e4c8e96dc74e50f80c748-100.jpg",
+    "name": "Communaut\u00e9 d'Agglom\u00e9ration Bar-le-Duc Sud Meuse",
+    "page": "https://www.data.gouv.fr/fr/organizations/communaute-dagglomeration-bar-le-duc-sud-meuse/",
+    "slug": "communaute-dagglomeration-bar-le-duc-sud-meuse",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/communaute-dagglomeration-bar-le-duc-sud-meuse/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/budget-primitif-2016-de-la-communaute-dagglomeration-bar-le-duc-sud-meuse/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2016-08-05T16:31:58.293000",
+      "description": "",
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-11-06T06:37:19.258000",
+        "check:status": 403,
+        "check:url": "https://fr.calameo.com/read/004576806f2a710c84109"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "pdf",
+      "id": "fc6e512b-3f3a-45d2-84d6-4f9727ce596d",
+      "last_modified": "2016-08-05T16:31:58.293000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fc6e512b-3f3a-45d2-84d6-4f9727ce596d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 3
+      },
+      "mime": null,
+      "published": "2016-08-05T16:31:58.294000",
+      "title": "BP 2016 Tome 1",
+      "url": "https://fr.calameo.com/read/004576806f2a710c84109"
+    },
+    {
+      "checksum": null,
+      "created_at": "2016-08-05T16:32:29.238000",
+      "description": "",
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-11-06T06:37:20.974000",
+        "check:status": 403,
+        "check:url": "https://fr.calameo.com/read/00457680667c22fb73a7e"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "pdf",
+      "id": "dfb75cef-9d43-42f0-be0f-2ec402b30d29",
+      "last_modified": "2016-08-05T16:32:29.238000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/dfb75cef-9d43-42f0-be0f-2ec402b30d29",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": null,
+      "published": "2016-08-05T16:32:29.239000",
+      "title": "BP 2016 Tome 2",
+      "url": "https://fr.calameo.com/read/00457680667c22fb73a7e"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "3f3ed9265e033c0a07bc794eeab3ad992042b042"
+      },
+      "created_at": "2017-01-18T11:12:37.985000",
+      "description": "",
+      "extras": {},
+      "filesize": 10445,
+      "filetype": "file",
+      "format": "xlsx",
+      "id": "80b242d6-abb4-4e33-a8c2-a11e7a300034",
+      "last_modified": "2017-01-18T11:13:08.063000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/80b242d6-abb4-4e33-a8c2-a11e7a300034",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "published": "2017-01-18T11:12:37.985000",
+      "title": "Vue d'ensemble (pour les humains) ",
+      "url": "https://www.data.gouv.fr/s/resources/budget-primitif-2016-de-la-communaute-dagglomeration-bar-le-duc-sud-meuse/20170118-111237/OPEN_DATE_PAGE_1_VUE_D_ENSEMBLE_AGGLO.xlsx"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "23c98524236df4c5c9a44ff87de47174c1d777d5"
+      },
+      "created_at": "2017-01-18T11:22:13.867000",
+      "description": "",
+      "extras": {},
+      "filesize": 11202,
+      "filetype": "file",
+      "format": "xlsx",
+      "id": "f961b5a5-57ed-4fc6-b15d-fd6273b7e1b5",
+      "last_modified": "2017-01-18T11:22:31.707000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f961b5a5-57ed-4fc6-b15d-fd6273b7e1b5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "published": "2017-01-18T11:22:13.867000",
+      "title": "Vue par fonction (pour les humains) ",
+      "url": "https://www.data.gouv.fr/s/resources/budget-primitif-2016-de-la-communaute-dagglomeration-bar-le-duc-sud-meuse/20170118-112213/OPEN_DATA_PAGE_4_FONCTION_AGGLO.xlsx"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "bb8f7aafa0d3007dbfd8600fde28136301baf96d"
+      },
+      "created_at": "2017-01-18T11:21:14.466000",
+      "description": "",
+      "extras": {},
+      "filesize": 17992,
+      "filetype": "file",
+      "format": "xlsx",
+      "id": "e388b20d-bb86-4ca3-b603-6c294a26d529",
+      "last_modified": "2017-01-18T11:21:42.977000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e388b20d-bb86-4ca3-b603-6c294a26d529",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "published": "2017-01-18T11:21:14.466000",
+      "title": " Vue par compte nature (pour les humains) ",
+      "url": "https://www.data.gouv.fr/s/resources/budget-primitif-2016-de-la-communaute-dagglomeration-bar-le-duc-sud-meuse/20170118-112114/OPEN_DATA_PAGE_3_COMPTE_NATURE_AGGLO.xlsx"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "37a3125b6536b5008b4ac488112d1c4f29014c2b"
+      },
+      "created_at": "2017-01-18T11:13:48.356000",
+      "description": "",
+      "extras": {},
+      "filesize": 11634,
+      "filetype": "file",
+      "format": "xlsx",
+      "id": "fa0d7d13-959e-4d57-87a3-20ba1969b0a3",
+      "last_modified": "2017-01-18T11:20:30.758000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fa0d7d13-959e-4d57-87a3-20ba1969b0a3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "published": "2017-01-18T11:13:48.356000",
+      "title": "Vue par chapitre (pour les humains) ",
+      "url": "https://www.data.gouv.fr/s/resources/budget-primitif-2016-de-la-communaute-dagglomeration-bar-le-duc-sud-meuse/20170118-111348/OPEN_DATA_PAGE_2_CHAPITRE_AGGLO.xlsx"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "700b3d1ea5dd317434d33e7570bd4a3d059aaae6"
+      },
+      "created_at": "2017-01-18T11:22:59.982000",
+      "description": "",
+      "extras": {},
+      "filesize": 15000,
+      "filetype": "file",
+      "format": "csv",
+      "id": "b8c015d3-0cc4-4621-b317-f14f86b88e8d",
+      "last_modified": "2017-01-18T11:23:21.193000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b8c015d3-0cc4-4621-b317-f14f86b88e8d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-01-18T11:22:59.982000",
+      "title": " Donn\u00e9es brutes (pour les machines) ",
+      "url": "https://www.data.gouv.fr/s/resources/budget-primitif-2016-de-la-communaute-dagglomeration-bar-le-duc-sud-meuse/20170118-112259/OPEN_DATA_PAGE_5_BUDGET_EN_LISTE_FI_DR_RUB_ET_CHAPITRE_AGGLO.csv"
+    }
+  ],
+  "slug": "budget-primitif-2016-de-la-communaute-dagglomeration-bar-le-duc-sud-meuse",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:epci",
+    "zones": [
+      "fr:epci:200033025@2013-01-01"
+    ]
+  },
+  "tags": [
+    "budget",
+    "budget-primitif"
+  ],
+  "temporal_coverage": null,
+  "title": "Budget primitif 2016 de la Communaut\u00e9 d'Agglom\u00e9ration Bar-le-Duc Sud Meuse",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/budget-primitif-2016-de-la-communaute-dagglomeration-bar-le-duc-sud-meuse/"
+}

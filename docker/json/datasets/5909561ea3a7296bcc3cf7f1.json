@@ -1,0 +1,103 @@
+{
+  "badges": [],
+  "created_at": "2017-05-03T06:01:34.671000",
+  "deleted": null,
+  "description": "Les r\u00e8gles du m\u00e9canisme de capacit\u00e9, dans leur version arr\u00eat\u00e9e le 29 novembre 2016, renforcent les dispositifs de transparence sur les \u00e9changes de garanties de capacit\u00e9. Ainsi, les nouvelles r\u00e8gles pr\u00e9voient que les prix, volumes et dates de prise d\u2019effet de toutes les transactions r\u00e9alis\u00e9es soient rendus publics; seule l\u2019identit\u00e9 des parties \u00e0 ces transactions demeure secr\u00e8te afin de prot\u00e9ger la confidentialit\u00e9 d\u2019informations commercialement sensibles.\n\nCes attributs des cessions de garanties de capacit\u00e9s, issus du registre des garanties de capacit\u00e9s tenu par RTE _(https://rega-rte.fr)_ , sont accessibles sur le site Open Data.\n\n _Les garanties de capacit\u00e9 correspondent \u00e0 une puissance unitaire normative de 0,1 MW/GC et_ _sont valables pour une ann\u00e9e de livraison donn\u00e9e (ann\u00e9e civile)._\n\n _Une cession de garanties de capacit\u00e9 (GC):_\n\n  * _se mat\u00e9rialise par un mouvement de garanties d\u2019un compte d\u00e9biteur (propri\u00e9taire de la capacit\u00e9) \u00e0 un compte cr\u00e9diteur (acheteur de la capacit\u00e9),_\n  *  _peut \u00eatre effective \u00e0 la date de saisie ou \u00e0 une date d\u2019\u00e9ch\u00e9ance ult\u00e9rieure (cessions dites \u00ab \u00e0 termes \u00bb),_\n  *  _peut s\u2019effectuer \u00e0 un prix d\u00e9fini entre les 2 parties (transaction de capacit\u00e9) ou, sous certaines conditions, sans prix (transfert de capacit\u00e9),_\n  *  _dans le cas d\u2019une transaction, le prix associ\u00e9 peut \u00eatre un prix fixe (en Euro par garantie de capacit\u00e9) ou un prix index\u00e9 (par exemple sur le r\u00e9sultat d\u2019ench\u00e8res \u00e0 venir)._\n\n\n\n __",
+  "extras": {
+    "harvest:domain": "opendata.rte-france.com",
+    "harvest:last_update": "2017-11-27T05:14:40.133949",
+    "harvest:remote_id": "registre_garantie_capacite",
+    "harvest:source_id": "56ebe63cc751df69fa170353",
+    "ods:has_records": true,
+    "ods:references": "http://clients.rte-france.com/lang/fr/clients_traders_fournisseurs/services_clients/dispositif_mecapa.jsp",
+    "ods:url": "https://opendata.rte-france.com//explore/dataset/registre_garantie_capacite/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5909561ea3a7296bcc3cf7f1",
+  "last_modified": "2017-11-27T05:14:40.136000",
+  "last_update": "2017-11-27T05:14:40.133000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "RTE",
+    "class": "Organization",
+    "id": "55f03e1088ee384bc1a46ec1",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-09-09/595e18df74fa490f93c7b2f52c28730e/sans-titre-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-09-09/595e18df74fa490f93c7b2f52c28730e/sans-titre-100.png",
+    "name": "R\u00e9seau de Transport d'Electricit\u00e9",
+    "page": "https://www.data.gouv.fr/fr/organizations/reseau-de-transport-delectricite/",
+    "slug": "reseau-de-transport-delectricite",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/reseau-de-transport-delectricite/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/registre-des-garanties-de-capacite/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:40.133000",
+      "description": "- *Date saisie*: date_saisie[date] Date de saisie d\u2019une cession dans le registre des garanties de capacit\u00e9.\n- *Type*: type[text] Type de la cession port\u00e9 : transfert, transaction, transfert \u00e0 terme, transaction \u00e0 terme. Un transfert est une cession sans prix associ\u00e9.\n- *Date \u00e9ch\u00e9ance*: date_echeance[date] Date de livraison effective pour les livraisons \u00e0 terme. Ce champ est uniquement renseign\u00e9 pour les contrats pr\u00e9voyant une livraison \u00e0 terme.\n- *Quantit\u00e9 (GC)*: quantite_gc[int] Nombre de garanties de capacit\u00e9 \u00e9chang\u00e9es (en nombre de garanties)\n- *PUGC (MW/GC)*: pugc[double] Puissance unitaire normative d\u2019une garantie de capacit\u00e9 (0,1 MW / GC)\n- *Quantit\u00e9 (MW)*: quantite[double] Volume en MW de garanties de capacit\u00e9 \u00e9chang\u00e9es.\nQuantit\u00e9 MW = PUGC x Quantit\u00e9_GC\n\n- *Prix unitaire (\u20ac/GC)*: prix_unitaire_eu_gc[double] Prix unitaire d\u00e9clar\u00e9 par la partie c\u00e9dante, lorsque le prix est fix\u00e9 et d\u00e9finitif lors de la saisie d\u2019une cession dans le registre des garanties de capacit\u00e9. La valeur est un prix unitaire, en \u20ac par garanties de capacit\u00e9. Lorsque le prix d\u00e9clar\u00e9 est index\u00e9 (valeur non d\u00e9finie au moment de la saisie), le champ Prix unitaire est laiss\u00e9 vide.\n- *Formule d'indexation*: formule_d_indexation[text] Prix de cession d\u00e9clar\u00e9 par une formule d\u2019indexation, lorsque le prix n\u2019est pas fix\u00e9 lors de la saisie d\u2019une cession dans le registre des garanties de capacit\u00e9. Lorsque le prix unitaire est connu, le champ Formule d\u2019indexation est laiss\u00e9 vide.\n- *Ann\u00e9e de livraison*: annee_de_livraison[date] Ann\u00e9e de livraison des garanties \u00e9chang\u00e9es.\n- *Type compte d\u00e9bit*: type_compte_debit[text] Type du compte d\u00e9biteur de la cession (EXP : exploitant, RPC : responsable de p\u00e9rim\u00e8tre de certification, ECH : \u00e9change ou ACO : acteur oblig\u00e9).\n- *Type compte cr\u00e9dit*: type_compte_credit[text] Type du compte cr\u00e9diteur de la cession (EXP : exploitant, RPC : responsable de p\u00e9rim\u00e8tre de certification, ECH : \u00e9change ou ACO : acteur oblig\u00e9).\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "34114004-926c-4028-8680-44e90f28f6ec",
+      "last_modified": "2017-10-27T09:44:59",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/34114004-926c-4028-8680-44e90f28f6ec",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:14:40.133000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.rte-france.com//explore/dataset/registre_garantie_capacite/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:40.133000",
+      "description": "- *Date saisie*: date_saisie[date] Date de saisie d\u2019une cession dans le registre des garanties de capacit\u00e9.\n- *Type*: type[text] Type de la cession port\u00e9 : transfert, transaction, transfert \u00e0 terme, transaction \u00e0 terme. Un transfert est une cession sans prix associ\u00e9.\n- *Date \u00e9ch\u00e9ance*: date_echeance[date] Date de livraison effective pour les livraisons \u00e0 terme. Ce champ est uniquement renseign\u00e9 pour les contrats pr\u00e9voyant une livraison \u00e0 terme.\n- *Quantit\u00e9 (GC)*: quantite_gc[int] Nombre de garanties de capacit\u00e9 \u00e9chang\u00e9es (en nombre de garanties)\n- *PUGC (MW/GC)*: pugc[double] Puissance unitaire normative d\u2019une garantie de capacit\u00e9 (0,1 MW / GC)\n- *Quantit\u00e9 (MW)*: quantite[double] Volume en MW de garanties de capacit\u00e9 \u00e9chang\u00e9es.\nQuantit\u00e9 MW = PUGC x Quantit\u00e9_GC\n\n- *Prix unitaire (\u20ac/GC)*: prix_unitaire_eu_gc[double] Prix unitaire d\u00e9clar\u00e9 par la partie c\u00e9dante, lorsque le prix est fix\u00e9 et d\u00e9finitif lors de la saisie d\u2019une cession dans le registre des garanties de capacit\u00e9. La valeur est un prix unitaire, en \u20ac par garanties de capacit\u00e9. Lorsque le prix d\u00e9clar\u00e9 est index\u00e9 (valeur non d\u00e9finie au moment de la saisie), le champ Prix unitaire est laiss\u00e9 vide.\n- *Formule d'indexation*: formule_d_indexation[text] Prix de cession d\u00e9clar\u00e9 par une formule d\u2019indexation, lorsque le prix n\u2019est pas fix\u00e9 lors de la saisie d\u2019une cession dans le registre des garanties de capacit\u00e9. Lorsque le prix unitaire est connu, le champ Formule d\u2019indexation est laiss\u00e9 vide.\n- *Ann\u00e9e de livraison*: annee_de_livraison[date] Ann\u00e9e de livraison des garanties \u00e9chang\u00e9es.\n- *Type compte d\u00e9bit*: type_compte_debit[text] Type du compte d\u00e9biteur de la cession (EXP : exploitant, RPC : responsable de p\u00e9rim\u00e8tre de certification, ECH : \u00e9change ou ACO : acteur oblig\u00e9).\n- *Type compte cr\u00e9dit*: type_compte_credit[text] Type du compte cr\u00e9diteur de la cession (EXP : exploitant, RPC : responsable de p\u00e9rim\u00e8tre de certification, ECH : \u00e9change ou ACO : acteur oblig\u00e9).\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "65e8422d-348e-4b83-9892-b791ee81a4cd",
+      "last_modified": "2017-10-27T09:44:59",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/65e8422d-348e-4b83-9892-b791ee81a4cd",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:14:40.133000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.rte-france.com//explore/dataset/registre_garantie_capacite/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "registre-des-garanties-de-capacite",
+  "spatial": null,
+  "tags": [
+    "capacite",
+    "cession",
+    "garantie",
+    "marches-et-europe"
+  ],
+  "temporal_coverage": null,
+  "title": "Registre des garanties de capacit\u00e9",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/registre-des-garanties-de-capacite/"
+}

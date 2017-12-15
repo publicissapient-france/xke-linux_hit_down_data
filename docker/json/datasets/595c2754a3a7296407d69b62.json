@@ -1,0 +1,152 @@
+{
+  "badges": [],
+  "created_at": "2017-07-05T01:40:04.763000",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es indique en temps r\u00e9el les places de parking disponibles \u00e0 Issy-les-Moulineaux.\n\nIl est produit par Colas gr\u00e2ce \u00e0 des capteurs install\u00e9s sur des places de stationnement en voirie.",
+  "extras": {
+    "harvest:domain": "data.issy.com",
+    "harvest:last_update": "2017-11-27T05:05:24.847814",
+    "harvest:remote_id": "disponibilite-parking-aximumcolas",
+    "harvest:source_id": "595c266188ee382c7517add5",
+    "ods:has_records": true,
+    "ods:url": "https://data.issy.com//explore/dataset/disponibilite-parking-aximumcolas/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "595c2754a3a7296407d69b62",
+  "last_modified": "2017-11-27T05:05:24.850000",
+  "last_update": "2017-11-27T05:05:24.847000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb7a3a7292c64a78145",
+    "logo": "https://www.data.gouv.fr/s/avatars/b9/beecacecbd4d42ac10ef244f11e44e-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b9/beecacecbd4d42ac10ef244f11e44e-100.png",
+    "name": "Ville d'Issy-les-Moulineaux",
+    "page": "https://www.data.gouv.fr/fr/organizations/ville-d-issy-les-moulineaux/",
+    "slug": "ville-d-issy-les-moulineaux",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ville-d-issy-les-moulineaux/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/disponibilite-temps-reel-de-places-de-parking-en-voirie/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:05:24.846000",
+      "description": "- *Zone*: zone[text]\n- *Identifiant Place*: identifiant_place[text]\n- *Etat*: etat[text] 0 : Capteur en perte de communication\n1 : Place occup\u00e9e\n2 : Place libre\n- *Code Postal*: code_postal[text]\n- *Num\u00e9ro de rue*: numero_de_rue[double]\n- *Ville*: ville[text]\n- *Implantation*: implantation[text]\n- *Pays*: pays[text]\n- *Adresse*: adresse[text]\n- *Commentaires*: commentaires[text]\n- *Position*: position[geo_point_2d]\n- *Type*: type[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "adace75f-06d0-494e-9ce8-0e4831c2b9e7",
+      "last_modified": "2017-04-14T15:07:31",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/adace75f-06d0-494e-9ce8-0e4831c2b9e7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:05:24.846000",
+      "title": "Export au format CSV",
+      "url": "https://data.issy.com//explore/dataset/disponibilite-parking-aximumcolas/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:05:24.846000",
+      "description": "- *Zone*: zone[text]\n- *Identifiant Place*: identifiant_place[text]\n- *Etat*: etat[text] 0 : Capteur en perte de communication\n1 : Place occup\u00e9e\n2 : Place libre\n- *Code Postal*: code_postal[text]\n- *Num\u00e9ro de rue*: numero_de_rue[double]\n- *Ville*: ville[text]\n- *Implantation*: implantation[text]\n- *Pays*: pays[text]\n- *Adresse*: adresse[text]\n- *Commentaires*: commentaires[text]\n- *Position*: position[geo_point_2d]\n- *Type*: type[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "ea2b3e3a-eefb-45e3-af18-9cfaa01b4156",
+      "last_modified": "2017-04-14T15:07:31",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ea2b3e3a-eefb-45e3-af18-9cfaa01b4156",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:05:24.846000",
+      "title": "Export au format JSON",
+      "url": "https://data.issy.com//explore/dataset/disponibilite-parking-aximumcolas/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:05:24.847000",
+      "description": "- *Zone*: zone[text]\n- *Identifiant Place*: identifiant_place[text]\n- *Etat*: etat[text] 0 : Capteur en perte de communication\n1 : Place occup\u00e9e\n2 : Place libre\n- *Code Postal*: code_postal[text]\n- *Num\u00e9ro de rue*: numero_de_rue[double]\n- *Ville*: ville[text]\n- *Implantation*: implantation[text]\n- *Pays*: pays[text]\n- *Adresse*: adresse[text]\n- *Commentaires*: commentaires[text]\n- *Position*: position[geo_point_2d]\n- *Type*: type[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "74206333-0923-4c86-9d1a-019284f312bd",
+      "last_modified": "2017-04-14T15:07:31",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/74206333-0923-4c86-9d1a-019284f312bd",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:05:24.847000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.issy.com//explore/dataset/disponibilite-parking-aximumcolas/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:05:24.847000",
+      "description": "- *Zone*: zone[text]\n- *Identifiant Place*: identifiant_place[text]\n- *Etat*: etat[text] 0 : Capteur en perte de communication\n1 : Place occup\u00e9e\n2 : Place libre\n- *Code Postal*: code_postal[text]\n- *Num\u00e9ro de rue*: numero_de_rue[double]\n- *Ville*: ville[text]\n- *Implantation*: implantation[text]\n- *Pays*: pays[text]\n- *Adresse*: adresse[text]\n- *Commentaires*: commentaires[text]\n- *Position*: position[geo_point_2d]\n- *Type*: type[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "c0867524-bebd-4fac-bfe6-14fd51692b2c",
+      "last_modified": "2017-04-14T15:07:31",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c0867524-bebd-4fac-bfe6-14fd51692b2c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:05:24.847000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.issy.com//explore/dataset/disponibilite-parking-aximumcolas/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "disponibilite-temps-reel-de-places-de-parking-en-voirie",
+  "spatial": null,
+  "tags": [
+    "automobile",
+    "aximum",
+    "capteur",
+    "colas",
+    "deplacements",
+    "grand-paris-express",
+    "parking",
+    "so-mobility",
+    "stationnement",
+    "transports",
+    "voiture"
+  ],
+  "temporal_coverage": null,
+  "title": "Disponibilit\u00e9 temps r\u00e9el de places de parking en voirie",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/disponibilite-temps-reel-de-places-de-parking-en-voirie/"
+}

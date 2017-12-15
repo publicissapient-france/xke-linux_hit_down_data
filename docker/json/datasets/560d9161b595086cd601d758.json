@@ -1,0 +1,252 @@
+{
+  "badges": [],
+  "created_at": "2016-06-22T00:00:00",
+  "deleted": null,
+  "description": "Les EAJE sont des structures qui sont autoris\u00e9es \u00e0 accueillir de mani\u00e8re non permanente, des enfants de moins de 6 ans. Ils regroupent plusieurs cat\u00e9gories d\u2019\u00e9tablissements con\u00e7us et am\u00e9nag\u00e9s afin de recevoir dans la journ\u00e9e, collectivement ou chez un(e) assistant(e) maternel(le) exer\u00e7ant au sein d\u2019un service d\u2019accueil familial, de fa\u00e7on r\u00e9guli\u00e8re ou occasionnelle, ces enfants, sous la responsabilit\u00e9 de professionnels de la petite enfance. Ils sont soumis au respect d\u2019une r\u00e9glementation pr\u00e9vue dans le code de la sant\u00e9 publique (articles R 2324-16 et suivants) et font l\u2019objet d\u2019une autorisation d\u2019ouverture d\u00e9livr\u00e9e par l\u2019autorit\u00e9 comp\u00e9tente (Pr\u00e9sident du Conseil g\u00e9n\u00e9ral pour les gestionnaires priv\u00e9s et maire de la commune pour les gestionnaires publics apr\u00e8s avis des services de protection maternelle et infantile (PMI). Les locaux respectent les normes de s\u00e9curit\u00e9 exig\u00e9es pour les \u00e9tablissements recevant du public et sont am\u00e9nag\u00e9s de fa\u00e7on \u00e0 favoriser l\u2019\u00e9veil des enfants.  \nLa capacit\u00e9 d\u2019accueil s\u2019exprime en nombre de places. Elle est d\u00e9finie dans l\u2019autorisation de fonctionnement d\u00e9livr\u00e9e par l\u2019autorit\u00e9 comp\u00e9tente apr\u00e8s instruction des services de la protection maternelle et infantile (Pmi). L\u2019autorisation peut pr\u00e9voir des capacit\u00e9s d\u2019accueil diff\u00e9rentes suivant les p\u00e9riodes de l\u2019ann\u00e9e, de la semaine ou de la journ\u00e9e, compte tenu des variations pr\u00e9visibles des besoins d\u2019accueil.\n\nLes caisses d\u2019Allocations familiales (Caf) contribuent au d\u00e9veloppement de l\u2019offre d\u2019accueil en versant une subvention de fonctionnement aux gestionnaires des EAJE : la prestation de service unique (PSU). La prestation de service unique prend en charge 66 % du prix de revient horaire de l\u2019accueil de l\u2019enfant dans la limite du prix plafond fix\u00e9 annuellement par la Cnaf, d\u00e9duction faite des participations familiales. Elle est vers\u00e9e uniquement pour les enfants relevant du r\u00e9gime g\u00e9n\u00e9ral.\nPour b\u00e9n\u00e9ficier de ces financements, les structures doivent r\u00e9pondre \u00e0 plusieurs conditions :\n\n\u2212 \u00eatre autoris\u00e9es \u00e0 fonctionner par les autorit\u00e9s comp\u00e9tentes ;\n\n\u2212 \u00eatre ouvertes \u00e0 toute la population ;\n\n\u2212 calculer les participations des familles \u00e0 partir du bar\u00e8me national des participations des familles pr\u00e9cit\u00e9es ;\n\n\u2212 signer une convention d\u2019objectifs et de financement avec la Caf.\n\nCe jeu de donn\u00e9es restitue pour chacune des communes fran\u00e7aises le nombre d\u2019EAJE implant\u00e9 sur son territoire et qui a per\u00e7u une prestation de service vers\u00e9e par la Caf au titre de l\u2019exercice consid\u00e9r\u00e9.\n\n-\tNombre d\u2019EAJE (A)\n\n-\tNombre totale de places offertes par les EAJE (B)\n\nIl contient \u00e9galement des enregistrements relatifs \u00e0 des communes situ\u00e9es en Allemagne dans lesquelles les \u0153uvres sociales des arm\u00e9es g\u00e8rent les EAJE destin\u00e9s \u00e0 l\u2019accueil des jeunes enfants des personnels employ\u00e9s par ces bases. Le code commune de ces bases est le \u00ab 00000 \u00bb.\n\nRetrouvez toutes les cartes d\u00e9partementales dans l'Atlas des \u00e9tablissements d'accueil du jeune enfant (Eaje), atlas dressant un \u00e9tat des lieux annuel de l'offre d'accueil rendu par les Eaje.\nhttp://www.caf.fr/etudes-et-statistiques/publications/atlas-des-eaje",
+  "extras": {
+    "ckan:name": "repartition-par-commune-des-etablissements-d-accueil-du-jeune-enfant",
+    "harvest:domain": "data.caf.fr",
+    "harvest:last_update": "2017-11-27T05:08:59.832790",
+    "harvest:remote_id": "4b9fd16a-9bc4-4871-ac6a-9a1eb3e700d1",
+    "harvest:source_id": "560d9133c751df40ee756894",
+    "harvested": "2017-10-02T09:44:52.394937",
+    "remote_url": "SID, fichiers MNEAJE",
+    "source_id": "954ea88a-1b59-4a56-acae-2148a64dbe5e"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "560d9161b595086cd601d758",
+  "last_modified": "2017-11-27T05:08:59.906000",
+  "last_update": "2017-07-02T19:44:16.661000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "CNAF",
+    "class": "Organization",
+    "id": "5595066cc751df4582a453ba",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-07-02/a1bc08e4a4dc44a89cb29697800a83b5/new_logo-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-07-02/a1bc08e4a4dc44a89cb29697800a83b5/new_logo-100.jpg",
+    "name": "Caisse Nationale des Allocations familiales ",
+    "page": "https://www.data.gouv.fr/fr/organizations/allocations-familiales/",
+    "slug": "allocations-familiales",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/allocations-familiales/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/repartition-par-commune-des-etablissements-d-accueil-du-jeune-enfant/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:41.344000",
+      "description": "Nombre d'\u00e9tablissement d'accueil du jeune enfant en 2011.",
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-11-16T07:25:22.934000",
+        "check:status": 404,
+        "check:url": "http://data.caf.fr/dataset/4b9fd16a-9bc4-4871-ac6a-9a1eb3e700d1/resource/959a3666-01a3-4080-a8d5-3d6fa66881a1/download/EAJE2011.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "959a3666-01a3-4080-a8d5-3d6fa66881a1",
+      "last_modified": "2015-04-20T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/959a3666-01a3-4080-a8d5-3d6fa66881a1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:41.344000",
+      "title": "Eaje 2011",
+      "url": "http://data.caf.fr/dataset/4b9fd16a-9bc4-4871-ac6a-9a1eb3e700d1/resource/959a3666-01a3-4080-a8d5-3d6fa66881a1/download/EAJE2011.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:41.344000",
+      "description": "Nombre d'\u00e9tablissements d'accueil du jeune enfant financ\u00e9s par la Caf et capacit\u00e9 d'accueil en 2012",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-25T19:04:50.639000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/4b9fd16a-9bc4-4871-ac6a-9a1eb3e700d1/resource/df2d1bc3-8b3f-4a1e-a00e-21cd14e0c720/download/EAJE2012.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "df2d1bc3-8b3f-4a1e-a00e-21cd14e0c720",
+      "last_modified": "2016-11-23T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/df2d1bc3-8b3f-4a1e-a00e-21cd14e0c720",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:41.345000",
+      "title": "Eaje 2012",
+      "url": "http://data.caf.fr/dataset/4b9fd16a-9bc4-4871-ac6a-9a1eb3e700d1/resource/df2d1bc3-8b3f-4a1e-a00e-21cd14e0c720/download/EAJE2012.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:41.345000",
+      "description": "Nombre d'\u00e9tablissements d'accueil du jeune enfant financ\u00e9s par la Caf et capacit\u00e9 d'accueil en 2013",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-25T19:04:50.664000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/4b9fd16a-9bc4-4871-ac6a-9a1eb3e700d1/resource/4084b987-866c-4912-87b4-427508fc8317/download/EAJE2013.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "4084b987-866c-4912-87b4-427508fc8317",
+      "last_modified": "2016-11-23T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4084b987-866c-4912-87b4-427508fc8317",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 8
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:41.345000",
+      "title": "Eaje 2013",
+      "url": "http://data.caf.fr/dataset/4b9fd16a-9bc4-4871-ac6a-9a1eb3e700d1/resource/4084b987-866c-4912-87b4-427508fc8317/download/EAJE2013.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:44:16.659000",
+      "description": "Lisez-moi",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-25T19:04:50.689000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/4b9fd16a-9bc4-4871-ac6a-9a1eb3e700d1/resource/36eb5518-f23e-49e2-8f0b-2ae220cfc7ec/download/Descriptif-du-fichier-des-EAJE.txt"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "txt",
+      "id": "36eb5518-f23e-49e2-8f0b-2ae220cfc7ec",
+      "last_modified": "2017-11-27T05:08:59.831000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/36eb5518-f23e-49e2-8f0b-2ae220cfc7ec",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T19:44:16.660000",
+      "title": "Descriptif du fichier des EAJE",
+      "url": "http://data.caf.fr/dataset/4b9fd16a-9bc4-4871-ac6a-9a1eb3e700d1/resource/36eb5518-f23e-49e2-8f0b-2ae220cfc7ec/download/Descriptif-du-fichier-des-EAJE.txt"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:44:16.660000",
+      "description": "Nombre d'\u00e9tablissements d'accueil du jeune enfant financ\u00e9s par la Caf et capacit\u00e9 d'accueil en 2011",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-25T19:04:50.680000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/4b9fd16a-9bc4-4871-ac6a-9a1eb3e700d1/resource/8c1accef-dde2-4cce-82bd-82853620e92a/download/EAJE2011.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "8c1accef-dde2-4cce-82bd-82853620e92a",
+      "last_modified": "2017-11-27T05:08:59.831000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8c1accef-dde2-4cce-82bd-82853620e92a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T19:44:16.660000",
+      "title": "Eaje 2011",
+      "url": "http://data.caf.fr/dataset/4b9fd16a-9bc4-4871-ac6a-9a1eb3e700d1/resource/8c1accef-dde2-4cce-82bd-82853620e92a/download/EAJE2011.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:44:16.661000",
+      "description": "Nombre d'\u00e9tablissements d'accueil du jeune enfant financ\u00e9s par la Caf et capacit\u00e9 d'accueil en 2014",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-25T19:04:50.652000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/4b9fd16a-9bc4-4871-ac6a-9a1eb3e700d1/resource/071034e1-bdb2-4f9c-bce9-bb8a3291a9a5/download/EAJE2014.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "071034e1-bdb2-4f9c-bce9-bb8a3291a9a5",
+      "last_modified": "2016-11-23T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/071034e1-bdb2-4f9c-bce9-bb8a3291a9a5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T19:44:16.661000",
+      "title": "Eaje 2014",
+      "url": "http://data.caf.fr/dataset/4b9fd16a-9bc4-4871-ac6a-9a1eb3e700d1/resource/071034e1-bdb2-4f9c-bce9-bb8a3291a9a5/download/EAJE2014.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:44:16.661000",
+      "description": "Nombre d'\u00e9tablissements d'accueil du jeune enfant financ\u00e9s par la Caf et capacit\u00e9 d'accueil en 2015",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-27T16:51:50.264000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/4b9fd16a-9bc4-4871-ac6a-9a1eb3e700d1/resource/ce91eddb-dda4-4171-b812-b6e4d1e6a458/download/Eaje-2015.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ce91eddb-dda4-4171-b812-b6e4d1e6a458",
+      "last_modified": "2017-04-03T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ce91eddb-dda4-4171-b812-b6e4d1e6a458",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T19:44:16.661000",
+      "title": "Eaje 2015",
+      "url": "http://data.caf.fr/dataset/4b9fd16a-9bc4-4871-ac6a-9a1eb3e700d1/resource/ce91eddb-dda4-4171-b812-b6e4d1e6a458/download/Eaje-2015.csv"
+    }
+  ],
+  "slug": "repartition-par-commune-des-etablissements-d-accueil-du-jeune-enfant",
+  "spatial": null,
+  "tags": [
+    "commune",
+    "creche",
+    "eaje",
+    "enfant",
+    "garderie",
+    "halte",
+    "jeune"
+  ],
+  "temporal_coverage": null,
+  "title": "R\u00e9partition par commune des \u00e9tablissements d'accueil du jeune enfant percevant une prestation de service Caf et nombre de places offertes.",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/repartition-par-commune-des-etablissements-d-accueil-du-jeune-enfant/"
+}

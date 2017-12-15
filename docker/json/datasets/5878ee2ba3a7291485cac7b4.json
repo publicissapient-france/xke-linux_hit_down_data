@@ -1,0 +1,139 @@
+{
+  "badges": [],
+  "created_at": "2013-07-14T00:00:00",
+  "deleted": null,
+  "description": "Base de donn\u00e9es locales V2 de Service-public.fr compil\u00e9e au format CSV. La documentation du jeu de donn\u00e9es se trouve sur la page source.",
+  "extras": {
+    "ckan:name": "bdd_lv2_service-public_fr",
+    "harvest:domain": "www.nosdonnees.fr",
+    "harvest:last_update": "2017-07-10T06:04:46.146070",
+    "harvest:remote_id": "2348911b-54ad-4ebc-95c2-8b1b65340110",
+    "harvest:source_id": "5878ee1588ee385bffa6f719",
+    "remote_url": "http://www.ideeslibres.org/service-public-fr-annuaire-de-ladministration-base-de-donnees-locales-v2/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5878ee2ba3a7291485cac7b4",
+  "last_modified": "2017-07-10T06:04:46.147000",
+  "last_update": "2017-01-13T16:11:39.456000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff99a3a7292c64a78016",
+    "logo": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-100.png",
+    "name": "NosDonn\u00e9es.fr",
+    "page": "https://www.data.gouv.fr/fr/organizations/nosdonnees-fr/",
+    "slug": "nosdonnees-fr",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nosdonnees-fr/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/bdd-lv2-service-public-fr/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:11:39.454000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-17T07:59:03.749000",
+        "check:status": 200,
+        "check:url": "http://www.ideeslibres.org/opendata/spbdlv2/organismes.csv.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "4c88eda6-f9fd-4f3c-b5a9-18271edd7a3c",
+      "last_modified": "2017-07-10T06:04:46.145000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4c88eda6-f9fd-4f3c-b5a9-18271edd7a3c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "",
+      "published": "2017-01-13T16:11:39.454000",
+      "title": "Les organismes",
+      "url": "http://www.ideeslibres.org/opendata/spbdlv2/organismes.csv.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:11:39.455000",
+      "description": "Par code INSEE",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-17T07:59:03.774000",
+        "check:status": 200,
+        "check:url": "http://www.ideeslibres.org/opendata/spbdlv2/communes.csv.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "51f7971e-a6a7-4869-a58b-79295c4ad7a4",
+      "last_modified": "2017-07-10T06:04:46.145000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/51f7971e-a6a7-4869-a58b-79295c4ad7a4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "",
+      "published": "2017-01-13T16:11:39.455000",
+      "title": "L'appartenance g\u00e9ographique des organismes",
+      "url": "http://www.ideeslibres.org/opendata/spbdlv2/communes.csv.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:11:39.456000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-17T07:59:03.635000",
+        "check:status": 200,
+        "check:url": "http://www.ideeslibres.org/opendata/spbdlv2/liste_types_organismes.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "de9e04cb-4735-40ef-a8e3-efb7f54c98bb",
+      "last_modified": "2017-07-10T06:04:46.145000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/de9e04cb-4735-40ef-a8e3-efb7f54c98bb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "",
+      "published": "2017-01-13T16:11:39.456000",
+      "title": "Les intitul\u00e9s des organismes",
+      "url": "http://www.ideeslibres.org/opendata/spbdlv2/liste_types_organismes.csv"
+    }
+  ],
+  "slug": "bdd-lv2-service-public-fr",
+  "spatial": null,
+  "tags": [
+    "administration",
+    "annuaire",
+    "csv",
+    "service-public"
+  ],
+  "temporal_coverage": null,
+  "title": "Service-public.fr - Annuaire de l'administration",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/bdd-lv2-service-public-fr/"
+}

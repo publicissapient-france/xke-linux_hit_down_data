@@ -1,0 +1,103 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T17:10:33.395000",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es recense tous les conseillers de Paris de 1977 \u00e0 2014.\n\nL'onglet Images comprend les photos des conseillers.\n\nEn pi\u00e8ce jointe sont les fichiers zipp\u00e9s comprenant les photos.\n\nSi vous \u00eates int\u00e9r\u00e9ss\u00e9 par le Conseil de Paris, vous pouvez contacter Fabrice Deschamps,\u00a0charg\u00e9 des relations avec les publics au Service du Conseil de Paris\u00a0\u00e0 l'adresse suivante: \u00a0[DDCT-SCP-Relations-Avec-Les-Publics@paris.fr](mailto:DDCT-SCP-Relations-Avec-Les-Publics@paris.fr)",
+  "extras": {
+    "harvest:domain": "opendata.paris.fr",
+    "harvest:last_update": "2017-11-27T05:09:49.749554",
+    "harvest:remote_id": "les-conseillers-de-paris-de-1977-a-2014",
+    "harvest:source_id": "5631ef2988ee3837ce531585",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.paris.fr/explore/dataset/les-conseillers-de-paris-de-1977-a-2014/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59590ce9a3a7291dcf9c7ff7",
+  "last_modified": "2017-11-27T05:09:49.756000",
+  "last_update": "2017-11-27T05:09:49.748000",
+  "license": "odc-odbl",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff89a3a7292c64a77eb7",
+    "logo": "https://www.data.gouv.fr/s/avatars/b2/0e83ec3699415a87640e97c51cb006-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b2/0e83ec3699415a87640e97c51cb006-100.png",
+    "name": "Mairie de Paris",
+    "page": "https://www.data.gouv.fr/fr/organizations/mairie-de-paris/",
+    "slug": "mairie-de-paris",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/mairie-de-paris/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/les-conseillers-de-paris-de-1977-a-2014/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:09:49.748000",
+      "description": "- *image*: image[file]\n- *mandature*: mandature[text]\n- *conseiller*: conseiller[text]\n- *civilite*: civilite[text]\n- *prenom*: prenom[text]\n- *nom*: nom[text]\n- *secteur*: secteur[text]\n- *groupe_politique*: groupe_politique[text]\n- *groupe_politique_fonctions*: groupe_politique_fonctions[text]\n- *elu_e_le*: elu_e_le[date]\n- *deces*: deces[text]\n- *demission*: demission[text]\n- *remplacement*: remplacement[text]\n- *maire_de_paris*: maire_de_paris[text]\n- *adjoint_au_maire*: adjoint_au_maire[text]\n- *adjoint_au_maire_demission*: adjoint_au_maire_demission[text]\n- *delegation_1_adjoint*: delegation_1_adjoint[text]\n- *Arr\u00eat\u00e9 d\u00e9l\u00e9gation A1*: arrete_delegation_a1[text]\n- *Arr\u00eat\u00e9 fin d\u00e9l\u00e9gation A1*: arrete_fin_delegation_a1[text]\n- *delegation_2_adjoint*: delegation_2_adjoint[text]\n- *Arr\u00eat\u00e9 d\u00e9l\u00e9gation A2*: arrete_delegation_a2[text]\n- *Arr\u00eat\u00e9 fin d\u00e9l\u00e9gation A2*: arrete_fin_delegation_a2[text]\n- *delegation_3_adjoint*: delegation_3_adjoint[text]\n- *Arr\u00eat\u00e9 d\u00e9l\u00e9gation A3*: arrete_delegation_a3[text]\n- *Arr\u00eat\u00e9 fin d\u00e9l\u00e9gation A3*: arrete_fin_delegation_a3[text]\n- *delegation_4_adjoint*: delegation_4_adjoint[text]\n- *Arr\u00eat\u00e9 d\u00e9l\u00e9gation A4*: arrete_delegation_a4[text]\n- *conseiller_delegue*: conseiller_delegue[text]\n- *delegation_1_conseiller_delegue*: delegation_1_conseiller_delegue[text]\n- *Arr\u00eat\u00e9 d\u00e9l\u00e9gation CD1*: arrete_delegation_cd1[text]\n- *Arr\u00eat\u00e9 fin d\u00e9l\u00e9gation CD1*: arrete_fin_delegation_cd1[text]\n- *delegation_2_conseiller_delegue*: delegation_2_conseiller_delegue[text]\n- *Arr\u00eat\u00e9 d\u00e9l\u00e9gation CD2*: arrete_delegation_cd2[text]\n- *Arr\u00eat\u00e9 fin d\u00e9l\u00e9gation CD2*: arrete_fin_delegation_cd2[text]\n- *delegation_3_conseiller_delegue*: delegation_3_conseiller_delegue[text]\n- *Arr\u00eat\u00e9 d\u00e9l\u00e9gation CD3*: arrete_delegation_cd3[text]\n- *Arr\u00eat\u00e9 fin d\u00e9l\u00e9gation CD3*: arrete_fin_delegation_cd3[text]\n- *mission_1_conseiller_de_paris*: mission_1_conseiller_de_paris[text]\n- *arrete_mission_cp1*: arrete_mission_cp1[text]\n- *mission_2_conseiller_de_paris*: mission_2_conseiller_de_paris[text]\n- *arrete_mission_cp2*: arrete_mission_cp2[text]\n- *fonction_au_conseil_general*: fonction_au_conseil_general[text]\n- *Arrondissement (fonction)*: arrondissement_fonction[text]\n- *Arrondissement (arr\u00eat\u00e9 pour fonction)*: arrondissement_arrete_pour_fonction[text]\n- *Arrondissement (d\u00e9mission)*: arrondissement_demission[text]\n- *n\u00e9(e) le*: ne_e_le[date]\n- *ville de naissance*: ville_de_naissance[text]\n- *Arrondt D\u00e9partement ou Pays de naissance*: arrondt_departement_ou_pays[text]\n- *profession*: profession[text]\n- *avant_1977_au_conseil_de_paris*: avant_1977_au_conseil_de_paris[text]\n- *liste*: liste[text]\n- *conduite_par*: conduite_par[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ffbf36e2-f44d-4a86-97ea-ae69a83f3670",
+      "last_modified": "2015-02-10T10:00:41",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ffbf36e2-f44d-4a86-97ea-ae69a83f3670",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:09:49.748000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.paris.fr/explore/dataset/les-conseillers-de-paris-de-1977-a-2014/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:09:49.748000",
+      "description": "- *image*: image[file]\n- *mandature*: mandature[text]\n- *conseiller*: conseiller[text]\n- *civilite*: civilite[text]\n- *prenom*: prenom[text]\n- *nom*: nom[text]\n- *secteur*: secteur[text]\n- *groupe_politique*: groupe_politique[text]\n- *groupe_politique_fonctions*: groupe_politique_fonctions[text]\n- *elu_e_le*: elu_e_le[date]\n- *deces*: deces[text]\n- *demission*: demission[text]\n- *remplacement*: remplacement[text]\n- *maire_de_paris*: maire_de_paris[text]\n- *adjoint_au_maire*: adjoint_au_maire[text]\n- *adjoint_au_maire_demission*: adjoint_au_maire_demission[text]\n- *delegation_1_adjoint*: delegation_1_adjoint[text]\n- *Arr\u00eat\u00e9 d\u00e9l\u00e9gation A1*: arrete_delegation_a1[text]\n- *Arr\u00eat\u00e9 fin d\u00e9l\u00e9gation A1*: arrete_fin_delegation_a1[text]\n- *delegation_2_adjoint*: delegation_2_adjoint[text]\n- *Arr\u00eat\u00e9 d\u00e9l\u00e9gation A2*: arrete_delegation_a2[text]\n- *Arr\u00eat\u00e9 fin d\u00e9l\u00e9gation A2*: arrete_fin_delegation_a2[text]\n- *delegation_3_adjoint*: delegation_3_adjoint[text]\n- *Arr\u00eat\u00e9 d\u00e9l\u00e9gation A3*: arrete_delegation_a3[text]\n- *Arr\u00eat\u00e9 fin d\u00e9l\u00e9gation A3*: arrete_fin_delegation_a3[text]\n- *delegation_4_adjoint*: delegation_4_adjoint[text]\n- *Arr\u00eat\u00e9 d\u00e9l\u00e9gation A4*: arrete_delegation_a4[text]\n- *conseiller_delegue*: conseiller_delegue[text]\n- *delegation_1_conseiller_delegue*: delegation_1_conseiller_delegue[text]\n- *Arr\u00eat\u00e9 d\u00e9l\u00e9gation CD1*: arrete_delegation_cd1[text]\n- *Arr\u00eat\u00e9 fin d\u00e9l\u00e9gation CD1*: arrete_fin_delegation_cd1[text]\n- *delegation_2_conseiller_delegue*: delegation_2_conseiller_delegue[text]\n- *Arr\u00eat\u00e9 d\u00e9l\u00e9gation CD2*: arrete_delegation_cd2[text]\n- *Arr\u00eat\u00e9 fin d\u00e9l\u00e9gation CD2*: arrete_fin_delegation_cd2[text]\n- *delegation_3_conseiller_delegue*: delegation_3_conseiller_delegue[text]\n- *Arr\u00eat\u00e9 d\u00e9l\u00e9gation CD3*: arrete_delegation_cd3[text]\n- *Arr\u00eat\u00e9 fin d\u00e9l\u00e9gation CD3*: arrete_fin_delegation_cd3[text]\n- *mission_1_conseiller_de_paris*: mission_1_conseiller_de_paris[text]\n- *arrete_mission_cp1*: arrete_mission_cp1[text]\n- *mission_2_conseiller_de_paris*: mission_2_conseiller_de_paris[text]\n- *arrete_mission_cp2*: arrete_mission_cp2[text]\n- *fonction_au_conseil_general*: fonction_au_conseil_general[text]\n- *Arrondissement (fonction)*: arrondissement_fonction[text]\n- *Arrondissement (arr\u00eat\u00e9 pour fonction)*: arrondissement_arrete_pour_fonction[text]\n- *Arrondissement (d\u00e9mission)*: arrondissement_demission[text]\n- *n\u00e9(e) le*: ne_e_le[date]\n- *ville de naissance*: ville_de_naissance[text]\n- *Arrondt D\u00e9partement ou Pays de naissance*: arrondt_departement_ou_pays[text]\n- *profession*: profession[text]\n- *avant_1977_au_conseil_de_paris*: avant_1977_au_conseil_de_paris[text]\n- *liste*: liste[text]\n- *conduite_par*: conduite_par[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "75ab0520-34d9-47e1-9f10-c6917dd49a3d",
+      "last_modified": "2015-02-10T10:00:41",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/75ab0520-34d9-47e1-9f10-c6917dd49a3d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:09:49.748000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.paris.fr/explore/dataset/les-conseillers-de-paris-de-1977-a-2014/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "les-conseillers-de-paris-de-1977-a-2014",
+  "spatial": null,
+  "tags": [
+    "citoyennete",
+    "conseil",
+    "conseil-de-paris",
+    "conseillers",
+    "elu",
+    "mandature"
+  ],
+  "temporal_coverage": null,
+  "title": "Les Conseillers de Paris de 1977 \u00e0 2014",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/les-conseillers-de-paris-de-1977-a-2014/"
+}

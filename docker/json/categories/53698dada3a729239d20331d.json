@@ -1,0 +1,123 @@
+{
+  "acronym": null,
+  "badges": [
+    {
+      "kind": "public-service"
+    },
+    {
+      "kind": "certified"
+    }
+  ],
+  "created_at": "2014-05-07T03:34:37.086000",
+  "deleted": null,
+  "description": "Les juridictions financi\u00e8res participent \u00e0 la d\u00e9marche fran\u00e7aise de gouvernement ouvert en publiant des donn\u00e9es sur leurs activit\u00e9s et leurs travaux. Cette d\u00e9marche est coh\u00e9rente avec les articles 14 et 15 de la D\u00e9claration des droits de l\u2019homme et du citoyen, qui sont au fondement des missions de la Cour des comptes : dans une d\u00e9mocratie, le citoyen a le droit de constater, par lui-m\u00eame ou par ses repr\u00e9sentants, la n\u00e9cessit\u00e9 de la contribution publique, de la consentir librement, d'en suivre l'emploi, et d'en d\u00e9terminer la quotit\u00e9, l'assiette, le recouvrement et la dur\u00e9e. Il a le droit de demander compte \u00e0 tout agent public de son administration.\r\n\r\nLes juridictions financi\u00e8res ont pris l\u2019initiative, d\u00e8s 2014, d\u2019ouvrir des premiers jeux de donn\u00e9es publiques et vont approfondir cette d\u00e9marche. Elles veilleront, \u00e0 l\u2019avenir, \u00e0 int\u00e9resser davantage le citoyen \u00e0 leurs travaux, sous r\u00e9serve des pr\u00e9cautions inh\u00e9rentes au fonctionnement d\u2019une juridiction ind\u00e9pendante, notamment le respect des secrets prot\u00e9g\u00e9s par la loi.\r\n\r\nLa Cour des comptes s\u2019engage ainsi \u00e0 mettre \u00e0 disposition r\u00e9guli\u00e8rement les jeux de donn\u00e9es suivants :\r\n\r\n- les donn\u00e9es budg\u00e9taires fondant l\u2019analyse de l\u2019ex\u00e9cution du budget de l\u2019\u00c9tat ;\r\n\r\n- des donn\u00e9es sur la comptabilit\u00e9 g\u00e9n\u00e9rale de l\u2019\u00c9tat ;\r\n\r\n- \u00e0 chaque fois que cela sera possible, les donn\u00e9es fondant les enqu\u00eates th\u00e9matiques de la Cour ;\r\n\r\n- les donn\u00e9es fondant les travaux concernant les finances locales ;\r\n\r\n- certaines donn\u00e9es d\u2019activit\u00e9 des juridictions financi\u00e8res, notamment la mise \u00e0 jour de la liste des publications de la Cour et des moyens des juridictions financi\u00e8res.\r\n\r\nLa Cour des comptes travaille \u00e9galement, en lien avec les services du Premier ministre, \u00e0 la mise en place d\u2019un portail de donn\u00e9es \u00ab data.ccomptes.fr \u00bb, r\u00e9pertori\u00e9 sur le portail du Gouvernement (data.gouv.fr), afin de syst\u00e9matiser une strat\u00e9gie de gestion des donn\u00e9es et la d\u00e9marche d\u2019ouverture des informations publiques.\r\n\r\nLes donn\u00e9es publiques pr\u00e9sentes sur cet espace sont celles des juridictions financi\u00e8res et organismes associ\u00e9s, c'est-\u00e0-dire :\r\n\r\n- la Cour des comptes ;\r\n\r\n- les chambres r\u00e9gionales et territoriales des comptes ;\r\n\r\n- la Cour de discipline budg\u00e9taire et financi\u00e8re ;\r\n\r\n- le Conseil des pr\u00e9l\u00e8vements obligatoires ;\r\n\r\n- le Haut Conseil pour les finances publiques.\r\n\r\nPour une information \u00e0 jour sur la d\u00e9marche des juridictions financi\u00e8res, veuillez consulter le [site des juridictions financi\u00e8res](https://www.ccomptes.fr/Nos-activites/Donnees-publiques).",
+  "id": "53698dada3a729239d20331d",
+  "last_modified": "2017-11-27T10:25:35.754000",
+  "logo": "https://www.data.gouv.fr/s/avatars/ac/83f761a23f4263be8b3401b01625e8-original.png",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/ac/83f761a23f4263be8b3401b01625e8-100.png",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "J\u00e9r\u00e9mie ",
+        "id": "55151014c751df03bb24cdf6",
+        "last_name": "BALLET-BAZ",
+        "page": "https://www.data.gouv.fr/fr/users/jeremie-ballet-baz/",
+        "slug": "jeremie-ballet-baz",
+        "uri": "https://www.data.gouv.fr/api/1/users/jeremie-ballet-baz/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/4c/41e18841cf4c30bec433fd7b180983-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/4c/41e18841cf4c30bec433fd7b180983-100.jpg",
+        "class": "User",
+        "first_name": "St\u00e9phane",
+        "id": "5515694dc751df15b1b33e55",
+        "last_name": "CLAIR",
+        "page": "https://www.data.gouv.fr/fr/users/stephane-clair/",
+        "slug": "stephane-clair",
+        "uri": "https://www.data.gouv.fr/api/1/users/stephane-clair/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Marie-Christine",
+        "id": "553f8b08c751df74c7e96a3c",
+        "last_name": "Harmand",
+        "page": "https://www.data.gouv.fr/fr/users/marie-christine-harmand/",
+        "slug": "marie-christine-harmand",
+        "uri": "https://www.data.gouv.fr/api/1/users/marie-christine-harmand/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "R\u00e9my",
+        "id": "584030bdc751df2f04c0bb7e",
+        "last_name": "Prom",
+        "page": "https://www.data.gouv.fr/fr/users/remy-prom/",
+        "slug": "remy-prom",
+        "uri": "https://www.data.gouv.fr/api/1/users/remy-prom/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Claire",
+        "id": "58403b1188ee382473c65bb3",
+        "last_name": "Casubolo",
+        "page": "https://www.data.gouv.fr/fr/users/claire-casubolo/",
+        "slug": "claire-casubolo",
+        "uri": "https://www.data.gouv.fr/api/1/users/claire-casubolo/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/1d/bc5d6e630846cea4414b7ba785e232-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/1d/bc5d6e630846cea4414b7ba785e232-100.jpg",
+        "class": "User",
+        "first_name": "Fr\u00e9d\u00e9ric",
+        "id": "583b5c38c751df3feac0bb7e",
+        "last_name": "Bardolle",
+        "page": "https://www.data.gouv.fr/fr/users/frederic-bardolle/",
+        "slug": "frederic-bardolle",
+        "uri": "https://www.data.gouv.fr/api/1/users/frederic-bardolle/"
+      }
+    }
+  ],
+  "metrics": {
+    "dataset_views": 5864,
+    "datasets": 83,
+    "followers": 55,
+    "members": 6,
+    "nb_hits": 3,
+    "nb_uniq_visitors": 2,
+    "nb_visits": 2,
+    "permitted_reuses": 1,
+    "resource_downloads": 3241,
+    "reuse_views": 3,
+    "reuses": 0,
+    "views": 4333
+  },
+  "name": "Cour des comptes",
+  "page": "https://www.data.gouv.fr/fr/organizations/cour-des-comptes/",
+  "slug": "cour-des-comptes",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/cour-des-comptes/",
+  "url": "http://www.ccomptes.fr"
+}

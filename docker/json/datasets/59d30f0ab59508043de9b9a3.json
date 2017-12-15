@@ -1,0 +1,121 @@
+{
+  "badges": [],
+  "created_at": "2017-10-02T00:00:00",
+  "deleted": null,
+  "description": "Taux des donateurs imposables d\u00e9clarant un don aux associations.",
+  "extras": {
+    "ckan:name": "taux-des-donateurs-imposables-declarant-un-don-aux-associations",
+    "contact_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "contact_name": "Mission Agenda 21",
+    "contact_uri": "https://datacat.datalocale.fr/414579",
+    "guid": "https://datacat.datalocale.fr/414674",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-10-03T06:16:10.746487",
+    "harvest:remote_id": "801cb726-99f0-4742-8bac-0571fd5693ac",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "0f864e39-125f-4c9a-a50a-8e3bbe7c8c33",
+    "issued": "2013-08-27T09:44:34+00:00",
+    "modified": "2016-07-18T09:21:05.037399+00:00",
+    "publisher_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "publisher_name": "dgsd-a21",
+    "publisher_uri": "https://datacat.datalocale.fr/414578",
+    "theme": "[\"vie associative\"]",
+    "uri": "https://datacat.datalocale.fr/414674"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59d30f0ab59508043de9b9a3",
+  "last_modified": "2017-10-03T06:16:10.748000",
+  "last_update": "2017-10-03T06:16:10.745000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/taux-des-donateurs-imposables-declarant-un-don-aux-associations-2/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-10-03T06:16:10.745000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T18:21:19.218000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "6519d294-299e-42ba-883b-fa0ff30b407d",
+      "last_modified": "2017-10-03T06:16:10.745000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6519d294-299e-42ba-883b-fa0ff30b407d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-03T06:16:10.745000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-03T06:16:10.745000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T03:31:54.735000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "75973d7b-021a-4f33-9628-c8fb9d1c7812",
+      "last_modified": "2017-10-03T06:16:10.745000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/75973d7b-021a-4f33-9628-c8fb9d1c7812",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-10-03T06:16:10.745000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+    }
+  ],
+  "slug": "taux-des-donateurs-imposables-declarant-un-don-aux-associations-2",
+  "spatial": null,
+  "tags": [
+    "associations",
+    "don",
+    "mecenat"
+  ],
+  "temporal_coverage": null,
+  "title": "Taux des donateurs imposables d\u00e9clarant un don aux associations",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/taux-des-donateurs-imposables-declarant-un-don-aux-associations-2/"
+}

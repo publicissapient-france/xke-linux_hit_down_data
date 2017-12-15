@@ -1,0 +1,108 @@
+{
+  "badges": [],
+  "created_at": "2016-05-26T11:43:04.230000",
+  "deleted": null,
+  "description": "\u00c0 l'occasion de sa #DataSession, la Cour des comptes a d\u00e9cid\u00e9 de mettre \u00e0 disposition la liste des organismes soumis obligatoirement \u00e0 son contr\u00f4le.\n\nCette liste, \u00e0 date de mai 2016, pr\u00e9cise, le cas \u00e9ch\u00e9ant, la nature juridique de l'organisme contr\u00f4l\u00e9 et la chambre de la Cour comp\u00e9tente pour un \u00e9ventuel contr\u00f4le. Elle est susceptible d'\u00e9voluer et de conna\u00eetre des modifications ou corrections.\n\nElle ne signifie pas que tous ces organismes ont \u00e9t\u00e9 ou vont \u00eatre contr\u00f4l\u00e9s. Elle signifie qu'ils sont tous susceptibles d'\u00eatre contr\u00f4l\u00e9s. La Cour des comptes d\u00e9termine chaque ann\u00e9e en toute ind\u00e9pendance, son programme de travail, qui est arr\u00eat\u00e9 par le Premier pr\u00e9sident.\n\nLa Cour veillera \u00e0 garder cette liste aussi \u00e0 jour que possible.",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": "2017-05-26T11:40:49",
+  "id": "5746c52888ee38454dd1b934",
+  "last_modified": "2016-05-26T11:44:32.653000",
+  "last_update": "2016-05-26T11:44:29.949000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 1,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 42
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "53698dada3a729239d20331d",
+    "logo": "https://www.data.gouv.fr/s/avatars/ac/83f761a23f4263be8b3401b01625e8-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/ac/83f761a23f4263be8b3401b01625e8-100.png",
+    "name": "Cour des comptes",
+    "page": "https://www.data.gouv.fr/fr/organizations/cour-des-comptes/",
+    "slug": "cour-des-comptes",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/cour-des-comptes/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-organismes-soumis-au-controle-obligatoire-de-la-cour-des-comptes/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "0e5b7c04fd0051166ea8e74a8f2c62eed17886d3"
+      },
+      "created_at": "2016-05-26T11:44:29.949000",
+      "description": "",
+      "extras": {},
+      "filesize": 155713,
+      "filetype": "file",
+      "format": "csv",
+      "id": "3a634e45-4a51-4670-b60b-e19e734106ec",
+      "last_modified": "2016-05-26T11:44:32.653000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3a634e45-4a51-4670-b60b-e19e734106ec",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 22
+      },
+      "mime": "text/csv",
+      "published": "2016-05-26T11:44:29.949000",
+      "title": "Liste des organismes soumis au contr\u00f4le obligatoire de la Cour des comptes",
+      "url": "https://www.data.gouv.fr/s/resources/liste-des-organismes-soumis-au-controle-obligatoire-de-la-cour-des-comptes/20160526-114429/2016_05_27-28_-_Liste_des_organismes.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "5fbb733cc42de95121ef147c8da729cb62846a8f"
+      },
+      "created_at": "2016-05-26T11:43:29.269000",
+      "description": "",
+      "extras": {},
+      "filesize": 395776,
+      "filetype": "file",
+      "format": "xls",
+      "id": "bfc223c3-9599-4489-9764-e85ab707c749",
+      "last_modified": "2016-05-26T11:43:36.257000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/bfc223c3-9599-4489-9764-e85ab707c749",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 28
+      },
+      "mime": "application/vnd.ms-excel",
+      "published": "2016-05-26T11:43:29.269000",
+      "title": "Liste des organismes soumis au contr\u00f4le obligatoire de la Cour des comptes",
+      "url": "https://www.data.gouv.fr/s/resources/liste-des-organismes-soumis-au-controle-obligatoire-de-la-cour-des-comptes/20160526-114329/2016_05_27-28_-_Liste_des_organismes.xls"
+    }
+  ],
+  "slug": "liste-des-organismes-soumis-au-controle-obligatoire-de-la-cour-des-comptes",
+  "spatial": {
+    "geom": null,
+    "granularity": "country",
+    "zones": [
+      "country:fr"
+    ]
+  },
+  "tags": [
+    "administration",
+    "controle",
+    "cour-des-comptes",
+    "gestion-publique",
+    "juridictions-financieres"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des organismes soumis au contr\u00f4le obligatoire de la Cour des comptes",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-organismes-soumis-au-controle-obligatoire-de-la-cour-des-comptes/"
+}

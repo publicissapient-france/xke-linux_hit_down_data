@@ -1,0 +1,100 @@
+{
+  "badges": [],
+  "created_at": "2016-06-23T00:40:41.161000",
+  "deleted": null,
+  "description": "",
+  "extras": {
+    "harvest:domain": "navitia.opendatasoft.com",
+    "harvest:last_update": "2017-11-27T05:00:52.613616",
+    "harvest:remote_id": "be",
+    "harvest:source_id": "576b13d988ee386d03ab6513",
+    "ods:has_records": true,
+    "ods:url": "https://navitia.opendatasoft.com//explore/dataset/be/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "576b13e9a3a72927ec4f856e",
+  "last_modified": "2017-11-27T05:00:52.615000",
+  "last_update": "2017-11-27T05:00:52.613000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "576af9f088ee382315ab6512",
+    "logo": "https://www.data.gouv.fr/s/avatars/76/51e50e49924344876db939b11ff701-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/76/51e50e49924344876db939b11ff701-100.png",
+    "name": "Navitia",
+    "page": "https://www.data.gouv.fr/fr/organizations/navitia/",
+    "slug": "navitia",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/navitia/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/belgium/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:00:52.612000",
+      "description": "- *Update date*: update_date[text]\n- *ID*: id[text]\n- *Description*: description[text]\n- *Format*: format[text]\n- *Type file*: type_file[text]\n- *Download*: download[file]\n- *Licence*: licence[text]\n- *Source link*: source_link[text]\n- *Size*: size[int]\n- *Validity start date*: validity_start_date[text]\n- *Validity end date*: validity_end_date[text]\n- *Script of Transformation*: script_of_transformation[text]\n- *Publication update date*: publication_update_date[date]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "5e1b0b1c-ae1c-4129-b449-625e29b506af",
+      "last_modified": "2015-09-16T08:43:27",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5e1b0b1c-ae1c-4129-b449-625e29b506af",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:00:52.612000",
+      "title": "Export au format CSV",
+      "url": "https://navitia.opendatasoft.com//explore/dataset/be/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:00:52.613000",
+      "description": "- *Update date*: update_date[text]\n- *ID*: id[text]\n- *Description*: description[text]\n- *Format*: format[text]\n- *Type file*: type_file[text]\n- *Download*: download[file]\n- *Licence*: licence[text]\n- *Source link*: source_link[text]\n- *Size*: size[int]\n- *Validity start date*: validity_start_date[text]\n- *Validity end date*: validity_end_date[text]\n- *Script of Transformation*: script_of_transformation[text]\n- *Publication update date*: publication_update_date[date]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "7f850010-c2db-4d81-a6fc-e52ed6ad2484",
+      "last_modified": "2015-09-16T08:43:27",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7f850010-c2db-4d81-a6fc-e52ed6ad2484",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:00:52.613000",
+      "title": "Export au format JSON",
+      "url": "https://navitia.opendatasoft.com//explore/dataset/be/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "belgium",
+  "spatial": null,
+  "tags": [
+    "deplacements",
+    "transports"
+  ],
+  "temporal_coverage": null,
+  "title": "BELGIUM",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/belgium/"
+}

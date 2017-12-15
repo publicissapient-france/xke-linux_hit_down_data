@@ -1,0 +1,146 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T18:16:15.829000",
+  "deleted": null,
+  "description": "Le RIF - R\u00e9seaux en \u00cele-de-France - r\u00e9unit 8 r\u00e9seaux d'acteurs repr\u00e9sentant des lieux ou associations de musiques actuelles amplifi\u00e9es en \u00cele-de-France. \n\nLe jeu de donn\u00e9es recense les lieux de diffusion occasionnelle ou r\u00e9guli\u00e8re adh\u00e9rents \u00e0 l'un de ces huit r\u00e9seaux : nom de la structure ; r\u00e9seau ; adresse ; contact ; esth\u00e9tique dominante ; capacit\u00e9 de la salle, nombre de dates / an ; sc\u00e8ne amateurs semi-professionnels ou professionnels ; Festivals organis\u00e9s, date et style ; location ou mise \u00e0 disposition de la sc\u00e8ne ; programmation...",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T05:35:46.193047",
+    "harvest:remote_id": "les_lieux_de_diffusion_des_pratiques_musicales_actuelles_amplifiees",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:references": "http://www.lerif.org/",
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/les_lieux_de_diffusion_des_pratiques_musicales_actuelles_amplifiees/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59591c4fa3a7291dcf9c814a",
+  "last_modified": "2017-11-27T05:35:46.194000",
+  "last_update": "2017-11-27T05:35:46.191000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/les-lieux-de-diffusion-des-pratiques-musicales-actuelles-amplifiees/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:35:46.190000",
+      "description": "- *Structure*: structure[text]\n- *Dept*: dept[int]\n- *R\u00e9seau*: reseau[text]\n- *Adresses*: adresses[text]\n- *Code Postal*: code_postal[int]\n- *Ville*: ville[text]\n- *Tel*: tel[text]\n- *Mail*: mail[text]\n- *Contact / Programmation*: contact_programmation[text]\n- *Esth\u00e9tiques dominantes*: esthetiques_dominantes[text]\n- *Jauge max. debout*: jauge_max_debout[text]\n- *Nbre de dates /an*: nbre_de_dates_an[text]\n- *Sc\u00e8ne majoritairement Amateurs*: scene_majoritairement_amateurs[text]\n- *Sc\u00e8ne majoritairement Semi-pro*: scene_majoritairement_semi_pro[text]\n- *Sc\u00e8ne majoritairement Professionnels*: scene_majoritairement_profession[text]\n- *Festivals organis\u00e9s*: festivals_organises[text]\n- *Date*: date[text]\n- *Style*: style[text]\n- *Accueil groupes r\u00e9sidences, filages, r\u00e9p\u00e9titions sur sc\u00e8ne ?*: accueil_groupes_residences_filag[text]\n- *Location de la salle possible*: location_de_la_salle_possible[text]\n- *Mise \u00e0 dispo-partenariat asso locales seulement*: mise_a_dispo_partenariat_asso_lo[text]\n- *Programmation en semaine:du dimanche au jeudi (oui) *: programmation_en_semaine_du_dima[text]\n- *Programmation pendant les vacances scolaires*: programmation_pendant_les_vacanc[text]\n- *Studios de r\u00e9p\u00e9titions*: studios_de_repetitions[text]\n- *Remarques, divers*: remarques_divers[text]\n- *LAT*: lat[double]\n- *LNG*: lng[double]\n- *WGS84*: wgs84[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "06b27500-625e-4094-84ae-1637a12c6751",
+      "last_modified": "2013-09-18T09:10:58",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/06b27500-625e-4094-84ae-1637a12c6751",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:35:46.190000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/les_lieux_de_diffusion_des_pratiques_musicales_actuelles_amplifiees/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:35:46.190000",
+      "description": "- *Structure*: structure[text]\n- *Dept*: dept[int]\n- *R\u00e9seau*: reseau[text]\n- *Adresses*: adresses[text]\n- *Code Postal*: code_postal[int]\n- *Ville*: ville[text]\n- *Tel*: tel[text]\n- *Mail*: mail[text]\n- *Contact / Programmation*: contact_programmation[text]\n- *Esth\u00e9tiques dominantes*: esthetiques_dominantes[text]\n- *Jauge max. debout*: jauge_max_debout[text]\n- *Nbre de dates /an*: nbre_de_dates_an[text]\n- *Sc\u00e8ne majoritairement Amateurs*: scene_majoritairement_amateurs[text]\n- *Sc\u00e8ne majoritairement Semi-pro*: scene_majoritairement_semi_pro[text]\n- *Sc\u00e8ne majoritairement Professionnels*: scene_majoritairement_profession[text]\n- *Festivals organis\u00e9s*: festivals_organises[text]\n- *Date*: date[text]\n- *Style*: style[text]\n- *Accueil groupes r\u00e9sidences, filages, r\u00e9p\u00e9titions sur sc\u00e8ne ?*: accueil_groupes_residences_filag[text]\n- *Location de la salle possible*: location_de_la_salle_possible[text]\n- *Mise \u00e0 dispo-partenariat asso locales seulement*: mise_a_dispo_partenariat_asso_lo[text]\n- *Programmation en semaine:du dimanche au jeudi (oui) *: programmation_en_semaine_du_dima[text]\n- *Programmation pendant les vacances scolaires*: programmation_pendant_les_vacanc[text]\n- *Studios de r\u00e9p\u00e9titions*: studios_de_repetitions[text]\n- *Remarques, divers*: remarques_divers[text]\n- *LAT*: lat[double]\n- *LNG*: lng[double]\n- *WGS84*: wgs84[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "8d1c3140-3711-4280-9059-46db6f4493b3",
+      "last_modified": "2013-09-18T09:10:58",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8d1c3140-3711-4280-9059-46db6f4493b3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:35:46.190000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/les_lieux_de_diffusion_des_pratiques_musicales_actuelles_amplifiees/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:35:46.191000",
+      "description": "- *Structure*: structure[text]\n- *Dept*: dept[int]\n- *R\u00e9seau*: reseau[text]\n- *Adresses*: adresses[text]\n- *Code Postal*: code_postal[int]\n- *Ville*: ville[text]\n- *Tel*: tel[text]\n- *Mail*: mail[text]\n- *Contact / Programmation*: contact_programmation[text]\n- *Esth\u00e9tiques dominantes*: esthetiques_dominantes[text]\n- *Jauge max. debout*: jauge_max_debout[text]\n- *Nbre de dates /an*: nbre_de_dates_an[text]\n- *Sc\u00e8ne majoritairement Amateurs*: scene_majoritairement_amateurs[text]\n- *Sc\u00e8ne majoritairement Semi-pro*: scene_majoritairement_semi_pro[text]\n- *Sc\u00e8ne majoritairement Professionnels*: scene_majoritairement_profession[text]\n- *Festivals organis\u00e9s*: festivals_organises[text]\n- *Date*: date[text]\n- *Style*: style[text]\n- *Accueil groupes r\u00e9sidences, filages, r\u00e9p\u00e9titions sur sc\u00e8ne ?*: accueil_groupes_residences_filag[text]\n- *Location de la salle possible*: location_de_la_salle_possible[text]\n- *Mise \u00e0 dispo-partenariat asso locales seulement*: mise_a_dispo_partenariat_asso_lo[text]\n- *Programmation en semaine:du dimanche au jeudi (oui) *: programmation_en_semaine_du_dima[text]\n- *Programmation pendant les vacances scolaires*: programmation_pendant_les_vacanc[text]\n- *Studios de r\u00e9p\u00e9titions*: studios_de_repetitions[text]\n- *Remarques, divers*: remarques_divers[text]\n- *LAT*: lat[double]\n- *LNG*: lng[double]\n- *WGS84*: wgs84[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "809dda31-57d1-47bb-a2c8-264893315d08",
+      "last_modified": "2013-09-18T09:10:58",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/809dda31-57d1-47bb-a2c8-264893315d08",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:35:46.191000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/les_lieux_de_diffusion_des_pratiques_musicales_actuelles_amplifiees/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:35:46.191000",
+      "description": "- *Structure*: structure[text]\n- *Dept*: dept[int]\n- *R\u00e9seau*: reseau[text]\n- *Adresses*: adresses[text]\n- *Code Postal*: code_postal[int]\n- *Ville*: ville[text]\n- *Tel*: tel[text]\n- *Mail*: mail[text]\n- *Contact / Programmation*: contact_programmation[text]\n- *Esth\u00e9tiques dominantes*: esthetiques_dominantes[text]\n- *Jauge max. debout*: jauge_max_debout[text]\n- *Nbre de dates /an*: nbre_de_dates_an[text]\n- *Sc\u00e8ne majoritairement Amateurs*: scene_majoritairement_amateurs[text]\n- *Sc\u00e8ne majoritairement Semi-pro*: scene_majoritairement_semi_pro[text]\n- *Sc\u00e8ne majoritairement Professionnels*: scene_majoritairement_profession[text]\n- *Festivals organis\u00e9s*: festivals_organises[text]\n- *Date*: date[text]\n- *Style*: style[text]\n- *Accueil groupes r\u00e9sidences, filages, r\u00e9p\u00e9titions sur sc\u00e8ne ?*: accueil_groupes_residences_filag[text]\n- *Location de la salle possible*: location_de_la_salle_possible[text]\n- *Mise \u00e0 dispo-partenariat asso locales seulement*: mise_a_dispo_partenariat_asso_lo[text]\n- *Programmation en semaine:du dimanche au jeudi (oui) *: programmation_en_semaine_du_dima[text]\n- *Programmation pendant les vacances scolaires*: programmation_pendant_les_vacanc[text]\n- *Studios de r\u00e9p\u00e9titions*: studios_de_repetitions[text]\n- *Remarques, divers*: remarques_divers[text]\n- *LAT*: lat[double]\n- *LNG*: lng[double]\n- *WGS84*: wgs84[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "47a52094-f53e-43ef-9c45-204c573d9186",
+      "last_modified": "2013-09-18T09:10:58",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/47a52094-f53e-43ef-9c45-204c573d9186",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:35:46.191000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.iledefrance.fr//explore/dataset/les_lieux_de_diffusion_des_pratiques_musicales_actuelles_amplifiees/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "les-lieux-de-diffusion-des-pratiques-musicales-actuelles-amplifiees",
+  "spatial": null,
+  "tags": [
+    "arts",
+    "geolocalisation",
+    "musique",
+    "vie-culturelle"
+  ],
+  "temporal_coverage": null,
+  "title": "Les lieux de diffusion des pratiques musicales actuelles amplifi\u00e9es",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/les-lieux-de-diffusion-des-pratiques-musicales-actuelles-amplifiees/"
+}

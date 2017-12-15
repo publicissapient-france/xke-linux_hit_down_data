@@ -1,0 +1,171 @@
+{
+  "badges": [],
+  "created_at": "2016-02-02T15:53:25.192000",
+  "deleted": null,
+  "description": "Donn\u00e9es du recensement de la population 2011 \u00e0 l'\u00e9chelle des grands quartiers sur le th\u00e8me Logement",
+  "extras": {
+    "harvest:domain": "data.toulouse-metropole.fr",
+    "harvest:last_update": "2017-11-27T05:15:53.209665",
+    "harvest:remote_id": "toulouse_gq_logement_rp2011",
+    "harvest:source_id": "564c3680c751df607daad370",
+    "ods:has_records": true,
+    "ods:references": "http://www.insee.fr/fr/regions/midi-pyrenees/default.asp",
+    "ods:url": "https://data.toulouse-metropole.fr//explore/dataset/toulouse_gq_logement_rp2011/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "56b0c2e5a3a7294d39b88a77",
+  "last_modified": "2017-11-27T05:15:53.212000",
+  "last_update": "2017-11-27T05:15:53.207000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb3a3a7292c64a78129",
+    "logo": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-100.jpg",
+    "name": "Toulouse m\u00e9trople",
+    "page": "https://www.data.gouv.fr/fr/organizations/toulouse-metrople/",
+    "slug": "toulouse-metrople",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/toulouse-metrople/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/recensement-population-2011-grands-quartiers-logement/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:15:53.204000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *GRD_QUART*: grd_quart[text]\n- *LIBELLE DU GRAND QUARTIER*: libelle_du_grand_quartier[text]\n- *Code_insee*: code_insee[text]\n- *LIBCOM*: libcom[text]\n- *REG*: reg[text]\n- *DEP*: dep[text]\n- *UU2010*: uu2010[text]\n- *Nombre de logements*: p11_log[double]\n- *P11_RP*: p11_rp[double]\n- *P11_RSECOCC*: p11_rsecocc[double]\n- *P11_LOGVAC*: p11_logvac[double]\n- *P11_MAISON*: p11_maison[double]\n- *P11_APPART*: p11_appart[double]\n- *P11_RP_1P*: p11_rp_1p[double]\n- *P11_RP_2P*: p11_rp_2p[double]\n- *P11_RP_3P*: p11_rp_3p[double]\n- *P11_RP_4P*: p11_rp_4p[double]\n- *P11_RP_5PP*: p11_rp_5pp[double]\n- *P11_NBPI_RP*: p11_nbpi_rp[double]\n- *P11_RPMAISON*: p11_rpmaison[double]\n- *P11_NBPI_RPMAISON*: p11_nbpi_rpmaison[double]\n- *P11_RPAPPART*: p11_rpappart[double]\n- *P11_NBPI_RPAPPART*: p11_nbpi_rpappart[double]\n- *P11_RP_M40M2*: p11_rp_m40m2[double]\n- *P11_RP_4099M2*: p11_rp_4099m2[double]\n- *P11_RP_100M2P*: p11_rp_100m2p[double]\n- *P11_RP_ACHTT_*: p11_rp_achtt[double]\n- *P11_RP_ACHT1_*: p11_rp_acht1[double]\n- *P11_RP_ACHT2_*: p11_rp_acht2[double]\n- *P11_RP_ACHT3_*: p11_rp_acht3[double]\n- *P11_RPMAISON_ACHTT*: p11_rpmaison_achtt[double]\n- *P11_RPMAISON_ACHT1_*: p11_rpmaison_acht1[double]\n- *P11_RPMAISON_ACHT2_*: p11_rpmaison_acht2[double]\n- *P11_RPMAISON_ACHT3_*: p11_rpmaison_acht3[double]\n- *P11_RPAPPART_ACHTT_*: p11_rpappart_achtt[double]\n- *P11_RPAPPART_ACHT1_*: p11_rpappart_acht1[double]\n- *P11_RPAPPART_ACHT2_*: p11_rpappart_acht2[double]\n- *P11_RPAPPART_ACHT3_*: p11_rpappart_acht3[double]\n- *P11_MEN*: p11_men[double]\n- *P11_MEN_ANEM0002*: p11_men_anem0002[double]\n- *P11_MEN_ANEM0204*: p11_men_anem0204[double]\n- *P11_MEN_ANEM0509*: p11_men_anem0509[double]\n- *P11_MEN_ANEM10P*: p11_men_anem10p[double]\n- *P11_PMEN*: p11_pmen[double]\n- *P11_PMEN_ANEM0002*: p11_pmen_anem0002[double]\n- *P11_PMEN_ANEM0204*: p11_pmen_anem0204[double]\n- *P11_PMEN_ANEM0509*: p11_pmen_anem0509[double]\n- *P11_PMEN_ANEM10P*: p11_pmen_anem10p[double]\n- *P11_NBPI_RP_ANEM0002*: p11_nbpi_rp_anem0002[double]\n- *P11_NBPI_RP_ANEM0204*: p11_nbpi_rp_anem0204[double]\n- *P11_NBPI_RP_ANEM0509*: p11_nbpi_rp_anem0509[double]\n- *P11_NBPI_RP_ANEM10P*: p11_nbpi_rp_anem10p[double]\n- *P11_RP_PROP*: p11_rp_prop[double]\n- *P11_RP_LOC*: p11_rp_loc[double]\n- *P11_RP_LOCHLMV*: p11_rp_lochlmv[double]\n- *P11_RP_GRAT*: p11_rp_grat[double]\n- *P11_NPER_RP*: p11_nper_rp[double]\n- *P11_NPER_RP_PROP*: p11_nper_rp_prop[double]\n- *P11_NPER_RP_LOC*: p11_nper_rp_loc[double]\n- *P11_NPER_RP_LOCHLMV*: p11_nper_rp_lochlmv[double]\n- *P11_NPER_RP_GRAT*: p11_nper_rp_grat[double]\n- *P11_ANEM_RP*: p11_anem_rp[double]\n- *P11_ANEM_RP_PROP*: p11_anem_rp_prop[double]\n- *P11_ANEM_RP_LOC*: p11_anem_rp_loc[double]\n- *P11_ANEM_RP_LOCHLMV*: p11_anem_rp_lochlmv[double]\n- *P11_ANEM_RP_GRAT*: p11_anem_rp_grat[double]\n- *P11_RP_SDB*: p11_rp_sdb[double]\n- *P11_RP_CCCOLL*: p11_rp_cccoll[double]\n- *P11_RP_CCIND*: p11_rp_ccind[double]\n- *P11_RP_CINDELEC*: p11_rp_cindelec[double]\n- *P11_RP_GARL*: p11_rp_garl[double]\n- *P11_RP_VOIT1P*: p11_rp_voit1p[double]\n- *P11_RP_VOIT1*: p11_rp_voit1[double]\n- *P11_RP_VOIT2P*: p11_rp_voit2p[double]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T19:03:43.872000",
+        "check:status": 200,
+        "check:url": "https://data.toulouse-metropole.fr//explore/dataset/toulouse_gq_logement_rp2011/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "fd4de5d0-367e-452a-83f9-605c016722b9",
+      "last_modified": "2015-03-25T09:21:13",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fd4de5d0-367e-452a-83f9-605c016722b9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:15:53.204000",
+      "title": "Export au format CSV",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/toulouse_gq_logement_rp2011/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:15:53.205000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *GRD_QUART*: grd_quart[text]\n- *LIBELLE DU GRAND QUARTIER*: libelle_du_grand_quartier[text]\n- *Code_insee*: code_insee[text]\n- *LIBCOM*: libcom[text]\n- *REG*: reg[text]\n- *DEP*: dep[text]\n- *UU2010*: uu2010[text]\n- *Nombre de logements*: p11_log[double]\n- *P11_RP*: p11_rp[double]\n- *P11_RSECOCC*: p11_rsecocc[double]\n- *P11_LOGVAC*: p11_logvac[double]\n- *P11_MAISON*: p11_maison[double]\n- *P11_APPART*: p11_appart[double]\n- *P11_RP_1P*: p11_rp_1p[double]\n- *P11_RP_2P*: p11_rp_2p[double]\n- *P11_RP_3P*: p11_rp_3p[double]\n- *P11_RP_4P*: p11_rp_4p[double]\n- *P11_RP_5PP*: p11_rp_5pp[double]\n- *P11_NBPI_RP*: p11_nbpi_rp[double]\n- *P11_RPMAISON*: p11_rpmaison[double]\n- *P11_NBPI_RPMAISON*: p11_nbpi_rpmaison[double]\n- *P11_RPAPPART*: p11_rpappart[double]\n- *P11_NBPI_RPAPPART*: p11_nbpi_rpappart[double]\n- *P11_RP_M40M2*: p11_rp_m40m2[double]\n- *P11_RP_4099M2*: p11_rp_4099m2[double]\n- *P11_RP_100M2P*: p11_rp_100m2p[double]\n- *P11_RP_ACHTT_*: p11_rp_achtt[double]\n- *P11_RP_ACHT1_*: p11_rp_acht1[double]\n- *P11_RP_ACHT2_*: p11_rp_acht2[double]\n- *P11_RP_ACHT3_*: p11_rp_acht3[double]\n- *P11_RPMAISON_ACHTT*: p11_rpmaison_achtt[double]\n- *P11_RPMAISON_ACHT1_*: p11_rpmaison_acht1[double]\n- *P11_RPMAISON_ACHT2_*: p11_rpmaison_acht2[double]\n- *P11_RPMAISON_ACHT3_*: p11_rpmaison_acht3[double]\n- *P11_RPAPPART_ACHTT_*: p11_rpappart_achtt[double]\n- *P11_RPAPPART_ACHT1_*: p11_rpappart_acht1[double]\n- *P11_RPAPPART_ACHT2_*: p11_rpappart_acht2[double]\n- *P11_RPAPPART_ACHT3_*: p11_rpappart_acht3[double]\n- *P11_MEN*: p11_men[double]\n- *P11_MEN_ANEM0002*: p11_men_anem0002[double]\n- *P11_MEN_ANEM0204*: p11_men_anem0204[double]\n- *P11_MEN_ANEM0509*: p11_men_anem0509[double]\n- *P11_MEN_ANEM10P*: p11_men_anem10p[double]\n- *P11_PMEN*: p11_pmen[double]\n- *P11_PMEN_ANEM0002*: p11_pmen_anem0002[double]\n- *P11_PMEN_ANEM0204*: p11_pmen_anem0204[double]\n- *P11_PMEN_ANEM0509*: p11_pmen_anem0509[double]\n- *P11_PMEN_ANEM10P*: p11_pmen_anem10p[double]\n- *P11_NBPI_RP_ANEM0002*: p11_nbpi_rp_anem0002[double]\n- *P11_NBPI_RP_ANEM0204*: p11_nbpi_rp_anem0204[double]\n- *P11_NBPI_RP_ANEM0509*: p11_nbpi_rp_anem0509[double]\n- *P11_NBPI_RP_ANEM10P*: p11_nbpi_rp_anem10p[double]\n- *P11_RP_PROP*: p11_rp_prop[double]\n- *P11_RP_LOC*: p11_rp_loc[double]\n- *P11_RP_LOCHLMV*: p11_rp_lochlmv[double]\n- *P11_RP_GRAT*: p11_rp_grat[double]\n- *P11_NPER_RP*: p11_nper_rp[double]\n- *P11_NPER_RP_PROP*: p11_nper_rp_prop[double]\n- *P11_NPER_RP_LOC*: p11_nper_rp_loc[double]\n- *P11_NPER_RP_LOCHLMV*: p11_nper_rp_lochlmv[double]\n- *P11_NPER_RP_GRAT*: p11_nper_rp_grat[double]\n- *P11_ANEM_RP*: p11_anem_rp[double]\n- *P11_ANEM_RP_PROP*: p11_anem_rp_prop[double]\n- *P11_ANEM_RP_LOC*: p11_anem_rp_loc[double]\n- *P11_ANEM_RP_LOCHLMV*: p11_anem_rp_lochlmv[double]\n- *P11_ANEM_RP_GRAT*: p11_anem_rp_grat[double]\n- *P11_RP_SDB*: p11_rp_sdb[double]\n- *P11_RP_CCCOLL*: p11_rp_cccoll[double]\n- *P11_RP_CCIND*: p11_rp_ccind[double]\n- *P11_RP_CINDELEC*: p11_rp_cindelec[double]\n- *P11_RP_GARL*: p11_rp_garl[double]\n- *P11_RP_VOIT1P*: p11_rp_voit1p[double]\n- *P11_RP_VOIT1*: p11_rp_voit1[double]\n- *P11_RP_VOIT2P*: p11_rp_voit2p[double]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T19:03:45.311000",
+        "check:status": 200,
+        "check:url": "https://data.toulouse-metropole.fr//explore/dataset/toulouse_gq_logement_rp2011/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "eefa91a1-fd7c-4840-b15e-dc6ffbfc9009",
+      "last_modified": "2015-03-25T09:21:13",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/eefa91a1-fd7c-4840-b15e-dc6ffbfc9009",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:15:53.205000",
+      "title": "Export au format JSON",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/toulouse_gq_logement_rp2011/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:15:53.206000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *GRD_QUART*: grd_quart[text]\n- *LIBELLE DU GRAND QUARTIER*: libelle_du_grand_quartier[text]\n- *Code_insee*: code_insee[text]\n- *LIBCOM*: libcom[text]\n- *REG*: reg[text]\n- *DEP*: dep[text]\n- *UU2010*: uu2010[text]\n- *Nombre de logements*: p11_log[double]\n- *P11_RP*: p11_rp[double]\n- *P11_RSECOCC*: p11_rsecocc[double]\n- *P11_LOGVAC*: p11_logvac[double]\n- *P11_MAISON*: p11_maison[double]\n- *P11_APPART*: p11_appart[double]\n- *P11_RP_1P*: p11_rp_1p[double]\n- *P11_RP_2P*: p11_rp_2p[double]\n- *P11_RP_3P*: p11_rp_3p[double]\n- *P11_RP_4P*: p11_rp_4p[double]\n- *P11_RP_5PP*: p11_rp_5pp[double]\n- *P11_NBPI_RP*: p11_nbpi_rp[double]\n- *P11_RPMAISON*: p11_rpmaison[double]\n- *P11_NBPI_RPMAISON*: p11_nbpi_rpmaison[double]\n- *P11_RPAPPART*: p11_rpappart[double]\n- *P11_NBPI_RPAPPART*: p11_nbpi_rpappart[double]\n- *P11_RP_M40M2*: p11_rp_m40m2[double]\n- *P11_RP_4099M2*: p11_rp_4099m2[double]\n- *P11_RP_100M2P*: p11_rp_100m2p[double]\n- *P11_RP_ACHTT_*: p11_rp_achtt[double]\n- *P11_RP_ACHT1_*: p11_rp_acht1[double]\n- *P11_RP_ACHT2_*: p11_rp_acht2[double]\n- *P11_RP_ACHT3_*: p11_rp_acht3[double]\n- *P11_RPMAISON_ACHTT*: p11_rpmaison_achtt[double]\n- *P11_RPMAISON_ACHT1_*: p11_rpmaison_acht1[double]\n- *P11_RPMAISON_ACHT2_*: p11_rpmaison_acht2[double]\n- *P11_RPMAISON_ACHT3_*: p11_rpmaison_acht3[double]\n- *P11_RPAPPART_ACHTT_*: p11_rpappart_achtt[double]\n- *P11_RPAPPART_ACHT1_*: p11_rpappart_acht1[double]\n- *P11_RPAPPART_ACHT2_*: p11_rpappart_acht2[double]\n- *P11_RPAPPART_ACHT3_*: p11_rpappart_acht3[double]\n- *P11_MEN*: p11_men[double]\n- *P11_MEN_ANEM0002*: p11_men_anem0002[double]\n- *P11_MEN_ANEM0204*: p11_men_anem0204[double]\n- *P11_MEN_ANEM0509*: p11_men_anem0509[double]\n- *P11_MEN_ANEM10P*: p11_men_anem10p[double]\n- *P11_PMEN*: p11_pmen[double]\n- *P11_PMEN_ANEM0002*: p11_pmen_anem0002[double]\n- *P11_PMEN_ANEM0204*: p11_pmen_anem0204[double]\n- *P11_PMEN_ANEM0509*: p11_pmen_anem0509[double]\n- *P11_PMEN_ANEM10P*: p11_pmen_anem10p[double]\n- *P11_NBPI_RP_ANEM0002*: p11_nbpi_rp_anem0002[double]\n- *P11_NBPI_RP_ANEM0204*: p11_nbpi_rp_anem0204[double]\n- *P11_NBPI_RP_ANEM0509*: p11_nbpi_rp_anem0509[double]\n- *P11_NBPI_RP_ANEM10P*: p11_nbpi_rp_anem10p[double]\n- *P11_RP_PROP*: p11_rp_prop[double]\n- *P11_RP_LOC*: p11_rp_loc[double]\n- *P11_RP_LOCHLMV*: p11_rp_lochlmv[double]\n- *P11_RP_GRAT*: p11_rp_grat[double]\n- *P11_NPER_RP*: p11_nper_rp[double]\n- *P11_NPER_RP_PROP*: p11_nper_rp_prop[double]\n- *P11_NPER_RP_LOC*: p11_nper_rp_loc[double]\n- *P11_NPER_RP_LOCHLMV*: p11_nper_rp_lochlmv[double]\n- *P11_NPER_RP_GRAT*: p11_nper_rp_grat[double]\n- *P11_ANEM_RP*: p11_anem_rp[double]\n- *P11_ANEM_RP_PROP*: p11_anem_rp_prop[double]\n- *P11_ANEM_RP_LOC*: p11_anem_rp_loc[double]\n- *P11_ANEM_RP_LOCHLMV*: p11_anem_rp_lochlmv[double]\n- *P11_ANEM_RP_GRAT*: p11_anem_rp_grat[double]\n- *P11_RP_SDB*: p11_rp_sdb[double]\n- *P11_RP_CCCOLL*: p11_rp_cccoll[double]\n- *P11_RP_CCIND*: p11_rp_ccind[double]\n- *P11_RP_CINDELEC*: p11_rp_cindelec[double]\n- *P11_RP_GARL*: p11_rp_garl[double]\n- *P11_RP_VOIT1P*: p11_rp_voit1p[double]\n- *P11_RP_VOIT1*: p11_rp_voit1[double]\n- *P11_RP_VOIT2P*: p11_rp_voit2p[double]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T19:03:42.796000",
+        "check:status": 200,
+        "check:url": "https://data.toulouse-metropole.fr//explore/dataset/toulouse_gq_logement_rp2011/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "5d8c35b4-e335-4d93-a3ae-3ce4c4001ab7",
+      "last_modified": "2015-03-25T09:21:13",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5d8c35b4-e335-4d93-a3ae-3ce4c4001ab7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:15:53.207000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/toulouse_gq_logement_rp2011/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:15:53.207000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *GRD_QUART*: grd_quart[text]\n- *LIBELLE DU GRAND QUARTIER*: libelle_du_grand_quartier[text]\n- *Code_insee*: code_insee[text]\n- *LIBCOM*: libcom[text]\n- *REG*: reg[text]\n- *DEP*: dep[text]\n- *UU2010*: uu2010[text]\n- *Nombre de logements*: p11_log[double]\n- *P11_RP*: p11_rp[double]\n- *P11_RSECOCC*: p11_rsecocc[double]\n- *P11_LOGVAC*: p11_logvac[double]\n- *P11_MAISON*: p11_maison[double]\n- *P11_APPART*: p11_appart[double]\n- *P11_RP_1P*: p11_rp_1p[double]\n- *P11_RP_2P*: p11_rp_2p[double]\n- *P11_RP_3P*: p11_rp_3p[double]\n- *P11_RP_4P*: p11_rp_4p[double]\n- *P11_RP_5PP*: p11_rp_5pp[double]\n- *P11_NBPI_RP*: p11_nbpi_rp[double]\n- *P11_RPMAISON*: p11_rpmaison[double]\n- *P11_NBPI_RPMAISON*: p11_nbpi_rpmaison[double]\n- *P11_RPAPPART*: p11_rpappart[double]\n- *P11_NBPI_RPAPPART*: p11_nbpi_rpappart[double]\n- *P11_RP_M40M2*: p11_rp_m40m2[double]\n- *P11_RP_4099M2*: p11_rp_4099m2[double]\n- *P11_RP_100M2P*: p11_rp_100m2p[double]\n- *P11_RP_ACHTT_*: p11_rp_achtt[double]\n- *P11_RP_ACHT1_*: p11_rp_acht1[double]\n- *P11_RP_ACHT2_*: p11_rp_acht2[double]\n- *P11_RP_ACHT3_*: p11_rp_acht3[double]\n- *P11_RPMAISON_ACHTT*: p11_rpmaison_achtt[double]\n- *P11_RPMAISON_ACHT1_*: p11_rpmaison_acht1[double]\n- *P11_RPMAISON_ACHT2_*: p11_rpmaison_acht2[double]\n- *P11_RPMAISON_ACHT3_*: p11_rpmaison_acht3[double]\n- *P11_RPAPPART_ACHTT_*: p11_rpappart_achtt[double]\n- *P11_RPAPPART_ACHT1_*: p11_rpappart_acht1[double]\n- *P11_RPAPPART_ACHT2_*: p11_rpappart_acht2[double]\n- *P11_RPAPPART_ACHT3_*: p11_rpappart_acht3[double]\n- *P11_MEN*: p11_men[double]\n- *P11_MEN_ANEM0002*: p11_men_anem0002[double]\n- *P11_MEN_ANEM0204*: p11_men_anem0204[double]\n- *P11_MEN_ANEM0509*: p11_men_anem0509[double]\n- *P11_MEN_ANEM10P*: p11_men_anem10p[double]\n- *P11_PMEN*: p11_pmen[double]\n- *P11_PMEN_ANEM0002*: p11_pmen_anem0002[double]\n- *P11_PMEN_ANEM0204*: p11_pmen_anem0204[double]\n- *P11_PMEN_ANEM0509*: p11_pmen_anem0509[double]\n- *P11_PMEN_ANEM10P*: p11_pmen_anem10p[double]\n- *P11_NBPI_RP_ANEM0002*: p11_nbpi_rp_anem0002[double]\n- *P11_NBPI_RP_ANEM0204*: p11_nbpi_rp_anem0204[double]\n- *P11_NBPI_RP_ANEM0509*: p11_nbpi_rp_anem0509[double]\n- *P11_NBPI_RP_ANEM10P*: p11_nbpi_rp_anem10p[double]\n- *P11_RP_PROP*: p11_rp_prop[double]\n- *P11_RP_LOC*: p11_rp_loc[double]\n- *P11_RP_LOCHLMV*: p11_rp_lochlmv[double]\n- *P11_RP_GRAT*: p11_rp_grat[double]\n- *P11_NPER_RP*: p11_nper_rp[double]\n- *P11_NPER_RP_PROP*: p11_nper_rp_prop[double]\n- *P11_NPER_RP_LOC*: p11_nper_rp_loc[double]\n- *P11_NPER_RP_LOCHLMV*: p11_nper_rp_lochlmv[double]\n- *P11_NPER_RP_GRAT*: p11_nper_rp_grat[double]\n- *P11_ANEM_RP*: p11_anem_rp[double]\n- *P11_ANEM_RP_PROP*: p11_anem_rp_prop[double]\n- *P11_ANEM_RP_LOC*: p11_anem_rp_loc[double]\n- *P11_ANEM_RP_LOCHLMV*: p11_anem_rp_lochlmv[double]\n- *P11_ANEM_RP_GRAT*: p11_anem_rp_grat[double]\n- *P11_RP_SDB*: p11_rp_sdb[double]\n- *P11_RP_CCCOLL*: p11_rp_cccoll[double]\n- *P11_RP_CCIND*: p11_rp_ccind[double]\n- *P11_RP_CINDELEC*: p11_rp_cindelec[double]\n- *P11_RP_GARL*: p11_rp_garl[double]\n- *P11_RP_VOIT1P*: p11_rp_voit1p[double]\n- *P11_RP_VOIT1*: p11_rp_voit1[double]\n- *P11_RP_VOIT2P*: p11_rp_voit2p[double]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T19:03:44.598000",
+        "check:status": 200,
+        "check:url": "https://data.toulouse-metropole.fr//explore/dataset/toulouse_gq_logement_rp2011/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "eef9eb5d-8c5b-4ef8-87b4-e6e857aa1dad",
+      "last_modified": "2015-03-25T09:21:13",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/eef9eb5d-8c5b-4ef8-87b4-e6e857aa1dad",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:15:53.207000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/toulouse_gq_logement_rp2011/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "recensement-population-2011-grands-quartiers-logement",
+  "spatial": null,
+  "tags": [
+    "appartement",
+    "construction",
+    "hlm",
+    "logement",
+    "maison",
+    "menage",
+    "residence-pricipale",
+    "statistiques"
+  ],
+  "temporal_coverage": null,
+  "title": "Recensement population 2011 - Grands quartiers - Logement",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/recensement-population-2011-grands-quartiers-logement/"
+}

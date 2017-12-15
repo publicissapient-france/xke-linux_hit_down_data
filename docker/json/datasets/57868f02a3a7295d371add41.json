@@ -1,0 +1,169 @@
+{
+  "badges": [],
+  "created_at": "2016-07-13T20:57:05.788000",
+  "deleted": null,
+  "description": "Liste des Espaces d\u00e9partementaux d'actions sociales (EDAS) des Hauts-de-Seine\n\n* * *\n\nV\u00e9ritables points d'ancrage locaux de l'action sociale dans le d\u00e9partement, les Espaces d\u00e9partementaux d'actions sociales (EDAS), anciennement appel\u00e9s Circonscriptions de la vie sociale (CVS), sont des lieux d'accueil, d'orientation et d'accompagnement social proposant \u00e9coute et aide aux personnes en difficult\u00e9, pour des probl\u00e8mes administratifs et juridiques, ou bien d'insertion et de logement. En fonction des besoins des usagers, l'EDAS conseille, oriente vers les personnes ou les services qui peuvent les aider, accompagne dans la recherche de solutions ou pour instruire une demande d'aide, invite \u00e0 participer \u00e0 des r\u00e9unions d'information sur le sujet qui les concerne.\n\nCe jeu de donn\u00e9es pr\u00e9sente la liste et les coordonn\u00e9es des Espaces d\u00e9partementaux d'actions sociales des Hauts-de-Seine.\n\n**Lexique**\n\nEDAS\n    Espaces d\u00e9partementaux d'actions sociales sont des lieux d'accueil et d'orientation proposant \u00e9coute et aide aux personnes en difficult\u00e9, pour des probl\u00e8mes administratifs et juridiques, ou bien d'insertion et de logement. En fonction des besoins des usagers, l'EDAS conseille, oriente vers les personnes ou les services qui peuvent les aider, accompagne dans la recherche de solutions ou pour instruire une demande d'aide, invite \u00e0 participer \u00e0 des r\u00e9unions d'information sur le sujet qui les concerne.\nCVS\n    Circonscription de la vie sociale. Ancienne d\u00e9nomination des Espaces d\u00e9partementaux d'actions sociales.\nAide au logement\n    Recherche de logement, ouverture de droits, acc\u00e8s au logement et maintien dans le logement, pr\u00e9vention des impay\u00e9s des fluides, du loyer, de l'ensemble des charges inh\u00e9rentes au logement, enqu\u00eates assignation et expulsion locative.\nInsertion sociale\n    Accompagnement budg\u00e9taire, dossier de surendettement, ouverture de droits, renseignements administratifs, contrat RSA, aide de premi\u00e8re n\u00e9cessit\u00e9 (alimentaire, vestimentaire, transport, sant\u00e9, obs\u00e8ques).\nInsertion professionnelle\n    Renseignements adminstratifs li\u00e9s \u00e0 l'empoi, orientation et contact avec les organismes (P\u00f4le emploi).\nProtection des adultes\n    Accompagnement social personnalis\u00e9 (MASP1), saisine MASP2, saisines judiciaires (MAJ, sauvegarde de justice, curatelle, tutelle), signalement de personnes vuln\u00e9rables, accompagnement de femmes victimes de violences.\nProtection des enfants\n    Cantine, mode de garde, vacances, frais de scolarit\u00e9, aide alimentaire et vestimentaire pour les enfants, difficult\u00e9s relationnelles parents/enfants, dispositifs de pr\u00e9vention, protection, demande de protection des mineurs, ouverture de droits....\nAcc\u00e8s aux droits \u00e0 la sant\u00e9\n    Ouverture de droits, orientation et contacts avec des organismes ou associations ayant des comp\u00e9tences en mati\u00e8re de sant\u00e9 physique, mentale, d\u00e9pendance.\nAide \u00e0 la gestion budg\u00e9taire\n    Identifier le fonctionnement du budget, apporter conseil et soutien budg\u00e9taire, aide \u00e0 la constitution de dossiers (banque de France, rachat de cr\u00e9dits,...), actions de m\u00e9diation aupr\u00e8s des cr\u00e9anciers, du bailleur, des organismes publics, mise en place d'actions collectives.\n\n**Observations particuli\u00e8res**\n\nND\n    Non Diffusable. Concerne les donn\u00e9es en-dessous du seuil de diffusion (valeurs &lt; 5)\n\n**Donn\u00e9es connexes**\n\nPlateforme Open Data du D\u00e9partement des Hauts-de-Seine   \n[Domaines d'intervention des Espaces D\u00e9partementaux d'Actions Sociales](https://opendata.hauts-de-seine.fr/explore/dataset/espaces-departementaux-dactions-sociales-edas)",
+  "extras": {
+    "harvest:domain": "opendata.hauts-de-seine.fr",
+    "harvest:last_update": "2017-04-06T06:03:25.803164",
+    "harvest:remote_id": "espaces-departementaux-dactions-sociales-edas",
+    "harvest:source_id": "5731a6d688ee38379cd1b934",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.hauts-de-seine.fr//explore/dataset/espaces-departementaux-dactions-sociales-edas/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "57868f02a3a7295d371add41",
+  "last_modified": "2017-04-06T06:03:25.806000",
+  "last_update": "2017-04-06T06:03:25.802000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "544e1b0888ee38289ae1ed05",
+    "logo": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-100.jpg",
+    "name": "Hauts-de-Seine le D\u00e9partement",
+    "page": "https://www.data.gouv.fr/fr/organizations/hauts-de-seine-le-departement/",
+    "slug": "hauts-de-seine-le-departement",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/hauts-de-seine-le-departement/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/espaces-departementaux-dactions-sociales-edas/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T06:03:25.801000",
+      "description": "- *ID*: id[text] Identifiant de l'EDAS\n- *NOM*: nom[text] Nom de l'EDAS\n- *TYPE*: type[text] Type d'EDAS\n- *CP*: cp[text] Code postal de la commune\n- *ADRESSE*: adresse[text] Adresse de l'EDAS\n- *COMMUNE*: commune[text] Nom de la commune\n- *CODE_INSEE*: code_insee[text] Code INSEE de la commune\n- *TEL*: tel[text] Num\u00e9ro de t\u00e9l\u00e9phone de l'EDAS\n- *HORAIRES*: horaires[text] Horaires d'ouverture de l'EDAS\n- *geo_shape*: geo_shape[geo_shape] G\u00e9om\u00e9trie de l'entit\u00e9 au format GeoJSON\n- *geo_point_2d*: geo_point_2d[geo_point_2d] Coordonn\u00e9es de l'entit\u00e9 (latitude, longitude en degr\u00e9s d\u00e9cimaux)\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T16:19:54.862000",
+        "check:status": 200,
+        "check:url": "https://opendata.hauts-de-seine.fr//explore/dataset/espaces-departementaux-dactions-sociales-edas/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "0ad8017d-0ae2-4daa-8dd2-6ce7a9272b73",
+      "last_modified": "2017-03-29T22:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0ad8017d-0ae2-4daa-8dd2-6ce7a9272b73",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-04-06T06:03:25.801000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/espaces-departementaux-dactions-sociales-edas/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T06:03:25.801000",
+      "description": "- *ID*: id[text] Identifiant de l'EDAS\n- *NOM*: nom[text] Nom de l'EDAS\n- *TYPE*: type[text] Type d'EDAS\n- *CP*: cp[text] Code postal de la commune\n- *ADRESSE*: adresse[text] Adresse de l'EDAS\n- *COMMUNE*: commune[text] Nom de la commune\n- *CODE_INSEE*: code_insee[text] Code INSEE de la commune\n- *TEL*: tel[text] Num\u00e9ro de t\u00e9l\u00e9phone de l'EDAS\n- *HORAIRES*: horaires[text] Horaires d'ouverture de l'EDAS\n- *geo_shape*: geo_shape[geo_shape] G\u00e9om\u00e9trie de l'entit\u00e9 au format GeoJSON\n- *geo_point_2d*: geo_point_2d[geo_point_2d] Coordonn\u00e9es de l'entit\u00e9 (latitude, longitude en degr\u00e9s d\u00e9cimaux)\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T16:19:55.560000",
+        "check:status": 200,
+        "check:url": "https://opendata.hauts-de-seine.fr//explore/dataset/espaces-departementaux-dactions-sociales-edas/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "3497ce42-f3a9-453d-b613-8216b31f45fe",
+      "last_modified": "2017-03-29T22:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3497ce42-f3a9-453d-b613-8216b31f45fe",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-04-06T06:03:25.801000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/espaces-departementaux-dactions-sociales-edas/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T06:03:25.801000",
+      "description": "- *ID*: id[text] Identifiant de l'EDAS\n- *NOM*: nom[text] Nom de l'EDAS\n- *TYPE*: type[text] Type d'EDAS\n- *CP*: cp[text] Code postal de la commune\n- *ADRESSE*: adresse[text] Adresse de l'EDAS\n- *COMMUNE*: commune[text] Nom de la commune\n- *CODE_INSEE*: code_insee[text] Code INSEE de la commune\n- *TEL*: tel[text] Num\u00e9ro de t\u00e9l\u00e9phone de l'EDAS\n- *HORAIRES*: horaires[text] Horaires d'ouverture de l'EDAS\n- *geo_shape*: geo_shape[geo_shape] G\u00e9om\u00e9trie de l'entit\u00e9 au format GeoJSON\n- *geo_point_2d*: geo_point_2d[geo_point_2d] Coordonn\u00e9es de l'entit\u00e9 (latitude, longitude en degr\u00e9s d\u00e9cimaux)\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T16:19:54.871000",
+        "check:status": 200,
+        "check:url": "https://opendata.hauts-de-seine.fr//explore/dataset/espaces-departementaux-dactions-sociales-edas/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "ed3adb28-cf64-4350-a6d7-831aa4afbb5a",
+      "last_modified": "2017-03-29T22:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ed3adb28-cf64-4350-a6d7-831aa4afbb5a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-04-06T06:03:25.801000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/espaces-departementaux-dactions-sociales-edas/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T06:03:25.801000",
+      "description": "- *ID*: id[text] Identifiant de l'EDAS\n- *NOM*: nom[text] Nom de l'EDAS\n- *TYPE*: type[text] Type d'EDAS\n- *CP*: cp[text] Code postal de la commune\n- *ADRESSE*: adresse[text] Adresse de l'EDAS\n- *COMMUNE*: commune[text] Nom de la commune\n- *CODE_INSEE*: code_insee[text] Code INSEE de la commune\n- *TEL*: tel[text] Num\u00e9ro de t\u00e9l\u00e9phone de l'EDAS\n- *HORAIRES*: horaires[text] Horaires d'ouverture de l'EDAS\n- *geo_shape*: geo_shape[geo_shape] G\u00e9om\u00e9trie de l'entit\u00e9 au format GeoJSON\n- *geo_point_2d*: geo_point_2d[geo_point_2d] Coordonn\u00e9es de l'entit\u00e9 (latitude, longitude en degr\u00e9s d\u00e9cimaux)\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T16:19:55.584000",
+        "check:status": 200,
+        "check:url": "https://opendata.hauts-de-seine.fr//explore/dataset/espaces-departementaux-dactions-sociales-edas/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "8e0b142d-7eeb-4b84-8988-bb2830ba9ca4",
+      "last_modified": "2017-03-29T22:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8e0b142d-7eeb-4b84-8988-bb2830ba9ca4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-04-06T06:03:25.802000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/espaces-departementaux-dactions-sociales-edas/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "espaces-departementaux-dactions-sociales-edas",
+  "spatial": null,
+  "tags": [
+    "edas",
+    "espaces-departementaux-dactions-sociales",
+    "insertion",
+    "logements",
+    "social",
+    "solidarite",
+    "solidarite-sante"
+  ],
+  "temporal_coverage": null,
+  "title": "Espaces d\u00e9partementaux d'actions sociales (EDAS)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/espaces-departementaux-dactions-sociales-edas/"
+}

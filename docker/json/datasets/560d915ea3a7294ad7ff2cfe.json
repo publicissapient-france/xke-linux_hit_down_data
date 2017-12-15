@@ -1,0 +1,115 @@
+{
+  "badges": [],
+  "created_at": "2016-06-22T00:00:00",
+  "deleted": null,
+  "description": "D\u00e9nombrement par Caf, des foyers allocataires ayant un droit versable \u00e0 la prestation partag\u00e9e d'\u00e9ducation de l'enfant (PreParE).\n\nC\u2019est une nouvelle prestation du dispositif d\u2019accueil du jeune enfant (Paje). Elle concerne les parents d\u2019enfants n\u00e9s ou adopt\u00e9s depuis le 1er janvier 2015 qui cessent ou r\u00e9duisent leur activit\u00e9 professionnelle pour s\u2019occuper de leur (s) enfant(s). Gr\u00e2ce \u00e0 la Prepare, la dur\u00e9e de versement du cong\u00e9 parental des monoparents est allong\u00e9e pour le 1er enfant. Pour les couples, le partage du cong\u00e9 parental est d\u00e9sormais obligatoire. Les enfants n\u00e9s ou adopt\u00e9s avant le 1er janvier 2015 continuent \u00e0 b\u00e9n\u00e9ficier du compl\u00e9ment de libre choix d'activit\u00e9 de la Paje (CLCA).\n\n\nDes \u00e9l\u00e9ments plus d\u00e9taill\u00e9s sur le RSA sont disponibles sur le site caf.fr, en cliquant sur le lien suivant :\n\nhttp://www.caf.fr/aides-et-services/s-informer-sur-les-aides/petite-enfance\n\nLe foyer allocataire est l\u2019entit\u00e9 administrative \u00e0 laquelle les Caf versent au moins une prestation. Il est compos\u00e9 de l\u2019allocataire (personne qui per\u00e7oit au moins une prestation au regard de sa situation familiale et/ou mon\u00e9taire), de son conjoint/concubin/pacs\u00e9 \u00e9ventuel, des enfants \u00e0 charge et autres personnes \u00e0 charge au sens de la r\u00e9glementation en vigueur. Un foyer allocataire peut donc comporter une ou plusieurs personnes.\n\nLe droit versable signifie que le foyer allocataire remplit toutes les conditions pour \u00eatre effectivement pay\u00e9 au titre du mois d\u2019observation. En particulier ne sont pas inclus dans ce p\u00e9rim\u00e8tre les b\u00e9n\u00e9ficiaires qui n\u2019ont pas fourni l\u2019int\u00e9gralit\u00e9 de leurs pi\u00e8ces justificatives, ou ceux dont le montant de la prestation est inf\u00e9rieur au seuil de versement\n\nLe champ g\u00e9ographique d\u2019observation du jeu de donn\u00e9es correspond \u00e0 la Caf de gestion auquel est rattach\u00e9e le foyer allocataire dans le fichier statistique des allocataires, au moment de l\u2019extraction (environ 6 semaines apr\u00e8s la fin du mois observ\u00e9).",
+  "extras": {
+    "ckan:name": "foyers-allocataires-percevant-la-prestation-partagee-d-education-de-l-enfant-prepare-par-caf",
+    "harvest:domain": "data.caf.fr",
+    "harvest:last_update": "2017-11-27T05:08:29.172732",
+    "harvest:remote_id": "0bdc2244-eb72-4aca-be50-9ef7e06db194",
+    "harvest:source_id": "560d9133c751df40ee756894",
+    "harvested": "2017-10-02T09:41:31.654742",
+    "remote_url": "Fichiers BENETRIM et FILEAS",
+    "source_id": "954ea88a-1b59-4a56-acae-2148a64dbe5e"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "560d915ea3a7294ad7ff2cfe",
+  "last_modified": "2017-11-27T05:08:29.176000",
+  "last_update": "2015-10-01T22:02:38.761000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": "CNAF",
+    "class": "Organization",
+    "id": "5595066cc751df4582a453ba",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-07-02/a1bc08e4a4dc44a89cb29697800a83b5/new_logo-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-07-02/a1bc08e4a4dc44a89cb29697800a83b5/new_logo-100.jpg",
+    "name": "Caisse Nationale des Allocations familiales ",
+    "page": "https://www.data.gouv.fr/fr/organizations/allocations-familiales/",
+    "slug": "allocations-familiales",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/allocations-familiales/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/prestation-partagee-deducation-de-lenfant-prepare-par-caf/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:38.761000",
+      "description": "Veuillez consulter le descriptif pour une meilleure lecture",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T07:13:36.605000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/0bdc2244-eb72-4aca-be50-9ef7e06db194/resource/80578872-1050-411a-8b8e-a4ead23acc59/download/PrepareCafdepuis2015.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "80578872-1050-411a-8b8e-a4ead23acc59",
+      "last_modified": "2017-09-19T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/80578872-1050-411a-8b8e-a4ead23acc59",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 8
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:38.761000",
+      "title": "PreParE - par Caf",
+      "url": "http://data.caf.fr/dataset/0bdc2244-eb72-4aca-be50-9ef7e06db194/resource/80578872-1050-411a-8b8e-a4ead23acc59/download/PrepareCafdepuis2015.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:38.761000",
+      "description": "Lisez-moi",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T07:13:01.060000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/0bdc2244-eb72-4aca-be50-9ef7e06db194/resource/b6f237b8-a28b-46da-8b55-cd09f5cc5959/download/Descriptif-du-fichier-PreParE---Par-Caf.txt"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "txt",
+      "id": "b6f237b8-a28b-46da-8b55-cd09f5cc5959",
+      "last_modified": "2017-03-29T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b6f237b8-a28b-46da-8b55-cd09f5cc5959",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 3
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:38.761000",
+      "title": "Descriptif du fichier PreParE - Par Caf",
+      "url": "http://data.caf.fr/dataset/0bdc2244-eb72-4aca-be50-9ef7e06db194/resource/b6f237b8-a28b-46da-8b55-cd09f5cc5959/download/Descriptif-du-fichier-PreParE---Par-Caf.txt"
+    }
+  ],
+  "slug": "prestation-partagee-deducation-de-lenfant-prepare-par-caf",
+  "spatial": null,
+  "tags": [
+    "caf",
+    "education",
+    "paje",
+    "prepare",
+    "sp008"
+  ],
+  "temporal_coverage": null,
+  "title": "Prestation partag\u00e9e d'\u00e9ducation de l'enfant (PreParE) - par Caf",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/prestation-partagee-deducation-de-lenfant-prepare-par-caf/"
+}

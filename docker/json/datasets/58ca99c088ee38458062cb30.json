@@ -1,0 +1,81 @@
+{
+  "badges": [],
+  "created_at": "2017-03-16T14:57:20.754000",
+  "deleted": null,
+  "description": "La structure du march\u00e9 du travail en France p\u00e9nalise tout particuli\u00e8rement les jeunes. Leur dur\u00e9e d\u2019acc\u00e8s \u00e0 un emploi stable s\u2019est allong\u00e9e ; ils sont plus confront\u00e9s \u00e0 la pr\u00e9carit\u00e9 dans l\u2019emploi et au temps partiel subi ; leur taux de pauvret\u00e9 est \u00e9lev\u00e9. Depuis plusieurs d\u00e9cennies, de tr\u00e8s nombreuses aides, mises en \u0153uvre par des op\u00e9rateurs multiples, ont \u00e9t\u00e9 d\u00e9ploy\u00e9es pour corriger cette situation. Ce syst\u00e8me d\u2019aides publiques pr\u00e9sente un co\u00fbt \u00e9lev\u00e9 (10,5 Md\u20ac en 2015) et croissant, mais les r\u00e9sultats obtenus du point de vue de l\u2019acc\u00e8s \u00e0 un emploi durable ne sont \u00e0 la mesure ni des objectifs affich\u00e9s, ni des moyens mobilis\u00e9s.\nLes juridictions financi\u00e8res pr\u00e9conisent de concentrer davantage les aides publiques\nsur les jeunes les plus \u00e9loign\u00e9s de l\u2019emploi et de privil\u00e9gier les r\u00e9ponses rapides et les dispositifs intensifs. Leur rapport comprend sept cahiers territoriaux : Est-Ensemble, Le Creusot \u2013 Montceau-Les-Mines, Limoux, Saint-\u00c9tienne, Seine-Eure / Haute-Normandie, Thiers et Toulouse.\n\nCe rapport est accessible sur [le site de la Cour](https://www.ccomptes.fr/fr/publications/lacces-des-jeunes-lemploi-construire-des-parcours-adapter-les-aides).\n\nLes fichiers publi\u00e9s correspondent aux donn\u00e9es ayant servi de base \u00e0 l'\u00e9laboration du rapport.",
+  "extras": {},
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "58ca99c088ee38458062cb30",
+  "last_modified": "2017-09-04T12:19:56.644000",
+  "last_update": "2017-03-16T14:57:45.579000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "53698dada3a729239d20331d",
+    "logo": "https://www.data.gouv.fr/s/avatars/ac/83f761a23f4263be8b3401b01625e8-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/ac/83f761a23f4263be8b3401b01625e8-100.png",
+    "name": "Cour des comptes",
+    "page": "https://www.data.gouv.fr/fr/organizations/cour-des-comptes/",
+    "slug": "cour-des-comptes",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/cour-des-comptes/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/lacces-des-jeunes-a-lemploi-construire-des-parcours-adapter-les-aides/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-03-16T14:57:45.579000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T14:21:29.212000",
+        "check:status": 200,
+        "check:url": "https://www.ccomptes.fr/sites/default/files/EzPublish/20161005-donnees-acces-jeunes-emploi.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f20b18cd-d4f5-4a49-a572-a8367a66cc09",
+      "last_modified": "2017-09-04T12:19:56.644000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f20b18cd-d4f5-4a49-a572-a8367a66cc09",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 2
+      },
+      "mime": null,
+      "published": "2017-03-16T14:57:45.579000",
+      "title": "L\u2019acc\u00e8s des jeunes \u00e0 l\u2019emploi : construire des parcours, adapter les aides",
+      "url": "https://www.ccomptes.fr/sites/default/files/EzPublish/20161005-donnees-acces-jeunes-emploi.zip"
+    }
+  ],
+  "slug": "lacces-des-jeunes-a-lemploi-construire-des-parcours-adapter-les-aides",
+  "spatial": null,
+  "tags": [
+    "accessibilite",
+    "aides-publiques",
+    "cour-des-comptes",
+    "emploi",
+    "jeunes",
+    "marche-du-travail",
+    "precarite"
+  ],
+  "temporal_coverage": null,
+  "title": "L\u2019acc\u00e8s des jeunes \u00e0 l\u2019emploi : construire des parcours, adapter les aides",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/lacces-des-jeunes-a-lemploi-construire-des-parcours-adapter-les-aides/"
+}

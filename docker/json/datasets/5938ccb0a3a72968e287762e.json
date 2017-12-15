@@ -1,0 +1,149 @@
+{
+  "badges": [],
+  "created_at": "2017-06-08T06:04:00.533000",
+  "deleted": null,
+  "description": "##  Trac\u00e9 des voies impact\u00e9es par des travaux, et date des chantiers.\u00a0\n\n####  Le tableau est actualis\u00e9 quotidiennement.\n\n****\n\n* * *\n\n> **Mise en garde : Ces donn\u00e9es sont indicatives et ne tiennent pas compte des \u00e9volutions possibles en cours d'am\u00e9nagement.**\n\n* * *\n\nPour toute information concernant les travaux de voirie de la MEL, contactez-nous \u00e0 l'adresse : **contact@lillemetropole.fr**\n\n* * *\n\n  \n****",
+  "extras": {
+    "harvest:domain": "opendata.lillemetropole.fr",
+    "harvest:last_update": "2017-11-27T05:29:34.927666",
+    "harvest:remote_id": "troncons-de-voirie-impactes-par-des-travaux-en-temps-reel",
+    "harvest:source_id": "58b68fdcc751df10ea84f9cc",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.lillemetropole.fr//explore/dataset/troncons-de-voirie-impactes-par-des-travaux-en-temps-reel/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5938ccb0a3a72968e287762e",
+  "last_modified": "2017-11-27T05:29:34.930000",
+  "last_update": "2017-11-27T05:29:34.926000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 1,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "MEL",
+    "class": "Organization",
+    "id": "58b69c62c751df4b175dd7a4",
+    "logo": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-100.png",
+    "name": "M\u00e9tropole Europ\u00e9enne de Lille ",
+    "page": "https://www.data.gouv.fr/fr/organizations/metropole-europeenne-de-lille/",
+    "slug": "metropole-europeenne-de-lille",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/metropole-europeenne-de-lille/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/troncons-de-voirie-impactes-par-des-travaux/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:29:34.925000",
+      "description": "- *D\u00e9but des travaux*: date_demarrage[date]\n- *Fin des travaux*: date_fin[date]\n- *Dur\u00e9e des travaux*: duree[text]\n- *description de l'op\u00e9ration*: description_ope[text]\n- *geometry*: geometry[geo_shape]\n- *Libell\u00e9 de l'op\u00e9ration*: libelle_ope[text]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "03add126-35f6-4407-b51b-67cef8b1836e",
+      "last_modified": "2017-06-01T13:08:17",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/03add126-35f6-4407-b51b-67cef8b1836e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:29:34.925000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/troncons-de-voirie-impactes-par-des-travaux-en-temps-reel/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:29:34.926000",
+      "description": "- *D\u00e9but des travaux*: date_demarrage[date]\n- *Fin des travaux*: date_fin[date]\n- *Dur\u00e9e des travaux*: duree[text]\n- *description de l'op\u00e9ration*: description_ope[text]\n- *geometry*: geometry[geo_shape]\n- *Libell\u00e9 de l'op\u00e9ration*: libelle_ope[text]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "3c004cef-5146-4eb3-a7b8-dc5e651de2ff",
+      "last_modified": "2017-06-01T13:08:17",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3c004cef-5146-4eb3-a7b8-dc5e651de2ff",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:29:34.926000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/troncons-de-voirie-impactes-par-des-travaux-en-temps-reel/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:29:34.926000",
+      "description": "- *D\u00e9but des travaux*: date_demarrage[date]\n- *Fin des travaux*: date_fin[date]\n- *Dur\u00e9e des travaux*: duree[text]\n- *description de l'op\u00e9ration*: description_ope[text]\n- *geometry*: geometry[geo_shape]\n- *Libell\u00e9 de l'op\u00e9ration*: libelle_ope[text]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "66657e86-3767-4406-b217-0210041145dd",
+      "last_modified": "2017-06-01T13:08:17",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/66657e86-3767-4406-b217-0210041145dd",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:29:34.926000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/troncons-de-voirie-impactes-par-des-travaux-en-temps-reel/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:29:34.926000",
+      "description": "- *D\u00e9but des travaux*: date_demarrage[date]\n- *Fin des travaux*: date_fin[date]\n- *Dur\u00e9e des travaux*: duree[text]\n- *description de l'op\u00e9ration*: description_ope[text]\n- *geometry*: geometry[geo_shape]\n- *Libell\u00e9 de l'op\u00e9ration*: libelle_ope[text]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "5457ecf3-a8e4-4862-8a4a-026a8f6d0f7c",
+      "last_modified": "2017-06-01T13:08:17",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5457ecf3-a8e4-4862-8a4a-026a8f6d0f7c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:29:34.926000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/troncons-de-voirie-impactes-par-des-travaux-en-temps-reel/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "troncons-de-voirie-impactes-par-des-travaux",
+  "spatial": null,
+  "tags": [
+    "amenagement-du-territoire",
+    "batiments",
+    "chantiers",
+    "equipements",
+    "logement",
+    "travaux",
+    "urbanisme",
+    "voirie"
+  ],
+  "temporal_coverage": null,
+  "title": "Tron\u00e7ons de voirie impact\u00e9s par des travaux",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/troncons-de-voirie-impactes-par-des-travaux/"
+}

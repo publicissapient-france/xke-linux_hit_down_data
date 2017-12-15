@@ -1,0 +1,105 @@
+{
+  "badges": [],
+  "created_at": "2016-02-02T15:52:41.647000",
+  "deleted": null,
+  "description": "R\u00e9sultats du 1er tour des \u00e9lections legislatives de 2012 \u00e0 Toulouse. Les r\u00e9sultats sont pr\u00e9sent\u00e9s par bureaux de vote, circonscriptions et cantons.",
+  "extras": {
+    "harvest:domain": "data.toulouse-metropole.fr",
+    "harvest:last_update": "2017-11-27T05:19:12.765785",
+    "harvest:remote_id": "elections-legislatives-2012-1er-et-2eme-tours-a-toulouse",
+    "harvest:source_id": "564c3680c751df607daad370",
+    "ods:has_records": true,
+    "ods:url": "https://data.toulouse-metropole.fr//explore/dataset/elections-legislatives-2012-1er-et-2eme-tours-a-toulouse/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "56b0c2b9a3a7294d39b88a54",
+  "last_modified": "2017-11-27T05:19:12.768000",
+  "last_update": "2017-11-27T05:19:12.764000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb3a3a7292c64a78129",
+    "logo": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-100.jpg",
+    "name": "Toulouse m\u00e9trople",
+    "page": "https://www.data.gouv.fr/fr/organizations/toulouse-metrople/",
+    "slug": "toulouse-metrople",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/toulouse-metrople/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/elections-legislatives-2012-1er-tour-ville-de-toulouse-resultats/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:19:12.764000",
+      "description": "- *CIRCONSCRIPTION*: circonscription[double]\n- *CANTON*: canton[double]\n- *BUREAUX*: bureaux[text]\n- *INSCRITS*: inscrits[double]\n- *EMARGEMENT*: emargement[double]\n- *VOTANTS*: votants[double]\n- *NULS*: nuls[double]\n- *EXPRIMES*: exprimes[double]\n- *LACAZE PIERRE                                  *: lacaze_pierre[double]\n- *COLOMBO HENRI-PIERRE*: colombo_henri_pierre[double]\n- *CHAUDOREILLE MARIE-COLETTE*: chaudoreille_marie_colette[double]\n- *BOLZAN JEAN-JACQUES*: bolzan_jean_jacques[double]\n- *BAUD ROBERT*: baud_robert[double]\n- *BRIAND SACHA*: briand_sacha[double]\n- *PORCEDDU HELENE*: porceddu_helene[double]\n- *SERTILLANGE JEAN-PIERRE*: sertillange_jean_pierre[double]\n- *SERVEILLE PIERRE*: serveille_pierre[double]\n- *PEZIZIN PIERRE*: pezizin_pierre[double]\n- *CASSAGNE MARIE-PIERRE*: cassagne_marie_pierre[double]\n- *GARNIER AUDE*: garnier_aude[double]\n- *ROUJA ANTHONY*: rouja_anthony[double]\n- *LEMORTON CATHERINE*: lemorton_catherine[double]\n- *PICHON BETTINA*: pichon_bettina[double]\n- *SCHWAL BERNARD*: schwal_bernard[double]\n- *AMOROSA MICHEL*: amorosa_michel[double]\n- *ESCUDIE JACQUELINE*: escudie_jacqueline[text]\n- *GALLEGO ANDRE*: gallego_andre[text]\n- *BONLEUX NICOLAS*: bonleux_nicolas[text]\n- *CAVIN SEVERINE*: cavin_severine[text]\n- *LE BIHAN PATRICK*: le_bihan_patrick[text]\n- *BAPT GERARD*: bapt_gerard[text]\n- *LASERGE MICHEL*: laserge_michel[text]\n- *MARZIANI CHARLES*: marziani_charles[text]\n- *PEGUIN CECILE*: peguin_cecile[text]\n- *MICHAVILA JEAN-CLAUDE*: michavila_jean_claude[text]\n- *THOMAS JEAN-LOUIS*: thomas_jean_louis[text]\n- *ALAMICHEL JEAN*: alamichel_jean[text]\n- *ISLA RAPHAEL*: isla_raphael[text]\n- *FONTUGNE FANNY*: fontugne_fanny[text]\n- *AUGE JOSETTE*: auge_josette[text]\n- *TORREMOCHA SANDRA*: torremocha_sandra[text]\n- *COUDERETTE THOMAS*: couderette_thomas[text]\n- *CREVELLE MONIQUE*: crevelle_monique[text]\n- *SATGER CLEMENT*: satger_clement[text]\n- *FABRE CAROLE*: fabre_carole[text]\n- *FILLOLA ALAIN*: fillola_alain[text]\n- *MOUDENC JEAN-LUC*: moudenc_jean_luc[text]\n- *CABIOCH SANDRINE*: cabioch_sandrine[text]\n- *SIMON FRANCOIS*: simon_francois[text]\n- *MASSAT GUIRAUD-CHAUMEIL LAURENCE*: massat_guiraud_chaumeil_laurence[text]\n- *CANZIAN NICOLAS*: canzian_nicolas[text]\n- *DANEN MARIE-CLAIRE*: danen_marie_claire[text]\n- *CROQUETTE MARTINE*: croquette_martine[text]\n- *VELASCO SANDY*: velasco_sandy[text]\n- *MARCIREAU PATRICK*: marcireau_patrick[text]\n- *MOURGUES SANDRA*: mourgues_sandra[text]\n- *BAZOUIN SABRINA*: bazouin_sabrina[text]\n- *DIEBOLD STEPHANE*: diebold_stephane[text]\n- *DURRIEU MONIQUE*: durrieu_monique[text]\n- *GOUGEON CEDRIC*: gougeon_cedric[text]\n- *DUPIN THIERRY*: dupin_thierry[text]\n- *MATTEI PHILIPPE*: mattei_philippe[text]\n- *GARAY HEGOA*: garay_hegoa[text]\n- *GODEC REGIS*: godec_regis[text]\n- *SERP BERTRAND*: serp_bertrand[text]\n- *BENAYOUN-NAKACHE YVETTE*: benayoun_nakache_yvette[text]\n- *TRILLOU ALEXANDRE*: trillou_alexandre[text]\n- *VEYSSEYRE DAVID*: veysseyre_david[text]\n- *MARTINEL MARTINE*: martinel_martine[text]\n- *DURAND RAPHAEL*: durand_raphael[text]\n- *BURAS THEO*: buras_theo[text]\n- *BORGEL CHRISTOPHE*: borgel_christophe[text]\n- *BARES JEAN-MARC*: bares_jean_marc[text]\n- *CROUSIER ARNIELLA CLAIRE*: crousier_arniella_claire[text]\n- *POUCHELON ELISABETH*: pouchelon_elisabeth[text]\n- *ARRIGHI CHRISTINE*: arrighi_christine[text]\n- *ROCKSTROH-ROSSO MARIE-PIERRE*: rockstroh_rosso_marie_pierre[text]\n- *BRISSET PATRICK*: brisset_patrick[text]\n- *COTELLE THIERRY*: cotelle_thierry[text]\n- *MARTIN HENRI*: martin_henri[text]\n- *SLIMANE ZOHRA*: slimane_zohra[text]\n- *GAUTIER ERIC*: gautier_eric[text]\n- *empty*: empty[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "7f3e4a80-7bd6-4c9b-8b2c-3b6008060229",
+      "last_modified": "2014-12-16T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7f3e4a80-7bd6-4c9b-8b2c-3b6008060229",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:19:12.764000",
+      "title": "Export au format CSV",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/elections-legislatives-2012-1er-et-2eme-tours-a-toulouse/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:19:12.764000",
+      "description": "- *CIRCONSCRIPTION*: circonscription[double]\n- *CANTON*: canton[double]\n- *BUREAUX*: bureaux[text]\n- *INSCRITS*: inscrits[double]\n- *EMARGEMENT*: emargement[double]\n- *VOTANTS*: votants[double]\n- *NULS*: nuls[double]\n- *EXPRIMES*: exprimes[double]\n- *LACAZE PIERRE                                  *: lacaze_pierre[double]\n- *COLOMBO HENRI-PIERRE*: colombo_henri_pierre[double]\n- *CHAUDOREILLE MARIE-COLETTE*: chaudoreille_marie_colette[double]\n- *BOLZAN JEAN-JACQUES*: bolzan_jean_jacques[double]\n- *BAUD ROBERT*: baud_robert[double]\n- *BRIAND SACHA*: briand_sacha[double]\n- *PORCEDDU HELENE*: porceddu_helene[double]\n- *SERTILLANGE JEAN-PIERRE*: sertillange_jean_pierre[double]\n- *SERVEILLE PIERRE*: serveille_pierre[double]\n- *PEZIZIN PIERRE*: pezizin_pierre[double]\n- *CASSAGNE MARIE-PIERRE*: cassagne_marie_pierre[double]\n- *GARNIER AUDE*: garnier_aude[double]\n- *ROUJA ANTHONY*: rouja_anthony[double]\n- *LEMORTON CATHERINE*: lemorton_catherine[double]\n- *PICHON BETTINA*: pichon_bettina[double]\n- *SCHWAL BERNARD*: schwal_bernard[double]\n- *AMOROSA MICHEL*: amorosa_michel[double]\n- *ESCUDIE JACQUELINE*: escudie_jacqueline[text]\n- *GALLEGO ANDRE*: gallego_andre[text]\n- *BONLEUX NICOLAS*: bonleux_nicolas[text]\n- *CAVIN SEVERINE*: cavin_severine[text]\n- *LE BIHAN PATRICK*: le_bihan_patrick[text]\n- *BAPT GERARD*: bapt_gerard[text]\n- *LASERGE MICHEL*: laserge_michel[text]\n- *MARZIANI CHARLES*: marziani_charles[text]\n- *PEGUIN CECILE*: peguin_cecile[text]\n- *MICHAVILA JEAN-CLAUDE*: michavila_jean_claude[text]\n- *THOMAS JEAN-LOUIS*: thomas_jean_louis[text]\n- *ALAMICHEL JEAN*: alamichel_jean[text]\n- *ISLA RAPHAEL*: isla_raphael[text]\n- *FONTUGNE FANNY*: fontugne_fanny[text]\n- *AUGE JOSETTE*: auge_josette[text]\n- *TORREMOCHA SANDRA*: torremocha_sandra[text]\n- *COUDERETTE THOMAS*: couderette_thomas[text]\n- *CREVELLE MONIQUE*: crevelle_monique[text]\n- *SATGER CLEMENT*: satger_clement[text]\n- *FABRE CAROLE*: fabre_carole[text]\n- *FILLOLA ALAIN*: fillola_alain[text]\n- *MOUDENC JEAN-LUC*: moudenc_jean_luc[text]\n- *CABIOCH SANDRINE*: cabioch_sandrine[text]\n- *SIMON FRANCOIS*: simon_francois[text]\n- *MASSAT GUIRAUD-CHAUMEIL LAURENCE*: massat_guiraud_chaumeil_laurence[text]\n- *CANZIAN NICOLAS*: canzian_nicolas[text]\n- *DANEN MARIE-CLAIRE*: danen_marie_claire[text]\n- *CROQUETTE MARTINE*: croquette_martine[text]\n- *VELASCO SANDY*: velasco_sandy[text]\n- *MARCIREAU PATRICK*: marcireau_patrick[text]\n- *MOURGUES SANDRA*: mourgues_sandra[text]\n- *BAZOUIN SABRINA*: bazouin_sabrina[text]\n- *DIEBOLD STEPHANE*: diebold_stephane[text]\n- *DURRIEU MONIQUE*: durrieu_monique[text]\n- *GOUGEON CEDRIC*: gougeon_cedric[text]\n- *DUPIN THIERRY*: dupin_thierry[text]\n- *MATTEI PHILIPPE*: mattei_philippe[text]\n- *GARAY HEGOA*: garay_hegoa[text]\n- *GODEC REGIS*: godec_regis[text]\n- *SERP BERTRAND*: serp_bertrand[text]\n- *BENAYOUN-NAKACHE YVETTE*: benayoun_nakache_yvette[text]\n- *TRILLOU ALEXANDRE*: trillou_alexandre[text]\n- *VEYSSEYRE DAVID*: veysseyre_david[text]\n- *MARTINEL MARTINE*: martinel_martine[text]\n- *DURAND RAPHAEL*: durand_raphael[text]\n- *BURAS THEO*: buras_theo[text]\n- *BORGEL CHRISTOPHE*: borgel_christophe[text]\n- *BARES JEAN-MARC*: bares_jean_marc[text]\n- *CROUSIER ARNIELLA CLAIRE*: crousier_arniella_claire[text]\n- *POUCHELON ELISABETH*: pouchelon_elisabeth[text]\n- *ARRIGHI CHRISTINE*: arrighi_christine[text]\n- *ROCKSTROH-ROSSO MARIE-PIERRE*: rockstroh_rosso_marie_pierre[text]\n- *BRISSET PATRICK*: brisset_patrick[text]\n- *COTELLE THIERRY*: cotelle_thierry[text]\n- *MARTIN HENRI*: martin_henri[text]\n- *SLIMANE ZOHRA*: slimane_zohra[text]\n- *GAUTIER ERIC*: gautier_eric[text]\n- *empty*: empty[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "56148db3-dd45-4858-9452-062681461816",
+      "last_modified": "2014-12-16T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/56148db3-dd45-4858-9452-062681461816",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:19:12.764000",
+      "title": "Export au format JSON",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/elections-legislatives-2012-1er-et-2eme-tours-a-toulouse/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "elections-legislatives-2012-1er-tour-ville-de-toulouse-resultats",
+  "spatial": null,
+  "tags": [
+    "1er",
+    "2012",
+    "citoyennete",
+    "elections",
+    "legislatives",
+    "premier",
+    "tour"
+  ],
+  "temporal_coverage": null,
+  "title": "Elections l\u00e9gislatives 2012 - 1er tour - Ville de Toulouse (R\u00e9sultats)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/elections-legislatives-2012-1er-tour-ville-de-toulouse-resultats/"
+}

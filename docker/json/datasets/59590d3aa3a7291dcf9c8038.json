@@ -1,0 +1,104 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T17:11:54.328000",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es reprend la pr\u00e9sence des conseillers au Conseil de Paris sur l'ann\u00e9e 2014\n\n  * RI correspond \u00e0\u00a0R\u00e8glement Int\u00e9rieur",
+  "extras": {
+    "harvest:domain": "opendata.paris.fr",
+    "harvest:last_update": "2017-11-27T05:11:06.941136",
+    "harvest:remote_id": "emargement-municipal",
+    "harvest:source_id": "5631ef2988ee3837ce531585",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.paris.fr/explore/dataset/emargement-municipal/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59590d3aa3a7291dcf9c8038",
+  "last_modified": "2017-11-27T05:11:06.944000",
+  "last_update": "2017-11-27T05:11:06.939000",
+  "license": "odc-odbl",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff89a3a7292c64a77eb7",
+    "logo": "https://www.data.gouv.fr/s/avatars/b2/0e83ec3699415a87640e97c51cb006-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b2/0e83ec3699415a87640e97c51cb006-100.png",
+    "name": "Mairie de Paris",
+    "page": "https://www.data.gouv.fr/fr/organizations/mairie-de-paris/",
+    "slug": "mairie-de-paris",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/mairie-de-paris/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/emargement-des-presences-au-conseil-de-paris/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:11:06.939000",
+      "description": "- *Elus*: elus[text]\n- *Session*: session[text]\n- *Etat*: etat[text]\n- *Nombre de demijourn\u00e9es excus\u00e9es*: nombre_de_demijournees_excusees[int]\n- *Nombre de demijourn\u00e9es RI*: nombre_de_demijournees_ri[text]\n- *Nombre de demijourn\u00e9es absent*: nombre_de_demijournees_absent[int]\n- *Ann\u00e9e*: annee[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "4594895a-7612-4df7-aec6-183a4643a92b",
+      "last_modified": "2015-03-23T10:30:23",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4594895a-7612-4df7-aec6-183a4643a92b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:11:06.939000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.paris.fr/explore/dataset/emargement-municipal/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:11:06.939000",
+      "description": "- *Elus*: elus[text]\n- *Session*: session[text]\n- *Etat*: etat[text]\n- *Nombre de demijourn\u00e9es excus\u00e9es*: nombre_de_demijournees_excusees[int]\n- *Nombre de demijourn\u00e9es RI*: nombre_de_demijournees_ri[text]\n- *Nombre de demijourn\u00e9es absent*: nombre_de_demijournees_absent[int]\n- *Ann\u00e9e*: annee[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "755a1571-1b39-441d-a550-4699b89ef4b7",
+      "last_modified": "2015-03-23T10:30:23",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/755a1571-1b39-441d-a550-4699b89ef4b7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:11:06.939000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.paris.fr/explore/dataset/emargement-municipal/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "emargement-des-presences-au-conseil-de-paris",
+  "spatial": null,
+  "tags": [
+    "citoyennete",
+    "conseil",
+    "conseil-de-paris",
+    "conseillers",
+    "departement",
+    "departemental",
+    "municipal"
+  ],
+  "temporal_coverage": null,
+  "title": "Emargement des Pr\u00e9sences au Conseil de Paris",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/emargement-des-presences-au-conseil-de-paris/"
+}

@@ -1,0 +1,155 @@
+{
+  "badges": [],
+  "created_at": "2015-10-19T10:49:14.337000",
+  "deleted": null,
+  "description": "**RCS - Liste des entreprises radi\u00e9es en 2015**\n\n* * *\n\nListe des soci\u00e9t\u00e9s commerciales\u00a0radi\u00e9es du\u00a0registre du commerce et des soci\u00e9t\u00e9s en 2015.",
+  "extras": {
+    "harvest:domain": "datainfogreffe.fr",
+    "harvest:last_update": "2017-11-27T05:15:09.756719",
+    "harvest:remote_id": "entreprises-radiees-2015",
+    "harvest:source_id": "5624ae7d88ee383db537dfca",
+    "ods:has_records": true,
+    "ods:references": "Radiations, Registre du commerce et des soci\u00e9t\u00e9s",
+    "ods:url": "https://datainfogreffe.fr//explore/dataset/entreprises-radiees-2015/"
+  },
+  "frequency": "unknown",
+  "frequency_date": "2016-10-19T12:24:51",
+  "id": "5624ae8aa3a72922e5a9a7fd",
+  "last_modified": "2017-11-27T05:15:09.758000",
+  "last_update": "2017-11-27T05:15:09.756000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 4,
+    "views": 57
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5620c13fc751df08e3cdbb48",
+    "logo": "https://www.data.gouv.fr/s/avatars/46/ccf8461acc41bfad4be5d5bc6a9767-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/46/ccf8461acc41bfad4be5d5bc6a9767-100.jpg",
+    "name": "Infogreffe ",
+    "page": "https://www.data.gouv.fr/fr/organizations/infogreffe/",
+    "slug": "infogreffe",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/infogreffe/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/entreprises-radiees-en-2015/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:15:09.755000",
+      "description": "- *D\u00e9nomination*: denomination[text]\n- *Siren*: siren[int]\n- *Forme Juridique*: forme_juridique[text]\n- *Code activit\u00e9 (APE)*: code_ape[text]\n- *Secteur d'activit\u00e9*: libelle[text]\n- *Adresse*: adresse[text]\n- *Code postal*: code_postal[text]\n- *Ville*: ville[text]\n- *R\u00e9gion*: region[text]\n- *jour*: jour[int]\n- *mois*: mois[int]\n- *annee*: annee[text]\n- *Greffe*: greffe[text]\n- *Date de radiation*: date[date]\n- *Fiche entreprise*: fiche_identite[text]\n- *Forme Juridique Code*: forme_juridique_code[text]\n- *D\u00e9partement*: departement[text]\n- *G\u00e9olocalisation*: geolocalisation[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e81d3786-aa7a-4404-a946-a87f49708c5b",
+      "last_modified": "2015-12-15T06:10:24",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e81d3786-aa7a-4404-a946-a87f49708c5b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:15:09.755000",
+      "title": "Export au format CSV",
+      "url": "https://datainfogreffe.fr//explore/dataset/entreprises-radiees-2015/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:15:09.755000",
+      "description": "- *D\u00e9nomination*: denomination[text]\n- *Siren*: siren[int]\n- *Forme Juridique*: forme_juridique[text]\n- *Code activit\u00e9 (APE)*: code_ape[text]\n- *Secteur d'activit\u00e9*: libelle[text]\n- *Adresse*: adresse[text]\n- *Code postal*: code_postal[text]\n- *Ville*: ville[text]\n- *R\u00e9gion*: region[text]\n- *jour*: jour[int]\n- *mois*: mois[int]\n- *annee*: annee[text]\n- *Greffe*: greffe[text]\n- *Date de radiation*: date[date]\n- *Fiche entreprise*: fiche_identite[text]\n- *Forme Juridique Code*: forme_juridique_code[text]\n- *D\u00e9partement*: departement[text]\n- *G\u00e9olocalisation*: geolocalisation[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "56e4cdb1-2733-400f-935f-7069ae829a72",
+      "last_modified": "2015-12-15T06:10:24",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/56e4cdb1-2733-400f-935f-7069ae829a72",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:15:09.755000",
+      "title": "Export au format JSON",
+      "url": "https://datainfogreffe.fr//explore/dataset/entreprises-radiees-2015/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:15:09.755000",
+      "description": "- *D\u00e9nomination*: denomination[text]\n- *Siren*: siren[int]\n- *Forme Juridique*: forme_juridique[text]\n- *Code activit\u00e9 (APE)*: code_ape[text]\n- *Secteur d'activit\u00e9*: libelle[text]\n- *Adresse*: adresse[text]\n- *Code postal*: code_postal[text]\n- *Ville*: ville[text]\n- *R\u00e9gion*: region[text]\n- *jour*: jour[int]\n- *mois*: mois[int]\n- *annee*: annee[text]\n- *Greffe*: greffe[text]\n- *Date de radiation*: date[date]\n- *Fiche entreprise*: fiche_identite[text]\n- *Forme Juridique Code*: forme_juridique_code[text]\n- *D\u00e9partement*: departement[text]\n- *G\u00e9olocalisation*: geolocalisation[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "720eb9c2-9796-4cef-96f2-46b0f81d99af",
+      "last_modified": "2015-12-15T06:10:24",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/720eb9c2-9796-4cef-96f2-46b0f81d99af",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:15:09.755000",
+      "title": "Export au format GeoJSON",
+      "url": "https://datainfogreffe.fr//explore/dataset/entreprises-radiees-2015/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:15:09.756000",
+      "description": "- *D\u00e9nomination*: denomination[text]\n- *Siren*: siren[int]\n- *Forme Juridique*: forme_juridique[text]\n- *Code activit\u00e9 (APE)*: code_ape[text]\n- *Secteur d'activit\u00e9*: libelle[text]\n- *Adresse*: adresse[text]\n- *Code postal*: code_postal[text]\n- *Ville*: ville[text]\n- *R\u00e9gion*: region[text]\n- *jour*: jour[int]\n- *mois*: mois[int]\n- *annee*: annee[text]\n- *Greffe*: greffe[text]\n- *Date de radiation*: date[date]\n- *Fiche entreprise*: fiche_identite[text]\n- *Forme Juridique Code*: forme_juridique_code[text]\n- *D\u00e9partement*: departement[text]\n- *G\u00e9olocalisation*: geolocalisation[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "18e3fbab-0e2b-4343-991f-c75658942e6b",
+      "last_modified": "2015-12-15T06:10:24",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/18e3fbab-0e2b-4343-991f-c75658942e6b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:15:09.756000",
+      "title": "Export au format Shapefile",
+      "url": "https://datainfogreffe.fr//explore/dataset/entreprises-radiees-2015/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "entreprises-radiees-en-2015",
+  "spatial": {
+    "geom": null,
+    "granularity": "poi",
+    "zones": [
+      "country:fr"
+    ]
+  },
+  "tags": [
+    "entreprises",
+    "radiations",
+    "societes"
+  ],
+  "temporal_coverage": {
+    "end": "2015-08-31",
+    "start": "2015-01-01"
+  },
+  "title": "Entreprises radi\u00e9es en 2015",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/entreprises-radiees-en-2015/"
+}

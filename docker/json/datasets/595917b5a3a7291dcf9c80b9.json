@@ -1,0 +1,168 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T17:56:37.615000",
+  "deleted": null,
+  "description": "Ce fichier pr\u00e9sente la liste des communes class\u00e9es comme d\u00e9ficitaires ou fragilis\u00e9es au titre de la d\u00e9mographie m\u00e9dicale, selon le zonage \u00e9tabli par l'ARS.\n\nD\u00e9finition du zonage \u00e0 partir des donn\u00e9es d\u00e9mographiques de la population francilienne (INSEE 2008) et des professionnels de sant\u00e9 (effectifs lib\u00e9raux).\n\nPopulation : donn\u00e9es 2008\n\nEffectifs lib\u00e9raux : donn\u00e9es 2010",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T06:16:12.432522",
+    "harvest:remote_id": "zones-eligibles-au-contrat-regional-dexercice-sanitaire",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:references": "http://www.ars-iledefrance.fr/annuaire_communes/php/",
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/zones-eligibles-au-contrat-regional-dexercice-sanitaire/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "595917b5a3a7291dcf9c80b9",
+  "last_modified": "2017-11-27T06:16:12.434000",
+  "last_update": "2017-11-27T06:16:12.431000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/zones-eligibles-au-contrat-regional-dexercice-sanitaire/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:16:12.431000",
+      "description": "- * D\u00e9partement*: dep[int]\n- *Code commune INSEE*: code_commune_insee[int]\n- *Code Postal*: cp[int]\n- *Commune (libell\u00e9)*: commune_libelle[text]\n- *Population municipale 2009*: population_municipale_2009[text]\n- *Libelle territoire Zonage SROS 2012*: libelle_territoire_zonage_sros_2012[text]\n- *Zonage SROS 2012*: zonage_sros_2012[text]\n- *wgs84*: wgs84[geo_point_2d]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T22:13:04.235000",
+        "check:status": 200,
+        "check:url": "https://data.iledefrance.fr//explore/dataset/zones-eligibles-au-contrat-regional-dexercice-sanitaire/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "979af53a-c12e-4d17-8b90-9ff6b00a1721",
+      "last_modified": "2014-03-19T08:54:33",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/979af53a-c12e-4d17-8b90-9ff6b00a1721",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T06:16:12.431000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/zones-eligibles-au-contrat-regional-dexercice-sanitaire/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:16:12.431000",
+      "description": "- * D\u00e9partement*: dep[int]\n- *Code commune INSEE*: code_commune_insee[int]\n- *Code Postal*: cp[int]\n- *Commune (libell\u00e9)*: commune_libelle[text]\n- *Population municipale 2009*: population_municipale_2009[text]\n- *Libelle territoire Zonage SROS 2012*: libelle_territoire_zonage_sros_2012[text]\n- *Zonage SROS 2012*: zonage_sros_2012[text]\n- *wgs84*: wgs84[geo_point_2d]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T04:58:03.566000",
+        "check:status": 200,
+        "check:url": "https://data.iledefrance.fr//explore/dataset/zones-eligibles-au-contrat-regional-dexercice-sanitaire/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "96854fc9-e895-47bc-b1c8-1a1daeecd81f",
+      "last_modified": "2014-03-19T08:54:33",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/96854fc9-e895-47bc-b1c8-1a1daeecd81f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T06:16:12.431000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/zones-eligibles-au-contrat-regional-dexercice-sanitaire/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:16:12.431000",
+      "description": "- * D\u00e9partement*: dep[int]\n- *Code commune INSEE*: code_commune_insee[int]\n- *Code Postal*: cp[int]\n- *Commune (libell\u00e9)*: commune_libelle[text]\n- *Population municipale 2009*: population_municipale_2009[text]\n- *Libelle territoire Zonage SROS 2012*: libelle_territoire_zonage_sros_2012[text]\n- *Zonage SROS 2012*: zonage_sros_2012[text]\n- *wgs84*: wgs84[geo_point_2d]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T04:58:07.240000",
+        "check:status": 200,
+        "check:url": "https://data.iledefrance.fr//explore/dataset/zones-eligibles-au-contrat-regional-dexercice-sanitaire/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "0305850c-9551-4ff0-9a75-3553323d55d3",
+      "last_modified": "2014-03-19T08:54:33",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0305850c-9551-4ff0-9a75-3553323d55d3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T06:16:12.431000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/zones-eligibles-au-contrat-regional-dexercice-sanitaire/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:16:12.431000",
+      "description": "- * D\u00e9partement*: dep[int]\n- *Code commune INSEE*: code_commune_insee[int]\n- *Code Postal*: cp[int]\n- *Commune (libell\u00e9)*: commune_libelle[text]\n- *Population municipale 2009*: population_municipale_2009[text]\n- *Libelle territoire Zonage SROS 2012*: libelle_territoire_zonage_sros_2012[text]\n- *Zonage SROS 2012*: zonage_sros_2012[text]\n- *wgs84*: wgs84[geo_point_2d]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T22:13:12.165000",
+        "check:status": 200,
+        "check:url": "https://data.iledefrance.fr//explore/dataset/zones-eligibles-au-contrat-regional-dexercice-sanitaire/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "998f7578-93e9-4671-9855-2c5b255c5a04",
+      "last_modified": "2014-03-19T08:54:33",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/998f7578-93e9-4671-9855-2c5b255c5a04",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T06:16:12.431000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.iledefrance.fr//explore/dataset/zones-eligibles-au-contrat-regional-dexercice-sanitaire/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "zones-eligibles-au-contrat-regional-dexercice-sanitaire",
+  "spatial": null,
+  "tags": [
+    "cres",
+    "geolocalisation",
+    "logement-sante-social",
+    "medecin",
+    "offre-de-soins",
+    "sante"
+  ],
+  "temporal_coverage": null,
+  "title": "Zones \u00e9ligibles au Contrat R\u00e9gional d'Exercice Sanitaire",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/zones-eligibles-au-contrat-regional-dexercice-sanitaire/"
+}

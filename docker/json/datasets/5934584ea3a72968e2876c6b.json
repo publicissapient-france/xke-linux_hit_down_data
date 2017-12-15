@@ -1,0 +1,292 @@
+{
+  "badges": [],
+  "created_at": "2017-02-09T00:00:00",
+  "deleted": null,
+  "description": "Le produit Base Permanente des Equipements r\u00e9sulte de l'utilisation de plusieurs sources.\nSelon l'\u00e9quipement ou le service concern\u00e9, l'INSEE utilise pour connaitre la pr\u00e9sence ou pas de cet \u00e9quipement la source la plus pertinente.\nLes sources de l'information sont principalement les r\u00e9pertoires SIRENE (INSEE), RAMSESE (Minist\u00e8re de l'\u00e9ducation nationale), FINESS (Minist\u00e8re de la sant\u00e9), ADELI (Minist\u00e8re de \nla sant\u00e9) ainsi que les bases d'enqu\u00eates Camping et H\u00f4tel de l'INSEE et des sources de la gendarmerie nationale.\nLorsqu'il s'agit d'un taux il s'agit du nombre de commerces pour 1000 habitants suivant la formule :1000 * nb_equip / pop<br>nb_equip : nombre d'\u00e9quipements<br>pop : population",
+  "extras": {
+    "ckan:name": "nombre-dequipements-de-type-commerce-en-gironde1",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+    "guid": "https://datacat.datalocale.fr/440461",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-11-27T05:23:45.668135",
+    "harvest:remote_id": "8e2c864b-8359-4035-a596-1bd0084aa67b",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "issued": "2016-07-28T10:08:57.691149+00:00",
+    "modified": "2016-07-28T10:08:57.691149+00:00",
+    "publisher_name": "INSEE",
+    "publisher_type": "\"Administration nationale\"",
+    "publisher_uri": "https://datacat.datalocale.fr/416204",
+    "remote_url": "http://www.insee.fr/fr/themes/detail.asp?reg_id=99&ref_id=fd-bpe2012&page=fichiers_detail/bpe2012/telechargement.htm",
+    "uri": "https://datacat.datalocale.fr/440461"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5934584ea3a72968e2876c6b",
+  "last_modified": "2017-11-27T05:23:45.670000",
+  "last_update": "2017-10-14T06:06:09.152000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": null,
+  "owner": {
+    "avatar": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-original.jpg",
+    "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-100.jpg",
+    "class": "User",
+    "first_name": "Ressourcerie",
+    "id": "534fff47a3a7292c64a77adc",
+    "last_name": "datalocale",
+    "page": "https://www.data.gouv.fr/fr/users/ressourcerie-datalocale/",
+    "slug": "ressourcerie-datalocale",
+    "uri": "https://www.data.gouv.fr/api/1/users/ressourcerie-datalocale/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/nombre-dequipements-de-type-commerce-en-gironde1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:58:22.124000",
+      "description": "export en csv encod\u00e9 en UTF-8",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-30T11:56:10.555000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/440462/raw/equipementsCommerceCommune.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "df6abfa5-46d4-45f8-94f2-4c2e5ced88fb",
+      "last_modified": "2017-06-06T16:40:52.012000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/df6abfa5-46d4-45f8-94f2-4c2e5ced88fb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:58:22.124000",
+      "title": "equipementsCommerceCommune.csv",
+      "url": "https://datacat.datalocale.fr/file/440462/raw/equipementsCommerceCommune.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:46:50.098000",
+      "description": "export en csv encod\u00e9 en UTF-8",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-30T11:56:15.617000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/440462/raw/equipementsCommerceCommune.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "21099e6c-2a6b-4045-aae3-93eb1d9c9d17",
+      "last_modified": "2017-07-07T06:09:00.691000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/21099e6c-2a6b-4045-aae3-93eb1d9c9d17",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T18:46:50.098000",
+      "title": "equipementsCommerceCommune.csv",
+      "url": "https://datacat.datalocale.fr/file/440462/raw/equipementsCommerceCommune.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:05:47.314000",
+      "description": "export en csv encod\u00e9 en UTF-8",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-30T11:56:15.617000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/440462/raw/equipementsCommerceCommune.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "be91a277-781d-48fe-8c1d-8f89c4e6f8dd",
+      "last_modified": "2017-08-10T06:06:21.635000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/be91a277-781d-48fe-8c1d-8f89c4e6f8dd",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-08T07:05:47.314000",
+      "title": "equipementsCommerceCommune.csv",
+      "url": "https://datacat.datalocale.fr/file/440462/raw/equipementsCommerceCommune.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-11T06:06:56.286000",
+      "description": "export en csv encod\u00e9 en UTF-8",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-30T11:56:13.008000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/440462/raw/equipementsCommerceCommune.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "80febf8b-873c-41ae-9626-6c37d9055479",
+      "last_modified": "2017-08-17T06:03:13.787000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/80febf8b-873c-41ae-9626-6c37d9055479",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-11T06:06:56.286000",
+      "title": "equipementsCommerceCommune.csv",
+      "url": "https://datacat.datalocale.fr/file/440462/raw/equipementsCommerceCommune.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-18T06:09:40.396000",
+      "description": "export en csv encod\u00e9 en UTF-8",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-30T11:56:05.988000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/440462/raw/equipementsCommerceCommune.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "af4bffcc-9c52-4ea1-8c63-f8699686eef7",
+      "last_modified": "2017-08-24T06:06:00.901000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/af4bffcc-9c52-4ea1-8c63-f8699686eef7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-18T06:09:40.396000",
+      "title": "equipementsCommerceCommune.csv",
+      "url": "https://datacat.datalocale.fr/file/440462/raw/equipementsCommerceCommune.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-25T06:05:42.221000",
+      "description": "export en csv encod\u00e9 en UTF-8",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-16T21:19:21.065000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/440462/raw/equipementsCommerceCommune.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "0bd07766-7c6b-433d-97a4-0ff1c769500e",
+      "last_modified": "2017-09-11T06:16:20.091000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0bd07766-7c6b-433d-97a4-0ff1c769500e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-25T06:05:42.221000",
+      "title": "equipementsCommerceCommune.csv",
+      "url": "https://datacat.datalocale.fr/file/440462/raw/equipementsCommerceCommune.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:48:20.541000",
+      "description": "export en csv encod\u00e9 en UTF-8",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ea959d12-85ce-4022-bf37-b4f3fc5f2562",
+      "last_modified": "2017-09-29T07:51:35.856000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ea959d12-85ce-4022-bf37-b4f3fc5f2562",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:48:20.541000",
+      "title": "equipementsCommerceCommune.csv",
+      "url": "https://datacat.datalocale.fr/file/440462/raw/equipementsCommerceCommune.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:18:17.216000",
+      "description": "export en csv encod\u00e9 en UTF-8",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a1b19884-ad55-4a06-b89e-8ba019a6f599",
+      "last_modified": "2017-10-05T06:17:15.894000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a1b19884-ad55-4a06-b89e-8ba019a6f599",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-30T06:18:17.216000",
+      "title": "equipementsCommerceCommune.csv",
+      "url": "https://datacat.datalocale.fr/file/440462/raw/equipementsCommerceCommune.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:06:09.152000",
+      "description": "export en csv encod\u00e9 en UTF-8",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "6d0bb075-1c06-4efa-8881-149a02c9e1e7",
+      "last_modified": "2017-11-27T05:23:45.667000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6d0bb075-1c06-4efa-8881-149a02c9e1e7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-14T06:06:09.152000",
+      "title": "equipementsCommerceCommune.csv",
+      "url": "https://datacat.datalocale.fr/distribution/440463/raw/equipementsCommerceCommune.csv"
+    }
+  ],
+  "slug": "nombre-dequipements-de-type-commerce-en-gironde1",
+  "spatial": null,
+  "tags": [
+    "commerce",
+    "equipements",
+    "erp"
+  ],
+  "temporal_coverage": null,
+  "title": "nombre d'\u00e9quipements de type commerce en Gironde",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/nombre-dequipements-de-type-commerce-en-gironde1/"
+}

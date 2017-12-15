@@ -1,0 +1,89 @@
+{
+  "badges": [],
+  "created_at": "2014-09-04T07:56:41.518000",
+  "deleted": null,
+  "description": "Donn\u00e9es de fr\u00e9quentation de l'Office du Tourisme de Saint-Malo, ERP communal.\r\n\r\nLe fichier collecte depuis 1998 les donn\u00e9es mensuelles du compteur de passages install\u00e9 dans l'Office.",
+  "extras": {
+    "datagouv_ckan_id": "7bda9731-94ca-49d4-aed0-43a891eb1af4",
+    "datagouv_ckan_last_sync": "2014-09-16T09:12:19.484000"
+  },
+  "frequency": "annual",
+  "frequency_date": null,
+  "id": "540917e1a3a72959e0628f93",
+  "last_modified": "2016-02-20T09:35:12.714000",
+  "last_update": "2014-09-05T03:54:41.353000",
+  "license": "fr-lo",
+  "metrics": {
+    "cow_criticals": 0,
+    "cow_errors": 1,
+    "cow_score": 2.183300629588953,
+    "cow_warnings": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 10
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "53ba4599a3a729219b7beaca",
+    "logo": "https://www.data.gouv.fr/s/avatars/71/d80c263317463ca8050811b5b22be6-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/71/d80c263317463ca8050811b5b22be6-100.png",
+    "name": "Ville de Saint-Malo",
+    "page": "https://www.data.gouv.fr/fr/organizations/ville-de-saint-malo/",
+    "slug": "ville-de-saint-malo",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ville-de-saint-malo/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/frequentation-de-l-office-du-tourisme/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "53508b483b80ba1f5e8fa42497af594a4fc8c065"
+      },
+      "created_at": "2014-09-05T03:54:41.353000",
+      "description": "Donn\u00e9es du compteur de passages, depuis 1998",
+      "extras": {},
+      "filesize": 1777,
+      "filetype": "file",
+      "format": "csv",
+      "id": "4a869e60-dd84-4fcc-8a7d-5b66bb8df2c6",
+      "last_modified": "2015-02-03T10:27:24.244000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4a869e60-dd84-4fcc-8a7d-5b66bb8df2c6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 22
+      },
+      "mime": "text/csv",
+      "published": "2014-09-05T03:54:41.353000",
+      "title": "Fr\u00e9quentation mensuelle de l'Office du Tourisme",
+      "url": "https://www.data.gouv.fr/s/resources/frequentation-de-l-office-du-tourisme/community/20150203-102701/35288-STMALO-Frequentation_Office_du_Tourisme.csv"
+    }
+  ],
+  "slug": "frequentation-de-l-office-du-tourisme",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:commune",
+    "zones": [
+      "fr:commune:35288@1942-01-01"
+    ]
+  },
+  "tags": [
+    "erp",
+    "tourisme"
+  ],
+  "temporal_coverage": {
+    "end": "2014-12-31",
+    "start": "1998-01-01"
+  },
+  "title": "Fr\u00e9quentation de l'Office du Tourisme",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/frequentation-de-l-office-du-tourisme/"
+}

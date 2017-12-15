@@ -1,0 +1,83 @@
+{
+  "badges": [],
+  "created_at": "2015-03-30T11:14:08.925000",
+  "deleted": null,
+  "description": "**Description**\n\nIl s'agit du nombre d'actions \u00e9ducatives \u00e0 domicile en cours aupr\u00e8s d'enfants dans le cadre de l'Aide Sociale \u00e0 l'Enfance reparti par commune en Seine-Saint-Denis. Il s'agit d'interventions sociales \u00e0 domicile faites avec l'accord de la famille en dehors de tout cadre judiciaire.\n\n**Sources** \n\nD\u00e9partement de la Seine-Saint-Denis - IODAS\n\n**Origine de la donn\u00e9e - Producteur** \n\nFlux manuel\n\n**Liste des colonnes**\n\n- N\u00b0 de d\u00e9partement : N\u00b0 de d\u00e9partement\n- Code commune INSEE : Code commune INSEE\n- Nom commune : Nom commune\n- Nb d'aides 2009 : Nombre d'actions \u00e9ducative \u00e0 domicile en 2009\n- Nb d'aides 2010 : Nombre d'actions \u00e9ducative \u00e0 domicile en 2010\n- Nb d'aides 2011 : Nombre d'actions \u00e9ducative \u00e0 domicile en 2011\n- Nb d'aides 2012 : Nombre d'actions \u00e9ducative \u00e0 domicile en 2012\n- Nb d'aides 2013 : Nombre d'actions \u00e9ducative \u00e0 domicile en 2013\n\n**Format de diffusion**\n\nCes fichiers sont propos\u00e9s sous forme de :\n\n    fichiers csv (encodage ANSI)    \n    \n**Contact**\n\nPour toute question, ou signalement d'une am\u00e9lioration, vous pouvez nous contacter sur <a href=\"mailto:data93@cg93.fr\">data93@cg93.fr</a>\n\n**Liens**\n\n- Consulter la fiche sur le <a href=\"http://data.seine-saint-denis.fr/spip.php?article179\">portail Open Data de la Seine-Saint-Denis</a>\n\n\n\n\n\n\n\n",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": "2015-10-12T00:00:00",
+  "id": "551913e0c751df7db3057c91",
+  "last_modified": "2015-10-12T11:32:53.362000",
+  "last_update": "2015-03-30T11:15:01.174000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5457bc26c751df7378225d2e",
+    "logo": "https://www.data.gouv.fr/s/avatars/2014-11-03/1368537f4075452eb44393ea68b6bfdc/SeineSaintDenis-Logo-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-11-03/1368537f4075452eb44393ea68b6bfdc/SeineSaintDenis-Logo-100.png",
+    "name": "Seine-Saint-Denis - Le D\u00e9partement",
+    "page": "https://www.data.gouv.fr/fr/organizations/seine-saint-denis-le-departement/",
+    "slug": "seine-saint-denis-le-departement",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/seine-saint-denis-le-departement/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/nombre-dactions-educative-a-domicile-en-cours-par-commune/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "4c228db9dfc21b2fb892e5752b7843362c3c3746"
+      },
+      "created_at": "2015-03-30T11:15:01.174000",
+      "description": "",
+      "extras": {},
+      "filesize": 2373,
+      "filetype": "file",
+      "format": "csv",
+      "id": "347c1c28-8e60-496f-93ee-ba6ed7d241cc",
+      "last_modified": "2015-03-30T11:15:01.174000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/347c1c28-8e60-496f-93ee-ba6ed7d241cc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2015-03-30T11:15:01.174000",
+      "title": "Departement93-Protection_de_enfance_Aide_educative_a_domicile_Nombre_aides_en_cours-2009_2013.csv",
+      "url": "https://www.data.gouv.fr/s/resources/nombre-dactions-educative-a-domicile-en-cours-par-commune/20150330-111416/Departement93-Protection_de_enfance_Aide_educative_a_domicile_Nombre_aides_en_cours-2009_2013.csv"
+    }
+  ],
+  "slug": "nombre-dactions-educative-a-domicile-en-cours-par-commune",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:departement",
+    "zones": [
+      "fr:departement:93@1968-01-01"
+    ]
+  },
+  "tags": [
+    "aed",
+    "ase",
+    "protection-de-l-enfance"
+  ],
+  "temporal_coverage": {
+    "end": "2013-12-31",
+    "start": "2009-01-01"
+  },
+  "title": "Nombre d'actions \u00e9ducative \u00e0 domicile en cours par commune",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/nombre-dactions-educative-a-domicile-en-cours-par-commune/"
+}

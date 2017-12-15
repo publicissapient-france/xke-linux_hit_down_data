@@ -1,0 +1,101 @@
+{
+  "badges": [],
+  "created_at": "2016-10-21T19:59:38.418000",
+  "deleted": null,
+  "description": "Statistiques de fr\u00e9quentation individuelle, par groupe et globale des expositions du Mus\u00e9e des Beaux-Arts de Rennes depuis 1997.",
+  "extras": {
+    "harvest:domain": "data.rennesmetropole.fr",
+    "harvest:last_update": "2017-11-27T04:02:40.262597",
+    "harvest:remote_id": "statistiques-de-frequentation-des-expositions-du-musee-des-beaux-arts-de-rennes",
+    "harvest:source_id": "580736ec88ee3816625ff490",
+    "ods:has_records": true,
+    "ods:url": "https://data.rennesmetropole.fr/explore/dataset/statistiques-de-frequentation-des-expositions-du-musee-des-beaux-arts-de-rennes/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "580a578aa3a7292dcfa9d204",
+  "last_modified": "2017-11-27T04:02:40.264000",
+  "last_update": "2017-11-27T04:02:40.261000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "RM",
+    "class": "Organization",
+    "id": "580735be88ee3814295ff490",
+    "logo": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-100.png",
+    "name": "Rennes M\u00e9tropole en acc\u00e8s libre",
+    "page": "https://www.data.gouv.fr/fr/organizations/rennes-metropole-en-acces-libre-1/",
+    "slug": "rennes-metropole-en-acces-libre-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/rennes-metropole-en-acces-libre-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/statistiques-de-frequentation-des-expositions-du-musee-des-beaux-arts-de-rennes/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:02:40.260000",
+      "description": "- *TITRE DE L'EXPOSITION*: titre_de_l_exposition[text]\n- *Descriptif de l'exposition*: descriptif_de_l_exposition[text]\n- *DATE DE DEBUT*: date_de_debut[date]\n- *DATE DE FIN*: date_de_fin[date]\n- *Fr\u00e9quentation individuelle*: frequentation_individuelle[int]\n- *Fr\u00e9quentation groupes*: frequentation_groupes[int]\n- *Fr\u00e9quentation globale*: frequentation_globale[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "5508590c-300c-4d17-ba8a-7551d88222a2",
+      "last_modified": "2016-06-10T08:07:22",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5508590c-300c-4d17-ba8a-7551d88222a2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T04:02:40.260000",
+      "title": "Export au format CSV",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/statistiques-de-frequentation-des-expositions-du-musee-des-beaux-arts-de-rennes/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:02:40.261000",
+      "description": "- *TITRE DE L'EXPOSITION*: titre_de_l_exposition[text]\n- *Descriptif de l'exposition*: descriptif_de_l_exposition[text]\n- *DATE DE DEBUT*: date_de_debut[date]\n- *DATE DE FIN*: date_de_fin[date]\n- *Fr\u00e9quentation individuelle*: frequentation_individuelle[int]\n- *Fr\u00e9quentation groupes*: frequentation_groupes[int]\n- *Fr\u00e9quentation globale*: frequentation_globale[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "05ad18eb-468a-41d2-a73d-4931f88b2d78",
+      "last_modified": "2016-06-10T08:07:22",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/05ad18eb-468a-41d2-a73d-4931f88b2d78",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T04:02:40.261000",
+      "title": "Export au format JSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/statistiques-de-frequentation-des-expositions-du-musee-des-beaux-arts-de-rennes/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "statistiques-de-frequentation-des-expositions-du-musee-des-beaux-arts-de-rennes",
+  "spatial": null,
+  "tags": [
+    "culture",
+    "loisirs",
+    "sports"
+  ],
+  "temporal_coverage": null,
+  "title": "Statistiques de fr\u00e9quentation des expositions du Mus\u00e9e des Beaux-Arts de Rennes",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/statistiques-de-frequentation-des-expositions-du-musee-des-beaux-arts-de-rennes/"
+}

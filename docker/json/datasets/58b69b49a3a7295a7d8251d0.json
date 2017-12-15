@@ -1,0 +1,106 @@
+{
+  "badges": [],
+  "created_at": "2017-03-01T10:58:33.184000",
+  "deleted": null,
+  "description": "Nombre d'actifs occup\u00e9s, de salari\u00e9s et non salari\u00e9s dans les communes de la MEL.",
+  "extras": {
+    "harvest:domain": "opendata.lillemetropole.fr",
+    "harvest:last_update": "2017-11-27T05:28:10.933265",
+    "harvest:remote_id": "population-mel",
+    "harvest:source_id": "58b68fdcc751df10ea84f9cc",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.lillemetropole.fr//explore/dataset/population-mel/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "58b69b49a3a7295a7d8251d0",
+  "last_modified": "2017-11-27T05:28:10.936000",
+  "last_update": "2017-11-27T05:28:10.932000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "MEL",
+    "class": "Organization",
+    "id": "58b69c62c751df4b175dd7a4",
+    "logo": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-100.png",
+    "name": "M\u00e9tropole Europ\u00e9enne de Lille ",
+    "page": "https://www.data.gouv.fr/fr/organizations/metropole-europeenne-de-lille/",
+    "slug": "metropole-europeenne-de-lille",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/metropole-europeenne-de-lille/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/caracteristiques-de-lemploi-dans-les-communes-de-la-mel/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:28:10.931000",
+      "description": "- *Communes*: communes[text]\n- *Libell\u00e9 g\u00e9ographique*: libelle_geographique[text]\n- *Actifs occup\u00e9s 15 ans ou plus en 2013 (princ)*: actifs_occupes_15_ans_ou_plus_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus en 2013 (princ)*: salaries_15_ans_ou_plus_en_2013_princ[double]\n- *Non-salari\u00e9s 15 ans ou plus en 2013 (princ)*: non_salaries_15_ans_ou_plus_en_2013_princ[double]\n- *Actifs occ 15 ans ou plus TP en 2013 (princ)*: actifs_occ_15_ans_ou_plus_tp_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus TP en 2013 (princ)*: salaries_15_ans_ou_plus_tp_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus TP Hommes en 2013 (princ)*: salaries_15_ans_ou_plus_tp_hommes_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus TP Femmes en 2013 (princ)*: salaries_15_ans_ou_plus_tp_femmes_en_2013_princ[double]\n- *Non-salari\u00e9s 15 ans ou plus TP en 2013 (princ)*: non_salaries_15_ans_ou_plus_tp_en_2013_princ[double]\n- *Actifs occup\u00e9s 15 ans ou plus Hommes en 2013 (princ)*: actifs_occupes_15_ans_ou_plus_hommes_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus Hommes en 2013 (princ)*: salaries_15_ans_ou_plus_hommes_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus Hommes Fonct publ, CDI en 2013 (princ)*: salaries_15_ans_ou_plus_hommes_fonct_publ_cdi_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus Hommes CDD en 2013 (princ)*: salaries_15_ans_ou_plus_hommes_cdd_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus Hommes Int\u00e9rim en 2013 (princ)*: salaries_15_ans_ou_plus_hommes_interim_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus Hommes Emplois aid\u00e9s en 2013 (princ)*: salaries_15_ans_ou_plus_hommes_emplois_aides_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus Hommes Apprentissage - Stage en 2013 (princ)*: salaries_15_ans_ou_plus_hommes_apprentissage_stage_en_2013_princ[double]\n- *Non-salari\u00e9s 15 ans ou plus Hommes en 2013 (princ)*: non_salaries_15_ans_ou_plus_hommes_en_2013_princ[double]\n- *Non-salari\u00e9s 15 ans ou plus Hommes Ind\u00e9pendants en 2013 (princ)*: non_salaries_15_ans_ou_plus_hommes_independants_en_2013_princ[double]\n- *Non-salari\u00e9s 15 ans ou plus Hommes Employeurs en 2013 (princ)*: non_salaries_15_ans_ou_plus_hommes_employeurs_en_2013_princ[double]\n- *Non-salari\u00e9s 15 ans ou plus Hommes Aides familiaux en 2013 (princ)*: non_salaries_15_ans_ou_plus_hommes_aides_familiaux_en_2013_princ[double]\n- *Actifs occup\u00e9s 15 ans ou plus Femmes en 2013 (princ)*: actifs_occupes_15_ans_ou_plus_femmes_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus Femmes en 2013 (princ)*: salaries_15_ans_ou_plus_femmes_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus Femmes Fonct publ, CDI en 2013 (princ)*: salaries_15_ans_ou_plus_femmes_fonct_publ_cdi_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus Femmes CDD en 2013 (princ)*: salaries_15_ans_ou_plus_femmes_cdd_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus Femmes Int\u00e9rim en 2013 (princ)*: salaries_15_ans_ou_plus_femmes_interim_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus Femmes Emplois aid\u00e9s en 2013 (princ)*: salaries_15_ans_ou_plus_femmes_emplois_aides_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus Femmes Apprentissage - Stage en 2013 (princ)*: salaries_15_ans_ou_plus_femmes_apprentissage_stage_en_2013_princ[double]\n- *Non-salari\u00e9s 15 ans ou plus Femmes en 2013 (princ)*: non_salaries_15_ans_ou_plus_femmes_en_2013_princ[double]\n- *Non-salari\u00e9s 15 ans ou plus Femmes Ind\u00e9pendantes en 2013 (princ)*: non_salaries_15_ans_ou_plus_femmes_independantes_en_2013_princ[double]\n- *Non-salari\u00e9s 15 ans ou plus Femmes Employeurs en 2013 (princ)*: non_salaries_15_ans_ou_plus_femmes_employeurs_en_2013_princ[double]\n- *Non-salari\u00e9s 15 ans ou plus Femmes Aides familiales en 2013 (princ)*: non_salaries_15_ans_ou_plus_femmes_aides_familiales_en_2013_princ[double]\n- *Salari\u00e9s 15-64 ans Hommes en 2013 (princ)*: salaries_15_64_ans_hommes_en_2013_princ[double]\n- *Salari\u00e9s 15-24 ans Hommes en 2013 (princ)*: salaries_15_24_ans_hommes_en_2013_princ[double]\n- *Salari\u00e9s 25-54 ans Hommes en 2013 (princ)*: salaries_25_54_ans_hommes_en_2013_princ[double]\n- *Salari\u00e9s 55-64 ans Hommes en 2013 (princ)*: salaries_55_64_ans_hommes_en_2013_princ[double]\n- *Salari\u00e9s 15-64 ans Hommes TP en 2013 (princ)*: salaries_15_64_ans_hommes_tp_en_2013_princ[double]\n- *Salari\u00e9s 15-24 ans Hommes TP en 2013 (princ)*: salaries_15_24_ans_hommes_tp_en_2013_princ[double]\n- *Salari\u00e9s 25-54 ans Hommes TP en 2013 (princ)*: salaries_25_54_ans_hommes_tp_en_2013_princ[double]\n- *Salari\u00e9s 55-64 ans Hommes TP en 2013 (princ)*: salaries_55_64_ans_hommes_tp_en_2013_princ[double]\n- *Salari\u00e9s 15-64 ans Femmes en 2013 (princ)*: salaries_15_64_ans_femmes_en_2013_princ[double]\n- *Salari\u00e9s 15-24 ans Femmes en 2013 (princ)*: salaries_15_24_ans_femmes_en_2013_princ[double]\n- *Salari\u00e9s 25-54 ans Femmes en 2013 (princ)*: salaries_25_54_ans_femmes_en_2013_princ[double]\n- *Salari\u00e9s 55-64 ans Femmes en 2013 (princ)*: salaries_55_64_ans_femmes_en_2013_princ[double]\n- *Salari\u00e9s 15-64 ans Femmes TP en 2013 (princ)*: salaries_15_64_ans_femmes_tp_en_2013_princ[double]\n- *Salari\u00e9s 15-24 ans Femmes TP en 2013 (princ)*: salaries_15_24_ans_femmes_tp_en_2013_princ[double]\n- *Salari\u00e9s 25-54 ans Femmes TP en 2013 (princ)*: salaries_25_54_ans_femmes_tp_en_2013_princ[double]\n- *Salari\u00e9s 55-64 ans Femmes TP en 2013 (princ)*: salaries_55_64_ans_femmes_tp_en_2013_princ[double]\n- *Actifs occ 15 ans ou plus travaillent commune r\u00e9sidence en 2013 (princ)*: actifs_occ_15_ans_ou_plus_travaillent_commune_residence_en_2013_princ[double]\n- *Actifs occ 15 ans ou plus travaillent autre commune que commune r\u00e9sidence en 2013 (princ)*: actifs_occ_15_ans_ou_plus_travaillent_autre_commune_que_commune_residence_en_2013_princ[double]\n- *Actifs occ 15 ans ou plus travaillent autre commune m\u00eame d\u00e9pt r\u00e9sidence en 2013 (princ)*: actifs_occ_15_ans_ou_plus_travaillent_autre_commune_meme_dept_residence_en_2013_princ[double]\n- *Actifs occ 15 ans ou plus travaillent autre d\u00e9pt m\u00eame r\u00e9gion r\u00e9sidence en 2013 (princ)*: actifs_occ_15_ans_ou_plus_travaillent_autre_dept_meme_region_residence_en_2013_princ[double]\n- *Actifs occ 15 ans ou plus travaillent autre r\u00e9gion en m\u00e9tropole en 2013 (princ)*: actifs_occ_15_ans_ou_plus_travaillent_autre_region_en_metropole_en_2013_princ[double]\n- *Actifs occ 15 ans ou plus travaillent autre r\u00e9gion hors m\u00e9tropole en 2013 (princ)*: actifs_occ_15_ans_ou_plus_travaillent_autre_region_hors_metropole_en_2013_princ[double]\n- *Actifs occ 15 ans ou plus pas de transport pour travail en 2013 (princ)*: actifs_occ_15_ans_ou_plus_pas_de_transport_pour_travail_en_2013_princ[double]\n- *Actifs occ 15 ans ou plus marche \u00e0 pied pour travail en 2013 (princ)*: actifs_occ_15_ans_ou_plus_marche_a_pied_pour_travail_en_2013_princ[double]\n- *Actifs occ 15 ans ou plus deux roues en 2013 (princ)*: actifs_occ_15_ans_ou_plus_deux_roues_en_2013_princ[double]\n- *Actifs occ 15 ans ou plus voiture en 2013 (princ)*: actifs_occ_15_ans_ou_plus_voiture_en_2013_princ[double]\n- *Actifs occ 15 ans ou plus transport en commun en 2013 (princ)*: actifs_occ_15_ans_ou_plus_transport_en_commun_en_2013_princ[double]\n- *empty*: empty[double]\n- *empty*: empty0[double]\n- *empty*: empty1[double]\n- *empty*: empty2[double]\n- *empty*: empty3[double]\n- *empty*: empty4[double]\n- *empty*: empty5[double]\n- *empty*: empty6[double]\n- *empty*: empty7[double]\n- *empty*: empty8[double]\n- *empty*: empty9[double]\n- *empty*: empty10[double]\n- *empty*: empty11[double]\n- *empty*: empty12[double]\n- *empty*: empty13[double]\n- *empty*: empty14[double]\n- *empty*: empty15[double]\n- *empty*: empty16[double]\n- *empty*: empty17[double]\n- *Filename*: filename[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e6fc8481-8110-4d32-87d7-9375957bd900",
+      "last_modified": "2016-10-19T10:20:44",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e6fc8481-8110-4d32-87d7-9375957bd900",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:28:10.931000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/population-mel/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:28:10.932000",
+      "description": "- *Communes*: communes[text]\n- *Libell\u00e9 g\u00e9ographique*: libelle_geographique[text]\n- *Actifs occup\u00e9s 15 ans ou plus en 2013 (princ)*: actifs_occupes_15_ans_ou_plus_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus en 2013 (princ)*: salaries_15_ans_ou_plus_en_2013_princ[double]\n- *Non-salari\u00e9s 15 ans ou plus en 2013 (princ)*: non_salaries_15_ans_ou_plus_en_2013_princ[double]\n- *Actifs occ 15 ans ou plus TP en 2013 (princ)*: actifs_occ_15_ans_ou_plus_tp_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus TP en 2013 (princ)*: salaries_15_ans_ou_plus_tp_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus TP Hommes en 2013 (princ)*: salaries_15_ans_ou_plus_tp_hommes_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus TP Femmes en 2013 (princ)*: salaries_15_ans_ou_plus_tp_femmes_en_2013_princ[double]\n- *Non-salari\u00e9s 15 ans ou plus TP en 2013 (princ)*: non_salaries_15_ans_ou_plus_tp_en_2013_princ[double]\n- *Actifs occup\u00e9s 15 ans ou plus Hommes en 2013 (princ)*: actifs_occupes_15_ans_ou_plus_hommes_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus Hommes en 2013 (princ)*: salaries_15_ans_ou_plus_hommes_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus Hommes Fonct publ, CDI en 2013 (princ)*: salaries_15_ans_ou_plus_hommes_fonct_publ_cdi_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus Hommes CDD en 2013 (princ)*: salaries_15_ans_ou_plus_hommes_cdd_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus Hommes Int\u00e9rim en 2013 (princ)*: salaries_15_ans_ou_plus_hommes_interim_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus Hommes Emplois aid\u00e9s en 2013 (princ)*: salaries_15_ans_ou_plus_hommes_emplois_aides_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus Hommes Apprentissage - Stage en 2013 (princ)*: salaries_15_ans_ou_plus_hommes_apprentissage_stage_en_2013_princ[double]\n- *Non-salari\u00e9s 15 ans ou plus Hommes en 2013 (princ)*: non_salaries_15_ans_ou_plus_hommes_en_2013_princ[double]\n- *Non-salari\u00e9s 15 ans ou plus Hommes Ind\u00e9pendants en 2013 (princ)*: non_salaries_15_ans_ou_plus_hommes_independants_en_2013_princ[double]\n- *Non-salari\u00e9s 15 ans ou plus Hommes Employeurs en 2013 (princ)*: non_salaries_15_ans_ou_plus_hommes_employeurs_en_2013_princ[double]\n- *Non-salari\u00e9s 15 ans ou plus Hommes Aides familiaux en 2013 (princ)*: non_salaries_15_ans_ou_plus_hommes_aides_familiaux_en_2013_princ[double]\n- *Actifs occup\u00e9s 15 ans ou plus Femmes en 2013 (princ)*: actifs_occupes_15_ans_ou_plus_femmes_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus Femmes en 2013 (princ)*: salaries_15_ans_ou_plus_femmes_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus Femmes Fonct publ, CDI en 2013 (princ)*: salaries_15_ans_ou_plus_femmes_fonct_publ_cdi_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus Femmes CDD en 2013 (princ)*: salaries_15_ans_ou_plus_femmes_cdd_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus Femmes Int\u00e9rim en 2013 (princ)*: salaries_15_ans_ou_plus_femmes_interim_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus Femmes Emplois aid\u00e9s en 2013 (princ)*: salaries_15_ans_ou_plus_femmes_emplois_aides_en_2013_princ[double]\n- *Salari\u00e9s 15 ans ou plus Femmes Apprentissage - Stage en 2013 (princ)*: salaries_15_ans_ou_plus_femmes_apprentissage_stage_en_2013_princ[double]\n- *Non-salari\u00e9s 15 ans ou plus Femmes en 2013 (princ)*: non_salaries_15_ans_ou_plus_femmes_en_2013_princ[double]\n- *Non-salari\u00e9s 15 ans ou plus Femmes Ind\u00e9pendantes en 2013 (princ)*: non_salaries_15_ans_ou_plus_femmes_independantes_en_2013_princ[double]\n- *Non-salari\u00e9s 15 ans ou plus Femmes Employeurs en 2013 (princ)*: non_salaries_15_ans_ou_plus_femmes_employeurs_en_2013_princ[double]\n- *Non-salari\u00e9s 15 ans ou plus Femmes Aides familiales en 2013 (princ)*: non_salaries_15_ans_ou_plus_femmes_aides_familiales_en_2013_princ[double]\n- *Salari\u00e9s 15-64 ans Hommes en 2013 (princ)*: salaries_15_64_ans_hommes_en_2013_princ[double]\n- *Salari\u00e9s 15-24 ans Hommes en 2013 (princ)*: salaries_15_24_ans_hommes_en_2013_princ[double]\n- *Salari\u00e9s 25-54 ans Hommes en 2013 (princ)*: salaries_25_54_ans_hommes_en_2013_princ[double]\n- *Salari\u00e9s 55-64 ans Hommes en 2013 (princ)*: salaries_55_64_ans_hommes_en_2013_princ[double]\n- *Salari\u00e9s 15-64 ans Hommes TP en 2013 (princ)*: salaries_15_64_ans_hommes_tp_en_2013_princ[double]\n- *Salari\u00e9s 15-24 ans Hommes TP en 2013 (princ)*: salaries_15_24_ans_hommes_tp_en_2013_princ[double]\n- *Salari\u00e9s 25-54 ans Hommes TP en 2013 (princ)*: salaries_25_54_ans_hommes_tp_en_2013_princ[double]\n- *Salari\u00e9s 55-64 ans Hommes TP en 2013 (princ)*: salaries_55_64_ans_hommes_tp_en_2013_princ[double]\n- *Salari\u00e9s 15-64 ans Femmes en 2013 (princ)*: salaries_15_64_ans_femmes_en_2013_princ[double]\n- *Salari\u00e9s 15-24 ans Femmes en 2013 (princ)*: salaries_15_24_ans_femmes_en_2013_princ[double]\n- *Salari\u00e9s 25-54 ans Femmes en 2013 (princ)*: salaries_25_54_ans_femmes_en_2013_princ[double]\n- *Salari\u00e9s 55-64 ans Femmes en 2013 (princ)*: salaries_55_64_ans_femmes_en_2013_princ[double]\n- *Salari\u00e9s 15-64 ans Femmes TP en 2013 (princ)*: salaries_15_64_ans_femmes_tp_en_2013_princ[double]\n- *Salari\u00e9s 15-24 ans Femmes TP en 2013 (princ)*: salaries_15_24_ans_femmes_tp_en_2013_princ[double]\n- *Salari\u00e9s 25-54 ans Femmes TP en 2013 (princ)*: salaries_25_54_ans_femmes_tp_en_2013_princ[double]\n- *Salari\u00e9s 55-64 ans Femmes TP en 2013 (princ)*: salaries_55_64_ans_femmes_tp_en_2013_princ[double]\n- *Actifs occ 15 ans ou plus travaillent commune r\u00e9sidence en 2013 (princ)*: actifs_occ_15_ans_ou_plus_travaillent_commune_residence_en_2013_princ[double]\n- *Actifs occ 15 ans ou plus travaillent autre commune que commune r\u00e9sidence en 2013 (princ)*: actifs_occ_15_ans_ou_plus_travaillent_autre_commune_que_commune_residence_en_2013_princ[double]\n- *Actifs occ 15 ans ou plus travaillent autre commune m\u00eame d\u00e9pt r\u00e9sidence en 2013 (princ)*: actifs_occ_15_ans_ou_plus_travaillent_autre_commune_meme_dept_residence_en_2013_princ[double]\n- *Actifs occ 15 ans ou plus travaillent autre d\u00e9pt m\u00eame r\u00e9gion r\u00e9sidence en 2013 (princ)*: actifs_occ_15_ans_ou_plus_travaillent_autre_dept_meme_region_residence_en_2013_princ[double]\n- *Actifs occ 15 ans ou plus travaillent autre r\u00e9gion en m\u00e9tropole en 2013 (princ)*: actifs_occ_15_ans_ou_plus_travaillent_autre_region_en_metropole_en_2013_princ[double]\n- *Actifs occ 15 ans ou plus travaillent autre r\u00e9gion hors m\u00e9tropole en 2013 (princ)*: actifs_occ_15_ans_ou_plus_travaillent_autre_region_hors_metropole_en_2013_princ[double]\n- *Actifs occ 15 ans ou plus pas de transport pour travail en 2013 (princ)*: actifs_occ_15_ans_ou_plus_pas_de_transport_pour_travail_en_2013_princ[double]\n- *Actifs occ 15 ans ou plus marche \u00e0 pied pour travail en 2013 (princ)*: actifs_occ_15_ans_ou_plus_marche_a_pied_pour_travail_en_2013_princ[double]\n- *Actifs occ 15 ans ou plus deux roues en 2013 (princ)*: actifs_occ_15_ans_ou_plus_deux_roues_en_2013_princ[double]\n- *Actifs occ 15 ans ou plus voiture en 2013 (princ)*: actifs_occ_15_ans_ou_plus_voiture_en_2013_princ[double]\n- *Actifs occ 15 ans ou plus transport en commun en 2013 (princ)*: actifs_occ_15_ans_ou_plus_transport_en_commun_en_2013_princ[double]\n- *empty*: empty[double]\n- *empty*: empty0[double]\n- *empty*: empty1[double]\n- *empty*: empty2[double]\n- *empty*: empty3[double]\n- *empty*: empty4[double]\n- *empty*: empty5[double]\n- *empty*: empty6[double]\n- *empty*: empty7[double]\n- *empty*: empty8[double]\n- *empty*: empty9[double]\n- *empty*: empty10[double]\n- *empty*: empty11[double]\n- *empty*: empty12[double]\n- *empty*: empty13[double]\n- *empty*: empty14[double]\n- *empty*: empty15[double]\n- *empty*: empty16[double]\n- *empty*: empty17[double]\n- *Filename*: filename[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "73f6fa90-7155-4dc2-9dc2-4064d26ba465",
+      "last_modified": "2016-10-19T10:20:44",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/73f6fa90-7155-4dc2-9dc2-4064d26ba465",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:28:10.932000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/population-mel/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "caracteristiques-de-lemploi-dans-les-communes-de-la-mel",
+  "spatial": null,
+  "tags": [
+    "business",
+    "communes",
+    "developpement-economique",
+    "economie",
+    "emploi",
+    "genre",
+    "pme",
+    "population"
+  ],
+  "temporal_coverage": null,
+  "title": "Caract\u00e9ristiques de l'emploi dans les communes de la MEL",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/caracteristiques-de-lemploi-dans-les-communes-de-la-mel/"
+}

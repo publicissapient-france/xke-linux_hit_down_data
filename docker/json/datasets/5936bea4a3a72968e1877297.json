@@ -1,0 +1,253 @@
+{
+  "badges": [],
+  "created_at": "2017-06-06T00:00:00",
+  "deleted": null,
+  "description": "Liste des aires de pique-nique en Aquitaine, issue de la base de donn\u00e9es SIRTAQUI.\n\nCe fichier contient les informations de g\u00e9olocalisation et de contact, les informations sur le type d\u2019\u00e9quipement, les marques et labels, les conditions d\u2019ouverture, les tarifs, les \u00e9quipements et les services propos\u00e9s.",
+  "extras": {
+    "ckan:name": "liste-des-aires-de-pique-nique-en-aquitaine",
+    "contact_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "contact_name": "CRTA",
+    "contact_uri": "https://datacat.datalocale.fr/414593",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
+    "guid": "https://datacat.datalocale.fr/415615",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-09-11T06:13:02.518349",
+    "harvest:remote_id": "4836baac-9beb-4e24-9d20-5e54b2024c1f",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "7a7b13b6-fe74-42bf-b117-20ea1fe904cc",
+    "issued": "2014-12-24T08:20:33+00:00",
+    "modified": "2016-07-18T09:21:07.284481+00:00",
+    "publisher_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "publisher_name": "agence SIRTAQUI",
+    "publisher_type": "\"Organisation \u00e0 but non lucratif\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414592",
+    "remote_url": "http://www.sirtaqui-aquitaine.com",
+    "theme": "[\"tourisme\"]",
+    "uri": "https://datacat.datalocale.fr/415615"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5936bea4a3a72968e1877297",
+  "last_modified": "2017-09-11T06:13:02.520000",
+  "last_update": "2017-08-28T06:07:20.847000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-aires-de-pique-nique-en-aquitaine/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:39:32.540000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-30T15:20:20.558000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1573210/raw/liste-csv-aires-piquenique-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e72187b6-574c-4cb0-a7ad-379219016953",
+      "last_modified": "2017-06-06T16:39:32.544000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e72187b6-574c-4cb0-a7ad-379219016953",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:39:32.544000",
+      "title": "liste-csv-aires-piquenique-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1573210/raw/liste-csv-aires-piquenique-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:45:34.026000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T00:47:42.425000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1599407/raw/liste-csv-aires-piquenique-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a5e7a77d-dd21-48eb-9340-aff77d537b94",
+      "last_modified": "2017-07-07T06:07:46.657000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a5e7a77d-dd21-48eb-9340-aff77d537b94",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T18:45:34.026000",
+      "title": "liste-csv-aires-piquenique-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1599407/raw/liste-csv-aires-piquenique-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:04:22.256000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-08T07:37:56.443000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1636274/raw/liste-csv-aires-piquenique-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c7b4160a-76e1-48cb-b1bc-df02ffe70ea1",
+      "last_modified": "2017-07-09T07:00:27.771000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c7b4160a-76e1-48cb-b1bc-df02ffe70ea1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-08T07:04:22.257000",
+      "title": "liste-csv-aires-piquenique-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1636274/raw/liste-csv-aires-piquenique-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-10T07:02:40.322000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-31T23:48:37.866000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1649455/raw/liste-csv-aires-piquenique-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "412a8d1f-2b46-41fd-870a-d1808d6a23dc",
+      "last_modified": "2017-08-13T06:07:14.061000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/412a8d1f-2b46-41fd-870a-d1808d6a23dc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-10T07:02:40.322000",
+      "title": "liste-csv-aires-piquenique-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1649455/raw/liste-csv-aires-piquenique-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-14T07:10:29.740000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T03:25:02.973000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1706078/raw/liste-csv-aires-piquenique-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e9ef065b-4ee6-47f9-9467-61d8ce6997f6",
+      "last_modified": "2017-08-20T06:05:24.386000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e9ef065b-4ee6-47f9-9467-61d8ce6997f6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-14T07:10:29.740000",
+      "title": "liste-csv-aires-piquenique-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1706078/raw/liste-csv-aires-piquenique-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-21T07:08:58.243000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-31T23:48:49.166000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1732401/raw/liste-csv-aires-piquenique-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f2ae4e47-b31e-4e60-848c-017a11907a04",
+      "last_modified": "2017-08-27T06:03:22.031000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f2ae4e47-b31e-4e60-848c-017a11907a04",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-21T07:08:58.243000",
+      "title": "liste-csv-aires-piquenique-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1732401/raw/liste-csv-aires-piquenique-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-28T06:07:20.847000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e36b5388-4627-4e27-a6ed-ac074b9b9015",
+      "last_modified": "2017-09-11T06:13:02.517000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e36b5388-4627-4e27-a6ed-ac074b9b9015",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-28T06:07:20.847000",
+      "title": "liste-csv-aires-piquenique-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1745394/raw/liste-csv-aires-piquenique-aquitaine.csv"
+    }
+  ],
+  "slug": "liste-des-aires-de-pique-nique-en-aquitaine",
+  "spatial": null,
+  "tags": [
+    "restauration",
+    "tourisme"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des aires de pique-nique en Aquitaine",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-aires-de-pique-nique-en-aquitaine/"
+}

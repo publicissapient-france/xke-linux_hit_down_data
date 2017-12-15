@@ -1,0 +1,168 @@
+{
+  "badges": [],
+  "created_at": "2017-03-01T10:58:05.250000",
+  "deleted": null,
+  "description": "Les statistiques annuelles concernent les d\u00e9c\u00e8s domicili\u00e9s ainsi que les jugements d\u00e9claratifs de d\u00e9c\u00e8s.",
+  "extras": {
+    "harvest:domain": "opendata.lillemetropole.fr",
+    "harvest:last_update": "2017-11-27T05:29:40.021242",
+    "harvest:remote_id": "deces-par-commune-departement-region-2003-2013",
+    "harvest:source_id": "58b68fdcc751df10ea84f9cc",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.lillemetropole.fr//explore/dataset/deces-par-commune-departement-region-2003-2013/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "58b69b2da3a7295a7c82510b",
+  "last_modified": "2017-11-27T05:29:40.023000",
+  "last_update": "2017-11-27T05:29:40.020000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "MEL",
+    "class": "Organization",
+    "id": "58b69c62c751df4b175dd7a4",
+    "logo": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-100.png",
+    "name": "M\u00e9tropole Europ\u00e9enne de Lille ",
+    "page": "https://www.data.gouv.fr/fr/organizations/metropole-europeenne-de-lille/",
+    "slug": "metropole-europeenne-de-lille",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/metropole-europeenne-de-lille/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/deces-par-commune-de-2003-a-2013/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:29:40.019000",
+      "description": "- *CodeINSEE*: codeinsee[text]\n- *Ville*: ville[text]\n- *Coordonn\u00e9es GEO*: coordonnees_geo[text]\n- *2003*: 2003[double]\n- *2004*: 2004[double]\n- *2005*: 2005[double]\n- *2006*: 2006[double]\n- *2007*: 2007[double]\n- *2008*: 2008[double]\n- *2009*: 2009[double]\n- *2010*: 2010[double]\n- *2011*: 2011[double]\n- *2012*: 2012[double]\n- *2013*: 2013[double]\n- *Total g\u00e9n\u00e9ral*: total_general[double]\n- *Geo Shape*: geo_shape[geo_shape]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T21:27:43.139000",
+        "check:status": 200,
+        "check:url": "https://opendata.lillemetropole.fr//explore/dataset/deces-par-commune-departement-region-2003-2013/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "50e15b57-3a64-4e91-a0cb-fee548966c8c",
+      "last_modified": "2016-08-23T08:42:15",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/50e15b57-3a64-4e91-a0cb-fee548966c8c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:29:40.019000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/deces-par-commune-departement-region-2003-2013/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:29:40.020000",
+      "description": "- *CodeINSEE*: codeinsee[text]\n- *Ville*: ville[text]\n- *Coordonn\u00e9es GEO*: coordonnees_geo[text]\n- *2003*: 2003[double]\n- *2004*: 2004[double]\n- *2005*: 2005[double]\n- *2006*: 2006[double]\n- *2007*: 2007[double]\n- *2008*: 2008[double]\n- *2009*: 2009[double]\n- *2010*: 2010[double]\n- *2011*: 2011[double]\n- *2012*: 2012[double]\n- *2013*: 2013[double]\n- *Total g\u00e9n\u00e9ral*: total_general[double]\n- *Geo Shape*: geo_shape[geo_shape]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T21:27:36.583000",
+        "check:status": 200,
+        "check:url": "https://opendata.lillemetropole.fr//explore/dataset/deces-par-commune-departement-region-2003-2013/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "f207dc07-b771-43a3-98ae-c6822ff6ca07",
+      "last_modified": "2016-08-23T08:42:15",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f207dc07-b771-43a3-98ae-c6822ff6ca07",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:29:40.020000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/deces-par-commune-departement-region-2003-2013/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:29:40.020000",
+      "description": "- *CodeINSEE*: codeinsee[text]\n- *Ville*: ville[text]\n- *Coordonn\u00e9es GEO*: coordonnees_geo[text]\n- *2003*: 2003[double]\n- *2004*: 2004[double]\n- *2005*: 2005[double]\n- *2006*: 2006[double]\n- *2007*: 2007[double]\n- *2008*: 2008[double]\n- *2009*: 2009[double]\n- *2010*: 2010[double]\n- *2011*: 2011[double]\n- *2012*: 2012[double]\n- *2013*: 2013[double]\n- *Total g\u00e9n\u00e9ral*: total_general[double]\n- *Geo Shape*: geo_shape[geo_shape]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T21:27:38.242000",
+        "check:status": 200,
+        "check:url": "https://opendata.lillemetropole.fr//explore/dataset/deces-par-commune-departement-region-2003-2013/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "5507978e-c15b-4b5f-ad69-ff695bd67b1e",
+      "last_modified": "2016-08-23T08:42:15",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5507978e-c15b-4b5f-ad69-ff695bd67b1e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:29:40.020000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/deces-par-commune-departement-region-2003-2013/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:29:40.020000",
+      "description": "- *CodeINSEE*: codeinsee[text]\n- *Ville*: ville[text]\n- *Coordonn\u00e9es GEO*: coordonnees_geo[text]\n- *2003*: 2003[double]\n- *2004*: 2004[double]\n- *2005*: 2005[double]\n- *2006*: 2006[double]\n- *2007*: 2007[double]\n- *2008*: 2008[double]\n- *2009*: 2009[double]\n- *2010*: 2010[double]\n- *2011*: 2011[double]\n- *2012*: 2012[double]\n- *2013*: 2013[double]\n- *Total g\u00e9n\u00e9ral*: total_general[double]\n- *Geo Shape*: geo_shape[geo_shape]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T21:27:40.521000",
+        "check:status": 200,
+        "check:url": "https://opendata.lillemetropole.fr//explore/dataset/deces-par-commune-departement-region-2003-2013/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "d0424b1d-3d11-42aa-946e-f887a7171ceb",
+      "last_modified": "2016-08-23T08:42:15",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d0424b1d-3d11-42aa-946e-f887a7171ceb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:29:40.020000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/deces-par-commune-departement-region-2003-2013/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "deces-par-commune-de-2003-a-2013",
+  "spatial": null,
+  "tags": [
+    "administration",
+    "citoyennete",
+    "deces",
+    "finances-publiques",
+    "gouvernement",
+    "population"
+  ],
+  "temporal_coverage": null,
+  "title": "D\u00e9c\u00e8s par commune de 2003 \u00e0 2013",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/deces-par-commune-de-2003-a-2013/"
+}

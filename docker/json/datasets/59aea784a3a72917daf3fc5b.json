@@ -1,0 +1,136 @@
+{
+  "badges": [],
+  "created_at": "2017-01-19T00:00:00",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es renseigne le nombre mensuel de divorces enregistr\u00e9s pour les mariages c\u00e9l\u00e9br\u00e9s \u00e0 Nice.",
+  "extras": {
+    "ckan:name": "nombre-de-divorces-enregistres-par-mois-de-personnes-mariees-a-nice-pour-l-annee-2016",
+    "harvest:domain": "opendata.nicecotedazur.org",
+    "harvest:last_update": "2017-09-05T15:32:52.956978",
+    "harvest:remote_id": "0d6b3e49-9a50-4dba-8913-0fdf341ce44f",
+    "harvest:source_id": "59aea691c751df40c6e8212c"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59aea784a3a72917daf3fc5b",
+  "last_modified": "2017-09-05T15:32:52.958000",
+  "last_update": "2017-09-05T15:32:52.956000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "59aea226c751df38f3f6834b",
+    "logo": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-100.png",
+    "name": "Nice C\u00f4te d'Azur",
+    "page": "https://www.data.gouv.fr/fr/organizations/nice-cote-dazur/",
+    "slug": "nice-cote-dazur",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nice-cote-dazur/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/nombre-de-divorces-enregistres-par-mois-de-personnes-mariees-a-nice-pour-l-annee-2016/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:32:52.955000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-09T11:04:23.306000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-01-19T13%3A37%3A12.770Z/2016-nombre-de-divorces-de-personnes-mariees-a-nice.xls"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xls",
+      "id": "1c10f765-e91e-4727-add7-4425955b8fbe",
+      "last_modified": "2017-01-19T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1c10f765-e91e-4727-add7-4425955b8fbe",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.ms-excel",
+      "published": "2017-09-05T15:32:52.955000",
+      "title": "2016 Nombre de divorces de personnes mari\u00e9es \u00e0 Nice.xls",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-01-19T13%3A37%3A12.770Z/2016-nombre-de-divorces-de-personnes-mariees-a-nice.xls"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:32:52.955000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T11:36:29.844000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-01-19T13%3A37%3A50.756Z/2016-nombre-de-divorces-de-personnes-mariees-a-nice.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "a6756e69-676e-430c-9d60-78a450cc9a15",
+      "last_modified": "2017-01-19T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a6756e69-676e-430c-9d60-78a450cc9a15",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.oasis.opendocument.spreadsheet",
+      "published": "2017-09-05T15:32:52.955000",
+      "title": "2016 Nombre de divorces de personnes mari\u00e9es \u00e0 Nice.ods",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-01-19T13%3A37%3A50.756Z/2016-nombre-de-divorces-de-personnes-mariees-a-nice.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:32:52.956000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-11-02T01:01:22.549000",
+        "check:status": 500,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-01-19T13%3A38%3A17.009Z/2016-nombre-de-divorces-de-personnes-mariees-a-nice.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2e0dccb2-cd02-4b44-ad64-8bdb7ae41539",
+      "last_modified": "2017-01-19T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2e0dccb2-cd02-4b44-ad64-8bdb7ae41539",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-05T15:32:52.956000",
+      "title": "2016 Nombre de divorces de personnes mari\u00e9es \u00e0 Nice.csv",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-01-19T13%3A38%3A17.009Z/2016-nombre-de-divorces-de-personnes-mariees-a-nice.csv"
+    }
+  ],
+  "slug": "nombre-de-divorces-enregistres-par-mois-de-personnes-mariees-a-nice-pour-l-annee-2016",
+  "spatial": null,
+  "tags": [
+    "divorce",
+    "mariage",
+    "nombre"
+  ],
+  "temporal_coverage": null,
+  "title": "Nombre de divorces enregistr\u00e9s par mois de personnes mari\u00e9es \u00e0 Nice pour l'ann\u00e9e 2016 ",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/nombre-de-divorces-enregistres-par-mois-de-personnes-mariees-a-nice-pour-l-annee-2016/"
+}

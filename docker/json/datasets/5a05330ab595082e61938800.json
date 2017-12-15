@@ -1,0 +1,179 @@
+{
+  "badges": [],
+  "created_at": "2017-11-09T00:00:00",
+  "deleted": null,
+  "description": "Liste de sites et monuments class\u00e9s en Aquitaine, issue de la base de donn\u00e9es SIRTAQUI.\nCe fichier contient les informations de g\u00e9olocalisation et de contact, les informations sur l\u2019activit\u00e9, les marques et labels, les conditions d\u2019ouverture et de visites, les tarifs, les \u00e9quipements et les services propos\u00e9s.",
+  "extras": {
+    "ckan:name": "liste-des-monuments-historiques-classes-en-aquitaine",
+    "contact_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "contact_name": "CRTA",
+    "contact_uri": "https://datacat.datalocale.fr/414593",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
+    "guid": "https://datacat.datalocale.fr/416389",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-11-14T05:16:13.428549",
+    "harvest:remote_id": "3ad16f0b-d54e-44da-b9cc-5f83bccdee98",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "f5348369-44e2-4a0d-ad22-23661add9aa0",
+    "issued": "2015-01-04T09:21:03+00:00",
+    "modified": "2016-07-18T09:21:06.989959+00:00",
+    "publisher_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "publisher_name": "agence SIRTAQUI",
+    "publisher_type": "\"Organisation \u00e0 but non lucratif\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414592",
+    "remote_url": "http://partenaires.tourisme-aquitaine.fr",
+    "theme": "[\"tourisme\"]",
+    "uri": "https://datacat.datalocale.fr/416389"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5a05330ab595082e61938800",
+  "last_modified": "2017-11-14T05:16:13.430000",
+  "last_update": "2017-11-10T06:03:06.605000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-monuments-historiques-classes-en-aquitaine-4/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-10T06:03:06.603000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-18T06:51:37.788000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/distribution/510555/raw/liste-csv-sites-monuments-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "85feee26-82c6-4ab0-a95d-b23b520347ac",
+      "last_modified": "2017-11-14T05:16:13.427000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/85feee26-82c6-4ab0-a95d-b23b520347ac",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-10T06:03:06.604000",
+      "title": "liste-csv-sites-monuments-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/distribution/510555/raw/liste-csv-sites-monuments-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-10T06:03:06.604000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-18T06:51:26.133000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/416394"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "5bcafd9b-aa0d-4844-9fa0-127a4e360b2f",
+      "last_modified": "2017-11-14T05:16:13.427000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5bcafd9b-aa0d-4844-9fa0-127a4e360b2f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-10T06:03:06.604000",
+      "title": "sp\u00e9cifications du jeu de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/416394"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-10T06:03:06.605000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-18T06:51:33.302000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/distribution/1903078/raw/liste-xml-sites-monuments-aquitaine.xml"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "b46a0359-4180-47ce-a8ba-9e7c8c202de0",
+      "last_modified": "2017-11-14T05:16:13.427000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b46a0359-4180-47ce-a8ba-9e7c8c202de0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/xml",
+      "published": "2017-11-10T06:03:06.605000",
+      "title": "liste-xml-sites-monuments-aquitaine.xml",
+      "url": "https://datacat.datalocale.fr/distribution/1903078/raw/liste-xml-sites-monuments-aquitaine.xml"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-10T06:03:06.605000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-11-22T11:07:34.804000",
+        "check:status": 501,
+        "check:url": "http://wcf.tourinsoft.com/Syndication/aquitaine/ff13f556-aac5-4358-9cea-d6be9fdaf98c/Objects?$format=json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "3535ffe6-6fa7-4ede-81ad-f80d8c32f3e1",
+      "last_modified": "2017-11-14T05:16:13.427000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3535ffe6-6fa7-4ede-81ad-f80d8c32f3e1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-10T06:03:06.605000",
+      "title": "consommation des donn\u00e9es en temps r\u00e9el",
+      "url": "http://wcf.tourinsoft.com/Syndication/aquitaine/ff13f556-aac5-4358-9cea-d6be9fdaf98c/Objects?$format=json"
+    }
+  ],
+  "slug": "liste-des-monuments-historiques-classes-en-aquitaine-4",
+  "spatial": null,
+  "tags": [
+    "culture",
+    "inventaire",
+    "patrimoine",
+    "tourisme"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des monuments historiques class\u00e9s en Aquitaine",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-monuments-historiques-classes-en-aquitaine-4/"
+}

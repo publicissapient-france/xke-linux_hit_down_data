@@ -1,0 +1,147 @@
+{
+  "badges": [],
+  "created_at": "2017-11-21T14:32:26.959000",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es pr\u00e9sente les stations GNV ouvertes au public et en projet en France avec leurs caract\u00e9ristiques (ann\u00e9e d'ouverture, exploitant, localisation, pompes GNC et/ou GNL, modes de paiements ... etc.)",
+  "extras": {
+    "harvest:domain": "opendata.reseaux-energies.fr",
+    "harvest:last_update": "2017-11-27T05:18:49.070125",
+    "harvest:remote_id": "stations-gnv",
+    "harvest:source_id": "5a0f06c8c751df4d2d7c7a40",
+    "ods:has_records": true,
+    "ods:references": "http://www.jcd-c.com/afgnv/map/",
+    "ods:url": "https://opendata.reseaux-energies.fr/explore/dataset/stations-gnv/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5a142aebb5950840f0ec2648",
+  "last_modified": "2017-11-27T05:18:49.071000",
+  "last_update": "2017-11-27T05:18:49.069000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "ODRE",
+    "class": "Organization",
+    "id": "5a0f0384c751df5f68d855b9",
+    "logo": "https://www.data.gouv.fr/s/avatars/f2/fe4fbb20204ce28bff2e50fa9d85b6-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/f2/fe4fbb20204ce28bff2e50fa9d85b6-100.png",
+    "name": "Open Data R\u00e9seaux Energies",
+    "page": "https://www.data.gouv.fr/fr/organizations/open-data-reseaux-energies-1/",
+    "slug": "open-data-reseaux-energies-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/open-data-reseaux-energies-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/stations-gnv-publiques-en-france/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:18:49.068000",
+      "description": "- *Statut*: statut[text]\n- *Ann\u00e9e ouverture*: annee_ouverture[text]\n- *Exploitant*: exploitant[text]\n- *Rue*: rue[text]\n- *Code postal*: code_postal[text]\n- *Code INSEE commune*: code_insee_commune[text]\n- *Commune*: commune[text]\n- *Code INSEE d\u00e9partement*: code_insee_departement[text]\n- *D\u00e9partement*: departement[text]\n- *Code INSEE r\u00e9gion*: code_insee_region[text]\n- *R\u00e9gion*: region[text]\n- *Hi\u00e9rarchie g\u00e9ographique*: hierarchie_geographique[text]\n- *Carburant*: carburant[text]\n- *BioGNC*: biognc[text]\n- *Paiement*: paiement[text]\n- *Acc\u00e8s PL*: acces_pl[text]\n- *Latitude*: latitude[text]\n- *Longitude*: longitude[text]\n- *G\u00e9o-point*: geo_point[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2d3d86a2-b3c3-4997-bd7d-177bcfa8bb99",
+      "last_modified": "2017-07-03T15:56:50",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2d3d86a2-b3c3-4997-bd7d-177bcfa8bb99",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:18:49.068000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.reseaux-energies.fr/explore/dataset/stations-gnv/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:18:49.068000",
+      "description": "- *Statut*: statut[text]\n- *Ann\u00e9e ouverture*: annee_ouverture[text]\n- *Exploitant*: exploitant[text]\n- *Rue*: rue[text]\n- *Code postal*: code_postal[text]\n- *Code INSEE commune*: code_insee_commune[text]\n- *Commune*: commune[text]\n- *Code INSEE d\u00e9partement*: code_insee_departement[text]\n- *D\u00e9partement*: departement[text]\n- *Code INSEE r\u00e9gion*: code_insee_region[text]\n- *R\u00e9gion*: region[text]\n- *Hi\u00e9rarchie g\u00e9ographique*: hierarchie_geographique[text]\n- *Carburant*: carburant[text]\n- *BioGNC*: biognc[text]\n- *Paiement*: paiement[text]\n- *Acc\u00e8s PL*: acces_pl[text]\n- *Latitude*: latitude[text]\n- *Longitude*: longitude[text]\n- *G\u00e9o-point*: geo_point[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "1a865fae-cde3-4019-a343-8e040cf4cde4",
+      "last_modified": "2017-07-03T15:56:50",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1a865fae-cde3-4019-a343-8e040cf4cde4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:18:49.068000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.reseaux-energies.fr/explore/dataset/stations-gnv/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:18:49.069000",
+      "description": "- *Statut*: statut[text]\n- *Ann\u00e9e ouverture*: annee_ouverture[text]\n- *Exploitant*: exploitant[text]\n- *Rue*: rue[text]\n- *Code postal*: code_postal[text]\n- *Code INSEE commune*: code_insee_commune[text]\n- *Commune*: commune[text]\n- *Code INSEE d\u00e9partement*: code_insee_departement[text]\n- *D\u00e9partement*: departement[text]\n- *Code INSEE r\u00e9gion*: code_insee_region[text]\n- *R\u00e9gion*: region[text]\n- *Hi\u00e9rarchie g\u00e9ographique*: hierarchie_geographique[text]\n- *Carburant*: carburant[text]\n- *BioGNC*: biognc[text]\n- *Paiement*: paiement[text]\n- *Acc\u00e8s PL*: acces_pl[text]\n- *Latitude*: latitude[text]\n- *Longitude*: longitude[text]\n- *G\u00e9o-point*: geo_point[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "27ae4ccf-b6eb-4a5d-ba48-de2e66b3da8e",
+      "last_modified": "2017-07-03T15:56:50",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/27ae4ccf-b6eb-4a5d-ba48-de2e66b3da8e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:18:49.069000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.reseaux-energies.fr/explore/dataset/stations-gnv/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:18:49.069000",
+      "description": "- *Statut*: statut[text]\n- *Ann\u00e9e ouverture*: annee_ouverture[text]\n- *Exploitant*: exploitant[text]\n- *Rue*: rue[text]\n- *Code postal*: code_postal[text]\n- *Code INSEE commune*: code_insee_commune[text]\n- *Commune*: commune[text]\n- *Code INSEE d\u00e9partement*: code_insee_departement[text]\n- *D\u00e9partement*: departement[text]\n- *Code INSEE r\u00e9gion*: code_insee_region[text]\n- *R\u00e9gion*: region[text]\n- *Hi\u00e9rarchie g\u00e9ographique*: hierarchie_geographique[text]\n- *Carburant*: carburant[text]\n- *BioGNC*: biognc[text]\n- *Paiement*: paiement[text]\n- *Acc\u00e8s PL*: acces_pl[text]\n- *Latitude*: latitude[text]\n- *Longitude*: longitude[text]\n- *G\u00e9o-point*: geo_point[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "eaea6735-045a-42a3-a4e6-ce8e068f6217",
+      "last_modified": "2017-07-03T15:56:50",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/eaea6735-045a-42a3-a4e6-ce8e068f6217",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:18:49.069000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.reseaux-energies.fr/explore/dataset/stations-gnv/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "stations-gnv-publiques-en-france",
+  "spatial": null,
+  "tags": [
+    "gaz",
+    "gnv",
+    "stations",
+    "territoire",
+    "territoires-regions"
+  ],
+  "temporal_coverage": null,
+  "title": "Stations GNV publiques en France",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/stations-gnv-publiques-en-france/"
+}

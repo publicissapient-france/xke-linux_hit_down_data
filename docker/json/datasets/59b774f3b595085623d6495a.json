@@ -1,0 +1,209 @@
+{
+  "badges": [],
+  "created_at": "2017-09-11T00:00:00",
+  "deleted": null,
+  "description": "Liste des sites (piste de luge / bobsleigh, piste de luge d\u2019\u00e9t\u00e9, piste de roller ou de skate board, piste de ski alpin, piste de ski de fond) et prestataires d\u2019activit\u00e9s (Bodyboard, Bou\u00e9es tract\u00e9es, Fly Fish, Flysurf, Hot dog, Jet-ski, Kite-surf, Monoski, Roller / skate, Scooter de neige, Scooter de mer, Ski alpin, Ski d\u2019\u00e9t\u00e9, Ski de fond, Ski de randonn\u00e9e, Ski nautique, Skwal, Stand-up-paddle-board, Surf, Surf bike, Surf des neiges, Wake board, Wave-ski) li\u00e9s \u00e0 la glisse en Aquitaine, issue de la base de donn\u00e9es SIRTAQUI.\n\nCe fichier contient les informations de g\u00e9olocalisation et de contact, les informations sur le type d\u2019\u00e9quipement/d\u2019activit\u00e9, les marques et labels, les conditions d\u2019ouverture et de visites, les tarifs, les \u00e9quipements et les services propos\u00e9s.",
+  "extras": {
+    "ckan:name": "liste-des-sites-et-activites-de-glisse-en-aquitaine",
+    "contact_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "contact_name": "CRTA",
+    "contact_uri": "https://datacat.datalocale.fr/414593",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
+    "guid": "https://datacat.datalocale.fr/415769",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-09-29T07:50:48.926855",
+    "harvest:remote_id": "200c25a1-22b2-4ce0-b6fc-342afd8fb8d7",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "91d8aac8-df28-4a2e-893c-629abffde8ac",
+    "issued": "2014-12-24T08:01:21+00:00",
+    "modified": "2016-07-18T09:21:07.213536+00:00",
+    "publisher_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "publisher_name": "agence SIRTAQUI",
+    "publisher_type": "\"Organisation \u00e0 but non lucratif\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414592",
+    "remote_url": "http://www.sirtaqui-aquitaine.com",
+    "theme": "[\"tourisme\"]",
+    "uri": "https://datacat.datalocale.fr/415769"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59b774f3b595085623d6495a",
+  "last_modified": "2017-09-29T07:50:48.929000",
+  "last_update": "2017-09-12T07:47:31.803000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-sites-et-activites-de-glisse-en-aquitaine-1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:47:31.801000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T16:03:12.558000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1771307/raw/liste-csv-activites-glisse-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a51a7bc2-cf59-49cf-b831-c835b5818386",
+      "last_modified": "2017-09-29T07:50:48.924000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a51a7bc2-cf59-49cf-b831-c835b5818386",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:47:31.801000",
+      "title": "liste-csv-activites-glisse-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1771307/raw/liste-csv-activites-glisse-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:47:31.802000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T20:03:35.467000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415775/raw/liste-activites-glisse-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "71f41ee2-ad3a-4c11-b2a1-9950f8ae74ea",
+      "last_modified": "2017-09-29T07:50:48.925000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/71f41ee2-ad3a-4c11-b2a1-9950f8ae74ea",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:47:31.802000",
+      "title": "extraction en csv (utf-8) de la liste des activit\u00e9s de glisse r\u00e9f\u00e9renc\u00e9es dans la base de donnes SIRTAQUI. les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es en wgs84",
+      "url": "https://datacat.datalocale.fr/file/415775/raw/liste-activites-glisse-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:47:31.802000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T20:03:33.062000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415771/raw/liste-xml-activites-glisse-aquitaine.xml"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "a890f224-f79c-4b19-97b5-426be6ed0f54",
+      "last_modified": "2017-09-29T07:50:48.925000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a890f224-f79c-4b19-97b5-426be6ed0f54",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/xml",
+      "published": "2017-09-12T07:47:31.802000",
+      "title": "extraction en xmlv (tourinfo) de la liste des activit\u00e9s de glisse r\u00e9f\u00e9renc\u00e9es dans la base de donnes SIRTAQUI. les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es en wgs84",
+      "url": "https://datacat.datalocale.fr/file/415771/raw/liste-xml-activites-glisse-aquitaine.xml"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:47:31.803000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-11-20T16:03:12.590000",
+        "check:status": 501,
+        "check:url": "http://wcf.tourinsoft.com/Syndication/aquitaine/99c72d34-b4a3-4c1d-975e-059700628352/Objects?$format=json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "338e4e32-34f5-47a2-828c-7710a3167ed5",
+      "last_modified": "2017-09-29T07:50:48.925000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/338e4e32-34f5-47a2-828c-7710a3167ed5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-09-12T07:47:31.803000",
+      "title": "flux de consommation des donn\u00e9es temps r\u00e9el",
+      "url": "http://wcf.tourinsoft.com/Syndication/aquitaine/99c72d34-b4a3-4c1d-975e-059700628352/Objects?$format=json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:47:31.803000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T20:03:33.017000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414600/raw/description%20des%20champs%20des%20jeux%20de%20donn%C3%A9es"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "85f372d5-ca09-44d4-adf7-041d71b5b2fb",
+      "last_modified": "2017-09-29T07:50:48.925000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/85f372d5-ca09-44d4-adf7-041d71b5b2fb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:47:31.803000",
+      "title": "description des champs des jeux de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414600/raw/description%20des%20champs%20des%20jeux%20de%20donn%C3%A9es"
+    }
+  ],
+  "slug": "liste-des-sites-et-activites-de-glisse-en-aquitaine-1",
+  "spatial": null,
+  "tags": [
+    "glisse",
+    "nautisme",
+    "neige",
+    "ski",
+    "sport",
+    "surf",
+    "tourisme"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des sites et activit\u00e9s de glisse en Aquitaine",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-sites-et-activites-de-glisse-en-aquitaine-1/"
+}

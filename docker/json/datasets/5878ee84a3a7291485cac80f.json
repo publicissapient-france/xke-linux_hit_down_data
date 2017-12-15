@@ -1,0 +1,110 @@
+{
+  "badges": [],
+  "created_at": "2013-02-23T00:00:00",
+  "deleted": null,
+  "description": "",
+  "extras": {
+    "ckan:name": "service-v-lhop-strasbourg",
+    "harvest:domain": "www.nosdonnees.fr",
+    "harvest:last_update": "2017-07-10T06:06:07.727929",
+    "harvest:remote_id": "7403d0a7-665c-4d8f-aac2-e0fada8bef6b",
+    "harvest:source_id": "5878ee1588ee385bffa6f719",
+    "remote_url": "http://www.strasbourg.eu/fr/ma-situation/professionnel/open-data/donnees"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5878ee84a3a7291485cac80f",
+  "last_modified": "2017-07-10T06:06:07.729000",
+  "last_update": "2017-01-13T16:13:08.752000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff99a3a7292c64a78016",
+    "logo": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-100.png",
+    "name": "NosDonn\u00e9es.fr",
+    "page": "https://www.data.gouv.fr/fr/organizations/nosdonnees-fr/",
+    "slug": "nosdonnees-fr",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nosdonnees-fr/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/service-v-lhop-strasbourg/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:13:08.752000",
+      "description": "Localisation des stations V\u00e9lhop sous la forme d'un flux XML au format GML.",
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-11-19T23:07:03.994000",
+        "check:status": 404,
+        "check:url": "http://carto.strasmap.eu/store/data/module/poi_velhop.xml"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "ae4c2168-1b96-4889-9651-22df1715a5b3",
+      "last_modified": "2012-08-01T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ae4c2168-1b96-4889-9651-22df1715a5b3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/xml",
+      "published": "2017-01-13T16:13:08.752000",
+      "title": "Localisation des stations V\u00e9lhop",
+      "url": "http://carto.strasmap.eu/store/data/module/poi_velhop.xml"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:13:08.752000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-29T14:25:45.950000",
+        "check:status": 200,
+        "check:url": "https://raw.githubusercontent.com/Rudloff/open-data-strasbourg/master/localisation-stations-velos-libre-service-velhop.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "3d06e871-cbc6-4aa2-bb20-f683ee081837",
+      "last_modified": "2017-07-10T06:06:07.727000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3d06e871-cbc6-4aa2-bb20-f683ee081837",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:13:08.752000",
+      "title": "Version CSV",
+      "url": "https://raw.githubusercontent.com/Rudloff/open-data-strasbourg/master/localisation-stations-velos-libre-service-velhop.csv"
+    }
+  ],
+  "slug": "service-v-lhop-strasbourg",
+  "spatial": null,
+  "tags": [
+    "strasbourg",
+    "velhop"
+  ],
+  "temporal_coverage": null,
+  "title": "Service V\u00e9lhop Strasbourg",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/service-v-lhop-strasbourg/"
+}

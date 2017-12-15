@@ -1,0 +1,229 @@
+{
+  "badges": [],
+  "created_at": "2017-10-03T00:00:00",
+  "deleted": null,
+  "description": "Part de la population d\u00e9partementale couverte par un Sch\u00e9ma de Coh\u00e9rence Territoriale (SCOT).",
+  "extras": {
+    "ckan:name": "part-de-la-population-departementale-couverte-par-un-schema-de-coherence-territoriale-scot",
+    "contact_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "contact_name": "Mission Agenda 21",
+    "contact_uri": "https://datacat.datalocale.fr/414579",
+    "guid": "https://datacat.datalocale.fr/414580",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-11-27T05:23:59.952408",
+    "harvest:remote_id": "6e738dd0-6357-4517-a22b-6322f562fa4e",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "03fc9e8d-686a-48bc-ae7d-f0e181858310",
+    "issued": "2013-08-27T09:52:15+00:00",
+    "modified": "2016-07-18T09:21:04.927717+00:00",
+    "publisher_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "publisher_name": "dgsd-a21",
+    "publisher_uri": "https://datacat.datalocale.fr/414578",
+    "theme": "[\"am\u00e9nagement du territoire\"]",
+    "uri": "https://datacat.datalocale.fr/414580"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59d46022b59508043ce9b9e4",
+  "last_modified": "2017-11-27T05:23:59.954000",
+  "last_update": "2017-10-14T06:06:31.882000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/part-de-la-population-departementale-couverte-par-un-schema-de-coherence-territoriale-scot-3/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-10-04T06:14:26.931000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T18:46:10.993000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414582/raw/2013-09-02-095505tx_population_scot.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ad902b68-1685-4eae-a584-e97d86af93e1",
+      "last_modified": "2017-10-04T06:14:26.931000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ad902b68-1685-4eae-a584-e97d86af93e1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-04T06:14:26.931000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414582/raw/2013-09-02-095505tx_population_scot.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-04T06:14:26.931000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T18:46:08.360000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414584/raw/2013-09-02-095505tx_population_scotdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "61751758-a876-42e9-84d5-26951908aca6",
+      "last_modified": "2017-10-04T06:14:26.931000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/61751758-a876-42e9-84d5-26951908aca6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-10-04T06:14:26.931000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414584/raw/2013-09-02-095505tx_population_scotdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-05T06:17:30.473000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T18:46:10.993000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414582/raw/2013-09-02-095505tx_population_scot.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "fa134660-a6d3-415a-932a-14eda92f9e38",
+      "last_modified": "2017-10-05T06:17:30.473000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fa134660-a6d3-415a-932a-14eda92f9e38",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-05T06:17:30.473000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414582/raw/2013-09-02-095505tx_population_scot.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-05T06:17:30.474000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T18:46:08.360000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414584/raw/2013-09-02-095505tx_population_scotdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "70bae4ee-3b55-4a58-90d0-68ddce4239dc",
+      "last_modified": "2017-10-05T06:17:30.474000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/70bae4ee-3b55-4a58-90d0-68ddce4239dc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-10-05T06:17:30.474000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414584/raw/2013-09-02-095505tx_population_scotdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:06:31.881000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-17T12:51:38.593000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/distribution/414583/raw/2013-09-02-095505tx_population_scotdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "b113bbab-0bbe-42ca-874b-20c29d02bbcc",
+      "last_modified": "2017-11-27T05:23:59.951000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b113bbab-0bbe-42ca-874b-20c29d02bbcc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-10-14T06:06:31.881000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/distribution/414583/raw/2013-09-02-095505tx_population_scotdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:06:31.881000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-17T12:51:39.460000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/distribution/414581/raw/2013-09-02-095505tx_population_scot.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "747479b8-f3c1-4d01-89ce-36bb9057917d",
+      "last_modified": "2017-11-27T05:23:59.951000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/747479b8-f3c1-4d01-89ce-36bb9057917d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-14T06:06:31.882000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/distribution/414581/raw/2013-09-02-095505tx_population_scot.csv"
+    }
+  ],
+  "slug": "part-de-la-population-departementale-couverte-par-un-schema-de-coherence-territoriale-scot-3",
+  "spatial": null,
+  "tags": [
+    "amenagement",
+    "scot",
+    "territoire"
+  ],
+  "temporal_coverage": null,
+  "title": "Part de la population d\u00e9partementale couverte par un Sch\u00e9ma de Coh\u00e9rence Territoriale (SCOT)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/part-de-la-population-departementale-couverte-par-un-schema-de-coherence-territoriale-scot-3/"
+}

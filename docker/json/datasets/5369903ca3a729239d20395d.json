@@ -1,0 +1,158 @@
+{
+  "badges": [],
+  "created_at": "2014-03-15T23:38:02.517000",
+  "deleted": null,
+  "description": "Cartographie\u00a0[OpenStreetMap](https://openstreetmap.fr/) des gares Transilien en Ile-de-France.\n\nLes donn\u00e9es sont collect\u00e9es par la communaut\u00e9 OpenStreetMap mais \u00e9galement la\u00a0[Junior-Entreprise Sprint](http://www.sprint-je.com/) de Telecom SudParis et Telecom \u00c9cole de Management et le personnel de la SNCF lui-m\u00eame.  \nCes donn\u00e9es sont mises \u00e0 jour\u00a0chaque nuit \u00e0 2 heures du matin.\u00a0\n\nLes donn\u00e9es collect\u00e9es sont relatives aux :\n\n  * \u00c9quipements : automates de vente, bancs, \u00e9crans d\u2019information, balises sonores ...\n  * Cheminements : quais, portillons, ascenseurs, escaliers, bandes podo-tactiles ...\n  * Services en gare : guichets d\u2019information, photomatons, distributeurs, bo\u00eetes aux lettres ...\n  * Points d\u2019int\u00e9r\u00eat li\u00e9s \u00e0 la mobilit\u00e9 : parkings, arr\u00eats de bus, bornes de taxi, passages pi\u00e9tons ...\n\n\n\nLa structure des donn\u00e9es respecte le format du r\u00e9f\u00e9rentiel d\u00e9finit en collaboration avec la communaut\u00e9 OpenStreetMap \u00e0 la page <http://wiki.openstreetmap.org/wiki/FR:Railway_stations>\n\nVous pouvez \u00e9galement exporter au format geoJSON, GPX ou KML depuis\u00a0<http://overpass-turbo.eu/s/axF>.\n\nMise \u00e0 jour 13/12/3015 : ajout de la gare de Rosa Parks ouverte le jour m\u00eame.\n\nMise \u00e0 jour 30/03/2016 : nous proc\u00e9dons \u00e0 la [cr\u00e9ation de nombreuses donn\u00e9es](http://wiki.openstreetmap.org/wiki/WikiProject_France/Transilien) issues de sources diverses et continueront dans les semaines \u00e0 venir.\n\nMise \u00e0 jour 06/04/2016 : ajout des donn\u00e9es des grandes gares parisiennes : gare de Lyon, gare du Nord, gare de l'Est, Montparnasse, Paris Austerlitz, Magenta, Haussmann.\n\nMise \u00e0 jour 31/05/2016 : int\u00e9gration r\u00e9cente de nombreuses donn\u00e9es issues des plans d'architectes et des plans de p\u00f4le affich\u00e9 en gare. [Plus de 70 gares sont concern\u00e9es](http://wiki.openstreetmap.org/wiki/WikiProject_France/Transilien).",
+  "extras": {
+    "datagouv_ckan_id": "2161fe46-d95a-4b04-95cf-378bd81abb77",
+    "datagouv_ckan_last_sync": "2014-09-17T03:49:51.315000",
+    "harvest:domain": "ressources.data.sncf.com",
+    "harvest:last_update": "2017-11-27T05:02:15.404897",
+    "harvest:remote_id": "osm-mapping-idf",
+    "harvest:source_id": "563dd01f88ee386a21e72046",
+    "ods:has_records": true,
+    "ods:url": "https://ressources.data.sncf.com/explore/dataset/osm-mapping-idf/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5369903ca3a729239d20395d",
+  "last_modified": "2017-11-27T05:02:15.408000",
+  "last_update": "2017-11-27T05:02:15.403000",
+  "license": "odc-odbl",
+  "metrics": {
+    "cow_criticals": 0,
+    "cow_errors": 0,
+    "cow_score": 0.740609182055727,
+    "cow_warnings": 3,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 4,
+    "views": 9
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb0a3a7292c64a78115",
+    "logo": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-100.png",
+    "name": "SNCF",
+    "page": "https://www.data.gouv.fr/fr/organizations/sncf/",
+    "slug": "sncf",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/sncf/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/cartographie-openstreetmap-des-gares-sncf-transilien-en-ile-de-france-1/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:02:15.401000",
+      "description": "- *id*: id[text]\n- *gare*: gare_name[text]\n- *amenity*: amenity[text]\n- *highway*: highway[text]\n- *wheelchair*: wheelchair[text]\n- *conveying*: conveying[text]\n- *shop*: shop[text]\n- *note*: notefr[text]\n- *visible*: visible[text]\n- *type*: typeratp[text]\n- *zone*: stifzone[int]\n- *operator*: operator[text]\n- *wikipedia*: wikipedia[text]\n- *name*: name[text]\n- *alt_name*: alt_name[text]\n- *other_tags*: other_tags[text]\n- *official_name*: official_name[text]\n- *indoor*: indoor[text]\n- *source*: source[text]\n- *access*: access[text]\n- *railway*: railway[text]\n- *barrier*: barrier[text]\n- *uic_ref*: uic_ref[text]\n- *tactile_paving*: tactile_paving[text]\n- *layer*: layer[text]\n- *bus*: bus[text]\n- *incline*: incline[text]\n- *network*: network[text]\n- *public_transport*: public_transport[text]\n- *ref*: ref[text]\n- *entrance*: entrance[text]\n- *information*: information[text]\n- *tourism*: tourism[text]\n- *vending*: vending[text]\n- *capacity*: capacity[text]\n- *note*: note[text]\n- *timestamp*: timestamp[datetime]\n- *user*: user[text]\n- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *Geo Type*: geo_type[text]\n- *uic_ref (UIC7)*: relation_uic_ref[text]\n- *emergency*: emergency[text]\n- *ligne*: relation_line[text]\n- *Relation ref:FR:uic8*: relation_ref_fr_uic8[text]\n- *addr:housenumber*: addr_housenumber[text]\n- *addr:street*: addr_street[text]\n- *addr:city*: addr_city[text]\n- *addr:postcode*: addr_postcode[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2746ae77-ab68-4a10-838d-de77ff80b53f",
+      "last_modified": "2016-04-06T09:37:07",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2746ae77-ab68-4a10-838d-de77ff80b53f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:02:15.401000",
+      "title": "Export au format CSV",
+      "url": "https://ressources.data.sncf.com/explore/dataset/osm-mapping-idf/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:02:15.401000",
+      "description": "- *id*: id[text]\n- *gare*: gare_name[text]\n- *amenity*: amenity[text]\n- *highway*: highway[text]\n- *wheelchair*: wheelchair[text]\n- *conveying*: conveying[text]\n- *shop*: shop[text]\n- *note*: notefr[text]\n- *visible*: visible[text]\n- *type*: typeratp[text]\n- *zone*: stifzone[int]\n- *operator*: operator[text]\n- *wikipedia*: wikipedia[text]\n- *name*: name[text]\n- *alt_name*: alt_name[text]\n- *other_tags*: other_tags[text]\n- *official_name*: official_name[text]\n- *indoor*: indoor[text]\n- *source*: source[text]\n- *access*: access[text]\n- *railway*: railway[text]\n- *barrier*: barrier[text]\n- *uic_ref*: uic_ref[text]\n- *tactile_paving*: tactile_paving[text]\n- *layer*: layer[text]\n- *bus*: bus[text]\n- *incline*: incline[text]\n- *network*: network[text]\n- *public_transport*: public_transport[text]\n- *ref*: ref[text]\n- *entrance*: entrance[text]\n- *information*: information[text]\n- *tourism*: tourism[text]\n- *vending*: vending[text]\n- *capacity*: capacity[text]\n- *note*: note[text]\n- *timestamp*: timestamp[datetime]\n- *user*: user[text]\n- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *Geo Type*: geo_type[text]\n- *uic_ref (UIC7)*: relation_uic_ref[text]\n- *emergency*: emergency[text]\n- *ligne*: relation_line[text]\n- *Relation ref:FR:uic8*: relation_ref_fr_uic8[text]\n- *addr:housenumber*: addr_housenumber[text]\n- *addr:street*: addr_street[text]\n- *addr:city*: addr_city[text]\n- *addr:postcode*: addr_postcode[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "1b9bb7d5-6939-42b6-829b-5f822d4353f9",
+      "last_modified": "2016-04-06T09:37:07",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1b9bb7d5-6939-42b6-829b-5f822d4353f9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:02:15.401000",
+      "title": "Export au format JSON",
+      "url": "https://ressources.data.sncf.com/explore/dataset/osm-mapping-idf/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:02:15.402000",
+      "description": "- *id*: id[text]\n- *gare*: gare_name[text]\n- *amenity*: amenity[text]\n- *highway*: highway[text]\n- *wheelchair*: wheelchair[text]\n- *conveying*: conveying[text]\n- *shop*: shop[text]\n- *note*: notefr[text]\n- *visible*: visible[text]\n- *type*: typeratp[text]\n- *zone*: stifzone[int]\n- *operator*: operator[text]\n- *wikipedia*: wikipedia[text]\n- *name*: name[text]\n- *alt_name*: alt_name[text]\n- *other_tags*: other_tags[text]\n- *official_name*: official_name[text]\n- *indoor*: indoor[text]\n- *source*: source[text]\n- *access*: access[text]\n- *railway*: railway[text]\n- *barrier*: barrier[text]\n- *uic_ref*: uic_ref[text]\n- *tactile_paving*: tactile_paving[text]\n- *layer*: layer[text]\n- *bus*: bus[text]\n- *incline*: incline[text]\n- *network*: network[text]\n- *public_transport*: public_transport[text]\n- *ref*: ref[text]\n- *entrance*: entrance[text]\n- *information*: information[text]\n- *tourism*: tourism[text]\n- *vending*: vending[text]\n- *capacity*: capacity[text]\n- *note*: note[text]\n- *timestamp*: timestamp[datetime]\n- *user*: user[text]\n- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *Geo Type*: geo_type[text]\n- *uic_ref (UIC7)*: relation_uic_ref[text]\n- *emergency*: emergency[text]\n- *ligne*: relation_line[text]\n- *Relation ref:FR:uic8*: relation_ref_fr_uic8[text]\n- *addr:housenumber*: addr_housenumber[text]\n- *addr:street*: addr_street[text]\n- *addr:city*: addr_city[text]\n- *addr:postcode*: addr_postcode[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "45d970b1-ea9f-4801-bb50-94125c6407a1",
+      "last_modified": "2016-04-06T09:37:07",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/45d970b1-ea9f-4801-bb50-94125c6407a1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:02:15.402000",
+      "title": "Export au format GeoJSON",
+      "url": "https://ressources.data.sncf.com/explore/dataset/osm-mapping-idf/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:02:15.402000",
+      "description": "- *id*: id[text]\n- *gare*: gare_name[text]\n- *amenity*: amenity[text]\n- *highway*: highway[text]\n- *wheelchair*: wheelchair[text]\n- *conveying*: conveying[text]\n- *shop*: shop[text]\n- *note*: notefr[text]\n- *visible*: visible[text]\n- *type*: typeratp[text]\n- *zone*: stifzone[int]\n- *operator*: operator[text]\n- *wikipedia*: wikipedia[text]\n- *name*: name[text]\n- *alt_name*: alt_name[text]\n- *other_tags*: other_tags[text]\n- *official_name*: official_name[text]\n- *indoor*: indoor[text]\n- *source*: source[text]\n- *access*: access[text]\n- *railway*: railway[text]\n- *barrier*: barrier[text]\n- *uic_ref*: uic_ref[text]\n- *tactile_paving*: tactile_paving[text]\n- *layer*: layer[text]\n- *bus*: bus[text]\n- *incline*: incline[text]\n- *network*: network[text]\n- *public_transport*: public_transport[text]\n- *ref*: ref[text]\n- *entrance*: entrance[text]\n- *information*: information[text]\n- *tourism*: tourism[text]\n- *vending*: vending[text]\n- *capacity*: capacity[text]\n- *note*: note[text]\n- *timestamp*: timestamp[datetime]\n- *user*: user[text]\n- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *Geo Type*: geo_type[text]\n- *uic_ref (UIC7)*: relation_uic_ref[text]\n- *emergency*: emergency[text]\n- *ligne*: relation_line[text]\n- *Relation ref:FR:uic8*: relation_ref_fr_uic8[text]\n- *addr:housenumber*: addr_housenumber[text]\n- *addr:street*: addr_street[text]\n- *addr:city*: addr_city[text]\n- *addr:postcode*: addr_postcode[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "fb7adfd5-1d4a-4f6d-b655-f8c1e23df444",
+      "last_modified": "2016-04-06T09:37:07",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fb7adfd5-1d4a-4f6d-b655-f8c1e23df444",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:02:15.403000",
+      "title": "Export au format Shapefile",
+      "url": "https://ressources.data.sncf.com/explore/dataset/osm-mapping-idf/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "cartographie-openstreetmap-des-gares-sncf-transilien-en-ile-de-france-1",
+  "spatial": {
+    "geom": null,
+    "granularity": "poi",
+    "zones": [
+      "fr:region:11@1970-01-09"
+    ]
+  },
+  "tags": [
+    "equipement",
+    "gare-de-voyageurs",
+    "gares-et-infrastructures",
+    "ile-de-france",
+    "openstreetmap"
+  ],
+  "temporal_coverage": null,
+  "title": "Cartographie OpenStreetMap des gares SNCF Transilien en Ile-de-France",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/cartographie-openstreetmap-des-gares-sncf-transilien-en-ile-de-france-1/"
+}

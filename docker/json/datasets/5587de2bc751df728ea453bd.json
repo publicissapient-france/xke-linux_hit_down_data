@@ -1,0 +1,82 @@
+{
+  "badges": [],
+  "created_at": "2015-06-22T12:06:35.485000",
+  "deleted": null,
+  "description": "Chiffres de l'INSEE concernant la commune de Saint-Malo, d\u00e9taillant :\r\n\r\n\r\n- Ann\u00e9e (_de 1968 \u00e0 1999, comptages dans le cadre des recensements \"quinquennaux\". A partir de 2006, m\u00e9thode de recensement en continu_)\r\n- Nombre de logements\r\n- dont R\u00e9sidences principales\r\n- dont R\u00e9sidences secondaires (_logements utilis\u00e9s pour les week-ends, loisirs ou vacances. Les locations meubl\u00e9es pour des s\u00e9jours touristiques sont \u00e9galement class\u00e9s en r\u00e9sidences secondaires_)\r\n- dont Logements vacants (_logements propos\u00e9s \u00e0 la vente ou \u00e0 la location, en attente de r\u00e8glement de succession, logements de fonction inoccup\u00e9s_)",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": null,
+  "id": "5587de2bc751df728ea453bd",
+  "last_modified": "2016-03-07T03:36:37.786000",
+  "last_update": "2015-06-22T12:06:57.211000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 1,
+    "views": 19
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "53ba4599a3a729219b7beaca",
+    "logo": "https://www.data.gouv.fr/s/avatars/71/d80c263317463ca8050811b5b22be6-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/71/d80c263317463ca8050811b5b22be6-100.png",
+    "name": "Ville de Saint-Malo",
+    "page": "https://www.data.gouv.fr/fr/organizations/ville-de-saint-malo/",
+    "slug": "ville-de-saint-malo",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ville-de-saint-malo/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/statistiques-logements/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "a4119eff4b425ab2d36995563acba6e34547e228"
+      },
+      "created_at": "2015-06-22T12:06:57.211000",
+      "description": "",
+      "extras": {},
+      "filesize": 473,
+      "filetype": "file",
+      "format": "csv",
+      "id": "29dc3bb8-1f27-4d45-8cec-2f4292572ee2",
+      "last_modified": "2015-09-03T10:42:41.987000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/29dc3bb8-1f27-4d45-8cec-2f4292572ee2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 15
+      },
+      "mime": "text/csv",
+      "published": "2015-06-22T12:06:57.211000",
+      "title": "35288-STMALO-Logements.csv",
+      "url": "https://www.data.gouv.fr/s/resources/statistiques-logements/community/20150903-104236/35288-STMALO-Logements.csv"
+    }
+  ],
+  "slug": "statistiques-logements",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:commune",
+    "zones": [
+      "fr:commune:35288@1942-01-01"
+    ]
+  },
+  "tags": [
+    "logement",
+    "residence"
+  ],
+  "temporal_coverage": {
+    "end": "2012-12-31",
+    "start": "1968-01-01"
+  },
+  "title": "Statistiques logements",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/statistiques-logements/"
+}

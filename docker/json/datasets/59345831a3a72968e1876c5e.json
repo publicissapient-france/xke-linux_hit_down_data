@@ -1,0 +1,96 @@
+{
+  "badges": [],
+  "created_at": "2017-03-24T00:00:00",
+  "deleted": null,
+  "description": "Liste des offices de tourisme et syndicats d\u2019initiative, des Comit\u00e9s D\u00e9partementaux du Tourisme et Agence de D\u00e9veloppement Touristique, Comit\u00e9 R\u00e9gional de Tourisme en Aquitaine, issue de la base de donn\u00e9es SIRTAQUI.\nCe fichier contient les informations de g\u00e9olocalisation et de contact, les informations sur les marques et labels, les conditions d\u2019ouverture et les services propos\u00e9s.",
+  "extras": {
+    "ckan:name": "liste-des-points-infos-tourisme-en-aquitaine1",
+    "contact_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "contact_name": "CRTA",
+    "contact_uri": "https://datacat.datalocale.fr/414593",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
+    "guid": "https://datacat.datalocale.fr/415796",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-06-04T20:57:53.760207",
+    "harvest:remote_id": "c7237064-75c2-4c49-a13a-c7bf856ffcea",
+    "harvest:source_id": "59342bc2c751df46b29d4f99",
+    "identifier": "99f77487-6001-46ad-887f-42510c965952",
+    "issued": "2015-01-01T20:25:30+00:00",
+    "modified": "2016-07-18T09:21:07.257829+00:00",
+    "publisher_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "publisher_name": "agence SIRTAQUI",
+    "publisher_type": "\"Organisation \u00e0 but non lucratif\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414592",
+    "remote_url": "http://partenaires.tourisme-aquitaine.fr",
+    "theme": "[\"tourisme\"]",
+    "uri": "https://datacat.datalocale.fr/415796"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59345831a3a72968e1876c5e",
+  "last_modified": "2017-06-04T20:57:53.762000",
+  "last_update": "2017-06-04T20:57:53.759000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": null,
+  "owner": {
+    "avatar": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-original.jpg",
+    "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-100.jpg",
+    "class": "User",
+    "first_name": "Ressourcerie",
+    "id": "534fff47a3a7292c64a77adc",
+    "last_name": "datalocale",
+    "page": "https://www.data.gouv.fr/fr/users/ressourcerie-datalocale/",
+    "slug": "ressourcerie-datalocale",
+    "uri": "https://www.data.gouv.fr/api/1/users/ressourcerie-datalocale/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-points-infos-tourisme-en-aquitaine1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:57:53.759000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T08:39:43.312000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1487136/raw/liste-csv-points-infos-tourisme-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "0a4a3aaa-7d5d-4b1b-ac1a-799e7d3551ed",
+      "last_modified": "2017-06-04T20:57:53.759000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0a4a3aaa-7d5d-4b1b-ac1a-799e7d3551ed",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:57:53.759000",
+      "title": "liste-csv-points-infos-tourisme-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1487136/raw/liste-csv-points-infos-tourisme-aquitaine.csv"
+    }
+  ],
+  "slug": "liste-des-points-infos-tourisme-en-aquitaine1",
+  "spatial": null,
+  "tags": [
+    "office-de-tourisme",
+    "tourisme"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des points infos tourisme en Aquitaine",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-points-infos-tourisme-en-aquitaine1/"
+}

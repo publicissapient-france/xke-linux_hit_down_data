@@ -1,0 +1,158 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T17:58:56.557000",
+  "deleted": null,
+  "description": "La R\u00e9gion accompagne la scolarit\u00e9 des lyc\u00e9ens en assurant depuis 2001 la gratuit\u00e9 des manuels scolaires. Dans le cadre des r\u00e9formes engag\u00e9es par le minist\u00e8re de l\u2019\u00e9ducation nationale induisant le renouvellement complet des collections d\u00e8s 2010, la R\u00e9gion a d\u00e9cid\u00e9 de continuer \u00e0 soutenir les familles dans le contexte de diminution du pouvoir d\u2019achat et de crise \u00e9conomique. \n\nLes b\u00e9n\u00e9ficiaires sont les lyc\u00e9ens des \u00e9tablissements publics. \n\nLes livres sont pr\u00eat\u00e9s par les \u00e9tablissements aux \u00e9l\u00e8ves durant le temps de l'ann\u00e9e scolaire. Pour les lyc\u00e9ens professionnels, cette aide peut permettre l\u2019achat de cahiers d\u2019exercices.\n\nLa R\u00e9gion verse une dotation initiale aux \u00e9tablissements avant le d\u00e9but de l\u2019ann\u00e9e scolaire. Les ajustements sont effectu\u00e9s en cours d\u2019ann\u00e9e pour tenir compte notamment de l\u2019\u00e9volution des effectifs. \n\n **Description des champs** :  \n\nDotation brute : valeur calcul\u00e9e suivant le bar\u00e8me annuel sans prise en compte du reliquat.",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T05:38:40.230304",
+    "harvest:remote_id": "dotation-initiale-de-laide-regionale-a-la-gratuite-des-manuels-scolaires-pour-le",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/dotation-initiale-de-laide-regionale-a-la-gratuite-des-manuels-scolaires-pour-le/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59591840a3a7291dcf9c80c9",
+  "last_modified": "2017-11-27T05:38:40.237000",
+  "last_update": "2017-11-27T05:38:40.229000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/dotation-initiale-de-laide-regionale-a-la-gratuite-des-manuels-scolaires-pour-les-formations-pre-bac-en-2013-2014/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:38:40.228000",
+      "description": "- *Nom*: nom[text]\n- *Adresse*: adresse[text]\n- *Code d\u00e9partement*: code_departement[text]\n- *Code postal*: cp[int]\n- *Commune*: commune[text]\n- *Dotations brutes*: dotations_brutes[int]\n- *wgs84*: wgs84[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "32ca4863-7dc5-4ded-b23c-86cb3e23e15b",
+      "last_modified": "2014-03-26T16:51:23",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/32ca4863-7dc5-4ded-b23c-86cb3e23e15b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:38:40.228000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/dotation-initiale-de-laide-regionale-a-la-gratuite-des-manuels-scolaires-pour-le/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:38:40.228000",
+      "description": "- *Nom*: nom[text]\n- *Adresse*: adresse[text]\n- *Code d\u00e9partement*: code_departement[text]\n- *Code postal*: cp[int]\n- *Commune*: commune[text]\n- *Dotations brutes*: dotations_brutes[int]\n- *wgs84*: wgs84[geo_point_2d]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T23:37:05.548000",
+        "check:status": 200,
+        "check:url": "https://data.iledefrance.fr//explore/dataset/dotation-initiale-de-laide-regionale-a-la-gratuite-des-manuels-scolaires-pour-le/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "633aaecf-8bf7-4e2d-a2b4-53a055c0af18",
+      "last_modified": "2014-03-26T16:51:23",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/633aaecf-8bf7-4e2d-a2b4-53a055c0af18",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:38:40.229000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/dotation-initiale-de-laide-regionale-a-la-gratuite-des-manuels-scolaires-pour-le/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:38:40.229000",
+      "description": "- *Nom*: nom[text]\n- *Adresse*: adresse[text]\n- *Code d\u00e9partement*: code_departement[text]\n- *Code postal*: cp[int]\n- *Commune*: commune[text]\n- *Dotations brutes*: dotations_brutes[int]\n- *wgs84*: wgs84[geo_point_2d]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T05:35:48.889000",
+        "check:status": 200,
+        "check:url": "https://data.iledefrance.fr//explore/dataset/dotation-initiale-de-laide-regionale-a-la-gratuite-des-manuels-scolaires-pour-le/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "3dd39d11-519c-498d-8b4f-7775226a02d2",
+      "last_modified": "2014-03-26T16:51:23",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3dd39d11-519c-498d-8b4f-7775226a02d2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:38:40.229000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/dotation-initiale-de-laide-regionale-a-la-gratuite-des-manuels-scolaires-pour-le/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:38:40.229000",
+      "description": "- *Nom*: nom[text]\n- *Adresse*: adresse[text]\n- *Code d\u00e9partement*: code_departement[text]\n- *Code postal*: cp[int]\n- *Commune*: commune[text]\n- *Dotations brutes*: dotations_brutes[int]\n- *wgs84*: wgs84[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "00bd44b3-7b05-4e24-94b6-0364f0e296fb",
+      "last_modified": "2014-03-26T16:51:23",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/00bd44b3-7b05-4e24-94b6-0364f0e296fb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:38:40.229000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.iledefrance.fr//explore/dataset/dotation-initiale-de-laide-regionale-a-la-gratuite-des-manuels-scolaires-pour-le/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "dotation-initiale-de-laide-regionale-a-la-gratuite-des-manuels-scolaires-pour-les-formations-pre-bac-en-2013-2014",
+  "spatial": null,
+  "tags": [
+    "aide",
+    "dotation",
+    "enseignement",
+    "enseignement-formation-recherche",
+    "formation",
+    "geolocalisation",
+    "lycees"
+  ],
+  "temporal_coverage": null,
+  "title": "Dotation initiale de l\u2019aide r\u00e9gionale \u00e0 la gratuit\u00e9 des manuels scolaires pour les formations pr\u00e9-bac en 2013-2014",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/dotation-initiale-de-laide-regionale-a-la-gratuite-des-manuels-scolaires-pour-les-formations-pre-bac-en-2013-2014/"
+}

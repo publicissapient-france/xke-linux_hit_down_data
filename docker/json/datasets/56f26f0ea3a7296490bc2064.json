@@ -1,0 +1,101 @@
+{
+  "badges": [],
+  "created_at": "2016-03-23T11:25:18.778000",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es propose en un seul fichier l'ensemble des objets du r\u00e9f\u00e9rentiel arr\u00eats d'\u00cele-de-France ainsi que l'arborescence des objets.\n\nLes diff\u00e9rents objets d\u00e9crits sont :\n\n  * les Zones d'embarquement (ZDE)\n  * les Zones de lieu (ZDL) auxquelles elles sont reli\u00e9es\n  * les Lieux d'arr\u00eat (LDA) auxquelles elles sont reli\u00e9es.\n\n\n\n* * *\n\n**Documentation**\n\nUne documentation relative aux r\u00e9f\u00e9rentiels de transport du STIF est disponible.\n\n**[>> Consulter la documentation sur les r\u00e9f\u00e9rentiels << ](http://opendata.stif.info/api/datasets/1.0/referentiel-arret-tc-idf/attachments/referentiels_doc_pdf/)**\n\n* * *\n\n**Les jeux de donn\u00e9es du r\u00e9f\u00e9rentiel des arr\u00eats**\n\n  * [Objets du R\u00e9f\u00e9rentiel des arr\u00eats de transport en commun en Ile-de-France](http://opendata.stif.info/explore/dataset/referentiel-arret-tc-idf/?tab=metas) (format csv)\n  * [Couche g\u00e9ographique d\u00e9crivant les Zones d'Embarquement\u00a0 (ZDE)](http://opendata.stif.info/explore/dataset/zde-ref-idf/?tab=metas) (format shape)\n  * [Couche g\u00e9ographique d\u00e9crivant les Zones de Lieu\u00a0 (ZDL)](http://opendata.stif.info/explore/dataset/zdl-ref-idf/?tab=metas) (format shape)\n  * [Couche g\u00e9ographique d\u00e9crivant les Lieux d'Arr\u00eat (LDA)](http://opendata.stif.info/explore/dataset/lda-ref-idf/?tab=metas) (format shape)\n\n\n\n****",
+  "extras": {
+    "harvest:domain": "opendata.stif.info",
+    "harvest:last_update": "2017-11-27T05:14:16.476415",
+    "harvest:remote_id": "referentiel-arret-tc-idf",
+    "harvest:source_id": "569fec99c751df2484ade713",
+    "ods:has_records": true,
+    "ods:url": "http://opendata.stif.info//explore/dataset/referentiel-arret-tc-idf/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "56f26f0ea3a7296490bc2064",
+  "last_modified": "2017-11-27T05:14:16.480000",
+  "last_update": "2017-11-27T05:14:16.474000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "Syndicat des Transports d'Ile-de-France",
+    "class": "Organization",
+    "id": "568e5e9488ee38033aaf0bf4",
+    "logo": "https://www.data.gouv.fr/s/avatars/11/36458e54d84094a7fcca2053afb162-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/11/36458e54d84094a7fcca2053afb162-100.png",
+    "name": "Syndicat des Transports d'Ile-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/syndicat-des-transports-dile-de-france/",
+    "slug": "syndicat-des-transports-dile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/syndicat-des-transports-dile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/referentiel-des-arrets-de-transport-en-commun-en-ile-de-france/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:16.474000",
+      "description": "- *ZDEr_ID_REF_A*: zder_id_ref_a[int] Identifiant r\u00e9f\u00e9rentiel de la Zone d'embarquement\n- *ZDEr_NOM*: zder_nom[text] Nom de la zone d'embarquement\n- *ZDEr_ID_TYPE_ARRET*: zder_id_type_arret[int] ID du type d'arr\u00eat\n- *ZDEr_LIBELLE_TYPE_ARRET*: zder_libelle_type_arret[text] Libell\u00e9 du type d'arr\u00eat\n- *ZDEr_X_Y*: zder_x_y[text] Coordonn\u00e9es en Lambert 93 (srnName 2154)\n- *ZDLr_ID_REF_A*: zdlr_id_ref_a[int]\n- *ZDLr_NOM*: zdlr_nom[text]\n- *ZDLr_ID_TYPE_ARRET*: zdlr_id_type_arret[int]\n- *ZDLr_LIBELLE_TYPE_ARRET*: zdlr_libelle_type_arret[text]\n- *LDA_ID_REF_A*: lda_id_ref_a[int]\n- *LDA_NOM*: lda_nom[text]\n- *LDA_ID_TYPE_ARRET*: lda_id_type_arret[int]\n- *LDA_LIBELLE_TYPE_ARRET*: lda_libelle_type_arret[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a995399c-39ea-40c9-9e50-5c2083467f29",
+      "last_modified": "2015-10-29T13:23:33",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a995399c-39ea-40c9-9e50-5c2083467f29",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:14:16.474000",
+      "title": "Export au format CSV",
+      "url": "http://opendata.stif.info//explore/dataset/referentiel-arret-tc-idf/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:16.474000",
+      "description": "- *ZDEr_ID_REF_A*: zder_id_ref_a[int] Identifiant r\u00e9f\u00e9rentiel de la Zone d'embarquement\n- *ZDEr_NOM*: zder_nom[text] Nom de la zone d'embarquement\n- *ZDEr_ID_TYPE_ARRET*: zder_id_type_arret[int] ID du type d'arr\u00eat\n- *ZDEr_LIBELLE_TYPE_ARRET*: zder_libelle_type_arret[text] Libell\u00e9 du type d'arr\u00eat\n- *ZDEr_X_Y*: zder_x_y[text] Coordonn\u00e9es en Lambert 93 (srnName 2154)\n- *ZDLr_ID_REF_A*: zdlr_id_ref_a[int]\n- *ZDLr_NOM*: zdlr_nom[text]\n- *ZDLr_ID_TYPE_ARRET*: zdlr_id_type_arret[int]\n- *ZDLr_LIBELLE_TYPE_ARRET*: zdlr_libelle_type_arret[text]\n- *LDA_ID_REF_A*: lda_id_ref_a[int]\n- *LDA_NOM*: lda_nom[text]\n- *LDA_ID_TYPE_ARRET*: lda_id_type_arret[int]\n- *LDA_LIBELLE_TYPE_ARRET*: lda_libelle_type_arret[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "731b4918-dccf-435b-8c59-4435b33c2356",
+      "last_modified": "2015-10-29T13:23:33",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/731b4918-dccf-435b-8c59-4435b33c2356",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:14:16.474000",
+      "title": "Export au format JSON",
+      "url": "http://opendata.stif.info//explore/dataset/referentiel-arret-tc-idf/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "referentiel-des-arrets-de-transport-en-commun-en-ile-de-france",
+  "spatial": null,
+  "tags": [
+    "arrets",
+    "referentiel-arrets",
+    "structure-du-reseau"
+  ],
+  "temporal_coverage": null,
+  "title": "R\u00e9f\u00e9rentiel des arr\u00eats de transport en commun en Ile-de-France",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/referentiel-des-arrets-de-transport-en-commun-en-ile-de-france/"
+}

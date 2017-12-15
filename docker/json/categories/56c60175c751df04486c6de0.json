@@ -1,0 +1,54 @@
+{
+  "acronym": "OLL",
+  "badges": [
+    {
+      "kind": "certified"
+    },
+    {
+      "kind": "public-service"
+    }
+  ],
+  "created_at": "2016-02-18T18:37:57.002000",
+  "deleted": null,
+  "description": "Le r\u00e9seau des Observatoires locaux des loyers (OLL) met \u00e0 disposition les statistiques des niveaux de loyers du parc locatif priv\u00e9 afin d'offrir une vision fiable des march\u00e9s locatifs locaux, notamment via un nouveau site Internet : www.observatoires-des-loyers.org d\u00e9velopp\u00e9 par l\u2019Agence nationale pour l\u2019information sur le logement (ANIL) avec l\u2019ensemble des observatoires locaux et l\u2019appui du minist\u00e8re du Logement.\nLes observatoires locaux collectent les loyers pratiqu\u00e9s sur leurs territoires et traitent les donn\u00e9es selon une m\u00e9thode valid\u00e9e par un comit\u00e9 scientifique compos\u00e9 d\u2019experts ind\u00e9pendants et reconnus. Les r\u00e9sultats sont fiables, homog\u00e8nes et transparentes.\n\nLes informations mises \u00e0 disposition ont vocation \u00e0 \u00e9clairer les propri\u00e9taires et les locataires, \u00e0 fournir des \u00e9l\u00e9ments de rep\u00e8re aux professionnels de l\u2019immobilier, aux investisseurs ainsi qu\u2019aux organismes de financement et \u00e0 d\u00e9velopper la connaissance des march\u00e9s locatifs priv\u00e9s, utile \u00e0 l\u2019\u00e9laboration des politiques publiques locales et nationales et aux travaux des chercheurs.\n",
+  "id": "56c60175c751df04486c6de0",
+  "last_modified": "2017-11-24T23:56:41.375000",
+  "logo": "https://www.data.gouv.fr/s/avatars/2a/001570ae6b4b20a2e510ac6f9fe565-original.jpg",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2a/001570ae6b4b20a2e510ac6f9fe565-100.jpg",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/47/5296e4702b4d7ab6e8db3f14d5f336-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/47/5296e4702b4d7ab6e8db3f14d5f336-100.jpg",
+        "class": "User",
+        "first_name": "ANIL",
+        "id": "56c5fdf4c751df04486c6ddf",
+        "last_name": "ANIL",
+        "page": "https://www.data.gouv.fr/fr/users/anil-anil/",
+        "slug": "anil-anil",
+        "uri": "https://www.data.gouv.fr/api/1/users/anil-anil/"
+      }
+    }
+  ],
+  "metrics": {
+    "badges": 0,
+    "dataset_views": 51,
+    "datasets": 2,
+    "followers": 8,
+    "members": 1,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 0,
+    "resource_downloads": 214,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 155
+  },
+  "name": "Observatoires Locaux des Loyers",
+  "page": "https://www.data.gouv.fr/fr/organizations/observatoires-locaux-des-loyers/",
+  "slug": "observatoires-locaux-des-loyers",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/observatoires-locaux-des-loyers/",
+  "url": "https://www.observatoires-des-loyers.org"
+}

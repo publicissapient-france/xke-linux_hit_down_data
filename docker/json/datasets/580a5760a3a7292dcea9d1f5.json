@@ -1,0 +1,100 @@
+{
+  "badges": [],
+  "created_at": "2016-10-21T19:58:56.663000",
+  "deleted": null,
+  "description": "Les donn\u00e9es du Compte administratif de la Ville de Rennes sont des donn\u00e9es de consommation effective qui sont en g\u00e9n\u00e9ral publi\u00e9es en juin de l'ann\u00e9e suivante. Le fichier \"CA 2012 - budgets annexes\" liste les d\u00e9penses et recettes op\u00e9r\u00e9es par la Ville en 2012 sur les budgets annexes de l'eau, de l'assainissement, du chauffage urbain, des pompes fun\u00e8bres ainsi que sur les budgets des Zones d'am\u00e9nagement concert\u00e9es en r\u00e9gie.",
+  "extras": {
+    "harvest:domain": "data.rennesmetropole.fr",
+    "harvest:last_update": "2017-11-27T04:01:53.913565",
+    "harvest:remote_id": "ca-2012-budgets-annexes",
+    "harvest:source_id": "580736ec88ee3816625ff490",
+    "ods:has_records": true,
+    "ods:url": "https://data.rennesmetropole.fr/explore/dataset/ca-2012-budgets-annexes/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "580a5760a3a7292dcea9d1f5",
+  "last_modified": "2017-11-27T04:01:53.915000",
+  "last_update": "2017-11-27T04:01:53.912000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "RM",
+    "class": "Organization",
+    "id": "580735be88ee3814295ff490",
+    "logo": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-100.png",
+    "name": "Rennes M\u00e9tropole en acc\u00e8s libre",
+    "page": "https://www.data.gouv.fr/fr/organizations/rennes-metropole-en-acces-libre-1/",
+    "slug": "rennes-metropole-en-acces-libre-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/rennes-metropole-en-acces-libre-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/ca-2012-ville-de-rennes-budgets-annexes/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:01:53.912000",
+      "description": "- *Budget*: budget[text]\n- *Libell\u00e9*: libelle[text]\n- *Section*: investissmt_fonctionnmt_i_f[text] Investissement ou Fonctionnement\n- *Sens*: depense_recette[text] D\u00e9penses ou recettes\n- *Somme*: ca_2012[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f9dc8d1a-53de-4cac-bd1e-fb202ea25902",
+      "last_modified": "2013-07-09T09:22:42",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f9dc8d1a-53de-4cac-bd1e-fb202ea25902",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T04:01:53.912000",
+      "title": "Export au format CSV",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/ca-2012-budgets-annexes/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:01:53.912000",
+      "description": "- *Budget*: budget[text]\n- *Libell\u00e9*: libelle[text]\n- *Section*: investissmt_fonctionnmt_i_f[text] Investissement ou Fonctionnement\n- *Sens*: depense_recette[text] D\u00e9penses ou recettes\n- *Somme*: ca_2012[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "76d123d0-840f-4485-ac8c-ab24c241aa02",
+      "last_modified": "2013-07-09T09:22:42",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/76d123d0-840f-4485-ac8c-ab24c241aa02",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T04:01:53.912000",
+      "title": "Export au format JSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/ca-2012-budgets-annexes/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "ca-2012-ville-de-rennes-budgets-annexes",
+  "spatial": null,
+  "tags": [
+    "budget",
+    "economie"
+  ],
+  "temporal_coverage": null,
+  "title": "CA 2012 - Ville de Rennes - Budgets annexes",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/ca-2012-ville-de-rennes-budgets-annexes/"
+}

@@ -1,0 +1,109 @@
+{
+  "acronym": "MESRI",
+  "badges": [
+    {
+      "kind": "public-service"
+    },
+    {
+      "kind": "certified"
+    }
+  ],
+  "created_at": "2014-04-17T18:21:36.262000",
+  "deleted": null,
+  "description": "Le [Minist\u00e8re de l'Enseignement sup\u00e9rieur, de la Recherche et de l'Innovation](http://www.enseignementsup-recherche.gouv.fr) pr\u00e9pare et met en \u0153uvre la politique du gouvernement relative au d\u00e9veloppement de l\u2019enseignement sup\u00e9rieur, de la recherche et de la technologie. Il d\u00e9fini et suit la politique en mati\u00e8re d\u2019innovation. Il participe \u00e0 la promotion des sciences et des technologies et \u00e0 la diffusion de la culture scientifique, technologique et industrielle, ainsi qu'\u00e0 l'\u00e9laboration et \u00e0 la mise en \u0153uvre de la politique du gouvernement en faveur du d\u00e9veloppement et de la diffusion des usages du num\u00e9rique dans la soci\u00e9t\u00e9 et l'\u00e9conomie.\n\nLes donn\u00e9es publiques en mati\u00e8re d'enseignement sup\u00e9rieur, de recherche et de l'innovation sont accessibles sur une plateforme d\u00e9di\u00e9e ([https://data.enseignementsup-recherche.gouv.fr](https://data.enseignementsup-recherche.gouv.fr)) synchronis\u00e9e avec la plateforme www.data.gouv.fr. le Minist\u00e8re propose \u00e9galement un moteur de recherche des diff\u00e9rentes ressources en donn\u00e9es (applications, tableaux de bord, API, publications) sur ses domaines : [#dataESR](https://data.esr.gouv.fr/FR/).\n\nCette initiative s\u2019inscrit dans le cadre de l\u2019engagement du minist\u00e8re de de l\u2019Enseignement sup\u00e9rieur, de la Recherche et de l'innovation en faveur de l\u2019open data et de sa strat\u00e9gie num\u00e9rique pour l\u2019enseignement sup\u00e9rieur et la recherche.",
+  "id": "534fff90a3a7292c64a77f45",
+  "last_modified": "2017-11-26T22:55:14.295000",
+  "logo": "https://www.data.gouv.fr/s/avatars/00/933e61180545a6a4c5afa4f6077183-original.jpg",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/00/933e61180545a6a4c5afa4f6077183-100.jpg",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/25/8d46a8776d4fa2bbea3c4c9d0ea2b4-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/25/8d46a8776d4fa2bbea3c4c9d0ea2b4-100.jpg",
+        "class": "User",
+        "first_name": "Emmanuel",
+        "id": "534fff3fa3a7292c64a775ce",
+        "last_name": "Weisenburger",
+        "page": "https://www.data.gouv.fr/fr/users/emmanuel-weisenburger/",
+        "slug": "emmanuel-weisenburger",
+        "uri": "https://www.data.gouv.fr/api/1/users/emmanuel-weisenburger/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/1b/e3a5251bf947919b7bcfc80fec9489-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/1b/e3a5251bf947919b7bcfc80fec9489-100.jpg",
+        "class": "User",
+        "first_name": "Yann",
+        "id": "534fff4ba3a7292c64a77c61",
+        "last_name": "Caradec",
+        "page": "https://www.data.gouv.fr/fr/users/yann-caradec/",
+        "slug": "yann-caradec",
+        "uri": "https://www.data.gouv.fr/api/1/users/yann-caradec/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "zoe",
+        "id": "534fff4ba3a7292c64a77c90",
+        "last_name": "friant",
+        "page": "https://www.data.gouv.fr/fr/users/zoe-friant/",
+        "slug": "zoe-friant",
+        "uri": "https://www.data.gouv.fr/api/1/users/zoe-friant/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "isabelle",
+        "id": "554240bbc751df7660a7b26c",
+        "last_name": "paulin",
+        "page": "https://www.data.gouv.fr/fr/users/isabelle-paulin/",
+        "slug": "isabelle-paulin",
+        "uri": "https://www.data.gouv.fr/api/1/users/isabelle-paulin/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/76/8cfeead5b248a7a811160820e2ebf2-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/76/8cfeead5b248a7a811160820e2ebf2-100.jpg",
+        "class": "User",
+        "first_name": "Fr\u00e9d\u00e9rique",
+        "id": "566704c1c751df3648c664bd",
+        "last_name": "Kodrle",
+        "page": "https://www.data.gouv.fr/fr/users/frederique-kodrle/",
+        "slug": "frederique-kodrle",
+        "uri": "https://www.data.gouv.fr/api/1/users/frederique-kodrle/"
+      }
+    }
+  ],
+  "metrics": {
+    "dataset_views": 3978,
+    "datasets": 138,
+    "followers": 90,
+    "members": 5,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 17,
+    "resource_downloads": 4726,
+    "reuse_views": 1643,
+    "reuses": 20,
+    "views": 939
+  },
+  "name": "Minist\u00e8re de l'Enseignement sup\u00e9rieur, de la Recherche et de l'Innovation",
+  "page": "https://www.data.gouv.fr/fr/organizations/enseignement-superieur-et-recherche/",
+  "slug": "enseignement-superieur-et-recherche",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/enseignement-superieur-et-recherche/",
+  "url": "http://www.enseignementsup-recherche.gouv.fr/"
+}

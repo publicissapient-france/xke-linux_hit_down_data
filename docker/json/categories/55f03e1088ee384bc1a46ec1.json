@@ -1,0 +1,93 @@
+{
+  "acronym": "RTE",
+  "badges": [
+    {
+      "kind": "certified"
+    }
+  ],
+  "created_at": "2015-09-09T16:11:28.175000",
+  "deleted": null,
+  "description": "Gestionnaire du r\u00e9seau de transport d\u2019\u00e9lectricit\u00e9, nous offrons un acc\u00e8s \u00e9conomique, s\u00fbr et propre \u00e0 l\u2019\u00e9nergie \u00e9lectrique.\r\n\nNous mettons toute notre intelligence au service du d\u00e9veloppement des territoires et soutenons la croissance \u00e9conomique de fa\u00e7on responsable et durable.\n\r\nParce qu\u2019il optimise la gestion de ses infrastructures, le pilotage des flux et le fonctionnement du march\u00e9 de l\u2019\u00e9lectricit\u00e9, notre r\u00e9seau est d\u00e9j\u00e0 intelligent.\r\n\r\nNous adaptons nos outils et notre r\u00e9seau pour r\u00e9pondre aux besoins de consommation, renforcer la s\u00e9curit\u00e9 d\u2019alimentation et relever les d\u00e9fis de la transition \u00e9nerg\u00e9tique.\r\n\r\nNous favorisons l\u2019\u00e9mergence de solutions partag\u00e9es par les utilisateurs du r\u00e9seau de transport d\u2019\u00e9lectricit\u00e9 et par l\u2019ensemble de nos parties prenantes.\r\n\r\nNous produisons et analysons un ensemble de donn\u00e9es qui permettent d\u2019assurer durablement l\u2019\u00e9quilibre entre l\u2019offre et la demande d\u2019\u00e9lectricit\u00e9.\r\n\r\nPlus d'informations sur notre site : http://www.rte-france.com\n\nRTE, en proposant quelques premiers jeux de donn\u00e9es en lien avec l\u2019\u00e9laboration du  Bilan Electrique, s\u2019engage \u00e9galement dans une d\u00e9marche Open data : https://opendata.rte-france.com\n\nEn compl\u00e9ment, RTE propose des Open API pour l\u2019acc\u00e8s \u00e0 des donn\u00e9es de l\u2019\u00e9nergie. Venez les d\u00e9couvrir sur son portail Data via l\u2019url \u00a0https://data.rte-france.com    ",
+  "id": "55f03e1088ee384bc1a46ec1",
+  "last_modified": "2017-11-23T21:46:21.335000",
+  "logo": "https://www.data.gouv.fr/s/avatars/2015-09-09/595e18df74fa490f93c7b2f52c28730e/sans-titre-original.png",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-09-09/595e18df74fa490f93c7b2f52c28730e/sans-titre-100.png",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Vincent",
+        "id": "55f03c2588ee385efda46ec1",
+        "last_name": "TISSIER",
+        "page": "https://www.data.gouv.fr/fr/users/vincent-tissier-2/",
+        "slug": "vincent-tissier-2",
+        "uri": "https://www.data.gouv.fr/api/1/users/vincent-tissier-2/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Open Data",
+        "id": "56e6f797c751df51409abcab",
+        "last_name": "RTE",
+        "page": "https://www.data.gouv.fr/fr/users/open-data-rte/",
+        "slug": "open-data-rte",
+        "uri": "https://www.data.gouv.fr/api/1/users/open-data-rte/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/db/1585653c8341e98a717eddedb029f9-original.png",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/db/1585653c8341e98a717eddedb029f9-100.png",
+        "class": "User",
+        "first_name": "Compte API",
+        "id": "5727116e88ee3801dca19f12",
+        "last_name": "RTE",
+        "page": "https://www.data.gouv.fr/fr/users/compte-api-rte/",
+        "slug": "compte-api-rte",
+        "uri": "https://www.data.gouv.fr/api/1/users/compte-api-rte/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Nicolas",
+        "id": "57231a95c751df4440fcca0d",
+        "last_name": "Nathan",
+        "page": "https://www.data.gouv.fr/fr/users/nicolas-nathan/",
+        "slug": "nicolas-nathan",
+        "uri": "https://www.data.gouv.fr/api/1/users/nicolas-nathan/"
+      }
+    }
+  ],
+  "metrics": {
+    "badges": 0,
+    "dataset_views": 343,
+    "datasets": 71,
+    "followers": 15,
+    "members": 4,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 0,
+    "resource_downloads": 329,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 176
+  },
+  "name": "R\u00e9seau de Transport d'Electricit\u00e9",
+  "page": "https://www.data.gouv.fr/fr/organizations/reseau-de-transport-delectricite/",
+  "slug": "reseau-de-transport-delectricite",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/reseau-de-transport-delectricite/",
+  "url": "http://www.rte-france.com/"
+}

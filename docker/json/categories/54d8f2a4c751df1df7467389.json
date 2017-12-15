@@ -1,0 +1,67 @@
+{
+  "acronym": null,
+  "badges": [
+    {
+      "kind": "public-service"
+    },
+    {
+      "kind": "certified"
+    }
+  ],
+  "created_at": "2015-02-09T18:47:16.120000",
+  "deleted": null,
+  "description": "La Ville de Boulogne-Billancourt compte 118 000 habitants, 56 000 personnes actives, 81 000 emplois et accueille 13 510 \u00e9tablissements priv\u00e9s dont 2 700 artisans et commer\u00e7ants sur son territoire.  Elle  rejoint le mouvement des collectivit\u00e9s qui lib\u00e8rent des donn\u00e9es.  R\u00e9utilisez ces donn\u00e9es, par exemple en cr\u00e9ant des repr\u00e9sentations graphiques avec les outils conseill\u00e9s par [data.gouv.fr](https://wiki.data.gouv.fr/wiki/Outillage_pour_les_datavisualisations) ou des applications mobiles gr\u00e2ce au projet europ\u00e9en [Citadel on the move](http://www.citadelonthemove.eu/).",
+  "id": "54d8f2a4c751df1df7467389",
+  "last_modified": "2017-09-05T03:15:05.394000",
+  "logo": "https://www.data.gouv.fr/s/avatars/2015-02-09/b5bcf47b74044a88b2bc684dd2c40631/BB_03_noir_2009_rogne-original.jpg",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-02-09/b5bcf47b74044a88b2bc684dd2c40631/BB_03_noir_2009_rogne-100.jpg",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/2015-02-05/c11050f01f54494d88f1fc0358850ed5/BB_03_noir_2009_rogne-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-02-05/c11050f01f54494d88f1fc0358850ed5/BB_03_noir_2009_rogne-100.jpg",
+        "class": "User",
+        "first_name": "Philippe",
+        "id": "544e1cf3c751df4cdf71398b",
+        "last_name": "L\u00e9z\u00e9",
+        "page": "https://www.data.gouv.fr/fr/users/philippe-leze/",
+        "slug": "philippe-leze",
+        "uri": "https://www.data.gouv.fr/api/1/users/philippe-leze/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Joseph",
+        "id": "56acdc88c751df4238b5477e",
+        "last_name": "Pollack",
+        "page": "https://www.data.gouv.fr/fr/users/joseph-pollack/",
+        "slug": "joseph-pollack",
+        "uri": "https://www.data.gouv.fr/api/1/users/joseph-pollack/"
+      }
+    }
+  ],
+  "metrics": {
+    "dataset_views": 156,
+    "datasets": 34,
+    "followers": 9,
+    "members": 2,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 0,
+    "resource_downloads": 119,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 198
+  },
+  "name": "Ville de Boulogne-Billancourt",
+  "page": "https://www.data.gouv.fr/fr/organizations/ville-de-boulogne-billancourt/",
+  "slug": "ville-de-boulogne-billancourt",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/ville-de-boulogne-billancourt/",
+  "url": "http://www.boulognebillancourt.com"
+}

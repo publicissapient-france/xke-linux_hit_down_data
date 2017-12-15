@@ -1,0 +1,106 @@
+{
+  "badges": [],
+  "created_at": "2016-07-13T20:57:20.763000",
+  "deleted": null,
+  "description": "D\u00e9tail de la nomenclature M52 relative \u00e0 l'instruction budg\u00e9taire et comptable des d\u00e9partements.\n\n* * *\n\nLa comptabilit\u00e9 publique suit les principes pos\u00e9s par le plan comptable g\u00e9n\u00e9ral applicable au secteur priv\u00e9 : comptabilit\u00e9 en droits constat\u00e9s, en partie double (correspondance entre les ressources et leurs emplois). Pour les d\u00e9penses comme pour les recettes, elle distingue les op\u00e9rations de fonctionnement (produits et charges) de l'organisme de ses op\u00e9rations d'investissement (op\u00e9rations sur le patrimoine).  \nDiff\u00e9rentes comptabilit\u00e9s sont applicables au secteur public local selon le type de collectivit\u00e9s (communes, d\u00e9partements, r\u00e9gions) et selon la nature de l'activit\u00e9 exerc\u00e9e (service public administratif ou service public \u00e0 caract\u00e8re industriel et commercial). Ces diff\u00e9rents types de comptabilit\u00e9s se d\u00e9clinent par des instructions comptables : M14 pour les communes, M52 pour les d\u00e9partements, M71 pour les r\u00e9gions, M4 pour les services \u00e0 caract\u00e8re industriel et commercial, M22 pour les ESMS, M31 pour les OPH etc.\n\nLe vote du budget du D\u00e9partement des Hauts-de-Seine s'effectue par fonction ce qui permet une analyse comptable par th\u00e8mes : S\u00e9curit\u00e9, Enseignement, Culture, vie sociale, jeunesse, sports et loisirs, Pr\u00e9vention m\u00e9dico-sociale, Action sociale, R\u00e9seaux et infrastructures, Am\u00e9nagement et environnement, Transports, D\u00e9veloppement \u00e9conomique et Services g\u00e9n\u00e9raux. Ce jeu de donn\u00e9es pr\u00e9sente dans le d\u00e9tail les chapitres et rubriques fonctionnelles d'un budget d\u00e9partemental selon la nomenclature comptable M52.\n\n **Observations particuli\u00e8res**\n\nCette nomenclature fonctionnelle, inspir\u00e9e d'une nomenclature utilis\u00e9e par l'INSEE, comprend 10 fonctions subdivis\u00e9es en 40 sous-fonctions.\n\n **Donn\u00e9es connexes**\n\ncollectivites-locales.gouv.fr  \n[M52 - Comptabilit\u00e9 des d\u00e9partements](http://www.collectivites-locales.gouv.fr/comptabilite-des-departements-m52-0)  \n  \nvie-publique.fr  \n[La comptabilit\u00e9 des collectivit\u00e9s territoriales](http://www.vie-publique.fr/decouverte-institutions/finances-publiques/approfondissements/comptabilite-collectivites-territoriales.html)",
+  "extras": {
+    "harvest:domain": "opendata.hauts-de-seine.fr",
+    "harvest:last_update": "2017-11-27T05:27:42.416051",
+    "harvest:remote_id": "comptabilite-des-departements-nomenclature-m52",
+    "harvest:source_id": "5731a6d688ee38379cd1b934",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.hauts-de-seine.fr//explore/dataset/comptabilite-des-departements-nomenclature-m52/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "57868f10a3a7295d371add4c",
+  "last_modified": "2017-11-27T05:27:42.418000",
+  "last_update": "2017-11-27T05:27:42.415000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 1,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 12
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "544e1b0888ee38289ae1ed05",
+    "logo": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-100.jpg",
+    "name": "Hauts-de-Seine le D\u00e9partement",
+    "page": "https://www.data.gouv.fr/fr/organizations/hauts-de-seine-le-departement/",
+    "slug": "hauts-de-seine-le-departement",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/hauts-de-seine-le-departement/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/comptabilite-des-departements-nomenclature-m52/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:27:42.415000",
+      "description": "- *N\u00b0 chapitre*: ndeg_chapitre[text] Code du chapitre\n- *Chapitre*: chapitre[text] Libell\u00e9 du chapitre\n- *N\u00b0 rubrique fonctionnelle*: ndeg_rubrique_fonctionnelle[text] Code de la rubrique fonctionnelle associ\u00e9e\n- *Libell\u00e9 Rubrique fonctionnelle*: libelle_rubrique_fonctionnelle[text] Libell\u00e9 de la rubrique fonctionnelle\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b1380809-21d6-4173-aec5-fe69f6e6868d",
+      "last_modified": "2012-12-16T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b1380809-21d6-4173-aec5-fe69f6e6868d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:27:42.415000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/comptabilite-des-departements-nomenclature-m52/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:27:42.415000",
+      "description": "- *N\u00b0 chapitre*: ndeg_chapitre[text] Code du chapitre\n- *Chapitre*: chapitre[text] Libell\u00e9 du chapitre\n- *N\u00b0 rubrique fonctionnelle*: ndeg_rubrique_fonctionnelle[text] Code de la rubrique fonctionnelle associ\u00e9e\n- *Libell\u00e9 Rubrique fonctionnelle*: libelle_rubrique_fonctionnelle[text] Libell\u00e9 de la rubrique fonctionnelle\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "56460151-7964-4e66-b9b8-26dc8b952ef7",
+      "last_modified": "2012-12-16T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/56460151-7964-4e66-b9b8-26dc8b952ef7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:27:42.415000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/comptabilite-des-departements-nomenclature-m52/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "comptabilite-des-departements-nomenclature-m52",
+  "spatial": null,
+  "tags": [
+    "articles",
+    "chapitres",
+    "comptabilite",
+    "finances",
+    "fonctions",
+    "m52",
+    "nomenclatures",
+    "rubriques"
+  ],
+  "temporal_coverage": null,
+  "title": "Comptabilit\u00e9 des d\u00e9partements (nomenclature M52)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/comptabilite-des-departements-nomenclature-m52/"
+}

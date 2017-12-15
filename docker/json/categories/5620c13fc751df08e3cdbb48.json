@@ -1,0 +1,68 @@
+{
+  "acronym": null,
+  "badges": [
+    {
+      "kind": "public-service"
+    },
+    {
+      "kind": "certified"
+    }
+  ],
+  "created_at": "2015-10-16T11:19:59.903000",
+  "deleted": null,
+  "description": "Cr\u00e9\u00e9 il y a plus de 30 ans, Infogreffe est un service public qui permet aux greffiers des Tribunaux de commerce d\u2019assurer la plus large diffusion de l\u2019information l\u00e9gale des entreprises. Cette diffusion des actes officiels qui certifient l\u2019activit\u00e9 \u00e9conomique des entreprises, quelle que soit leur taille, est essentielle pour la s\u00e9curit\u00e9 des affaires et du commerce. C\u2019est aussi un mod\u00e8le reconnu en Europe. \n\nInfogreffe a r\u00e9cemment mis en ligne le portail www.datainfogreffe.fr, qui a pour objectif d\u2019augmenter le potentiel de cr\u00e9ation \u00e9conomique des entreprises, en mettant \u00e0 leur disposition des donn\u00e9es dans des formats ouverts et facilement r\u00e9utilisables. \n\n",
+  "id": "5620c13fc751df08e3cdbb48",
+  "last_modified": "2017-11-27T10:25:33.975000",
+  "logo": "https://www.data.gouv.fr/s/avatars/46/ccf8461acc41bfad4be5d5bc6a9767-original.jpg",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/46/ccf8461acc41bfad4be5d5bc6a9767-100.jpg",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/2014-11-13/892e2f5aadb64ab7a8bda671a57dffbf/photo-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-11-13/892e2f5aadb64ab7a8bda671a57dffbf/photo-100.jpg",
+        "class": "User",
+        "first_name": "Romain",
+        "id": "534fff48a3a7292c64a77b05",
+        "last_name": "Tales",
+        "page": "https://www.data.gouv.fr/fr/users/romain-tales/",
+        "slug": "romain-tales",
+        "uri": "https://www.data.gouv.fr/api/1/users/romain-tales/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Olivier",
+        "id": "5908446ec751df0bd7ff8f3d",
+        "last_name": "Ishacian",
+        "page": "https://www.data.gouv.fr/fr/users/olivier-ishacian/",
+        "slug": "olivier-ishacian",
+        "uri": "https://www.data.gouv.fr/api/1/users/olivier-ishacian/"
+      }
+    }
+  ],
+  "metrics": {
+    "badges": 0,
+    "dataset_views": 157,
+    "datasets": 33,
+    "followers": 31,
+    "members": 2,
+    "nb_hits": 7,
+    "nb_uniq_visitors": 6,
+    "nb_visits": 6,
+    "permitted_reuses": 0,
+    "resource_downloads": 191,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 3755
+  },
+  "name": "Infogreffe ",
+  "page": "https://www.data.gouv.fr/fr/organizations/infogreffe/",
+  "slug": "infogreffe",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/infogreffe/",
+  "url": "www.datainfogreffe.fr"
+}

@@ -1,0 +1,175 @@
+{
+  "badges": [],
+  "created_at": "2017-10-04T00:00:00",
+  "deleted": null,
+  "description": "Taux de participation aux \u00e9lections cantonales pour la France m\u00e9tropolitaine, par d\u00e9partements.",
+  "extras": {
+    "ckan:name": "taux-de-participation-aux-elections-cantonales1",
+    "contact_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "contact_name": "Mission Agenda 21",
+    "contact_uri": "https://datacat.datalocale.fr/414579",
+    "guid": "https://datacat.datalocale.fr/414809",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-11-27T05:24:49.081777",
+    "harvest:remote_id": "5456a13e-7ea4-4646-857e-86e6881ed5cd",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "1cb1454c-cd7e-4936-bb15-b8f39f2a7ea0",
+    "issued": "2013-08-27T09:45:39+00:00",
+    "modified": "2016-07-18T09:21:05.137376+00:00",
+    "publisher_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "publisher_name": "dgsd-a21",
+    "publisher_uri": "https://datacat.datalocale.fr/414578",
+    "theme": "[\"\u00e9lection locale\"]",
+    "uri": "https://datacat.datalocale.fr/414809"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59d5b29cb59508043ce9ba11",
+  "last_modified": "2017-11-27T05:24:49.083000",
+  "last_update": "2017-10-14T06:08:34.066000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/taux-de-participation-aux-elections-cantonales1-2/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-10-05T06:18:36.388000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T18:21:28.865000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414811/raw/fichier%20au%20format%20csv%20encod%C3%A9%20en%20UTF-8.%20Ce%20fichier%20contient%20les%20informations%20utilis%C3%A9es%20pour%20construire%20l%27indice%20de%20gouvernance%20d%C3%A9partemental"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c8c57dec-5ad3-4b57-8880-a1f6fd102195",
+      "last_modified": "2017-10-05T06:18:36.388000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c8c57dec-5ad3-4b57-8880-a1f6fd102195",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-05T06:18:36.388000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8. Ce fichier contient les informations utilis\u00e9es pour construire l'indice de gouvernance d\u00e9partemental",
+      "url": "https://datacat.datalocale.fr/file/414811/raw/fichier%20au%20format%20csv%20encod%C3%A9%20en%20UTF-8.%20Ce%20fichier%20contient%20les%20informations%20utilis%C3%A9es%20pour%20construire%20l%27indice%20de%20gouvernance%20d%C3%A9partemental"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-05T06:18:36.389000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T11:41:46.875000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414813/raw/fichier%20au%20format%20csv%20encod%C3%A9%20en%20UTF-8.%20Ce%20fichier%20contient%20les%20informations%20utilis%C3%A9es%20pour%20construire%20l%27indice%20de%20gouvernance%20d%C3%A9partemental"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "769caf3e-c22f-42b9-86b6-430dd2441bed",
+      "last_modified": "2017-10-05T06:18:36.389000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/769caf3e-c22f-42b9-86b6-430dd2441bed",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-05T06:18:36.389000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8. Ce fichier contient les informations utilis\u00e9es pour construire l'indice de gouvernance d\u00e9partemental",
+      "url": "https://datacat.datalocale.fr/file/414813/raw/fichier%20au%20format%20csv%20encod%C3%A9%20en%20UTF-8.%20Ce%20fichier%20contient%20les%20informations%20utilis%C3%A9es%20pour%20construire%20l%27indice%20de%20gouvernance%20d%C3%A9partemental"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:08:34.066000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T10:37:36.121000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/414812"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "46f2156d-754d-410f-8def-9a60de9ed2d4",
+      "last_modified": "2017-11-27T05:24:49.081000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/46f2156d-754d-410f-8def-9a60de9ed2d4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-14T06:08:34.066000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8. Ce fichier contient les informations utilis\u00e9es pour construire l'indice de gouvernance d\u00e9partemental",
+      "url": "https://datacat.datalocale.fr/414812"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:08:34.066000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T10:37:36.163000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/414810"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "60a2d059-bad3-47c2-9d92-c747380b0fe6",
+      "last_modified": "2017-11-27T05:24:49.081000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/60a2d059-bad3-47c2-9d92-c747380b0fe6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-14T06:08:34.066000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8. Ce fichier contient les informations utilis\u00e9es pour construire l'indice de gouvernance d\u00e9partemental",
+      "url": "https://datacat.datalocale.fr/414810"
+    }
+  ],
+  "slug": "taux-de-participation-aux-elections-cantonales1-2",
+  "spatial": null,
+  "tags": [
+    "cantons",
+    "elections",
+    "participation"
+  ],
+  "temporal_coverage": null,
+  "title": "Taux de participation aux \u00e9lections cantonales",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/taux-de-participation-aux-elections-cantonales1-2/"
+}

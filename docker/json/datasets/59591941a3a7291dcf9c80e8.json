@@ -1,0 +1,100 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T18:03:13.792000",
+  "deleted": null,
+  "description": "R\u00e9sultats des \u00e9lections r\u00e9gionales\u00a0des 6 et\u00a013 d\u00e9cembre 2015 en \u00cele-de-France. R\u00e9sultats consolid\u00e9s du Minist\u00e8re de l'int\u00e9rieur (21 janvier 2016).",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T06:03:45.233171",
+    "harvest:remote_id": "elections-regionales-2015-resultats",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:references": "https://www.data.gouv.fr/fr/datasets/elections-regionales-2015-et-des-assemblees-de-corse-de-guyane-et-de-martinique-resultats-tour-2-1/",
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/elections-regionales-2015-resultats/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59591941a3a7291dcf9c80e8",
+  "last_modified": "2017-11-27T06:03:45.234000",
+  "last_update": "2017-11-27T06:03:45.232000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/elections-regionales-2015-resultats/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:03:45.232000",
+      "description": "- *Date de l'export*: date_de_l_export[datetime]\n- *Tour*: tour[int]\n- *Libell\u00e9 de la r\u00e9gion*: libelle_de_la_region[text]\n- *Inscrits*: inscrits[int]\n- *Abstentions*: abstentions[int]\n- *% Abs/Ins*: abs_ins[double]\n- *Votants*: votants[int]\n- *% Vot/Ins*: vot_ins[double]\n- *Blancs*: blancs[int]\n- *% Blancs/Ins*: blancs_ins[double]\n- *% Blancs/Vot*: blancs_vot[double]\n- *Nuls*: nuls[int]\n- *% Nuls/Ins*: nuls_ins[double]\n- *% Nuls/Vot*: nuls_vot[double]\n- *Exprim\u00e9s*: exprimes[int]\n- *% Exp/Ins*: exp_ins[double]\n- *% Exp/Vot*: exp_vot[double]\n- *N\u00b0Liste*: ndegliste[int]\n- *Nuance Liste*: nuance_liste[text]\n- *Libell\u00e9 Abr\u00e9g\u00e9 Liste*: libelle_abrege_liste[text]\n- *Libell\u00e9 Etendu Liste*: libelle_etendu_liste[text]\n- *Nom T\u00eate de Liste*: nom_tete_de_liste[text]\n- *Voix*: voix[int]\n- *% Voix/Ins*: voix_ins[double]\n- *% Voix/Exp*: voix_exp[double]\n- *Si\u00e8ges*: sieges[int]\n- *N\u00b0Liste*: ndegliste0[int]\n- *Nuance Liste*: nuance_liste0[text]\n- *Libell\u00e9 Abr\u00e9g\u00e9 Liste*: libelle_abrege_liste0[text]\n- *Libell\u00e9 Etendu Liste*: libelle_etendu_liste0[text]\n- *Nom T\u00eate de Liste*: nom_tete_de_liste0[text]\n- *Voix*: voix0[int]\n- *% Voix/Ins*: voix_ins0[double]\n- *% Voix/Exp*: voix_exp0[double]\n- *Si\u00e8ges*: sieges0[int]\n- *N\u00b0Liste*: ndegliste1[int]\n- *Nuance Liste*: nuance_liste1[text]\n- *Libell\u00e9 Abr\u00e9g\u00e9 Liste*: libelle_abrege_liste1[text]\n- *Libell\u00e9 Etendu Liste*: libelle_etendu_liste1[text]\n- *Nom T\u00eate de Liste*: nom_tete_de_liste1[text]\n- *Voix*: voix1[int]\n- *% Voix/Ins*: voix_ins1[double]\n- *% Voix/Exp*: voix_exp1[double]\n- *Si\u00e8ges*: sieges1[int]\n- *N\u00b0Liste*: ndegliste2[int]\n- *Nuance Liste*: nuance_liste2[text]\n- *Libell\u00e9 Abr\u00e9g\u00e9 Liste*: libelle_abrege_liste2[text]\n- *Libell\u00e9 Etendu Liste*: libelle_etendu_liste2[text]\n- *Nom T\u00eate de Liste*: nom_tete_de_liste2[text]\n- *Voix*: voix2[int]\n- *% Voix/Ins*: voix_ins2[double]\n- *% Voix/Exp*: voix_exp2[double]\n- *Si\u00e8ges*: sieges2[int]\n- *N\u00b0Liste*: ndegliste3[int]\n- *Nuance Liste*: nuance_liste3[text]\n- *Libell\u00e9 Abr\u00e9g\u00e9 Liste*: libelle_abrege_liste3[text]\n- *Libell\u00e9 Etendu Liste*: libelle_etendu_liste3[text]\n- *Nom T\u00eate de Liste*: nom_tete_de_liste3[text]\n- *Voix*: voix3[int]\n- *% Voix/Ins*: voix_ins3[double]\n- *% Voix/Exp*: voix_exp3[double]\n- *Si\u00e8ges*: sieges3[int]\n- *N\u00b0Liste*: ndegliste4[int]\n- *Nuance Liste*: nuance_liste4[text]\n- *Libell\u00e9 Abr\u00e9g\u00e9 Liste*: libelle_abrege_liste4[text]\n- *Libell\u00e9 Etendu Liste*: libelle_etendu_liste4[text]\n- *Nom T\u00eate de Liste*: nom_tete_de_liste4[text]\n- *Voix*: voix4[int]\n- *% Voix/Ins*: voix_ins4[double]\n- *% Voix/Exp*: voix_exp4[double]\n- *Si\u00e8ges*: sieges4[int]\n- *N\u00b0Liste*: ndegliste5[int]\n- *Nuance Liste*: nuance_liste5[text]\n- *Libell\u00e9 Abr\u00e9g\u00e9 Liste*: libelle_abrege_liste5[text]\n- *Libell\u00e9 Etendu Liste*: libelle_etendu_liste5[text]\n- *Nom T\u00eate de Liste*: nom_tete_de_liste5[text]\n- *Voix*: voix5[int]\n- *% Voix/Ins*: voix_ins5[double]\n- *% Voix/Exp*: voix_exp5[double]\n- *Si\u00e8ges*: sieges5[int]\n- *N\u00b0Liste*: ndegliste6[int]\n- *Nuance Liste*: nuance_liste6[text]\n- *Libell\u00e9 Abr\u00e9g\u00e9 Liste*: libelle_abrege_liste6[text]\n- *Libell\u00e9 Etendu Liste*: libelle_etendu_liste6[text]\n- *Nom T\u00eate de Liste*: nom_tete_de_liste6[text]\n- *Voix*: voix6[int]\n- *% Voix/Ins*: voix_ins6[double]\n- *% Voix/Exp*: voix_exp6[double]\n- *Si\u00e8ges*: sieges6[int]\n- *N\u00b0Liste*: ndegliste7[int]\n- *Nuance Liste*: nuance_liste7[text]\n- *Libell\u00e9 Abr\u00e9g\u00e9 Liste*: libelle_abrege_liste7[text]\n- *Libell\u00e9 Etendu Liste*: libelle_etendu_liste7[text]\n- *Nom T\u00eate de Liste*: nom_tete_de_liste7[text]\n- *Voix*: voix7[int]\n- *% Voix/Ins*: voix_ins7[double]\n- *% Voix/Exp*: voix_exp7[double]\n- *Si\u00e8ges*: sieges7[int]\n- *N\u00b0Liste*: ndegliste8[int]\n- *Nuance Liste*: nuance_liste8[text]\n- *Libell\u00e9 Abr\u00e9g\u00e9 Liste*: libelle_abrege_liste8[text]\n- *Libell\u00e9 Etendu Liste*: libelle_etendu_liste8[text]\n- *Nom T\u00eate de Liste*: nom_tete_de_liste8[text]\n- *Voix*: voix8[int]\n- *% Voix/Ins*: voix_ins8[double]\n- *% Voix/Exp*: voix_exp8[double]\n- *Si\u00e8ges*: sieges8[int]\n- *N\u00b0Liste*: ndegliste9[int]\n- *Nuance Liste*: nuance_liste9[text]\n- *Libell\u00e9 Abr\u00e9g\u00e9 Liste*: libelle_abrege_liste9[text]\n- *Libell\u00e9 Etendu Liste*: libelle_etendu_liste9[text]\n- *Nom T\u00eate de Liste*: nom_tete_de_liste9[text]\n- *Voix*: voix9[int]\n- *% Voix/Ins*: voix_ins9[double]\n- *% Voix/Exp*: voix_exp9[double]\n- *Si\u00e8ges*: sieges9[int]\n- *N\u00b0Liste*: ndegliste10[int]\n- *Nuance Liste*: nuance_liste10[text]\n- *Libell\u00e9 Abr\u00e9g\u00e9 Liste*: libelle_abrege_liste10[text]\n- *Libell\u00e9 Etendu Liste*: libelle_etendu_liste10[text]\n- *Nom T\u00eate de Liste*: nom_tete_de_liste10[text]\n- *Voix*: voix10[int]\n- *% Voix/Ins*: voix_ins10[double]\n- *% Voix/Exp*: voix_exp10[double]\n- *Si\u00e8ges*: sieges10[int]\n- *N\u00b0Liste*: ndegliste11[int]\n- *Nuance Liste*: nuance_liste11[text]\n- *Libell\u00e9 Abr\u00e9g\u00e9 Liste*: libelle_abrege_liste11[text]\n- *Libell\u00e9 Etendu Liste*: libelle_etendu_liste11[text]\n- *Nom T\u00eate de Liste*: nom_tete_de_liste11[text]\n- *Voix*: voix11[int]\n- *% Voix/Ins*: voix_ins11[double]\n- *% Voix/Exp*: voix_exp11[double]\n- *Si\u00e8ges*: sieges11[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "18c6c68f-f1ff-480c-a8f8-3d8c34bed41c",
+      "last_modified": "2016-02-14T17:33:23",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/18c6c68f-f1ff-480c-a8f8-3d8c34bed41c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T06:03:45.232000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/elections-regionales-2015-resultats/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:03:45.232000",
+      "description": "- *Date de l'export*: date_de_l_export[datetime]\n- *Tour*: tour[int]\n- *Libell\u00e9 de la r\u00e9gion*: libelle_de_la_region[text]\n- *Inscrits*: inscrits[int]\n- *Abstentions*: abstentions[int]\n- *% Abs/Ins*: abs_ins[double]\n- *Votants*: votants[int]\n- *% Vot/Ins*: vot_ins[double]\n- *Blancs*: blancs[int]\n- *% Blancs/Ins*: blancs_ins[double]\n- *% Blancs/Vot*: blancs_vot[double]\n- *Nuls*: nuls[int]\n- *% Nuls/Ins*: nuls_ins[double]\n- *% Nuls/Vot*: nuls_vot[double]\n- *Exprim\u00e9s*: exprimes[int]\n- *% Exp/Ins*: exp_ins[double]\n- *% Exp/Vot*: exp_vot[double]\n- *N\u00b0Liste*: ndegliste[int]\n- *Nuance Liste*: nuance_liste[text]\n- *Libell\u00e9 Abr\u00e9g\u00e9 Liste*: libelle_abrege_liste[text]\n- *Libell\u00e9 Etendu Liste*: libelle_etendu_liste[text]\n- *Nom T\u00eate de Liste*: nom_tete_de_liste[text]\n- *Voix*: voix[int]\n- *% Voix/Ins*: voix_ins[double]\n- *% Voix/Exp*: voix_exp[double]\n- *Si\u00e8ges*: sieges[int]\n- *N\u00b0Liste*: ndegliste0[int]\n- *Nuance Liste*: nuance_liste0[text]\n- *Libell\u00e9 Abr\u00e9g\u00e9 Liste*: libelle_abrege_liste0[text]\n- *Libell\u00e9 Etendu Liste*: libelle_etendu_liste0[text]\n- *Nom T\u00eate de Liste*: nom_tete_de_liste0[text]\n- *Voix*: voix0[int]\n- *% Voix/Ins*: voix_ins0[double]\n- *% Voix/Exp*: voix_exp0[double]\n- *Si\u00e8ges*: sieges0[int]\n- *N\u00b0Liste*: ndegliste1[int]\n- *Nuance Liste*: nuance_liste1[text]\n- *Libell\u00e9 Abr\u00e9g\u00e9 Liste*: libelle_abrege_liste1[text]\n- *Libell\u00e9 Etendu Liste*: libelle_etendu_liste1[text]\n- *Nom T\u00eate de Liste*: nom_tete_de_liste1[text]\n- *Voix*: voix1[int]\n- *% Voix/Ins*: voix_ins1[double]\n- *% Voix/Exp*: voix_exp1[double]\n- *Si\u00e8ges*: sieges1[int]\n- *N\u00b0Liste*: ndegliste2[int]\n- *Nuance Liste*: nuance_liste2[text]\n- *Libell\u00e9 Abr\u00e9g\u00e9 Liste*: libelle_abrege_liste2[text]\n- *Libell\u00e9 Etendu Liste*: libelle_etendu_liste2[text]\n- *Nom T\u00eate de Liste*: nom_tete_de_liste2[text]\n- *Voix*: voix2[int]\n- *% Voix/Ins*: voix_ins2[double]\n- *% Voix/Exp*: voix_exp2[double]\n- *Si\u00e8ges*: sieges2[int]\n- *N\u00b0Liste*: ndegliste3[int]\n- *Nuance Liste*: nuance_liste3[text]\n- *Libell\u00e9 Abr\u00e9g\u00e9 Liste*: libelle_abrege_liste3[text]\n- *Libell\u00e9 Etendu Liste*: libelle_etendu_liste3[text]\n- *Nom T\u00eate de Liste*: nom_tete_de_liste3[text]\n- *Voix*: voix3[int]\n- *% Voix/Ins*: voix_ins3[double]\n- *% Voix/Exp*: voix_exp3[double]\n- *Si\u00e8ges*: sieges3[int]\n- *N\u00b0Liste*: ndegliste4[int]\n- *Nuance Liste*: nuance_liste4[text]\n- *Libell\u00e9 Abr\u00e9g\u00e9 Liste*: libelle_abrege_liste4[text]\n- *Libell\u00e9 Etendu Liste*: libelle_etendu_liste4[text]\n- *Nom T\u00eate de Liste*: nom_tete_de_liste4[text]\n- *Voix*: voix4[int]\n- *% Voix/Ins*: voix_ins4[double]\n- *% Voix/Exp*: voix_exp4[double]\n- *Si\u00e8ges*: sieges4[int]\n- *N\u00b0Liste*: ndegliste5[int]\n- *Nuance Liste*: nuance_liste5[text]\n- *Libell\u00e9 Abr\u00e9g\u00e9 Liste*: libelle_abrege_liste5[text]\n- *Libell\u00e9 Etendu Liste*: libelle_etendu_liste5[text]\n- *Nom T\u00eate de Liste*: nom_tete_de_liste5[text]\n- *Voix*: voix5[int]\n- *% Voix/Ins*: voix_ins5[double]\n- *% Voix/Exp*: voix_exp5[double]\n- *Si\u00e8ges*: sieges5[int]\n- *N\u00b0Liste*: ndegliste6[int]\n- *Nuance Liste*: nuance_liste6[text]\n- *Libell\u00e9 Abr\u00e9g\u00e9 Liste*: libelle_abrege_liste6[text]\n- *Libell\u00e9 Etendu Liste*: libelle_etendu_liste6[text]\n- *Nom T\u00eate de Liste*: nom_tete_de_liste6[text]\n- *Voix*: voix6[int]\n- *% Voix/Ins*: voix_ins6[double]\n- *% Voix/Exp*: voix_exp6[double]\n- *Si\u00e8ges*: sieges6[int]\n- *N\u00b0Liste*: ndegliste7[int]\n- *Nuance Liste*: nuance_liste7[text]\n- *Libell\u00e9 Abr\u00e9g\u00e9 Liste*: libelle_abrege_liste7[text]\n- *Libell\u00e9 Etendu Liste*: libelle_etendu_liste7[text]\n- *Nom T\u00eate de Liste*: nom_tete_de_liste7[text]\n- *Voix*: voix7[int]\n- *% Voix/Ins*: voix_ins7[double]\n- *% Voix/Exp*: voix_exp7[double]\n- *Si\u00e8ges*: sieges7[int]\n- *N\u00b0Liste*: ndegliste8[int]\n- *Nuance Liste*: nuance_liste8[text]\n- *Libell\u00e9 Abr\u00e9g\u00e9 Liste*: libelle_abrege_liste8[text]\n- *Libell\u00e9 Etendu Liste*: libelle_etendu_liste8[text]\n- *Nom T\u00eate de Liste*: nom_tete_de_liste8[text]\n- *Voix*: voix8[int]\n- *% Voix/Ins*: voix_ins8[double]\n- *% Voix/Exp*: voix_exp8[double]\n- *Si\u00e8ges*: sieges8[int]\n- *N\u00b0Liste*: ndegliste9[int]\n- *Nuance Liste*: nuance_liste9[text]\n- *Libell\u00e9 Abr\u00e9g\u00e9 Liste*: libelle_abrege_liste9[text]\n- *Libell\u00e9 Etendu Liste*: libelle_etendu_liste9[text]\n- *Nom T\u00eate de Liste*: nom_tete_de_liste9[text]\n- *Voix*: voix9[int]\n- *% Voix/Ins*: voix_ins9[double]\n- *% Voix/Exp*: voix_exp9[double]\n- *Si\u00e8ges*: sieges9[int]\n- *N\u00b0Liste*: ndegliste10[int]\n- *Nuance Liste*: nuance_liste10[text]\n- *Libell\u00e9 Abr\u00e9g\u00e9 Liste*: libelle_abrege_liste10[text]\n- *Libell\u00e9 Etendu Liste*: libelle_etendu_liste10[text]\n- *Nom T\u00eate de Liste*: nom_tete_de_liste10[text]\n- *Voix*: voix10[int]\n- *% Voix/Ins*: voix_ins10[double]\n- *% Voix/Exp*: voix_exp10[double]\n- *Si\u00e8ges*: sieges10[int]\n- *N\u00b0Liste*: ndegliste11[int]\n- *Nuance Liste*: nuance_liste11[text]\n- *Libell\u00e9 Abr\u00e9g\u00e9 Liste*: libelle_abrege_liste11[text]\n- *Libell\u00e9 Etendu Liste*: libelle_etendu_liste11[text]\n- *Nom T\u00eate de Liste*: nom_tete_de_liste11[text]\n- *Voix*: voix11[int]\n- *% Voix/Ins*: voix_ins11[double]\n- *% Voix/Exp*: voix_exp11[double]\n- *Si\u00e8ges*: sieges11[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "d7fd39d8-199a-4aef-bec4-c3cf1019d08b",
+      "last_modified": "2016-02-14T17:33:23",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d7fd39d8-199a-4aef-bec4-c3cf1019d08b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T06:03:45.232000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/elections-regionales-2015-resultats/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "elections-regionales-2015-resultats",
+  "spatial": null,
+  "tags": [
+    "assemblee-regionale",
+    "election"
+  ],
+  "temporal_coverage": null,
+  "title": "\u00c9lections r\u00e9gionales 2015 : r\u00e9sultats",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/elections-regionales-2015-resultats/"
+}

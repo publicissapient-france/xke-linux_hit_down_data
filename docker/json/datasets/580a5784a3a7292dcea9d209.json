@@ -1,0 +1,145 @@
+{
+  "badges": [],
+  "created_at": "2016-10-21T19:59:32.156000",
+  "deleted": null,
+  "description": "**Liste des points d'arr\u00eat de bus\u00a0du r\u00e9seau STAR, comprenant notamment leur nom, leur commune\u00a0de rattachement et la g\u00e9olocalisation.**",
+  "extras": {
+    "harvest:domain": "data.rennesmetropole.fr",
+    "harvest:last_update": "2017-11-27T04:00:52.596748",
+    "harvest:remote_id": "topologie-des-points-darret-de-bus-du-reseau-star",
+    "harvest:source_id": "580736ec88ee3816625ff490",
+    "ods:has_records": true,
+    "ods:url": "https://data.rennesmetropole.fr/explore/dataset/topologie-des-points-darret-de-bus-du-reseau-star/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "580a5784a3a7292dcea9d209",
+  "last_modified": "2017-11-27T04:00:52.598000",
+  "last_update": "2017-11-27T04:00:52.595000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 1,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "RM",
+    "class": "Organization",
+    "id": "580735be88ee3814295ff490",
+    "logo": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-100.png",
+    "name": "Rennes M\u00e9tropole en acc\u00e8s libre",
+    "page": "https://www.data.gouv.fr/fr/organizations/rennes-metropole-en-acces-libre-1/",
+    "slug": "rennes-metropole-en-acces-libre-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/rennes-metropole-en-acces-libre-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/topologie-des-points-darret-de-bus-du-reseau-star/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:00:52.594000",
+      "description": "- *Identifiant*: id[text]\n- *Code*: code[text]\n- *Nom*: nom[text]\n- *Commune (code INSEE)*: codeinseecommune[text]\n- *Commune (nom)*: nomcommune[text]\n- *Coordonn\u00e9es*: coordonnees[geo_point_2d]\n- *Accessible aux PMR*: estaccessiblepmr[text] L'accessibilit\u00e9 aux Personnes \u00e0 Mobilit\u00e9 R\u00e9duite indiqu\u00e9e ici est th\u00e9orique : pour acc\u00e9der \u00e0 un bus \u00e0 cet arr\u00eat, il faut \u00e9galement que la ligne et le bus soient accessibles aux Personnes \u00e0 Mobilit\u00e9 R\u00e9duite. Pour obtenir les lignes accessibles aux Personnes \u00e0 Mobilit\u00e9 R\u00e9duite, veuillez consulter le jeu de donn\u00e9es \"Lignes de bus du r\u00e9seau STAR\". Pour obtenir les bus accessibles aux Personnes \u00e0 Mobilit\u00e9 R\u00e9duite, veuillez consulter le jeu de donn\u00e9es \"Bus utilis\u00e9s sur le r\u00e9seau STAR\".\n- *Mobilier*: mobilier[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b5fb1542-08e4-482b-8ecb-42fd0cd1b9b3",
+      "last_modified": "2015-06-30T12:46:20",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b5fb1542-08e4-482b-8ecb-42fd0cd1b9b3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T04:00:52.594000",
+      "title": "Export au format CSV",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/topologie-des-points-darret-de-bus-du-reseau-star/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:00:52.595000",
+      "description": "- *Identifiant*: id[text]\n- *Code*: code[text]\n- *Nom*: nom[text]\n- *Commune (code INSEE)*: codeinseecommune[text]\n- *Commune (nom)*: nomcommune[text]\n- *Coordonn\u00e9es*: coordonnees[geo_point_2d]\n- *Accessible aux PMR*: estaccessiblepmr[text] L'accessibilit\u00e9 aux Personnes \u00e0 Mobilit\u00e9 R\u00e9duite indiqu\u00e9e ici est th\u00e9orique : pour acc\u00e9der \u00e0 un bus \u00e0 cet arr\u00eat, il faut \u00e9galement que la ligne et le bus soient accessibles aux Personnes \u00e0 Mobilit\u00e9 R\u00e9duite. Pour obtenir les lignes accessibles aux Personnes \u00e0 Mobilit\u00e9 R\u00e9duite, veuillez consulter le jeu de donn\u00e9es \"Lignes de bus du r\u00e9seau STAR\". Pour obtenir les bus accessibles aux Personnes \u00e0 Mobilit\u00e9 R\u00e9duite, veuillez consulter le jeu de donn\u00e9es \"Bus utilis\u00e9s sur le r\u00e9seau STAR\".\n- *Mobilier*: mobilier[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "b50e3901-0e6b-4a3d-b2e7-c6f396bd4da2",
+      "last_modified": "2015-06-30T12:46:20",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b50e3901-0e6b-4a3d-b2e7-c6f396bd4da2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T04:00:52.595000",
+      "title": "Export au format JSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/topologie-des-points-darret-de-bus-du-reseau-star/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:00:52.595000",
+      "description": "- *Identifiant*: id[text]\n- *Code*: code[text]\n- *Nom*: nom[text]\n- *Commune (code INSEE)*: codeinseecommune[text]\n- *Commune (nom)*: nomcommune[text]\n- *Coordonn\u00e9es*: coordonnees[geo_point_2d]\n- *Accessible aux PMR*: estaccessiblepmr[text] L'accessibilit\u00e9 aux Personnes \u00e0 Mobilit\u00e9 R\u00e9duite indiqu\u00e9e ici est th\u00e9orique : pour acc\u00e9der \u00e0 un bus \u00e0 cet arr\u00eat, il faut \u00e9galement que la ligne et le bus soient accessibles aux Personnes \u00e0 Mobilit\u00e9 R\u00e9duite. Pour obtenir les lignes accessibles aux Personnes \u00e0 Mobilit\u00e9 R\u00e9duite, veuillez consulter le jeu de donn\u00e9es \"Lignes de bus du r\u00e9seau STAR\". Pour obtenir les bus accessibles aux Personnes \u00e0 Mobilit\u00e9 R\u00e9duite, veuillez consulter le jeu de donn\u00e9es \"Bus utilis\u00e9s sur le r\u00e9seau STAR\".\n- *Mobilier*: mobilier[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "d779de56-b183-4901-a3cf-1cf9923ef1fa",
+      "last_modified": "2015-06-30T12:46:20",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d779de56-b183-4901-a3cf-1cf9923ef1fa",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T04:00:52.595000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/topologie-des-points-darret-de-bus-du-reseau-star/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:00:52.595000",
+      "description": "- *Identifiant*: id[text]\n- *Code*: code[text]\n- *Nom*: nom[text]\n- *Commune (code INSEE)*: codeinseecommune[text]\n- *Commune (nom)*: nomcommune[text]\n- *Coordonn\u00e9es*: coordonnees[geo_point_2d]\n- *Accessible aux PMR*: estaccessiblepmr[text] L'accessibilit\u00e9 aux Personnes \u00e0 Mobilit\u00e9 R\u00e9duite indiqu\u00e9e ici est th\u00e9orique : pour acc\u00e9der \u00e0 un bus \u00e0 cet arr\u00eat, il faut \u00e9galement que la ligne et le bus soient accessibles aux Personnes \u00e0 Mobilit\u00e9 R\u00e9duite. Pour obtenir les lignes accessibles aux Personnes \u00e0 Mobilit\u00e9 R\u00e9duite, veuillez consulter le jeu de donn\u00e9es \"Lignes de bus du r\u00e9seau STAR\". Pour obtenir les bus accessibles aux Personnes \u00e0 Mobilit\u00e9 R\u00e9duite, veuillez consulter le jeu de donn\u00e9es \"Bus utilis\u00e9s sur le r\u00e9seau STAR\".\n- *Mobilier*: mobilier[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "ba10e11a-864a-484b-8302-b51718c86270",
+      "last_modified": "2015-06-30T12:46:20",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ba10e11a-864a-484b-8302-b51718c86270",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T04:00:52.595000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/topologie-des-points-darret-de-bus-du-reseau-star/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "topologie-des-points-darret-de-bus-du-reseau-star",
+  "spatial": null,
+  "tags": [
+    "bus",
+    "mobilite",
+    "transport"
+  ],
+  "temporal_coverage": null,
+  "title": "Topologie des points d'arr\u00eat de bus du r\u00e9seau STAR",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/topologie-des-points-darret-de-bus-du-reseau-star/"
+}

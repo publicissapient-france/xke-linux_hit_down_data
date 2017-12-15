@@ -1,0 +1,99 @@
+{
+  "badges": [],
+  "created_at": "2017-10-19T16:48:39.209000",
+  "deleted": null,
+  "description": "Evolution entre 2014 et 2016 du nombre de clients avec des services bancaires de base et des offres clients fragiles",
+  "extras": {
+    "harvest:domain": "bpce.opendatasoft.com",
+    "harvest:last_update": "2017-11-27T01:00:13.456605",
+    "harvest:remote_id": "offre-bancaire-a-destination-de-la-clientele-fragile",
+    "harvest:source_id": "59e8baf588ee38187408f8f5",
+    "ods:has_records": true,
+    "ods:url": "https://bpce.opendatasoft.com//explore/dataset/offre-bancaire-a-destination-de-la-clientele-fragile/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59e8bb47a3a72974bbd88609",
+  "last_modified": "2017-11-27T01:00:13.457000",
+  "last_update": "2017-11-27T01:00:13.456000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "BPCE",
+    "class": "Organization",
+    "id": "59e4ade488ee38366b2f58ab",
+    "logo": "https://www.data.gouv.fr/s/avatars/d1/3e1b26bae144319b284c4b5512bea9-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/d1/3e1b26bae144319b284c4b5512bea9-100.jpg",
+    "name": "Groupe BPCE",
+    "page": "https://www.data.gouv.fr/fr/organizations/groupe-bpce/",
+    "slug": "groupe-bpce",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/groupe-bpce/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/offre-bancaire-a-destination-de-la-clientele-fragile/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T01:00:13.455000",
+      "description": "- *Indicateur (en nombre de clients)*: indicateur_en_nombre_de_clients[text]\n- *Ann\u00e9e*: annee[date]\n- *Nb de Clients*: nb_de_clients[int]\n- *Evolution 2015-2016 en %*: evolution_2015_2016_en[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a06f234d-34d9-4183-963c-5e1d5486dd3a",
+      "last_modified": "2017-05-17T12:52:06",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a06f234d-34d9-4183-963c-5e1d5486dd3a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T01:00:13.455000",
+      "title": "Export au format CSV",
+      "url": "https://bpce.opendatasoft.com//explore/dataset/offre-bancaire-a-destination-de-la-clientele-fragile/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T01:00:13.455000",
+      "description": "- *Indicateur (en nombre de clients)*: indicateur_en_nombre_de_clients[text]\n- *Ann\u00e9e*: annee[date]\n- *Nb de Clients*: nb_de_clients[int]\n- *Evolution 2015-2016 en %*: evolution_2015_2016_en[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "30931d0c-6cd9-4715-a49b-88a7ea044073",
+      "last_modified": "2017-05-17T12:52:06",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/30931d0c-6cd9-4715-a49b-88a7ea044073",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T01:00:13.456000",
+      "title": "Export au format JSON",
+      "url": "https://bpce.opendatasoft.com//explore/dataset/offre-bancaire-a-destination-de-la-clientele-fragile/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "offre-bancaire-a-destination-de-la-clientele-fragile",
+  "spatial": null,
+  "tags": [
+    "client-fragile",
+    "economie"
+  ],
+  "temporal_coverage": null,
+  "title": "Offre bancaire \u00e0 destination de la client\u00e8le fragile",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/offre-bancaire-a-destination-de-la-clientele-fragile/"
+}

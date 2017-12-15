@@ -1,0 +1,105 @@
+{
+  "badges": [],
+  "created_at": "2017-11-17T05:10:55.622000",
+  "deleted": null,
+  "description": "Inventaire des collections du mus\u00e9e Saint-Raymond depuis sa cr\u00e9ation en 1892.\u00a0\n\nLes \u00e9quipes du mus\u00e9e m\u00e8nent un travail de fond pour\u00a0am\u00e9liorer la qualit\u00e9 des donn\u00e9es.\u00a0Le mus\u00e9e Saint-Raymond reste \u00e0 la disposition des r\u00e9utilisateurs pour des extractions plus compl\u00e8tes ou th\u00e9matiques : [contact](mailto:msr.web@mairie-toulouse.fr)\n\nVoir aussi [les collections en d\u00e9p\u00f4t](https://data.toulouse-metropole.fr/explore/dataset/inventaire-des-depots-musee-saint-raymond/)",
+  "extras": {
+    "harvest:domain": "data.toulouse-metropole.fr",
+    "harvest:last_update": "2017-11-27T05:19:52.799209",
+    "harvest:remote_id": "inventaire-principal-musee-saint-raymond",
+    "harvest:source_id": "564c3680c751df607daad370",
+    "ods:has_records": true,
+    "ods:references": "http://saintraymond.toulouse.fr/",
+    "ods:url": "https://data.toulouse-metropole.fr//explore/dataset/inventaire-principal-musee-saint-raymond/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5a0e614fb5950840f0ec24bb",
+  "last_modified": "2017-11-27T05:19:52.801000",
+  "last_update": "2017-11-27T05:19:52.798000",
+  "license": "odc-odbl",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb3a3a7292c64a78129",
+    "logo": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-100.jpg",
+    "name": "Toulouse m\u00e9trople",
+    "page": "https://www.data.gouv.fr/fr/organizations/toulouse-metrople/",
+    "slug": "toulouse-metrople",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/toulouse-metrople/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/inventaire-principal-musee-saint-raymond/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:19:52.798000",
+      "description": "- *N\u00b0 INVENTAIRE*: ndeg_inventaire[text] num\u00e9ro d'inventaire principal de l'objet\n- *AUTRE N\u00b0*: autre_ndeg[text] ancien num\u00e9ro d'inventaire, num\u00e9ro de fouille ou num\u00e9ro dans une autre collection\n- *ACQUISITION*: acquisition[text] mode d'acquisition, ann\u00e9e et ancienne appartenance de l'objet\n- *MODE D'ACQUISTION*: mode_d_acquistion[text] mode d'entr\u00e9e dans les collections\n- *DATE D'ACQUISITION*: date_d_acq[text]\n- *ANCIEN PROPRIETARE*: ancien_proprietare[text] collection ant\u00e9rieure\n- *NOM DONATEUR VENDEUR*: nom_donateurvendeur[text]\n- *DATE D'ENTREE*: date_d_entree[text]\n- *PRIX D'ACHAT*: prix_d_achat[text] converti en euros\n- *DESIGNATION*: designation[text] d\u00e9nomination de l'objet\n- *DESIGNATION 2*: designation_2[text] titre de l'objet\n- *MARQUES INSCRIPTIONS*: marques_inscriptions[text] retranscription des marques pr\u00e9sentes sur l'objet\n- *MARQUES INSCRIPTION2*: marques_inscription2[text] inscriptions au revers de l'objet\n- *LIBELLE MATIERE ET TECHNIQUE*: matiere_et_technique[text]\n- *MATIERE*: matiere[text]\n- *TECHNIQUE*: technique[text]\n- *Hauteur en cm*: hauteur_en_cm[text]\n- *Largeur en cm*: largeur_en_cm[text]\n- *Longueur en cm*: longueur_en_cm[text]\n- *Profondeur en cm*: profondeur_en_cm[text]\n- *Epaisseur en cm*: epaisseur_en_cm[text]\n- *Poids en gr*: poids_en_gr[text]\n- *Diam\u00e8tre en cm*: diametre_en_cm[text]\n- *Axe en h ou cm*: axe_en_h_ou_cm[text]\n- *Echelle*: echelle[text]\n- *AUTEUR COMMANDITAIRE*: auteur_commanditaire[text]\n- *EPOQUE*: epoque[text]\n- *DATE DE CREATION*: date_de_creation[text]\n- *LIEU EXECUTION*: lieu_execution[text] lieu de cr\u00e9ation de l'objet\n- *PROVENANCE (SITE)*: provenance_site[text] site arch\u00e9ologique d'o\u00f9 provient l'objet\n- *LIEU DE PROVENANCE*: lieu_de_provenance[text] lieu de d\u00e9couverte de l'objet\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "6062d22c-43cd-4a72-a7aa-81002ec931bb",
+      "last_modified": "2017-10-20T13:37:54",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6062d22c-43cd-4a72-a7aa-81002ec931bb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:19:52.798000",
+      "title": "Export au format CSV",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/inventaire-principal-musee-saint-raymond/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:19:52.798000",
+      "description": "- *N\u00b0 INVENTAIRE*: ndeg_inventaire[text] num\u00e9ro d'inventaire principal de l'objet\n- *AUTRE N\u00b0*: autre_ndeg[text] ancien num\u00e9ro d'inventaire, num\u00e9ro de fouille ou num\u00e9ro dans une autre collection\n- *ACQUISITION*: acquisition[text] mode d'acquisition, ann\u00e9e et ancienne appartenance de l'objet\n- *MODE D'ACQUISTION*: mode_d_acquistion[text] mode d'entr\u00e9e dans les collections\n- *DATE D'ACQUISITION*: date_d_acq[text]\n- *ANCIEN PROPRIETARE*: ancien_proprietare[text] collection ant\u00e9rieure\n- *NOM DONATEUR VENDEUR*: nom_donateurvendeur[text]\n- *DATE D'ENTREE*: date_d_entree[text]\n- *PRIX D'ACHAT*: prix_d_achat[text] converti en euros\n- *DESIGNATION*: designation[text] d\u00e9nomination de l'objet\n- *DESIGNATION 2*: designation_2[text] titre de l'objet\n- *MARQUES INSCRIPTIONS*: marques_inscriptions[text] retranscription des marques pr\u00e9sentes sur l'objet\n- *MARQUES INSCRIPTION2*: marques_inscription2[text] inscriptions au revers de l'objet\n- *LIBELLE MATIERE ET TECHNIQUE*: matiere_et_technique[text]\n- *MATIERE*: matiere[text]\n- *TECHNIQUE*: technique[text]\n- *Hauteur en cm*: hauteur_en_cm[text]\n- *Largeur en cm*: largeur_en_cm[text]\n- *Longueur en cm*: longueur_en_cm[text]\n- *Profondeur en cm*: profondeur_en_cm[text]\n- *Epaisseur en cm*: epaisseur_en_cm[text]\n- *Poids en gr*: poids_en_gr[text]\n- *Diam\u00e8tre en cm*: diametre_en_cm[text]\n- *Axe en h ou cm*: axe_en_h_ou_cm[text]\n- *Echelle*: echelle[text]\n- *AUTEUR COMMANDITAIRE*: auteur_commanditaire[text]\n- *EPOQUE*: epoque[text]\n- *DATE DE CREATION*: date_de_creation[text]\n- *LIEU EXECUTION*: lieu_execution[text] lieu de cr\u00e9ation de l'objet\n- *PROVENANCE (SITE)*: provenance_site[text] site arch\u00e9ologique d'o\u00f9 provient l'objet\n- *LIEU DE PROVENANCE*: lieu_de_provenance[text] lieu de d\u00e9couverte de l'objet\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "e06cbbe2-0eb4-4079-95e4-ce6223918514",
+      "last_modified": "2017-10-20T13:37:54",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e06cbbe2-0eb4-4079-95e4-ce6223918514",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:19:52.798000",
+      "title": "Export au format JSON",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/inventaire-principal-musee-saint-raymond/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "inventaire-principal-musee-saint-raymond",
+  "spatial": null,
+  "tags": [
+    "antiquite",
+    "archeologie",
+    "culture",
+    "inventaire",
+    "musee",
+    "patrimoine",
+    "saint-raymond"
+  ],
+  "temporal_coverage": null,
+  "title": "Inventaire principal - Mus\u00e9e Saint-Raymond",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/inventaire-principal-musee-saint-raymond/"
+}

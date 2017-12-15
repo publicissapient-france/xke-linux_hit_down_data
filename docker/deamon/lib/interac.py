@@ -53,6 +53,7 @@ def controlAnwser(context):
     cmd.append(context.data)
     print(cmd)
     out_bytes = subprocess.check_output(cmd).decode().rstrip()
+    logThat('DEBUT',out_bytes)
 
     if out_bytes == 'True':
         logThat("GAME", " Question :{} anwser correct : {}".format(context.question, context.data))

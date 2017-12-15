@@ -1,0 +1,304 @@
+{
+  "badges": [],
+  "created_at": "2016-06-22T00:00:00",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es est un d\u00e9nombrement des foyers allocataires par commune ayant un droit versable \u00e0 une aide au logement au titre de d\u00e9cembre de l\u2019ann\u00e9e de r\u00e9f\u00e9rence. Les allocations logement, prestations vers\u00e9es sous conditions de ressources ont pour vocation de soutenir les personnes et familles modestes dans leur effort financier consacr\u00e9 au logement principal. Elles concernent les locataires, les r\u00e9sidents en foyer et les acc\u00e9dants \u00e0 la propri\u00e9t\u00e9.\n\nLes aides au logement sont constitu\u00e9es de l\u2019Allocation de Logement Familiale (ALF), de l\u2019Allocation de Logement Sociale (ALS), et de l\u2019Aide Personnalis\u00e9e au Logement (APL).\n\nDes \u00e9l\u00e9ments plus d\u00e9taill\u00e9s sur les aides aux logement sont disponibles sur le site caf.fr, en cliquant sur le lien suivant :\n\nhttps://www.caf.fr/aides-et-services/s-informer-sur-les-aides/logement-et-cadre-de-vie\n\nDes donn\u00e9es de synth\u00e8se et d'analyse ainsi que des descriptions statistiques et cartographiques sur les aides au logement sont disponibles dans le cahier des donn\u00e9es sociales de la Cnaf (page 46), en cliquant sur le lien suivant : \n\nhttp://www.caf.fr/sites/default/files/cnaf/Documents/Dser/cahier_donnees_sociales/CDS_2011.pdf#page=21\n\nLe foyer allocataire est compos\u00e9 du responsable du dossier (personne qui per\u00e7oit au moins une prestation au regard de sa situation familiale et/ou mon\u00e9taire), et l'ensemble des autres ayants droit au sens de la r\u00e8glementation en vigueur (conjoint, enfant(s) et autre(s) personne(s) \u00e0 charge).\nPlusieurs foyers allocataires peuvent cohabiter dans un m\u00eame lieu, ils constituent alors un seul m\u00e9nage au sens de la d\u00e9finition statistique Insee. C\u2019est le cas, par exemple, lorsque un couple per\u00e7oit des allocations logement et h\u00e9berge son enfant titulaire d'un minimum social des Caf (RSO, RSA, AAH).\nEn pratique, le terme \"allocataire\" est souvent utilis\u00e9 \u00e0 la place de \"foyer allocataire\".\n\nLe droit versable signifie que le foyer allocataire remplit toutes les conditions pour \u00eatre effectivement pay\u00e9 au titre du mois d\u2019observation. En particulier ne sont pas inclus dans ce p\u00e9rim\u00e8tre les b\u00e9n\u00e9ficiaires qui n\u2019ont pas fourni l\u2019int\u00e9gralit\u00e9 de leurs pi\u00e8ces justificatives, ou ceux dont le montant de la prestation est inf\u00e9rieur au seuil de versement.\n\nLe champ g\u00e9ographique d\u2019observation du jeu de donn\u00e9es correspond \u00e0 la commune de r\u00e9sidence du foyer allocataire telle qu\u2019elle est enregistr\u00e9e dans le fichier statistique des allocataires de  d\u00e9cembre de l\u2019ann\u00e9e de r\u00e9f\u00e9rence N) extrait en d\u00e9but d\u2019ann\u00e9e N+1 et ce quelle que soit la Caf de gestion.",
+  "extras": {
+    "ckan:name": "population-des-foyers-allocataires-percevant-une-aide-personnelle-au-logement",
+    "harvest:domain": "data.caf.fr",
+    "harvest:last_update": "2017-11-27T05:08:57.198619",
+    "harvest:remote_id": "1263e313-9bb0-417d-bb88-1488b6993ae8",
+    "harvest:source_id": "560d9133c751df40ee756894",
+    "harvested": "2017-10-02T09:41:37.633802",
+    "remote_url": "FILEAS Base Communale Allocataires (BCA)",
+    "source_id": "954ea88a-1b59-4a56-acae-2148a64dbe5e"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "560d9160b595086cd601d757",
+  "last_modified": "2017-11-27T05:08:57.201000",
+  "last_update": "2017-07-02T19:44:13.272000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "CNAF",
+    "class": "Organization",
+    "id": "5595066cc751df4582a453ba",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-07-02/a1bc08e4a4dc44a89cb29697800a83b5/new_logo-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-07-02/a1bc08e4a4dc44a89cb29697800a83b5/new_logo-100.jpg",
+    "name": "Caisse Nationale des Allocations familiales ",
+    "page": "https://www.data.gouv.fr/fr/organizations/allocations-familiales/",
+    "slug": "allocations-familiales",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/allocations-familiales/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/population-des-foyers-allocataires-percevant-une-aide-personnelle-au-logement/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:40.951000",
+      "description": "Lisez-moi.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T07:10:18.344000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/1263e313-9bb0-417d-bb88-1488b6993ae8/resource/d9ed9759-ae88-4277-bba6-3a21264ffd7f/download/descriptifALLocLog.txt"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "txt",
+      "id": "d9ed9759-ae88-4277-bba6-3a21264ffd7f",
+      "last_modified": "2015-07-27T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d9ed9759-ae88-4277-bba6-3a21264ffd7f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 4
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:40.951000",
+      "title": "Descriptif du fichier Les allocataires Logement",
+      "url": "http://data.caf.fr/dataset/1263e313-9bb0-417d-bb88-1488b6993ae8/resource/d9ed9759-ae88-4277-bba6-3a21264ffd7f/download/descriptifALLocLog.txt"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:40.951000",
+      "description": "D\u00e9nombrement des foyers allocataires par commune ayant un droit versable \u00e0 une aide au logement, en 2009.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T07:10:14.193000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/1263e313-9bb0-417d-bb88-1488b6993ae8/resource/e8d57800-dd95-4221-b4d8-2044ba67cbcb/download/LOGCom2009.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e8d57800-dd95-4221-b4d8-2044ba67cbcb",
+      "last_modified": "2015-06-29T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e8d57800-dd95-4221-b4d8-2044ba67cbcb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:40.951000",
+      "title": "Les allocataires logement en 2009",
+      "url": "http://data.caf.fr/dataset/1263e313-9bb0-417d-bb88-1488b6993ae8/resource/e8d57800-dd95-4221-b4d8-2044ba67cbcb/download/LOGCom2009.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:40.951000",
+      "description": "D\u00e9nombrement des foyers allocataires par commune ayant un droit versable \u00e0 une aide au logement, en 2010.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T07:10:22.371000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/1263e313-9bb0-417d-bb88-1488b6993ae8/resource/6108a4d5-26e8-4f25-9f49-6a8da58ea6ae/download/LOGCom2010.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "6108a4d5-26e8-4f25-9f49-6a8da58ea6ae",
+      "last_modified": "2015-06-29T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6108a4d5-26e8-4f25-9f49-6a8da58ea6ae",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:40.951000",
+      "title": "Les allocataires logement en 2010",
+      "url": "http://data.caf.fr/dataset/1263e313-9bb0-417d-bb88-1488b6993ae8/resource/6108a4d5-26e8-4f25-9f49-6a8da58ea6ae/download/LOGCom2010.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:40.952000",
+      "description": "D\u00e9nombrement des foyers allocataires par commune ayant un droit versable \u00e0 une aide au logement, en 2011.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T07:10:19.241000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/1263e313-9bb0-417d-bb88-1488b6993ae8/resource/5867d5ab-190d-40c8-8f4d-b7eb9dc1fc8e/download/LOGCom2011.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "5867d5ab-190d-40c8-8f4d-b7eb9dc1fc8e",
+      "last_modified": "2015-06-29T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5867d5ab-190d-40c8-8f4d-b7eb9dc1fc8e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:40.952000",
+      "title": "Les allocataires logement en 2011",
+      "url": "http://data.caf.fr/dataset/1263e313-9bb0-417d-bb88-1488b6993ae8/resource/5867d5ab-190d-40c8-8f4d-b7eb9dc1fc8e/download/LOGCom2011.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:40.952000",
+      "description": "D\u00e9nombrement des foyers allocataires par commune ayant un droit versable \u00e0 une aide au logement, en 2012.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T07:10:21.618000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/1263e313-9bb0-417d-bb88-1488b6993ae8/resource/8566dd5b-b9db-4e67-89a1-c10e62b703a8/download/LOGCom2012.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "8566dd5b-b9db-4e67-89a1-c10e62b703a8",
+      "last_modified": "2015-06-29T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8566dd5b-b9db-4e67-89a1-c10e62b703a8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:40.952000",
+      "title": "Les allocataires logement en 2012",
+      "url": "http://data.caf.fr/dataset/1263e313-9bb0-417d-bb88-1488b6993ae8/resource/8566dd5b-b9db-4e67-89a1-c10e62b703a8/download/LOGCom2012.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:40.952000",
+      "description": "D\u00e9nombrement des foyers allocataires par commune ayant un droit versable \u00e0 une aide au logement, en 2013.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T07:10:18.539000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/1263e313-9bb0-417d-bb88-1488b6993ae8/resource/21eab4ce-9ad3-4346-8efe-cb994f2a7011/download/LOGCom2013.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "21eab4ce-9ad3-4346-8efe-cb994f2a7011",
+      "last_modified": "2015-06-29T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/21eab4ce-9ad3-4346-8efe-cb994f2a7011",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 4
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:40.952000",
+      "title": "Les allocataires logement en 2013",
+      "url": "http://data.caf.fr/dataset/1263e313-9bb0-417d-bb88-1488b6993ae8/resource/21eab4ce-9ad3-4346-8efe-cb994f2a7011/download/LOGCom2013.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:40.952000",
+      "description": "D\u00e9nombrement des foyers allocataires par commune ayant un droit versable \u00e0 une aide au logement, en 2014.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-28T09:09:52.606000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/1263e313-9bb0-417d-bb88-1488b6993ae8/resource/37ba7456-0996-4c95-ba28-38f079d25d86/download/LOGCom2014.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "37ba7456-0996-4c95-ba28-38f079d25d86",
+      "last_modified": "2015-06-29T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/37ba7456-0996-4c95-ba28-38f079d25d86",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:40.952000",
+      "title": "Les allocataires logement en 2014",
+      "url": "http://data.caf.fr/dataset/1263e313-9bb0-417d-bb88-1488b6993ae8/resource/37ba7456-0996-4c95-ba28-38f079d25d86/download/LOGCom2014.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:44:13.269000",
+      "description": "D\u00e9nombrement des foyers allocataires par commune ayant un droit versable \u00e0 une aide au logement, en 2015.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-28T09:09:52.594000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/1263e313-9bb0-417d-bb88-1488b6993ae8/resource/e8358acd-bb66-4305-8af1-a645f70c3bc1/download/LOGCom2015.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e8358acd-bb66-4305-8af1-a645f70c3bc1",
+      "last_modified": "2016-06-30T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e8358acd-bb66-4305-8af1-a645f70c3bc1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T19:44:13.270000",
+      "title": "Les allocataires logement en 2015",
+      "url": "http://data.caf.fr/dataset/1263e313-9bb0-417d-bb88-1488b6993ae8/resource/e8358acd-bb66-4305-8af1-a645f70c3bc1/download/LOGCom2015.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:44:13.272000",
+      "description": "D\u00e9nombrement des foyers allocataires par commune ayant un droit versable \u00e0 une aide au logement, en 2016.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-28T09:09:52.606000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/1263e313-9bb0-417d-bb88-1488b6993ae8/resource/be066527-881a-42b9-9d22-365aaac79c8e/download/LOGCOM2016.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "be066527-881a-42b9-9d22-365aaac79c8e",
+      "last_modified": "2017-07-26T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/be066527-881a-42b9-9d22-365aaac79c8e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T19:44:13.272000",
+      "title": "Les allocataires logement en 2016",
+      "url": "http://data.caf.fr/dataset/1263e313-9bb0-417d-bb88-1488b6993ae8/resource/be066527-881a-42b9-9d22-365aaac79c8e/download/LOGCOM2016.csv"
+    }
+  ],
+  "slug": "population-des-foyers-allocataires-percevant-une-aide-personnelle-au-logement",
+  "spatial": null,
+  "tags": [
+    "alf",
+    "als",
+    "apl",
+    "commune",
+    "logement"
+  ],
+  "temporal_coverage": null,
+  "title": "Foyers  allocataires percevant  une aide au logement  en d\u00e9cembre par commune",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/population-des-foyers-allocataires-percevant-une-aide-personnelle-au-logement/"
+}

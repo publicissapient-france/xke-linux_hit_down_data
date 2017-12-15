@@ -1,0 +1,111 @@
+{
+  "badges": [],
+  "created_at": "2016-07-13T20:55:33.911000",
+  "deleted": null,
+  "description": "Liste des structures de recherche sous tutelle de l'universit\u00e9 Paris Ouest la D\u00e9fense, coordonn\u00e9es postales, \u00e9coles doctorales de rattachement\n\n* * *\n\nCe jeu de donn\u00e9es pr\u00e9sente les informations relatives aux structures de recherche sous tutelle de l'Universit\u00e9 Paris Ouest Nanterre la D\u00e9fense. Pour chacune d'elles sont indiqu\u00e9s la description administrative et l'adresse postale.\n\n**Lexique**\n\nPour les champs intitul\u00e9s \"Disciplines_1, 2, 3, 4, 5 ou 6\", voici la table de correspondance des valeurs utilis\u00e9es dans le fichier :\n\n101 : Math\u00e9matiques et leurs interactions, 211 : Milieux denses, mat\u00e9riaux et composants, 221 : Constituants \u00e9l\u00e9mentaires et physique th\u00e9orique, 222 : Plasmas chauds, 231 : Milieux dilu\u00e9s et optique fondamentale ; 301 : Astronomie, astrophysique, 302 : Terre solide et couches profondes, 303 : Terre solide et enveloppes superficielles, 304 : Terre, enveloppes fluides, 401 : Chimie th\u00e9orique, physique, analytique, 402 : Chimie organique, min\u00e9rale, industrielle, 403 : Chimie des mat\u00e9riaux, 404 : G\u00e9nie des mat\u00e9riaux, 510 : Aspects mol\u00e9culaires et cellulaires de la biologie, 520 : Physiologie, Biologie des organismes, populations, interactions, 530 : Biomol\u00e9cules, pharmacologie, th\u00e9rapeutique, 540 : Recherche clinique, innovation technologique, sant\u00e9 publique, 610 : Sciences du langage : linguistique et phon\u00e9tique g\u00e9n\u00e9rale, 611 : Langues et litt\u00e9ratures anciennes, 612 : Langue et litt\u00e9rature fran\u00e7aises, 613 : Litt\u00e9ratures compar\u00e9es, 614 : Langues et litt\u00e9ratures anglaises et anglo-saxonnes, 615 : Langues et litt\u00e9ratures germaniques et scandinaves, 616 : Langues et litt\u00e9ratures slaves, 617 : Langues et litt\u00e9ratures romanes : espagnol, italien, portugais, autres langues, 618 : Langues et litt\u00e9ratures arabes, chinoises, japonaises, hebra\u00efques, 619 : Cultures et langues r\u00e9gionales, 621 : Philosophie, 622 : Epist\u00e9mologie, histoire des sciences et des techniques, 623 : Ethique et d\u00e9ontologie, 624 : Th\u00e9ologie, 625 : Arts : plastiques, spectacle, musique, esth\u00e9tique, sciences et histoire de l'art, 631 : Psychologie, psychologie clinique, psychologie sociale, 632 : Sciences de l'information et de la communication, 633 : Sciences de l'\u00e9ducation, 634 : Sciences et techniques des activit\u00e9s physiques et sportives, 641 : Pr\u00e9histoire, 642 : Histoire et civilisations : histoire et arch\u00e9ologie des mondes anciens et m\u00e9di\u00e9vaux, de l'art, 643 : Histoire et civilisations : histoire des mondes modernes, histoire du monde contemporain, de l'art, 645 : G\u00e9ographie physique, humaine, \u00e9conomique et r\u00e9gionale, 646 : Am\u00e9nagement de l'espace, urbanisme, 711 : Droit priv\u00e9 et sciences criminelles, 712 : Droit public, 713 : Histoire du droit et des institutions, 714 : Science politique, 721 : Science \u00e9conomique, 722 : Science de gestion, 731 : Sociologie, d\u00e9mographie, 732 : Anthropologie, ethnologie, 811 : M\u00e9canique des solides, des mat\u00e9riaux, des structures et des surfaces, 812 : G\u00e9nie civil, 813 : G\u00e9nie m\u00e9canique, productique, transport, 821 : M\u00e9canique des milieux fluides, 822 : Energ\u00e9tique, thermique,combustion, 823 : Acoustique, 824 : Bio-m\u00e9canique et bio-ing\u00e9nierie, 831 : G\u00e9nie des proc\u00e9d\u00e9s, 832 : Plasmas froids, 841 : G\u00e9nie \u00e9lectrique, 842 : Electronique de puissance, 911 : Informatique et applications, 921 : Automatique, productique et robotique, 922 : Traitement du signal et des images, 931 : \u00e9lectronique, micro\u00e9lectronique, nano\u00e9lectronique et micro-ondes, 932 : Micro-nanosyst\u00e8mes et capteurs, 933 : Syst\u00e8mes optiques et photonique, 1010 : Biologie de l'environnement, des populations, \u00e9cologie, 1020 : Biologie des organismes ; Biotechnologies animales, v\u00e9g\u00e9tales et microbienne, 1030 : Biotechnologies agroalimentaires, sciences de l'aliment.\n\n**Donn\u00e9es connexes**\n\nUniversit\u00e9 Paris Ouest Nanterre la D\u00e9fense  \n[Direction de la Recherche et des Etudes Doctorales](https://www.u-paris10.fr/recherche/direction-de-la-recherche-et-des-etudes-doctorales-460958.kjsp?RH=1274969163155&RF=1365758165442)",
+  "extras": {
+    "harvest:domain": "opendata.hauts-de-seine.fr",
+    "harvest:last_update": "2017-04-06T06:03:06.483127",
+    "harvest:remote_id": "domaines-scientifiques-et-structures-de-recherche-de-luniversite",
+    "harvest:source_id": "5731a6d688ee38379cd1b934",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.hauts-de-seine.fr//explore/dataset/domaines-scientifiques-et-structures-de-recherche-de-luniversite/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "57868ea5a3a7295d371adcfa",
+  "last_modified": "2017-04-06T06:03:06.486000",
+  "last_update": "2017-04-06T06:03:06.481000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "544e1b0888ee38289ae1ed05",
+    "logo": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-100.jpg",
+    "name": "Hauts-de-Seine le D\u00e9partement",
+    "page": "https://www.data.gouv.fr/fr/organizations/hauts-de-seine-le-departement/",
+    "slug": "hauts-de-seine-le-departement",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/hauts-de-seine-le-departement/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/domaines-scientifiques-et-structures-de-recherche-de-luniversite/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T06:03:06.481000",
+      "description": "- *Date_observation*: date_observation[date] Date d'observation de la donn\u00e9e\n- *Label_num\u00e9ro*: label_numero[text] Le label et le num\u00e9ro associ\u00e9 permettent de d\u00e9finir des identifiants uniques. Ils ont \u00e9t\u00e9 attribu\u00e9s par le minist\u00e8re de l\u2019enseignement sup\u00e9rieur et de la recherche.\n- *Acronyme*: acronyme[text] Sigle servant \u00e0 d\u00e9signer la structure de recherche\n- *Nom*: nom[text] D\u00e9signation compl\u00e8te de la structure de recherche apr\u00e8s d\u00e9veloppement du sigle\n- *Discipline_1*: discipline_1[text] Discipline_1 (voir Lexique dans la description)\n- *Discipline_2*: discipline_2[text] Discipline_2 (voir Lexique dans la description)\n- *Discipline_3*: discipline_3[text] Discipline_3 (voir Lexique dans la description)\n- *Discipline_4*: discipline_4[text] Discipline_4 (voir Lexique dans la description)\n- *Discipline_5*: discipline_5[text] Discipline_5 (voir Lexique dans la description)\n- *Discipline_6*: discipline_6[text] Discipline_6 (voir Lexique dans la description)\n- *Tutelle*: tutelle[text] \u00e9tablissement de tutelle\n- *Tutelle_2*: tutelle_2[text] \u00e9tablissement de tutelle\n- *Tutelle_3*: tutelle_3[text] \u00e9tablissement de tutelle\n- *Tutelle_4*: tutelle_4[text] \u00e9tablissement de tutelle\n- *Tutelle_5*: tutelle_5[text] \u00e9tablissement de tutelle\n- *Tutelle_6*: tutelle_6[text] \u00e9tablissement de tutelle\n- *Partenaire*: partenaire[text] \u00e9tablissement partenaire\n- *\u00e9cole_doctorale_1*: ecole_doctorale_1[text] \u00e9cole doctorale de rattachement (label et num\u00e9ro)\n- *\u00e9cole_doctorale_2*: ecole_doctorale_2[text] \u00e9cole doctorale de rattachement (label et num\u00e9ro)\n- *\u00e9cole_doctorale_3*: ecole_doctorale_3[text] \u00e9cole doctorale de rattachement (label et num\u00e9ro)\n- *\u00e9cole_doctorale_4*: ecole_doctorale_4[text] \u00e9cole doctorale de rattachement (label et num\u00e9ro)\n- *\u00e9cole_doctorale_5*: ecole_doctorale_5[text] \u00e9cole doctorale de rattachement (label et num\u00e9ro)\n- *\u00e9cole_doctorale_6*: ecole_doctorale_6[text] \u00e9cole doctorale de rattachement (label et num\u00e9ro)\n- *Ann\u00e9e_de_cr\u00e9ation*: annee_de_creation[double] ann\u00e9e de cr\u00e9ation de la structure\n- *B\u00e2timent*: batiment[text] B\u00e2timent o\u00f9 se situe le secr\u00e9tariat de la structure de recherche\n- *\u00e9tage*: etage[double] \u00e9tage\n- *\u00e9tage_2*: etage_2[double] \u00e9tage\n- *\u00e9tage_3*: etage_3[double] \u00e9tage\n- *Bureaux*: bureaux[text] N\u00b0 du bureau du secr\u00e9tariat de la structure de recherche\n- *Adresse_1*: adresse_1[text] Adresse de la structure de recherche n\u00b01\n- *Adresse_Suite_1*: adresse_suite_1[text] Suite de l'adresse de la structure de recherche n\u00b01\n- *CP_1*: cp_1[double] Code postal de la structure de recherche n\u00b01\n- *Ville_1*: ville_1[text] Ville de la structure de recherche n\u00b01\n- *Adresse_2*: adresse_2[text] Adresse de la structure de recherche n\u00b02\n- *Adresse_Suite_2*: adresse_suite_2[text] Suite de l'adresse de la structure de recherche n\u00b02\n- *CP_2*: cp_2[double] Code postal de la structure de recherche n\u00b02\n- *Ville_2*: ville_2[text] Ville de la structure de recherche n\u00b02\n- *Adresse_3*: adresse_3[text] Adresse de la structure de recherche n\u00b03\n- *Adresse_Suite_3*: adresse_suite_3[text] Suite de l'adresse de la structure de recherche n\u00b03\n- *CP_3*: cp_3[double] Code postal de la structure de recherche n\u00b03\n- *Ville_3*: ville_3[text] Ville de la structure de recherche n\u00b03\n- *Adresse_4*: adresse_4[text] Adresse de la structure de recherche n\u00b04\n- *Adresse_Suite_4*: adresse_suite_4[text] Suite de l'adresse de la structure de recherche n\u00b04\n- *CP_4*: cp_4[double] Code postal de la structure de recherche n\u00b04\n- *Ville_4*: ville_4[text] Ville de la structure de recherche n\u00b04\n- *Adresse_5*: adresse_5[text] Adresse de la structure de recherche n\u00b05\n- *Adresse_Suite_5*: adresse_suite_5[text] Suite de l'adresse de la structure de recherche n\u00b05\n- *CP_5*: cp_5[double] Code postal de la structure de recherche n\u00b05\n- *Ville_5*: ville_5[text] Ville de la structure de recherche n\u00b05\n- *Adresse_mail*: adresse_mail[text] adresse mail de la structure de recherche\n- *Site_Internet*: site_internet[text] Adresse du site internet de l'\u00e9cole doctorale\n- *empty*: empty[text]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T11:02:42.401000",
+        "check:status": 200,
+        "check:url": "https://opendata.hauts-de-seine.fr//explore/dataset/domaines-scientifiques-et-structures-de-recherche-de-luniversite/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c6c3bee5-bd2f-43f7-b4a0-b673057263de",
+      "last_modified": "2016-02-25T16:11:33",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c6c3bee5-bd2f-43f7-b4a0-b673057263de",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-04-06T06:03:06.481000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/domaines-scientifiques-et-structures-de-recherche-de-luniversite/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T06:03:06.481000",
+      "description": "- *Date_observation*: date_observation[date] Date d'observation de la donn\u00e9e\n- *Label_num\u00e9ro*: label_numero[text] Le label et le num\u00e9ro associ\u00e9 permettent de d\u00e9finir des identifiants uniques. Ils ont \u00e9t\u00e9 attribu\u00e9s par le minist\u00e8re de l\u2019enseignement sup\u00e9rieur et de la recherche.\n- *Acronyme*: acronyme[text] Sigle servant \u00e0 d\u00e9signer la structure de recherche\n- *Nom*: nom[text] D\u00e9signation compl\u00e8te de la structure de recherche apr\u00e8s d\u00e9veloppement du sigle\n- *Discipline_1*: discipline_1[text] Discipline_1 (voir Lexique dans la description)\n- *Discipline_2*: discipline_2[text] Discipline_2 (voir Lexique dans la description)\n- *Discipline_3*: discipline_3[text] Discipline_3 (voir Lexique dans la description)\n- *Discipline_4*: discipline_4[text] Discipline_4 (voir Lexique dans la description)\n- *Discipline_5*: discipline_5[text] Discipline_5 (voir Lexique dans la description)\n- *Discipline_6*: discipline_6[text] Discipline_6 (voir Lexique dans la description)\n- *Tutelle*: tutelle[text] \u00e9tablissement de tutelle\n- *Tutelle_2*: tutelle_2[text] \u00e9tablissement de tutelle\n- *Tutelle_3*: tutelle_3[text] \u00e9tablissement de tutelle\n- *Tutelle_4*: tutelle_4[text] \u00e9tablissement de tutelle\n- *Tutelle_5*: tutelle_5[text] \u00e9tablissement de tutelle\n- *Tutelle_6*: tutelle_6[text] \u00e9tablissement de tutelle\n- *Partenaire*: partenaire[text] \u00e9tablissement partenaire\n- *\u00e9cole_doctorale_1*: ecole_doctorale_1[text] \u00e9cole doctorale de rattachement (label et num\u00e9ro)\n- *\u00e9cole_doctorale_2*: ecole_doctorale_2[text] \u00e9cole doctorale de rattachement (label et num\u00e9ro)\n- *\u00e9cole_doctorale_3*: ecole_doctorale_3[text] \u00e9cole doctorale de rattachement (label et num\u00e9ro)\n- *\u00e9cole_doctorale_4*: ecole_doctorale_4[text] \u00e9cole doctorale de rattachement (label et num\u00e9ro)\n- *\u00e9cole_doctorale_5*: ecole_doctorale_5[text] \u00e9cole doctorale de rattachement (label et num\u00e9ro)\n- *\u00e9cole_doctorale_6*: ecole_doctorale_6[text] \u00e9cole doctorale de rattachement (label et num\u00e9ro)\n- *Ann\u00e9e_de_cr\u00e9ation*: annee_de_creation[double] ann\u00e9e de cr\u00e9ation de la structure\n- *B\u00e2timent*: batiment[text] B\u00e2timent o\u00f9 se situe le secr\u00e9tariat de la structure de recherche\n- *\u00e9tage*: etage[double] \u00e9tage\n- *\u00e9tage_2*: etage_2[double] \u00e9tage\n- *\u00e9tage_3*: etage_3[double] \u00e9tage\n- *Bureaux*: bureaux[text] N\u00b0 du bureau du secr\u00e9tariat de la structure de recherche\n- *Adresse_1*: adresse_1[text] Adresse de la structure de recherche n\u00b01\n- *Adresse_Suite_1*: adresse_suite_1[text] Suite de l'adresse de la structure de recherche n\u00b01\n- *CP_1*: cp_1[double] Code postal de la structure de recherche n\u00b01\n- *Ville_1*: ville_1[text] Ville de la structure de recherche n\u00b01\n- *Adresse_2*: adresse_2[text] Adresse de la structure de recherche n\u00b02\n- *Adresse_Suite_2*: adresse_suite_2[text] Suite de l'adresse de la structure de recherche n\u00b02\n- *CP_2*: cp_2[double] Code postal de la structure de recherche n\u00b02\n- *Ville_2*: ville_2[text] Ville de la structure de recherche n\u00b02\n- *Adresse_3*: adresse_3[text] Adresse de la structure de recherche n\u00b03\n- *Adresse_Suite_3*: adresse_suite_3[text] Suite de l'adresse de la structure de recherche n\u00b03\n- *CP_3*: cp_3[double] Code postal de la structure de recherche n\u00b03\n- *Ville_3*: ville_3[text] Ville de la structure de recherche n\u00b03\n- *Adresse_4*: adresse_4[text] Adresse de la structure de recherche n\u00b04\n- *Adresse_Suite_4*: adresse_suite_4[text] Suite de l'adresse de la structure de recherche n\u00b04\n- *CP_4*: cp_4[double] Code postal de la structure de recherche n\u00b04\n- *Ville_4*: ville_4[text] Ville de la structure de recherche n\u00b04\n- *Adresse_5*: adresse_5[text] Adresse de la structure de recherche n\u00b05\n- *Adresse_Suite_5*: adresse_suite_5[text] Suite de l'adresse de la structure de recherche n\u00b05\n- *CP_5*: cp_5[double] Code postal de la structure de recherche n\u00b05\n- *Ville_5*: ville_5[text] Ville de la structure de recherche n\u00b05\n- *Adresse_mail*: adresse_mail[text] adresse mail de la structure de recherche\n- *Site_Internet*: site_internet[text] Adresse du site internet de l'\u00e9cole doctorale\n- *empty*: empty[text]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T11:02:42.402000",
+        "check:status": 200,
+        "check:url": "https://opendata.hauts-de-seine.fr//explore/dataset/domaines-scientifiques-et-structures-de-recherche-de-luniversite/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "b437c010-02e3-43ac-9801-93c934457df3",
+      "last_modified": "2016-02-25T16:11:33",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b437c010-02e3-43ac-9801-93c934457df3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-04-06T06:03:06.481000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/domaines-scientifiques-et-structures-de-recherche-de-luniversite/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "domaines-scientifiques-et-structures-de-recherche-de-luniversite",
+  "spatial": null,
+  "tags": [
+    "enseignement-formation",
+    "recherche",
+    "universite"
+  ],
+  "temporal_coverage": null,
+  "title": "Domaines scientifiques et structures de recherche de l'Universit\u00e9",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/domaines-scientifiques-et-structures-de-recherche-de-luniversite/"
+}

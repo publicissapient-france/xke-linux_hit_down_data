@@ -1,0 +1,100 @@
+{
+  "badges": [],
+  "created_at": "2016-06-23T00:40:45.573000",
+  "deleted": null,
+  "description": "",
+  "extras": {
+    "harvest:domain": "navitia.opendatasoft.com",
+    "harvest:last_update": "2017-11-27T05:00:49.831407",
+    "harvest:remote_id": "ca-on",
+    "harvest:source_id": "576b13d988ee386d03ab6513",
+    "ods:has_records": true,
+    "ods:url": "https://navitia.opendatasoft.com//explore/dataset/ca-on/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "576b13eda3a72927e94f8563",
+  "last_modified": "2017-11-27T05:00:49.837000",
+  "last_update": "2017-11-27T05:00:49.830000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "576af9f088ee382315ab6512",
+    "logo": "https://www.data.gouv.fr/s/avatars/76/51e50e49924344876db939b11ff701-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/76/51e50e49924344876db939b11ff701-100.png",
+    "name": "Navitia",
+    "page": "https://www.data.gouv.fr/fr/organizations/navitia/",
+    "slug": "navitia",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/navitia/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/canada-ontario-state/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:00:49.829000",
+      "description": "- *Update date*: update_date[text]\n- *ID*: id[text]\n- *Description*: description[text]\n- *Format*: format[text]\n- *Type file*: type_file[text]\n- *Download*: download[file]\n- *Licence*: licence[text]\n- *Source link*: source_link[text]\n- *Size*: size[int]\n- *Validity start date*: validity_start_date[text]\n- *Validity end date*: validity_end_date[text]\n- *Script of Transformation*: script_of_transformation[text]\n- *Publication update date*: publication_update_date[date]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "d44f7b3b-e8bf-4bc3-b2c0-56fe0b32049d",
+      "last_modified": "2015-12-16T13:38:59",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d44f7b3b-e8bf-4bc3-b2c0-56fe0b32049d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:00:49.829000",
+      "title": "Export au format CSV",
+      "url": "https://navitia.opendatasoft.com//explore/dataset/ca-on/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:00:49.830000",
+      "description": "- *Update date*: update_date[text]\n- *ID*: id[text]\n- *Description*: description[text]\n- *Format*: format[text]\n- *Type file*: type_file[text]\n- *Download*: download[file]\n- *Licence*: licence[text]\n- *Source link*: source_link[text]\n- *Size*: size[int]\n- *Validity start date*: validity_start_date[text]\n- *Validity end date*: validity_end_date[text]\n- *Script of Transformation*: script_of_transformation[text]\n- *Publication update date*: publication_update_date[date]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "0a5dad4d-27ed-4ad1-9797-99cf2835c14b",
+      "last_modified": "2015-12-16T13:38:59",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0a5dad4d-27ed-4ad1-9797-99cf2835c14b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:00:49.830000",
+      "title": "Export au format JSON",
+      "url": "https://navitia.opendatasoft.com//explore/dataset/ca-on/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "canada-ontario-state",
+  "spatial": null,
+  "tags": [
+    "deplacements",
+    "transports"
+  ],
+  "temporal_coverage": null,
+  "title": "CANADA : Ontario State",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/canada-ontario-state/"
+}

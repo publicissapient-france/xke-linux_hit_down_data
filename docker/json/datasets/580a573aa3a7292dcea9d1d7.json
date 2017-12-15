@@ -1,0 +1,150 @@
+{
+  "badges": [],
+  "created_at": "2016-10-21T19:58:18.903000",
+  "deleted": null,
+  "description": "**Liste des stations du service LE v\u00e9lo STAR, comprenant notamment leur nom, le nombre d'emplacements et la g\u00e9olocalisation.**\n\nPour obtenir la disponibilit\u00e9 en temps r\u00e9el du nombre de v\u00e9los ou d'emplacements libres, ainsi que l'\u00e9tat de la station (ouverte ou ferm\u00e9e), veuillez consulter le jeu de donn\u00e9es \"Etat des stations LE v\u00e9lo STAR en temps r\u00e9el\".",
+  "extras": {
+    "harvest:domain": "data.rennesmetropole.fr",
+    "harvest:last_update": "2017-11-27T04:01:39.279219",
+    "harvest:remote_id": "topologie-des-stations-le-velo-star0",
+    "harvest:source_id": "580736ec88ee3816625ff490",
+    "ods:has_records": true,
+    "ods:url": "https://data.rennesmetropole.fr/explore/dataset/topologie-des-stations-le-velo-star0/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "580a573aa3a7292dcea9d1d7",
+  "last_modified": "2017-11-27T04:01:39.280000",
+  "last_update": "2017-11-27T04:01:39.278000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "RM",
+    "class": "Organization",
+    "id": "580735be88ee3814295ff490",
+    "logo": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-100.png",
+    "name": "Rennes M\u00e9tropole en acc\u00e8s libre",
+    "page": "https://www.data.gouv.fr/fr/organizations/rennes-metropole-en-acces-libre-1/",
+    "slug": "rennes-metropole-en-acces-libre-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/rennes-metropole-en-acces-libre-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/topologie-des-stations-le-velo-star/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:01:39.277000",
+      "description": "- *Identifiant*: id[int]\n- *Nom*: nom[text]\n- *Adresse (num\u00e9ro)*: adressenumero[text]\n- *Adresse (voie)*: adressevoie[text]\n- *Commune (code INSEE)*: codeinseecommune[text]\n- *Commune (nom)*: nomcommune[text]\n- *Coordonn\u00e9es*: coordonnees[geo_point_2d]\n- *Station de m\u00e9tro en correspondance (ID)*: idstationmetrocorrespondance[text] Code de la station de m\u00e9tro du r\u00e9seau STAR en correspondance directe avec la station : pour obtenir plus d'informations sur cette station, vous devez consulter le jeu de donn\u00e9es \"Stations de m\u00e9tro du r\u00e9seau STAR\" en filtrant sur la station avec l'identifiant correspondant.\n- *Mise en service*: datemiseservice[date]\n- *Emplacements*: nombreemplacementstheorique[int]\n- *Station la plus proche 1 (ID)*: idstationproche1[int] Identifiants de la premi\u00e8re station la plus proche et la plus simple d'acc\u00e8s en v\u00e9lo : ainsi, des stations g\u00e9ographiquement proche \"\u00e0 vol d'oiseau\" ou m\u00eame par la route ne seront pas forc\u00e9ment les premi\u00e8res propos\u00e9es. Pour obtenir plus d'information sur la station concern\u00e9e, vous devez chercher dans ce m\u00eame jeu de donn\u00e9es la station avec l'identifiant indiqu\u00e9.\n- *Station la plus proche 2 (ID)*: idstationproche2[int] Identifiant de la deuxi\u00e8me station la plus proche et la plus simple d'acc\u00e8s en v\u00e9lo : ainsi, des stations g\u00e9ographiquement proche \"\u00e0 vol d'oiseau\" ou m\u00eame par la route ne seront pas forc\u00e9ment les premi\u00e8res propos\u00e9es. Pour obtenir plus d'information sur la station concern\u00e9e, vous devez chercher dans ce m\u00eame jeu de donn\u00e9es la station avec l'identifiant indiqu\u00e9.\n- *Station la plus proche 3 (ID)*: idstationproche3[int] Identifiant de la troisi\u00e8me station la plus proche et la plus simple d'acc\u00e8s en v\u00e9lo : ainsi, des stations g\u00e9ographiquement proche \"\u00e0 vol d'oiseau\" ou m\u00eame par la route ne seront pas forc\u00e9ment les premi\u00e8res propos\u00e9es. Pour obtenir plus d'information sur la station concern\u00e9e, vous devez chercher dans ce m\u00eame jeu de donn\u00e9es la station avec l'identifiant indiqu\u00e9.\n- *Avec terminal CB*: possedetpe[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "4441c0f0-7b04-4128-ad7b-ff390ec4944c",
+      "last_modified": "2014-11-14T10:12:07",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4441c0f0-7b04-4128-ad7b-ff390ec4944c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T04:01:39.277000",
+      "title": "Export au format CSV",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/topologie-des-stations-le-velo-star0/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:01:39.277000",
+      "description": "- *Identifiant*: id[int]\n- *Nom*: nom[text]\n- *Adresse (num\u00e9ro)*: adressenumero[text]\n- *Adresse (voie)*: adressevoie[text]\n- *Commune (code INSEE)*: codeinseecommune[text]\n- *Commune (nom)*: nomcommune[text]\n- *Coordonn\u00e9es*: coordonnees[geo_point_2d]\n- *Station de m\u00e9tro en correspondance (ID)*: idstationmetrocorrespondance[text] Code de la station de m\u00e9tro du r\u00e9seau STAR en correspondance directe avec la station : pour obtenir plus d'informations sur cette station, vous devez consulter le jeu de donn\u00e9es \"Stations de m\u00e9tro du r\u00e9seau STAR\" en filtrant sur la station avec l'identifiant correspondant.\n- *Mise en service*: datemiseservice[date]\n- *Emplacements*: nombreemplacementstheorique[int]\n- *Station la plus proche 1 (ID)*: idstationproche1[int] Identifiants de la premi\u00e8re station la plus proche et la plus simple d'acc\u00e8s en v\u00e9lo : ainsi, des stations g\u00e9ographiquement proche \"\u00e0 vol d'oiseau\" ou m\u00eame par la route ne seront pas forc\u00e9ment les premi\u00e8res propos\u00e9es. Pour obtenir plus d'information sur la station concern\u00e9e, vous devez chercher dans ce m\u00eame jeu de donn\u00e9es la station avec l'identifiant indiqu\u00e9.\n- *Station la plus proche 2 (ID)*: idstationproche2[int] Identifiant de la deuxi\u00e8me station la plus proche et la plus simple d'acc\u00e8s en v\u00e9lo : ainsi, des stations g\u00e9ographiquement proche \"\u00e0 vol d'oiseau\" ou m\u00eame par la route ne seront pas forc\u00e9ment les premi\u00e8res propos\u00e9es. Pour obtenir plus d'information sur la station concern\u00e9e, vous devez chercher dans ce m\u00eame jeu de donn\u00e9es la station avec l'identifiant indiqu\u00e9.\n- *Station la plus proche 3 (ID)*: idstationproche3[int] Identifiant de la troisi\u00e8me station la plus proche et la plus simple d'acc\u00e8s en v\u00e9lo : ainsi, des stations g\u00e9ographiquement proche \"\u00e0 vol d'oiseau\" ou m\u00eame par la route ne seront pas forc\u00e9ment les premi\u00e8res propos\u00e9es. Pour obtenir plus d'information sur la station concern\u00e9e, vous devez chercher dans ce m\u00eame jeu de donn\u00e9es la station avec l'identifiant indiqu\u00e9.\n- *Avec terminal CB*: possedetpe[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "16a29ce1-7448-4359-8100-c9a4ecd292b9",
+      "last_modified": "2014-11-14T10:12:07",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/16a29ce1-7448-4359-8100-c9a4ecd292b9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T04:01:39.277000",
+      "title": "Export au format JSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/topologie-des-stations-le-velo-star0/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:01:39.278000",
+      "description": "- *Identifiant*: id[int]\n- *Nom*: nom[text]\n- *Adresse (num\u00e9ro)*: adressenumero[text]\n- *Adresse (voie)*: adressevoie[text]\n- *Commune (code INSEE)*: codeinseecommune[text]\n- *Commune (nom)*: nomcommune[text]\n- *Coordonn\u00e9es*: coordonnees[geo_point_2d]\n- *Station de m\u00e9tro en correspondance (ID)*: idstationmetrocorrespondance[text] Code de la station de m\u00e9tro du r\u00e9seau STAR en correspondance directe avec la station : pour obtenir plus d'informations sur cette station, vous devez consulter le jeu de donn\u00e9es \"Stations de m\u00e9tro du r\u00e9seau STAR\" en filtrant sur la station avec l'identifiant correspondant.\n- *Mise en service*: datemiseservice[date]\n- *Emplacements*: nombreemplacementstheorique[int]\n- *Station la plus proche 1 (ID)*: idstationproche1[int] Identifiants de la premi\u00e8re station la plus proche et la plus simple d'acc\u00e8s en v\u00e9lo : ainsi, des stations g\u00e9ographiquement proche \"\u00e0 vol d'oiseau\" ou m\u00eame par la route ne seront pas forc\u00e9ment les premi\u00e8res propos\u00e9es. Pour obtenir plus d'information sur la station concern\u00e9e, vous devez chercher dans ce m\u00eame jeu de donn\u00e9es la station avec l'identifiant indiqu\u00e9.\n- *Station la plus proche 2 (ID)*: idstationproche2[int] Identifiant de la deuxi\u00e8me station la plus proche et la plus simple d'acc\u00e8s en v\u00e9lo : ainsi, des stations g\u00e9ographiquement proche \"\u00e0 vol d'oiseau\" ou m\u00eame par la route ne seront pas forc\u00e9ment les premi\u00e8res propos\u00e9es. Pour obtenir plus d'information sur la station concern\u00e9e, vous devez chercher dans ce m\u00eame jeu de donn\u00e9es la station avec l'identifiant indiqu\u00e9.\n- *Station la plus proche 3 (ID)*: idstationproche3[int] Identifiant de la troisi\u00e8me station la plus proche et la plus simple d'acc\u00e8s en v\u00e9lo : ainsi, des stations g\u00e9ographiquement proche \"\u00e0 vol d'oiseau\" ou m\u00eame par la route ne seront pas forc\u00e9ment les premi\u00e8res propos\u00e9es. Pour obtenir plus d'information sur la station concern\u00e9e, vous devez chercher dans ce m\u00eame jeu de donn\u00e9es la station avec l'identifiant indiqu\u00e9.\n- *Avec terminal CB*: possedetpe[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "21b5dd12-40da-4ff0-9ac0-6acea4c64856",
+      "last_modified": "2014-11-14T10:12:07",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/21b5dd12-40da-4ff0-9ac0-6acea4c64856",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T04:01:39.278000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/topologie-des-stations-le-velo-star0/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:01:39.278000",
+      "description": "- *Identifiant*: id[int]\n- *Nom*: nom[text]\n- *Adresse (num\u00e9ro)*: adressenumero[text]\n- *Adresse (voie)*: adressevoie[text]\n- *Commune (code INSEE)*: codeinseecommune[text]\n- *Commune (nom)*: nomcommune[text]\n- *Coordonn\u00e9es*: coordonnees[geo_point_2d]\n- *Station de m\u00e9tro en correspondance (ID)*: idstationmetrocorrespondance[text] Code de la station de m\u00e9tro du r\u00e9seau STAR en correspondance directe avec la station : pour obtenir plus d'informations sur cette station, vous devez consulter le jeu de donn\u00e9es \"Stations de m\u00e9tro du r\u00e9seau STAR\" en filtrant sur la station avec l'identifiant correspondant.\n- *Mise en service*: datemiseservice[date]\n- *Emplacements*: nombreemplacementstheorique[int]\n- *Station la plus proche 1 (ID)*: idstationproche1[int] Identifiants de la premi\u00e8re station la plus proche et la plus simple d'acc\u00e8s en v\u00e9lo : ainsi, des stations g\u00e9ographiquement proche \"\u00e0 vol d'oiseau\" ou m\u00eame par la route ne seront pas forc\u00e9ment les premi\u00e8res propos\u00e9es. Pour obtenir plus d'information sur la station concern\u00e9e, vous devez chercher dans ce m\u00eame jeu de donn\u00e9es la station avec l'identifiant indiqu\u00e9.\n- *Station la plus proche 2 (ID)*: idstationproche2[int] Identifiant de la deuxi\u00e8me station la plus proche et la plus simple d'acc\u00e8s en v\u00e9lo : ainsi, des stations g\u00e9ographiquement proche \"\u00e0 vol d'oiseau\" ou m\u00eame par la route ne seront pas forc\u00e9ment les premi\u00e8res propos\u00e9es. Pour obtenir plus d'information sur la station concern\u00e9e, vous devez chercher dans ce m\u00eame jeu de donn\u00e9es la station avec l'identifiant indiqu\u00e9.\n- *Station la plus proche 3 (ID)*: idstationproche3[int] Identifiant de la troisi\u00e8me station la plus proche et la plus simple d'acc\u00e8s en v\u00e9lo : ainsi, des stations g\u00e9ographiquement proche \"\u00e0 vol d'oiseau\" ou m\u00eame par la route ne seront pas forc\u00e9ment les premi\u00e8res propos\u00e9es. Pour obtenir plus d'information sur la station concern\u00e9e, vous devez chercher dans ce m\u00eame jeu de donn\u00e9es la station avec l'identifiant indiqu\u00e9.\n- *Avec terminal CB*: possedetpe[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "9668eb03-4d19-408d-ac98-a9d961fff62c",
+      "last_modified": "2014-11-14T10:12:07",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9668eb03-4d19-408d-ac98-a9d961fff62c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T04:01:39.278000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/topologie-des-stations-le-velo-star0/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "topologie-des-stations-le-velo-star",
+  "spatial": null,
+  "tags": [
+    "arceaux",
+    "emplacements",
+    "mobilite",
+    "stations",
+    "topologie",
+    "transport",
+    "velo",
+    "velostar"
+  ],
+  "temporal_coverage": null,
+  "title": "Topologie des stations LE v\u00e9lo STAR",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/topologie-des-stations-le-velo-star/"
+}

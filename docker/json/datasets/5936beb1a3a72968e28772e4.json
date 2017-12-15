@@ -1,0 +1,150 @@
+{
+  "badges": [],
+  "created_at": "2017-06-06T00:00:00",
+  "deleted": null,
+  "description": "Ce fichier contient la liste et la localisation des coll\u00e8ges g\u00e9r\u00e9s par le Conseil Departemental de la Gironde. Il contient une description des \u00e9quipements accueillant les coll\u00e9giens du d\u00e9partement ainsi qu'un certain nombre de caract\u00e9ristiques pour chaque \u00e9tablissement. Les donn\u00e9es compl\u00e9mentaires (options, effectifs d\u00e9taill\u00e9s, coordonn\u00e9es des agents responsables p\u00e9dagogiques) sont la propri\u00e9t\u00e9 du minist\u00e8re de l'\u00e9ducation nationale.",
+  "extras": {
+    "ckan:name": "liste-des-colleges-de-la-gironde",
+    "contact_email": "mailto:dgaj-dc@cg33.fr",
+    "contact_name": "Direction des coll\u00e8ges",
+    "contact_uri": "https://datacat.datalocale.fr/414551",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+    "guid": "https://datacat.datalocale.fr/414552",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-06-06T16:39:45.318717",
+    "harvest:remote_id": "8d856e55-5e62-47a6-80db-ae1ac4b76b2b",
+    "harvest:source_id": "59365a72c751df28ed47c9eb",
+    "identifier": "01646fbc-bf19-47a5-ac25-a793ba1d09b6",
+    "issued": "2012-12-28T15:22:02+00:00",
+    "modified": "2016-07-25T09:51:40.176370+00:00",
+    "publisher_email": "mailto:l.merle@cg33.fr",
+    "publisher_name": "DC",
+    "publisher_uri": "https://datacat.datalocale.fr/414550",
+    "remote_url": "http://www.gironde.fr/jcms/c_5097/colleges",
+    "theme": "[\"\u00e9tablissement d'enseignement\"]",
+    "uri": "https://datacat.datalocale.fr/414552"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5936beb1a3a72968e28772e4",
+  "last_modified": "2017-06-06T16:39:45.321000",
+  "last_update": "2017-06-06T16:39:45.317000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-colleges-de-la-gironde/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:39:45.315000",
+      "description": "liste des coll\u00e8ges de gironde 2014",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T12:06:36.212000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414554/raw/2014-01-22-101541LISTE_COLLEGE.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "9bb00fee-1359-40fc-8112-91e5e7bbb887",
+      "last_modified": "2017-06-06T16:39:45.316000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9bb00fee-1359-40fc-8112-91e5e7bbb887",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:39:45.315000",
+      "title": "ref\u00e9rentiel-colleges-2014.csv",
+      "url": "https://datacat.datalocale.fr/file/414554/raw/2014-01-22-101541LISTE_COLLEGE.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:39:45.316000",
+      "description": "r\u00e9f\u00e9rentiel des coll\u00e8ges de Gironde 2014 g\u00e9ocod\u00e9 avec le service en ligne adresse.gouv.fr",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T06:11:50.415000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414558/raw/LISTE_COLLEGES_GIRONDE.geocoded.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2ac131f2-7e1b-46f2-97be-cad4c88f197b",
+      "last_modified": "2017-06-06T16:39:45.316000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2ac131f2-7e1b-46f2-97be-cad4c88f197b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:39:45.316000",
+      "title": "referentiel-college-2014-geocode.csv",
+      "url": "https://datacat.datalocale.fr/file/414558/raw/LISTE_COLLEGES_GIRONDE.geocoded.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:39:45.317000",
+      "description": "description des champs du jeu de donn\u00e9es",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T06:11:48.927000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414556/raw/2014-01-22-101541LISTE_COLLEGEdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "70452e18-56fc-4f7b-9450-531bc372a753",
+      "last_modified": "2017-06-06T16:39:45.317000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/70452e18-56fc-4f7b-9450-531bc372a753",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-06-06T16:39:45.317000",
+      "title": "doc-champData.html",
+      "url": "https://datacat.datalocale.fr/file/414556/raw/2014-01-22-101541LISTE_COLLEGEdesc.html"
+    }
+  ],
+  "slug": "liste-des-colleges-de-la-gironde",
+  "spatial": null,
+  "tags": [
+    "college",
+    "conseil-departemental",
+    "gironde"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des coll\u00e8ges de la gironde",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-colleges-de-la-gironde/"
+}

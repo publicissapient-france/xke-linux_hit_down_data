@@ -1,0 +1,81 @@
+{
+  "badges": [],
+  "created_at": "2017-03-05T00:00:00",
+  "deleted": null,
+  "description": "Calendrier des \u00e9v\u00e8nements bulgares",
+  "extras": {
+    "ckan:name": "evenements",
+    "harvest:domain": "opendata.data-ozwillo.org",
+    "harvest:last_update": "2017-04-27T17:24:52.398927",
+    "harvest:remote_id": "18bf85c1-58e3-4c66-bfd3-bbf66601b2ea",
+    "harvest:source_id": "57599de9c751df1a1dac31a0"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59020d44a3a7296bcc3ce0c3",
+  "last_modified": "2017-04-27T17:24:52.400000",
+  "last_update": "2017-04-27T17:24:52.398000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "56c4765fc751df27326c6ddf",
+    "logo": "https://www.data.gouv.fr/s/avatars/c3/f674ad6c354099a8166090b134da4a-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c3/f674ad6c354099a8166090b134da4a-100.png",
+    "name": "Ozwillo",
+    "page": "https://www.data.gouv.fr/fr/organizations/ozwillo/",
+    "slug": "ozwillo",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ozwillo/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/evenements/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-04-27T17:24:52.397000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-11-05T06:45:19.330000",
+        "check:status": 503,
+        "check:url": "https://opendata.data-ozwillo.org/dataset/18bf85c1-58e3-4c66-bfd3-bbf66601b2ea/resource/2b9a328f-dd2d-497c-a603-3dd59577d430/download/evnttourevent0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2b9a328f-dd2d-497c-a603-3dd59577d430",
+      "last_modified": "2017-03-05T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2b9a328f-dd2d-497c-a603-3dd59577d430",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-04-27T17:24:52.398000",
+      "title": "Export des \u00e9v\u00e8nements",
+      "url": "https://opendata.data-ozwillo.org/dataset/18bf85c1-58e3-4c66-bfd3-bbf66601b2ea/resource/2b9a328f-dd2d-497c-a603-3dd59577d430/download/evnttourevent0.csv"
+    }
+  ],
+  "slug": "evenements",
+  "spatial": null,
+  "tags": [
+    "loisirs"
+  ],
+  "temporal_coverage": null,
+  "title": "\u00c9v\u00e8nements",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/evenements/"
+}

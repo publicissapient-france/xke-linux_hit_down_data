@@ -1,0 +1,218 @@
+{
+  "badges": [],
+  "created_at": "2017-09-05T04:48:21.253000",
+  "deleted": null,
+  "description": "Jeu de donn\u00e9es des espaces verts de la Ville de Versailles.Ce jeu de donn\u00e9es contient :\r\n- les arbres d'alignements\r\n- les arbres situ\u00e9s dans les parcs et jardins de la ville\r\n- les arbres remarquables\r\n- Les parcs et jardins publics",
+  "extras": {
+    "dct:identifier": "http://www-cavgp.opendata.arcgis.com/datasets/c41b83ccc9c14c608be3a136da9244c6_3",
+    "harvest:domain": "www-cavgp.opendata.arcgis.com",
+    "harvest:last_update": "2017-09-05T04:48:21.261526",
+    "harvest:remote_id": "http://www-cavgp.opendata.arcgis.com/datasets/c41b83ccc9c14c608be3a136da9244c6_3",
+    "harvest:source_id": "58c6626c88ee38414af5c7a4"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59ae1075a3a72917d9f3fc16",
+  "last_modified": "2017-09-05T04:48:21.263000",
+  "last_update": "2017-09-05T04:48:21.260000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "CAVGP",
+    "class": "Organization",
+    "id": "58c5a537c751df2fb0fde3c9",
+    "logo": "https://www.data.gouv.fr/s/avatars/39/717bed78eb400c99a31f83d001c75d-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/39/717bed78eb400c99a31f83d001c75d-100.jpg",
+    "name": "Communaut\u00e9 d'Agglomeration Versailles Grand Parc",
+    "page": "https://www.data.gouv.fr/fr/organizations/communaute-dagglomeration-versailles-grand-parc/",
+    "slug": "communaute-dagglomeration-versailles-grand-parc",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/communaute-dagglomeration-versailles-grand-parc/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/parcs-publics/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T04:48:21.255000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T18:23:24.474000",
+        "check:status": 204,
+        "check:url": "http://www-cavgp.opendata.arcgis.com/datasets/c41b83ccc9c14c608be3a136da9244c6_3"
+      },
+      "filesize": null,
+      "filetype": "file",
+      "format": "web page",
+      "id": "8582fa30-43c1-43ed-92d8-07b5f04d2da3",
+      "last_modified": "2017-09-05T04:48:21.255000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8582fa30-43c1-43ed-92d8-07b5f04d2da3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-09-05T04:48:21.255000",
+      "title": "ArcGIS Open Dataset",
+      "url": "http://www-cavgp.opendata.arcgis.com/datasets/c41b83ccc9c14c608be3a136da9244c6_3"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T04:48:21.256000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T04:51:25.877000",
+        "check:status": 200,
+        "check:url": "http://www-cavgp.opendata.arcgis.com/datasets/c41b83ccc9c14c608be3a136da9244c6_3.geojson"
+      },
+      "filesize": null,
+      "filetype": "file",
+      "format": "geojson",
+      "id": "fad8aa72-722f-45f2-99f6-5fc1094e04d5",
+      "last_modified": "2017-09-05T04:48:21.256000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fad8aa72-722f-45f2-99f6-5fc1094e04d5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-09-05T04:48:21.256000",
+      "title": "GeoJSON",
+      "url": "http://www-cavgp.opendata.arcgis.com/datasets/c41b83ccc9c14c608be3a136da9244c6_3.geojson"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T04:48:21.257000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T04:51:30.050000",
+        "check:status": 200,
+        "check:url": "http://www-cavgp.opendata.arcgis.com/datasets/c41b83ccc9c14c608be3a136da9244c6_3.kml"
+      },
+      "filesize": null,
+      "filetype": "file",
+      "format": "kml",
+      "id": "c67626d8-af45-4d24-a743-c7352eeab437",
+      "last_modified": "2017-09-05T04:48:21.257000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c67626d8-af45-4d24-a743-c7352eeab437",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.google-earth.kml+xml",
+      "published": "2017-09-05T04:48:21.257000",
+      "title": "KML",
+      "url": "http://www-cavgp.opendata.arcgis.com/datasets/c41b83ccc9c14c608be3a136da9244c6_3.kml"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T04:48:21.258000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T04:51:28.196000",
+        "check:status": 200,
+        "check:url": "http://www-cavgp.opendata.arcgis.com/datasets/c41b83ccc9c14c608be3a136da9244c6_3.csv"
+      },
+      "filesize": null,
+      "filetype": "file",
+      "format": "csv",
+      "id": "8ff39422-9f3f-4043-980a-acae160e9e6a",
+      "last_modified": "2017-09-05T04:48:21.258000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8ff39422-9f3f-4043-980a-acae160e9e6a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-05T04:48:21.258000",
+      "title": "CSV",
+      "url": "http://www-cavgp.opendata.arcgis.com/datasets/c41b83ccc9c14c608be3a136da9244c6_3.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T04:48:21.259000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T04:51:27.627000",
+        "check:status": 200,
+        "check:url": "https://services2.arcgis.com/YECJCCLQCtaylXWh/arcgis/rest/services/VER_Espaces_verts/FeatureServer/3"
+      },
+      "filesize": null,
+      "filetype": "file",
+      "format": "esri rest",
+      "id": "5b30a455-79b7-4af0-a196-2cbcf2a9118c",
+      "last_modified": "2017-09-05T04:48:21.259000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5b30a455-79b7-4af0-a196-2cbcf2a9118c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-09-05T04:48:21.259000",
+      "title": "Esri Rest API",
+      "url": "https://services2.arcgis.com/YECJCCLQCtaylXWh/arcgis/rest/services/VER_Espaces_verts/FeatureServer/3"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T04:48:21.260000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T04:51:29.397000",
+        "check:status": 200,
+        "check:url": "http://www-cavgp.opendata.arcgis.com/datasets/c41b83ccc9c14c608be3a136da9244c6_3.zip"
+      },
+      "filesize": null,
+      "filetype": "file",
+      "format": "zip",
+      "id": "edffa538-cc56-4ee2-a48d-c3778aac51b7",
+      "last_modified": "2017-09-05T04:48:21.260000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/edffa538-cc56-4ee2-a48d-c3778aac51b7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-09-05T04:48:21.260000",
+      "title": "Shapefile",
+      "url": "http://www-cavgp.opendata.arcgis.com/datasets/c41b83ccc9c14c608be3a136da9244c6_3.zip"
+    }
+  ],
+  "slug": "parcs-publics",
+  "spatial": null,
+  "tags": [
+    "environnement",
+    "geospatial",
+    "opendata",
+    "versailles"
+  ],
+  "temporal_coverage": null,
+  "title": "Parcs publics",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/parcs-publics/"
+}

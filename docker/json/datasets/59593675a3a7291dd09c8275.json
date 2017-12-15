@@ -1,0 +1,103 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T20:07:49.059000",
+  "deleted": null,
+  "description": "Gares & Connexions r\u00e9alise r\u00e9guli\u00e8rement des enqu\u00eates clients dans les gares. Ce jeu de donn\u00e9es indique la r\u00e9partition (en %) de la classe d\u2019\u00e2ge des clients dans les gares enqu\u00eat\u00e9es.\n\nLes enqu\u00eates sont r\u00e9alis\u00e9es lors d\u2019un jour ouvrable de base (tr\u00e8s souvent le jeudi), hors veille de d\u00e9part de grand week-end, hors vacances scolaires.",
+  "extras": {
+    "harvest:domain": "ressources.data.sncf.com",
+    "harvest:last_update": "2017-11-27T05:02:46.175378",
+    "harvest:remote_id": "enquetes-gares-connexions-repartition-repartition-par-classe-dage",
+    "harvest:source_id": "563dd01f88ee386a21e72046",
+    "ods:has_records": true,
+    "ods:url": "https://ressources.data.sncf.com/explore/dataset/enquetes-gares-connexions-repartition-repartition-par-classe-dage/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59593675a3a7291dd09c8275",
+  "last_modified": "2017-11-27T05:02:46.177000",
+  "last_update": "2017-11-27T05:02:46.174000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb0a3a7292c64a78115",
+    "logo": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-100.png",
+    "name": "SNCF",
+    "page": "https://www.data.gouv.fr/fr/organizations/sncf/",
+    "slug": "sncf",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/sncf/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/repartition-des-clients-par-age-enquetes-en-gare/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:02:46.174000",
+      "description": "- *UIC*: uic[text] Code UIC de la gare enqu\u00eat\u00e9e\n- *Gare enqu\u00eat\u00e9e*: gare_enquetee[text] Nom de la gare enqu\u00eat\u00e9e\n- *Classe d'\u00e2ge*: classe_d_age[text]\n- *Pourcentage*: pourcentage[double]\n- *Ann\u00e9e*: annee[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "abbcd5fb-83b2-4ddb-a378-5dc5a8e883cc",
+      "last_modified": "2017-06-01T07:33:59",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/abbcd5fb-83b2-4ddb-a378-5dc5a8e883cc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:02:46.174000",
+      "title": "Export au format CSV",
+      "url": "https://ressources.data.sncf.com/explore/dataset/enquetes-gares-connexions-repartition-repartition-par-classe-dage/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:02:46.174000",
+      "description": "- *UIC*: uic[text] Code UIC de la gare enqu\u00eat\u00e9e\n- *Gare enqu\u00eat\u00e9e*: gare_enquetee[text] Nom de la gare enqu\u00eat\u00e9e\n- *Classe d'\u00e2ge*: classe_d_age[text]\n- *Pourcentage*: pourcentage[double]\n- *Ann\u00e9e*: annee[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "8995b53b-1cac-4b45-94a9-141724c26b52",
+      "last_modified": "2017-06-01T07:33:59",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8995b53b-1cac-4b45-94a9-141724c26b52",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:02:46.174000",
+      "title": "Export au format JSON",
+      "url": "https://ressources.data.sncf.com/explore/dataset/enquetes-gares-connexions-repartition-repartition-par-classe-dage/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "repartition-des-clients-par-age-enquetes-en-gare",
+  "spatial": null,
+  "tags": [
+    "comptage-et-flux",
+    "enquete-gares-connexions",
+    "frequentation",
+    "gare-de-voyageurs",
+    "gares",
+    "gares-et-infrastructures"
+  ],
+  "temporal_coverage": null,
+  "title": "R\u00e9partition des clients par \u00e2ge (Enqu\u00eates en gare)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/repartition-des-clients-par-age-enquetes-en-gare/"
+}

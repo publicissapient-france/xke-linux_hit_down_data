@@ -1,0 +1,102 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T18:04:47.584000",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es pr\u00e9sente le profil horaire des validations par jour et par ligne sur le r\u00e9seau de surface.\n\n* * *\n\n**Documentation**\n\nUne documentation relative aux donn\u00e9es de validation est disponible.\n\n**[Consulter la documentation sur les donn\u00e9es de validation](https://opendata.stif.info/api/datasets/1.0/validations-sur-le-reseau-de-surface-nombre-de-validations-par-jour-1er-sem/attachments/donnees_de_validation_pdf/)**\n\n* * *\n\n**Les jeux des donn\u00e9es de validation**\n\n**[](https://stif.opendatasoft.com/api/datasets/1.0/validations-sur-le-reseau-de-surface-nombre-de-validations-par-jour-1er-sem/attachments/donnees_de_validation_pdf/)**\n\n  * [Validations sur le r\u00e9seau ferr\u00e9 : Nombre de validations par jour (1er semestre 2016)](http://opendata.stif.info/explore/dataset/validations-sur-le-reseau-ferre-nombre-de-validations-par-jour-1er-sem/?tab=metas)\n  * [Validations sur le r\u00e9seau ferr\u00e9 : Profils horaires par jour type (1er semestre 2016)](http://opendata.stif.info/explore/dataset/validations-sur-le-reseau-ferre-profils-horaires-par-jour-type-1er-sem/?tab=metas)\n  * [Validations sur le r\u00e9seau de surface : Nombre de validations par jour (1er semestre 2016)](https://opendata.stif.info/explore/dataset/validations-sur-le-reseau-de-surface-nombre-de-validations-par-jour-1er-sem/?tab=metas)\n  * [Validations sur le r\u00e9seau de surface : Profils horaires par jour type (1er semestre 2016)](http://opendata.stif.info/explore/dataset/validations-sur-le-reseau-de-surface-profils-horaires-par-jour-type-1er-sem/?tab=metas)\n\n\n  * [Validations sur le r\u00e9seau ferr\u00e9 : Nombre de validations par jour (2\u00e8me semestre 2016)](http://opendata.stif.info/explore/dataset/validations-sur-le-reseau-ferre-nombre-de-validations-par-jour-2e-sem/?tab=metas)\n  * [Validations sur le r\u00e9seau ferr\u00e9 : Profils horaires par jour type (2\u00e8me semestre 2016)](http://opendata.stif.info/explore/dataset/validations-sur-le-reseau-ferre-profils-horaires-par-jour-type-2e-sem/?tab=metas)\n  * [Validations sur le r\u00e9seau de surface : Nombre de validations par jour (2\u00e8me semestre 2016)](https://opendata.stif.info/explore/dataset/validations-sur-le-reseau-de-surface-nombre-de-validations-par-jour-2e-sem/?tab=metas)\n  * [Validations sur le r\u00e9seau de surface : Profils horaires par jour type (2\u00e8me semestre 2016)](http://opendata.stif.info/explore/dataset/validations-sur-le-reseau-de-surface-profils-horaires-par-jour-type-2e-sem/?tab=metas)\n\n\n\n****",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T06:03:16.900280",
+    "harvest:remote_id": "validations-sur-le-reseau-de-surface-profils-horaires-par-jour-type-2e-semestre-",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/validations-sur-le-reseau-de-surface-profils-horaires-par-jour-type-2e-semestre-/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5959199fa3a7291dcf9c80f3",
+  "last_modified": "2017-11-27T06:03:16.901000",
+  "last_update": "2017-11-27T06:03:16.899000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/validations-sur-le-reseau-de-surface-profils-horaires-par-jour-type-2e-semestre-2016/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:03:16.899000",
+      "description": "- *CODE_STIF_TRNS*: code_stif_trns[int] Code Stif du transporteur\n\n- *CODE_STIF_RES*: code_stif_res[int] Code Stif du r\u00e9seau\n\n- *CODE_STIF_LIGNE*: code_stif_ligne[int] Code Stif de la ligne\n\n- *LIBELLE_LIGNE*: libelle_ligne[text] Libell\u00e9 de la ligne\n\n- *ID_GROUPOFLIGNE*: id_groupofligne[text] Identifiant STIF de r\u00e9f\u00e9rence de la ligne administrative \n- *CAT_JOUR*: cat_jour[text] Cat\u00e9gorie du jour \n\nLes calculs sont r\u00e9alis\u00e9s sur l\u2019ensemble des donn\u00e9es du semestre selon leur cat\u00e9gorie :\nJOHV\u00a0: Jour Ouvr\u00e9 Hors Vacances Scolaires\nSAHV\u00a0: Samedi Hors Vacances Scolaires.\nJOVS\u00a0:\u00a0Jour Ouvr\u00e9 en p\u00e9riode de Vacances Scolaires.\nSAVS\u00a0: Samedi en p\u00e9riode de Vacances Scolaires.\nDIJFP\u00a0: Dimanche et Jour F\u00e9ri\u00e9 et les ponts .\n\n- *TRNC_HORR_60*: trnc_horr_60[text] Tranche horaire d\u2019une heure\n\n- *pourc_validations*: pourc_validations[double] Pour une ligne j\u00a0: Rapport entre le nombre de validations sur une ligne j, sur une tranche horaire TH, et le nombre de validations sur la journ\u00e9e enti\u00e8re sur cette ligne j. \n\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "86fb6a5a-b877-42cf-8253-6177c376f3f5",
+      "last_modified": "2017-02-09T14:09:42",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/86fb6a5a-b877-42cf-8253-6177c376f3f5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T06:03:16.899000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/validations-sur-le-reseau-de-surface-profils-horaires-par-jour-type-2e-semestre-/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:03:16.899000",
+      "description": "- *CODE_STIF_TRNS*: code_stif_trns[int] Code Stif du transporteur\n\n- *CODE_STIF_RES*: code_stif_res[int] Code Stif du r\u00e9seau\n\n- *CODE_STIF_LIGNE*: code_stif_ligne[int] Code Stif de la ligne\n\n- *LIBELLE_LIGNE*: libelle_ligne[text] Libell\u00e9 de la ligne\n\n- *ID_GROUPOFLIGNE*: id_groupofligne[text] Identifiant STIF de r\u00e9f\u00e9rence de la ligne administrative \n- *CAT_JOUR*: cat_jour[text] Cat\u00e9gorie du jour \n\nLes calculs sont r\u00e9alis\u00e9s sur l\u2019ensemble des donn\u00e9es du semestre selon leur cat\u00e9gorie :\nJOHV\u00a0: Jour Ouvr\u00e9 Hors Vacances Scolaires\nSAHV\u00a0: Samedi Hors Vacances Scolaires.\nJOVS\u00a0:\u00a0Jour Ouvr\u00e9 en p\u00e9riode de Vacances Scolaires.\nSAVS\u00a0: Samedi en p\u00e9riode de Vacances Scolaires.\nDIJFP\u00a0: Dimanche et Jour F\u00e9ri\u00e9 et les ponts .\n\n- *TRNC_HORR_60*: trnc_horr_60[text] Tranche horaire d\u2019une heure\n\n- *pourc_validations*: pourc_validations[double] Pour une ligne j\u00a0: Rapport entre le nombre de validations sur une ligne j, sur une tranche horaire TH, et le nombre de validations sur la journ\u00e9e enti\u00e8re sur cette ligne j. \n\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "86278dcc-caf3-4733-906a-1257c2069fc2",
+      "last_modified": "2017-02-09T14:09:42",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/86278dcc-caf3-4733-906a-1257c2069fc2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T06:03:16.899000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/validations-sur-le-reseau-de-surface-profils-horaires-par-jour-type-2e-semestre-/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "validations-sur-le-reseau-de-surface-profils-horaires-par-jour-type-2e-semestre-2016",
+  "spatial": null,
+  "tags": [
+    "bus",
+    "deplacements-transports",
+    "reseau-de-surface",
+    "tramway",
+    "voyageurs"
+  ],
+  "temporal_coverage": null,
+  "title": "Validations sur le r\u00e9seau de surface : Profils horaires par jour type (2e semestre 2016)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/validations-sur-le-reseau-de-surface-profils-horaires-par-jour-type-2e-semestre-2016/"
+}

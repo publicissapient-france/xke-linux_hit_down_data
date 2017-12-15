@@ -1,0 +1,101 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T20:07:46.477000",
+  "deleted": null,
+  "description": "EFN ann\u00e9e N 2016 CCO issu du Rapport Financier du groupe SNCF R\u00e9seau au 31 d\u00e9cembre 2016 (Comptes consolid\u00e9s incluant l'EPIC SNCF RESEAU et ses filiales)",
+  "extras": {
+    "harvest:domain": "ressources.data.sncf.com",
+    "harvest:last_update": "2017-11-27T05:03:46.753371",
+    "harvest:remote_id": "efn-annee-n-2016-cco",
+    "harvest:source_id": "563dd01f88ee386a21e72046",
+    "ods:has_records": true,
+    "ods:url": "https://ressources.data.sncf.com/explore/dataset/efn-annee-n-2016-cco/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59593672a3a7291dcf9c82b3",
+  "last_modified": "2017-11-27T05:03:46.757000",
+  "last_update": "2017-11-27T05:03:46.752000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb0a3a7292c64a78115",
+    "logo": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-100.png",
+    "name": "SNCF",
+    "page": "https://www.data.gouv.fr/fr/organizations/sncf/",
+    "slug": "sncf",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/sncf/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/endettement-financier-net-annee-n-sncf-reseau-2016-cco/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:03:46.751000",
+      "description": "- *#*: id[double]\n- *en millions d'euros, au 31/12/2016*: en_millions_d_euros_au_31_12_2016[text]\n- *Courant *: courant[double]\n- *Non courant *: non_courant[double]\n- *Total*: total[double]\n- *Dette nette IFRS*: dette_nette_ifrs[double]\n- *EFN*: efn[double]\n- *A la juste valeur par capitaux propres*: a_la_juste_valeur_par_capitaux_propres[text]\n- *Pr\u00eats, cr\u00e9ances, dettes au co\u00fbt amorti*: prets_creances_dettes_au_cout_amorti[double]\n- *A la juste valeur par r\u00e9sultat*: a_la_juste_valeur_par_resultat[text]\n- *Qualifi\u00e9s de couverture *: qualifies_de_couverture[text]\n- *Total (VNC au bilan de la classe)*: total_vnc_au_bilan_de_la_classe[double]\n- *Niveau 1 (VNC au bilan de la classe)*: niveau_1_vnc_au_bilan_de_la_classe[text]\n- *Niveau 2 (VNC au bilan de la classe)*: niveau_2_vnc_au_bilan_de_la_classe[double]\n- *Niveau 3 (VNC au bilan de la classe)*: niveau_3_vnc_au_bilan_de_la_classe[text]\n- *Total (juste valeur de la classe)*: total_juste_valeur_de_la_classe[double]\n- *Niveau 1 (juste valeur de la classe)*: niveau_1_juste_valeur_de_la_classe[text]\n- *Niveau 2 (juste valeur de la classe)*: niveau_2_juste_valeur_de_la_classe[double]\n- *Niveau 3 (juste valeur de la classe)*: niveau_3_juste_valeur_de_la_classe[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b8f23845-c87c-442a-84ec-8e55d9d938b1",
+      "last_modified": "2017-04-05T12:54:59",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b8f23845-c87c-442a-84ec-8e55d9d938b1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:03:46.751000",
+      "title": "Export au format CSV",
+      "url": "https://ressources.data.sncf.com/explore/dataset/efn-annee-n-2016-cco/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:03:46.752000",
+      "description": "- *#*: id[double]\n- *en millions d'euros, au 31/12/2016*: en_millions_d_euros_au_31_12_2016[text]\n- *Courant *: courant[double]\n- *Non courant *: non_courant[double]\n- *Total*: total[double]\n- *Dette nette IFRS*: dette_nette_ifrs[double]\n- *EFN*: efn[double]\n- *A la juste valeur par capitaux propres*: a_la_juste_valeur_par_capitaux_propres[text]\n- *Pr\u00eats, cr\u00e9ances, dettes au co\u00fbt amorti*: prets_creances_dettes_au_cout_amorti[double]\n- *A la juste valeur par r\u00e9sultat*: a_la_juste_valeur_par_resultat[text]\n- *Qualifi\u00e9s de couverture *: qualifies_de_couverture[text]\n- *Total (VNC au bilan de la classe)*: total_vnc_au_bilan_de_la_classe[double]\n- *Niveau 1 (VNC au bilan de la classe)*: niveau_1_vnc_au_bilan_de_la_classe[text]\n- *Niveau 2 (VNC au bilan de la classe)*: niveau_2_vnc_au_bilan_de_la_classe[double]\n- *Niveau 3 (VNC au bilan de la classe)*: niveau_3_vnc_au_bilan_de_la_classe[text]\n- *Total (juste valeur de la classe)*: total_juste_valeur_de_la_classe[double]\n- *Niveau 1 (juste valeur de la classe)*: niveau_1_juste_valeur_de_la_classe[text]\n- *Niveau 2 (juste valeur de la classe)*: niveau_2_juste_valeur_de_la_classe[double]\n- *Niveau 3 (juste valeur de la classe)*: niveau_3_juste_valeur_de_la_classe[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "7d3bbf1c-4772-486f-ae96-76b7ce6b90f4",
+      "last_modified": "2017-04-05T12:54:59",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7d3bbf1c-4772-486f-ae96-76b7ce6b90f4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:03:46.752000",
+      "title": "Export au format JSON",
+      "url": "https://ressources.data.sncf.com/explore/dataset/efn-annee-n-2016-cco/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "endettement-financier-net-annee-n-sncf-reseau-2016-cco",
+  "spatial": null,
+  "tags": [
+    "comptes-consolides",
+    "efn",
+    "rapport-financier",
+    "sncf-reseau"
+  ],
+  "temporal_coverage": null,
+  "title": "Endettement Financier Net ann\u00e9e N SNCF R\u00e9seau 2016 CCO",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/endettement-financier-net-annee-n-sncf-reseau-2016-cco/"
+}

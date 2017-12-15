@@ -1,0 +1,147 @@
+{
+  "badges": [],
+  "created_at": "2016-03-23T11:25:18.746000",
+  "deleted": null,
+  "description": "Couche g\u00e9ographique d\u00e9crivant les Parcs Relais d'\u00cele-de-France. \n\n**D\u00e9finition**\n\nUn Parc Relais est un parc de stationnement am\u00e9nag\u00e9 \u00e0 proximit\u00e9 imm\u00e9diate d\u2019une gare ou d\u2019une station de m\u00e9tro, dont la vocation est de faciliter l\u2019acc\u00e8s des voyageurs au r\u00e9seau ferr\u00e9. ****Pour en savoir plus sur les Parcs Relais\u00a0:<http://www.stif.org/transports-aujourd-hui/gares-et-intermodalite/les-parcs-relais/article/les-parcs-relais.html>. \n\n**G\u00e9n\u00e9alogie**\n\nSaisie \u00e0 partir de la photo a\u00e9rienne et des bases STIF. \n\n**Qualit\u00e9**\n\nUn parc relais est mod\u00e9lis\u00e9 par un point. La localisation du point correspond approximativement au centro\u00efde de l'emprise du parc-relais.   \nUne gare peut \u00eatre concern\u00e9e par un ou plusieurs Parc Relais.",
+  "extras": {
+    "harvest:domain": "opendata.stif.info",
+    "harvest:last_update": "2017-11-27T05:14:26.434065",
+    "harvest:remote_id": "parcs-relais-idf",
+    "harvest:source_id": "569fec99c751df2484ade713",
+    "ods:has_records": true,
+    "ods:url": "http://opendata.stif.info//explore/dataset/parcs-relais-idf/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "56f26f0ea3a729648fbc2067",
+  "last_modified": "2017-11-27T05:14:26.435000",
+  "last_update": "2017-11-27T05:14:26.433000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": "Syndicat des Transports d'Ile-de-France",
+    "class": "Organization",
+    "id": "568e5e9488ee38033aaf0bf4",
+    "logo": "https://www.data.gouv.fr/s/avatars/11/36458e54d84094a7fcca2053afb162-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/11/36458e54d84094a7fcca2053afb162-100.png",
+    "name": "Syndicat des Transports d'Ile-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/syndicat-des-transports-dile-de-france/",
+    "slug": "syndicat-des-transports-dile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/syndicat-des-transports-dile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/parcs-relais-en-ile-de-france/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:26.432000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *PR_IDE*: pr_ide[double] Identifiant du parc relais\n- *PR_NOM*: pr_nom[text] Nom du parc relais\n- *PR_NB_PLAC*: pr_nb_plac[int] Nombre de places du parc relais\n- *PR_TYPE_PK*: pr_type_pk[int] Type de structure du parc relais.\nValeurs: 1 \u00e0 5\n- *PR_LIB_TYP*: pr_lib_typ[text] Libell\u00e9 du type de struture du parc relais.\nValeurs: SOL; STRUCTURE (\u00e9l\u00e9vation); STRUCTURE (s/s + \u00e9l\u00e9vat); STRUCTURE (sol + \u00e9l\u00e9vation); STRUCTURE (sol + souterrain); STRUCTURE (souterrain)\n- *PR_ADR_NAT*: pr_adr_nat[text] Nature de la voie pour l'adresse du parc\n- *PR_ADR_NOM*: pr_adr_nom[text] Nom de la voie pour l'adresse du parc\n- *GAR_IDE*: gar_ide[double] Identifiant de la gare \u00e0 proximit\u00e9 (\u00e0 relier au champ CODEUNIQUE de la couche GARES)\n- *ID_REF_ZDL*: id_ref_zdl[int] Identifiant de la zone de lieu issu du r\u00e9f\u00e9rentiel des arr\u00eats du STIF\n- *GAR_NOM*: gar_nom[text] Nom de la gare \u00e0 proximit\u00e9\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "7eb7909f-2cfb-40e2-bf4d-8bd212baa963",
+      "last_modified": "2015-10-28T08:47:58",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7eb7909f-2cfb-40e2-bf4d-8bd212baa963",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:14:26.432000",
+      "title": "Export au format CSV",
+      "url": "http://opendata.stif.info//explore/dataset/parcs-relais-idf/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:26.432000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *PR_IDE*: pr_ide[double] Identifiant du parc relais\n- *PR_NOM*: pr_nom[text] Nom du parc relais\n- *PR_NB_PLAC*: pr_nb_plac[int] Nombre de places du parc relais\n- *PR_TYPE_PK*: pr_type_pk[int] Type de structure du parc relais.\nValeurs: 1 \u00e0 5\n- *PR_LIB_TYP*: pr_lib_typ[text] Libell\u00e9 du type de struture du parc relais.\nValeurs: SOL; STRUCTURE (\u00e9l\u00e9vation); STRUCTURE (s/s + \u00e9l\u00e9vat); STRUCTURE (sol + \u00e9l\u00e9vation); STRUCTURE (sol + souterrain); STRUCTURE (souterrain)\n- *PR_ADR_NAT*: pr_adr_nat[text] Nature de la voie pour l'adresse du parc\n- *PR_ADR_NOM*: pr_adr_nom[text] Nom de la voie pour l'adresse du parc\n- *GAR_IDE*: gar_ide[double] Identifiant de la gare \u00e0 proximit\u00e9 (\u00e0 relier au champ CODEUNIQUE de la couche GARES)\n- *ID_REF_ZDL*: id_ref_zdl[int] Identifiant de la zone de lieu issu du r\u00e9f\u00e9rentiel des arr\u00eats du STIF\n- *GAR_NOM*: gar_nom[text] Nom de la gare \u00e0 proximit\u00e9\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "b2a74b5c-a82d-433d-b33e-fc28672d8bd8",
+      "last_modified": "2015-10-28T08:47:58",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b2a74b5c-a82d-433d-b33e-fc28672d8bd8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:14:26.432000",
+      "title": "Export au format JSON",
+      "url": "http://opendata.stif.info//explore/dataset/parcs-relais-idf/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:26.433000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *PR_IDE*: pr_ide[double] Identifiant du parc relais\n- *PR_NOM*: pr_nom[text] Nom du parc relais\n- *PR_NB_PLAC*: pr_nb_plac[int] Nombre de places du parc relais\n- *PR_TYPE_PK*: pr_type_pk[int] Type de structure du parc relais.\nValeurs: 1 \u00e0 5\n- *PR_LIB_TYP*: pr_lib_typ[text] Libell\u00e9 du type de struture du parc relais.\nValeurs: SOL; STRUCTURE (\u00e9l\u00e9vation); STRUCTURE (s/s + \u00e9l\u00e9vat); STRUCTURE (sol + \u00e9l\u00e9vation); STRUCTURE (sol + souterrain); STRUCTURE (souterrain)\n- *PR_ADR_NAT*: pr_adr_nat[text] Nature de la voie pour l'adresse du parc\n- *PR_ADR_NOM*: pr_adr_nom[text] Nom de la voie pour l'adresse du parc\n- *GAR_IDE*: gar_ide[double] Identifiant de la gare \u00e0 proximit\u00e9 (\u00e0 relier au champ CODEUNIQUE de la couche GARES)\n- *ID_REF_ZDL*: id_ref_zdl[int] Identifiant de la zone de lieu issu du r\u00e9f\u00e9rentiel des arr\u00eats du STIF\n- *GAR_NOM*: gar_nom[text] Nom de la gare \u00e0 proximit\u00e9\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "5aa6465f-5386-4ee3-b55b-a0a7c14c023e",
+      "last_modified": "2015-10-28T08:47:58",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5aa6465f-5386-4ee3-b55b-a0a7c14c023e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:14:26.433000",
+      "title": "Export au format GeoJSON",
+      "url": "http://opendata.stif.info//explore/dataset/parcs-relais-idf/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:26.433000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *PR_IDE*: pr_ide[double] Identifiant du parc relais\n- *PR_NOM*: pr_nom[text] Nom du parc relais\n- *PR_NB_PLAC*: pr_nb_plac[int] Nombre de places du parc relais\n- *PR_TYPE_PK*: pr_type_pk[int] Type de structure du parc relais.\nValeurs: 1 \u00e0 5\n- *PR_LIB_TYP*: pr_lib_typ[text] Libell\u00e9 du type de struture du parc relais.\nValeurs: SOL; STRUCTURE (\u00e9l\u00e9vation); STRUCTURE (s/s + \u00e9l\u00e9vat); STRUCTURE (sol + \u00e9l\u00e9vation); STRUCTURE (sol + souterrain); STRUCTURE (souterrain)\n- *PR_ADR_NAT*: pr_adr_nat[text] Nature de la voie pour l'adresse du parc\n- *PR_ADR_NOM*: pr_adr_nom[text] Nom de la voie pour l'adresse du parc\n- *GAR_IDE*: gar_ide[double] Identifiant de la gare \u00e0 proximit\u00e9 (\u00e0 relier au champ CODEUNIQUE de la couche GARES)\n- *ID_REF_ZDL*: id_ref_zdl[int] Identifiant de la zone de lieu issu du r\u00e9f\u00e9rentiel des arr\u00eats du STIF\n- *GAR_NOM*: gar_nom[text] Nom de la gare \u00e0 proximit\u00e9\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "df96661f-d711-46a8-9962-c0a8c1aea5d3",
+      "last_modified": "2015-10-28T08:47:58",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/df96661f-d711-46a8-9962-c0a8c1aea5d3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:14:26.433000",
+      "title": "Export au format Shapefile",
+      "url": "http://opendata.stif.info//explore/dataset/parcs-relais-idf/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "parcs-relais-en-ile-de-france",
+  "spatial": null,
+  "tags": [
+    "donnees-geographiques",
+    "infrastructure-intermodalite",
+    "intermodalite",
+    "stationnement",
+    "voiture"
+  ],
+  "temporal_coverage": null,
+  "title": "Parcs Relais en \u00cele-de-France",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/parcs-relais-en-ile-de-france/"
+}

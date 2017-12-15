@@ -1,0 +1,148 @@
+{
+  "badges": [],
+  "created_at": "2015-11-07T11:19:37.479000",
+  "deleted": null,
+  "description": "Cartographie [OpenStreetMap](https://openstreetmap.fr/) des gares\u00a0en r\u00e9gion Lorraine.",
+  "extras": {
+    "harvest:domain": "ressources.data.sncf.com",
+    "harvest:last_update": "2017-11-27T05:01:17.526796",
+    "harvest:remote_id": "osm-mapping-lorraine",
+    "harvest:source_id": "563dd01f88ee386a21e72046",
+    "ods:has_records": true,
+    "ods:url": "https://ressources.data.sncf.com/explore/dataset/osm-mapping-lorraine/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "563dd039b5950814b058870f",
+  "last_modified": "2017-11-27T05:01:17.528000",
+  "last_update": "2017-11-27T05:01:17.526000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 3
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb0a3a7292c64a78115",
+    "logo": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-100.png",
+    "name": "SNCF",
+    "page": "https://www.data.gouv.fr/fr/organizations/sncf/",
+    "slug": "sncf",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/sncf/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/cartographie-openstreetmap-des-gares-sncf-en-region-lorraine/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:01:17.525000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *uic_ref*: uic_ref[text]\n- *visible*: visible[text]\n- *timestamp*: timestamp[datetime]\n- *amenity*: amenity[text]\n- *name*: name[text]\n- *railway*: railway[text]\n- *wheelchair*: wheelchair[text]\n- *id*: id[text]\n- *user*: user[text]\n- *other_tags*: other_tags[text]\n- *Geo Shape*: geo_shape[geo_shape]\n- *SNCF:stop_name*: sncf_stop_name[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "15550f4e-4ba8-4927-8b34-a3f457a0f34c",
+      "last_modified": "2014-09-26T12:57:42",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/15550f4e-4ba8-4927-8b34-a3f457a0f34c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:01:17.525000",
+      "title": "Export au format CSV",
+      "url": "https://ressources.data.sncf.com/explore/dataset/osm-mapping-lorraine/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:01:17.525000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *uic_ref*: uic_ref[text]\n- *visible*: visible[text]\n- *timestamp*: timestamp[datetime]\n- *amenity*: amenity[text]\n- *name*: name[text]\n- *railway*: railway[text]\n- *wheelchair*: wheelchair[text]\n- *id*: id[text]\n- *user*: user[text]\n- *other_tags*: other_tags[text]\n- *Geo Shape*: geo_shape[geo_shape]\n- *SNCF:stop_name*: sncf_stop_name[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "4bd2b72c-6745-43fa-8acb-3f0e560db430",
+      "last_modified": "2014-09-26T12:57:42",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4bd2b72c-6745-43fa-8acb-3f0e560db430",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:01:17.525000",
+      "title": "Export au format JSON",
+      "url": "https://ressources.data.sncf.com/explore/dataset/osm-mapping-lorraine/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:01:17.526000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *uic_ref*: uic_ref[text]\n- *visible*: visible[text]\n- *timestamp*: timestamp[datetime]\n- *amenity*: amenity[text]\n- *name*: name[text]\n- *railway*: railway[text]\n- *wheelchair*: wheelchair[text]\n- *id*: id[text]\n- *user*: user[text]\n- *other_tags*: other_tags[text]\n- *Geo Shape*: geo_shape[geo_shape]\n- *SNCF:stop_name*: sncf_stop_name[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "45fb7d36-82a7-45a6-9646-a91ac64a5dfa",
+      "last_modified": "2014-09-26T12:57:42",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/45fb7d36-82a7-45a6-9646-a91ac64a5dfa",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:01:17.526000",
+      "title": "Export au format GeoJSON",
+      "url": "https://ressources.data.sncf.com/explore/dataset/osm-mapping-lorraine/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:01:17.526000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *uic_ref*: uic_ref[text]\n- *visible*: visible[text]\n- *timestamp*: timestamp[datetime]\n- *amenity*: amenity[text]\n- *name*: name[text]\n- *railway*: railway[text]\n- *wheelchair*: wheelchair[text]\n- *id*: id[text]\n- *user*: user[text]\n- *other_tags*: other_tags[text]\n- *Geo Shape*: geo_shape[geo_shape]\n- *SNCF:stop_name*: sncf_stop_name[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "f7c65c0f-a7b1-4ec7-8905-772834fb8079",
+      "last_modified": "2014-09-26T12:57:42",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f7c65c0f-a7b1-4ec7-8905-772834fb8079",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:01:17.526000",
+      "title": "Export au format Shapefile",
+      "url": "https://ressources.data.sncf.com/explore/dataset/osm-mapping-lorraine/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "cartographie-openstreetmap-des-gares-sncf-en-region-lorraine",
+  "spatial": null,
+  "tags": [
+    "equipement",
+    "gare-de-voyageurs",
+    "gares-et-infrastructures",
+    "geolocalisation",
+    "lorraine",
+    "openstreetmap"
+  ],
+  "temporal_coverage": null,
+  "title": "Cartographie OpenStreetMap des gares SNCF en r\u00e9gion Lorraine",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/cartographie-openstreetmap-des-gares-sncf-en-region-lorraine/"
+}

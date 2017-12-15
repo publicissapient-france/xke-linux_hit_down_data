@@ -1,0 +1,78 @@
+{
+  "badges": [],
+  "created_at": "2016-10-18T14:26:01.614000",
+  "deleted": null,
+  "description": "Une action publique qui n\u2019est ni incarn\u00e9e, ni suffisante : c\u2019est le constat fait par la Cour des comptes \u00e0 l\u2019issue de son contr\u00f4le de la protection juridique des majeurs, r\u00e9alis\u00e9 \u00e0 la demande de la commission des finances de l\u2019Assembl\u00e9e nationale. Pr\u00e8s de dix ans apr\u00e8s l\u2019entr\u00e9e en vigueur d\u2019une loi qui visait \u00e0 adapter ce r\u00e9gime pour le rendre plus respectueux des droits des personnes, la Cour estime que cet espoir a \u00e9t\u00e9 d\u00e9\u00e7u. Le nombre des curatelles et des tutelles a cr\u00fb plus vite qu\u2019avant la r\u00e9forme et l\u2019accompagnement social n\u2019a pas trouv\u00e9 sa place dans le dispositif d\u2019ensemble. 700 000 personnes seraient aujourd\u2019hui plac\u00e9es sous la protection de la collectivit\u00e9 publique. Au regard de cette lourde responsabilit\u00e9, les moyens mis en \u0153uvre apparaissent faibles et l\u2019organisation du syst\u00e8me peu efficace. La Cour estime que les services de l\u2019\u00c9tat et les d\u00e9partements devraient mieux prendre la mesure de leurs responsabilit\u00e9s envers les majeurs vuln\u00e9rables, qui m\u00e9ritent de faire l\u2019objet d\u2019une v\u00e9ritable politique publique.\nElle formule neuf recommandations.\n\nCe rapport est accessible sur [le site de la Cour](https://www.ccomptes.fr/fr/publications/la-protection-juridique-des-majeurs-une-reforme-ambitieuse-une-mise-en-oeuvre).\n\nLes fichiers publi\u00e9s correspondent aux donn\u00e9es ayant servi de base \u00e0 l'\u00e9laboration du rapport.",
+  "extras": {},
+  "frequency": "unknown",
+  "frequency_date": "2016-10-18T00:00:00",
+  "id": "580614d9c751df6cea79df73",
+  "last_modified": "2017-09-05T11:32:57.261000",
+  "last_update": "2016-10-18T14:26:27",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "53698dada3a729239d20331d",
+    "logo": "https://www.data.gouv.fr/s/avatars/ac/83f761a23f4263be8b3401b01625e8-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/ac/83f761a23f4263be8b3401b01625e8-100.png",
+    "name": "Cour des comptes",
+    "page": "https://www.data.gouv.fr/fr/organizations/cour-des-comptes/",
+    "slug": "cour-des-comptes",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/cour-des-comptes/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/la-protection-juridique-des-majeurs-une-reforme-ambitieuse-une-mise-en-oeuvre-defaillante-1/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2016-10-18T14:26:27.584000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T22:22:28.428000",
+        "check:status": 200,
+        "check:url": "https://www.ccomptes.fr/sites/default/files/EzPublish/20161004-donnees-rapport-protection-juridique-majeurs.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2476b5fa-c8cd-475c-a59c-3294890e583f",
+      "last_modified": "2017-09-05T11:32:57.261000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2476b5fa-c8cd-475c-a59c-3294890e583f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 4
+      },
+      "mime": null,
+      "published": "2016-10-18T14:26:27",
+      "title": "La protection juridique des majeurs : une r\u00e9forme ambitieuse, une mise en \u0153uvre d\u00e9faillante",
+      "url": "https://www.ccomptes.fr/sites/default/files/EzPublish/20161004-donnees-rapport-protection-juridique-majeurs.zip"
+    }
+  ],
+  "slug": "la-protection-juridique-des-majeurs-une-reforme-ambitieuse-une-mise-en-oeuvre-defaillante-1",
+  "spatial": null,
+  "tags": [
+    "assemblee-nationale",
+    "cour-des-comptes",
+    "majeurs",
+    "protection-juridique"
+  ],
+  "temporal_coverage": null,
+  "title": "La protection juridique des majeurs : une r\u00e9forme ambitieuse, une mise en \u0153uvre d\u00e9faillante",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/la-protection-juridique-des-majeurs-une-reforme-ambitieuse-une-mise-en-oeuvre-defaillante-1/"
+}

@@ -1,0 +1,82 @@
+{
+  "badges": [],
+  "created_at": "2016-07-19T16:45:44.564000",
+  "deleted": null,
+  "description": "La Cour des comptes rend public, le 6 juillet 2016, un rapport sur la place des syndicats intercommunaux au regard de l\u2019\u00e9volution de l\u2019intercommunalit\u00e9, demand\u00e9 par la commission des finances, de l\u2019\u00e9conomie g\u00e9n\u00e9rale et du contr\u00f4le budg\u00e9taire de l\u2019Assembl\u00e9e nationale en application de l\u2019article 58-2\u00b0 de la loi organique relative aux lois de finances. 7992 syndicats \u00e0 vocation unique (SIVU), 1149 syndicats \u00e0 vocation multiple (SIVOM) et 2046 syndicats mixtes ferm\u00e9s (SMF) sont, au 1er janvier 2016, implant\u00e9s sur le territoire. On d\u00e9nombrait \u00e9galement 2 133 \u00e9tablissements publics de coop\u00e9ration intercommunale (EPCI) \u00e0 fiscalit\u00e9 propre avant que la loi NOTRe d\u2019ao\u00fbt 2015 ne produise ses effets: communaut\u00e9s urbaines, d\u2019agglom\u00e9ration ou de communes et m\u00e9tropoles. L\u2019essor de l\u2019intercommunalit\u00e9 depuis 1999, qui a entra\u00een\u00e9 plusieurs recompositions locales, a laiss\u00e9 subsister un nombre important de structures syndicales intercommunales, SIVU notamment. La Cour estime qu\u2019\u00e0 la suite du vote de la loi NOTRe un nouvel effort de rationalisation permettrait de r\u00e9duire substantiellement leur nombre sans remettre en cause la qualit\u00e9 des services de proximit\u00e9 rendus. Elle formule huit recommandations.\n\nCe rapport est accessible sur [le site de la Cour](https://www.ccomptes.fr/fr/publications/la-carte-des-syndicats-intercommunaux-une-rationalisation-poursuivre).\n\nLes fichiers publi\u00e9s correspondent aux donn\u00e9es ayant servi de base \u00e0 l'\u00e9laboration du rapport.",
+  "extras": {},
+  "frequency": "unknown",
+  "frequency_date": "2016-07-19T00:00:00",
+  "id": "578e3d1888ee382aca7d97c2",
+  "last_modified": "2017-09-05T11:35:36.995000",
+  "last_update": "2016-07-19T16:46:23",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "53698dada3a729239d20331d",
+    "logo": "https://www.data.gouv.fr/s/avatars/ac/83f761a23f4263be8b3401b01625e8-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/ac/83f761a23f4263be8b3401b01625e8-100.png",
+    "name": "Cour des comptes",
+    "page": "https://www.data.gouv.fr/fr/organizations/cour-des-comptes/",
+    "slug": "cour-des-comptes",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/cour-des-comptes/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/la-carte-des-syndicats-intercommunaux-une-rationalisation-a-poursuivre/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2016-07-19T16:46:23.382000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T01:33:46.600000",
+        "check:status": 200,
+        "check:url": "https://www.ccomptes.fr/sites/default/files/EzPublish/20160706-carte-syndicats-intercommunaux-SIVU-SIVOM.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "09c15f9c-6601-4aa3-b954-b38801495c01",
+      "last_modified": "2017-09-05T11:35:36.995000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/09c15f9c-6601-4aa3-b954-b38801495c01",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 20
+      },
+      "mime": null,
+      "published": "2016-07-19T16:46:23",
+      "title": "La carte des syndicats intercommunaux : une rationalisation \u00e0 poursuivre",
+      "url": "https://www.ccomptes.fr/sites/default/files/EzPublish/20160706-carte-syndicats-intercommunaux-SIVU-SIVOM.zip"
+    }
+  ],
+  "slug": "la-carte-des-syndicats-intercommunaux-une-rationalisation-a-poursuivre",
+  "spatial": null,
+  "tags": [
+    "assemblee-nationale",
+    "cour-des-comptes",
+    "epci",
+    "intercommunalite",
+    "sivom",
+    "sivu",
+    "smf",
+    "syndicats-intercommunaux"
+  ],
+  "temporal_coverage": null,
+  "title": "La carte des syndicats intercommunaux : une rationalisation \u00e0 poursuivre",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/la-carte-des-syndicats-intercommunaux-une-rationalisation-a-poursuivre/"
+}

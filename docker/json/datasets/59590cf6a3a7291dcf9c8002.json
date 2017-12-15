@@ -1,0 +1,147 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T17:10:45.974000",
+  "deleted": null,
+  "description": "Donn\u00e9es de type vecteur, d\u00e9crivant les mobiliers li\u00e9s au stationnement de v\u00e9hicules : horodateurs, distributeurs, bornes v\u00e9lo libre service (v\u00e9lib)...",
+  "extras": {
+    "harvest:domain": "opendata.paris.fr",
+    "harvest:last_update": "2017-11-27T05:11:35.991024",
+    "harvest:remote_id": "mobilierstationnementparis2011",
+    "harvest:source_id": "5631ef2988ee3837ce531585",
+    "ods:has_records": true,
+    "ods:references": "http://opendata.paris.fr/opendata/jsp/site/Portal.jsp?document_id=99&portlet_id=102",
+    "ods:url": "https://opendata.paris.fr/explore/dataset/mobilierstationnementparis2011/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59590cf6a3a7291dcf9c8002",
+  "last_modified": "2017-11-27T05:11:35.994000",
+  "last_update": "2017-11-27T05:11:35.989000",
+  "license": "odc-odbl",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff89a3a7292c64a77eb7",
+    "logo": "https://www.data.gouv.fr/s/avatars/b2/0e83ec3699415a87640e97c51cb006-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b2/0e83ec3699415a87640e97c51cb006-100.png",
+    "name": "Mairie de Paris",
+    "page": "https://www.data.gouv.fr/fr/organizations/mairie-de-paris/",
+    "slug": "mairie-de-paris",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/mairie-de-paris/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/mobiliers-de-stationnement-donnees-geographiques/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:11:35.988000",
+      "description": "- *geom_x_y*: geom_x_y[geo_point_2d]\n- *geom*: geom[geo_shape]\n- *Type Stationnement*: info[text]\n- *Libelle Stationnement*: libelle[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2d8eb3fa-11c7-48c1-b9a4-5c00ddd0797c",
+      "last_modified": "2013-06-21T12:38:25",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2d8eb3fa-11c7-48c1-b9a4-5c00ddd0797c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:11:35.988000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.paris.fr/explore/dataset/mobilierstationnementparis2011/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:11:35.988000",
+      "description": "- *geom_x_y*: geom_x_y[geo_point_2d]\n- *geom*: geom[geo_shape]\n- *Type Stationnement*: info[text]\n- *Libelle Stationnement*: libelle[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "0ec7a25e-f710-4086-bd69-e87596ac15f9",
+      "last_modified": "2013-06-21T12:38:25",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0ec7a25e-f710-4086-bd69-e87596ac15f9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:11:35.988000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.paris.fr/explore/dataset/mobilierstationnementparis2011/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:11:35.989000",
+      "description": "- *geom_x_y*: geom_x_y[geo_point_2d]\n- *geom*: geom[geo_shape]\n- *Type Stationnement*: info[text]\n- *Libelle Stationnement*: libelle[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "5f58facf-0339-4ae2-9649-8da076e99188",
+      "last_modified": "2013-06-21T12:38:25",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5f58facf-0339-4ae2-9649-8da076e99188",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:11:35.989000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.paris.fr/explore/dataset/mobilierstationnementparis2011/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:11:35.989000",
+      "description": "- *geom_x_y*: geom_x_y[geo_point_2d]\n- *geom*: geom[geo_shape]\n- *Type Stationnement*: info[text]\n- *Libelle Stationnement*: libelle[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "8f8adadc-cd85-4340-8e6c-4d2befe2bd8c",
+      "last_modified": "2013-06-21T12:38:25",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8f8adadc-cd85-4340-8e6c-4d2befe2bd8c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:11:35.989000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.paris.fr/explore/dataset/mobilierstationnementparis2011/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "mobiliers-de-stationnement-donnees-geographiques",
+  "spatial": null,
+  "tags": [
+    "equipements",
+    "mobilier-urbain",
+    "mobilite-et-espace-public",
+    "paris",
+    "stationnement"
+  ],
+  "temporal_coverage": null,
+  "title": "Mobiliers de stationnement - Donn\u00e9es g\u00e9ographiques",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/mobiliers-de-stationnement-donnees-geographiques/"
+}

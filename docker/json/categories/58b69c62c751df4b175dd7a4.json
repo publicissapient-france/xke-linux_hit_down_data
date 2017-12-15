@@ -1,0 +1,82 @@
+{
+  "acronym": "MEL",
+  "badges": [
+    {
+      "kind": "public-service"
+    },
+    {
+      "kind": "certified"
+    }
+  ],
+  "created_at": "2017-03-01T11:03:14.424000",
+  "deleted": null,
+  "description": "La M\u00e9tropole Europ\u00e9enne de Lille est un \u00e9tablissement public de coop\u00e9ration intercommunale instaur\u00e9 par la loi du 31 d\u00e9cembre 1966 dans l'objectif de rem\u00e9dier aux inconv\u00e9nients r\u00e9sultant du morcellement des communes dans les grandes agglom\u00e9rations.\n\nL'institution s'est lanc\u00e9e dans l'open data le 18 novembre 2016, via son site http://opendata.lillemetropole.fr \nSuivez-nous sur twitter @MEL_OpenData pour ne manquer aucune nouvelle donn\u00e9e ouverte.\n\n\n\n\n",
+  "id": "58b69c62c751df4b175dd7a4",
+  "last_modified": "2017-11-26T12:58:00.070000",
+  "logo": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-original.png",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-100.png",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/2014-11-13/892e2f5aadb64ab7a8bda671a57dffbf/photo-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-11-13/892e2f5aadb64ab7a8bda671a57dffbf/photo-100.jpg",
+        "class": "User",
+        "first_name": "Romain",
+        "id": "534fff48a3a7292c64a77b05",
+        "last_name": "Tales",
+        "page": "https://www.data.gouv.fr/fr/users/romain-tales/",
+        "slug": "romain-tales",
+        "uri": "https://www.data.gouv.fr/api/1/users/romain-tales/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/1b/8745f6603945acb131a381211abef8-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/1b/8745f6603945acb131a381211abef8-100.jpg",
+        "class": "User",
+        "first_name": "Etienne",
+        "id": "569e3f74c751df3b82ade713",
+        "last_name": "PICHOT DAMON",
+        "page": "https://www.data.gouv.fr/fr/users/etienne-pichot-damon/",
+        "slug": "etienne-pichot-damon",
+        "uri": "https://www.data.gouv.fr/api/1/users/etienne-pichot-damon/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Jerome",
+        "id": "560144fb88ee3806425b59ee",
+        "last_name": "Van Oost",
+        "page": "https://www.data.gouv.fr/fr/users/jerome-van-oost/",
+        "slug": "jerome-van-oost",
+        "uri": "https://www.data.gouv.fr/api/1/users/jerome-van-oost/"
+      }
+    }
+  ],
+  "metrics": {
+    "badges": 0,
+    "dataset_views": 5,
+    "datasets": 159,
+    "followers": 5,
+    "members": 3,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 0,
+    "resource_downloads": 18,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 4
+  },
+  "name": "M\u00e9tropole Europ\u00e9enne de Lille ",
+  "page": "https://www.data.gouv.fr/fr/organizations/metropole-europeenne-de-lille/",
+  "slug": "metropole-europeenne-de-lille",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/metropole-europeenne-de-lille/",
+  "url": "https://opendata.lillemetropole.fr/page/home/"
+}

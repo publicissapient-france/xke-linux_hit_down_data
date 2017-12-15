@@ -1,0 +1,123 @@
+{
+  "badges": [],
+  "created_at": "2017-02-06T00:00:00",
+  "deleted": null,
+  "description": "Au nombre de 38 et implant\u00e9es dans tout le d\u00e9partement, les Maisons D\u00e9partementales de la Solidarit\u00e9 et de l'Insertion (M.D.S.I.) ont une exigence prioritaire : apporter aux usagers une aide de proximit\u00e9.\n\nElles regroupent tous les professionnels de l'action sociale et m\u00e9dico-sociale pour accompagner les diff\u00e9rentes \u00e9tapes de la vie (petite enfance, \u00e9ducation, sant\u00e9, insertion, handicap, vieillissement, d\u00e9pendance etc.).\n\nElles remplacent les Centres M\u00e9dico - Sociaux et offrent d\u00e9sormais aux habitants un guichet unique.Les M.D.S.I. s'adressent a l'ensemble des habitants de leur territoire quels que soient leur \u00e2ge, leur situation et leurs besoins.\n\nLes fichiers mis a disposition permettent de conna\u00eetre le d\u00e9tail de la localisation et des services propos\u00e9s par ces \u00e9quipements de proximit\u00e9",
+  "extras": {
+    "ckan:name": "liste-des-maisons-departementales-de-solidarite-et-dinsertion-de-gironde1",
+    "contact_email": "mailto:dgas-dagms@cg33.fr",
+    "contact_name": "Direction des Affaires g\u00e9n\u00e9rales des moyens de solidarit\u00e9",
+    "contact_uri": "https://datacat.datalocale.fr/414586",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+    "guid": "https://datacat.datalocale.fr/414587",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-06-04T20:57:42.348288",
+    "harvest:remote_id": "e4f3a2e6-d7c2-4046-876c-8d3ca5d78914",
+    "harvest:source_id": "59342bc2c751df46b29d4f99",
+    "identifier": "0440d831-2af4-443b-8ab6-e2929c9490d7",
+    "issued": "2012-12-28T15:22:12+00:00",
+    "modified": "2016-12-19T09:27:57.354640+00:00",
+    "publisher_name": "DAGMS-SSISAG",
+    "publisher_uri": "https://datacat.datalocale.fr/414585",
+    "remote_url": "http://www.gironde.fr/jcms/c_17146/les-mdsi-a-votre-service",
+    "theme": "[\"politique sociale\"]",
+    "uri": "https://datacat.datalocale.fr/414587"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59345826a3a72968e1876c56",
+  "last_modified": "2017-06-04T20:57:42.350000",
+  "last_update": "2017-06-04T20:57:42.347000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": null,
+  "owner": {
+    "avatar": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-original.jpg",
+    "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-100.jpg",
+    "class": "User",
+    "first_name": "Ressourcerie",
+    "id": "534fff47a3a7292c64a77adc",
+    "last_name": "datalocale",
+    "page": "https://www.data.gouv.fr/fr/users/ressourcerie-datalocale/",
+    "slug": "ressourcerie-datalocale",
+    "uri": "https://www.data.gouv.fr/api/1/users/ressourcerie-datalocale/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-maisons-departementales-de-solidarite-et-dinsertion-de-gironde1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:57:42.346000",
+      "description": "export des donn\u00e9es en csv UTF-8",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-03T04:36:39.274000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1395467/raw/LISTE_SERVICE_MDSI.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ed2f1b61-51ee-4379-847d-eec4d6cdc044",
+      "last_modified": "2017-06-04T20:57:42.347000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ed2f1b61-51ee-4379-847d-eec4d6cdc044",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:57:42.347000",
+      "title": "liste_service_mdsi_gironde.csv",
+      "url": "https://datacat.datalocale.fr/file/1395467/raw/LISTE_SERVICE_MDSI.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:57:42.347000",
+      "description": "export des donn\u00e9es en csv UTF-8",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-03T04:36:39.288000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1395461/raw/LISTE_MDSI.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "d9849033-64a7-4d7f-89ba-ad0b4e79bc2e",
+      "last_modified": "2017-06-04T20:57:42.347000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d9849033-64a7-4d7f-89ba-ad0b4e79bc2e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:57:42.347000",
+      "title": "liste_mdsi_gironde.csv",
+      "url": "https://datacat.datalocale.fr/file/1395461/raw/LISTE_MDSI.csv"
+    }
+  ],
+  "slug": "liste-des-maisons-departementales-de-solidarite-et-dinsertion-de-gironde1",
+  "spatial": null,
+  "tags": [
+    "antenne-sociale",
+    "conseil-departemental",
+    "equipement",
+    "gironde"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des maisons d\u00e9partementales de solidarit\u00e9 et d'insertion de Gironde",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-maisons-departementales-de-solidarite-et-dinsertion-de-gironde1/"
+}

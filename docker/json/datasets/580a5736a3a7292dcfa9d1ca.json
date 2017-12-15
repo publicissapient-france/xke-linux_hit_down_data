@@ -1,0 +1,168 @@
+{
+  "badges": [],
+  "created_at": "2016-10-21T19:58:14.314000",
+  "deleted": null,
+  "description": "Localisation des bornes de recharge d\u00e9di\u00e9es aux v\u00e9hicules \u00e9lectriques sur le territoire de Rennes M\u00e9tropole.  \nIl s'agit de conna\u00eetre l'emplacement des bornes, et non des simples prises, et de donner des informations sur les modalit\u00e9s d'acc\u00e8s et de recharge de ces bornes.",
+  "extras": {
+    "harvest:domain": "data.rennesmetropole.fr",
+    "harvest:last_update": "2017-04-06T05:00:46.543719",
+    "harvest:remote_id": "bornes-de-recharge-dediees-aux-vehicules-electriques-sur-le-territoire-de-rennes",
+    "harvest:source_id": "580736ec88ee3816625ff490",
+    "ods:has_records": true,
+    "ods:references": "https://public.sig.rennesmetropole.fr/geonetwork/srv/fre/csw?service=CSW&SERVICE=CSW&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&request=GetRecordById&resultType=results&VERSION=2.0.2&version=2.0.2&ElementSetName=full&id=874e8b0c-2528-4042-83d7-c06d1eeb6a10",
+    "ods:url": "https://data.rennesmetropole.fr/explore/dataset/bornes-de-recharge-dediees-aux-vehicules-electriques-sur-le-territoire-de-rennes/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "580a5736a3a7292dcfa9d1ca",
+  "last_modified": "2017-07-26T01:08:33.148000",
+  "last_update": "2017-04-06T05:00:46.542000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 2,
+    "followers": 1,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": "RM",
+    "class": "Organization",
+    "id": "580735be88ee3814295ff490",
+    "logo": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-100.png",
+    "name": "Rennes M\u00e9tropole en acc\u00e8s libre",
+    "page": "https://www.data.gouv.fr/fr/organizations/rennes-metropole-en-acces-libre-1/",
+    "slug": "rennes-metropole-en-acces-libre-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/rennes-metropole-en-acces-libre-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/bornes-de-recharge-dediees-aux-vehicules-electriques-sur-le-territoire-de-rennes-metropole/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T05:00:46.540000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *gml_id*: gml_id[text]\n- *objectid*: objectid[int]\n- *id*: id[text]\n- *c_insee*: c_insee[int]\n- *site_nom*: site_nom[text]\n- *site_adr*: site_adr[text]\n- *site_etat*: site_etat[text]\n- *invest*: invest[text]\n- *site_type*: site_type[text]\n- *i_acces*: i_acces[text]\n- *i_modal*: i_modal[text]\n- *i_tarif*: i_tarif[text]\n- *b_type*: b_type[text]\n- *p_domestic*: p_domestic[int]\n- *p_type2*: p_type2[int]\n- *p_type3*: p_type3[int]\n- *p_type4*: p_type4[int]\n- *p_ccs*: p_ccs[int]\n- *ch_normale*: ch_normale[text]\n- *ch_rapide*: ch_rapide[text]\n- *ch_acceler*: ch_acceler[text]\n- *maj_date*: maj_date[text]\n- *x_cc48*: x_cc48[double]\n- *y_cc48*: y_cc48[double]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-25T16:53:44.732000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/bornes-de-recharge-dediees-aux-vehicules-electriques-sur-le-territoire-de-rennes/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "3294754b-e5ea-4c95-9474-ecac9beff224",
+      "last_modified": "2015-03-19T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3294754b-e5ea-4c95-9474-ecac9beff224",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-04-06T05:00:46.541000",
+      "title": "Export au format CSV",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/bornes-de-recharge-dediees-aux-vehicules-electriques-sur-le-territoire-de-rennes/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T05:00:46.541000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *gml_id*: gml_id[text]\n- *objectid*: objectid[int]\n- *id*: id[text]\n- *c_insee*: c_insee[int]\n- *site_nom*: site_nom[text]\n- *site_adr*: site_adr[text]\n- *site_etat*: site_etat[text]\n- *invest*: invest[text]\n- *site_type*: site_type[text]\n- *i_acces*: i_acces[text]\n- *i_modal*: i_modal[text]\n- *i_tarif*: i_tarif[text]\n- *b_type*: b_type[text]\n- *p_domestic*: p_domestic[int]\n- *p_type2*: p_type2[int]\n- *p_type3*: p_type3[int]\n- *p_type4*: p_type4[int]\n- *p_ccs*: p_ccs[int]\n- *ch_normale*: ch_normale[text]\n- *ch_rapide*: ch_rapide[text]\n- *ch_acceler*: ch_acceler[text]\n- *maj_date*: maj_date[text]\n- *x_cc48*: x_cc48[double]\n- *y_cc48*: y_cc48[double]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-25T16:53:44.747000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/bornes-de-recharge-dediees-aux-vehicules-electriques-sur-le-territoire-de-rennes/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "422b8b50-28b8-44f8-83b1-756caf8b8b23",
+      "last_modified": "2015-03-19T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/422b8b50-28b8-44f8-83b1-756caf8b8b23",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-04-06T05:00:46.541000",
+      "title": "Export au format JSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/bornes-de-recharge-dediees-aux-vehicules-electriques-sur-le-territoire-de-rennes/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T05:00:46.541000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *gml_id*: gml_id[text]\n- *objectid*: objectid[int]\n- *id*: id[text]\n- *c_insee*: c_insee[int]\n- *site_nom*: site_nom[text]\n- *site_adr*: site_adr[text]\n- *site_etat*: site_etat[text]\n- *invest*: invest[text]\n- *site_type*: site_type[text]\n- *i_acces*: i_acces[text]\n- *i_modal*: i_modal[text]\n- *i_tarif*: i_tarif[text]\n- *b_type*: b_type[text]\n- *p_domestic*: p_domestic[int]\n- *p_type2*: p_type2[int]\n- *p_type3*: p_type3[int]\n- *p_type4*: p_type4[int]\n- *p_ccs*: p_ccs[int]\n- *ch_normale*: ch_normale[text]\n- *ch_rapide*: ch_rapide[text]\n- *ch_acceler*: ch_acceler[text]\n- *maj_date*: maj_date[text]\n- *x_cc48*: x_cc48[double]\n- *y_cc48*: y_cc48[double]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-25T16:53:44.733000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/bornes-de-recharge-dediees-aux-vehicules-electriques-sur-le-territoire-de-rennes/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "376d2135-d484-4fa4-a913-af3a675e5f90",
+      "last_modified": "2015-03-19T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/376d2135-d484-4fa4-a913-af3a675e5f90",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-04-06T05:00:46.542000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/bornes-de-recharge-dediees-aux-vehicules-electriques-sur-le-territoire-de-rennes/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T05:00:46.542000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *gml_id*: gml_id[text]\n- *objectid*: objectid[int]\n- *id*: id[text]\n- *c_insee*: c_insee[int]\n- *site_nom*: site_nom[text]\n- *site_adr*: site_adr[text]\n- *site_etat*: site_etat[text]\n- *invest*: invest[text]\n- *site_type*: site_type[text]\n- *i_acces*: i_acces[text]\n- *i_modal*: i_modal[text]\n- *i_tarif*: i_tarif[text]\n- *b_type*: b_type[text]\n- *p_domestic*: p_domestic[int]\n- *p_type2*: p_type2[int]\n- *p_type3*: p_type3[int]\n- *p_type4*: p_type4[int]\n- *p_ccs*: p_ccs[int]\n- *ch_normale*: ch_normale[text]\n- *ch_rapide*: ch_rapide[text]\n- *ch_acceler*: ch_acceler[text]\n- *maj_date*: maj_date[text]\n- *x_cc48*: x_cc48[double]\n- *y_cc48*: y_cc48[double]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-25T16:53:44.747000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/bornes-de-recharge-dediees-aux-vehicules-electriques-sur-le-territoire-de-rennes/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "d4577c19-a08a-4b08-bcb0-7e579dfbd1a6",
+      "last_modified": "2015-03-19T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d4577c19-a08a-4b08-bcb0-7e579dfbd1a6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-04-06T05:00:46.542000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/bornes-de-recharge-dediees-aux-vehicules-electriques-sur-le-territoire-de-rennes/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "bornes-de-recharge-dediees-aux-vehicules-electriques-sur-le-territoire-de-rennes-metropole",
+  "spatial": null,
+  "tags": [
+    "infrastructure-routiere",
+    "irve",
+    "mobilite",
+    "transport",
+    "vehicule-electrique"
+  ],
+  "temporal_coverage": null,
+  "title": "Bornes de recharge d\u00e9di\u00e9es aux v\u00e9hicules \u00e9lectriques sur le territoire de Rennes M\u00e9tropole",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/bornes-de-recharge-dediees-aux-vehicules-electriques-sur-le-territoire-de-rennes-metropole/"
+}

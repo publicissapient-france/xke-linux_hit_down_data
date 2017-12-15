@@ -1,0 +1,79 @@
+{
+  "badges": [],
+  "created_at": "2017-03-17T13:58:59.986000",
+  "deleted": null,
+  "description": "La gouvernance de la r\u00e9gulation des jeux d\u2019argent et de hasard en France, qui repr\u00e9sentaient 44 Md\u20ac de mises en 2015, n\u2019est pas satisfaisante, dans la mesure o\u00f9 elle ne repose ni sur une strat\u00e9gie claire ni sur une organisation coh\u00e9rente. Les objectifs fix\u00e9s par la loi du 12 mai 2010 relative \u00e0 l\u2019ouverture \u00e0 la concurrence et \u00e0 la r\u00e9gulation du secteur des jeux d\u2019argent et de hasard en ligne sont loin d\u2019\u00eatre atteints, notamment en mati\u00e8re de sant\u00e9 et d\u2019ordre public. Les changements qui touchent actuellement ce secteur renforcent l\u2019urgence d\u2019une nouvelle approche par l\u2019\u00c9tat r\u00e9gulateur. Tels sont les trois principaux enseignements de l\u2019enqu\u00eate demand\u00e9e \u00e0 la Cour par le comit\u00e9 d\u2019\u00e9valuation et de contr\u00f4les des politiques publiques de l\u2019Assembl\u00e9e nationale en application de l\u2019article 132-5 du code des juridictions financi\u00e8res. La Cour formule neuf recommandations. \n\nCe rapport est accessible sur [le site de la Cour](https://www.ccomptes.fr/fr/publications/la-regulation-des-jeux-dargent-et-de-hasard).\n\nLes fichiers publi\u00e9s correspondent aux donn\u00e9es ayant servi de base \u00e0 l'\u00e9laboration du rapport.",
+  "extras": {},
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "58cbdd93c751df4cbce8b363",
+  "last_modified": "2017-09-04T12:14:49.968000",
+  "last_update": "2017-03-17T13:59:19.618000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "53698dada3a729239d20331d",
+    "logo": "https://www.data.gouv.fr/s/avatars/ac/83f761a23f4263be8b3401b01625e8-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/ac/83f761a23f4263be8b3401b01625e8-100.png",
+    "name": "Cour des comptes",
+    "page": "https://www.data.gouv.fr/fr/organizations/cour-des-comptes/",
+    "slug": "cour-des-comptes",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/cour-des-comptes/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/la-regulation-des-jeux-dargent-et-de-hasard/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-03-17T13:59:19.618000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T15:30:43.675000",
+        "check:status": 200,
+        "check:url": "https://www.ccomptes.fr/sites/default/files/EzPublish/20161019-donnees-regulation-jeux-argent-et-hasard.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "3a4b748b-8e3d-472e-b23d-2a98bf5d4543",
+      "last_modified": "2017-09-04T12:14:49.968000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3a4b748b-8e3d-472e-b23d-2a98bf5d4543",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-03-17T13:59:19.618000",
+      "title": "La r\u00e9gulation des jeux d\u2019argent et de hasard ",
+      "url": "https://www.ccomptes.fr/sites/default/files/EzPublish/20161019-donnees-regulation-jeux-argent-et-hasard.zip"
+    }
+  ],
+  "slug": "la-regulation-des-jeux-dargent-et-de-hasard",
+  "spatial": null,
+  "tags": [
+    "assemblee-nationale",
+    "cour-des-comptes",
+    "hasard",
+    "jeux-d-argent",
+    "mises-en-service"
+  ],
+  "temporal_coverage": null,
+  "title": "La r\u00e9gulation des jeux d\u2019argent et de hasard ",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/la-regulation-des-jeux-dargent-et-de-hasard/"
+}

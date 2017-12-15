@@ -1,0 +1,79 @@
+{
+  "badges": [],
+  "created_at": "2015-02-05T11:14:46.891000",
+  "deleted": null,
+  "description": "![Commerces, March\u00e9, Entreprises](http://www.ville-gif.fr/uploads/pics/commerces.jpg \"Commerces, March\u00e9, Entreprises\")<Br>\r\n\r\n- Les Commerces\r\n- Le March\u00e9\r\n- Les Entreprises\r\n",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": null,
+  "id": "54d34296c751df3cd0467389",
+  "last_modified": "2015-08-10T23:34:42.867000",
+  "last_update": "2015-02-05T11:15:12.803000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 6
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5437e8c288ee387cb68f5e87",
+    "logo": "https://www.data.gouv.fr/s/avatars/2014-12-17/4978ecfa957246e281634a1ff8af8ad5/Blason_Chaville_Ciril-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-12-17/4978ecfa957246e281634a1ff8af8ad5/Blason_Chaville_Ciril-100.jpg",
+    "name": "Commune de Chaville",
+    "page": "https://www.data.gouv.fr/fr/organizations/commune-de-chaville/",
+    "slug": "commune-de-chaville",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/commune-de-chaville/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/commerces-marche-entreprises/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "b1f141390ab18cce59ca9f02fa0b75f34d1bfd8f"
+      },
+      "created_at": "2015-02-05T11:15:12.803000",
+      "description": "\r\n\r\nxxxx",
+      "extras": {},
+      "filesize": 2878,
+      "filetype": "file",
+      "format": "csv",
+      "id": "07eed622-cf84-49e3-9be8-b6b4f3e0e5eb",
+      "last_modified": "2015-02-05T11:15:12.803000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/07eed622-cf84-49e3-9be8-b6b4f3e0e5eb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 13
+      },
+      "mime": "text/csv",
+      "published": "2015-02-05T11:15:12.803000",
+      "title": "Les Commerces",
+      "url": "https://www.data.gouv.fr/s/resources/commerces-entreprises/20150205-111508/secours_urgence_1.csv"
+    }
+  ],
+  "slug": "commerces-marche-entreprises",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:commune",
+    "zones": [
+      "fr:commune:92022@1968-01-01"
+    ]
+  },
+  "tags": [
+    "commerces",
+    "entreprises"
+  ],
+  "temporal_coverage": null,
+  "title": "COMMERCES, MARCHE & ENTREPRISES",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/commerces-marche-entreprises/"
+}

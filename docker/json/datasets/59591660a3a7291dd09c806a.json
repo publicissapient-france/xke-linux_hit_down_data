@@ -1,0 +1,144 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T17:50:56.266000",
+  "deleted": null,
+  "description": "Actif occup\u00e9s de 1982 \u00e0 2009 Ventilation pour certaines tranches d'\u00e2ge des hommes et des femmes",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T06:09:51.774772",
+    "harvest:remote_id": "idf_RGP_actif_occupe_exh",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/idf_RGP_actif_occupe_exh/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59591660a3a7291dd09c806a",
+  "last_modified": "2017-11-27T06:09:51.776000",
+  "last_update": "2017-11-27T06:09:51.774000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/population-active-occupee/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:09:51.773000",
+      "description": "- *Geometry X Y*: geom_x_y[geo_point_2d]\n- *Geometry*: geom[geo_shape]\n- *INSEE*: insee[int]\n- *ACTocc82*: actocc82[double]\n- *ACTocc90*: actocc90[double]\n- *ACTfeOCC99*: actfeocc99[double]\n- *ACTocc99*: actocc99[double]\n- *F15_4599*: f15_4599[double]\n- *TXf15_4599*: txf15_4599[double]\n- *F20_4099*: f20_4099[double]\n- *TXf20_4099*: txf20_4099[double]\n- *ActOcc2006*: actocc2006[double]\n- *ActOcc2007*: actocc2007[double]\n- *ActOcc2008*: actocc2008[double]\n- *ActOcc2009*: actocc2009[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "73f00c91-0942-46dd-8cd5-77c72d0f29a5",
+      "last_modified": "2013-06-18T19:46:46",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/73f00c91-0942-46dd-8cd5-77c72d0f29a5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T06:09:51.773000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/idf_RGP_actif_occupe_exh/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:09:51.773000",
+      "description": "- *Geometry X Y*: geom_x_y[geo_point_2d]\n- *Geometry*: geom[geo_shape]\n- *INSEE*: insee[int]\n- *ACTocc82*: actocc82[double]\n- *ACTocc90*: actocc90[double]\n- *ACTfeOCC99*: actfeocc99[double]\n- *ACTocc99*: actocc99[double]\n- *F15_4599*: f15_4599[double]\n- *TXf15_4599*: txf15_4599[double]\n- *F20_4099*: f20_4099[double]\n- *TXf20_4099*: txf20_4099[double]\n- *ActOcc2006*: actocc2006[double]\n- *ActOcc2007*: actocc2007[double]\n- *ActOcc2008*: actocc2008[double]\n- *ActOcc2009*: actocc2009[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "406b9066-29a0-4b7f-8040-7ffe26806353",
+      "last_modified": "2013-06-18T19:46:46",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/406b9066-29a0-4b7f-8040-7ffe26806353",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T06:09:51.773000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/idf_RGP_actif_occupe_exh/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:09:51.773000",
+      "description": "- *Geometry X Y*: geom_x_y[geo_point_2d]\n- *Geometry*: geom[geo_shape]\n- *INSEE*: insee[int]\n- *ACTocc82*: actocc82[double]\n- *ACTocc90*: actocc90[double]\n- *ACTfeOCC99*: actfeocc99[double]\n- *ACTocc99*: actocc99[double]\n- *F15_4599*: f15_4599[double]\n- *TXf15_4599*: txf15_4599[double]\n- *F20_4099*: f20_4099[double]\n- *TXf20_4099*: txf20_4099[double]\n- *ActOcc2006*: actocc2006[double]\n- *ActOcc2007*: actocc2007[double]\n- *ActOcc2008*: actocc2008[double]\n- *ActOcc2009*: actocc2009[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "3a18e76f-d1d6-4230-8e79-f5463cd676ea",
+      "last_modified": "2013-06-18T19:46:46",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3a18e76f-d1d6-4230-8e79-f5463cd676ea",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T06:09:51.773000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/idf_RGP_actif_occupe_exh/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:09:51.774000",
+      "description": "- *Geometry X Y*: geom_x_y[geo_point_2d]\n- *Geometry*: geom[geo_shape]\n- *INSEE*: insee[int]\n- *ACTocc82*: actocc82[double]\n- *ACTocc90*: actocc90[double]\n- *ACTfeOCC99*: actfeocc99[double]\n- *ACTocc99*: actocc99[double]\n- *F15_4599*: f15_4599[double]\n- *TXf15_4599*: txf15_4599[double]\n- *F20_4099*: f20_4099[double]\n- *TXf20_4099*: txf20_4099[double]\n- *ActOcc2006*: actocc2006[double]\n- *ActOcc2007*: actocc2007[double]\n- *ActOcc2008*: actocc2008[double]\n- *ActOcc2009*: actocc2009[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "f50d6c5e-82cc-45d6-92ef-28875e0675d5",
+      "last_modified": "2013-06-18T19:46:46",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f50d6c5e-82cc-45d6-92ef-28875e0675d5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T06:09:51.774000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.iledefrance.fr//explore/dataset/idf_RGP_actif_occupe_exh/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "population-active-occupee",
+  "spatial": null,
+  "tags": [
+    "geolocalisation",
+    "population",
+    "vie-sociale"
+  ],
+  "temporal_coverage": null,
+  "title": "Population Active occup\u00e9e",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/population-active-occupee/"
+}

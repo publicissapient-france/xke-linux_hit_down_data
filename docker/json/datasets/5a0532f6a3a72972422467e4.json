@@ -1,0 +1,234 @@
+{
+  "badges": [],
+  "created_at": "2017-11-09T00:00:00",
+  "deleted": null,
+  "description": "Liste des centres d\u2019interpr\u00e9tation (sites de d\u00e9couverte de diff\u00e9rents th\u00e8mes\u00a0: Arts et traditions populaires, Environnement et nature, Gastronomie, Industrie, M\u00e9tier, Nouvelles technologies et images, Sport, Viticole ainsi que des maisons d'artisanat ou maisons d'artiste) en Aquitaine, issue de la base de donn\u00e9es SIRTAQUI.\n\nCe fichier contient les informations de g\u00e9olocalisation et de contact, les informations sur l\u2019activit\u00e9, les marques et labels, les conditions d\u2019ouverture et de visites, les tarifs, les \u00e9quipements et les services propos\u00e9s.",
+  "extras": {
+    "ckan:name": "liste-des-centres-dinterpretation-en-aquitaine",
+    "contact_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "contact_name": "CRTA",
+    "contact_uri": "https://datacat.datalocale.fr/414593",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
+    "guid": "https://datacat.datalocale.fr/415856",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-11-14T05:15:54.502016",
+    "harvest:remote_id": "4212b21c-c66b-4753-bddb-8bc73850b8f6",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "a016aecd-aa45-4b0a-b0c8-a167697a0f3e",
+    "issued": "2014-12-24T12:29:58+00:00",
+    "modified": "2016-07-18T09:21:07.122361+00:00",
+    "publisher_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "publisher_name": "agence SIRTAQUI",
+    "publisher_type": "\"Organisation \u00e0 but non lucratif\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414592",
+    "remote_url": "http://www.sirtaqui-aquitaine.com",
+    "theme": "[\"tourisme\"]",
+    "uri": "https://datacat.datalocale.fr/415856"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5a0532f6a3a72972422467e4",
+  "last_modified": "2017-11-14T05:15:54.504000",
+  "last_update": "2017-11-10T06:02:46.858000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-centres-dinterpretation-en-aquitaine-4/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-10T06:02:46.856000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T06:46:15.146000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/distribution/496048/raw/liste-csv-centres-interpretation-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "946e3a2e-e7c9-4d69-94e0-cda9af420d7a",
+      "last_modified": "2017-11-14T05:15:54.500000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/946e3a2e-e7c9-4d69-94e0-cda9af420d7a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-10T06:02:46.856000",
+      "title": "liste-csv-centres-interpretation-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/distribution/496048/raw/liste-csv-centres-interpretation-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-10T06:02:46.857000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T06:46:20.004000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/1902654"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "df1e5376-cf18-4882-8c55-c2f432df4385",
+      "last_modified": "2017-11-14T05:15:54.501000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/df1e5376-cf18-4882-8c55-c2f432df4385",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/xml",
+      "published": "2017-11-10T06:02:46.857000",
+      "title": "liste-xml-centres-interpretation-aquitaine.xml",
+      "url": "https://datacat.datalocale.fr/1902654"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-10T06:02:46.857000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T06:46:13.959000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/distribution/415857/raw/liste-xml-centres-interpretations-aquitaine.xml"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "8591a244-cad6-4639-b0a3-543d1c4d9b27",
+      "last_modified": "2017-11-14T05:15:54.501000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8591a244-cad6-4639-b0a3-543d1c4d9b27",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/xml",
+      "published": "2017-11-10T06:02:46.857000",
+      "title": "extraction en xml (tourinfo) de la liste des centres d'interpr\u00e9tation r\u00e9f\u00e9renc\u00e9es dans la base de donn\u00e9es SIRTAQUI. les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es en wgs84 ",
+      "url": "https://datacat.datalocale.fr/distribution/415857/raw/liste-xml-centres-interpretations-aquitaine.xml"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-10T06:02:46.857000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T06:46:08.736000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/415859"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "51a6876a-a0b6-4a74-b069-3ff7ff048bef",
+      "last_modified": "2017-11-14T05:15:54.501000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/51a6876a-a0b6-4a74-b069-3ff7ff048bef",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-10T06:02:46.857000",
+      "title": "sp\u00e9cification des champs du jeu de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/415859"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-10T06:02:46.858000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-11-20T06:46:21.016000",
+        "check:status": 501,
+        "check:url": "http://wcf.tourinsoft.com/Syndication/aquitaine/1b0edac0-054d-4491-89d0-e96b59cbca19/Objects?$format=json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "5466bd87-8b03-4ad3-bd62-94ed77b4ece2",
+      "last_modified": "2017-11-14T05:15:54.501000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5466bd87-8b03-4ad3-bd62-94ed77b4ece2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-10T06:02:46.858000",
+      "title": "flux de consommation temps r\u00e9el",
+      "url": "http://wcf.tourinsoft.com/Syndication/aquitaine/1b0edac0-054d-4491-89d0-e96b59cbca19/Objects?$format=json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-10T06:02:46.858000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T06:46:23.645000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/distribution/415861/raw/liste-centres-interpretation-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2e577fa1-5daa-476f-bbc3-37b91cc671bd",
+      "last_modified": "2017-11-14T05:15:54.501000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2e577fa1-5daa-476f-bbc3-37b91cc671bd",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-10T06:02:46.858000",
+      "title": "extraction en csv (utf-8) de la liste des centres d'interpr\u00e9tation r\u00e9f\u00e9renc\u00e9es dans la base de donn\u00e9es SIRTAQUI. les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es en wgs84 ",
+      "url": "https://datacat.datalocale.fr/distribution/415861/raw/liste-centres-interpretation-aquitaine.csv"
+    }
+  ],
+  "slug": "liste-des-centres-dinterpretation-en-aquitaine-4",
+  "spatial": null,
+  "tags": [
+    "art",
+    "culture",
+    "gastronomie",
+    "musee",
+    "tourisme"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des centres d'interpretation en Aquitaine",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-centres-dinterpretation-en-aquitaine-4/"
+}

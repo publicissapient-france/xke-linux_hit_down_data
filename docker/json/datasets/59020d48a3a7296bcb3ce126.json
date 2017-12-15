@@ -1,0 +1,217 @@
+{
+  "badges": [],
+  "created_at": "2016-06-08T00:00:00",
+  "deleted": null,
+  "description": "Export des organisations fran\u00e7aises, espagnoles, italiennes, turques et bulgares",
+  "extras": {
+    "Fr\u00e9quence de mise \u00e0 jour": "Temps r\u00e9el",
+    "ckan:name": "organisations",
+    "harvest:domain": "opendata.data-ozwillo.org",
+    "harvest:last_update": "2017-04-27T17:24:56.033229",
+    "harvest:remote_id": "fa4aabbe-c80c-4d6a-ae59-f561bfcb930b",
+    "harvest:source_id": "57599de9c751df1a1dac31a0"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59020d48a3a7296bcb3ce126",
+  "last_modified": "2017-04-27T17:24:56.037000",
+  "last_update": "2017-04-27T17:24:56.032000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "56c4765fc751df27326c6ddf",
+    "logo": "https://www.data.gouv.fr/s/avatars/c3/f674ad6c354099a8166090b134da4a-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c3/f674ad6c354099a8166090b134da4a-100.png",
+    "name": "Ozwillo",
+    "page": "https://www.data.gouv.fr/fr/organizations/ozwillo/",
+    "slug": "ozwillo",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ozwillo/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/organisations/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-04-27T17:24:56.029000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-10-27T20:07:20.081000",
+        "check:status": 503,
+        "check:url": "https://opendata.data-ozwillo.org/dataset/fa4aabbe-c80c-4d6a-ae59-f561bfcb930b/resource/8b2d7f08-2824-4298-933d-234fda5b6f8e/download/export-8853394700918959568.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "8b2d7f08-2824-4298-933d-234fda5b6f8e",
+      "last_modified": "2017-03-03T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8b2d7f08-2824-4298-933d-234fda5b6f8e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-04-27T17:24:56.029000",
+      "title": "Liste des organisations",
+      "url": "https://opendata.data-ozwillo.org/dataset/fa4aabbe-c80c-4d6a-ae59-f561bfcb930b/resource/8b2d7f08-2824-4298-933d-234fda5b6f8e/download/export-8853394700918959568.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-27T17:24:56.029000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-11-16T16:23:58.021000",
+        "check:status": 503,
+        "check:url": "https://opendata.data-ozwillo.org/dataset/fa4aabbe-c80c-4d6a-ae59-f561bfcb930b/resource/db89cd30-233b-4093-8bea-cd6003f83a1a/download/export-4265975542563941042.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "db89cd30-233b-4093-8bea-cd6003f83a1a",
+      "last_modified": "2017-02-28T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/db89cd30-233b-4093-8bea-cd6003f83a1a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-04-27T17:24:56.029000",
+      "title": "Export des organisations fran\u00e7aises",
+      "url": "https://opendata.data-ozwillo.org/dataset/fa4aabbe-c80c-4d6a-ae59-f561bfcb930b/resource/db89cd30-233b-4093-8bea-cd6003f83a1a/download/export-4265975542563941042.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-27T17:24:56.029000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-10-27T20:07:26.057000",
+        "check:status": 503,
+        "check:url": "https://opendata.data-ozwillo.org/dataset/fa4aabbe-c80c-4d6a-ae59-f561bfcb930b/resource/e2bc587f-a166-4ea9-bf36-4c16b6a7975b/download/export-3805742717661086297.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e2bc587f-a166-4ea9-bf36-4c16b6a7975b",
+      "last_modified": "2016-07-25T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e2bc587f-a166-4ea9-bf36-4c16b6a7975b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-04-27T17:24:56.030000",
+      "title": "Export des organisations bulgares",
+      "url": "https://opendata.data-ozwillo.org/dataset/fa4aabbe-c80c-4d6a-ae59-f561bfcb930b/resource/e2bc587f-a166-4ea9-bf36-4c16b6a7975b/download/export-3805742717661086297.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-27T17:24:56.030000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-10-27T20:07:23.647000",
+        "check:status": 503,
+        "check:url": "https://opendata.data-ozwillo.org/dataset/fa4aabbe-c80c-4d6a-ae59-f561bfcb930b/resource/3d393e13-cd96-4d3a-a651-a7f115466cce/download/export-7745826816035607261.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "3d393e13-cd96-4d3a-a651-a7f115466cce",
+      "last_modified": "2016-07-25T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3d393e13-cd96-4d3a-a651-a7f115466cce",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-04-27T17:24:56.030000",
+      "title": "Export des organisations italiennes",
+      "url": "https://opendata.data-ozwillo.org/dataset/fa4aabbe-c80c-4d6a-ae59-f561bfcb930b/resource/3d393e13-cd96-4d3a-a651-a7f115466cce/download/export-7745826816035607261.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-27T17:24:56.030000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-10-27T20:07:26.090000",
+        "check:status": 503,
+        "check:url": "https://opendata.data-ozwillo.org/dataset/fa4aabbe-c80c-4d6a-ae59-f561bfcb930b/resource/1eeb1ed7-7bbb-4491-8de6-ff5ba60e7256/download/export-5591126490861646279.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "1eeb1ed7-7bbb-4491-8de6-ff5ba60e7256",
+      "last_modified": "2017-03-03T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1eeb1ed7-7bbb-4491-8de6-ff5ba60e7256",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-04-27T17:24:56.030000",
+      "title": "Export des organisations turques",
+      "url": "https://opendata.data-ozwillo.org/dataset/fa4aabbe-c80c-4d6a-ae59-f561bfcb930b/resource/1eeb1ed7-7bbb-4491-8de6-ff5ba60e7256/download/export-5591126490861646279.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-27T17:24:56.031000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-11-16T16:24:07.963000",
+        "check:status": 503,
+        "check:url": "https://opendata.data-ozwillo.org/dataset/fa4aabbe-c80c-4d6a-ae59-f561bfcb930b/resource/f566a359-b4bb-4318-866b-0edad148120d/download/upload"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "f566a359-b4bb-4318-866b-0edad148120d",
+      "last_modified": "2016-07-25T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f566a359-b4bb-4318-866b-0edad148120d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-04-27T17:24:56.032000",
+      "title": "Export des organisations espagnoles",
+      "url": "https://opendata.data-ozwillo.org/dataset/fa4aabbe-c80c-4d6a-ae59-f561bfcb930b/resource/f566a359-b4bb-4318-866b-0edad148120d/download/upload"
+    }
+  ],
+  "slug": "organisations",
+  "spatial": null,
+  "tags": [
+    "organisation"
+  ],
+  "temporal_coverage": null,
+  "title": "Organisations",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/organisations/"
+}

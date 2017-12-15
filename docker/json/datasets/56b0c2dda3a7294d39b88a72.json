@@ -1,0 +1,102 @@
+{
+  "badges": [],
+  "created_at": "2016-02-02T15:53:17.816000",
+  "deleted": null,
+  "description": "Budget Primitif 2012 pour la Ville de Toulouse",
+  "extras": {
+    "harvest:domain": "data.toulouse-metropole.fr",
+    "harvest:last_update": "2017-11-27T05:18:21.472338",
+    "harvest:remote_id": "budget-primitif-2012-ville-de-toulouse",
+    "harvest:source_id": "564c3680c751df607daad370",
+    "ods:has_records": true,
+    "ods:url": "https://data.toulouse-metropole.fr//explore/dataset/budget-primitif-2012-ville-de-toulouse/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "56b0c2dda3a7294d39b88a72",
+  "last_modified": "2017-11-27T05:18:21.474000",
+  "last_update": "2017-11-27T05:18:21.471000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb3a3a7292c64a78129",
+    "logo": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-100.jpg",
+    "name": "Toulouse m\u00e9trople",
+    "page": "https://www.data.gouv.fr/fr/organizations/toulouse-metrople/",
+    "slug": "toulouse-metrople",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/toulouse-metrople/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/budget-primitif-2012-ville-de-toulouse/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:18:21.471000",
+      "description": "- *Entit\u00e9 Juridique*: entite_juridique[text]\n- *D\u00e9cision budg\u00e9taire*: decision_budgetaire[text]\n- *Exercice*: exercice[text]\n- *Entit\u00e9 Financi\u00e8re*: entite_financiere[text]\n- *Nomenclature comptable*: nomenclature_comptable[text]\n- *Type de mouvements*: type_de_mouvements[text]\n- *Section*: section[text]\n- *Chapitre budg\u00e9taire*: chapitre_budgetaire[text]\n- *Libell\u00e9 Chapitre budg\u00e9taire*: libelle_chapitre_budgetaire[text]\n- *Chapitre par nature*: chapitre_par_nature[text]\n- *Libell\u00e9 chapitre par nature*: libelle_chapitre_par_nature[text]\n- *Nature comptable*: nature_comptable[text]\n- *Libell\u00e9 Nature comptable*: libelle_nature_comptable[text]\n- *Fonction*: fonction[text]\n- *Libell\u00e9 Fonction*: libelle_fonction[text]\n- *Mt D\u00e9penses*: mt_depenses[int]\n- *Mt Recettes*: mt_recettes[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "38b24f02-a712-4c85-ada7-d5108d9c90a3",
+      "last_modified": "2014-02-05T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/38b24f02-a712-4c85-ada7-d5108d9c90a3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:18:21.471000",
+      "title": "Export au format CSV",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/budget-primitif-2012-ville-de-toulouse/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:18:21.471000",
+      "description": "- *Entit\u00e9 Juridique*: entite_juridique[text]\n- *D\u00e9cision budg\u00e9taire*: decision_budgetaire[text]\n- *Exercice*: exercice[text]\n- *Entit\u00e9 Financi\u00e8re*: entite_financiere[text]\n- *Nomenclature comptable*: nomenclature_comptable[text]\n- *Type de mouvements*: type_de_mouvements[text]\n- *Section*: section[text]\n- *Chapitre budg\u00e9taire*: chapitre_budgetaire[text]\n- *Libell\u00e9 Chapitre budg\u00e9taire*: libelle_chapitre_budgetaire[text]\n- *Chapitre par nature*: chapitre_par_nature[text]\n- *Libell\u00e9 chapitre par nature*: libelle_chapitre_par_nature[text]\n- *Nature comptable*: nature_comptable[text]\n- *Libell\u00e9 Nature comptable*: libelle_nature_comptable[text]\n- *Fonction*: fonction[text]\n- *Libell\u00e9 Fonction*: libelle_fonction[text]\n- *Mt D\u00e9penses*: mt_depenses[int]\n- *Mt Recettes*: mt_recettes[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "8404cd8d-6c19-447e-a5ec-e432ee4bc1d8",
+      "last_modified": "2014-02-05T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8404cd8d-6c19-447e-a5ec-e432ee4bc1d8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:18:21.471000",
+      "title": "Export au format JSON",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/budget-primitif-2012-ville-de-toulouse/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "budget-primitif-2012-ville-de-toulouse",
+  "spatial": null,
+  "tags": [
+    "budget",
+    "finance",
+    "primitif",
+    "toulouse"
+  ],
+  "temporal_coverage": null,
+  "title": "Budget Primitif 2012 - Ville de Toulouse",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/budget-primitif-2012-ville-de-toulouse/"
+}

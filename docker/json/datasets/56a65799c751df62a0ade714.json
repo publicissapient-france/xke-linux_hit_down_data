@@ -1,0 +1,79 @@
+{
+  "badges": [],
+  "created_at": "2016-01-25T18:12:57.204000",
+  "deleted": null,
+  "description": "Liste des Elus de la Communaut\u00e9 d'Agglom\u00e9ration Bar-le-Duc Sud Meuse avec leurs d\u00e9l\u00e9gations",
+  "extras": {},
+  "frequency": "punctual",
+  "frequency_date": "2016-01-25T00:00:00",
+  "id": "56a65799c751df62a0ade714",
+  "last_modified": "2016-02-08T15:38:36.675000",
+  "last_update": "2016-01-25T18:13:09.591000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 1,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "56b8a4ffc751df02a29f9deb",
+    "logo": "https://www.data.gouv.fr/s/avatars/50/57ae17a70e4c8e96dc74e50f80c748-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/50/57ae17a70e4c8e96dc74e50f80c748-100.jpg",
+    "name": "Communaut\u00e9 d'Agglom\u00e9ration Bar-le-Duc Sud Meuse",
+    "page": "https://www.data.gouv.fr/fr/organizations/communaute-dagglomeration-bar-le-duc-sud-meuse/",
+    "slug": "communaute-dagglomeration-bar-le-duc-sud-meuse",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/communaute-dagglomeration-bar-le-duc-sud-meuse/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-elus-communautaires-meuse-grand-sud/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "b91e337c09fefd3e688188f71bce4bc1770f1b0b"
+      },
+      "created_at": "2016-02-02T16:19:33.489000",
+      "description": "",
+      "extras": {},
+      "filesize": 7865,
+      "filetype": "file",
+      "format": "csv",
+      "id": "65316bd4-699e-4826-8969-f6ea030d1bf6",
+      "last_modified": "2016-02-02T16:19:33.489000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/65316bd4-699e-4826-8969-f6ea030d1bf6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 4
+      },
+      "mime": "text/csv",
+      "published": "2016-01-25T18:13:09.591000",
+      "title": "Liste des Elus",
+      "url": "https://www.data.gouv.fr/s/resources/liste-des-elus-communautaires-meuse-grand-sud/20160202-161030/Liste_des_elus_Agglo.csv"
+    }
+  ],
+  "slug": "liste-des-elus-communautaires-meuse-grand-sud",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:epci",
+    "zones": []
+  },
+  "tags": [
+    "democratie",
+    "elu-local",
+    "elus"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des Elus Communautaires Meuse Grand Sud",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-elus-communautaires-meuse-grand-sud/"
+}

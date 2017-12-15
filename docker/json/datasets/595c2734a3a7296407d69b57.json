@@ -1,0 +1,148 @@
+{
+  "badges": [],
+  "created_at": "2017-07-05T01:39:32.098000",
+  "deleted": null,
+  "description": "Liste et carte\u00a0des stations Velib, incluant\u00a0la disponibilit\u00e9 temps r\u00e9el des v\u00e9los et des bornes.\n\nOn peut distinguer 2 parties, les donn\u00e9es statiques et les donn\u00e9es dynamiques.\n\n#### Donn\u00e9es statiques\n\n  * `number` le num\u00e9ro de la station. Attention, ce n'est pas un id, ce num\u00e9ro n'est unique qu'au sein d'un contrat\n  * `contract_name` le nom du contrat de cette station\n  * `name` le nom de la station\n  * `address` adresse indicative de la station, les donn\u00e9es \u00e9tant brutes, parfois il s'agit plus d'un commentaire que d'une adresse.\n  * `position` les coordonn\u00e9es au format WGS84\n  * `banking` indique la pr\u00e9sence d'un terminal de paiement\n  * `bonus` indique s'il s'agit d'une station bonus\n\n\n\n#### Donn\u00e9es dynamiques\n\n  * `status` indique l'\u00e9tat de la station, peut \u00eatre `CLOSED` ou `OPEN`\n  * `bike_stands` le nombre de points d'attache op\u00e9rationnels\n  * `available_bike_stands` le nombre de points d'attache disponibles pour y ranger un v\u00e9lo\n  * `available_bikes` le nombre de v\u00e9los disponibles et op\u00e9rationnels\n  * `last_update` timestamp indiquant le moment de la derni\u00e8re mise \u00e0 jour en millisecondes depuis Epoch",
+  "extras": {
+    "harvest:domain": "data.issy.com",
+    "harvest:last_update": "2017-11-27T05:07:15.298727",
+    "harvest:remote_id": "jcdecaux-bike-stations-data",
+    "harvest:source_id": "595c266188ee382c7517add5",
+    "ods:has_records": true,
+    "ods:references": "https://developer.jcdecaux.com/#/home",
+    "ods:url": "https://data.issy.com//explore/dataset/jcdecaux-bike-stations-data/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "595c2734a3a7296407d69b57",
+  "last_modified": "2017-11-27T05:07:15.301000",
+  "last_update": "2017-11-27T05:07:15.298000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb7a3a7292c64a78145",
+    "logo": "https://www.data.gouv.fr/s/avatars/b9/beecacecbd4d42ac10ef244f11e44e-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b9/beecacecbd4d42ac10ef244f11e44e-100.png",
+    "name": "Ville d'Issy-les-Moulineaux",
+    "page": "https://www.data.gouv.fr/fr/organizations/ville-d-issy-les-moulineaux/",
+    "slug": "ville-d-issy-les-moulineaux",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ville-d-issy-les-moulineaux/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/stations-velib-sur-le-territoire-de-grand-paris-seine-ouest/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:07:15.297000",
+      "description": "- *number*: number[int]\n- *name*: name[text]\n- *address*: address[text]\n- *position*: position[geo_point_2d]\n- *banking*: banking[text]\n- *bonus*: bonus[text]\n- *status*: status[text]\n- *contract_name*: contract_name[text]\n- *bike_stands*: bike_stands[int]\n- *available_bike_stands*: available_bike_stands[int]\n- *available_bikes*: available_bikes[int]\n- *last_update*: last_update[datetime]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e9e22252-9b51-40ee-bab4-fcfa85351d12",
+      "last_modified": "2015-02-10T11:53:27",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e9e22252-9b51-40ee-bab4-fcfa85351d12",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:07:15.297000",
+      "title": "Export au format CSV",
+      "url": "https://data.issy.com//explore/dataset/jcdecaux-bike-stations-data/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:07:15.297000",
+      "description": "- *number*: number[int]\n- *name*: name[text]\n- *address*: address[text]\n- *position*: position[geo_point_2d]\n- *banking*: banking[text]\n- *bonus*: bonus[text]\n- *status*: status[text]\n- *contract_name*: contract_name[text]\n- *bike_stands*: bike_stands[int]\n- *available_bike_stands*: available_bike_stands[int]\n- *available_bikes*: available_bikes[int]\n- *last_update*: last_update[datetime]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "ea6ac8f6-b299-48ad-b30d-461aef25c46e",
+      "last_modified": "2015-02-10T11:53:27",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ea6ac8f6-b299-48ad-b30d-461aef25c46e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:07:15.297000",
+      "title": "Export au format JSON",
+      "url": "https://data.issy.com//explore/dataset/jcdecaux-bike-stations-data/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:07:15.297000",
+      "description": "- *number*: number[int]\n- *name*: name[text]\n- *address*: address[text]\n- *position*: position[geo_point_2d]\n- *banking*: banking[text]\n- *bonus*: bonus[text]\n- *status*: status[text]\n- *contract_name*: contract_name[text]\n- *bike_stands*: bike_stands[int]\n- *available_bike_stands*: available_bike_stands[int]\n- *available_bikes*: available_bikes[int]\n- *last_update*: last_update[datetime]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "650a8c42-fced-4bff-9583-317c3151e7a3",
+      "last_modified": "2015-02-10T11:53:27",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/650a8c42-fced-4bff-9583-317c3151e7a3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:07:15.297000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.issy.com//explore/dataset/jcdecaux-bike-stations-data/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:07:15.297000",
+      "description": "- *number*: number[int]\n- *name*: name[text]\n- *address*: address[text]\n- *position*: position[geo_point_2d]\n- *banking*: banking[text]\n- *bonus*: bonus[text]\n- *status*: status[text]\n- *contract_name*: contract_name[text]\n- *bike_stands*: bike_stands[int]\n- *available_bike_stands*: available_bike_stands[int]\n- *available_bikes*: available_bikes[int]\n- *last_update*: last_update[datetime]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "65ab5d44-7ebf-4263-a9c7-a61d78042428",
+      "last_modified": "2015-02-10T11:53:27",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/65ab5d44-7ebf-4263-a9c7-a61d78042428",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:07:15.298000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.issy.com//explore/dataset/jcdecaux-bike-stations-data/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "stations-velib-sur-le-territoire-de-grand-paris-seine-ouest",
+  "spatial": null,
+  "tags": [
+    "deplacements",
+    "mobilite",
+    "temps-reel",
+    "transport",
+    "transports",
+    "velos"
+  ],
+  "temporal_coverage": null,
+  "title": "Stations Velib sur le territoire de Grand Paris Seine Ouest",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/stations-velib-sur-le-territoire-de-grand-paris-seine-ouest/"
+}

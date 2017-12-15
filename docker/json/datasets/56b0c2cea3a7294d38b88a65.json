@@ -1,0 +1,148 @@
+{
+  "badges": [],
+  "created_at": "2016-02-02T15:53:02.142000",
+  "deleted": null,
+  "description": "Localisation des jardins partag\u00e9s existants et projet\u00e9s sur la commune de Toulouse. Pour en savoir plus : http://www.toulouse.fr/web/environnement/jardins-partages/jardinons-toulouse",
+  "extras": {
+    "harvest:domain": "data.toulouse-metropole.fr",
+    "harvest:last_update": "2017-11-27T05:17:25.025668",
+    "harvest:remote_id": "jardins-partages",
+    "harvest:source_id": "564c3680c751df607daad370",
+    "ods:has_records": true,
+    "ods:url": "https://data.toulouse-metropole.fr//explore/dataset/jardins-partages/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "56b0c2cea3a7294d38b88a65",
+  "last_modified": "2017-11-27T05:17:25.027000",
+  "last_update": "2017-11-27T05:17:25.025000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb3a3a7292c64a78129",
+    "logo": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-100.jpg",
+    "name": "Toulouse m\u00e9trople",
+    "page": "https://www.data.gouv.fr/fr/organizations/toulouse-metrople/",
+    "slug": "toulouse-metrople",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/toulouse-metrople/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/jardins-partages-toulouse/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:17:25.024000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *id*: id[text]\n- *nom*: nom[text]\n- *adresse*: adresse[text]\n- *cp*: cp[text]\n- *commune*: commune[text]\n- *porteur_projet*: porteur_projet[text]\n- *Slogan*: slogan[text]\n- *etat*: etat[text]\n- *Ref_Cadastre*: ref_cadastre[text]\n- *Surface*: surface[text]\n- *Mail*: mail[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "5a537ccb-a5f8-4bba-a6ab-8d6b7f1e6ec7",
+      "last_modified": "2015-02-13T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5a537ccb-a5f8-4bba-a6ab-8d6b7f1e6ec7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:17:25.024000",
+      "title": "Export au format CSV",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/jardins-partages/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:17:25.024000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *id*: id[text]\n- *nom*: nom[text]\n- *adresse*: adresse[text]\n- *cp*: cp[text]\n- *commune*: commune[text]\n- *porteur_projet*: porteur_projet[text]\n- *Slogan*: slogan[text]\n- *etat*: etat[text]\n- *Ref_Cadastre*: ref_cadastre[text]\n- *Surface*: surface[text]\n- *Mail*: mail[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "1aed611f-a749-4a55-940b-fadd1e079bf9",
+      "last_modified": "2015-02-13T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1aed611f-a749-4a55-940b-fadd1e079bf9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:17:25.024000",
+      "title": "Export au format JSON",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/jardins-partages/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:17:25.024000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *id*: id[text]\n- *nom*: nom[text]\n- *adresse*: adresse[text]\n- *cp*: cp[text]\n- *commune*: commune[text]\n- *porteur_projet*: porteur_projet[text]\n- *Slogan*: slogan[text]\n- *etat*: etat[text]\n- *Ref_Cadastre*: ref_cadastre[text]\n- *Surface*: surface[text]\n- *Mail*: mail[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "1b36be4a-fca7-4332-a4f4-0d5173121058",
+      "last_modified": "2015-02-13T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1b36be4a-fca7-4332-a4f4-0d5173121058",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:17:25.024000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/jardins-partages/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:17:25.025000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *id*: id[text]\n- *nom*: nom[text]\n- *adresse*: adresse[text]\n- *cp*: cp[text]\n- *commune*: commune[text]\n- *porteur_projet*: porteur_projet[text]\n- *Slogan*: slogan[text]\n- *etat*: etat[text]\n- *Ref_Cadastre*: ref_cadastre[text]\n- *Surface*: surface[text]\n- *Mail*: mail[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "d84ba0e3-e67a-4ae1-b08b-44c93de1a00b",
+      "last_modified": "2015-02-13T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d84ba0e3-e67a-4ae1-b08b-44c93de1a00b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:17:25.025000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/jardins-partages/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "jardins-partages-toulouse",
+  "spatial": null,
+  "tags": [
+    "association",
+    "citoyen",
+    "demarche-participative",
+    "environnement",
+    "jardin",
+    "partage"
+  ],
+  "temporal_coverage": null,
+  "title": "Jardins partag\u00e9s - Toulouse",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/jardins-partages-toulouse/"
+}

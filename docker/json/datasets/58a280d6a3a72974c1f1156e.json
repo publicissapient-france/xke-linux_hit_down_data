@@ -1,0 +1,147 @@
+{
+  "badges": [],
+  "created_at": "2017-02-14T05:00:22.933000",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es restitue le nombre de mises en service par segment de clients R\u00e9sidentiel BT et Professionnel BT aux mailles d\u00e9partement, r\u00e9gion et Enedis. Le r\u00e9seau exploit\u00e9 par Enedis exclut les ELD et SEI. \n\nVisualisez aussi les donn\u00e9es de mises en service sur installations existantes R\u00e9sidentiel BT et Professionnel BT sur notre [site internet](http://www.enedis.fr/mises-en-service-sur-installations-existantes).",
+  "extras": {
+    "harvest:domain": "erdf.opendatasoft.com",
+    "harvest:last_update": "2017-11-27T05:00:58.056211",
+    "harvest:remote_id": "mises-en-service-res_bt-et-pro_bt",
+    "harvest:source_id": "560d93b3c751df40ee756895",
+    "ods:has_records": true,
+    "ods:url": "https://erdf.opendatasoft.com//explore/dataset/mises-en-service-res_bt-et-pro_bt/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "58a280d6a3a72974c1f1156e",
+  "last_modified": "2017-11-27T05:00:58.057000",
+  "last_update": "2017-11-27T05:00:58.055000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "ENEDIS",
+    "class": "Organization",
+    "id": "560d929ac751df40ef756894",
+    "logo": "https://www.data.gouv.fr/s/avatars/1f/42d2d1de184464bff9501b4d99461b-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/1f/42d2d1de184464bff9501b4d99461b-100.jpg",
+    "name": "ENEDIS",
+    "page": "https://www.data.gouv.fr/fr/organizations/electricite-reseau-distribution-france/",
+    "slug": "electricite-reseau-distribution-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/electricite-reseau-distribution-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/nombre-de-mises-en-service-sur-installations-existantes-residentiel-bt-et-professionnel-bt/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:00:58.054000",
+      "description": "- *Maille*: maille[text]\n- *D\u00e9partement/R\u00e9gion/Enedis*: departement_region_enedis[text]\n- *Ann\u00e9e*: annee[date]\n- *Segmentation client*: segmentation_client[text]\n- *Nombre de mises en service*: nombre_de_mises_en_service[int]\n- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "4aee92e3-f3d9-4f13-85a5-e32ef734cb93",
+      "last_modified": "2017-02-13T16:14:50",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4aee92e3-f3d9-4f13-85a5-e32ef734cb93",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:00:58.054000",
+      "title": "Export au format CSV",
+      "url": "https://erdf.opendatasoft.com//explore/dataset/mises-en-service-res_bt-et-pro_bt/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:00:58.054000",
+      "description": "- *Maille*: maille[text]\n- *D\u00e9partement/R\u00e9gion/Enedis*: departement_region_enedis[text]\n- *Ann\u00e9e*: annee[date]\n- *Segmentation client*: segmentation_client[text]\n- *Nombre de mises en service*: nombre_de_mises_en_service[int]\n- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "3f7f4d27-a0c4-446e-81c4-58d102444f4c",
+      "last_modified": "2017-02-13T16:14:50",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3f7f4d27-a0c4-446e-81c4-58d102444f4c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:00:58.054000",
+      "title": "Export au format JSON",
+      "url": "https://erdf.opendatasoft.com//explore/dataset/mises-en-service-res_bt-et-pro_bt/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:00:58.054000",
+      "description": "- *Maille*: maille[text]\n- *D\u00e9partement/R\u00e9gion/Enedis*: departement_region_enedis[text]\n- *Ann\u00e9e*: annee[date]\n- *Segmentation client*: segmentation_client[text]\n- *Nombre de mises en service*: nombre_de_mises_en_service[int]\n- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "12af9300-be2a-47b1-820a-3b62663c4c76",
+      "last_modified": "2017-02-13T16:14:50",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/12af9300-be2a-47b1-820a-3b62663c4c76",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:00:58.054000",
+      "title": "Export au format GeoJSON",
+      "url": "https://erdf.opendatasoft.com//explore/dataset/mises-en-service-res_bt-et-pro_bt/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:00:58.055000",
+      "description": "- *Maille*: maille[text]\n- *D\u00e9partement/R\u00e9gion/Enedis*: departement_region_enedis[text]\n- *Ann\u00e9e*: annee[date]\n- *Segmentation client*: segmentation_client[text]\n- *Nombre de mises en service*: nombre_de_mises_en_service[int]\n- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "bda2c9d7-6a90-4b90-9786-9ad2452419e5",
+      "last_modified": "2017-02-13T16:14:50",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/bda2c9d7-6a90-4b90-9786-9ad2452419e5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:00:58.055000",
+      "title": "Export au format Shapefile",
+      "url": "https://erdf.opendatasoft.com//explore/dataset/mises-en-service-res_bt-et-pro_bt/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "nombre-de-mises-en-service-sur-installations-existantes-residentiel-bt-et-professionnel-bt",
+  "spatial": null,
+  "tags": [
+    "conduite-et-operations",
+    "enedis",
+    "mises-en-service",
+    "professionnel-bt",
+    "residentiel-bt"
+  ],
+  "temporal_coverage": null,
+  "title": "Nombre de mises en service sur installations existantes R\u00e9sidentiel BT et Professionnel BT",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/nombre-de-mises-en-service-sur-installations-existantes-residentiel-bt-et-professionnel-bt/"
+}

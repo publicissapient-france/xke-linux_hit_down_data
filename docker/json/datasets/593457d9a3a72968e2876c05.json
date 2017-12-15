@@ -1,0 +1,388 @@
+{
+  "badges": [],
+  "created_at": "2017-02-17T00:00:00",
+  "deleted": null,
+  "description": "Donn\u00e9es concernant l'\u00e9tat civil de la commune de Brocas",
+  "extras": {
+    "ckan:name": "commune-de-brocas-etat-civil1",
+    "contact_email": "mailto:contact@brocas.fr",
+    "contact_name": "Mairie de Brocas",
+    "contact_uri": "https://datacat.datalocale.fr/414602",
+    "guid": "https://datacat.datalocale.fr/416190",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-06-06T16:38:45.137930",
+    "harvest:remote_id": "cc51f52b-3910-4a2f-a2d7-2fc50f41cd09",
+    "harvest:source_id": "59365a72c751df28ed47c9eb",
+    "identifier": "cd873b73-4002-4f08-9b1f-2b764ab7e1c7",
+    "issued": "2013-08-16T20:17:35+00:00",
+    "modified": "2016-07-18T09:21:06.670220+00:00",
+    "publisher_email": "mailto:contact@brocas.fr",
+    "publisher_name": "Mairie de Brocas",
+    "publisher_uri": "https://datacat.datalocale.fr/414602",
+    "theme": "[\"famille\"]",
+    "uri": "https://datacat.datalocale.fr/416190"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "593457d9a3a72968e2876c05",
+  "last_modified": "2017-06-06T16:38:45.139000",
+  "last_update": "2017-06-06T16:38:45.136000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": null,
+  "owner": {
+    "avatar": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-original.jpg",
+    "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-100.jpg",
+    "class": "User",
+    "first_name": "Ressourcerie",
+    "id": "534fff47a3a7292c64a77adc",
+    "last_name": "datalocale",
+    "page": "https://www.data.gouv.fr/fr/users/ressourcerie-datalocale/",
+    "slug": "ressourcerie-datalocale",
+    "uri": "https://www.data.gouv.fr/api/1/users/ressourcerie-datalocale/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/commune-de-brocas-etat-civil1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:25.014000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-31T23:55:21.760000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416194/raw/ETACV_Naissance-2008-2012_bro_v1.0.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "ea436f46-61ac-4a50-85f2-e6700670db5e",
+      "last_modified": "2017-06-04T20:56:25.014000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ea436f46-61ac-4a50-85f2-e6700670db5e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-06-04T20:56:25.014000",
+      "title": "Evolution des naissances 2008-2012",
+      "url": "https://datacat.datalocale.fr/file/416194/raw/ETACV_Naissance-2008-2012_bro_v1.0.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:25.014000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-31T23:55:22.175000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416200/raw/ETACV_Deces-2008-2012_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a22eb567-6a23-4b99-93e6-9d548d68e635",
+      "last_modified": "2017-06-04T20:56:25.014000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a22eb567-6a23-4b99-93e6-9d548d68e635",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:56:25.014000",
+      "title": "Evolution des d\u00e9c\u00e8s 2008-2012",
+      "url": "https://datacat.datalocale.fr/file/416200/raw/ETACV_Deces-2008-2012_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:25.015000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-31T23:55:25.710000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416198/raw/ETACV_Mariage-2008-2012_bro_v1.0.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "7e703957-895e-4f80-988e-5c0d6b48b7bf",
+      "last_modified": "2017-06-04T20:56:25.015000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7e703957-895e-4f80-988e-5c0d6b48b7bf",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-06-04T20:56:25.015000",
+      "title": "Evolution des mariages 2008-2012",
+      "url": "https://datacat.datalocale.fr/file/416198/raw/ETACV_Mariage-2008-2012_bro_v1.0.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:25.015000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T14:51:28.743000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416202/raw/ETACV_Deces-2008-2012_bro_v1.0.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "4ed2a932-5ecc-4e8c-880a-11d9245b3439",
+      "last_modified": "2017-06-04T20:56:25.015000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4ed2a932-5ecc-4e8c-880a-11d9245b3439",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-06-04T20:56:25.015000",
+      "title": "Evolution des d\u00e9c\u00e8s 2008-2012",
+      "url": "https://datacat.datalocale.fr/file/416202/raw/ETACV_Deces-2008-2012_bro_v1.0.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:25.015000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-31T23:55:15.782000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416196/raw/ETACV_Mariage-2008-2012_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "efc41300-fd39-4883-874c-57a8de4b2c0f",
+      "last_modified": "2017-06-04T20:56:25.016000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/efc41300-fd39-4883-874c-57a8de4b2c0f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:56:25.016000",
+      "title": "Evolution des mariages 2008-2012",
+      "url": "https://datacat.datalocale.fr/file/416196/raw/ETACV_Mariage-2008-2012_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:25.016000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-31T23:55:27.438000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416192/raw/ETACV_Naissance-2008-2012_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "8e5f39eb-1d4a-4eef-963c-e72dfc8f28ef",
+      "last_modified": "2017-06-04T20:56:25.020000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8e5f39eb-1d4a-4eef-963c-e72dfc8f28ef",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:56:25.020000",
+      "title": "Evolution des naissances 2008-2012",
+      "url": "https://datacat.datalocale.fr/file/416192/raw/ETACV_Naissance-2008-2012_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:38:45.126000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-17T21:59:12.086000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416192/raw/ETACV_Naissance-2008-2012_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a9ef26f2-1afb-46e9-ba26-3f1781c585de",
+      "last_modified": "2017-06-06T16:38:45.126000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a9ef26f2-1afb-46e9-ba26-3f1781c585de",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:38:45.126000",
+      "title": "Evolution des naissances 2008-2012",
+      "url": "https://datacat.datalocale.fr/file/416192/raw/ETACV_Naissance-2008-2012_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:38:45.127000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:52:10.067000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416200/raw/ETACV_Deces-2008-2012_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e261a271-3ca2-4844-80df-3b040939573f",
+      "last_modified": "2017-06-06T16:38:45.127000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e261a271-3ca2-4844-80df-3b040939573f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:38:45.127000",
+      "title": "Evolution des d\u00e9c\u00e8s 2008-2012",
+      "url": "https://datacat.datalocale.fr/file/416200/raw/ETACV_Deces-2008-2012_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:38:45.127000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:52:10.579000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416194/raw/ETACV_Naissance-2008-2012_bro_v1.0.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "383f0813-7467-4dd8-a34b-3791db99d123",
+      "last_modified": "2017-06-06T16:38:45.127000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/383f0813-7467-4dd8-a34b-3791db99d123",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-06-06T16:38:45.127000",
+      "title": "Evolution des naissances 2008-2012",
+      "url": "https://datacat.datalocale.fr/file/416194/raw/ETACV_Naissance-2008-2012_bro_v1.0.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:38:45.127000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "8b8702fa-b0fe-4dfe-a39d-8ba7c5136963",
+      "last_modified": "2017-06-06T16:38:45.128000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8b8702fa-b0fe-4dfe-a39d-8ba7c5136963",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:38:45.128000",
+      "title": "Evolution des mariages 2008-2012",
+      "url": "https://datacat.datalocale.fr/file/416196/raw/ETACV_Mariage-2008-2012_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:38:45.128000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-17T21:59:12.086000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416202/raw/ETACV_Deces-2008-2012_bro_v1.0.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "ad48222f-cb42-42da-8d47-f354a524a0a7",
+      "last_modified": "2017-06-06T16:38:45.136000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ad48222f-cb42-42da-8d47-f354a524a0a7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-06-06T16:38:45.136000",
+      "title": "Evolution des d\u00e9c\u00e8s 2008-2012",
+      "url": "https://datacat.datalocale.fr/file/416202/raw/ETACV_Deces-2008-2012_bro_v1.0.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:38:45.136000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-17T21:59:12.085000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416198/raw/ETACV_Mariage-2008-2012_bro_v1.0.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "d129b7ac-d8de-43a9-ba7b-7b62e616133f",
+      "last_modified": "2017-06-06T16:38:45.137000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d129b7ac-d8de-43a9-ba7b-7b62e616133f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-06-06T16:38:45.136000",
+      "title": "Evolution des mariages 2008-2012",
+      "url": "https://datacat.datalocale.fr/file/416198/raw/ETACV_Mariage-2008-2012_bro_v1.0.ods"
+    }
+  ],
+  "slug": "commune-de-brocas-etat-civil1",
+  "spatial": null,
+  "tags": [
+    "brocas",
+    "deces",
+    "etat-civil",
+    "mariages",
+    "naissances"
+  ],
+  "temporal_coverage": null,
+  "title": "Commune de Brocas : Etat civil",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/commune-de-brocas-etat-civil1/"
+}

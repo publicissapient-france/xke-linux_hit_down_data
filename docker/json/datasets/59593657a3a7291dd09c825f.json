@@ -1,0 +1,146 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T20:07:19.816000",
+  "deleted": null,
+  "description": "Liste des triages du R\u00e9seau Ferr\u00e9 National.\n\nCe jeu de donn\u00e9e liste les triages du r\u00e9seau.\n\nCertains triages ont \u00e9t\u00e9 d\u00e9class\u00e9s et se retrouvent dans la liste des chantiers (\u00e9tablissements qui font du triage).\n\nCe jeu publie les donn\u00e9es en l\u2019\u00e9tat des bases \u00e0 la date de publication. \n\nCes objets sont localis\u00e9s par leur point d\u2019entr\u00e9e sur le r\u00e9seau. Ils peuvent \u00eatre de ce fait localis\u00e9s soit directement sur une ligne, soit sur un autre objet (lui-m\u00eame localis\u00e9 sur une ligne).\n\nLorsqu\u2019un \u00e9l\u00e9ment se trouve \u00e0 proximit\u00e9 de plusieurs lignes, il est projet\u00e9 sur les diff\u00e9rentes lignes.\n\nLes coordonn\u00e9es sont exprim\u00e9es en WGS84 (EPSG:3857).",
+  "extras": {
+    "harvest:domain": "ressources.data.sncf.com",
+    "harvest:last_update": "2017-11-27T05:01:33.062697",
+    "harvest:remote_id": "liste-des-triages",
+    "harvest:source_id": "563dd01f88ee386a21e72046",
+    "ods:has_records": true,
+    "ods:url": "https://ressources.data.sncf.com/explore/dataset/liste-des-triages/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59593657a3a7291dd09c825f",
+  "last_modified": "2017-11-27T05:01:33.065000",
+  "last_update": "2017-11-27T05:01:33.062000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb0a3a7292c64a78115",
+    "logo": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-100.png",
+    "name": "SNCF",
+    "page": "https://www.data.gouv.fr/fr/organizations/sncf/",
+    "slug": "sncf",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/sncf/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-triages/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:01:33.061000",
+      "description": "- *Identifiant*: identifiant[double]\n- *Mn\u00e9mo*: mnemo[text]\n- *Libell\u00e9 SAF*: libelle_saf[text]\n- *Ligne*: ligne[text]\n- *Rang*: rang[double]\n- *PK*: pk[text]\n- *X (Lambert 93)*: x_lambert_93[double]\n- *Y (Lambert 93)*: y_lambert_93[double]\n- *X (WGS84)*: x_wgs84[double]\n- *Y (WGS84)*: y_wgs84[double]\n- *coordonnees_geo*: coordonnees_geo[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f2c57d23-f88e-4fc4-9f46-ffeec2dba4dd",
+      "last_modified": "2017-03-28T15:03:15",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f2c57d23-f88e-4fc4-9f46-ffeec2dba4dd",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:01:33.061000",
+      "title": "Export au format CSV",
+      "url": "https://ressources.data.sncf.com/explore/dataset/liste-des-triages/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:01:33.061000",
+      "description": "- *Identifiant*: identifiant[double]\n- *Mn\u00e9mo*: mnemo[text]\n- *Libell\u00e9 SAF*: libelle_saf[text]\n- *Ligne*: ligne[text]\n- *Rang*: rang[double]\n- *PK*: pk[text]\n- *X (Lambert 93)*: x_lambert_93[double]\n- *Y (Lambert 93)*: y_lambert_93[double]\n- *X (WGS84)*: x_wgs84[double]\n- *Y (WGS84)*: y_wgs84[double]\n- *coordonnees_geo*: coordonnees_geo[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "021fdfa9-506c-414e-9df7-bcfb7bc830d5",
+      "last_modified": "2017-03-28T15:03:15",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/021fdfa9-506c-414e-9df7-bcfb7bc830d5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:01:33.061000",
+      "title": "Export au format JSON",
+      "url": "https://ressources.data.sncf.com/explore/dataset/liste-des-triages/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:01:33.061000",
+      "description": "- *Identifiant*: identifiant[double]\n- *Mn\u00e9mo*: mnemo[text]\n- *Libell\u00e9 SAF*: libelle_saf[text]\n- *Ligne*: ligne[text]\n- *Rang*: rang[double]\n- *PK*: pk[text]\n- *X (Lambert 93)*: x_lambert_93[double]\n- *Y (Lambert 93)*: y_lambert_93[double]\n- *X (WGS84)*: x_wgs84[double]\n- *Y (WGS84)*: y_wgs84[double]\n- *coordonnees_geo*: coordonnees_geo[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "a86fbc66-b908-4b83-95aa-ceeb53432454",
+      "last_modified": "2017-03-28T15:03:15",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a86fbc66-b908-4b83-95aa-ceeb53432454",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:01:33.061000",
+      "title": "Export au format GeoJSON",
+      "url": "https://ressources.data.sncf.com/explore/dataset/liste-des-triages/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:01:33.062000",
+      "description": "- *Identifiant*: identifiant[double]\n- *Mn\u00e9mo*: mnemo[text]\n- *Libell\u00e9 SAF*: libelle_saf[text]\n- *Ligne*: ligne[text]\n- *Rang*: rang[double]\n- *PK*: pk[text]\n- *X (Lambert 93)*: x_lambert_93[double]\n- *Y (Lambert 93)*: y_lambert_93[double]\n- *X (WGS84)*: x_wgs84[double]\n- *Y (WGS84)*: y_wgs84[double]\n- *coordonnees_geo*: coordonnees_geo[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "4e85bcce-92a8-4f2f-bb13-4a2ad381771e",
+      "last_modified": "2017-03-28T15:03:15",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4e85bcce-92a8-4f2f-bb13-4a2ad381771e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:01:33.062000",
+      "title": "Export au format Shapefile",
+      "url": "https://ressources.data.sncf.com/explore/dataset/liste-des-triages/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "liste-des-triages",
+  "spatial": null,
+  "tags": [
+    "description-du-reseau",
+    "geolocalisation",
+    "infrastructure",
+    "sncf-reseau",
+    "triages"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des triages",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-triages/"
+}

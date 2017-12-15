@@ -1,0 +1,175 @@
+{
+  "badges": [],
+  "created_at": "2017-02-17T00:00:00",
+  "deleted": null,
+  "description": "Nombre de r\u00e9f\u00e9rendum d'initiative locale pour 100 000 habitants.",
+  "extras": {
+    "ckan:name": "nombre-de-referendum-dinitiative-locale-pour-100-000-habitants1",
+    "contact_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "contact_name": "Mission Agenda 21",
+    "contact_uri": "https://datacat.datalocale.fr/414579",
+    "guid": "https://datacat.datalocale.fr/414621",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-06-06T16:40:52.138354",
+    "harvest:remote_id": "8f36480b-67a0-4905-88a2-babae6e12f3f",
+    "harvest:source_id": "59365a72c751df28ed47c9eb",
+    "identifier": "09f19bbf-d0b6-4796-ae19-5af4bcd47cea",
+    "issued": "2013-08-27T09:42:11+00:00",
+    "modified": "2016-07-18T09:21:04.973073+00:00",
+    "publisher_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "publisher_name": "dgsd-a21",
+    "publisher_uri": "https://datacat.datalocale.fr/414578",
+    "theme": "[\"r\u00e9f\u00e9rendum\"]",
+    "uri": "https://datacat.datalocale.fr/414621"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5934584fa3a72968e1876c75",
+  "last_modified": "2017-06-06T16:40:52.141000",
+  "last_update": "2017-06-06T16:40:52.136000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": null,
+  "owner": {
+    "avatar": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-original.jpg",
+    "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-100.jpg",
+    "class": "User",
+    "first_name": "Ressourcerie",
+    "id": "534fff47a3a7292c64a77adc",
+    "last_name": "datalocale",
+    "page": "https://www.data.gouv.fr/fr/users/ressourcerie-datalocale/",
+    "slug": "ressourcerie-datalocale",
+    "uri": "https://www.data.gouv.fr/api/1/users/ressourcerie-datalocale/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/nombre-de-referendum-dinitiative-locale-pour-100-000-habitants1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:58:23.404000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-27T00:56:45.316000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414623/raw/2013-09-02-095305nb-referundum_initiative_locale.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "817fa8f0-4109-4d9c-a522-f867e1564dd4",
+      "last_modified": "2017-06-04T20:58:23.405000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/817fa8f0-4109-4d9c-a522-f867e1564dd4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:58:23.405000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414623/raw/2013-09-02-095305nb-referundum_initiative_locale.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:58:23.405000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-27T02:59:00.605000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414625/raw/2013-09-02-095305nb-referundum_initiative_localede.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "7400ebdc-8707-4ab5-a79b-5017d1484f41",
+      "last_modified": "2017-06-04T20:58:23.408000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7400ebdc-8707-4ab5-a79b-5017d1484f41",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-06-04T20:58:23.405000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414625/raw/2013-09-02-095305nb-referundum_initiative_localede.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:40:52.134000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-27T02:59:02.216000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414623/raw/2013-09-02-095305nb-referundum_initiative_locale.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f46a366a-a377-43c5-a00a-6d2585feaca5",
+      "last_modified": "2017-06-06T16:40:52.135000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f46a366a-a377-43c5-a00a-6d2585feaca5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:40:52.135000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414623/raw/2013-09-02-095305nb-referundum_initiative_locale.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:40:52.135000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-27T00:56:45.317000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414625/raw/2013-09-02-095305nb-referundum_initiative_localede.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "85771942-9914-45b6-b34e-15fcd867703f",
+      "last_modified": "2017-06-06T16:40:52.136000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/85771942-9914-45b6-b34e-15fcd867703f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-06-06T16:40:52.136000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414625/raw/2013-09-02-095305nb-referundum_initiative_localede.html"
+    }
+  ],
+  "slug": "nombre-de-referendum-dinitiative-locale-pour-100-000-habitants1",
+  "spatial": null,
+  "tags": [
+    "elections",
+    "participation",
+    "referundum"
+  ],
+  "temporal_coverage": null,
+  "title": "Nombre de r\u00e9f\u00e9rendum d'initiative locale pour 100 000 habitants",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/nombre-de-referendum-dinitiative-locale-pour-100-000-habitants1/"
+}

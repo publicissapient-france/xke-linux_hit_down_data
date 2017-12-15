@@ -1,0 +1,160 @@
+{
+  "badges": [],
+  "created_at": "2017-10-19T16:48:34.055000",
+  "deleted": null,
+  "description": "Jeu des formes et points du r\u00e9f\u00e9rentiel g\u00e9ographique des continents, traduction du jeu public:\u00a0https://data.opendatasoft.com/explore/dataset/continents-of-the-world-merged%40public/table/?q=NOT+antarctica+and+not+oceania",
+  "extras": {
+    "harvest:domain": "bpce.opendatasoft.com",
+    "harvest:last_update": "2017-11-27T01:00:11.125818",
+    "harvest:remote_id": "continents",
+    "harvest:source_id": "59e8baf588ee38187408f8f5",
+    "ods:has_records": true,
+    "ods:url": "https://bpce.opendatasoft.com//explore/dataset/continents/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59e8bb42a3a72974bbd88603",
+  "last_modified": "2017-11-27T01:00:11.129000",
+  "last_update": "2017-11-27T01:00:11.125000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "BPCE",
+    "class": "Organization",
+    "id": "59e4ade488ee38366b2f58ab",
+    "logo": "https://www.data.gouv.fr/s/avatars/d1/3e1b26bae144319b284c4b5512bea9-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/d1/3e1b26bae144319b284c4b5512bea9-100.jpg",
+    "name": "Groupe BPCE",
+    "page": "https://www.data.gouv.fr/fr/organizations/groupe-bpce/",
+    "slug": "groupe-bpce",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/groupe-bpce/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/continents/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T01:00:11.124000",
+      "description": "- *Geo Shape*: geo_shape[geo_shape]\n- *CONTINENT*: continent[text]\n- *Geo Point*: geo_point[geo_point_2d]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-12T08:39:42.208000",
+        "check:status": 200,
+        "check:url": "https://bpce.opendatasoft.com//explore/dataset/continents/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "24e8afa9-2ecc-48e3-a560-6c23ea9cf40d",
+      "last_modified": "2017-04-03T13:11:01",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/24e8afa9-2ecc-48e3-a560-6c23ea9cf40d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T01:00:11.124000",
+      "title": "Export au format CSV",
+      "url": "https://bpce.opendatasoft.com//explore/dataset/continents/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T01:00:11.124000",
+      "description": "- *Geo Shape*: geo_shape[geo_shape]\n- *CONTINENT*: continent[text]\n- *Geo Point*: geo_point[geo_point_2d]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T19:30:09.631000",
+        "check:status": 200,
+        "check:url": "https://bpce.opendatasoft.com//explore/dataset/continents/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "a6f8bfd8-c84f-413d-b19f-39dcfbb4a5ab",
+      "last_modified": "2017-04-03T13:11:01",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a6f8bfd8-c84f-413d-b19f-39dcfbb4a5ab",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T01:00:11.124000",
+      "title": "Export au format JSON",
+      "url": "https://bpce.opendatasoft.com//explore/dataset/continents/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T01:00:11.125000",
+      "description": "- *Geo Shape*: geo_shape[geo_shape]\n- *CONTINENT*: continent[text]\n- *Geo Point*: geo_point[geo_point_2d]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T14:52:49.899000",
+        "check:status": 200,
+        "check:url": "https://bpce.opendatasoft.com//explore/dataset/continents/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "2a961223-0ee1-4e31-888c-bb2bbc57feed",
+      "last_modified": "2017-04-03T13:11:01",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2a961223-0ee1-4e31-888c-bb2bbc57feed",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T01:00:11.125000",
+      "title": "Export au format GeoJSON",
+      "url": "https://bpce.opendatasoft.com//explore/dataset/continents/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T01:00:11.125000",
+      "description": "- *Geo Shape*: geo_shape[geo_shape]\n- *CONTINENT*: continent[text]\n- *Geo Point*: geo_point[geo_point_2d]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-12T08:39:42.208000",
+        "check:status": 200,
+        "check:url": "https://bpce.opendatasoft.com//explore/dataset/continents/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "ce89685e-d835-47af-b274-bca5989f376a",
+      "last_modified": "2017-04-03T13:11:01",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ce89685e-d835-47af-b274-bca5989f376a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T01:00:11.125000",
+      "title": "Export au format Shapefile",
+      "url": "https://bpce.opendatasoft.com//explore/dataset/continents/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "continents",
+  "spatial": null,
+  "tags": [],
+  "temporal_coverage": null,
+  "title": "Continents",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/continents/"
+}

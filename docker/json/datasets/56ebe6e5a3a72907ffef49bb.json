@@ -1,0 +1,104 @@
+{
+  "badges": [],
+  "created_at": "2016-03-18T12:30:45.738000",
+  "deleted": null,
+  "description": "Puissance moyenne (MW) g\u00e9n\u00e9r\u00e9e par tranche de 30 minutes au p\u00e9rim\u00e8tre de la France continentale et agr\u00e9g\u00e9e par grande fili\u00e8re de production.\n\nLes donn\u00e9es des ann\u00e9es 2013\u00a0\u00e0 2016\u00a0 sont au statut d\u00e9finitif. Les donn\u00e9es 2017\u00a0sont au statut interm\u00e9diaire. La version d\u00e9finitive pour l'ann\u00e9e 2016\u00a0sera publi\u00e9e avant courant second semestre 2018.\n\n* * *\n\n**Graph of electricity generation by power source (january 2008 -\u00a0september 2017)**\n\nAverage power generation (MW) per 30-minute interval within continental France, aggregated by broad power source.\n\nData from 2013 and 2016 is final and validated. Data 2017 is in interim status. The final version will be published by end of S2 2018.\n\n **Keywords :** Electricity, Generation, Power source, Annual electricity report, Monthly overview\n\n__",
+  "extras": {
+    "harvest:domain": "opendata.rte-france.com",
+    "harvest:last_update": "2017-11-27T05:14:33.129717",
+    "harvest:remote_id": "cdc_prod_par_filiere",
+    "harvest:source_id": "56ebe63cc751df69fa170353",
+    "ods:has_records": true,
+    "ods:references": "http://www.rte-france.com/fr/article/bilans-electriques-nationaux ; http://www.rte-france.com/fr/article/apercus-electriques-mensuels",
+    "ods:url": "https://opendata.rte-france.com//explore/dataset/cdc_prod_par_filiere/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "56ebe6e5a3a72907ffef49bb",
+  "last_modified": "2017-11-27T05:14:33.133000",
+  "last_update": "2017-11-27T05:14:33.128000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "RTE",
+    "class": "Organization",
+    "id": "55f03e1088ee384bc1a46ec1",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-09-09/595e18df74fa490f93c7b2f52c28730e/sans-titre-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-09-09/595e18df74fa490f93c7b2f52c28730e/sans-titre-100.png",
+    "name": "R\u00e9seau de Transport d'Electricit\u00e9",
+    "page": "https://www.data.gouv.fr/fr/organizations/reseau-de-transport-delectricite/",
+    "slug": "reseau-de-transport-delectricite",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/reseau-de-transport-delectricite/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/courbe-de-charge-de-la-production-delectricite-par-filiere-janvier-2013-a-septembre-2017/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:33.127000",
+      "description": "- *Date - Heure*: date_heure[datetime]\n- *Date*: date[text]\n- *Heure*: heure[text]\n- *Prod totale (MW)*: prod_total[int] Production thermique fossile + hydraulique + nucl\u00e9aire + solaire + \u00e9olien + bio\u00e9nergies\n- *Prod thermique fossile (MW)*: prod_thermique_fossile[int] Production fioul + charbon + gaz\n- *Prod fioul (MW)*: prod_fioul[int]\n- *Prod charbon (MW)*: prod_charbon[int]\n- *Prod gaz (MW)*: prod_gaz[int]\n- *Prod hydraulique (MW)*: prod_hydraulique[int]\n- *Prod nucleaire (MW)*: prod_nucleaire[int]\n- *Prod solaire (MW)*: prod_solaire[int]\n- *Prod eolien (MW)*: prod_eolien[int]\n- *Prod bioenergies (MW)*: prod_bioenergies[int]\n- *Qualite donnee*: qualite[text] Les donn\u00e9es des ann\u00e9es 2013 \u00e0 2015 sont au statut d\u00e9finitif. Les donn\u00e9es de l\u2019ann\u00e9e 2016 sont au statut interm\u00e9diaire. La version d\u00e9finitive sera publi\u00e9e avant la fin du premier semestre 2017.\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c5d765d4-14f9-4f86-a9cf-01d2313d96dd",
+      "last_modified": "2017-11-07T18:02:08",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c5d765d4-14f9-4f86-a9cf-01d2313d96dd",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:14:33.128000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.rte-france.com//explore/dataset/cdc_prod_par_filiere/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:33.128000",
+      "description": "- *Date - Heure*: date_heure[datetime]\n- *Date*: date[text]\n- *Heure*: heure[text]\n- *Prod totale (MW)*: prod_total[int] Production thermique fossile + hydraulique + nucl\u00e9aire + solaire + \u00e9olien + bio\u00e9nergies\n- *Prod thermique fossile (MW)*: prod_thermique_fossile[int] Production fioul + charbon + gaz\n- *Prod fioul (MW)*: prod_fioul[int]\n- *Prod charbon (MW)*: prod_charbon[int]\n- *Prod gaz (MW)*: prod_gaz[int]\n- *Prod hydraulique (MW)*: prod_hydraulique[int]\n- *Prod nucleaire (MW)*: prod_nucleaire[int]\n- *Prod solaire (MW)*: prod_solaire[int]\n- *Prod eolien (MW)*: prod_eolien[int]\n- *Prod bioenergies (MW)*: prod_bioenergies[int]\n- *Qualite donnee*: qualite[text] Les donn\u00e9es des ann\u00e9es 2013 \u00e0 2015 sont au statut d\u00e9finitif. Les donn\u00e9es de l\u2019ann\u00e9e 2016 sont au statut interm\u00e9diaire. La version d\u00e9finitive sera publi\u00e9e avant la fin du premier semestre 2017.\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "76466870-0d67-4cfd-ac73-73fd6bf8b705",
+      "last_modified": "2017-11-07T18:02:08",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/76466870-0d67-4cfd-ac73-73fd6bf8b705",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:14:33.128000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.rte-france.com//explore/dataset/cdc_prod_par_filiere/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "courbe-de-charge-de-la-production-delectricite-par-filiere-janvier-2013-a-septembre-2017",
+  "spatial": null,
+  "tags": [
+    "apercu-mensuel",
+    "bilan-electrique",
+    "electricite",
+    "filiere",
+    "production"
+  ],
+  "temporal_coverage": null,
+  "title": "Courbe de charge de la production d\u2019\u00e9lectricit\u00e9 par fili\u00e8re (janvier 2013 \u00e0 septembre 2017)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/courbe-de-charge-de-la-production-delectricite-par-filiere-janvier-2013-a-septembre-2017/"
+}

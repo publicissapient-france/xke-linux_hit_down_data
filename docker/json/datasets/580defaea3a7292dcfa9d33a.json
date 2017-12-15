@@ -1,0 +1,149 @@
+{
+  "badges": [],
+  "created_at": "2016-10-24T13:25:34.951000",
+  "deleted": null,
+  "description": "**Liste des points d'arr\u00eat de m\u00e9tro du r\u00e9seau STAR, comprenant notamment leur nom, leur station de rattachement et\u00a0la g\u00e9olocalisation.**",
+  "extras": {
+    "harvest:domain": "data.explore.star.fr",
+    "harvest:last_update": "2017-11-27T05:08:09.086197",
+    "harvest:remote_id": "tco-metro-topologie-pointsarret-td",
+    "harvest:source_id": "5631e57dc751df24cedcc3f2",
+    "ods:has_records": true,
+    "ods:url": "http://data.explore.star.fr/explore/dataset/tco-metro-topologie-pointsarret-td/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "580defaea3a7292dcfa9d33a",
+  "last_modified": "2017-11-27T05:08:09.087000",
+  "last_update": "2017-11-27T05:08:09.085000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": null,
+  "owner": {
+    "avatar": null,
+    "avatar_thumbnail": null,
+    "class": "User",
+    "first_name": "Benjamin",
+    "id": "5631e492c751df24cedcc3f0",
+    "last_name": "BERTELLE",
+    "page": "https://www.data.gouv.fr/fr/users/benjamin-bertelle/",
+    "slug": "benjamin-bertelle",
+    "uri": "https://www.data.gouv.fr/api/1/users/benjamin-bertelle/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/topologie-des-points-darret-de-metro-du-reseau-star-1/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:08:09.083000",
+      "description": "- *Identifiant*: id[text]\n- *Code*: code[text]\n- *Nom*: nom[text]\n- *Adresse (num\u00e9ro)*: adressenumero[text]\n- *Adresse (voie)*: adressevoie[text]\n- *Commune (code INSEE)*: codeinseecommune[text]\n- *Commune (nom)*: nomcommune[text]\n- *Coordonn\u00e9es*: coordonnees[geo_point_2d]\n- *Station parente (ID)*: idstationparente[text] Code de la station de m\u00e9tro du r\u00e9seau STAR dans laquelle est situ\u00e9e le point d'arr\u00eat : pour obtenir plus d'informations sur cette station, vous devez consulter le jeu de donn\u00e9es \"Stations de m\u00e9tro du r\u00e9seau STAR\" en filtrant sur la station avec l'identifiant correspondant.\n- *Station parente (nom)*: nomstationparente[text]\n- *Accessible aux PMR*: estaccessiblepmr[text] L'accessibilit\u00e9 aux Personnes \u00e0 Mobilit\u00e9 R\u00e9duite indiqu\u00e9e ici est th\u00e9orique : elle suppose que tous les ascenseurs n\u00e9cessaires pour arriver aux quais sont fonctionnels. La topologie des \u00e9quipements pr\u00e9sents dans les stations de m\u00e9tro pour arriver sur les quais est disponible dans le jeu de donn\u00e9es \"Topologie des \u00e9quipements des stations de m\u00e9tro du r\u00e9seau STAR\". Pour obtenir la disponibilit\u00e9 en temps r\u00e9el des \u00e9quipements de la station (fonctionnel / non fonctionnel), veuillez consulter le jeu de donn\u00e9es \"Etat des \u00e9quipements des stations de m\u00e9tro du r\u00e9seau STAR en temps r\u00e9el\".\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "12cf8dd9-dc30-4662-a359-e2c0a52c9d7a",
+      "last_modified": "2014-11-24T08:06:18",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/12cf8dd9-dc30-4662-a359-e2c0a52c9d7a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:08:09.083000",
+      "title": "Export au format CSV",
+      "url": "http://data.explore.star.fr/explore/dataset/tco-metro-topologie-pointsarret-td/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:08:09.084000",
+      "description": "- *Identifiant*: id[text]\n- *Code*: code[text]\n- *Nom*: nom[text]\n- *Adresse (num\u00e9ro)*: adressenumero[text]\n- *Adresse (voie)*: adressevoie[text]\n- *Commune (code INSEE)*: codeinseecommune[text]\n- *Commune (nom)*: nomcommune[text]\n- *Coordonn\u00e9es*: coordonnees[geo_point_2d]\n- *Station parente (ID)*: idstationparente[text] Code de la station de m\u00e9tro du r\u00e9seau STAR dans laquelle est situ\u00e9e le point d'arr\u00eat : pour obtenir plus d'informations sur cette station, vous devez consulter le jeu de donn\u00e9es \"Stations de m\u00e9tro du r\u00e9seau STAR\" en filtrant sur la station avec l'identifiant correspondant.\n- *Station parente (nom)*: nomstationparente[text]\n- *Accessible aux PMR*: estaccessiblepmr[text] L'accessibilit\u00e9 aux Personnes \u00e0 Mobilit\u00e9 R\u00e9duite indiqu\u00e9e ici est th\u00e9orique : elle suppose que tous les ascenseurs n\u00e9cessaires pour arriver aux quais sont fonctionnels. La topologie des \u00e9quipements pr\u00e9sents dans les stations de m\u00e9tro pour arriver sur les quais est disponible dans le jeu de donn\u00e9es \"Topologie des \u00e9quipements des stations de m\u00e9tro du r\u00e9seau STAR\". Pour obtenir la disponibilit\u00e9 en temps r\u00e9el des \u00e9quipements de la station (fonctionnel / non fonctionnel), veuillez consulter le jeu de donn\u00e9es \"Etat des \u00e9quipements des stations de m\u00e9tro du r\u00e9seau STAR en temps r\u00e9el\".\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "a56564f9-b0c0-499f-850e-6551c0209dbd",
+      "last_modified": "2014-11-24T08:06:18",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a56564f9-b0c0-499f-850e-6551c0209dbd",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:08:09.084000",
+      "title": "Export au format JSON",
+      "url": "http://data.explore.star.fr/explore/dataset/tco-metro-topologie-pointsarret-td/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:08:09.084000",
+      "description": "- *Identifiant*: id[text]\n- *Code*: code[text]\n- *Nom*: nom[text]\n- *Adresse (num\u00e9ro)*: adressenumero[text]\n- *Adresse (voie)*: adressevoie[text]\n- *Commune (code INSEE)*: codeinseecommune[text]\n- *Commune (nom)*: nomcommune[text]\n- *Coordonn\u00e9es*: coordonnees[geo_point_2d]\n- *Station parente (ID)*: idstationparente[text] Code de la station de m\u00e9tro du r\u00e9seau STAR dans laquelle est situ\u00e9e le point d'arr\u00eat : pour obtenir plus d'informations sur cette station, vous devez consulter le jeu de donn\u00e9es \"Stations de m\u00e9tro du r\u00e9seau STAR\" en filtrant sur la station avec l'identifiant correspondant.\n- *Station parente (nom)*: nomstationparente[text]\n- *Accessible aux PMR*: estaccessiblepmr[text] L'accessibilit\u00e9 aux Personnes \u00e0 Mobilit\u00e9 R\u00e9duite indiqu\u00e9e ici est th\u00e9orique : elle suppose que tous les ascenseurs n\u00e9cessaires pour arriver aux quais sont fonctionnels. La topologie des \u00e9quipements pr\u00e9sents dans les stations de m\u00e9tro pour arriver sur les quais est disponible dans le jeu de donn\u00e9es \"Topologie des \u00e9quipements des stations de m\u00e9tro du r\u00e9seau STAR\". Pour obtenir la disponibilit\u00e9 en temps r\u00e9el des \u00e9quipements de la station (fonctionnel / non fonctionnel), veuillez consulter le jeu de donn\u00e9es \"Etat des \u00e9quipements des stations de m\u00e9tro du r\u00e9seau STAR en temps r\u00e9el\".\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "6e1dcdd4-3b4f-47e6-a227-fd27e61319a1",
+      "last_modified": "2014-11-24T08:06:18",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6e1dcdd4-3b4f-47e6-a227-fd27e61319a1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:08:09.084000",
+      "title": "Export au format GeoJSON",
+      "url": "http://data.explore.star.fr/explore/dataset/tco-metro-topologie-pointsarret-td/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:08:09.085000",
+      "description": "- *Identifiant*: id[text]\n- *Code*: code[text]\n- *Nom*: nom[text]\n- *Adresse (num\u00e9ro)*: adressenumero[text]\n- *Adresse (voie)*: adressevoie[text]\n- *Commune (code INSEE)*: codeinseecommune[text]\n- *Commune (nom)*: nomcommune[text]\n- *Coordonn\u00e9es*: coordonnees[geo_point_2d]\n- *Station parente (ID)*: idstationparente[text] Code de la station de m\u00e9tro du r\u00e9seau STAR dans laquelle est situ\u00e9e le point d'arr\u00eat : pour obtenir plus d'informations sur cette station, vous devez consulter le jeu de donn\u00e9es \"Stations de m\u00e9tro du r\u00e9seau STAR\" en filtrant sur la station avec l'identifiant correspondant.\n- *Station parente (nom)*: nomstationparente[text]\n- *Accessible aux PMR*: estaccessiblepmr[text] L'accessibilit\u00e9 aux Personnes \u00e0 Mobilit\u00e9 R\u00e9duite indiqu\u00e9e ici est th\u00e9orique : elle suppose que tous les ascenseurs n\u00e9cessaires pour arriver aux quais sont fonctionnels. La topologie des \u00e9quipements pr\u00e9sents dans les stations de m\u00e9tro pour arriver sur les quais est disponible dans le jeu de donn\u00e9es \"Topologie des \u00e9quipements des stations de m\u00e9tro du r\u00e9seau STAR\". Pour obtenir la disponibilit\u00e9 en temps r\u00e9el des \u00e9quipements de la station (fonctionnel / non fonctionnel), veuillez consulter le jeu de donn\u00e9es \"Etat des \u00e9quipements des stations de m\u00e9tro du r\u00e9seau STAR en temps r\u00e9el\".\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "7ce99ef0-300f-46dd-9884-ac6890d474e0",
+      "last_modified": "2014-11-24T08:06:18",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7ce99ef0-300f-46dd-9884-ac6890d474e0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:08:09.085000",
+      "title": "Export au format Shapefile",
+      "url": "http://data.explore.star.fr/explore/dataset/tco-metro-topologie-pointsarret-td/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "topologie-des-points-darret-de-metro-du-reseau-star-1",
+  "spatial": null,
+  "tags": [
+    "arrets",
+    "deplacements",
+    "metro",
+    "quais",
+    "star",
+    "topologie",
+    "transports"
+  ],
+  "temporal_coverage": null,
+  "title": "Topologie des points d'arr\u00eat de m\u00e9tro du r\u00e9seau STAR",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/topologie-des-points-darret-de-metro-du-reseau-star-1/"
+}

@@ -1,0 +1,105 @@
+{
+  "badges": [],
+  "created_at": "2016-03-18T12:30:48.575000",
+  "deleted": null,
+  "description": "Historique national annuel au 31 d\u00e9cembre des longueurs (km)\u00a0de circuits et files de pyl\u00f4nes en exploitation du r\u00e9seau de transport d\u2019\u00e9lectricit\u00e9, par niveau de tension (63 kV, 90 kV, 225 kV, 400 kV, ...) et par type de technologie (courant alternatif ou courant continu).\n\n* * *\n\n**National lengths of circuits and pylon lines of the electricity transport network (2011 to 2016)**\n\nNational and annual history at 31 December of lengths (km) of circuits and pylon lines in operation on the electricity transport network, by voltage level (63 kV, 90 kV, 225 kV, 400 kV, ...) and by type of technology (AC or DC).\n\n **Keywords :** Electricity, Circuit, Network, Pylon line, Annual electricity report\n\n__",
+  "extras": {
+    "harvest:domain": "opendata.rte-france.com",
+    "harvest:last_update": "2017-11-27T05:14:33.842488",
+    "harvest:remote_id": "longueurs_circuits_files_pylones",
+    "harvest:source_id": "56ebe63cc751df69fa170353",
+    "ods:has_records": true,
+    "ods:references": "http://www.rte-france.com/fr/article/bilans-electriques-nationaux",
+    "ods:url": "https://opendata.rte-france.com//explore/dataset/longueurs_circuits_files_pylones/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "56ebe6e8a3a72907ffef49c3",
+  "last_modified": "2017-11-27T05:14:33.847000",
+  "last_update": "2017-11-27T05:14:33.841000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "RTE",
+    "class": "Organization",
+    "id": "55f03e1088ee384bc1a46ec1",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-09-09/595e18df74fa490f93c7b2f52c28730e/sans-titre-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-09-09/595e18df74fa490f93c7b2f52c28730e/sans-titre-100.png",
+    "name": "R\u00e9seau de Transport d'Electricit\u00e9",
+    "page": "https://www.data.gouv.fr/fr/organizations/reseau-de-transport-delectricite/",
+    "slug": "reseau-de-transport-delectricite",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/reseau-de-transport-delectricite/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/longueurs-nationales-annuelles-de-circuits-et-files-de-pylones-du-reseau-de-transport-delectricite-2011-a-2016/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:33.841000",
+      "description": "- *Ann\u00e9e*: annee[date] Ann\u00e9e\nYear\n- *File de pylone 400 kV (km)*: file_pylone_400kv[double] Longueur de file de pyl\u00f4nes 400 kV en km\nLength of 400 kV pylon lines in km\n- *File de pylone 225 kV (km)*: file_pylone_225kv[double] Longueur de file de pyl\u00f4nes 225 kV en km\nLength of 225kV pylon lines in km\n- *File de pylone 150 kV (km)*: file_pylone_150kv[double] Longueur de file de pyl\u00f4nes 150 kV en km\nLength of 150 kV pylon lines in km\n- *File de pylone 90 kV (km)*: file_pylone_90kv[double] Longueur de file de pyl\u00f4nes 90 kV en km\nLength of 90kV pylon lines in km\n- *File de pylone 63 kV (km)*: file_pylone_63kv[double] Longueur de file de pyl\u00f4nes 63 kV en km\nLength of 63kV pylon lines in km\n- *File de pylone 45 kV (km)*: file_pylone_45kv[double] Longueur de file de pyl\u00f4nes 45 kV en km\nLength of 45 kV pylon lines in km\n- *File de pylone total (km)*: file_pylone_total[double] Longueur de file de pyl\u00f4nes tous niveaux de tension en km\nLength of pylon lines all voltage level in km\n- *Circ 400 kV (km)*: circ_400kv[double] Longueur de circuit 400 kV en km\nLength of 400 kV circuit in km\n- *Circ 225 kV (km)*: circ_225kv[double] Longueur de circuit 225 kV en km\nLength of 225 kV circuit in km\n- *Circ 150 kV (km)*: circ_150kv[double] Longueur de circuit 150 kV en km\nLength of 150 kV circuit in km\n- *Circ 90 kV (km)*: circ_90kv[double] Longueur de circuit 90 kV en km\nLength of 90 kV circuit in km\n- *Circ 63 kV (km)*: circ_63kv[double] Longueur de circuit 63 kV en km\nLength of 63 kV circuit in km\n- *Circ 45 kV (km)*: circ_45kv[double] Longueur de circuit 45 kV en km\nLength of 45 kV circuit in km\n- *Circ total alternatif (km)*: circ_total_alter[double] Longueur de circuit en courant alternatif tous niveaux de tension en km\nLength of AC current circuit at all voltage levels in km\n- *Circ 320 kV continu (km)*: circ_320kv_cont[double] Longueur de circuit en courant continu 320 kV en km\nLength of 320 kV DC current circuit in km\n- *Circ 270 kV continu (km)*: circ_270kv_cont[double] Longueur de circuit en courant continu 270 kV en km\nLength of 270kV DC current circuit in km\n- *Circ total continu (km)*: circ_total_cont[double] Longueur de circuit en courant continu tous niveaux de tension en km\nLength of DC current circuit at all voltage levels in km\n- *Circ aerien 400 kV (km)*: circ_aer_400kv[double] Longueur de circuit a\u00e9rien 400 kV en km\nLength of 400 kV overhead circuit in km\n- *Circ aerien 225 kV (km)*: circ_aer_225kv[double] Longueur de circuit a\u00e9rien 225 kV en km\nLength of 225 kV overhead circuit in km\n- *Circ aerien 150 kV (km)*: circ_aer_150kv[double] Longueur de circuit a\u00e9rien 150 kV en km\nLength of 150 kV overhead circuit in km\n- *Circ aerien 90 kV (km)*: circ_aer_90kv[double] Longueur de circuit a\u00e9rien 90 kV en km\nLength of 90 kV overhead circuit in km\n- *Circ aerien 63 kV (km)*: circ_aer_63kv[double] Longueur de circuit a\u00e9rien 63 kV en km\nLength of 63 kV overhead circuit in km\n- *Circ aerien 45 kV (km)*: circ_aer_45kv[double] Longueur de circuit a\u00e9rien 45 kV en km\nLength of 45 kV overhead circuit in km\n- *Circ aerien total alternatif (km)*: circ_aer_total_alter[double] Longueur de circuit a\u00e9rien tous niveaux de tension en km\nLength of overhead circuit at all voltage levels in km\n- *Circ sout 400 kV (km)*: circ_sout_400kv[double] Longueur de circuit souterrain 400 kV en km\nLength of 400 kV underground circuit in km\n- *Circ sout 225 kV (km)*: circ_sout_225kv[double] Longueur de circuit souterrain 225 kV en km\nLength of 225 kV underground circuit in km\n- *Circ sout 150 kV (km)*: circ_sout_150kv[double] Longueur de circuit souterrain 150 kV en km\nLength of 150 kV underground circuit in km\n- *Circ sout 90 kV (km)*: circ_sout_90kv[double] Longueur de circuit souterrain 90 kV en km\nLength of 90 kV underground circuit in km\n- *Circ sout 63 kV (km)*: circ_sout_63kv[double] Longueur de circuit souterrain 63 kV en km\nLength of 630 kV underground circuit in km\n- *Circ sout 45 kV (km)*: circ_sout_45kv[double] Longueur de circuit souterrain 45 kV en km\nLength of 45 kV underground circuit in km\n- *Circ sout total alternatif (km)*: circ_sout_total_alter[double] Longueur de circuit en courant alternatif souterrain tous niveaux de tension en km\nLength of underground AC current circuit at all voltage levels in km\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "bc118fca-9fa4-415f-bc24-bb4454ba81a0",
+      "last_modified": "2017-02-15T16:42:10",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/bc118fca-9fa4-415f-bc24-bb4454ba81a0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:14:33.841000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.rte-france.com//explore/dataset/longueurs_circuits_files_pylones/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:33.841000",
+      "description": "- *Ann\u00e9e*: annee[date] Ann\u00e9e\nYear\n- *File de pylone 400 kV (km)*: file_pylone_400kv[double] Longueur de file de pyl\u00f4nes 400 kV en km\nLength of 400 kV pylon lines in km\n- *File de pylone 225 kV (km)*: file_pylone_225kv[double] Longueur de file de pyl\u00f4nes 225 kV en km\nLength of 225kV pylon lines in km\n- *File de pylone 150 kV (km)*: file_pylone_150kv[double] Longueur de file de pyl\u00f4nes 150 kV en km\nLength of 150 kV pylon lines in km\n- *File de pylone 90 kV (km)*: file_pylone_90kv[double] Longueur de file de pyl\u00f4nes 90 kV en km\nLength of 90kV pylon lines in km\n- *File de pylone 63 kV (km)*: file_pylone_63kv[double] Longueur de file de pyl\u00f4nes 63 kV en km\nLength of 63kV pylon lines in km\n- *File de pylone 45 kV (km)*: file_pylone_45kv[double] Longueur de file de pyl\u00f4nes 45 kV en km\nLength of 45 kV pylon lines in km\n- *File de pylone total (km)*: file_pylone_total[double] Longueur de file de pyl\u00f4nes tous niveaux de tension en km\nLength of pylon lines all voltage level in km\n- *Circ 400 kV (km)*: circ_400kv[double] Longueur de circuit 400 kV en km\nLength of 400 kV circuit in km\n- *Circ 225 kV (km)*: circ_225kv[double] Longueur de circuit 225 kV en km\nLength of 225 kV circuit in km\n- *Circ 150 kV (km)*: circ_150kv[double] Longueur de circuit 150 kV en km\nLength of 150 kV circuit in km\n- *Circ 90 kV (km)*: circ_90kv[double] Longueur de circuit 90 kV en km\nLength of 90 kV circuit in km\n- *Circ 63 kV (km)*: circ_63kv[double] Longueur de circuit 63 kV en km\nLength of 63 kV circuit in km\n- *Circ 45 kV (km)*: circ_45kv[double] Longueur de circuit 45 kV en km\nLength of 45 kV circuit in km\n- *Circ total alternatif (km)*: circ_total_alter[double] Longueur de circuit en courant alternatif tous niveaux de tension en km\nLength of AC current circuit at all voltage levels in km\n- *Circ 320 kV continu (km)*: circ_320kv_cont[double] Longueur de circuit en courant continu 320 kV en km\nLength of 320 kV DC current circuit in km\n- *Circ 270 kV continu (km)*: circ_270kv_cont[double] Longueur de circuit en courant continu 270 kV en km\nLength of 270kV DC current circuit in km\n- *Circ total continu (km)*: circ_total_cont[double] Longueur de circuit en courant continu tous niveaux de tension en km\nLength of DC current circuit at all voltage levels in km\n- *Circ aerien 400 kV (km)*: circ_aer_400kv[double] Longueur de circuit a\u00e9rien 400 kV en km\nLength of 400 kV overhead circuit in km\n- *Circ aerien 225 kV (km)*: circ_aer_225kv[double] Longueur de circuit a\u00e9rien 225 kV en km\nLength of 225 kV overhead circuit in km\n- *Circ aerien 150 kV (km)*: circ_aer_150kv[double] Longueur de circuit a\u00e9rien 150 kV en km\nLength of 150 kV overhead circuit in km\n- *Circ aerien 90 kV (km)*: circ_aer_90kv[double] Longueur de circuit a\u00e9rien 90 kV en km\nLength of 90 kV overhead circuit in km\n- *Circ aerien 63 kV (km)*: circ_aer_63kv[double] Longueur de circuit a\u00e9rien 63 kV en km\nLength of 63 kV overhead circuit in km\n- *Circ aerien 45 kV (km)*: circ_aer_45kv[double] Longueur de circuit a\u00e9rien 45 kV en km\nLength of 45 kV overhead circuit in km\n- *Circ aerien total alternatif (km)*: circ_aer_total_alter[double] Longueur de circuit a\u00e9rien tous niveaux de tension en km\nLength of overhead circuit at all voltage levels in km\n- *Circ sout 400 kV (km)*: circ_sout_400kv[double] Longueur de circuit souterrain 400 kV en km\nLength of 400 kV underground circuit in km\n- *Circ sout 225 kV (km)*: circ_sout_225kv[double] Longueur de circuit souterrain 225 kV en km\nLength of 225 kV underground circuit in km\n- *Circ sout 150 kV (km)*: circ_sout_150kv[double] Longueur de circuit souterrain 150 kV en km\nLength of 150 kV underground circuit in km\n- *Circ sout 90 kV (km)*: circ_sout_90kv[double] Longueur de circuit souterrain 90 kV en km\nLength of 90 kV underground circuit in km\n- *Circ sout 63 kV (km)*: circ_sout_63kv[double] Longueur de circuit souterrain 63 kV en km\nLength of 630 kV underground circuit in km\n- *Circ sout 45 kV (km)*: circ_sout_45kv[double] Longueur de circuit souterrain 45 kV en km\nLength of 45 kV underground circuit in km\n- *Circ sout total alternatif (km)*: circ_sout_total_alter[double] Longueur de circuit en courant alternatif souterrain tous niveaux de tension en km\nLength of underground AC current circuit at all voltage levels in km\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "1a337f1f-e95d-40b1-8b0d-ae23b7832b58",
+      "last_modified": "2017-02-15T16:42:10",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1a337f1f-e95d-40b1-8b0d-ae23b7832b58",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:14:33.841000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.rte-france.com//explore/dataset/longueurs_circuits_files_pylones/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "longueurs-nationales-annuelles-de-circuits-et-files-de-pylones-du-reseau-de-transport-delectricite-2011-a-2016",
+  "spatial": null,
+  "tags": [
+    "bilan-electrique",
+    "circuit",
+    "electricite",
+    "file-de-pylones",
+    "reseau",
+    "reseau-de-transport"
+  ],
+  "temporal_coverage": null,
+  "title": "Longueurs nationales annuelles de circuits et files de pyl\u00f4nes du r\u00e9seau de transport d'\u00e9lectricit\u00e9 (2011 \u00e0 2016)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/longueurs-nationales-annuelles-de-circuits-et-files-de-pylones-du-reseau-de-transport-delectricite-2011-a-2016/"
+}

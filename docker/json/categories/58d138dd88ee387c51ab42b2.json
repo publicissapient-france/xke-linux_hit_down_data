@@ -1,0 +1,54 @@
+{
+  "acronym": "SIEIL37",
+  "badges": [
+    {
+      "kind": "public-service"
+    },
+    {
+      "kind": "certified"
+    }
+  ],
+  "created_at": "2017-03-21T15:29:49.237000",
+  "deleted": null,
+  "description": "Le SIEIL 37 est un \u00e9tablissement public de coop\u00e9ration intercommunale regroupant l'ensemble des communes du d\u00e9partement, \u00e0 l'exception de Tours. Il est charg\u00e9 de d\u00e9velopper et renforcer le r\u00e9seau de distribution publique d'\u00e9lectricit\u00e9 (basse et moyenne tension), tout en contr\u00f4lant l'activit\u00e9 du concessionnaire.\n\nDepuis sa cr\u00e9ation en 1937, le SIEIL a \u00e9largi son activit\u00e9 et propose aujourd'hui, outre sa comp\u00e9tence historique de distribution publique d'\u00e9lectricit\u00e9, des comp\u00e9tences \"\u00e0 la carte\" :\n   la distribution publique de gaz,\n   la gestion de l\u2019\u00e9clairage public,\n   le d\u00e9veloppement d\u2019un syst\u00e8me d\u2019information g\u00e9ographique (S.I.G.) et la num\u00e9risation cadastrale,\n   le d\u00e9ploiement des bornes de recharge pour v\u00e9hicules \u00e9lectriques et hybrides rechargeables.\n\nLe SIEIL a \u00e9galement mis en \u0153uvre une solution logicielle de suivi et d\u2019instruction des dossiers d\u2019urbanisme, \u00ab R\u2019ads \u00bb. En 2017, il pr\u00e9voie le d\u00e9veloppement d'une plateforme PCRS (Plan de Corps de Rue Simplifi\u00e9) compl\u00e9tant les outils actuels de gestion de l\u2019espace public.\n",
+  "id": "58d138dd88ee387c51ab42b2",
+  "last_modified": "2017-11-22T16:04:15.182000",
+  "logo": "https://www.data.gouv.fr/s/avatars/1a/5ba3524a2c43d690c515c182751556-original.jpg",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/1a/5ba3524a2c43d690c515c182751556-100.jpg",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/48/2162dbb05a4bcda1efd66ab2f89676-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/48/2162dbb05a4bcda1efd66ab2f89676-100.jpg",
+        "class": "User",
+        "first_name": "Pascal",
+        "id": "56039c60c751df0d9e8dabee",
+        "last_name": "BALPE",
+        "page": "https://www.data.gouv.fr/fr/users/pascal-balpe/",
+        "slug": "pascal-balpe",
+        "uri": "https://www.data.gouv.fr/api/1/users/pascal-balpe/"
+      }
+    }
+  ],
+  "metrics": {
+    "badges": 0,
+    "dataset_views": 0,
+    "datasets": 1,
+    "followers": 0,
+    "members": 1,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 0,
+    "resource_downloads": 0,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "name": "Syndicat intercommunal d'\u00e9nergie d'Indre-et-Loire",
+  "page": "https://www.data.gouv.fr/fr/organizations/syndicat-intercommunal-denergie-dindre-et-loire-1/",
+  "slug": "syndicat-intercommunal-denergie-dindre-et-loire-1",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/syndicat-intercommunal-denergie-dindre-et-loire-1/",
+  "url": "http://sieil37.fr/"
+}

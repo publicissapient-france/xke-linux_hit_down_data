@@ -1,0 +1,101 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T20:07:39.856000",
+  "deleted": null,
+  "description": "Disponibilit\u00e9s 2016 issues du Rapport Financier du groupe SNCF R\u00e9seau au 31 d\u00e9cembre 2016 (Comptes sociaux de l'EPIC SNCF R\u00c9SEAU)",
+  "extras": {
+    "harvest:domain": "ressources.data.sncf.com",
+    "harvest:last_update": "2017-11-27T05:03:44.102398",
+    "harvest:remote_id": "disponibilites-2016-cso",
+    "harvest:source_id": "563dd01f88ee386a21e72046",
+    "ods:has_records": true,
+    "ods:url": "https://ressources.data.sncf.com/explore/dataset/disponibilites-2016-cso/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5959366ba3a7291dd09c826f",
+  "last_modified": "2017-11-27T05:03:44.104000",
+  "last_update": "2017-11-27T05:03:44.101000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb0a3a7292c64a78115",
+    "logo": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-100.png",
+    "name": "SNCF",
+    "page": "https://www.data.gouv.fr/fr/organizations/sncf/",
+    "slug": "sncf",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/sncf/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/disponibilites-sncf-reseau-2016-cso/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:03:44.101000",
+      "description": "- *#*: id[double]\n- *En millions d\u2019euros*: en_millions_d_euros[text]\n- *31/12/2016*: 2016_12_31_00_00_00[text]\n- *31/12/2015*: 2015_12_31_00_00_00[double]\n- *Variation de l'exercice*: variation_de_l_exercice[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "bfab4c90-4765-49c4-94a9-9b7a4f38a1c6",
+      "last_modified": "2017-04-03T15:27:40",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/bfab4c90-4765-49c4-94a9-9b7a4f38a1c6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:03:44.101000",
+      "title": "Export au format CSV",
+      "url": "https://ressources.data.sncf.com/explore/dataset/disponibilites-2016-cso/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:03:44.101000",
+      "description": "- *#*: id[double]\n- *En millions d\u2019euros*: en_millions_d_euros[text]\n- *31/12/2016*: 2016_12_31_00_00_00[text]\n- *31/12/2015*: 2015_12_31_00_00_00[double]\n- *Variation de l'exercice*: variation_de_l_exercice[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "ee74cbfc-ed6f-4855-b50f-b2fe4e44f854",
+      "last_modified": "2017-04-03T15:27:40",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ee74cbfc-ed6f-4855-b50f-b2fe4e44f854",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:03:44.101000",
+      "title": "Export au format JSON",
+      "url": "https://ressources.data.sncf.com/explore/dataset/disponibilites-2016-cso/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "disponibilites-sncf-reseau-2016-cso",
+  "spatial": null,
+  "tags": [
+    "comptes-sociaux",
+    "disponibilites",
+    "rapport-financier",
+    "sncf-reseau"
+  ],
+  "temporal_coverage": null,
+  "title": "Disponibilit\u00e9s SNCF R\u00e9seau 2016 CSO",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/disponibilites-sncf-reseau-2016-cso/"
+}

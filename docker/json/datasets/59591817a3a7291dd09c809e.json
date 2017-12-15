@@ -1,0 +1,148 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T17:58:15.212000",
+  "deleted": null,
+  "description": "Le jeu de donn\u00e9es concerne le dispositif mis en \u0153uvre en\u00a02011 par la R\u00e9gion pour soutenir l\u2019\u00e9mergence, la cr\u00e9ation et la prise de risque artistique dans le domaine des musiques actuelles et amplifi\u00e9es.\u00a0\n\nA travers cette aide, la R\u00e9gion souhaite soutenir la diversit\u00e9 des esth\u00e9tiques de l\u2019offre musicale r\u00e9gionale, soutenir l\u2019\u00e9mergence, la cr\u00e9ation et la prise de risque artistique, mais aussi l\u2019\u00e9largissement de la diffusion des artistes et la circulation des publics \u00e0 l\u2019\u00e9chelle r\u00e9gionale. Cette aide peut dans certains cas aider \u00e0 la mobilit\u00e9 des artistes pour pr\u00e9senter des productions franciliennes dans d\u2019autres r\u00e9gions de France.\n\n **Informations compl\u00e9mentaires sur le dispositif** :\n\n ** _B\u00e9n\u00e9ficiaires_**\n\n\\- Sc\u00e8nes g\u00e9n\u00e9ralistes investies dans un projet de diffusion des musiques actuelles.\n\n\\- Lieux sp\u00e9cialement d\u00e9di\u00e9s aux musiques actuelles.\u00a0\n\n\\- Structures organisatrices d\u2019\u00e9v\u00e9nements.\u00a0\n\n\\- Collectivit\u00e9s territoriales qui d\u00e9veloppent une politique culturelle en faveur des musiques actuelles.\u00a0\n\n ** _Conditions d\u2019\u00e9ligibilit\u00e9_** \u00a0\n\n1- Manifestations (hors festivals) organis\u00e9es sur le territoire francilien.\u00a0\n\n\\- Priorit\u00e9 est donn\u00e9e aux projets se d\u00e9roulant sur des territoires o\u00f9 les sc\u00e8nes de musiques actuelles sont moins pr\u00e9sentes, et aux artistes sign\u00e9s par des labels ind\u00e9pendants dont 30 % au plus du capital social sont d\u00e9tenus directement/indirectement par une multinationale du disque.\n\n\\- Projets devant proposer des actions sp\u00e9cifiques de rencontres entre les publics franciliens et les artistes : temps fort autour de la d\u00e9couverte d\u2019une esth\u00e9tique particuli\u00e8re, pr\u00e9sentation sur sc\u00e8ne des artistes d\u2019un label ind\u00e9pendant, collaboration artistique entre diff\u00e9rents lieux.\u00a0\n\n2- Projets favorisant la mobilit\u00e9 des artistes franciliens \u00e9mergents sur et hors de l\u2019\u00cele-de-France.\n\n\\- 5 dates minimum doivent \u00eatre organis\u00e9es, dans diff\u00e9rentes communes et d\u00e9partements pour un m\u00eame concert.\u00a0\n\n\\- Priorit\u00e9 est donn\u00e9e aux projets d\u2019artistes sign\u00e9s par des labels ind\u00e9pendants franciliens dont 30 % au plus du capital social sont d\u00e9tenus directement/indirectement par une multinationale du disque, ainsi qu\u2019aux artistes autoproduits.\u00a0\n\n ** _Nature et modalit\u00e9s de l\u2019aide_**\n\nTaux maximum de 50 % de la d\u00e9pense subventionnable HT, dans la limite de 40 000 \u20ac.",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T05:58:06.697605",
+    "harvest:remote_id": "aide-a-projet-musiques-actuelles-et-amplifiees-2011-2014",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/aide-a-projet-musiques-actuelles-et-amplifiees-2011-2014/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59591817a3a7291dd09c809e",
+  "last_modified": "2017-11-27T05:58:06.699000",
+  "last_update": "2017-11-27T05:58:06.696000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/aide-a-projet-musiques-actuelles-et-amplifiees-2011-2014/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:58:06.696000",
+      "description": "- *Exercice de la premi\u00e8re d\u00e9cision*: exercice_de_la_premiere_decision[text]\n- *Famille de proc\u00e9dure du dossier*: famille_de_procedure_du_dossier[text]\n- *Dossier*: dossier[text]\n- *Objet du dossier*: objet_du_dossier[text]\n- *B\u00e9n\u00e9ficiaire*: beneficiaire[text]\n- *Type de tiers*: type_de_tiers[text]\n- *Commission*: commission[text]\n- *Montant vot\u00e9*: montant_vote[int]\n- *Localisation Projet*: localisation_projet[text]\n- *Montant vot\u00e9 par localisation*: montant_vote_par_localisation[int]\n- *Pourcentage de la localisation*: pourcentage_de_la_localisation[text]\n- *Adresse administrative du tiers b\u00e9n\u00e9ficiaire*: adresse_administrative_du_tiers_beneficiaire[text]\n- *Adresse administrative - Code postal du tiers b\u00e9n\u00e9ficiaire*: adresse_administrative_code_postal_du_tiers_beneficiaire[int]\n- *Adresse administrative - Ville du tiers b\u00e9n\u00e9ficiaire*: adresse_administrative_ville_du_tiers_beneficiaire[text]\n- *Adresse administrative - Code d\u00e9partement du tiers b\u00e9n\u00e9ficiaire*: adresse_administrative_code_departement_du_tiers_beneficiaire[int]\n- *wgs84*: wgs84[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c1342973-fbba-4742-83d9-30025f57125b",
+      "last_modified": "2015-05-13T15:10:01",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c1342973-fbba-4742-83d9-30025f57125b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:58:06.696000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/aide-a-projet-musiques-actuelles-et-amplifiees-2011-2014/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:58:06.696000",
+      "description": "- *Exercice de la premi\u00e8re d\u00e9cision*: exercice_de_la_premiere_decision[text]\n- *Famille de proc\u00e9dure du dossier*: famille_de_procedure_du_dossier[text]\n- *Dossier*: dossier[text]\n- *Objet du dossier*: objet_du_dossier[text]\n- *B\u00e9n\u00e9ficiaire*: beneficiaire[text]\n- *Type de tiers*: type_de_tiers[text]\n- *Commission*: commission[text]\n- *Montant vot\u00e9*: montant_vote[int]\n- *Localisation Projet*: localisation_projet[text]\n- *Montant vot\u00e9 par localisation*: montant_vote_par_localisation[int]\n- *Pourcentage de la localisation*: pourcentage_de_la_localisation[text]\n- *Adresse administrative du tiers b\u00e9n\u00e9ficiaire*: adresse_administrative_du_tiers_beneficiaire[text]\n- *Adresse administrative - Code postal du tiers b\u00e9n\u00e9ficiaire*: adresse_administrative_code_postal_du_tiers_beneficiaire[int]\n- *Adresse administrative - Ville du tiers b\u00e9n\u00e9ficiaire*: adresse_administrative_ville_du_tiers_beneficiaire[text]\n- *Adresse administrative - Code d\u00e9partement du tiers b\u00e9n\u00e9ficiaire*: adresse_administrative_code_departement_du_tiers_beneficiaire[int]\n- *wgs84*: wgs84[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "02c85b24-a044-4b74-85a3-9b8880e2df8e",
+      "last_modified": "2015-05-13T15:10:01",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/02c85b24-a044-4b74-85a3-9b8880e2df8e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:58:06.696000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/aide-a-projet-musiques-actuelles-et-amplifiees-2011-2014/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:58:06.696000",
+      "description": "- *Exercice de la premi\u00e8re d\u00e9cision*: exercice_de_la_premiere_decision[text]\n- *Famille de proc\u00e9dure du dossier*: famille_de_procedure_du_dossier[text]\n- *Dossier*: dossier[text]\n- *Objet du dossier*: objet_du_dossier[text]\n- *B\u00e9n\u00e9ficiaire*: beneficiaire[text]\n- *Type de tiers*: type_de_tiers[text]\n- *Commission*: commission[text]\n- *Montant vot\u00e9*: montant_vote[int]\n- *Localisation Projet*: localisation_projet[text]\n- *Montant vot\u00e9 par localisation*: montant_vote_par_localisation[int]\n- *Pourcentage de la localisation*: pourcentage_de_la_localisation[text]\n- *Adresse administrative du tiers b\u00e9n\u00e9ficiaire*: adresse_administrative_du_tiers_beneficiaire[text]\n- *Adresse administrative - Code postal du tiers b\u00e9n\u00e9ficiaire*: adresse_administrative_code_postal_du_tiers_beneficiaire[int]\n- *Adresse administrative - Ville du tiers b\u00e9n\u00e9ficiaire*: adresse_administrative_ville_du_tiers_beneficiaire[text]\n- *Adresse administrative - Code d\u00e9partement du tiers b\u00e9n\u00e9ficiaire*: adresse_administrative_code_departement_du_tiers_beneficiaire[int]\n- *wgs84*: wgs84[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "86efa604-a36a-45e4-bebd-13f57e22dd9a",
+      "last_modified": "2015-05-13T15:10:01",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/86efa604-a36a-45e4-bebd-13f57e22dd9a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:58:06.696000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/aide-a-projet-musiques-actuelles-et-amplifiees-2011-2014/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:58:06.696000",
+      "description": "- *Exercice de la premi\u00e8re d\u00e9cision*: exercice_de_la_premiere_decision[text]\n- *Famille de proc\u00e9dure du dossier*: famille_de_procedure_du_dossier[text]\n- *Dossier*: dossier[text]\n- *Objet du dossier*: objet_du_dossier[text]\n- *B\u00e9n\u00e9ficiaire*: beneficiaire[text]\n- *Type de tiers*: type_de_tiers[text]\n- *Commission*: commission[text]\n- *Montant vot\u00e9*: montant_vote[int]\n- *Localisation Projet*: localisation_projet[text]\n- *Montant vot\u00e9 par localisation*: montant_vote_par_localisation[int]\n- *Pourcentage de la localisation*: pourcentage_de_la_localisation[text]\n- *Adresse administrative du tiers b\u00e9n\u00e9ficiaire*: adresse_administrative_du_tiers_beneficiaire[text]\n- *Adresse administrative - Code postal du tiers b\u00e9n\u00e9ficiaire*: adresse_administrative_code_postal_du_tiers_beneficiaire[int]\n- *Adresse administrative - Ville du tiers b\u00e9n\u00e9ficiaire*: adresse_administrative_ville_du_tiers_beneficiaire[text]\n- *Adresse administrative - Code d\u00e9partement du tiers b\u00e9n\u00e9ficiaire*: adresse_administrative_code_departement_du_tiers_beneficiaire[int]\n- *wgs84*: wgs84[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "d95f679f-957d-4b16-8d55-9c6c1f0cc0eb",
+      "last_modified": "2015-05-13T15:10:01",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d95f679f-957d-4b16-8d55-9c6c1f0cc0eb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:58:06.696000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.iledefrance.fr//explore/dataset/aide-a-projet-musiques-actuelles-et-amplifiees-2011-2014/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "aide-a-projet-musiques-actuelles-et-amplifiees-2011-2014",
+  "spatial": null,
+  "tags": [
+    "aide",
+    "artistes",
+    "culture",
+    "geolocalisation",
+    "musique",
+    "subvention",
+    "vie-culturelle"
+  ],
+  "temporal_coverage": null,
+  "title": "Aide \u00e0 projet \u00ab Musiques actuelles et amplifi\u00e9es \u00bb 2011-2014",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/aide-a-projet-musiques-actuelles-et-amplifiees-2011-2014/"
+}

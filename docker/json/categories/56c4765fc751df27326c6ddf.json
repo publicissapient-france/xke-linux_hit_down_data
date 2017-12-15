@@ -1,0 +1,61 @@
+{
+  "acronym": null,
+  "badges": [],
+  "created_at": "2016-02-17T14:32:15.060000",
+  "deleted": null,
+  "description": "Association porteuse de la plate-forme Ozwillo, moteur de donn\u00e9es qui apporte de l'intelligence aux applications",
+  "id": "56c4765fc751df27326c6ddf",
+  "last_modified": "2017-09-05T03:14:01.854000",
+  "logo": "https://www.data.gouv.fr/s/avatars/c3/f674ad6c354099a8166090b134da4a-original.png",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c3/f674ad6c354099a8166090b134da4a-100.png",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Benoit",
+        "id": "56c35d1dc751df76ff6c6ddf",
+        "last_name": "Orihuela",
+        "page": "https://www.data.gouv.fr/fr/users/benoit-orihuela-2/",
+        "slug": "benoit-orihuela-2",
+        "uri": "https://www.data.gouv.fr/api/1/users/benoit-orihuela-2/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Julien",
+        "id": "58da0e97c751df1d3b2ed7b8",
+        "last_name": "Hautemaniere",
+        "page": "https://www.data.gouv.fr/fr/users/julien-hautemaniere/",
+        "slug": "julien-hautemaniere",
+        "uri": "https://www.data.gouv.fr/api/1/users/julien-hautemaniere/"
+      }
+    }
+  ],
+  "metrics": {
+    "badges": 0,
+    "dataset_views": 70,
+    "datasets": 122,
+    "followers": 3,
+    "members": 2,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 0,
+    "resource_downloads": 92,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 11
+  },
+  "name": "Ozwillo",
+  "page": "https://www.data.gouv.fr/fr/organizations/ozwillo/",
+  "slug": "ozwillo",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/ozwillo/",
+  "url": "https://www.ozwillo.com"
+}

@@ -1,0 +1,147 @@
+{
+  "badges": [],
+  "created_at": "2016-10-24T13:25:33.125000",
+  "deleted": null,
+  "description": "**Liste des parcours des lignes de bus du r\u00e9seau STAR, comprenant notamment leur nom, leurs directions et les arr\u00eats de terminus.**\n\nPour obtenir le d\u00e9tail des arr\u00eats parcourus pour un parcours donn\u00e9, veuillez consulter le jeu de donn\u00e9es \"Dessertes des parcours des lignes de bus du r\u00e9seau STAR\" en filtrant sur le parcours avec l'identifiant correspondant.\n\nL'ensemble des parcours principaux sont pr\u00e9sents dans le jeu de donn\u00e9es, ainsi qu'un grand nombre de parcours secondaires. Ce jeu de donn\u00e9es est\u00a0amen\u00e9 \u00e0 s'enrichir au cours de l'ann\u00e9e 2017/2018.\n\n **Note : A partir du 03/09, l'ensemble des lignes du r\u00e9seau r\u00e9gulier et scolaire (y compris 200 et Ts) auront au moins un parcours principal pr\u00e9sent\u00e9 dans ce jeu de donn\u00e9es.**",
+  "extras": {
+    "harvest:domain": "data.explore.star.fr",
+    "harvest:last_update": "2017-11-27T05:07:57.186101",
+    "harvest:remote_id": "tco-bus-topologie-parcours-td",
+    "harvest:source_id": "5631e57dc751df24cedcc3f2",
+    "ods:has_records": true,
+    "ods:url": "http://data.explore.star.fr/explore/dataset/tco-bus-topologie-parcours-td/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "580defada3a7292dcea9d30e",
+  "last_modified": "2017-11-27T05:07:57.190000",
+  "last_update": "2017-11-27T05:07:57.184000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": null,
+  "owner": {
+    "avatar": null,
+    "avatar_thumbnail": null,
+    "class": "User",
+    "first_name": "Benjamin",
+    "id": "5631e492c751df24cedcc3f0",
+    "last_name": "BERTELLE",
+    "page": "https://www.data.gouv.fr/fr/users/benjamin-bertelle/",
+    "slug": "benjamin-bertelle",
+    "uri": "https://www.data.gouv.fr/api/1/users/benjamin-bertelle/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/parcours-des-lignes-de-bus-du-reseau-star-1/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:07:57.183000",
+      "description": "- *Identifiant*: id[text]\n- *Code*: code[text]\n- *Ligne (ID)*: idligne[text] Identifiant de la ligne de bus rattach\u00e9e au parcours : pour obtenir plus d'informations sur cette ligne, vous devez consulter le jeu de donn\u00e9es \"Lignes de bus du r\u00e9seau STAR\" en filtrant sur la ligne avec l'identifiant correspondant.\n- *Ligne (nom court)*: nomcourtligne[text]\n- *Code du sens*: sens[int]\n- *Sens commercial*: senscommercial[text]\n- *Type*: type[text] Type de parcours (principal ou secondaire) pour la ligne et le sens consid\u00e9r\u00e9s.\n- *Libell\u00e9 long*: libellelong[text]\n- *Point d'arr\u00eat de d\u00e9part (ID)*: idarretdepart[text] Identifiant du point d'arr\u00eat de d\u00e9part du parcours : pour obtenir plus d'informations sur ce point d'arr\u00eat, vous devez consulter le jeu de donn\u00e9es \"Topologie des points d'arr\u00eats de bus du r\u00e9seau STAR\" en filtrant sur le points d'arr\u00eat avec l'identifiant correspondant.\n- *Point d'arr\u00eat de d\u00e9part (nom)*: nomarretdepart[text]\n- *Point d'arr\u00eat d'arriv\u00e9e (ID)*: idarretarrivee[text] Identifiant du point d'arr\u00eat d'arriv\u00e9e du parcours : pour obtenir plus d'informations sur ce point d'arr\u00eat, vous devez consulter le jeu de donn\u00e9es \"Topologie des points d'arr\u00eats de busdu r\u00e9seau STAR\" en filtrant sur le points d'arr\u00eat avec l'identifiant correspondant.\n- *Point d'arr\u00eat d'arriv\u00e9e (nom)*: nomarretarrivee[text]\n- *Accessible aux PMR*: estaccessiblepmr[text]\n- *Parcours*: parcours[geo_shape]\n- *Longueur*: longueur[double] Distance parcourue par les v\u00e9hicules empruntant ce parcours (en m\u00e8tres).\n- *Couleur du trac\u00e9*: couleurtrace[text]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "7bc1038a-ecbb-488c-9701-534c29ae7640",
+      "last_modified": "2015-10-27T15:36:11",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7bc1038a-ecbb-488c-9701-534c29ae7640",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:07:57.183000",
+      "title": "Export au format CSV",
+      "url": "http://data.explore.star.fr/explore/dataset/tco-bus-topologie-parcours-td/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:07:57.183000",
+      "description": "- *Identifiant*: id[text]\n- *Code*: code[text]\n- *Ligne (ID)*: idligne[text] Identifiant de la ligne de bus rattach\u00e9e au parcours : pour obtenir plus d'informations sur cette ligne, vous devez consulter le jeu de donn\u00e9es \"Lignes de bus du r\u00e9seau STAR\" en filtrant sur la ligne avec l'identifiant correspondant.\n- *Ligne (nom court)*: nomcourtligne[text]\n- *Code du sens*: sens[int]\n- *Sens commercial*: senscommercial[text]\n- *Type*: type[text] Type de parcours (principal ou secondaire) pour la ligne et le sens consid\u00e9r\u00e9s.\n- *Libell\u00e9 long*: libellelong[text]\n- *Point d'arr\u00eat de d\u00e9part (ID)*: idarretdepart[text] Identifiant du point d'arr\u00eat de d\u00e9part du parcours : pour obtenir plus d'informations sur ce point d'arr\u00eat, vous devez consulter le jeu de donn\u00e9es \"Topologie des points d'arr\u00eats de bus du r\u00e9seau STAR\" en filtrant sur le points d'arr\u00eat avec l'identifiant correspondant.\n- *Point d'arr\u00eat de d\u00e9part (nom)*: nomarretdepart[text]\n- *Point d'arr\u00eat d'arriv\u00e9e (ID)*: idarretarrivee[text] Identifiant du point d'arr\u00eat d'arriv\u00e9e du parcours : pour obtenir plus d'informations sur ce point d'arr\u00eat, vous devez consulter le jeu de donn\u00e9es \"Topologie des points d'arr\u00eats de busdu r\u00e9seau STAR\" en filtrant sur le points d'arr\u00eat avec l'identifiant correspondant.\n- *Point d'arr\u00eat d'arriv\u00e9e (nom)*: nomarretarrivee[text]\n- *Accessible aux PMR*: estaccessiblepmr[text]\n- *Parcours*: parcours[geo_shape]\n- *Longueur*: longueur[double] Distance parcourue par les v\u00e9hicules empruntant ce parcours (en m\u00e8tres).\n- *Couleur du trac\u00e9*: couleurtrace[text]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "983cbabb-3f58-4126-9a69-c0c9d8355e40",
+      "last_modified": "2015-10-27T15:36:11",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/983cbabb-3f58-4126-9a69-c0c9d8355e40",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:07:57.184000",
+      "title": "Export au format JSON",
+      "url": "http://data.explore.star.fr/explore/dataset/tco-bus-topologie-parcours-td/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:07:57.184000",
+      "description": "- *Identifiant*: id[text]\n- *Code*: code[text]\n- *Ligne (ID)*: idligne[text] Identifiant de la ligne de bus rattach\u00e9e au parcours : pour obtenir plus d'informations sur cette ligne, vous devez consulter le jeu de donn\u00e9es \"Lignes de bus du r\u00e9seau STAR\" en filtrant sur la ligne avec l'identifiant correspondant.\n- *Ligne (nom court)*: nomcourtligne[text]\n- *Code du sens*: sens[int]\n- *Sens commercial*: senscommercial[text]\n- *Type*: type[text] Type de parcours (principal ou secondaire) pour la ligne et le sens consid\u00e9r\u00e9s.\n- *Libell\u00e9 long*: libellelong[text]\n- *Point d'arr\u00eat de d\u00e9part (ID)*: idarretdepart[text] Identifiant du point d'arr\u00eat de d\u00e9part du parcours : pour obtenir plus d'informations sur ce point d'arr\u00eat, vous devez consulter le jeu de donn\u00e9es \"Topologie des points d'arr\u00eats de bus du r\u00e9seau STAR\" en filtrant sur le points d'arr\u00eat avec l'identifiant correspondant.\n- *Point d'arr\u00eat de d\u00e9part (nom)*: nomarretdepart[text]\n- *Point d'arr\u00eat d'arriv\u00e9e (ID)*: idarretarrivee[text] Identifiant du point d'arr\u00eat d'arriv\u00e9e du parcours : pour obtenir plus d'informations sur ce point d'arr\u00eat, vous devez consulter le jeu de donn\u00e9es \"Topologie des points d'arr\u00eats de busdu r\u00e9seau STAR\" en filtrant sur le points d'arr\u00eat avec l'identifiant correspondant.\n- *Point d'arr\u00eat d'arriv\u00e9e (nom)*: nomarretarrivee[text]\n- *Accessible aux PMR*: estaccessiblepmr[text]\n- *Parcours*: parcours[geo_shape]\n- *Longueur*: longueur[double] Distance parcourue par les v\u00e9hicules empruntant ce parcours (en m\u00e8tres).\n- *Couleur du trac\u00e9*: couleurtrace[text]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "2d0ccfd9-d471-46a6-bb0c-3e225f079094",
+      "last_modified": "2015-10-27T15:36:11",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2d0ccfd9-d471-46a6-bb0c-3e225f079094",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:07:57.184000",
+      "title": "Export au format GeoJSON",
+      "url": "http://data.explore.star.fr/explore/dataset/tco-bus-topologie-parcours-td/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:07:57.184000",
+      "description": "- *Identifiant*: id[text]\n- *Code*: code[text]\n- *Ligne (ID)*: idligne[text] Identifiant de la ligne de bus rattach\u00e9e au parcours : pour obtenir plus d'informations sur cette ligne, vous devez consulter le jeu de donn\u00e9es \"Lignes de bus du r\u00e9seau STAR\" en filtrant sur la ligne avec l'identifiant correspondant.\n- *Ligne (nom court)*: nomcourtligne[text]\n- *Code du sens*: sens[int]\n- *Sens commercial*: senscommercial[text]\n- *Type*: type[text] Type de parcours (principal ou secondaire) pour la ligne et le sens consid\u00e9r\u00e9s.\n- *Libell\u00e9 long*: libellelong[text]\n- *Point d'arr\u00eat de d\u00e9part (ID)*: idarretdepart[text] Identifiant du point d'arr\u00eat de d\u00e9part du parcours : pour obtenir plus d'informations sur ce point d'arr\u00eat, vous devez consulter le jeu de donn\u00e9es \"Topologie des points d'arr\u00eats de bus du r\u00e9seau STAR\" en filtrant sur le points d'arr\u00eat avec l'identifiant correspondant.\n- *Point d'arr\u00eat de d\u00e9part (nom)*: nomarretdepart[text]\n- *Point d'arr\u00eat d'arriv\u00e9e (ID)*: idarretarrivee[text] Identifiant du point d'arr\u00eat d'arriv\u00e9e du parcours : pour obtenir plus d'informations sur ce point d'arr\u00eat, vous devez consulter le jeu de donn\u00e9es \"Topologie des points d'arr\u00eats de busdu r\u00e9seau STAR\" en filtrant sur le points d'arr\u00eat avec l'identifiant correspondant.\n- *Point d'arr\u00eat d'arriv\u00e9e (nom)*: nomarretarrivee[text]\n- *Accessible aux PMR*: estaccessiblepmr[text]\n- *Parcours*: parcours[geo_shape]\n- *Longueur*: longueur[double] Distance parcourue par les v\u00e9hicules empruntant ce parcours (en m\u00e8tres).\n- *Couleur du trac\u00e9*: couleurtrace[text]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "0989f817-036f-476a-8cc0-1497b79c21a9",
+      "last_modified": "2015-10-27T15:36:11",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0989f817-036f-476a-8cc0-1497b79c21a9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:07:57.184000",
+      "title": "Export au format Shapefile",
+      "url": "http://data.explore.star.fr/explore/dataset/tco-bus-topologie-parcours-td/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "parcours-des-lignes-de-bus-du-reseau-star-1",
+  "spatial": null,
+  "tags": [
+    "bus",
+    "deplacements",
+    "parcours",
+    "star",
+    "transports"
+  ],
+  "temporal_coverage": null,
+  "title": "Parcours des lignes de bus du r\u00e9seau STAR",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/parcours-des-lignes-de-bus-du-reseau-star-1/"
+}

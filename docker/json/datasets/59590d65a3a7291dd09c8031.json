@@ -1,0 +1,103 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T17:12:37.534000",
+  "deleted": null,
+  "description": "La Ville accompagne une exp\u00e9rimentation propos\u00e9e par Cisco place de la Nation qui vise \u00e0 mesurer les diff\u00e9rents usages li\u00e9s aux d\u00e9placements sur la place (v\u00e9hicules motoris\u00e9s, v\u00e9los, pi\u00e9tons) ainsi que les pollutions atmosph\u00e9riques et sonores.\n\nA compter de d\u00e9cembre 2015 et pendant une dur\u00e9e d\u2019un an, une cinquantaine de capteurs situ\u00e9s tout au long de la place mesureront et analyseront en temps r\u00e9el l'usage fait de la place.\n\nEn savoir plus ici: <https://frama.link/pariscapteurs>\n\nCe jeu de donn\u00e9es rassemble les flux de v\u00e9hicules\u00a0mesur\u00e9s sur la place de la Nation.\n\nLes valeurs nulles (\u00e9gales \u00e0 0) signifient que la mesure n'a pas \u00e9t\u00e9 effectu\u00e9e \u00e0 cause d'un souci technique.\n\nLe r\u00e9f\u00e9rentiel des capteurs est disponible ici :[http://opendata.paris.fr/explore/dataset/place-de-la-nation-points-de-mesure-flux/\u00a0](http://opendata.paris.fr/explore/dataset/place-de-la-nation-points-de-mesure-flux/)",
+  "extras": {
+    "harvest:domain": "opendata.paris.fr",
+    "harvest:last_update": "2017-11-27T05:12:23.560207",
+    "harvest:remote_id": "place-de-la-nation-flux-vehicules",
+    "harvest:source_id": "5631ef2988ee3837ce531585",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.paris.fr/explore/dataset/place-de-la-nation-flux-vehicules/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59590d65a3a7291dd09c8031",
+  "last_modified": "2017-11-27T05:12:23.562000",
+  "last_update": "2017-11-27T05:12:23.559000",
+  "license": "odc-odbl",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff89a3a7292c64a77eb7",
+    "logo": "https://www.data.gouv.fr/s/avatars/b2/0e83ec3699415a87640e97c51cb006-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b2/0e83ec3699415a87640e97c51cb006-100.png",
+    "name": "Mairie de Paris",
+    "page": "https://www.data.gouv.fr/fr/organizations/mairie-de-paris/",
+    "slug": "mairie-de-paris",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/mairie-de-paris/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/place-de-la-nation-flux-vehicules/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:12:23.559000",
+      "description": "- *Metric*: metric[text]\n- *Value*: value[double]\n- *Value type*: value_type[text]\n- *Host*: host[int]\n- *Class*: class[text]\n- *Timestamp*: timestamp[datetime]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "79cce99b-dfa4-4bdd-a1e8-ee05bc458aa8",
+      "last_modified": "2016-06-28T09:48:30",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/79cce99b-dfa4-4bdd-a1e8-ee05bc458aa8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:12:23.559000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.paris.fr/explore/dataset/place-de-la-nation-flux-vehicules/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:12:23.559000",
+      "description": "- *Metric*: metric[text]\n- *Value*: value[double]\n- *Value type*: value_type[text]\n- *Host*: host[int]\n- *Class*: class[text]\n- *Timestamp*: timestamp[datetime]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "232fb96e-aab5-494e-a3a8-6ab826a57045",
+      "last_modified": "2016-06-28T09:48:30",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/232fb96e-aab5-494e-a3a8-6ab826a57045",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:12:23.559000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.paris.fr/explore/dataset/place-de-la-nation-flux-vehicules/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "place-de-la-nation-flux-vehicules",
+  "spatial": null,
+  "tags": [
+    "capteurs",
+    "equipements",
+    "iot",
+    "services",
+    "social",
+    "vehicules"
+  ],
+  "temporal_coverage": null,
+  "title": "Place de la Nation - flux v\u00e9hicules",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/place-de-la-nation-flux-vehicules/"
+}

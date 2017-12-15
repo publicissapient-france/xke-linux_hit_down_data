@@ -1,0 +1,100 @@
+{
+  "badges": [],
+  "created_at": "2017-07-05T01:36:47.815000",
+  "deleted": null,
+  "description": "Flux RSS qui permet de r\u00e9cup\u00e9rer le descriptif des titres de transport valables en Ile-de-France.\n\nLien vers le flux RSS : ****[**vianavigo.com**](http://www.vianavigo.com/fr/rss-titres-et-tarifs/)\n\n **** _Le document joint d\u00e9crit la structure du flux et le mode op\u00e9ratoire pour int\u00e9grer le flux RSS sur un site tiers._ ****  \n[ ****](http://www.vianavigo.com/fr/rss-titres-et-tarifs/)",
+  "extras": {
+    "harvest:domain": "data.issy.com",
+    "harvest:last_update": "2017-11-27T05:06:21.050252",
+    "harvest:remote_id": "description-et-tarif-des-titres-de-transport-en-ile-de-france",
+    "harvest:source_id": "595c266188ee382c7517add5",
+    "ods:has_records": true,
+    "ods:url": "https://data.issy.com//explore/dataset/description-et-tarif-des-titres-de-transport-en-ile-de-france/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "595c268fa3a7296407d69b1c",
+  "last_modified": "2017-11-27T05:06:21.102000",
+  "last_update": "2017-11-27T05:06:21.049000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb7a3a7292c64a78145",
+    "logo": "https://www.data.gouv.fr/s/avatars/b9/beecacecbd4d42ac10ef244f11e44e-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b9/beecacecbd4d42ac10ef244f11e44e-100.png",
+    "name": "Ville d'Issy-les-Moulineaux",
+    "page": "https://www.data.gouv.fr/fr/organizations/ville-d-issy-les-moulineaux/",
+    "slug": "ville-d-issy-les-moulineaux",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ville-d-issy-les-moulineaux/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/description-et-tarif-des-titres-de-transport-en-ile-de-france-2/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:06:21.049000",
+      "description": "- *Id*: id[text]\n- *Title*: title[text] Le titre du tarif\n- *Link*: link[text] Le lien vers la page correspondant au tarif sur le site Vianavigo\n- *Description*: description[text] La description courte du tarif\n- *Published*: published[datetime] La date de derni\u00e8re mise \u00e0 jour des informations relatives au tarif.\n- *stif_ldescription*: stif_ldescription[text] La description longue du titre de transport\n- *stif_codetitre*: stif_codetitre[text] Le code du titre de transport tel que renseign\u00e9 sur Vianavigo. Ce code est p\u00e9renne.\n- *stif_profils*: stif_profils[text] La liste des profils associ\u00e9s \u00e0 ce titre de transport, tel que renseign\u00e9 sur Vianavigo. Cette information correspond aux profils d\u2019usagers concern\u00e9s par le titre de transport. Les diff\u00e9rents profils pris en compte sont (en fran\u00e7ais) :\n- grand public (tout public)\n- Un coll\u00e9gien, lyc\u00e9en ou \u00e9tudiant\n- Une personne handicap\u00e9e sous condition de ressource\n- Une personne \u00e2g\u00e9e retrait\u00e9e sous condition de ressource\n- B\u00e9n\u00e9ficiaire d\u2019aides sociales\n- Un touriste\n- *stif_frequence*: stif_frequence[text] La liste des fr\u00e9quences associ\u00e9es \u00e0 ce titre de transport, tel que renseign\u00e9 sur Vianavigo. Cette information correspond aux fr\u00e9quences d\u2019usages les plus adapt\u00e9es pour le titre de transport. Les diff\u00e9rentes fr\u00e9quences prises en compte sont :\n- Tous les jours ou presque\n- 1 \u00e0 2 fois par semaine\n- Au moins une fois par mois\n- Beaucoup sur un ou plusieurs jours de suite\n- *stif_contacts*: stif_contacts[text] La description des coordonn\u00e9es des contacts associ\u00e9s \u00e0 ce titre de transport. Cette description n\u2019est pas toujours pr\u00e9sente. Elle permet de conna\u00eetre par exemple pour le titre \u00ab Le Forfait Imagine R \u00bb, de d\u00e9crire les coordonn\u00e9es de l\u2019agence Imagine R.\n- *stif_type*: stif_type[text] Le code du type du tarif tel que renseign\u00e9 sur Vianavigo. Il d\u00e9crit la nature du titre de transport. Il peut prendre les valeurs suivantes :\n- ticket\n- forfait\n- tarifs sp\u00e9cifiques\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "211d243d-34b0-4577-860d-3ac2dba3cc63",
+      "last_modified": "2016-02-17T16:42:08",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/211d243d-34b0-4577-860d-3ac2dba3cc63",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:06:21.049000",
+      "title": "Export au format CSV",
+      "url": "https://data.issy.com//explore/dataset/description-et-tarif-des-titres-de-transport-en-ile-de-france/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:06:21.049000",
+      "description": "- *Id*: id[text]\n- *Title*: title[text] Le titre du tarif\n- *Link*: link[text] Le lien vers la page correspondant au tarif sur le site Vianavigo\n- *Description*: description[text] La description courte du tarif\n- *Published*: published[datetime] La date de derni\u00e8re mise \u00e0 jour des informations relatives au tarif.\n- *stif_ldescription*: stif_ldescription[text] La description longue du titre de transport\n- *stif_codetitre*: stif_codetitre[text] Le code du titre de transport tel que renseign\u00e9 sur Vianavigo. Ce code est p\u00e9renne.\n- *stif_profils*: stif_profils[text] La liste des profils associ\u00e9s \u00e0 ce titre de transport, tel que renseign\u00e9 sur Vianavigo. Cette information correspond aux profils d\u2019usagers concern\u00e9s par le titre de transport. Les diff\u00e9rents profils pris en compte sont (en fran\u00e7ais) :\n- grand public (tout public)\n- Un coll\u00e9gien, lyc\u00e9en ou \u00e9tudiant\n- Une personne handicap\u00e9e sous condition de ressource\n- Une personne \u00e2g\u00e9e retrait\u00e9e sous condition de ressource\n- B\u00e9n\u00e9ficiaire d\u2019aides sociales\n- Un touriste\n- *stif_frequence*: stif_frequence[text] La liste des fr\u00e9quences associ\u00e9es \u00e0 ce titre de transport, tel que renseign\u00e9 sur Vianavigo. Cette information correspond aux fr\u00e9quences d\u2019usages les plus adapt\u00e9es pour le titre de transport. Les diff\u00e9rentes fr\u00e9quences prises en compte sont :\n- Tous les jours ou presque\n- 1 \u00e0 2 fois par semaine\n- Au moins une fois par mois\n- Beaucoup sur un ou plusieurs jours de suite\n- *stif_contacts*: stif_contacts[text] La description des coordonn\u00e9es des contacts associ\u00e9s \u00e0 ce titre de transport. Cette description n\u2019est pas toujours pr\u00e9sente. Elle permet de conna\u00eetre par exemple pour le titre \u00ab Le Forfait Imagine R \u00bb, de d\u00e9crire les coordonn\u00e9es de l\u2019agence Imagine R.\n- *stif_type*: stif_type[text] Le code du type du tarif tel que renseign\u00e9 sur Vianavigo. Il d\u00e9crit la nature du titre de transport. Il peut prendre les valeurs suivantes :\n- ticket\n- forfait\n- tarifs sp\u00e9cifiques\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "d4ea4821-6955-4ef5-8cc3-6b5f3b5583db",
+      "last_modified": "2016-02-17T16:42:08",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d4ea4821-6955-4ef5-8cc3-6b5f3b5583db",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:06:21.049000",
+      "title": "Export au format JSON",
+      "url": "https://data.issy.com//explore/dataset/description-et-tarif-des-titres-de-transport-en-ile-de-france/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "description-et-tarif-des-titres-de-transport-en-ile-de-france-2",
+  "spatial": null,
+  "tags": [
+    "deplacements",
+    "titres-de-transport",
+    "transports"
+  ],
+  "temporal_coverage": null,
+  "title": "Description et tarif des titres de transport en Ile-de-France",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/description-et-tarif-des-titres-de-transport-en-ile-de-france-2/"
+}

@@ -1,0 +1,193 @@
+{
+  "badges": [],
+  "created_at": "2013-04-19T00:00:00",
+  "deleted": null,
+  "description": "Extraction de m\u00e9tadonn\u00e9es notamment la pr\u00e9sence des conseillers \u00e0 partir des proc\u00e8s-verbaux des conseils municipaux de la commune",
+  "extras": {
+    "ckan:name": "proc-s-verbaux-des-conseils-municipaux-de-brocas-de-2008-2012",
+    "harvest:domain": "www.nosdonnees.fr",
+    "harvest:last_update": "2017-07-10T06:05:48.555864",
+    "harvest:remote_id": "b1ada966-45d5-47b6-b122-81614b81851c",
+    "harvest:source_id": "5878ee1588ee385bffa6f719",
+    "remote_url": "https://github.com/RouxRC/various_scrapers/tree/master/PVs-CM-Brocas"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5878ee70a3a7291484cac81a",
+  "last_modified": "2017-07-10T06:05:48.561000",
+  "last_update": "2017-01-13T16:12:48.590000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff99a3a7292c64a78016",
+    "logo": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-100.png",
+    "name": "NosDonn\u00e9es.fr",
+    "page": "https://www.data.gouv.fr/fr/organizations/nosdonnees-fr/",
+    "slug": "nosdonnees-fr",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nosdonnees-fr/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/proc-s-verbaux-des-conseils-municipaux-de-brocas-de-2008-2012/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:48.588000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T22:09:33.338000",
+        "check:status": 200,
+        "check:url": "https://github.com/RouxRC/various_scrapers/blob/master/PVs-CM-Brocas/liste_elus.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "eb3546ff-0340-4366-8df8-387c3faea292",
+      "last_modified": "2017-07-10T06:05:48.554000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/eb3546ff-0340-4366-8df8-387c3faea292",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "",
+      "published": "2017-01-13T16:12:48.588000",
+      "title": "Liste des \u00e9lus",
+      "url": "https://github.com/RouxRC/various_scrapers/blob/master/PVs-CM-Brocas/liste_elus.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:48.589000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T22:09:35.425000",
+        "check:status": 200,
+        "check:url": "https://github.com/RouxRC/various_scrapers/blob/master/PVs-CM-Brocas/presents-refined.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a185ad58-4d7c-49e1-8c6f-a930a52cabce",
+      "last_modified": "2017-07-10T06:05:48.554000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a185ad58-4d7c-49e1-8c6f-a930a52cabce",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "",
+      "published": "2017-01-13T16:12:48.589000",
+      "title": "Pr\u00e9sences individuelles des \u00e9lus \u00e0 chaque r\u00e9union",
+      "url": "https://github.com/RouxRC/various_scrapers/blob/master/PVs-CM-Brocas/presents-refined.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:48.589000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T22:09:33.962000",
+        "check:status": 200,
+        "check:url": "https://github.com/RouxRC/various_scrapers/blob/master/PVs-CM-Brocas/PVs-metadonnees.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "006d07fe-b65e-4d7c-a26b-b988c41aeee9",
+      "last_modified": "2017-07-10T06:05:48.555000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/006d07fe-b65e-4d7c-a26b-b988c41aeee9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "",
+      "published": "2017-01-13T16:12:48.589000",
+      "title": "M\u00e9tadonn\u00e9es sur les r\u00e9unions",
+      "url": "https://github.com/RouxRC/various_scrapers/blob/master/PVs-CM-Brocas/PVs-metadonnees.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:48.589000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T22:09:37.454000",
+        "check:status": 200,
+        "check:url": "https://github.com/RouxRC/various_scrapers/blob/master/PVs-CM-Brocas/presences_elus_mois.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "759ab5e0-b2cb-42e5-9f66-29dda8384c44",
+      "last_modified": "2017-07-10T06:05:48.555000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/759ab5e0-b2cb-42e5-9f66-29dda8384c44",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "",
+      "published": "2017-01-13T16:12:48.589000",
+      "title": "Pr\u00e9sence mensuelle des \u00e9lus",
+      "url": "https://github.com/RouxRC/various_scrapers/blob/master/PVs-CM-Brocas/presences_elus_mois.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:48.590000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T22:09:32.601000",
+        "check:status": 200,
+        "check:url": "https://github.com/RouxRC/various_scrapers/blob/master/PVs-CM-Brocas/total_reunions_mois.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "9b0e9bff-8456-4661-84b9-dbdac66877d9",
+      "last_modified": "2017-07-10T06:05:48.555000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9b0e9bff-8456-4661-84b9-dbdac66877d9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "",
+      "published": "2017-01-13T16:12:48.590000",
+      "title": "Nombre de r\u00e9unions mensuelles",
+      "url": "https://github.com/RouxRC/various_scrapers/blob/master/PVs-CM-Brocas/total_reunions_mois.csv"
+    }
+  ],
+  "slug": "proc-s-verbaux-des-conseils-municipaux-de-brocas-de-2008-2012",
+  "spatial": null,
+  "tags": [
+    "brocas",
+    "conseil-municipal",
+    "presence",
+    "pvs"
+  ],
+  "temporal_coverage": null,
+  "title": "Proc\u00e8s-Verbaux des Conseils Municipaux de Brocas de 2008 \u00e0 2012",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/proc-s-verbaux-des-conseils-municipaux-de-brocas-de-2008-2012/"
+}

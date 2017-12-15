@@ -1,0 +1,145 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T18:04:20.771000",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es\u00a0permet de visualiser les am\u00e9nagements cyclables pr\u00e9sents sur le territoire parisien en mai 2015.\n\n5 principaux types d\u2019am\u00e9nagements sont distingu\u00e9s et d\u00e9taill\u00e9s. Ces diff\u00e9rents types sont de plus d\u00e9taill\u00e9s et le statut de la voie \u00e0 laquelle ils appartiennent est indiqu\u00e9.\u00a0\n\nEn pi\u00e8ces jointes, la description des lib\u00e9ll\u00e9s des colonnes.\u00a0\n\n ** _Source des donn\u00e9es_** **:**\n\n-\u00a0Google Maps prises de vue 2008, 2009, 2012, 2013, 2014\n\n\\- Mairie de Paris,\u00a0Direction de la\u00a0Voirie et des\u00a0D\u00e9placements\u00a0/Service des Territoires/Sections Territoriales de Voirie",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T06:23:25.681277",
+    "harvest:remote_id": "reseau-cyclable",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/reseau-cyclable/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59591984a3a7291dd09c80cc",
+  "last_modified": "2017-11-27T06:23:25.682000",
+  "last_update": "2017-11-27T06:23:25.680000",
+  "license": "odc-odbl",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/paris-reseau-cyclable/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:23:25.679000",
+      "description": "- *OBJECTID*: objectid[int]\n- *ARRDT*: arrdt[int]\n- *BOIS*: bois[text]\n- *TYPE_VOIE*: type_voie[text]\n- *NOM_VOIE*: nom_voie[text]\n- *STATUT*: statut[text]\n- *TYPOLOGIE*: typologie[text]\n- *SENS_VELO*: sens_velo[text] [01: SENS CIRCULATION GENERALE] , [02: CONTRESENS] , [03: CIRCULATION GENERALE INTERDITE]\n- *TYPOLOGIE_SIMPLE*: typologie_simple[text]\n- *SHAPE.LEN*: shape_len[double]\n- *geo_shape*: geo_shape[geo_shape]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "bc0eff08-ebc1-436b-92fc-e2e288608623",
+      "last_modified": "2017-02-17T16:11:15",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/bc0eff08-ebc1-436b-92fc-e2e288608623",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T06:23:25.680000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/reseau-cyclable/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:23:25.680000",
+      "description": "- *OBJECTID*: objectid[int]\n- *ARRDT*: arrdt[int]\n- *BOIS*: bois[text]\n- *TYPE_VOIE*: type_voie[text]\n- *NOM_VOIE*: nom_voie[text]\n- *STATUT*: statut[text]\n- *TYPOLOGIE*: typologie[text]\n- *SENS_VELO*: sens_velo[text] [01: SENS CIRCULATION GENERALE] , [02: CONTRESENS] , [03: CIRCULATION GENERALE INTERDITE]\n- *TYPOLOGIE_SIMPLE*: typologie_simple[text]\n- *SHAPE.LEN*: shape_len[double]\n- *geo_shape*: geo_shape[geo_shape]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "2f00a8cd-d0e4-4248-abba-564b5cb7eddc",
+      "last_modified": "2017-02-17T16:11:15",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2f00a8cd-d0e4-4248-abba-564b5cb7eddc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T06:23:25.680000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/reseau-cyclable/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:23:25.680000",
+      "description": "- *OBJECTID*: objectid[int]\n- *ARRDT*: arrdt[int]\n- *BOIS*: bois[text]\n- *TYPE_VOIE*: type_voie[text]\n- *NOM_VOIE*: nom_voie[text]\n- *STATUT*: statut[text]\n- *TYPOLOGIE*: typologie[text]\n- *SENS_VELO*: sens_velo[text] [01: SENS CIRCULATION GENERALE] , [02: CONTRESENS] , [03: CIRCULATION GENERALE INTERDITE]\n- *TYPOLOGIE_SIMPLE*: typologie_simple[text]\n- *SHAPE.LEN*: shape_len[double]\n- *geo_shape*: geo_shape[geo_shape]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "b2c8d343-746a-4342-944b-556f5d1d34d9",
+      "last_modified": "2017-02-17T16:11:15",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b2c8d343-746a-4342-944b-556f5d1d34d9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T06:23:25.680000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/reseau-cyclable/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:23:25.680000",
+      "description": "- *OBJECTID*: objectid[int]\n- *ARRDT*: arrdt[int]\n- *BOIS*: bois[text]\n- *TYPE_VOIE*: type_voie[text]\n- *NOM_VOIE*: nom_voie[text]\n- *STATUT*: statut[text]\n- *TYPOLOGIE*: typologie[text]\n- *SENS_VELO*: sens_velo[text] [01: SENS CIRCULATION GENERALE] , [02: CONTRESENS] , [03: CIRCULATION GENERALE INTERDITE]\n- *TYPOLOGIE_SIMPLE*: typologie_simple[text]\n- *SHAPE.LEN*: shape_len[double]\n- *geo_shape*: geo_shape[geo_shape]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "72a51312-bb86-4d57-8dfb-cbc5a8a5f6c4",
+      "last_modified": "2017-02-17T16:11:15",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/72a51312-bb86-4d57-8dfb-cbc5a8a5f6c4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T06:23:25.680000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.iledefrance.fr//explore/dataset/reseau-cyclable/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "paris-reseau-cyclable",
+  "spatial": null,
+  "tags": [
+    "circulation",
+    "deplacements-transports",
+    "geolocalisation",
+    "velo"
+  ],
+  "temporal_coverage": null,
+  "title": "Paris - R\u00e9seau Cyclable",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/paris-reseau-cyclable/"
+}

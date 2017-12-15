@@ -1,0 +1,147 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T18:22:41.913000",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es reprend toutes les informations pr\u00e9sentes sur l'application [cartolycees.iledefrance.fr](http://cartolycees.iledefrance.fr) :\n\n  *  **Statut**   Apprentissage / Scolaire\n  *  **Nom de l'\u00e9tablissement**\n  *  **G\u00e9olocalisation**\n  *  **Adresse**\n  *  **Internat   **oui / non\n  *  **Acad\u00e9mie**\n  *  **Niveau   **Pr\u00e9-Bac / Post-Bac\n  *  **Fili\u00e8re** BTP, chimie...\n  *  **Sous-fili\u00e8re** Gros-\u0153uvre, second \u0153uvre...\n  *  **Effectifs**\n  *  **Gare  **\n\n\n\n  \nEn pi\u00e8ce jointe, le CSV compl\u00e8te les informations par \u00e9tablissement",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T05:37:13.427190",
+    "harvest:remote_id": "cartolycees-la-carte-des-filieres-scolaires-et-dapprentissage",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:references": "http://cartolycees.iledefrance.fr/",
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/cartolycees-la-carte-des-filieres-scolaires-et-dapprentissage/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59591dd1a3a7291dcf9c8172",
+  "last_modified": "2017-11-27T05:37:13.428000",
+  "last_update": "2017-11-27T05:37:13.426000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/cartolycees-la-carte-des-filieres-scolaires-et-dapprentissage/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:37:13.425000",
+      "description": "- *Statut*: statut[text]\n- *UAI*: uai[text]\n- *Code Nature UAI*: code_nature_uai[int]\n- *Libelle code nature UAI*: libelle_code_nature_uai[text]\n- *NOM*: nom[text]\n- *Geo*: geo[geo_point_2d]\n- *Longitude*: longitude[text]\n- *Latitude*: latitude[text]\n- *ADRESSE*: adresse[text]\n- *Code INSEE*: code_insee[int]\n- *Code POSTAL*: code_postal[int]\n- *Libel COMMUNE*: libel_commune[text]\n- *Pr\u00e9sence internat*: presence_internat[text]\n- *Temps acc\u00e8s transport*: temps_acces_transport[int]\n- *ACA*: aca[text]\n- *Niveau*: niveau[text]\n- *Fili\u00e8re PPI*: filiere_ppi[text]\n- *Sous Fili\u00e8re PPI*: sous_filiere_ppi[text]\n- *EFF Scolaire \"entrants\" 2011*: eff_scolaire_entrants_2011[int]\n- *Eff Scolaire Global UAI 2011*: eff_scolaire_global_uai_2011[int]\n- *Effectif Apprentissage Global UAI 2011*: effectif_apprentissage_global_uai_2011[int]\n- *Eff global 2011*: eff_global_2011[int]\n- *Temps acces*: temps_acces[int]\n- *gare*: gare[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "9c5bea9b-5864-4ce1-8d75-5058a11f0a23",
+      "last_modified": "2014-03-10T14:59:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9c5bea9b-5864-4ce1-8d75-5058a11f0a23",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:37:13.425000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/cartolycees-la-carte-des-filieres-scolaires-et-dapprentissage/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:37:13.425000",
+      "description": "- *Statut*: statut[text]\n- *UAI*: uai[text]\n- *Code Nature UAI*: code_nature_uai[int]\n- *Libelle code nature UAI*: libelle_code_nature_uai[text]\n- *NOM*: nom[text]\n- *Geo*: geo[geo_point_2d]\n- *Longitude*: longitude[text]\n- *Latitude*: latitude[text]\n- *ADRESSE*: adresse[text]\n- *Code INSEE*: code_insee[int]\n- *Code POSTAL*: code_postal[int]\n- *Libel COMMUNE*: libel_commune[text]\n- *Pr\u00e9sence internat*: presence_internat[text]\n- *Temps acc\u00e8s transport*: temps_acces_transport[int]\n- *ACA*: aca[text]\n- *Niveau*: niveau[text]\n- *Fili\u00e8re PPI*: filiere_ppi[text]\n- *Sous Fili\u00e8re PPI*: sous_filiere_ppi[text]\n- *EFF Scolaire \"entrants\" 2011*: eff_scolaire_entrants_2011[int]\n- *Eff Scolaire Global UAI 2011*: eff_scolaire_global_uai_2011[int]\n- *Effectif Apprentissage Global UAI 2011*: effectif_apprentissage_global_uai_2011[int]\n- *Eff global 2011*: eff_global_2011[int]\n- *Temps acces*: temps_acces[int]\n- *gare*: gare[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "aecea226-6635-4e99-a04e-d6a280dc727e",
+      "last_modified": "2014-03-10T14:59:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/aecea226-6635-4e99-a04e-d6a280dc727e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:37:13.425000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/cartolycees-la-carte-des-filieres-scolaires-et-dapprentissage/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:37:13.426000",
+      "description": "- *Statut*: statut[text]\n- *UAI*: uai[text]\n- *Code Nature UAI*: code_nature_uai[int]\n- *Libelle code nature UAI*: libelle_code_nature_uai[text]\n- *NOM*: nom[text]\n- *Geo*: geo[geo_point_2d]\n- *Longitude*: longitude[text]\n- *Latitude*: latitude[text]\n- *ADRESSE*: adresse[text]\n- *Code INSEE*: code_insee[int]\n- *Code POSTAL*: code_postal[int]\n- *Libel COMMUNE*: libel_commune[text]\n- *Pr\u00e9sence internat*: presence_internat[text]\n- *Temps acc\u00e8s transport*: temps_acces_transport[int]\n- *ACA*: aca[text]\n- *Niveau*: niveau[text]\n- *Fili\u00e8re PPI*: filiere_ppi[text]\n- *Sous Fili\u00e8re PPI*: sous_filiere_ppi[text]\n- *EFF Scolaire \"entrants\" 2011*: eff_scolaire_entrants_2011[int]\n- *Eff Scolaire Global UAI 2011*: eff_scolaire_global_uai_2011[int]\n- *Effectif Apprentissage Global UAI 2011*: effectif_apprentissage_global_uai_2011[int]\n- *Eff global 2011*: eff_global_2011[int]\n- *Temps acces*: temps_acces[int]\n- *gare*: gare[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "08f2ed94-07b2-410a-b278-61dcbf686e02",
+      "last_modified": "2014-03-10T14:59:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/08f2ed94-07b2-410a-b278-61dcbf686e02",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:37:13.426000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/cartolycees-la-carte-des-filieres-scolaires-et-dapprentissage/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:37:13.426000",
+      "description": "- *Statut*: statut[text]\n- *UAI*: uai[text]\n- *Code Nature UAI*: code_nature_uai[int]\n- *Libelle code nature UAI*: libelle_code_nature_uai[text]\n- *NOM*: nom[text]\n- *Geo*: geo[geo_point_2d]\n- *Longitude*: longitude[text]\n- *Latitude*: latitude[text]\n- *ADRESSE*: adresse[text]\n- *Code INSEE*: code_insee[int]\n- *Code POSTAL*: code_postal[int]\n- *Libel COMMUNE*: libel_commune[text]\n- *Pr\u00e9sence internat*: presence_internat[text]\n- *Temps acc\u00e8s transport*: temps_acces_transport[int]\n- *ACA*: aca[text]\n- *Niveau*: niveau[text]\n- *Fili\u00e8re PPI*: filiere_ppi[text]\n- *Sous Fili\u00e8re PPI*: sous_filiere_ppi[text]\n- *EFF Scolaire \"entrants\" 2011*: eff_scolaire_entrants_2011[int]\n- *Eff Scolaire Global UAI 2011*: eff_scolaire_global_uai_2011[int]\n- *Effectif Apprentissage Global UAI 2011*: effectif_apprentissage_global_uai_2011[int]\n- *Eff global 2011*: eff_global_2011[int]\n- *Temps acces*: temps_acces[int]\n- *gare*: gare[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "4da5f70a-1425-4f7f-8149-a99f630e5688",
+      "last_modified": "2014-03-10T14:59:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4da5f70a-1425-4f7f-8149-a99f630e5688",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:37:13.426000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.iledefrance.fr//explore/dataset/cartolycees-la-carte-des-filieres-scolaires-et-dapprentissage/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "cartolycees-la-carte-des-filieres-scolaires-et-dapprentissage",
+  "spatial": null,
+  "tags": [
+    "apprentissage",
+    "enseignement-formation-recherche",
+    "enseignement-superieur",
+    "geolocalisation",
+    "lycees"
+  ],
+  "temporal_coverage": null,
+  "title": "Cartolyc\u00e9es - la carte des fili\u00e8res scolaires et d'apprentissage",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/cartolycees-la-carte-des-filieres-scolaires-et-dapprentissage/"
+}

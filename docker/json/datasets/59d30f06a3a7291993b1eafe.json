@@ -1,0 +1,121 @@
+{
+  "badges": [],
+  "created_at": "2017-10-02T00:00:00",
+  "deleted": null,
+  "description": "Taux de participation aux \u00e9lections municipales pour la France m\u00e9tropolitaine, par d\u00e9partements.",
+  "extras": {
+    "ckan:name": "taux-de-participation-aux-elections-municipales",
+    "contact_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "contact_name": "Mission Agenda 21",
+    "contact_uri": "https://datacat.datalocale.fr/414579",
+    "guid": "https://datacat.datalocale.fr/416071",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-10-03T06:16:06.477044",
+    "harvest:remote_id": "8d3b45ae-4b62-48b5-8bfb-1f1038676b36",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "bd943822-6169-4836-ba79-6c281530aa50",
+    "issued": "2013-08-27T09:46:39+00:00",
+    "modified": "2016-07-18T09:21:06.498786+00:00",
+    "publisher_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "publisher_name": "dgsd-a21",
+    "publisher_uri": "https://datacat.datalocale.fr/414578",
+    "theme": "[\"\u00e9lection locale\"]",
+    "uri": "https://datacat.datalocale.fr/416071"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59d30f06a3a7291993b1eafe",
+  "last_modified": "2017-10-03T06:16:06.478000",
+  "last_update": "2017-10-03T06:16:06.476000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/taux-de-participation-aux-elections-municipales-2/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-10-03T06:16:06.475000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T15:55:08.861000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416073/raw/2013-09-02-095532tx-participations_elections_munic.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "24f373b0-1daf-4956-bc06-cd7165767c62",
+      "last_modified": "2017-10-03T06:16:06.475000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/24f373b0-1daf-4956-bc06-cd7165767c62",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-03T06:16:06.475000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/416073/raw/2013-09-02-095532tx-participations_elections_munic.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-03T06:16:06.476000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T15:55:08.863000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416075/raw/2013-09-02-095532tx-participations_elections_munic.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "a644e078-2c46-4800-8cbc-9e32680a614b",
+      "last_modified": "2017-10-03T06:16:06.476000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a644e078-2c46-4800-8cbc-9e32680a614b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-10-03T06:16:06.476000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/416075/raw/2013-09-02-095532tx-participations_elections_munic.html"
+    }
+  ],
+  "slug": "taux-de-participation-aux-elections-municipales-2",
+  "spatial": null,
+  "tags": [
+    "elections",
+    "participation",
+    "villes"
+  ],
+  "temporal_coverage": null,
+  "title": "Taux de participation aux \u00e9lections municipales",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/taux-de-participation-aux-elections-municipales-2/"
+}

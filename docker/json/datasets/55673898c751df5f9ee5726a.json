@@ -1,0 +1,137 @@
+{
+  "badges": [],
+  "created_at": "2015-05-28T17:47:36.038000",
+  "deleted": null,
+  "description": "La mise \u00e0 disposition des donn\u00e9es relatives aux montants et aux affectations des ressources et des charges de l'\u00c9tat compl\u00e8te l'offre d'information \u00e0 destination des citoyens que constitue le rapport public ; rapport qui seul engage les juridictions financi\u00e8res, et qui est accessible sur le [site de la Cour](https://www.ccomptes.fr/fr/publications/le-budget-de-letat-en-2014-resultats-et-gestion).\n \nUne notice est \u00e9galement mise en ligne pour faciliter la compr\u00e9hension des donn\u00e9es de suivi des consommations de cr\u00e9dits de paiement (CP), et d\u00e9tailler l'origine de la ressource en CP (LFI, LFR, reports, virements, mises \u00e0 disposition, etc.",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": null,
+  "id": "55673898c751df5f9ee5726a",
+  "last_modified": "2017-09-05T12:21:20.543000",
+  "last_update": "2015-05-28T17:50:47.268000",
+  "license": "odc-odbl",
+  "metrics": {
+    "discussions": 1,
+    "followers": 1,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 25
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "53698dada3a729239d20331d",
+    "logo": "https://www.data.gouv.fr/s/avatars/ac/83f761a23f4263be8b3401b01625e8-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/ac/83f761a23f4263be8b3401b01625e8-100.png",
+    "name": "Cour des comptes",
+    "page": "https://www.data.gouv.fr/fr/organizations/cour-des-comptes/",
+    "slug": "cour-des-comptes",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/cour-des-comptes/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/budget-de-letat-exercice-2014/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "ed634becde54a10289951a8db7ecd1d339c8be1a"
+      },
+      "created_at": "2015-05-28T17:50:47.268000",
+      "description": "Budget de l'Etat - Notice consommation et ressource en CP",
+      "extras": {},
+      "filesize": 110419,
+      "filetype": "file",
+      "format": "xlsx",
+      "id": "f27e7c61-0b4c-418c-b059-0d717fe30144",
+      "last_modified": "2015-05-28T17:50:47.268000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f27e7c61-0b4c-418c-b059-0d717fe30144",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 66
+      },
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "published": "2015-05-28T17:50:47.268000",
+      "title": "Budget de l'Etat - Notice consommation et ressource en CP",
+      "url": "https://www.data.gouv.fr/s/resources/budget-de-letat-exercice-2014/20150528-175043/Budget_de_lEtat_-_Notice_consommation_et_ressource_en_CP.xlsx"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-05-28T17:49:50.181000",
+      "description": "Budget de l'\u00c9tat - Consommations de cr\u00e9dits - Exercice 2014",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T10:58:12.574000",
+        "check:status": 200,
+        "check:url": "https://www.ccomptes.fr/sites/default/files/EzPublish/2014-Consommations-de-credits-CP.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "92f39950-194c-4f11-8b2a-1756c27bef40",
+      "last_modified": "2017-09-05T12:21:20.543000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/92f39950-194c-4f11-8b2a-1756c27bef40",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 76
+      },
+      "mime": "text/csv",
+      "published": "2015-05-28T17:49:50",
+      "title": "Budget de l'\u00c9tat - Consommations de cr\u00e9dits - Exercice 2014",
+      "url": "https://www.ccomptes.fr/sites/default/files/EzPublish/2014-Consommations-de-credits-CP.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-05-28T17:48:55.428000",
+      "description": "Budget de l'\u00c9tat - Mouvements de cr\u00e9dits - Exercice 2014",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T10:57:41.106000",
+        "check:status": 200,
+        "check:url": "https://www.ccomptes.fr/sites/default/files/EzPublish/2014-Mouvements-de-credits-CP.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "11669197-5c90-4a02-b1af-c78508130176",
+      "last_modified": "2017-09-05T12:21:04.682000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/11669197-5c90-4a02-b1af-c78508130176",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 28
+      },
+      "mime": "text/csv",
+      "published": "2015-05-28T17:48:55",
+      "title": "Budget de l'\u00c9tat - Mouvements de cr\u00e9dits - Exercice 2014",
+      "url": "https://www.ccomptes.fr/sites/default/files/EzPublish/2014-Mouvements-de-credits-CP.csv"
+    }
+  ],
+  "slug": "budget-de-letat-exercice-2014",
+  "spatial": {
+    "geom": null,
+    "granularity": "country",
+    "zones": [
+      "country:fr"
+    ]
+  },
+  "tags": [
+    "budget-2014",
+    "budget-de-l-etat",
+    "finances-publiques"
+  ],
+  "temporal_coverage": {
+    "end": "2014-12-31",
+    "start": "2014-01-01"
+  },
+  "title": "Budget de l'Etat - Exercice 2014",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/budget-de-letat-exercice-2014/"
+}

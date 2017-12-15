@@ -1,0 +1,1533 @@
+{
+  "badges": [],
+  "created_at": "2017-06-21T00:00:00",
+  "deleted": null,
+  "description": "Poids de l'\u00e9conomie sociale dans les emplois salari\u00e9s du territoire.",
+  "extras": {
+    "ckan:name": "poids-de-leconomie-sociale-dans-les-emplois-salaries-du-territoire",
+    "contact_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "contact_name": "Mission Agenda 21",
+    "contact_uri": "https://datacat.datalocale.fr/414579",
+    "guid": "https://datacat.datalocale.fr/415520",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-09-29T07:52:37.990233",
+    "harvest:remote_id": "349a034e-b720-4d98-921a-76b47ed78eae",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "6e272d83-ce99-4907-9a68-b6f7039e6175",
+    "issued": "2013-08-27T09:50:36+00:00",
+    "modified": "2016-07-18T09:21:05.993804+00:00",
+    "publisher_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "publisher_name": "dgsd-a21",
+    "publisher_uri": "https://datacat.datalocale.fr/414578",
+    "theme": "[\"\u00e9conomie sociale\"]",
+    "uri": "https://datacat.datalocale.fr/415520"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59592393a3a7291dcf9c8231",
+  "last_modified": "2017-09-29T07:52:37.992000",
+  "last_update": "2017-09-12T07:49:20.165000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/poids-de-leconomie-sociale-dans-les-emplois-salaries-du-territoire/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:47:15.698000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-13T00:31:37.539000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "c9d3fc72-7531-4ace-acc0-b6f9771fee4c",
+      "last_modified": "2017-07-07T06:09:23.553000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c9d3fc72-7531-4ace-acc0-b6f9771fee4c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-07-02T18:47:15.699000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:47:15.699000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-13T00:31:39.153000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "0cc1f622-f446-4cb3-a0d8-ed3e28317a25",
+      "last_modified": "2017-07-07T06:09:23.554000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0cc1f622-f446-4cb3-a0d8-ed3e28317a25",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T18:47:15.699000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:06:15.824000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T13:03:26.322000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2ba49384-1ab8-4730-8333-b7c95261d477",
+      "last_modified": "2017-07-08T07:06:15.824000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2ba49384-1ab8-4730-8333-b7c95261d477",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-08T07:06:15.824000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:06:15.824000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T13:03:26.320000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "52f83fef-ae87-46d4-9adc-a4deb597602f",
+      "last_modified": "2017-07-08T07:06:15.824000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/52f83fef-ae87-46d4-9adc-a4deb597602f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-07-08T07:06:15.824000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-09T07:02:26.967000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T13:03:26.320000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "e8481cf6-c4a8-4935-a8aa-1eaabcbfac44",
+      "last_modified": "2017-07-09T07:02:26.968000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e8481cf6-c4a8-4935-a8aa-1eaabcbfac44",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-07-09T07:02:26.968000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-09T07:02:26.968000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T13:03:27.557000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b9b5ed08-09ce-428c-a2f4-df0e86b3d166",
+      "last_modified": "2017-07-09T07:02:26.968000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b9b5ed08-09ce-428c-a2f4-df0e86b3d166",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-09T07:02:26.968000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-10T07:07:01.508000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:55:42.792000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "54d0e949-7896-44c4-aa6c-8b1bea341706",
+      "last_modified": "2017-07-10T07:07:01.509000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/54d0e949-7896-44c4-aa6c-8b1bea341706",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-07-10T07:07:01.509000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-10T07:07:01.509000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-17T21:59:19.375000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "d7e3b2db-cc7e-450c-b3d8-dd5663d290f1",
+      "last_modified": "2017-07-10T07:07:01.509000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d7e3b2db-cc7e-450c-b3d8-dd5663d290f1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-10T07:07:01.509000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-20T02:30:44.498000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:55:45.815000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "e2f36292-0dc1-4ce4-81cd-742a3b326c93",
+      "last_modified": "2017-08-03T06:08:59.510000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e2f36292-0dc1-4ce4-81cd-742a3b326c93",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-07-20T02:30:44.498000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-20T02:30:44.498000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:55:51.715000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "8c655d3a-7309-4905-a3e0-8f6540e0c617",
+      "last_modified": "2017-08-03T06:08:59.510000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8c655d3a-7309-4905-a3e0-8f6540e0c617",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-20T02:30:44.498000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-08T06:06:11.340000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-17T21:59:19.375000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a0a1bce2-5421-4d8e-82a4-c8f55b4b1623",
+      "last_modified": "2017-08-08T06:06:11.340000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a0a1bce2-5421-4d8e-82a4-c8f55b4b1623",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-08T06:06:11.340000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-08T06:06:11.340000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-17T21:59:19.436000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "03901471-5ed3-45b6-88bb-f50986294671",
+      "last_modified": "2017-08-08T06:06:11.341000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/03901471-5ed3-45b6-88bb-f50986294671",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-08T06:06:11.340000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-09T06:04:35.343000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:55:40.174000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "ef011ddf-0a48-4bd6-bf14-cdcb49f5f99b",
+      "last_modified": "2017-08-09T06:04:35.343000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ef011ddf-0a48-4bd6-bf14-cdcb49f5f99b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-09T06:04:35.343000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-09T06:04:35.344000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:55:58.766000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "80cf20f1-357c-4573-bc36-43fc22bb8758",
+      "last_modified": "2017-08-09T06:04:35.344000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/80cf20f1-357c-4573-bc36-43fc22bb8758",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-09T06:04:35.344000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-10T06:06:41.642000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:55:47.313000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "489a26f5-3b01-4ae6-95b4-7bfa67cfe8f3",
+      "last_modified": "2017-08-10T06:06:41.642000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/489a26f5-3b01-4ae6-95b4-7bfa67cfe8f3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-10T06:06:41.642000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-10T06:06:41.642000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:55:41.463000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "34505d92-c656-4064-868c-42cd3cca6918",
+      "last_modified": "2017-08-10T06:06:41.642000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/34505d92-c656-4064-868c-42cd3cca6918",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-10T06:06:41.642000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-11T06:07:20.280000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:55:39.429000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "0ad2fa02-5c62-4994-a677-a01f752f280b",
+      "last_modified": "2017-08-11T06:07:20.280000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0ad2fa02-5c62-4994-a677-a01f752f280b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-11T06:07:20.280000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-11T06:07:20.281000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:55:38.039000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "f55127c5-db2b-4ec1-9145-d83287241346",
+      "last_modified": "2017-08-11T06:07:20.281000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f55127c5-db2b-4ec1-9145-d83287241346",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-11T06:07:20.281000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-12T06:02:55.875000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-17T21:59:19.436000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "e48e5a11-a6f7-44a8-ac67-b1b26377885d",
+      "last_modified": "2017-08-12T06:02:55.875000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e48e5a11-a6f7-44a8-ac67-b1b26377885d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-12T06:02:55.875000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-12T06:02:55.875000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:56:01.867000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "72ca7e63-dce7-4f47-81a3-de4b49ee9d4a",
+      "last_modified": "2017-08-12T06:02:55.875000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/72ca7e63-dce7-4f47-81a3-de4b49ee9d4a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-12T06:02:55.875000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-13T06:08:47.839000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:56:01.381000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "1bfd0752-71c0-439f-893a-6ba587e9de1d",
+      "last_modified": "2017-08-13T06:08:47.839000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1bfd0752-71c0-439f-893a-6ba587e9de1d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-13T06:08:47.839000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-13T06:08:47.839000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:56:09.897000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "6a214078-da8d-4f84-96dc-cb4cd50a4659",
+      "last_modified": "2017-08-13T06:08:47.840000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6a214078-da8d-4f84-96dc-cb4cd50a4659",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-13T06:08:47.839000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-14T07:12:11.304000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:56:09.897000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f1459885-d575-4618-b4c4-0bdf72ae038f",
+      "last_modified": "2017-08-14T07:12:11.304000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f1459885-d575-4618-b4c4-0bdf72ae038f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-14T07:12:11.304000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-14T07:12:11.304000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:56:11.449000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "ca3916af-9b38-4966-89cc-9dfa61a63bf2",
+      "last_modified": "2017-08-14T07:12:11.305000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ca3916af-9b38-4966-89cc-9dfa61a63bf2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-14T07:12:11.304000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-15T06:07:40.699000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:56:15.518000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "2987bd2d-04bd-4609-8a16-10dc2150c475",
+      "last_modified": "2017-08-15T06:07:40.699000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2987bd2d-04bd-4609-8a16-10dc2150c475",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-15T06:07:40.699000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-15T06:07:40.699000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:56:13.454000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "99ccbbaf-ffd4-4c81-ad42-36330d714191",
+      "last_modified": "2017-08-15T06:07:40.699000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/99ccbbaf-ffd4-4c81-ad42-36330d714191",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-15T06:07:40.699000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-16T07:12:06.407000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:56:13.454000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c8a63ea0-0c5a-494d-8d6e-798561536042",
+      "last_modified": "2017-08-16T07:12:06.408000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c8a63ea0-0c5a-494d-8d6e-798561536042",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-16T07:12:06.407000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-16T07:12:06.408000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:56:17.454000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "2ce7b581-2c03-4a78-a8fd-8e081d3ed904",
+      "last_modified": "2017-08-16T07:12:06.408000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2ce7b581-2c03-4a78-a8fd-8e081d3ed904",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-16T07:12:06.408000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-17T06:03:41.870000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:56:20.696000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "d78b55f7-8ae0-43e4-881f-c7076bf8953e",
+      "last_modified": "2017-08-17T06:03:41.870000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d78b55f7-8ae0-43e4-881f-c7076bf8953e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-17T06:03:41.870000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-17T06:03:41.870000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:56:21.327000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "db9ca158-04ba-482d-8e0f-ee92138967b1",
+      "last_modified": "2017-08-17T06:03:41.871000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/db9ca158-04ba-482d-8e0f-ee92138967b1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-17T06:03:41.871000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-18T06:10:18.928000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-26T01:57:23.462000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "e0c0d762-8e5c-4db9-a759-1f678e591b47",
+      "last_modified": "2017-08-18T06:10:18.928000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e0c0d762-8e5c-4db9-a759-1f678e591b47",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-18T06:10:18.928000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-18T06:10:18.928000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:56:24.675000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "57aa2008-b3d1-4f65-a13c-2266926d2c8f",
+      "last_modified": "2017-08-18T06:10:18.929000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/57aa2008-b3d1-4f65-a13c-2266926d2c8f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-18T06:10:18.928000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-19T06:05:54.514000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:56:24.821000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "fd9da370-8732-435a-af84-9693d30396d5",
+      "last_modified": "2017-08-19T06:05:54.514000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fd9da370-8732-435a-af84-9693d30396d5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-19T06:05:54.514000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-19T06:05:54.515000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:56:28.332000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f969ced6-b14f-45d5-8ee7-d1b1bd46a077",
+      "last_modified": "2017-08-19T06:05:54.515000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f969ced6-b14f-45d5-8ee7-d1b1bd46a077",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-19T06:05:54.515000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-20T06:07:31.682000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:56:30.386000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "74083633-593c-4898-bdd2-5a2892ed81fa",
+      "last_modified": "2017-08-20T06:07:31.683000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/74083633-593c-4898-bdd2-5a2892ed81fa",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-20T06:07:31.683000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-20T06:07:31.683000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:56:34.161000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "92a63527-9139-4f4b-9149-32f78fffb273",
+      "last_modified": "2017-08-20T06:07:31.683000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/92a63527-9139-4f4b-9149-32f78fffb273",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-20T06:07:31.683000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-21T07:11:24.474000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:56:36.049000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "313b12e6-e1e5-4499-9ac3-6cf3e9d13c5b",
+      "last_modified": "2017-08-21T07:11:24.474000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/313b12e6-e1e5-4499-9ac3-6cf3e9d13c5b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-21T07:11:24.474000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-21T07:11:24.475000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:56:42.356000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "05f81878-ceb0-4c26-965f-43ecaf7c6ce9",
+      "last_modified": "2017-08-21T07:11:24.475000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/05f81878-ceb0-4c26-965f-43ecaf7c6ce9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-21T07:11:24.475000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-22T06:06:01.023000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:56:42.356000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "dcd524f1-d8cb-423b-963f-41cd1b37b9db",
+      "last_modified": "2017-08-22T06:06:01.023000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/dcd524f1-d8cb-423b-963f-41cd1b37b9db",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-22T06:06:01.023000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-22T06:06:01.023000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:56:43.208000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "a2efd0b5-4a10-4d91-8a7b-8856f0845395",
+      "last_modified": "2017-08-22T06:06:01.023000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a2efd0b5-4a10-4d91-8a7b-8856f0845395",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-22T06:06:01.023000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-23T06:09:16.716000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:56:43.208000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "f6ed315d-d369-46ae-a50b-ed0b63b96ef3",
+      "last_modified": "2017-08-23T06:09:16.716000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f6ed315d-d369-46ae-a50b-ed0b63b96ef3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-23T06:09:16.716000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-23T06:09:16.716000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:56:44.012000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "4ad46e04-74a4-496e-97c8-60b3a9c263a7",
+      "last_modified": "2017-08-23T06:09:16.717000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4ad46e04-74a4-496e-97c8-60b3a9c263a7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-23T06:09:16.717000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-24T06:06:57.896000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:56:48.071000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "0c0304f4-78cd-4ac7-a011-5b6ade62e4d6",
+      "last_modified": "2017-08-24T06:06:57.896000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0c0304f4-78cd-4ac7-a011-5b6ade62e4d6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-24T06:06:57.896000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-24T06:06:57.896000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:56:50.234000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ebb60f30-003b-4678-8490-10a592198ca9",
+      "last_modified": "2017-08-24T06:06:57.896000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ebb60f30-003b-4678-8490-10a592198ca9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-24T06:06:57.896000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-25T06:06:25.632000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:56:48.071000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "7256f887-a6fb-4912-b241-814e9161dfdd",
+      "last_modified": "2017-08-25T06:06:25.632000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7256f887-a6fb-4912-b241-814e9161dfdd",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-25T06:06:25.632000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-25T06:06:25.633000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "544779e9-5e6f-41fb-9212-5da0b18916ff",
+      "last_modified": "2017-08-25T06:06:25.633000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/544779e9-5e6f-41fb-9212-5da0b18916ff",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-25T06:06:25.633000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-26T06:11:05.854000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:56:54.412000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "13c2f5b9-2d00-4085-9219-7a29c6231c6d",
+      "last_modified": "2017-08-26T06:11:05.854000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/13c2f5b9-2d00-4085-9219-7a29c6231c6d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-26T06:11:05.854000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-26T06:11:05.855000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "31baa82a-8720-497e-b3ae-7dfc6692f698",
+      "last_modified": "2017-08-26T06:11:05.855000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/31baa82a-8720-497e-b3ae-7dfc6692f698",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-26T06:11:05.855000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-27T06:05:57.239000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-26T01:57:26.044000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "502d99f2-3ea2-484b-9094-31fd75444fcc",
+      "last_modified": "2017-08-27T06:05:57.240000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/502d99f2-3ea2-484b-9094-31fd75444fcc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-27T06:05:57.240000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-27T06:05:57.241000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2e15a169-58b4-4e6a-8b7d-1cd8ff77e133",
+      "last_modified": "2017-08-27T06:05:57.242000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2e15a169-58b4-4e6a-8b7d-1cd8ff77e133",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-27T06:05:57.241000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-28T06:10:00.481000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "64453e11-2a21-4fe8-8055-d5e6cdfded62",
+      "last_modified": "2017-08-28T06:10:00.481000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/64453e11-2a21-4fe8-8055-d5e6cdfded62",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-28T06:10:00.481000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-28T06:10:00.481000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "8ceabe00-ac6c-4647-98a1-19709d768209",
+      "last_modified": "2017-08-28T06:10:00.482000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8ceabe00-ac6c-4647-98a1-19709d768209",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-28T06:10:00.482000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-29T06:07:21.440000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "16ed5301-7a44-4bee-ba57-b5589469d179",
+      "last_modified": "2017-09-11T06:17:28.306000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/16ed5301-7a44-4bee-ba57-b5589469d179",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-29T06:07:21.440000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-29T06:07:21.441000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "286fdb1c-933e-4413-8500-243192b263ef",
+      "last_modified": "2017-09-11T06:17:28.307000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/286fdb1c-933e-4413-8500-243192b263ef",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-29T06:07:21.441000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:49:20.164000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "acf3b09c-23ea-4618-9429-9fad1af2704c",
+      "last_modified": "2017-09-29T07:52:37.989000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/acf3b09c-23ea-4618-9429-9fad1af2704c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:49:20.164000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:49:20.165000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "a8c67293-5f38-4559-9507-5faffc360003",
+      "last_modified": "2017-09-29T07:52:37.989000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a8c67293-5f38-4559-9507-5faffc360003",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-09-12T07:49:20.165000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+    }
+  ],
+  "slug": "poids-de-leconomie-sociale-dans-les-emplois-salaries-du-territoire",
+  "spatial": null,
+  "tags": [
+    "capacitation",
+    "economie-sociale-et-solidaire"
+  ],
+  "temporal_coverage": null,
+  "title": "Poids de l'\u00e9conomie sociale dans les emplois salari\u00e9s du territoire",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/poids-de-leconomie-sociale-dans-les-emplois-salaries-du-territoire/"
+}

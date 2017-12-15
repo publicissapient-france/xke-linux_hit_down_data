@@ -1,0 +1,228 @@
+{
+  "badges": [],
+  "created_at": "2014-04-08T00:00:00",
+  "deleted": null,
+  "description": "Localisation des colonnes a\u00e9riennes, enterr\u00e9es et semi-enterr\u00e9es sur le territoire NCA pour le tri des d\u00e9chets.",
+  "extras": {
+    "ckan:name": "cartographie-des-points-d-apport-volontaire",
+    "harvest:domain": "opendata.nicecotedazur.org",
+    "harvest:last_update": "2017-09-05T15:33:59.295676",
+    "harvest:remote_id": "ac54b080-e204-412c-9431-61a8ba0d7311",
+    "harvest:source_id": "59aea691c751df40c6e8212c",
+    "spatial": "{\"type\": \"Polygon\", \"coordinates\": [[[7.29745682, 44.09356766], [7.42408565, 43.70726292], [7.12033431, 43.6076947], [6.99370547, 43.99399943], [7.29745682, 44.09356766]]]}",
+    "spatial-text": "LA BOLLENE-VESUBIE,SAINT-ANDRE-DE-LA-ROCHE,CARROS,LA GAUDE,CAP-D'AIL,SAINT-LAURENT-DU-VAR,VILLEFRANCHE-SUR-MER,SAINT-BLAISE,EZE,BONSON,GILETTE,UTELLE,SAINT-JEANNET,VENCE,SAINT-MARTIN-VESUBIE,CASTAGNIERS,FALICON,SAINT-MARTIN-DU-VAR,BEAULIEU-SUR-MER,VENANSON,LANTOSQUE,LA ROQUETTE-SUR-VAR,LA TRINITE,GATTIERES,NICE,TOURRETTE-LEVENS,CAGNES-SUR-MER,ROQUEBILLIERE,SAINT-JEAN-CAP-FERRAT,DURANUS,LEVENS,COLOMARS,ASPREMONT,LE BROC"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59aea7c7b595087a249169d2",
+  "last_modified": "2017-09-05T15:33:59.298000",
+  "last_update": "2017-09-05T15:33:59.295000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "59aea226c751df38f3f6834b",
+    "logo": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-100.png",
+    "name": "Nice C\u00f4te d'Azur",
+    "page": "https://www.data.gouv.fr/fr/organizations/nice-cote-dazur/",
+    "slug": "nice-cote-dazur",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nice-cote-dazur/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/cartographie-des-points-d-apport-volontaire/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:59.292000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-27T23:24:55.765000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-04-08T13%3A22%3A12.738Z/pav.geojson"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "geojson",
+      "id": "9dc23924-ce09-48e7-aabd-8795892b66e7",
+      "last_modified": "2014-04-08T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9dc23924-ce09-48e7-aabd-8795892b66e7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/plain",
+      "published": "2017-09-05T15:33:59.292000",
+      "title": "pav.geojson (carte)",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-04-08T13%3A22%3A12.738Z/pav.geojson"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:59.293000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-27T23:24:59.984000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-04-08T13%3A25%3A19.265Z/pav.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f188479e-7c9e-4a6e-bf63-1ec0df03d5c7",
+      "last_modified": "2014-04-08T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f188479e-7c9e-4a6e-bf63-1ec0df03d5c7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-05T15:33:59.293000",
+      "title": "pav.csv",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-04-08T13%3A25%3A19.265Z/pav.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:59.293000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-27T23:24:52.325000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-04-08T13%3A34%3A54.501Z/pav.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "1a70b6a4-0c22-4f5e-b9d1-76e51dd5cd8f",
+      "last_modified": "2014-04-08T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1a70b6a4-0c22-4f5e-b9d1-76e51dd5cd8f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-09-05T15:33:59.294000",
+      "title": "pav.json",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-04-08T13%3A34%3A54.501Z/pav.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:59.294000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-27T23:24:57.073000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-04-08T13%3A33%3A52.135Z/pav.kmz"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "kmz",
+      "id": "50f3157d-84be-4264-9ddb-06698f1cd924",
+      "last_modified": "2014-04-08T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/50f3157d-84be-4264-9ddb-06698f1cd924",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.google-earth.kmz",
+      "published": "2017-09-05T15:33:59.294000",
+      "title": "pav.kmz",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-04-08T13%3A33%3A52.135Z/pav.kmz"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:59.294000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T03:46:24.226000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-04-08T13%3A40%3A04.784Z/pav.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "416a9b64-e20e-497c-a6c3-358b806c42e4",
+      "last_modified": "2014-04-08T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/416a9b64-e20e-497c-a6c3-358b806c42e4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-09-05T15:33:59.295000",
+      "title": "pav.zip",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-04-08T13%3A40%3A04.784Z/pav.zip"
+    }
+  ],
+  "slug": "cartographie-des-points-d-apport-volontaire",
+  "spatial": {
+    "geom": {
+      "coordinates": [
+        [
+          [
+            [
+              7.29745682,
+              44.09356766
+            ],
+            [
+              7.42408565,
+              43.70726292
+            ],
+            [
+              7.12033431,
+              43.6076947
+            ],
+            [
+              6.99370547,
+              43.99399943
+            ],
+            [
+              7.29745682,
+              44.09356766
+            ]
+          ]
+        ]
+      ],
+      "type": "MultiPolygon"
+    },
+    "granularity": "other",
+    "zones": []
+  },
+  "tags": [
+    "colonne",
+    "dechet",
+    "emballage",
+    "papier",
+    "pav",
+    "tri",
+    "verre"
+  ],
+  "temporal_coverage": null,
+  "title": "Cartographie des points d'apport volontaire",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/cartographie-des-points-d-apport-volontaire/"
+}

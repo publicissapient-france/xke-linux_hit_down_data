@@ -1,0 +1,109 @@
+{
+  "acronym": null,
+  "badges": [
+    {
+      "kind": "public-service"
+    },
+    {
+      "kind": "certified"
+    }
+  ],
+  "created_at": "2014-04-17T18:21:47.339000",
+  "deleted": null,
+  "description": "L'Onisep (Office national d'information sur les enseignements et les professions) est un \u00e9tablissement public qui d\u00e9pend du minist\u00e8re de l'\u00c9ducation nationale, de l'Enseignement sup\u00e9rieur et de la Recherche. \u00c9diteur public, l'Onisep produit et diffuse toute l'information sur les formations et les m\u00e9tiers. Il propose aussi des nouveaux services aux \u00e9l\u00e8ves, aux parents et aux \u00e9quipes \u00e9ducatives.\nNotre mission :\n * Informer sur les formations, les m\u00e9tiers, les secteurs professionnels ; donner des chiffres de l'insertion professionnelle.\n * Accompagner les jeunes et leurs familles pour les aider \u00e0 pr\u00e9parer leur avenir.\n * Conseiller les parents, les \u00e9l\u00e8ves et les \u00e9quipes \u00e9ducatives qui aident les jeunes \u00e0 choisir leur orientation.\n\nL'Onisep dispose d'un portail de donn\u00e9es ouvertes \u00e0 l'adresse : [http://opendata.onisep.fr](http://opendata.onisep.fr/)/",
+  "id": "534fff9ba3a7292c64a78031",
+  "last_modified": "2017-11-27T01:00:06.387000",
+  "logo": "https://www.data.gouv.fr/s/avatars/24/b45e02791a456ba05ee985c40904f1-original.jpg",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/24/b45e02791a456ba05ee985c40904f1-100.jpg",
+  "members": [
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "benoit",
+        "id": "534fff3da3a7292c64a7743a",
+        "last_name": "longeon",
+        "page": "https://www.data.gouv.fr/fr/users/benoit-longeon/",
+        "slug": "benoit-longeon",
+        "uri": "https://www.data.gouv.fr/api/1/users/benoit-longeon/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/2014-11-22/baf763e0d8ca4f8c8f3a0a2bb6a40806/DSC_0078-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-11-22/baf763e0d8ca4f8c8f3a0a2bb6a40806/DSC_0078-100.jpg",
+        "class": "User",
+        "first_name": "Daniel",
+        "id": "5470c563c751df771bc2acbd",
+        "last_name": "Duris",
+        "page": "https://www.data.gouv.fr/fr/users/daniel-duris/",
+        "slug": "daniel-duris",
+        "uri": "https://www.data.gouv.fr/api/1/users/daniel-duris/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Gilles",
+        "id": "5476e8b8c751df7a5f72f5d4",
+        "last_name": "Foubert",
+        "page": "https://www.data.gouv.fr/fr/users/gilles-foubert/",
+        "slug": "gilles-foubert",
+        "uri": "https://www.data.gouv.fr/api/1/users/gilles-foubert/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Gr\u00e9goire",
+        "id": "567026dfc751df07e2c664be",
+        "last_name": "Martin",
+        "page": "https://www.data.gouv.fr/fr/users/gregoire-martin/",
+        "slug": "gregoire-martin",
+        "uri": "https://www.data.gouv.fr/api/1/users/gregoire-martin/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Julien",
+        "id": "5718a00ac751df3c0cfcca0e",
+        "last_name": "Jacottet",
+        "page": "https://www.data.gouv.fr/fr/users/julien-jacottet/",
+        "slug": "julien-jacottet",
+        "uri": "https://www.data.gouv.fr/api/1/users/julien-jacottet/"
+      }
+    }
+  ],
+  "metrics": {
+    "dataset_views": 10358,
+    "datasets": 11,
+    "followers": 36,
+    "members": 5,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 3,
+    "resource_downloads": 4034,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 543
+  },
+  "name": "Office national d'information sur les enseignements et les professions",
+  "page": "https://www.data.gouv.fr/fr/organizations/office-national-d-information-sur-les-enseignements-et-les-professions/",
+  "slug": "office-national-d-information-sur-les-enseignements-et-les-professions",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/office-national-d-information-sur-les-enseignements-et-les-professions/",
+  "url": "http://www.onisep.fr"
+}

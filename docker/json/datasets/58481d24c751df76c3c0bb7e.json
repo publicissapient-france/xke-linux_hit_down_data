@@ -1,0 +1,214 @@
+{
+  "badges": [],
+  "created_at": "2016-12-07T15:31:00.381000",
+  "deleted": null,
+  "description": "**Ce jeu de donn\u00e9es recense les 102 MDPH (maisons d\u00e9partementales des personnes handicap\u00e9es), guichets uniques d\u2019accueil d\u2019information et d\u2019orientation des personnes en situation de handicap.**\n\n**Description :** les MDPH re\u00e7oivent toutes les demandes de droits et de prestations. Elles construisent, avec la personne handicap\u00e9e et sa famille, le projet de PPC (plan personnalis\u00e9 de compensation) sur la base de son projet de vie. Les MDPH veillent \u00e0 l'application des d\u00e9cisions prises par la CDAPH (Commission des droits et de l\u2019autonomie des personnes handicap\u00e9es), notamment celles concernant l'accueil dans les \u00e9tablissements.\n\n**Champs du jeu de donn\u00e9es :** nom ; adresse postale ; code postal ; commune ; d\u00e9partement ; r\u00e9gion ; coordonn\u00e9es g\u00e9ographiques pour la g\u00e9olocalisation (longitude et latitude) ; lien vers le site [onisep.fr](http://www.onisep.fr).\n\n**Actualisation :** enqu\u00eate triennale aupr\u00e8s des MDPH.\n\n**Pour quels usages ?** Faciliter l\u2019insertion des jeunes en situation de handicap gr\u00e2ce \u00e0 la diffusion de l\u2019offre de formation et d\u2019accompagnement, ainsi que des coordonn\u00e9es des structures et des ressources qui leur sont destin\u00e9es.",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": null,
+  "id": "58481d24c751df76c3c0bb7e",
+  "last_modified": "2017-09-05T01:00:05.099000",
+  "last_update": "2017-09-05T01:00:05.130000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 1,
+    "followers": 2,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff9ba3a7292c64a78031",
+    "logo": "https://www.data.gouv.fr/s/avatars/24/b45e02791a456ba05ee985c40904f1-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/24/b45e02791a456ba05ee985c40904f1-100.jpg",
+    "name": "Office national d'information sur les enseignements et les professions",
+    "page": "https://www.data.gouv.fr/fr/organizations/office-national-d-information-sur-les-enseignements-et-les-professions/",
+    "slug": "office-national-d-information-sur-les-enseignements-et-les-professions",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/office-national-d-information-sur-les-enseignements-et-les-professions/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/maisons-departementales-de-personnes-handicapees-mdph-1/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T01:00:05.124000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T16:51:02.491000",
+        "check:status": 200,
+        "check:url": "https://api.opendata.onisep.fr/downloads/57e13aa4a3cee/57e13aa4a3cee.xml"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "a42c14ad-b520-4954-b275-723a10383228",
+      "last_modified": "2017-09-05T01:00:05.125000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a42c14ad-b520-4954-b275-723a10383228",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 2
+      },
+      "mime": null,
+      "published": "2017-09-05T01:00:05.125000",
+      "title": "Maisons d\u00e9partementales de personnes handicap\u00e9es (MDPH)",
+      "url": "https://api.opendata.onisep.fr/downloads/57e13aa4a3cee/57e13aa4a3cee.xml"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T01:00:05.125000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T16:51:02.492000",
+        "check:status": 200,
+        "check:url": "https://api.opendata.onisep.fr/downloads/57e13aa4a3cee/57e13aa4a3cee.xlsx"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xlsx",
+      "id": "029e3a5b-5a25-48a4-8b50-f52140b2b735",
+      "last_modified": "2017-09-05T01:00:05.125000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/029e3a5b-5a25-48a4-8b50-f52140b2b735",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 2
+      },
+      "mime": null,
+      "published": "2017-09-05T01:00:05.126000",
+      "title": "Maisons d\u00e9partementales de personnes handicap\u00e9es (MDPH)",
+      "url": "https://api.opendata.onisep.fr/downloads/57e13aa4a3cee/57e13aa4a3cee.xlsx"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T01:00:05.126000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T16:51:02.487000",
+        "check:status": 200,
+        "check:url": "https://api.opendata.onisep.fr/downloads/57e13aa4a3cee/57e13aa4a3cee.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "4a79ec33-b986-4e5a-938c-a3803d2f58d4",
+      "last_modified": "2017-09-05T01:00:05.126000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4a79ec33-b986-4e5a-938c-a3803d2f58d4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-09-05T01:00:05.127000",
+      "title": "Maisons d\u00e9partementales de personnes handicap\u00e9es (MDPH)",
+      "url": "https://api.opendata.onisep.fr/downloads/57e13aa4a3cee/57e13aa4a3cee.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T01:00:05.127000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T16:51:02.467000",
+        "check:status": 200,
+        "check:url": "https://api.opendata.onisep.fr/downloads/57e13aa4a3cee/57e13aa4a3cee.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "62df302c-d9a7-4fe4-966d-07f91e95e47e",
+      "last_modified": "2017-09-05T01:00:05.127000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/62df302c-d9a7-4fe4-966d-07f91e95e47e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-09-05T01:00:05.128000",
+      "title": "Maisons d\u00e9partementales de personnes handicap\u00e9es (MDPH)",
+      "url": "https://api.opendata.onisep.fr/downloads/57e13aa4a3cee/57e13aa4a3cee.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T01:00:05.128000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T16:51:02.508000",
+        "check:status": 200,
+        "check:url": "https://api.opendata.onisep.fr/downloads/57e13aa4a3cee/57e13aa4a3cee.geojson"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "geojson",
+      "id": "966f5b85-7ff3-4460-97a3-ec2ed2563caf",
+      "last_modified": "2017-09-05T01:00:05.128000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/966f5b85-7ff3-4460-97a3-ec2ed2563caf",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-09-05T01:00:05.129000",
+      "title": "Maisons d\u00e9partementales de personnes handicap\u00e9es (MDPH)",
+      "url": "https://api.opendata.onisep.fr/downloads/57e13aa4a3cee/57e13aa4a3cee.geojson"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T01:00:05.129000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T16:51:02.526000",
+        "check:status": 200,
+        "check:url": "https://api.opendata.onisep.fr/downloads/57e13aa4a3cee/57e13aa4a3cee.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "0df0b85b-6056-4633-8c63-dd76ed93ef33",
+      "last_modified": "2017-09-05T01:00:05.129000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0df0b85b-6056-4633-8c63-dd76ed93ef33",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-09-05T01:00:05.130000",
+      "title": "Maisons d\u00e9partementales de personnes handicap\u00e9es (MDPH)",
+      "url": "https://api.opendata.onisep.fr/downloads/57e13aa4a3cee/57e13aa4a3cee.csv"
+    }
+  ],
+  "slug": "maisons-departementales-de-personnes-handicapees-mdph-1",
+  "spatial": {
+    "geom": null,
+    "granularity": "poi",
+    "zones": [
+      "country:fr"
+    ]
+  },
+  "tags": [],
+  "temporal_coverage": null,
+  "title": "Maisons d\u00e9partementales de personnes handicap\u00e9es (MDPH)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/maisons-departementales-de-personnes-handicapees-mdph-1/"
+}

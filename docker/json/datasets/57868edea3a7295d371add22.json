@@ -1,0 +1,106 @@
+{
+  "badges": [],
+  "created_at": "2016-07-13T20:56:30.132000",
+  "deleted": null,
+  "description": "Budget primitif des budgets annexes d\u00e9compos\u00e9 par chapitre, sous-chapitre, article et section (investissement ou fonctionnement) \n\n* * *\n\nLes budgets annexes sont \u00e9tablis pour certains services locaux sp\u00e9cialis\u00e9s. Dans les Hauts-de-Seine, les services concern\u00e9s sont : l'assainissement, la cit\u00e9 de l'enfance, la pouponni\u00e8re et le centre maternel. Ce jeu de donn\u00e9es d\u00e9taille le budget primitif par d\u00e9penses et recettes vot\u00e9es en investissement comme en fonctionnement, par chapitre, article et rubrique fonctionnelle. \n\n**Lexique**\n\nOR\n    Op\u00e9rations r\u00e9elles (d\u00e9signe les mouvements effectifs de fonds)\nOE\n    Mouvement d'ordre (amortissement et transfert entre sections)\nOI\n    Mouvement d'ordre de gestion patrimoniale\n\n**Observations particuli\u00e8res**\n\nLes mouvements d'ordre n'impliquent ni encaissement ni d\u00e9caissement effectif contrairement aux mouvements r\u00e9els.",
+  "extras": {
+    "harvest:domain": "opendata.hauts-de-seine.fr",
+    "harvest:last_update": "2017-11-27T05:26:43.274720",
+    "harvest:remote_id": "budgets-annexes-budget-primitif",
+    "harvest:source_id": "5731a6d688ee38379cd1b934",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.hauts-de-seine.fr//explore/dataset/budgets-annexes-budget-primitif/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "57868edea3a7295d371add22",
+  "last_modified": "2017-11-27T05:26:43.277000",
+  "last_update": "2017-11-27T05:26:43.274000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "544e1b0888ee38289ae1ed05",
+    "logo": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-100.jpg",
+    "name": "Hauts-de-Seine le D\u00e9partement",
+    "page": "https://www.data.gouv.fr/fr/organizations/hauts-de-seine-le-departement/",
+    "slug": "hauts-de-seine-le-departement",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/hauts-de-seine-le-departement/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/budgets-annexes-budget-primitif/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:26:43.273000",
+      "description": "- *Ann\u00e9e*: annee[date] Ann\u00e9e\n- *Budget*: budget[text] Type du budget\n- *D\u00e9pense/Recette*: depense_recette[text] Cat\u00e9gorie\n- *Investissement/Fonctionnement*: investissement_fonctionnement[text] Section\n- *Chapitre*: chapitre[text] Code du chapitre\n- *Libell\u00e9 chapitre*: libelle_chapitre[text] Libell\u00e9 du chapitre\n- *Sous-chapitre*: sous_chapitre[text] Code du sous-chapitre\n- *Article*: article[text] Code de l'article\n- *Libell\u00e9 article*: libelle_article[text] Libell\u00e9 de l'article\n- *Montant*: montant[double] Montant vot\u00e9 de l'article selon son chapitre et sa rubrique fonctionnelle (euros)\n- *R\u00e9el/Ordre id/Ordre diff*: reel_ordre_id_ordre_diff[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "6d174aa1-a726-4922-b783-086c905850cd",
+      "last_modified": "2017-01-25T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6d174aa1-a726-4922-b783-086c905850cd",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:26:43.273000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/budgets-annexes-budget-primitif/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:26:43.274000",
+      "description": "- *Ann\u00e9e*: annee[date] Ann\u00e9e\n- *Budget*: budget[text] Type du budget\n- *D\u00e9pense/Recette*: depense_recette[text] Cat\u00e9gorie\n- *Investissement/Fonctionnement*: investissement_fonctionnement[text] Section\n- *Chapitre*: chapitre[text] Code du chapitre\n- *Libell\u00e9 chapitre*: libelle_chapitre[text] Libell\u00e9 du chapitre\n- *Sous-chapitre*: sous_chapitre[text] Code du sous-chapitre\n- *Article*: article[text] Code de l'article\n- *Libell\u00e9 article*: libelle_article[text] Libell\u00e9 de l'article\n- *Montant*: montant[double] Montant vot\u00e9 de l'article selon son chapitre et sa rubrique fonctionnelle (euros)\n- *R\u00e9el/Ordre id/Ordre diff*: reel_ordre_id_ordre_diff[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "442cb3d9-5405-44d1-a35d-f37436d24ae6",
+      "last_modified": "2017-01-25T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/442cb3d9-5405-44d1-a35d-f37436d24ae6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:26:43.274000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/budgets-annexes-budget-primitif/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "budgets-annexes-budget-primitif",
+  "spatial": null,
+  "tags": [
+    "bp",
+    "budget-primitif",
+    "budgets-annexes",
+    "depenses",
+    "finances",
+    "fonctionnement",
+    "investissement",
+    "recettes"
+  ],
+  "temporal_coverage": null,
+  "title": "Budgets annexes (budget primitif)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/budgets-annexes-budget-primitif/"
+}

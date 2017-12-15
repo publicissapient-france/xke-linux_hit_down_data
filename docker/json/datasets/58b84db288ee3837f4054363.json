@@ -1,0 +1,83 @@
+{
+  "badges": [],
+  "created_at": "2017-03-02T17:52:02.167000",
+  "deleted": null,
+  "description": "Meudon ouvre ses comptes administratifs depuis 2012. Chaque tableau d\u00e9taille les informations g\u00e9n\u00e9rales, la pr\u00e9sentation g\u00e9n\u00e9rale du budget, le vote du budget et les annexes, pour les diff\u00e9rents budgets de la ville. Tous les tableaux de l'exercice 2013 sont ouverts sous forme de tableau CSV. Ce premier tableur est la pr\u00e9sentation du budget principal - budget 01. Les chiffres sont donn\u00e9s par rapport \u00e0 la population meudonnaise et par rapport \u00e0 la moyenne nationale.",
+  "extras": {},
+  "frequency": "punctual",
+  "frequency_date": null,
+  "id": "58b84db288ee3837f4054363",
+  "last_modified": "2017-03-08T15:46:03.774000",
+  "last_update": "2017-03-02T17:53:07.601000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "54d89442c751df1245467389",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-02-09/c8e02b8db0004b17b0aa311404798324/logo_meudon_couleur_HD-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-02-09/c8e02b8db0004b17b0aa311404798324/logo_meudon_couleur_HD-100.jpg",
+    "name": "Ville de Meudon",
+    "page": "https://www.data.gouv.fr/fr/organizations/ville-de-meudon/",
+    "slug": "ville-de-meudon",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ville-de-meudon/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/compte-administratif-2013-presentation-budget-principal-budget-01/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "393f188a7103ae5d6b52e933929ce7cffc578967"
+      },
+      "created_at": "2017-03-02T17:53:07.601000",
+      "description": "Meudon ouvre ses comptes administratifs depuis 2012. Chaque tableau d\u00e9taillant pour les diff\u00e9rents budgets de la ville, les informations g\u00e9n\u00e9rales, la pr\u00e9sentation g\u00e9n\u00e9rale du budget, le vote du budget et les annexes, est ouvert sous forme de tableau CSV. Ce premier tableur est la page de pr\u00e9sentation du budget principal. Les chiffres sont donn\u00e9s par rapport \u00e0 la population meudonnaise et par rapport \u00e0 la moyenne nationale.",
+      "extras": {},
+      "filesize": 713,
+      "filetype": "file",
+      "format": "csv",
+      "id": "53cccbc0-0964-4e1e-9d4c-d0d63c559c69",
+      "last_modified": "2017-03-02T17:53:30.185000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/53cccbc0-0964-4e1e-9d4c-d0d63c559c69",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-03-02T17:53:07.601000",
+      "title": "Compte administratif 2013 - Pr\u00e9sentation budget principal - budget 01",
+      "url": "https://www.data.gouv.fr/s/resources/compte-administratif-2013-presentation-budget-principal-budget-01/20170302-175307/Onglet_1_CA2013_budget_principal.csv"
+    }
+  ],
+  "slug": "compte-administratif-2013-presentation-budget-principal-budget-01",
+  "spatial": {
+    "geom": null,
+    "granularity": "other",
+    "zones": [
+      "fr:commune:92048@1968-01-01"
+    ]
+  },
+  "tags": [
+    "budget",
+    "budget-2013",
+    "collectivite-territoriale",
+    "compte-administratif",
+    "ville"
+  ],
+  "temporal_coverage": null,
+  "title": "Compte administratif 2013 - Pr\u00e9sentation budget principal - budget 01",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/compte-administratif-2013-presentation-budget-principal-budget-01/"
+}

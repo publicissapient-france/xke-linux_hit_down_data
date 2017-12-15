@@ -1,0 +1,94 @@
+{
+  "badges": [],
+  "created_at": "2017-06-12T00:00:00",
+  "deleted": null,
+  "description": "D\u00e9nombrement par Caf, des personnes membres des foyers allocataires ayant un droit versable \u00e0 une aide au logement.\n\nLes allocations logement ont pour vocation de soutenir les personnes et familles modestes dans leur effort financier consacr\u00e9 au logement principal. Elles concernent les locataires, les r\u00e9sidents en foyer et les acc\u00e9dants \u00e0 la propri\u00e9t\u00e9. Elles sont vers\u00e9es sous conditions de ressources. Les aides au logement sont constitu\u00e9es de l\u2019Allocation de Logement Familiale (ALF) de l\u2019Allocation de Logement Sociale (ALS) et de l\u2019Aide Personnalis\u00e9e au Logement (APL).\n\nDes \u00e9l\u00e9ments plus d\u00e9taill\u00e9s sur les aides aux logement sont disponibles sur le site caf.fr, en cliquant sur le lien suivant :\n\nhttps://www.caf.fr/aides-et-services/s-informer-sur-les-aides/logement-et-cadre-de-vie\n\nLe foyer allocataire est compos\u00e9 du responsable du dossier (personne qui per\u00e7oit au moins une prestation au regard de sa situation familiale et/ou mon\u00e9taire), et l'ensemble des autres ayants droit au sens de la r\u00e8glementation en vigueur (conjoint, enfant(s) et autre(s) personne(s) \u00e0 charge). Plusieurs foyers allocataires peuvent cohabiter dans un m\u00eame lieu, ils constituent alors un seul m\u00e9nage au sens de la d\u00e9finition statistique Insee. C\u2019est le cas, par exemple, lorsque un couple per\u00e7oit des allocations logement et h\u00e9berge son enfant titulaire d'un minimum social des Caf (RSO, RSA, AAH). En pratique, le terme \"allocataire\" est souvent utilis\u00e9 \u00e0 la place de \"foyer allocataire\".\n\nLe droit versable signifie que le foyer allocataire remplit toutes les conditions pour \u00eatre effectivement pay\u00e9 au titre du mois d\u2019observation. En particulier ne sont pas inclus dans ce p\u00e9rim\u00e8tre les b\u00e9n\u00e9ficiaires qui n\u2019ont pas fourni l\u2019int\u00e9gralit\u00e9 de leurs pi\u00e8ces justificatives, ou ceux dont le montant de la prestation est inf\u00e9rieur au seuil de versement\n\nLe champ g\u00e9ographique d\u2019observation du jeu de donn\u00e9es correspond \u00e0 la Caf de gestion auquel est rattach\u00e9e le foyer allocataire dans le fichier statistique des allocataires, au moment de l\u2019extraction (environ 6 semaines apr\u00e8s la fin du mois observ\u00e9).\n\nDes donn\u00e9es de synth\u00e8se et d'analyse ainsi que des descriptions statistiques et cartographiques sur les aides au logement sont disponibles dans le cahier des donn\u00e9es sociales de la Cnaf (page 46), en cliquant sur le lien suivant :\n\nhttp://www.caf.fr/sites/default/files/cnaf/Documents/Dser/cahier_donnees_sociales/CDS_2011.pdf#page=21",
+  "extras": {
+    "ckan:name": "population-couverte-par-une-aide-au-logement-gironde",
+    "contact_name": "CNAF",
+    "contact_uri": "https://datacat.datalocale.fr/415935",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+    "guid": "https://datacat.datalocale.fr/415936",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-07-07T06:09:24.943138",
+    "harvest:remote_id": "214eb5b1-eeb5-4781-93da-6ce10a8b0533",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "a9d8fad4-b199-433c-912c-ded0febd5f92",
+    "issued": "2016-02-04T12:51:03+00:00",
+    "modified": "2016-07-18T10:56:21.317670+00:00",
+    "publisher_name": "DAGMS-SSISAG",
+    "publisher_uri": "https://datacat.datalocale.fr/414585",
+    "remote_url": "http://data.caf.fr/dataset/population-allocataire-couverte-par-une-aide-au-logement-par-caf",
+    "theme": "[\"aide sociale\"]",
+    "uri": "https://datacat.datalocale.fr/415936"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59592395a3a7291dcf9c8232",
+  "last_modified": "2017-07-07T06:09:24.945000",
+  "last_update": "2017-07-02T18:47:17.231000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/population-couverte-par-une-aide-au-logement-gironde-1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:47:17.231000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T01:13:58.052000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415938/raw/LogPerscouvCafDepuis2012Gironde.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "5be18c6c-f77a-427c-9cfb-4e48acdcf433",
+      "last_modified": "2017-07-07T06:09:24.942000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5be18c6c-f77a-427c-9cfb-4e48acdcf433",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T18:47:17.231000",
+      "title": "extraction des donn\u00e9es concernant la Gironde \u00e0 partir du jeu de donn\u00e9es national publi\u00e9 par la CNAF",
+      "url": "https://datacat.datalocale.fr/file/415938/raw/LogPerscouvCafDepuis2012Gironde.csv"
+    }
+  ],
+  "slug": "population-couverte-par-une-aide-au-logement-gironde-1",
+  "spatial": null,
+  "tags": [
+    "aide-au-logement",
+    "aide-sociale",
+    "allocation"
+  ],
+  "temporal_coverage": null,
+  "title": "Population couverte par une aide au logement - Gironde",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/population-couverte-par-une-aide-au-logement-gironde-1/"
+}

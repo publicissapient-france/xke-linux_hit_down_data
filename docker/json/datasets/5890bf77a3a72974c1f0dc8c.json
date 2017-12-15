@@ -1,0 +1,100 @@
+{
+  "badges": [],
+  "created_at": "2017-01-31T17:46:47.162000",
+  "deleted": null,
+  "description": "Liste des vocabulaires scientifiques et techniques produits par le minist\u00e8re charg\u00e9 de la culture et ses partenaires.\n\nL'harmonisation des vocabulaires scientifiques et techniques est un projet qui s'inscrit dans le cadre du programme HADOC (Harmonisation de la production des donn\u00e9es culturelles). L'enjeu initial \u00e9tait de \"lib\u00e9rer\" les multiples terminologies, listes d'autorit\u00e9 et th\u00e9saurus utilis\u00e9s pour l'indexation et la recherche, actuellement enferm\u00e9s dans les outils de production ou de diffusion, en vue de les partager entre diff\u00e9rents m\u00e9tiers et applications et d'en faciliter la r\u00e9utilisation. \n\nL'application GINCO fournit un environnement de gestion des vocabulaires appuy\u00e9 sur la norme ISO 25964-1:2011 Information et documentation -- Th\u00e9saurus et interop\u00e9rabilit\u00e9 avec d'autres vocabulaires -- Partie 1: Th\u00e9saurus pour la recherche documentaire. Les th\u00e9saurus ou listes d'autorit\u00e9 produits dans ce nouvel environnement sont exportables au format SKOS, langage de diffusion des terminologies sur la toile.",
+  "extras": {
+    "harvest:domain": "data.culturecommunication.gouv.fr",
+    "harvest:last_update": "2017-11-27T05:25:13.021129",
+    "harvest:remote_id": "les-vocabulaires-du-ministere-de-la-culture-et-de-la-communication",
+    "harvest:source_id": "5890bf69c751df4121ae0a65",
+    "ods:has_records": true,
+    "ods:url": "https://data.culturecommunication.gouv.fr//explore/dataset/les-vocabulaires-du-ministere-de-la-culture-et-de-la-communication/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5890bf77a3a72974c1f0dc8c",
+  "last_modified": "2017-11-27T05:25:13.026000",
+  "last_update": "2017-11-27T05:25:13.020000",
+  "license": "cc-by-sa",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff91a3a7292c64a77f73",
+    "logo": "https://www.data.gouv.fr/s/avatars/cf/f1ce1cb584470c8b83a9839dd9c83e-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/cf/f1ce1cb584470c8b83a9839dd9c83e-100.jpg",
+    "name": "Minist\u00e8re de la Culture",
+    "page": "https://www.data.gouv.fr/fr/organizations/ministere-de-la-culture-et-de-la-communication/",
+    "slug": "ministere-de-la-culture-et-de-la-communication",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ministere-de-la-culture-et-de-la-communication/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/vocabulaires-du-ministere-de-la-culture-et-de-la-communication/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:25:13.020000",
+      "description": "- *Les diff\u00e9rents th\u00e9saurus disponibles  *: les_differents_thesaurus_disponibles[text]\n- *Description*: description[text]\n- *Producteur*: producteur[text]\n- *Format*: format[text]\n- *Licence*: licence[text]\n- *Lien*: lien[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b0ffb752-f748-4fc2-863f-f5b1a55e4b82",
+      "last_modified": "2017-01-27T13:58:39",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b0ffb752-f748-4fc2-863f-f5b1a55e4b82",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:25:13.020000",
+      "title": "Export au format CSV",
+      "url": "https://data.culturecommunication.gouv.fr//explore/dataset/les-vocabulaires-du-ministere-de-la-culture-et-de-la-communication/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:25:13.020000",
+      "description": "- *Les diff\u00e9rents th\u00e9saurus disponibles  *: les_differents_thesaurus_disponibles[text]\n- *Description*: description[text]\n- *Producteur*: producteur[text]\n- *Format*: format[text]\n- *Licence*: licence[text]\n- *Lien*: lien[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "1ecb1068-643b-42fa-93b9-38ff39630884",
+      "last_modified": "2017-01-27T13:58:39",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1ecb1068-643b-42fa-93b9-38ff39630884",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:25:13.020000",
+      "title": "Export au format JSON",
+      "url": "https://data.culturecommunication.gouv.fr//explore/dataset/les-vocabulaires-du-ministere-de-la-culture-et-de-la-communication/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "vocabulaires-du-ministere-de-la-culture-et-de-la-communication",
+  "spatial": null,
+  "tags": [
+    "langue",
+    "thesaurus-liste-dautorite"
+  ],
+  "temporal_coverage": null,
+  "title": "Vocabulaires du minist\u00e8re de la Culture et de la Communication",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/vocabulaires-du-ministere-de-la-culture-et-de-la-communication/"
+}

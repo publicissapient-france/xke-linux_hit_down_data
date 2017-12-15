@@ -1,0 +1,227 @@
+{
+  "badges": [],
+  "created_at": "2017-09-05T04:48:14.520000",
+  "deleted": null,
+  "description": "There is no description available.",
+  "extras": {
+    "dct:identifier": "http://www-cavgp.opendata.arcgis.com/datasets/79950356964b4465b6c4ecf5142f2d69_1",
+    "harvest:domain": "www-cavgp.opendata.arcgis.com",
+    "harvest:last_update": "2017-09-05T04:48:14.527822",
+    "harvest:remote_id": "http://www-cavgp.opendata.arcgis.com/datasets/79950356964b4465b6c4ecf5142f2d69_1",
+    "harvest:source_id": "58c6626c88ee38414af5c7a4"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59ae106eb595087a24916972",
+  "last_modified": "2017-09-05T04:48:14.529000",
+  "last_update": "2017-09-05T04:48:14.526000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "CAVGP",
+    "class": "Organization",
+    "id": "58c5a537c751df2fb0fde3c9",
+    "logo": "https://www.data.gouv.fr/s/avatars/39/717bed78eb400c99a31f83d001c75d-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/39/717bed78eb400c99a31f83d001c75d-100.jpg",
+    "name": "Communaut\u00e9 d'Agglomeration Versailles Grand Parc",
+    "page": "https://www.data.gouv.fr/fr/organizations/communaute-dagglomeration-versailles-grand-parc/",
+    "slug": "communaute-dagglomeration-versailles-grand-parc",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/communaute-dagglomeration-versailles-grand-parc/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/vgp-ec-sallespolyvalentes/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T04:48:14.521000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-19T09:13:18.674000",
+        "check:status": 200,
+        "check:url": "https://services2.arcgis.com/YECJCCLQCtaylXWh/arcgis/rest/services/Equipements_culturels/FeatureServer/1"
+      },
+      "filesize": null,
+      "filetype": "file",
+      "format": "esri rest",
+      "id": "fef6ecdd-f4fd-4408-acdf-2753859aa061",
+      "last_modified": "2017-09-05T04:48:14.521000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fef6ecdd-f4fd-4408-acdf-2753859aa061",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-09-05T04:48:14.521000",
+      "title": "Esri Rest API",
+      "url": "https://services2.arcgis.com/YECJCCLQCtaylXWh/arcgis/rest/services/Equipements_culturels/FeatureServer/1"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T04:48:14.522000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-19T09:13:25.356000",
+        "check:status": 204,
+        "check:url": "http://www-cavgp.opendata.arcgis.com/datasets/79950356964b4465b6c4ecf5142f2d69_1"
+      },
+      "filesize": null,
+      "filetype": "file",
+      "format": "web page",
+      "id": "c34838d8-2d18-4e29-9c82-ba577e534241",
+      "last_modified": "2017-09-05T04:48:14.522000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c34838d8-2d18-4e29-9c82-ba577e534241",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-09-05T04:48:14.522000",
+      "title": "ArcGIS Open Dataset",
+      "url": "http://www-cavgp.opendata.arcgis.com/datasets/79950356964b4465b6c4ecf5142f2d69_1"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T04:48:14.523000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-19T09:13:23.938000",
+        "check:status": 200,
+        "check:url": "http://www-cavgp.opendata.arcgis.com/datasets/79950356964b4465b6c4ecf5142f2d69_1.csv"
+      },
+      "filesize": null,
+      "filetype": "file",
+      "format": "csv",
+      "id": "1c08d146-a0d1-40b4-a512-877c730ec224",
+      "last_modified": "2017-09-05T04:48:14.523000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1c08d146-a0d1-40b4-a512-877c730ec224",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-05T04:48:14.523000",
+      "title": "CSV",
+      "url": "http://www-cavgp.opendata.arcgis.com/datasets/79950356964b4465b6c4ecf5142f2d69_1.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T04:48:14.524000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-19T09:13:30.254000",
+        "check:status": 200,
+        "check:url": "http://www-cavgp.opendata.arcgis.com/datasets/79950356964b4465b6c4ecf5142f2d69_1.kml"
+      },
+      "filesize": null,
+      "filetype": "file",
+      "format": "kml",
+      "id": "82cb2c50-cdad-484f-a6d3-3c4ebc734e1b",
+      "last_modified": "2017-09-05T04:48:14.524000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/82cb2c50-cdad-484f-a6d3-3c4ebc734e1b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.google-earth.kml+xml",
+      "published": "2017-09-05T04:48:14.524000",
+      "title": "KML",
+      "url": "http://www-cavgp.opendata.arcgis.com/datasets/79950356964b4465b6c4ecf5142f2d69_1.kml"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T04:48:14.525000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-19T09:13:20.208000",
+        "check:status": 200,
+        "check:url": "http://www-cavgp.opendata.arcgis.com/datasets/79950356964b4465b6c4ecf5142f2d69_1.geojson"
+      },
+      "filesize": null,
+      "filetype": "file",
+      "format": "geojson",
+      "id": "c15bf6ca-58af-46ec-98c2-236003434bf1",
+      "last_modified": "2017-09-05T04:48:14.525000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c15bf6ca-58af-46ec-98c2-236003434bf1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-09-05T04:48:14.525000",
+      "title": "GeoJSON",
+      "url": "http://www-cavgp.opendata.arcgis.com/datasets/79950356964b4465b6c4ecf5142f2d69_1.geojson"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T04:48:14.526000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-19T09:13:19.202000",
+        "check:status": 200,
+        "check:url": "http://www-cavgp.opendata.arcgis.com/datasets/79950356964b4465b6c4ecf5142f2d69_1.zip"
+      },
+      "filesize": null,
+      "filetype": "file",
+      "format": "zip",
+      "id": "59b43cb7-71cf-4116-9ac8-b0cd01e60f4a",
+      "last_modified": "2017-09-05T04:48:14.526000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/59b43cb7-71cf-4116-9ac8-b0cd01e60f4a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-09-05T04:48:14.526000",
+      "title": "Shapefile",
+      "url": "http://www-cavgp.opendata.arcgis.com/datasets/79950356964b4465b6c4ecf5142f2d69_1.zip"
+    }
+  ],
+  "slug": "vgp-ec-sallespolyvalentes",
+  "spatial": null,
+  "tags": [
+    "archives",
+    "bibliotheques",
+    "cinema",
+    "culture",
+    "enseignement-artistique",
+    "geospatial",
+    "institution",
+    "musees",
+    "opendata",
+    "patrimoine",
+    "theatre",
+    "versailles",
+    "versailles-grand-parc"
+  ],
+  "temporal_coverage": null,
+  "title": "VGP EC SallesPolyvalentes",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/vgp-ec-sallespolyvalentes/"
+}

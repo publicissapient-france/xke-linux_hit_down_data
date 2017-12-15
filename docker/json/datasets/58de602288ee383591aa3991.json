@@ -1,0 +1,88 @@
+{
+  "badges": [],
+  "created_at": "2017-03-31T15:56:50.373000",
+  "deleted": null,
+  "description": "Extraction des donn\u00e9es statistiques de data.gouv.fr \u00e0 partir de l'API de stats.data.gouv.fr r\u00e9alis\u00e9e par Jo\u00ebl Gombin de datactivist \u00e0 l'occasion de [l'\u00e9v\u00e8nement \"Open data qui veut des donn\u00e9es brutes ?\"](https://www.eventbrite.fr/e/billets-open-data-qui-veut-des-donnees-brutes-32057837856) organis\u00e9e le 31 mars 2017 \u00e0 Superpublic par [Datactivist](datactivi.st) et [la 27e r\u00e9gion](http://la27eregion.fr).\n\nD\u00e9tail des champs :\n- Date (ann\u00e9e-mois-jour) \n- label : URL\n- nb_visits : nombre de vues par jour\n- entry_nb_visits : nombre de visites entrantes par jour (lorsque cette URL est le point d'entr\u00e9e sur data.gouv.fr)\n- exit_nb_visits : nombre de visites sortantes par jour (lorsque cette URL est le point de sortie sur data.gouv.fr)\n",
+  "extras": {},
+  "frequency": "irregular",
+  "frequency_date": null,
+  "id": "58de602288ee383591aa3991",
+  "last_modified": "2017-03-31T15:57:47.623000",
+  "last_update": "2017-03-31T00:00:00",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 1,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "58de5ed288ee3830702efd74",
+    "logo": "https://www.data.gouv.fr/s/avatars/f8/c4c9c5f12e485097d4d81dd5b7b07d-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/f8/c4c9c5f12e485097d4d81dd5b7b07d-100.png",
+    "name": "Datactivist",
+    "page": "https://www.data.gouv.fr/fr/organizations/datactivist/",
+    "slug": "datactivist",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/datactivist/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/nombre-de-visiteurs-par-jour-depuis-2014-des-url-de-data-gouv-fr-1/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-03-31T15:57:47.583000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T19:03:13.853000",
+        "check:status": 200,
+        "check:url": "https://github.com/datactivist/stats_data_gouv/raw/master/data/data.gouv.fr/20140101_20170331_parmois_parurl.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "aa36ad81-8ef3-4faa-b4db-bac8f2e26be6",
+      "last_modified": "2017-03-31T15:57:47.583000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/aa36ad81-8ef3-4faa-b4db-bac8f2e26be6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-03-31T00:00:00",
+      "title": "Visiteurs par URL depuis 01/01/2014",
+      "url": "https://github.com/datactivist/stats_data_gouv/raw/master/data/data.gouv.fr/20140101_20170331_parmois_parurl.csv"
+    }
+  ],
+  "slug": "nombre-de-visiteurs-par-jour-depuis-2014-des-url-de-data-gouv-fr-1",
+  "spatial": {
+    "geom": null,
+    "granularity": "other",
+    "zones": []
+  },
+  "tags": [
+    "analytics",
+    "data-gouv-fr",
+    "etalab",
+    "open-data",
+    "stats",
+    "usagers",
+    "usages"
+  ],
+  "temporal_coverage": {
+    "end": "2017-03-31",
+    "start": "2014-01-01"
+  },
+  "title": "Nombre de visiteurs par jour depuis 2014 des URL de data.gouv.fr",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/nombre-de-visiteurs-par-jour-depuis-2014-des-url-de-data-gouv-fr-1/"
+}

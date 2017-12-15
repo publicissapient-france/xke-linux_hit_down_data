@@ -1,0 +1,102 @@
+{
+  "badges": [],
+  "created_at": "2016-02-02T15:53:16.123000",
+  "deleted": null,
+  "description": "Etat annuel des march\u00e9s notifi\u00e9s de plus de 20 000 \u20ac entre le 1er janvier et le 31 d\u00e9cembre 2012 par la ville de Toulouse et par ses mandataires EUROPOLIA et OPPIDEA agissant dans le cadre de convention de mandat pour le compte de la collectivit\u00e9. Les cat\u00e9gories (travaux, fournitures et services) et les seuils sont impos\u00e9s par l\u2019arr\u00eat\u00e9 du 21 juillet 2011 (NOR : EFIM1119976A).",
+  "extras": {
+    "harvest:domain": "data.toulouse-metropole.fr",
+    "harvest:last_update": "2017-11-27T05:16:14.699788",
+    "harvest:remote_id": "marches-publics-2012-ville-de-toulouse",
+    "harvest:source_id": "564c3680c751df607daad370",
+    "ods:has_records": true,
+    "ods:url": "https://data.toulouse-metropole.fr//explore/dataset/marches-publics-2012-ville-de-toulouse/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "56b0c2dcb595086d5569cb82",
+  "last_modified": "2017-11-27T05:16:14.701000",
+  "last_update": "2017-11-27T05:16:14.699000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb3a3a7292c64a78129",
+    "logo": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-100.jpg",
+    "name": "Toulouse m\u00e9trople",
+    "page": "https://www.data.gouv.fr/fr/organizations/toulouse-metrople/",
+    "slug": "toulouse-metrople",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/toulouse-metrople/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/marches-publics-2012-toulouse/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:16:14.698000",
+      "description": "- *TRAVAUX - TRANCHE DE 20 000 EUROS A 89 999,99 EUROS*: travaux_tranche_de_20_000_euros_a_89_999_99_euros[text]\n- *empty*: empty[text]\n- *empty*: empty0[text]\n- *empty*: empty1[text]\n- *empty*: empty2[double]\n- *empty*: empty3[double]\n- *empty*: empty4[text]\n- *empty*: empty5[date]\n- *empty*: empty6[text]\n- *empty*: empty7[text]\n- *empty*: empty8[text]\n- *empty*: empty9[text]\n- *empty*: empty10[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "8ea181ce-58dc-480c-8e33-b20e3f67146a",
+      "last_modified": "2013-07-25T22:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8ea181ce-58dc-480c-8e33-b20e3f67146a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:16:14.698000",
+      "title": "Export au format CSV",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/marches-publics-2012-ville-de-toulouse/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:16:14.699000",
+      "description": "- *TRAVAUX - TRANCHE DE 20 000 EUROS A 89 999,99 EUROS*: travaux_tranche_de_20_000_euros_a_89_999_99_euros[text]\n- *empty*: empty[text]\n- *empty*: empty0[text]\n- *empty*: empty1[text]\n- *empty*: empty2[double]\n- *empty*: empty3[double]\n- *empty*: empty4[text]\n- *empty*: empty5[date]\n- *empty*: empty6[text]\n- *empty*: empty7[text]\n- *empty*: empty8[text]\n- *empty*: empty9[text]\n- *empty*: empty10[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "76907040-a11c-4aef-8a97-5087c83badb0",
+      "last_modified": "2013-07-25T22:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/76907040-a11c-4aef-8a97-5087c83badb0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:16:14.699000",
+      "title": "Export au format JSON",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/marches-publics-2012-ville-de-toulouse/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "marches-publics-2012-toulouse",
+  "spatial": null,
+  "tags": [
+    "2012",
+    "citoyennete",
+    "marche",
+    "public"
+  ],
+  "temporal_coverage": null,
+  "title": "March\u00e9s publics - 2012 - Toulouse",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/marches-publics-2012-toulouse/"
+}

@@ -1,0 +1,146 @@
+{
+  "badges": [],
+  "created_at": "2017-11-21T14:24:29.214000",
+  "deleted": null,
+  "description": "Consommation r\u00e9gionale annuelle de gaz\u00a0(2014-2016) sur les zones desservies par GRTgaz.\n\nDonn\u00e9es mesur\u00e9es aux points de livraison aliment\u00e9s par GRTgaz.\n\nDonn\u00e9es 2016 provisoires.\n\n  * En Occitanie, GRTgaz est pr\u00e9sent dans le Gard (30), l'H\u00e9rault (34) et la Loz\u00e8re (48). Les autres d\u00e9partements sont desservis par le transporteur TIGF.\n  * En Rh\u00f4ne-Alpes-Auvergne, GRTgaz dessert l'ensemble de la r\u00e9gion, \u00e0 l'exception du Cantal (15) o\u00f9 les 2 transporteurs TIGF et GRTgaz sont pr\u00e9sents.\n  * En Nouvelle Aquitaine, la Gironde (33) est deservie par les 2 transporteurs TIGF et GRTgaz.\u00a0TIGF dessert seul les Landes (40), Lot et Garonne (47) et Pyr\u00e9n\u00e9es-Atlantiques (64).",
+  "extras": {
+    "harvest:domain": "grtgaz.opendatasoft.com",
+    "harvest:last_update": "2017-11-27T05:01:02.906734",
+    "harvest:remote_id": "consommation-regionale-de-gaz",
+    "harvest:source_id": "5a0f06c6c751df4d2d7c7a3f",
+    "ods:has_records": true,
+    "ods:references": "http://www.grtgaz.com/notre-entreprise/notre-reseau.html",
+    "ods:url": "https://grtgaz.opendatasoft.com/explore/dataset/consommation-regionale-de-gaz/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5a14290eb5950840efec25f6",
+  "last_modified": "2017-11-27T05:01:02.913000",
+  "last_update": "2017-11-27T05:01:02.905000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "GRTgaz",
+    "class": "Organization",
+    "id": "59e4647188ee383dd24bfc85",
+    "logo": "https://www.data.gouv.fr/s/avatars/12/d70a359c7b46fa84ad834ceed5fa30-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/12/d70a359c7b46fa84ad834ceed5fa30-100.jpg",
+    "name": "GRTgaz",
+    "page": "https://www.data.gouv.fr/fr/organizations/grtgaz/",
+    "slug": "grtgaz",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/grtgaz/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/consommation-regionale-de-gaz-2014-2016/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:01:02.904000",
+      "description": "- *Ann\u00e9e*: annee[date] Ann\u00e9e\n- *R\u00e9gion*: region[text] R\u00e9gion administrative\n- *Code INSEE R\u00e9gion*: code_insee_region[int]\n- *Consommation nette gaz (GWh)*: consommation_nette_gaz_gwh[double] Consommation nette de gaz (GWh)\n- *Geo Shape*: geo_shape[geo_shape]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "d27bd6f0-b9d0-4b42-b6d2-83554b077d88",
+      "last_modified": "2016-12-10T00:26:26",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d27bd6f0-b9d0-4b42-b6d2-83554b077d88",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:01:02.904000",
+      "title": "Export au format CSV",
+      "url": "https://grtgaz.opendatasoft.com/explore/dataset/consommation-regionale-de-gaz/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:01:02.905000",
+      "description": "- *Ann\u00e9e*: annee[date] Ann\u00e9e\n- *R\u00e9gion*: region[text] R\u00e9gion administrative\n- *Code INSEE R\u00e9gion*: code_insee_region[int]\n- *Consommation nette gaz (GWh)*: consommation_nette_gaz_gwh[double] Consommation nette de gaz (GWh)\n- *Geo Shape*: geo_shape[geo_shape]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "e9ca8c6e-9dce-49f4-9b8e-f73aae64c5be",
+      "last_modified": "2016-12-10T00:26:26",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e9ca8c6e-9dce-49f4-9b8e-f73aae64c5be",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:01:02.905000",
+      "title": "Export au format JSON",
+      "url": "https://grtgaz.opendatasoft.com/explore/dataset/consommation-regionale-de-gaz/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:01:02.905000",
+      "description": "- *Ann\u00e9e*: annee[date] Ann\u00e9e\n- *R\u00e9gion*: region[text] R\u00e9gion administrative\n- *Code INSEE R\u00e9gion*: code_insee_region[int]\n- *Consommation nette gaz (GWh)*: consommation_nette_gaz_gwh[double] Consommation nette de gaz (GWh)\n- *Geo Shape*: geo_shape[geo_shape]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "95063257-1fc8-479f-92ec-984f2e153f77",
+      "last_modified": "2016-12-10T00:26:26",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/95063257-1fc8-479f-92ec-984f2e153f77",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:01:02.905000",
+      "title": "Export au format GeoJSON",
+      "url": "https://grtgaz.opendatasoft.com/explore/dataset/consommation-regionale-de-gaz/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:01:02.905000",
+      "description": "- *Ann\u00e9e*: annee[date] Ann\u00e9e\n- *R\u00e9gion*: region[text] R\u00e9gion administrative\n- *Code INSEE R\u00e9gion*: code_insee_region[int]\n- *Consommation nette gaz (GWh)*: consommation_nette_gaz_gwh[double] Consommation nette de gaz (GWh)\n- *Geo Shape*: geo_shape[geo_shape]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "3577d39a-9b9a-46f5-b551-69e0226afc59",
+      "last_modified": "2016-12-10T00:26:26",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3577d39a-9b9a-46f5-b551-69e0226afc59",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:01:02.905000",
+      "title": "Export au format Shapefile",
+      "url": "https://grtgaz.opendatasoft.com/explore/dataset/consommation-regionale-de-gaz/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "consommation-regionale-de-gaz-2014-2016",
+  "spatial": null,
+  "tags": [
+    "consommation",
+    "gaz",
+    "region",
+    "territoires"
+  ],
+  "temporal_coverage": null,
+  "title": "Consommation r\u00e9gionale de gaz (2014-2016)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/consommation-regionale-de-gaz-2014-2016/"
+}

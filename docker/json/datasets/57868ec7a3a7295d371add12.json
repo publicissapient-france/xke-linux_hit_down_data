@@ -1,0 +1,114 @@
+{
+  "badges": [],
+  "created_at": "2016-07-13T20:56:07.816000",
+  "deleted": null,
+  "description": "Liste et montant des participations d\u00e9partementales au budget sp\u00e9cial de la Pr\u00e9fecture de police\n\n* * *\n\nLe D\u00e9partement intervient dans le domaine de la s\u00e9curit\u00e9 publique et civile \u00e0 travers la participation vers\u00e9e aux services interd\u00e9partementaux de la Pr\u00e9fecture de police (laboratoire central, institut m\u00e9dico-l\u00e9gal, objets trouv\u00e9s, services v\u00e9t\u00e9rinaires) et sa participation financi\u00e8re \u00e0 la brigade des sapeurs pompiers. Ce jeu de donn\u00e9e pr\u00e9cise les montants allou\u00e9s.\n\n**Lexique**\n\nServices interd\u00e9partementaux : objets trouv\u00e9s, institut m\u00e9dico-l\u00e9gal, services v\u00e9t\u00e9rinaires et laboratoire central de la Pr\u00e9fecture de Police\n\n**Observations particuli\u00e8res**\n\nLe mode de calcul de la participation est fix\u00e9 par le code g\u00e9n\u00e9ral des collectivit\u00e9s territoriales.",
+  "extras": {
+    "harvest:domain": "opendata.hauts-de-seine.fr",
+    "harvest:last_update": "2017-04-06T06:03:17.134350",
+    "harvest:remote_id": "participations-departementales-au-budget-special-de-la-prefecture-de-police",
+    "harvest:source_id": "5731a6d688ee38379cd1b934",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.hauts-de-seine.fr//explore/dataset/participations-departementales-au-budget-special-de-la-prefecture-de-police/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "57868ec7a3a7295d371add12",
+  "last_modified": "2017-04-06T06:03:17.137000",
+  "last_update": "2017-04-06T06:03:17.133000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "544e1b0888ee38289ae1ed05",
+    "logo": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-100.jpg",
+    "name": "Hauts-de-Seine le D\u00e9partement",
+    "page": "https://www.data.gouv.fr/fr/organizations/hauts-de-seine-le-departement/",
+    "slug": "hauts-de-seine-le-departement",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/hauts-de-seine-le-departement/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/participations-departementales-au-budget-special-de-la-prefecture-de-police/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T06:03:17.132000",
+      "description": "- *ANNEE*: annee[date] Ann\u00e9e\n- *OBJET*: objet[text] Action financ\u00e9e\n- *MONTANT_VOTE*: montant_vote[double] Montant vot\u00e9 (euros)\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-17T21:26:59.838000",
+        "check:status": 200,
+        "check:url": "https://opendata.hauts-de-seine.fr//explore/dataset/participations-departementales-au-budget-special-de-la-prefecture-de-police/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ff323bb3-78bf-4680-8298-04ea58119d15",
+      "last_modified": "2016-02-23T14:08:04",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ff323bb3-78bf-4680-8298-04ea58119d15",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-04-06T06:03:17.132000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/participations-departementales-au-budget-special-de-la-prefecture-de-police/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T06:03:17.133000",
+      "description": "- *ANNEE*: annee[date] Ann\u00e9e\n- *OBJET*: objet[text] Action financ\u00e9e\n- *MONTANT_VOTE*: montant_vote[double] Montant vot\u00e9 (euros)\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T22:06:47.567000",
+        "check:status": 200,
+        "check:url": "https://opendata.hauts-de-seine.fr//explore/dataset/participations-departementales-au-budget-special-de-la-prefecture-de-police/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "1648baa9-8e7b-4d52-9abc-dab60157d602",
+      "last_modified": "2016-02-23T14:08:04",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1648baa9-8e7b-4d52-9abc-dab60157d602",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-04-06T06:03:17.133000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/participations-departementales-au-budget-special-de-la-prefecture-de-police/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "participations-departementales-au-budget-special-de-la-prefecture-de-police",
+  "spatial": null,
+  "tags": [
+    "budgets",
+    "contractualisation-politique-de-la-ville",
+    "participations",
+    "police",
+    "prefectures",
+    "subventions"
+  ],
+  "temporal_coverage": null,
+  "title": "Participations d\u00e9partementales au budget sp\u00e9cial de la Pr\u00e9fecture de police",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/participations-departementales-au-budget-special-de-la-prefecture-de-police/"
+}

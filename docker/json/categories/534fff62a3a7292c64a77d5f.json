@@ -1,0 +1,81 @@
+{
+  "acronym": null,
+  "badges": [
+    {
+      "kind": "public-service"
+    },
+    {
+      "kind": "certified"
+    }
+  ],
+  "created_at": "2014-04-17T18:20:50.806000",
+  "deleted": null,
+  "description": "La [Commission d\u2019acc\u00e8s aux documents administratifs](http://www.cada.fr) est une autorit\u00e9 administrative ind\u00e9pendante et consultative charg\u00e9e de veiller \u00e0 la libert\u00e9 d\u2019acc\u00e8s aux documents administratifs. Sa composition garantit son ind\u00e9pendance.\n\nSon r\u00f4le est principalement de rendre des avis sur le refus oppos\u00e9 par l\u2019administration aux demandes de communication des particuliers, des entreprises, des associations, des syndicats et d'autres d'administrations. Sa saisine est obligatoire avant tout recours contentieux.\n\nElle conseille \u00e9galement les administrations sur le caract\u00e8re communicable des documents qu'elles d\u00e9tiennent, et peut \u00eatre consult\u00e9e par le gouvernement sur des textes l\u00e9gislatifs ou r\u00e9glementaires, ou en proposer la modification. \n\nElle informe le public sur le droit d\u2019acc\u00e8s.\n",
+  "id": "534fff62a3a7292c64a77d5f",
+  "last_modified": "2017-11-24T23:56:41.841000",
+  "logo": "https://www.data.gouv.fr/s/avatars/19/8d825fd63e408e8b287bbbb6070633-original.png",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/19/8d825fd63e408e8b287bbbb6070633-100.png",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/c0/817edf549e47a1b18dc777527c96e1-original.png",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/c0/817edf549e47a1b18dc777527c96e1-100.png",
+        "class": "User",
+        "first_name": "Axel",
+        "id": "534fff3da3a7292c64a77408",
+        "last_name": "H.",
+        "page": "https://www.data.gouv.fr/fr/users/axel-h/",
+        "slug": "axel-h",
+        "uri": "https://www.data.gouv.fr/api/1/users/axel-h/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Jo\u00ebl",
+        "id": "53a8b656a3a72905b7ce5940",
+        "last_name": "Thibeau",
+        "page": "https://www.data.gouv.fr/fr/users/joel-thibeau/",
+        "slug": "joel-thibeau",
+        "uri": "https://www.data.gouv.fr/api/1/users/joel-thibeau/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Christelle",
+        "id": "55536453c751df153d190c78",
+        "last_name": "GUICHARD",
+        "page": "https://www.data.gouv.fr/fr/users/christelle-guichard/",
+        "slug": "christelle-guichard",
+        "uri": "https://www.data.gouv.fr/api/1/users/christelle-guichard/"
+      }
+    }
+  ],
+  "metrics": {
+    "dataset_views": 143,
+    "datasets": 1,
+    "followers": 19,
+    "members": 3,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 1,
+    "resource_downloads": 314,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 169
+  },
+  "name": "Commission d\u2019acc\u00e8s aux documents administratifs (CADA)",
+  "page": "https://www.data.gouv.fr/fr/organizations/commission-d-acces-aux-documents-administratifs-cada/",
+  "slug": "commission-d-acces-aux-documents-administratifs-cada",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/commission-d-acces-aux-documents-administratifs-cada/",
+  "url": null
+}

@@ -1,0 +1,266 @@
+{
+  "badges": [],
+  "created_at": "2016-06-22T00:00:00",
+  "deleted": null,
+  "description": "Il s\u2019agit de l\u2019ensemble des courriers arriv\u00e9s li\u00e9s \u00e0 la gestion des dossiers allocataires, quel que soit le domaine\n(PF, AS, contentieux, etc.) et le lieu de r\u00e9ception (service courrier, guichets, centres ext\u00e9rieurs, prestataires,\netc.)\nLa d\u00e9finition de courrier suit la convention adopt\u00e9e dans SDP : un courrier comptabilis\u00e9 par SDP correspond \u00e0\nl\u2019ensemble des pi\u00e8ces arriv\u00e9es le m\u00eame jour pour un m\u00eame allocataire (matricule identique).\n\nDoivent \u00eatre compt\u00e9s l\u2019ensemble des contacts \u00e9crits arriv\u00e9s, quel que soit le support (papier, fax, courriers\n\u00e9lectroniques, etc.), le (ou les) service(s) destinataire(s) (Prestations familiales, Action Sociale, Contentieux,\netc.) et le lieu de r\u00e9ception (service courrier, guichets de la caisse, centres ext\u00e9rieurs de la caisse, centre\ninformatique ou prestataire de service pour le compte de la caisse), qu\u2019ils soient enregistr\u00e9s ou non par SDP.\nSeuls les courriers arrivant de l'ext\u00e9rieur (flux entrants) et les flux internes g\u00e9n\u00e9rant une charge doivent \u00eatre\ncompt\u00e9s, les flux sortants ne doivent pas \u00eatre compt\u00e9s.\n\nCet indicateur ne constitue qu\u2019un \u00e9l\u00e9ment partiel de l\u2019appr\u00e9ciation de la charge dans la mesure o\u00f9 le traitement\nd\u2019un courrier peut \u00eatre plus ou moins long selon le type de courrier concern\u00e9, le nombre de pi\u00e8ces constitutives\ndu courrier.\nDans cet indicateur, certaines fluctuations observ\u00e9es mensuellement peuvent r\u00e9sulter d\u2019op\u00e9rations ponctuelles\n(arriv\u00e9es des d\u00e9clarations de ressources, des certificats de scolarit\u00e9, campagnes d\u2019information locale, activit\u00e9s\nparticuli\u00e8res d\u2019action sociale, etc.).\nLa comptabilisation au mois le mois des courriers r\u00e9ceptionn\u00e9s par des prestataires de service peut s\u2019av\u00e9rer\ndifficile. La caisse communiquera leur chiffrage d\u00e8s qu\u2019elle en aura connaissance et un recyclage mensuel affect\u00e9 au(x)\nmois indiqu\u00e9(s) par elle sera r\u00e9alis\u00e9.\nLe respect des pr\u00e9conisations (cf. Documentations fonctionnelles de SDP) quant \u00e0 l'utilisation des codes \u00e9tat\ndans SDP garantit la coh\u00e9rence entre le champ d\u00e9fini pour l'indicateur et la r\u00e9alit\u00e9 du calcul.",
+  "extras": {
+    "ckan:name": "nombre-de-courriers-arrives",
+    "harvest:domain": "data.caf.fr",
+    "harvest:last_update": "2017-11-27T05:08:45.358800",
+    "harvest:remote_id": "a951a004-64b6-4cd5-9c47-f4f755138a23",
+    "harvest:source_id": "560d9133c751df40ee756894",
+    "harvested": "2017-10-02T09:50:21.623008",
+    "remote_url": "SID table BGESCNAF.GCSDPAA",
+    "source_id": "954ea88a-1b59-4a56-acae-2148a64dbe5e"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "560d9160a3a7294ad6ff2d00",
+  "last_modified": "2017-11-27T05:08:45.360000",
+  "last_update": "2017-07-02T19:44:06.289000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 2
+  },
+  "organization": {
+    "acronym": "CNAF",
+    "class": "Organization",
+    "id": "5595066cc751df4582a453ba",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-07-02/a1bc08e4a4dc44a89cb29697800a83b5/new_logo-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-07-02/a1bc08e4a4dc44a89cb29697800a83b5/new_logo-100.jpg",
+    "name": "Caisse Nationale des Allocations familiales ",
+    "page": "https://www.data.gouv.fr/fr/organizations/allocations-familiales/",
+    "slug": "allocations-familiales",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/allocations-familiales/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/nombre-de-courriers-arrives/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:40.001000",
+      "description": "Nombre de courriers arriv\u00e9s en 2014",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T20:57:43.054000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/a951a004-64b6-4cd5-9c47-f4f755138a23/resource/17cde331-cd61-4fae-b9ca-f95ff277333f/download/COURRIERS2014.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "17cde331-cd61-4fae-b9ca-f95ff277333f",
+      "last_modified": "2015-06-09T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/17cde331-cd61-4fae-b9ca-f95ff277333f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 2
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:40.001000",
+      "title": "Nombre de courriers arriv\u00e9s en 2014",
+      "url": "http://data.caf.fr/dataset/a951a004-64b6-4cd5-9c47-f4f755138a23/resource/17cde331-cd61-4fae-b9ca-f95ff277333f/download/COURRIERS2014.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:40.001000",
+      "description": "Nombre courriers arriv\u00e9s en 2013",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T20:57:42.130000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/a951a004-64b6-4cd5-9c47-f4f755138a23/resource/1faf9167-669d-4219-9db0-69ee8b3f4ba5/download/COURRIERS2013.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "1faf9167-669d-4219-9db0-69ee8b3f4ba5",
+      "last_modified": "2015-05-07T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1faf9167-669d-4219-9db0-69ee8b3f4ba5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:40.001000",
+      "title": "Nombre de courriers arriv\u00e9s en 2013",
+      "url": "http://data.caf.fr/dataset/a951a004-64b6-4cd5-9c47-f4f755138a23/resource/1faf9167-669d-4219-9db0-69ee8b3f4ba5/download/COURRIERS2013.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:40.001000",
+      "description": "Nombre de courriers arriv\u00e9s en 2012",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T20:57:46.119000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/a951a004-64b6-4cd5-9c47-f4f755138a23/resource/a05f0a71-c909-43da-8416-2ad9f2da9a56/download/COURRIERS2012.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a05f0a71-c909-43da-8416-2ad9f2da9a56",
+      "last_modified": "2015-05-07T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a05f0a71-c909-43da-8416-2ad9f2da9a56",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:40.001000",
+      "title": "Nombre de courriers arriv\u00e9s en 2012",
+      "url": "http://data.caf.fr/dataset/a951a004-64b6-4cd5-9c47-f4f755138a23/resource/a05f0a71-c909-43da-8416-2ad9f2da9a56/download/COURRIERS2012.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:40.001000",
+      "description": "Nombre de courriers arriv\u00e9s en 2011",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T20:57:46.129000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/a951a004-64b6-4cd5-9c47-f4f755138a23/resource/132a6c69-8392-469b-b2b2-61553cd0a4b7/download/COURRIERS2011.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "132a6c69-8392-469b-b2b2-61553cd0a4b7",
+      "last_modified": "2015-05-07T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/132a6c69-8392-469b-b2b2-61553cd0a4b7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:40.001000",
+      "title": "Nombre de courriers arriv\u00e9s en 2011",
+      "url": "http://data.caf.fr/dataset/a951a004-64b6-4cd5-9c47-f4f755138a23/resource/132a6c69-8392-469b-b2b2-61553cd0a4b7/download/COURRIERS2011.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:40.002000",
+      "description": "Nombre de courriers arriv\u00e9s en 2010",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T20:57:42.129000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/a951a004-64b6-4cd5-9c47-f4f755138a23/resource/99f0090f-9d38-45c8-af6d-c2235616acc9/download/COURRIERS2010.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "99f0090f-9d38-45c8-af6d-c2235616acc9",
+      "last_modified": "2015-05-07T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/99f0090f-9d38-45c8-af6d-c2235616acc9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:40.002000",
+      "title": "Nombre de courriers arriv\u00e9s en 2010",
+      "url": "http://data.caf.fr/dataset/a951a004-64b6-4cd5-9c47-f4f755138a23/resource/99f0090f-9d38-45c8-af6d-c2235616acc9/download/COURRIERS2010.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:40.002000",
+      "description": "Nombre de courriers arriv\u00e9s en 2009",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T20:57:45.674000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/a951a004-64b6-4cd5-9c47-f4f755138a23/resource/41c468fe-51cd-4eea-96fc-cf7acd26dc9e/download/COURRIERS2009.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "41c468fe-51cd-4eea-96fc-cf7acd26dc9e",
+      "last_modified": "2015-05-07T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/41c468fe-51cd-4eea-96fc-cf7acd26dc9e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:40.002000",
+      "title": "Nombre de courriers arriv\u00e9s en 2009",
+      "url": "http://data.caf.fr/dataset/a951a004-64b6-4cd5-9c47-f4f755138a23/resource/41c468fe-51cd-4eea-96fc-cf7acd26dc9e/download/COURRIERS2009.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:44:06.289000",
+      "description": "Nombre de courriers arriv\u00e9s en 2016",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2c3a4c28-e587-460d-a531-d041bb78b7d3",
+      "last_modified": "2017-11-27T05:08:45.357000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2c3a4c28-e587-460d-a531-d041bb78b7d3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T19:44:06.289000",
+      "title": "Nombre de courriers arriv\u00e9s en 2016",
+      "url": "http://data.caf.fr/dataset/a951a004-64b6-4cd5-9c47-f4f755138a23/resource/2c3a4c28-e587-460d-a531-d041bb78b7d3/download/COURRIERS2016.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:44:06.289000",
+      "description": "Nombre de courriers arriv\u00e9s en 2015",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e87e4262-611c-4b11-b280-113bca15eddb",
+      "last_modified": "2016-11-18T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e87e4262-611c-4b11-b280-113bca15eddb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T19:44:06.289000",
+      "title": "Nombre de courriers arriv\u00e9s en 2015",
+      "url": "http://data.caf.fr/dataset/a951a004-64b6-4cd5-9c47-f4f755138a23/resource/e87e4262-611c-4b11-b280-113bca15eddb/download/COURRIERS2015.csv"
+    }
+  ],
+  "slug": "nombre-de-courriers-arrives",
+  "spatial": null,
+  "tags": [
+    "arrives",
+    "courriers",
+    "dossiers",
+    "pieces"
+  ],
+  "temporal_coverage": null,
+  "title": "Nombre de courriers arriv\u00e9s",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/nombre-de-courriers-arrives/"
+}

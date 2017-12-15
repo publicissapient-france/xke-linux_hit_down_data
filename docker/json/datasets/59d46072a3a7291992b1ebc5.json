@@ -1,0 +1,146 @@
+{
+  "badges": [],
+  "created_at": "2017-10-03T00:00:00",
+  "deleted": null,
+  "description": "En Aquitaine, AIRAQ est en charge de la surveillance de la qualit\u00e9 de l\u2019air. Le dispositif mis en place permet ainsi de connaitre en permanence les concentrations relev\u00e9es dans l\u2019air ambiant.\n\nAIRAQ a souhait\u00e9 s\u2019initier dans la d\u00e9marche \u00ab inventaire \u00bb car cet outil s\u2019av\u00e8re \u00eatre pr\u00e9cieux dans le cadre des missions des AASQA. En effet, poss\u00e9der un inventaire des \u00e9missions permet de r\u00e9pondre plus pr\u00e9cis\u00e9ment \u00e0 la mission de surveillance de la pollution atmosph\u00e9rique. Cette donn\u00e9e est n\u00e9cessaire pour une meilleure mod\u00e9lisation de la qualit\u00e9 de l\u2019air \u00e0 l\u2019\u00e9chelle r\u00e9gionale.",
+  "extras": {
+    "ckan:name": "surveillance-de-la-qualite-de-lair-station-periurbaines-de-fond-leognan",
+    "contact_email": "mailto:contact@airaq-asso.fr",
+    "contact_name": "Service de publication",
+    "contact_uri": "https://datacat.datalocale.fr/415000",
+    "guid": "https://datacat.datalocale.fr/415776",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-11-27T05:24:44.435598",
+    "harvest:remote_id": "3b17581a-9378-41eb-916c-c81b4e6d7bcd",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "927ee3dd-3a08-44f0-beb2-5c34cb4e08ba",
+    "issued": "2013-03-12T16:30:10+00:00",
+    "modified": "2016-07-18T09:21:06.223207+00:00",
+    "remote_url": "http://www.airaq.asso.fr/opendata/387-a-propos.html",
+    "theme": "[\"pollution atmosph\u00e9rique\"]",
+    "uri": "https://datacat.datalocale.fr/415776"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59d46072a3a7291992b1ebc5",
+  "last_modified": "2017-11-27T05:24:44.439000",
+  "last_update": "2017-10-14T06:08:21.791000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/surveillance-de-la-qualite-de-lair-station-periurbaines-de-fond-leognan-3/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-10-04T06:15:46.815000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T00:10:17.099000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415778/raw/leognan-airaq-2012_allPoluants.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a38f2a19-8db8-4154-bdf9-b11d72632e4e",
+      "last_modified": "2017-10-04T06:15:46.815000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a38f2a19-8db8-4154-bdf9-b11d72632e4e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-04T06:15:46.815000",
+      "title": "export en csv encod\u00e9 en UTF-8 des mesures de qualit\u00e9 de l'air effectu\u00e9es dans la station p\u00e9ri-urbaine de fond d'Amb\u00e8s pour la p\u00e9riode de l'ann\u00e9e 2012. Le polluant m\u00e9sur\u00e9 est l'ozone (O3) ",
+      "url": "https://datacat.datalocale.fr/file/415778/raw/leognan-airaq-2012_allPoluants.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-05T06:18:29.551000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T19:51:38.276000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415778/raw/leognan-airaq-2012_allPoluants.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "7f3f4cbb-8e9c-4e0c-8a10-2a487afb61f4",
+      "last_modified": "2017-10-05T06:18:29.551000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7f3f4cbb-8e9c-4e0c-8a10-2a487afb61f4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-05T06:18:29.551000",
+      "title": "export en csv encod\u00e9 en UTF-8 des mesures de qualit\u00e9 de l'air effectu\u00e9es dans la station p\u00e9ri-urbaine de fond d'Amb\u00e8s pour la p\u00e9riode de l'ann\u00e9e 2012. Le polluant m\u00e9sur\u00e9 est l'ozone (O3) ",
+      "url": "https://datacat.datalocale.fr/file/415778/raw/leognan-airaq-2012_allPoluants.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:08:21.791000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T05:28:26.004000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415778/raw/leognan-airaq-2012_allPoluants.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "7e91d0ea-f128-45b0-9cbd-0c65780ba7a1",
+      "last_modified": "2017-11-27T05:24:44.434000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7e91d0ea-f128-45b0-9cbd-0c65780ba7a1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-14T06:08:21.791000",
+      "title": "export en csv encod\u00e9 en UTF-8 des mesures de qualit\u00e9 de l'air effectu\u00e9es dans la station p\u00e9ri-urbaine de fond d'Amb\u00e8s pour la p\u00e9riode de l'ann\u00e9e 2012. Le polluant m\u00e9sur\u00e9 est l'ozone (O3) ",
+      "url": "https://datacat.datalocale.fr/distribution/415777/raw/leognan-airaq-2012_allPoluants.csv"
+    }
+  ],
+  "slug": "surveillance-de-la-qualite-de-lair-station-periurbaines-de-fond-leognan-3",
+  "spatial": null,
+  "tags": [
+    "air",
+    "environnement",
+    "pollution"
+  ],
+  "temporal_coverage": null,
+  "title": "Surveillance de la qualit\u00e9 de l\u2019air Station p\u00e9riurbaines de fond L\u00e9ognan",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/surveillance-de-la-qualite-de-lair-station-periurbaines-de-fond-leognan-3/"
+}

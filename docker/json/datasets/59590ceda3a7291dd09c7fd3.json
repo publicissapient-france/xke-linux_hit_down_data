@@ -1,0 +1,145 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T17:10:37.764000",
+  "deleted": null,
+  "description": "Le festival num\u00e9rique des biblioth\u00e8ques de Paris revient du 15 au 30 octobre 2016.\n\nNumok, le festival num\u00e9rique des biblioth\u00e8ques de Paris, proposera \u00e0 tous, petits ou grands, novices ou hyperconnect\u00e9s, de venir bidouiller, s\u2019amuser et se laisser surprendre ! Au programme de cette deuxi\u00e8me \u00e9dition : les biens communs, l\u2019art num\u00e9rique, la cr\u00e9ation vid\u00e9o, le code, l\u2019impression 3D, la musique assist\u00e9e par ordinateur, et bien d\u2019autres choses encore !\n\nPour tout savoir sur le festival Numok : <https://bibliotheques.paris.fr/Numok>",
+  "extras": {
+    "harvest:domain": "opendata.paris.fr",
+    "harvest:last_update": "2017-11-27T05:09:58.938983",
+    "harvest:remote_id": "programmation-numok",
+    "harvest:source_id": "5631ef2988ee3837ce531585",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.paris.fr/explore/dataset/programmation-numok/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59590ceda3a7291dd09c7fd3",
+  "last_modified": "2017-11-27T05:09:59.108000",
+  "last_update": "2017-11-27T05:09:58.938000",
+  "license": "odc-odbl",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff89a3a7292c64a77eb7",
+    "logo": "https://www.data.gouv.fr/s/avatars/b2/0e83ec3699415a87640e97c51cb006-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b2/0e83ec3699415a87640e97c51cb006-100.png",
+    "name": "Mairie de Paris",
+    "page": "https://www.data.gouv.fr/fr/organizations/mairie-de-paris/",
+    "slug": "mairie-de-paris",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/mairie-de-paris/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/programmation-du-festival-numok/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:09:58.937000",
+      "description": "- *Biblioth\u00e8que*: bibliotheque[text]\n- *Section*: section[text]\n- *Heure d\u00e9but (hh:mm)*: heure_debut_hh_mm[datetime]\n- *Heure fin (hh:mm)*: heure_fin_hh_mm[datetime]\n- *Niveau d'\u00e2ge*: niveau_d_age[text]\n- *Handicap*: handicap[text]\n- *Date\n (jj/mm/aaaa)\n(date indicative)*: date_jj_mm_aaaa_date_indicative[date]\n- *Titre de l'action*: titre_de_l_action[text]\n- *N\u00b0 fiche Que Faire \u00e0 Paris*: ndeg_fiche_que_faire_a_paris[int]\n- *Adresse URL de l'image de la fiche*: adresse_url_de_l_image_de_la_fiche[text]\n- *N\u00b0 fiche\n(en d\u00e9but du nom du fichier informatique)*: ndeg_fiche_en_debut_du_nom_du_fichier_informatique[text]\n- *Th\u00e9matique 1*: thematique_1[text]\n- *Th\u00e9matique 2*: thematique_2[text]\n- *Action*: action[text]\n- *Nature de l'activit\u00e9*: nature_de_l_activite[text]\n- *Partenariat*: partenariat[text]\n- *Festival partenaire*: festival_partenaire[text]\n- *Commentaire\n(biblioth\u00e8que) \n\u00e0 mettre \u00e0 jour si  besoin*: commentaire_bibliotheque_a_mettre_a_jour_si_besoin[text]\n- *Adresses des biblioth\u00e8ques*: adresses_des_bibliotheques[text]\n- *CP*: cp[double]\n- *X,Y*: xy[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "0e33489a-6792-420d-b71c-f0ece0da8088",
+      "last_modified": "2016-10-04T15:50:12",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0e33489a-6792-420d-b71c-f0ece0da8088",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:09:58.937000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.paris.fr/explore/dataset/programmation-numok/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:09:58.937000",
+      "description": "- *Biblioth\u00e8que*: bibliotheque[text]\n- *Section*: section[text]\n- *Heure d\u00e9but (hh:mm)*: heure_debut_hh_mm[datetime]\n- *Heure fin (hh:mm)*: heure_fin_hh_mm[datetime]\n- *Niveau d'\u00e2ge*: niveau_d_age[text]\n- *Handicap*: handicap[text]\n- *Date\n (jj/mm/aaaa)\n(date indicative)*: date_jj_mm_aaaa_date_indicative[date]\n- *Titre de l'action*: titre_de_l_action[text]\n- *N\u00b0 fiche Que Faire \u00e0 Paris*: ndeg_fiche_que_faire_a_paris[int]\n- *Adresse URL de l'image de la fiche*: adresse_url_de_l_image_de_la_fiche[text]\n- *N\u00b0 fiche\n(en d\u00e9but du nom du fichier informatique)*: ndeg_fiche_en_debut_du_nom_du_fichier_informatique[text]\n- *Th\u00e9matique 1*: thematique_1[text]\n- *Th\u00e9matique 2*: thematique_2[text]\n- *Action*: action[text]\n- *Nature de l'activit\u00e9*: nature_de_l_activite[text]\n- *Partenariat*: partenariat[text]\n- *Festival partenaire*: festival_partenaire[text]\n- *Commentaire\n(biblioth\u00e8que) \n\u00e0 mettre \u00e0 jour si  besoin*: commentaire_bibliotheque_a_mettre_a_jour_si_besoin[text]\n- *Adresses des biblioth\u00e8ques*: adresses_des_bibliotheques[text]\n- *CP*: cp[double]\n- *X,Y*: xy[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "9eedf361-af0a-4dae-8b84-7615807b8ef9",
+      "last_modified": "2016-10-04T15:50:12",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9eedf361-af0a-4dae-8b84-7615807b8ef9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:09:58.937000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.paris.fr/explore/dataset/programmation-numok/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:09:58.938000",
+      "description": "- *Biblioth\u00e8que*: bibliotheque[text]\n- *Section*: section[text]\n- *Heure d\u00e9but (hh:mm)*: heure_debut_hh_mm[datetime]\n- *Heure fin (hh:mm)*: heure_fin_hh_mm[datetime]\n- *Niveau d'\u00e2ge*: niveau_d_age[text]\n- *Handicap*: handicap[text]\n- *Date\n (jj/mm/aaaa)\n(date indicative)*: date_jj_mm_aaaa_date_indicative[date]\n- *Titre de l'action*: titre_de_l_action[text]\n- *N\u00b0 fiche Que Faire \u00e0 Paris*: ndeg_fiche_que_faire_a_paris[int]\n- *Adresse URL de l'image de la fiche*: adresse_url_de_l_image_de_la_fiche[text]\n- *N\u00b0 fiche\n(en d\u00e9but du nom du fichier informatique)*: ndeg_fiche_en_debut_du_nom_du_fichier_informatique[text]\n- *Th\u00e9matique 1*: thematique_1[text]\n- *Th\u00e9matique 2*: thematique_2[text]\n- *Action*: action[text]\n- *Nature de l'activit\u00e9*: nature_de_l_activite[text]\n- *Partenariat*: partenariat[text]\n- *Festival partenaire*: festival_partenaire[text]\n- *Commentaire\n(biblioth\u00e8que) \n\u00e0 mettre \u00e0 jour si  besoin*: commentaire_bibliotheque_a_mettre_a_jour_si_besoin[text]\n- *Adresses des biblioth\u00e8ques*: adresses_des_bibliotheques[text]\n- *CP*: cp[double]\n- *X,Y*: xy[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "cebf1b24-a045-47ea-9b1e-a3bfb7cba0f3",
+      "last_modified": "2016-10-04T15:50:12",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cebf1b24-a045-47ea-9b1e-a3bfb7cba0f3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:09:58.938000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.paris.fr/explore/dataset/programmation-numok/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:09:58.938000",
+      "description": "- *Biblioth\u00e8que*: bibliotheque[text]\n- *Section*: section[text]\n- *Heure d\u00e9but (hh:mm)*: heure_debut_hh_mm[datetime]\n- *Heure fin (hh:mm)*: heure_fin_hh_mm[datetime]\n- *Niveau d'\u00e2ge*: niveau_d_age[text]\n- *Handicap*: handicap[text]\n- *Date\n (jj/mm/aaaa)\n(date indicative)*: date_jj_mm_aaaa_date_indicative[date]\n- *Titre de l'action*: titre_de_l_action[text]\n- *N\u00b0 fiche Que Faire \u00e0 Paris*: ndeg_fiche_que_faire_a_paris[int]\n- *Adresse URL de l'image de la fiche*: adresse_url_de_l_image_de_la_fiche[text]\n- *N\u00b0 fiche\n(en d\u00e9but du nom du fichier informatique)*: ndeg_fiche_en_debut_du_nom_du_fichier_informatique[text]\n- *Th\u00e9matique 1*: thematique_1[text]\n- *Th\u00e9matique 2*: thematique_2[text]\n- *Action*: action[text]\n- *Nature de l'activit\u00e9*: nature_de_l_activite[text]\n- *Partenariat*: partenariat[text]\n- *Festival partenaire*: festival_partenaire[text]\n- *Commentaire\n(biblioth\u00e8que) \n\u00e0 mettre \u00e0 jour si  besoin*: commentaire_bibliotheque_a_mettre_a_jour_si_besoin[text]\n- *Adresses des biblioth\u00e8ques*: adresses_des_bibliotheques[text]\n- *CP*: cp[double]\n- *X,Y*: xy[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "2968cc18-0991-403d-a5aa-620e3f23683d",
+      "last_modified": "2016-10-04T15:50:12",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2968cc18-0991-403d-a5aa-620e3f23683d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:09:58.938000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.paris.fr/explore/dataset/programmation-numok/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "programmation-du-festival-numok",
+  "spatial": null,
+  "tags": [
+    "bibliotheque",
+    "culture",
+    "festival",
+    "numerique"
+  ],
+  "temporal_coverage": null,
+  "title": "Programmation du festival Numok",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/programmation-du-festival-numok/"
+}

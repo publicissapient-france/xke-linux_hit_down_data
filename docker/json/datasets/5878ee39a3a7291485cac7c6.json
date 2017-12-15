@@ -1,0 +1,141 @@
+{
+  "badges": [],
+  "created_at": "2013-02-22T00:00:00",
+  "deleted": null,
+  "description": "Depuis avril 2011, les membres du gouvernement fran\u00e7ais doivent rendre publiques leurs d\u00e9clarations d'int\u00e9r\u00eats sur le site gouvernement.fr\n\nUn rassemblement et une extration des documents pdf ont \u00e9t\u00e9 r\u00e9alis\u00e9s afin de rendre cette information plus facilement interpr\u00e9table.\n\nUn .csv donn\u00e9es a \u00e9t\u00e9 fait pour le gouvernement Fillon, un autre pour le gouvernement Ayrault",
+  "extras": {
+    "ckan:name": "dclarations-dintrets-des-membres-du-gouvernement-francais",
+    "harvest:domain": "www.nosdonnees.fr",
+    "harvest:last_update": "2017-07-10T06:04:58.699143",
+    "harvest:remote_id": "fa8f1733-334a-4091-83c9-b9dd26f0738b",
+    "harvest:source_id": "5878ee1588ee385bffa6f719",
+    "remote_url": "http://www.nosdonnees.fr/wiki/index.php/D\u00e9clarations_Int\u00e9rets_des_Ministres"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5878ee39a3a7291485cac7c6",
+  "last_modified": "2017-07-10T06:04:58.700000",
+  "last_update": "2017-01-13T16:11:53.419000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff99a3a7292c64a78016",
+    "logo": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-100.png",
+    "name": "NosDonn\u00e9es.fr",
+    "page": "https://www.data.gouv.fr/fr/organizations/nosdonnees-fr/",
+    "slug": "nosdonnees-fr",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nosdonnees-fr/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/dclarations-dintrets-des-membres-du-gouvernement-francais/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:11:53.418000",
+      "description": "Gouvernement Ayrault 2 09/12",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T12:51:58.277000",
+        "check:status": 200,
+        "check:url": "http://www.nosdonnees.fr/wiki/images/9/97/20120903_RegardsCitoyens_declaration_dinterets.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "eb7ec7a5-e07a-4c16-9706-2fccd5913d41",
+      "last_modified": "2017-07-10T06:04:58.698000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/eb7ec7a5-e07a-4c16-9706-2fccd5913d41",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:11:53.419000",
+      "title": "",
+      "url": "http://www.nosdonnees.fr/wiki/images/9/97/20120903_RegardsCitoyens_declaration_dinterets.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:11:53.419000",
+      "description": "Gouvernement Ayrault 1 06/12",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T12:51:56.144000",
+        "check:status": 200,
+        "check:url": "http://www.nosdonnees.fr/wiki/images/3/35/20120613_RegardsCitoyens_declaration_dinterets.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "4da8bc6a-641d-438c-a018-de62ecca58e1",
+      "last_modified": "2017-07-10T06:04:58.698000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4da8bc6a-641d-438c-a018-de62ecca58e1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:11:53.419000",
+      "title": "",
+      "url": "http://www.nosdonnees.fr/wiki/images/3/35/20120613_RegardsCitoyens_declaration_dinterets.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:11:53.419000",
+      "description": "Gouvernement Fillon 3 04/11",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T12:51:56.900000",
+        "check:status": 200,
+        "check:url": "http://www.nosdonnees.fr/wiki/images/0/04/20110421_RegardsCitoyens_declaration_dinterets.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f20622c5-b9f0-4284-89d3-4295a540c07f",
+      "last_modified": "2017-07-10T06:04:58.698000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f20622c5-b9f0-4284-89d3-4295a540c07f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:11:53.419000",
+      "title": "",
+      "url": "http://www.nosdonnees.fr/wiki/images/0/04/20110421_RegardsCitoyens_declaration_dinterets.csv"
+    }
+  ],
+  "slug": "dclarations-dintrets-des-membres-du-gouvernement-francais",
+  "spatial": null,
+  "tags": [
+    "declaration",
+    "france",
+    "gouvernement",
+    "influence",
+    "interet",
+    "ministre"
+  ],
+  "temporal_coverage": null,
+  "title": "D\u00e9clarations d'int\u00e9r\u00eats des membres du gouvernement fran\u00e7ais",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/dclarations-dintrets-des-membres-du-gouvernement-francais/"
+}

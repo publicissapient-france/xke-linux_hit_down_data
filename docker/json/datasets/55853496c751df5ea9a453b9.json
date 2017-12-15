@@ -1,0 +1,81 @@
+{
+  "badges": [],
+  "created_at": "2015-06-20T11:38:30.388000",
+  "deleted": null,
+  "description": "Ces donn\u00e9es ont \u00e9t\u00e9 extraites des fichiers PDF du site de la [ville de Besan\u00e7on](http://www.besancon.fr/) lors du [Hackathon Sequanux](http://wiki.sequanux.org/index.php/Hackathon_Open_Data) du 7 d\u00e9cembre 2013.",
+  "extras": {},
+  "frequency": "punctual",
+  "frequency_date": null,
+  "id": "55853496c751df5ea9a453b9",
+  "last_modified": "2015-06-22T15:33:40.969000",
+  "last_update": "2015-06-20T11:39:41.824000",
+  "license": "odc-odbl",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 1,
+    "views": 1
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "542d50ed88ee38615b8561ac",
+    "logo": "https://www.data.gouv.fr/s/avatars/4d/b1897d7fd240a19ec02119e5f52ee0-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/4d/b1897d7fd240a19ec02119e5f52ee0-100.png",
+    "name": "Open Data Bourgogne",
+    "page": "https://www.data.gouv.fr/fr/organizations/open-data-bourgogne/",
+    "slug": "open-data-bourgogne",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/open-data-bourgogne/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/subvention-besancon-2008-2012/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "0f765627fb18cb67b71af949cc6aa8487fe4e346"
+      },
+      "created_at": "2015-06-20T11:39:41.824000",
+      "description": "",
+      "extras": {},
+      "filesize": 307359,
+      "filetype": "file",
+      "format": "csv",
+      "id": "fba09771-e937-4ce6-977b-68b2ce622107",
+      "last_modified": "2015-06-20T11:39:41.824000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fba09771-e937-4ce6-977b-68b2ce622107",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": "text/csv",
+      "published": "2015-06-20T11:39:41.824000",
+      "title": "Subventions Besan\u00e7on 2008-2012",
+      "url": "https://www.data.gouv.fr/s/resources/subvention-besancon-2008-2012/20150620-113930/Subventions_Besancon_2008-2012.csv"
+    }
+  ],
+  "slug": "subvention-besancon-2008-2012",
+  "spatial": {
+    "geom": null,
+    "granularity": "other",
+    "zones": [
+      "fr:commune:25056@1942-01-01"
+    ]
+  },
+  "tags": [
+    "subventions"
+  ],
+  "temporal_coverage": {
+    "end": "2012-12-31",
+    "start": "2008-01-01"
+  },
+  "title": "Subvention Besan\u00e7on 2008-2012",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/subvention-besancon-2008-2012/"
+}

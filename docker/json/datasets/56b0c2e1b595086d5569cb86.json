@@ -1,0 +1,102 @@
+{
+  "badges": [],
+  "created_at": "2016-02-02T15:53:21.018000",
+  "deleted": null,
+  "description": "Liste des laur\u00e9ats des D\u00e9fi Num\u00e9rique avant 2015 et plus generalement toute r\u00e9utilisations que l'on mettra en avant dans la page \"R\u00e9utilisations\" du site\u00a0https://data.toulouse-metropole.fr",
+  "extras": {
+    "harvest:domain": "data.toulouse-metropole.fr",
+    "harvest:last_update": "2017-11-27T05:18:13.949977",
+    "harvest:remote_id": "reutilisations-datatoulouse-metropole",
+    "harvest:source_id": "564c3680c751df607daad370",
+    "ods:has_records": true,
+    "ods:url": "https://data.toulouse-metropole.fr//explore/dataset/reutilisations-datatoulouse-metropole/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "56b0c2e1b595086d5569cb86",
+  "last_modified": "2017-11-27T05:18:13.953000",
+  "last_update": "2017-11-27T05:18:13.949000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb3a3a7292c64a78129",
+    "logo": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-100.jpg",
+    "name": "Toulouse m\u00e9trople",
+    "page": "https://www.data.gouv.fr/fr/organizations/toulouse-metrople/",
+    "slug": "toulouse-metrople",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/toulouse-metrople/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/reutilisations-data-toulouse-metropole/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:18:13.948000",
+      "description": "- *nom*: nom[text]\n- *concours*: concours[text]\n- *logo*: logo[text]\n- *image*: image[file]\n- *description*: description[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "12544699-36d8-4c9b-b40c-c354f5cac5b2",
+      "last_modified": "2015-05-11T13:28:38",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/12544699-36d8-4c9b-b40c-c354f5cac5b2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:18:13.948000",
+      "title": "Export au format CSV",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/reutilisations-datatoulouse-metropole/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:18:13.948000",
+      "description": "- *nom*: nom[text]\n- *concours*: concours[text]\n- *logo*: logo[text]\n- *image*: image[file]\n- *description*: description[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "74f922a2-3726-4182-9ab7-64e8800f8967",
+      "last_modified": "2015-05-11T13:28:38",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/74f922a2-3726-4182-9ab7-64e8800f8967",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:18:13.949000",
+      "title": "Export au format JSON",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/reutilisations-datatoulouse-metropole/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "reutilisations-data-toulouse-metropole",
+  "spatial": null,
+  "tags": [
+    "laureats",
+    "open-data",
+    "reutilisations",
+    "services"
+  ],
+  "temporal_coverage": null,
+  "title": "R\u00e9utilisations Data.Toulouse-Metropole",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/reutilisations-data-toulouse-metropole/"
+}

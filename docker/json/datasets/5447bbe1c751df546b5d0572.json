@@ -1,0 +1,129 @@
+{
+  "badges": [],
+  "created_at": "2014-10-22T16:14:57.415000",
+  "deleted": null,
+  "description": "Les projets collaboratifs de R&D sont, depuis quasiment 10 ans, au c\u0153ur des missions des p\u00f4les de comp\u00e9titivit\u00e9. Et aujourd\u2019hui encore plus, alors que nous entamons le virage de la pahse 3.0 des p\u00f4les, avec une volont\u00e9 qui anime tout l\u2019\u00e9cosyst\u00e8me de l\u2019innovation : transformer la R&D en produit et r\u00e9ussir leur mise sur le march\u00e9. Pour la premi\u00e8re fois depuis sa cr\u00e9ation, Images & R\u00e9seaux se concentre sur les projets collaboratifs innovants labellis\u00e9s et termin\u00e9s au 31 d\u00e9cembre 2013 et sort son premier livre des retomb\u00e9es. C\u00f4t\u00e9 chiffres on parle de 556 projets collaboratifs innovants labellis\u00e9s depuis sa cr\u00e9ation et 260 projets financ\u00e9s 688 M\u20ac investis en R&D depuis 2006 \r\n\r\nLe jeu de donn\u00e9es vous propose une vision sur les projets de R&D labellis\u00e9s et financ\u00e9s depuis la cr\u00e9ation du p\u00f4le avec leurs appels \u00e0 projets, les th\u00e9matiques concern\u00e9s, ... ",
+  "extras": {},
+  "frequency": "weekly",
+  "frequency_date": null,
+  "id": "5447bbe1c751df546b5d0572",
+  "last_modified": "2015-10-03T23:39:12.625000",
+  "last_update": "2014-10-22T16:18:37.022000",
+  "license": "fr-lo",
+  "metrics": {
+    "cow_criticals": 0,
+    "cow_errors": 0,
+    "cow_score": 0,
+    "cow_warnings": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 1,
+    "views": 5
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "54295f3488ee380327a59162",
+    "logo": "https://www.data.gouv.fr/s/avatars/17/f3a9357fae402eab0a5e26204ec7ee-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/17/f3a9357fae402eab0a5e26204ec7ee-100.jpg",
+    "name": "Images & R\u00e9seaux",
+    "page": "https://www.data.gouv.fr/fr/organizations/images-reseaux-1/",
+    "slug": "images-reseaux-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/images-reseaux-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/projets-de-r-d-labellises-par-images-reseaux/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2014-10-22T16:16:20.818000",
+      "description": "Le jeu de donn\u00e9es propose une vision sur les projets labellis\u00e9s par le p\u00f4le et financ\u00e9s depuis la cr\u00e9ation du p\u00f4le en 2005. ",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "excel",
+      "id": "5fba53b5-64ed-4050-93f9-65bd4efbb659",
+      "last_modified": "2014-10-22T16:16:20.818000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5fba53b5-64ed-4050-93f9-65bd4efbb659",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2014-10-22T16:16:20.818000",
+      "title": "Les projets de R&D collaborative labellis\u00e9s par le p\u00f4le",
+      "url": "%20http://visir.images-et-reseaux.com/api/datagouv/projectsExcel"
+    },
+    {
+      "checksum": null,
+      "created_at": "2014-10-22T16:17:30.184000",
+      "description": "Jeu de donn\u00e9es des projets de R&D labellis\u00e9s par Images & R\u00e9seaux et financ\u00e9s. ",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b1de934c-50ce-4421-9c4e-901105cc74f8",
+      "last_modified": "2014-10-22T16:17:30.184000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b1de934c-50ce-4421-9c4e-901105cc74f8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 12
+      },
+      "mime": null,
+      "published": "2014-10-22T16:17:30.184000",
+      "title": "Les projets de R&D collaborative labellis\u00e9s par le p\u00f4le",
+      "url": "http://visir.images-et-reseaux.com/api/datagouv/projects"
+    },
+    {
+      "checksum": null,
+      "created_at": "2014-10-22T16:18:37.022000",
+      "description": "Les projets labellis\u00e9s par Images & R\u00e9seaux et financ\u00e9s depuis la cr\u00e9ation du p\u00f4le",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "f897afe5-e51b-4035-81e5-d6203b3a92ed",
+      "last_modified": "2014-10-22T16:18:37.022000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f897afe5-e51b-4035-81e5-d6203b3a92ed",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 6
+      },
+      "mime": null,
+      "published": "2014-10-22T16:18:37.022000",
+      "title": "Les projets de R&D collaborative labellis\u00e9s par le p\u00f4le",
+      "url": "http://visir.images-et-reseaux.com/api/datagouv/projects.xml"
+    }
+  ],
+  "slug": "projets-de-r-d-labellises-par-images-reseaux",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:region",
+    "zones": []
+  },
+  "tags": [
+    "collaboratif",
+    "innovation",
+    "numerique",
+    "pole-de-competitivite",
+    "projets",
+    "recherche-et-developpement"
+  ],
+  "temporal_coverage": {
+    "end": "2014-10-22",
+    "start": "2005-01-01"
+  },
+  "title": "Projets de R&D labellis\u00e9s par Images & R\u00e9seaux",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/projets-de-r-d-labellises-par-images-reseaux/"
+}

@@ -1,0 +1,145 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T17:10:39.798000",
+  "deleted": null,
+  "description": "Donn\u00e9es du patrimoine de la Signalisation Lumineuse Tricolore de la Ville de Paris\n\n\\- Signalisation Lumineuse Tricolore\n\n\\- Signalisation Compl\u00e9mentaire\n\nDonn\u00e9es extraites de la base de l'outil de GMAO au format SHAPE SIG, novembre 2016\n\nSyst\u00e8me de coordonn\u00e9es de ce jeu de donn\u00e9es : RGF93 Lambert 93, WKID 2154\n\nSyst\u00e8me de coordonn\u00e9es d'origine: NTF Lambert Nord France, WKID 27561\n\n**Nom du champ** | **Type de donn\u00e9es** | **Alias**  \n---|---|---  \nCOD_OUVRAG | VARCHAR(254) | Identifiant de l'ouvrage  \nFOYER | VARCHAR(254) | Identifiant unique de la lampe  \nLIB_DOMAIN | VARCHAR(254) | Libell\u00e9 du domaine d'ouvrage  \nLIB_OUVRAG | VARCHAR(254) | Cat\u00e9gorie de l'ouvrage   \nOBSERVATIO | VARCHAR(254) | Observation  \nPOSX_OUVRA | DOUBLE  | Coordonn\u00e9es cartographiques X de l'ouvrage  \nPOSY_OUVRA | DOUBLE  | Coordonn\u00e9es cartographiques Y de l'ouvrage  \nLIB_REGIME | VARCHAR(254) | Libell\u00e9 du r\u00e9gime  \nVOIEVENT_V | VARCHAR(254) | Identifiant de la voie enti\u00e8re  \nFACEOP_OUV | VARCHAR(254) | Adresse : Face / Oppos\u00e9  \nNUMVOIE_OU | VARCHAR(254) | Adresse : Num dans la voie  \nBISTER_OUV | VARCHAR(254) | Adresse : Bis/Ter  \nNATURE_VOI | VARCHAR(254) | Nature de la voie  \nLIB_VOIE | VARCHAR(254) | Nom de la voie  \nLIB_VOIEDO | VARCHAR(254) | Libell\u00e9 du domaine de voie  \nLIB_SECTEU | VARCHAR(254) | Libell\u00e9 du secteur  \nLIB_REGION | VARCHAR(254) | Libell\u00e9 de la r\u00e9gion technique  \nLIB_REGI_1 | VARCHAR(254) | Libell\u00e9 de l'arrondissement  \nCOD_SUPPOR | VARCHAR(254) | Identifiant du support  \nLIB_SUPPOR | VARCHAR(254) | Libell\u00e9 du support  \nHAUTEUR_SU | DOUBLE  | Hauteur du support (en m\u00e8tre)  \nDUREEVIE_S | DOUBLE  | Dur\u00e9e de vie du support  \nUNITEVIE_S | VARCHAR(254) | Unit\u00e9 de la dur\u00e9e de vie   \nMATERIAU_S | VARCHAR(254) | Mat\u00e9riau du support  \nTYPE_SUPPO | VARCHAR(254) | Type du support  \nLIB_SUPP_1 | VARCHAR(254) | Libell\u00e9 du support  \nLIB_FOURNI | VARCHAR(254) | Identifiant du fournisseur du support  \nCOD_LUMINA | VARCHAR(254) | Identifiant du luminaire  \nLIB_LUMINA | VARCHAR(254) | Libell\u00e9 du luminaire  \nMODELE_LUM | VARCHAR(254) | Mod\u00e8le de luminaire  \nDUREEVIE_L | DOUBLE  | Dur\u00e9e de vie du luminaire  \nUNITEVIE_L | VARCHAR(254) | Unit\u00e9 de dur\u00e9e de vie du luminaire  \nMATERIAU_L | VARCHAR(254) | Mat\u00e9riau du luminaire  \nLIB_LUMI_1 | VARCHAR(254) | Libell\u00e9 de la famille de luminaire  \nLIB_FOUR_1 | VARCHAR(254) | Fournisseur du luminaire  \nCOD_LAMPE | VARCHAR(254) | Identifiant de la lampe  \nLIB_LAMPE | VARCHAR(254) | Libell\u00e9 de la lampe  \nPW_LAMPE | DOUBLE  | Puissance nominale de la lampe (W)  \nPWC_LAMPE | DOUBLE  | Puissance consomm\u00e9e de la lampe avec app ferro (W)  \nPWE_LAMPE | DOUBLE  | Puissance consomm\u00e9e de la lampe avec app. \u00c9lectronique(W)  \nLIB_LAMPEF | VARCHAR(254) | Libell\u00e9 de la famille",
+  "extras": {
+    "harvest:domain": "opendata.paris.fr",
+    "harvest:last_update": "2017-11-27T05:12:19.703601",
+    "harvest:remote_id": "signalisation-tricolore",
+    "harvest:source_id": "5631ef2988ee3837ce531585",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.paris.fr/explore/dataset/signalisation-tricolore/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59590cefa3a7291dcf9c7ffc",
+  "last_modified": "2017-11-27T05:12:19.707000",
+  "last_update": "2017-11-27T05:12:19.702000",
+  "license": "odc-odbl",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff89a3a7292c64a77eb7",
+    "logo": "https://www.data.gouv.fr/s/avatars/b2/0e83ec3699415a87640e97c51cb006-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b2/0e83ec3699415a87640e97c51cb006-100.png",
+    "name": "Mairie de Paris",
+    "page": "https://www.data.gouv.fr/fr/organizations/mairie-de-paris/",
+    "slug": "mairie-de-paris",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/mairie-de-paris/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/signalisation-lumineuse-tricolore/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:12:19.700000",
+      "description": "- *OBJECTID*: objectid[int]\n- *Identifiant de l'ouvrage*: cod_ouvrag[text] \n\n- *Identifiant unique de la lampe*: foyer[text]\n- *Libell\u00e9 du domaine d'ouvrage*: lib_domain[text]\n- *Cat\u00e9gorie de l'ouvrage*: lib_ouvrag[text]\n- *Observation*: observatio[text]\n- *Coordonn\u00e9es cartographiques X de l'ouvrage*: posx_ouvra[double]\n- *Coordonn\u00e9es cartographiques Y de l'ouvrage*: posy_ouvra[double]\n- *Libell\u00e9 du r\u00e9gime*: lib_regime[text]\n- *Identifiant de la voie enti\u00e8re*: voievent_v[text]\n- *Adresse : Face / Oppos\u00e9*: faceop_ouv[text]\n- *Adresse : Num dans la voie*: numvoie_ou[text]\n- *Adresse : Bis/Ter*: bister_ouv[text]\n- *Nature de la voie*: nature_voi[text]\n- *Nom de la voie*: lib_voie[text]\n- *Libell\u00e9 du domaine de voie*: lib_voiedo[text]\n- *Libell\u00e9 du secteur*: lib_secteu[text]\n- *Libell\u00e9 de la r\u00e9gion technique*: lib_region[text]\n- *Libell\u00e9 de l'arrondissement*: lib_regi_1[text]\n- *Identifiant du support*: cod_suppor[text]\n- *Libell\u00e9 du support*: lib_suppor[text]\n- *Hauteur du support (en m\u00e8tre)*: hauteur_su[double]\n- *Dur\u00e9e de vie du support*: dureevie_s[double]\n- *Unit\u00e9 de la dur\u00e9e de vie*: unitevie_s[text]\n- *Mat\u00e9riau du support*: materiau_s[text]\n- *Type du support*: type_suppo[text]\n- *Libell\u00e9 du support*: lib_supp_1[text]\n- *Identifiant du fournisseur du support*: lib_fourni[text]\n- *Identifiant du luminaire*: cod_lumina[text]\n- *Libell\u00e9 du luminaire*: lib_lumina[text]\n- *Mod\u00e8le de luminaire*: modele_lum[text]\n- *Dur\u00e9e de vie du luminaire*: dureevie_l[double]\n- *Unit\u00e9 de dur\u00e9e de vie du luminaire*: unitevie_l[text]\n- *Mat\u00e9riau du luminaire*: materiau_l[text]\n- *Libell\u00e9 de la famille de luminaire*: lib_lumi_1[text]\n- *Fournisseur du luminaire*: lib_four_1[text]\n- *Identifiant de la lampe*: cod_lampe[text]\n- *Libell\u00e9 de la lampe*: lib_lampe[text]\n- *Puissance nominale de la lampe (W)*: pw_lampe[double]\n- *Puissance consomm\u00e9e de la lampe avec app ferro (W)*: pwc_lampe[double]\n- *Puissance consomm\u00e9e de la lampe avec app. \u00e9lectronique (W)*: pwe_lampe[double]\n- *Libell\u00e9 de la famille*: lib_lampef[text]\n- *geo_shape*: geo_shape[geo_shape]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "5a6deb31-43c5-48c8-8890-c7d645193547",
+      "last_modified": "2017-02-17T16:18:55",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5a6deb31-43c5-48c8-8890-c7d645193547",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:12:19.700000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.paris.fr/explore/dataset/signalisation-tricolore/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:12:19.701000",
+      "description": "- *OBJECTID*: objectid[int]\n- *Identifiant de l'ouvrage*: cod_ouvrag[text] \n\n- *Identifiant unique de la lampe*: foyer[text]\n- *Libell\u00e9 du domaine d'ouvrage*: lib_domain[text]\n- *Cat\u00e9gorie de l'ouvrage*: lib_ouvrag[text]\n- *Observation*: observatio[text]\n- *Coordonn\u00e9es cartographiques X de l'ouvrage*: posx_ouvra[double]\n- *Coordonn\u00e9es cartographiques Y de l'ouvrage*: posy_ouvra[double]\n- *Libell\u00e9 du r\u00e9gime*: lib_regime[text]\n- *Identifiant de la voie enti\u00e8re*: voievent_v[text]\n- *Adresse : Face / Oppos\u00e9*: faceop_ouv[text]\n- *Adresse : Num dans la voie*: numvoie_ou[text]\n- *Adresse : Bis/Ter*: bister_ouv[text]\n- *Nature de la voie*: nature_voi[text]\n- *Nom de la voie*: lib_voie[text]\n- *Libell\u00e9 du domaine de voie*: lib_voiedo[text]\n- *Libell\u00e9 du secteur*: lib_secteu[text]\n- *Libell\u00e9 de la r\u00e9gion technique*: lib_region[text]\n- *Libell\u00e9 de l'arrondissement*: lib_regi_1[text]\n- *Identifiant du support*: cod_suppor[text]\n- *Libell\u00e9 du support*: lib_suppor[text]\n- *Hauteur du support (en m\u00e8tre)*: hauteur_su[double]\n- *Dur\u00e9e de vie du support*: dureevie_s[double]\n- *Unit\u00e9 de la dur\u00e9e de vie*: unitevie_s[text]\n- *Mat\u00e9riau du support*: materiau_s[text]\n- *Type du support*: type_suppo[text]\n- *Libell\u00e9 du support*: lib_supp_1[text]\n- *Identifiant du fournisseur du support*: lib_fourni[text]\n- *Identifiant du luminaire*: cod_lumina[text]\n- *Libell\u00e9 du luminaire*: lib_lumina[text]\n- *Mod\u00e8le de luminaire*: modele_lum[text]\n- *Dur\u00e9e de vie du luminaire*: dureevie_l[double]\n- *Unit\u00e9 de dur\u00e9e de vie du luminaire*: unitevie_l[text]\n- *Mat\u00e9riau du luminaire*: materiau_l[text]\n- *Libell\u00e9 de la famille de luminaire*: lib_lumi_1[text]\n- *Fournisseur du luminaire*: lib_four_1[text]\n- *Identifiant de la lampe*: cod_lampe[text]\n- *Libell\u00e9 de la lampe*: lib_lampe[text]\n- *Puissance nominale de la lampe (W)*: pw_lampe[double]\n- *Puissance consomm\u00e9e de la lampe avec app ferro (W)*: pwc_lampe[double]\n- *Puissance consomm\u00e9e de la lampe avec app. \u00e9lectronique (W)*: pwe_lampe[double]\n- *Libell\u00e9 de la famille*: lib_lampef[text]\n- *geo_shape*: geo_shape[geo_shape]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "5e792db2-755f-427b-a654-7348265d4412",
+      "last_modified": "2017-02-17T16:18:55",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5e792db2-755f-427b-a654-7348265d4412",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:12:19.701000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.paris.fr/explore/dataset/signalisation-tricolore/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:12:19.701000",
+      "description": "- *OBJECTID*: objectid[int]\n- *Identifiant de l'ouvrage*: cod_ouvrag[text] \n\n- *Identifiant unique de la lampe*: foyer[text]\n- *Libell\u00e9 du domaine d'ouvrage*: lib_domain[text]\n- *Cat\u00e9gorie de l'ouvrage*: lib_ouvrag[text]\n- *Observation*: observatio[text]\n- *Coordonn\u00e9es cartographiques X de l'ouvrage*: posx_ouvra[double]\n- *Coordonn\u00e9es cartographiques Y de l'ouvrage*: posy_ouvra[double]\n- *Libell\u00e9 du r\u00e9gime*: lib_regime[text]\n- *Identifiant de la voie enti\u00e8re*: voievent_v[text]\n- *Adresse : Face / Oppos\u00e9*: faceop_ouv[text]\n- *Adresse : Num dans la voie*: numvoie_ou[text]\n- *Adresse : Bis/Ter*: bister_ouv[text]\n- *Nature de la voie*: nature_voi[text]\n- *Nom de la voie*: lib_voie[text]\n- *Libell\u00e9 du domaine de voie*: lib_voiedo[text]\n- *Libell\u00e9 du secteur*: lib_secteu[text]\n- *Libell\u00e9 de la r\u00e9gion technique*: lib_region[text]\n- *Libell\u00e9 de l'arrondissement*: lib_regi_1[text]\n- *Identifiant du support*: cod_suppor[text]\n- *Libell\u00e9 du support*: lib_suppor[text]\n- *Hauteur du support (en m\u00e8tre)*: hauteur_su[double]\n- *Dur\u00e9e de vie du support*: dureevie_s[double]\n- *Unit\u00e9 de la dur\u00e9e de vie*: unitevie_s[text]\n- *Mat\u00e9riau du support*: materiau_s[text]\n- *Type du support*: type_suppo[text]\n- *Libell\u00e9 du support*: lib_supp_1[text]\n- *Identifiant du fournisseur du support*: lib_fourni[text]\n- *Identifiant du luminaire*: cod_lumina[text]\n- *Libell\u00e9 du luminaire*: lib_lumina[text]\n- *Mod\u00e8le de luminaire*: modele_lum[text]\n- *Dur\u00e9e de vie du luminaire*: dureevie_l[double]\n- *Unit\u00e9 de dur\u00e9e de vie du luminaire*: unitevie_l[text]\n- *Mat\u00e9riau du luminaire*: materiau_l[text]\n- *Libell\u00e9 de la famille de luminaire*: lib_lumi_1[text]\n- *Fournisseur du luminaire*: lib_four_1[text]\n- *Identifiant de la lampe*: cod_lampe[text]\n- *Libell\u00e9 de la lampe*: lib_lampe[text]\n- *Puissance nominale de la lampe (W)*: pw_lampe[double]\n- *Puissance consomm\u00e9e de la lampe avec app ferro (W)*: pwc_lampe[double]\n- *Puissance consomm\u00e9e de la lampe avec app. \u00e9lectronique (W)*: pwe_lampe[double]\n- *Libell\u00e9 de la famille*: lib_lampef[text]\n- *geo_shape*: geo_shape[geo_shape]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "f9056920-db56-46f5-bfa3-6282507e60b1",
+      "last_modified": "2017-02-17T16:18:55",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f9056920-db56-46f5-bfa3-6282507e60b1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:12:19.701000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.paris.fr/explore/dataset/signalisation-tricolore/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:12:19.702000",
+      "description": "- *OBJECTID*: objectid[int]\n- *Identifiant de l'ouvrage*: cod_ouvrag[text] \n\n- *Identifiant unique de la lampe*: foyer[text]\n- *Libell\u00e9 du domaine d'ouvrage*: lib_domain[text]\n- *Cat\u00e9gorie de l'ouvrage*: lib_ouvrag[text]\n- *Observation*: observatio[text]\n- *Coordonn\u00e9es cartographiques X de l'ouvrage*: posx_ouvra[double]\n- *Coordonn\u00e9es cartographiques Y de l'ouvrage*: posy_ouvra[double]\n- *Libell\u00e9 du r\u00e9gime*: lib_regime[text]\n- *Identifiant de la voie enti\u00e8re*: voievent_v[text]\n- *Adresse : Face / Oppos\u00e9*: faceop_ouv[text]\n- *Adresse : Num dans la voie*: numvoie_ou[text]\n- *Adresse : Bis/Ter*: bister_ouv[text]\n- *Nature de la voie*: nature_voi[text]\n- *Nom de la voie*: lib_voie[text]\n- *Libell\u00e9 du domaine de voie*: lib_voiedo[text]\n- *Libell\u00e9 du secteur*: lib_secteu[text]\n- *Libell\u00e9 de la r\u00e9gion technique*: lib_region[text]\n- *Libell\u00e9 de l'arrondissement*: lib_regi_1[text]\n- *Identifiant du support*: cod_suppor[text]\n- *Libell\u00e9 du support*: lib_suppor[text]\n- *Hauteur du support (en m\u00e8tre)*: hauteur_su[double]\n- *Dur\u00e9e de vie du support*: dureevie_s[double]\n- *Unit\u00e9 de la dur\u00e9e de vie*: unitevie_s[text]\n- *Mat\u00e9riau du support*: materiau_s[text]\n- *Type du support*: type_suppo[text]\n- *Libell\u00e9 du support*: lib_supp_1[text]\n- *Identifiant du fournisseur du support*: lib_fourni[text]\n- *Identifiant du luminaire*: cod_lumina[text]\n- *Libell\u00e9 du luminaire*: lib_lumina[text]\n- *Mod\u00e8le de luminaire*: modele_lum[text]\n- *Dur\u00e9e de vie du luminaire*: dureevie_l[double]\n- *Unit\u00e9 de dur\u00e9e de vie du luminaire*: unitevie_l[text]\n- *Mat\u00e9riau du luminaire*: materiau_l[text]\n- *Libell\u00e9 de la famille de luminaire*: lib_lumi_1[text]\n- *Fournisseur du luminaire*: lib_four_1[text]\n- *Identifiant de la lampe*: cod_lampe[text]\n- *Libell\u00e9 de la lampe*: lib_lampe[text]\n- *Puissance nominale de la lampe (W)*: pw_lampe[double]\n- *Puissance consomm\u00e9e de la lampe avec app ferro (W)*: pwc_lampe[double]\n- *Puissance consomm\u00e9e de la lampe avec app. \u00e9lectronique (W)*: pwe_lampe[double]\n- *Libell\u00e9 de la famille*: lib_lampef[text]\n- *geo_shape*: geo_shape[geo_shape]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "58ecb869-912f-41bb-83f8-20fcfa2e13c5",
+      "last_modified": "2017-02-17T16:18:55",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/58ecb869-912f-41bb-83f8-20fcfa2e13c5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:12:19.702000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.paris.fr/explore/dataset/signalisation-tricolore/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "signalisation-lumineuse-tricolore",
+  "spatial": null,
+  "tags": [
+    "circulation",
+    "feu",
+    "mobilite-et-espace-public",
+    "signalisation"
+  ],
+  "temporal_coverage": null,
+  "title": "Signalisation lumineuse tricolore",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/signalisation-lumineuse-tricolore/"
+}

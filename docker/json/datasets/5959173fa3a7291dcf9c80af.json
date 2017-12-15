@@ -1,0 +1,99 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T17:54:39.512000",
+  "deleted": null,
+  "description": "Budget 2012 par secteurs - Autorisations de programme (AP)",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T05:36:13.843581",
+    "harvest:remote_id": "budget_2012_par_secteurs_-_autorisations_de_programme_ap",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/budget_2012_par_secteurs_-_autorisations_de_programme_ap/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5959173fa3a7291dcf9c80af",
+  "last_modified": "2017-11-27T05:36:13.845000",
+  "last_update": "2017-11-27T05:36:13.842000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/budget-2012-par-secteurs-autorisations-de-programme-ap/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:36:13.842000",
+      "description": "- *Libell\u00e9 secteur*: libelle_secteur[text]\n- *Montant vot\u00e9 en M\u20ac*: montant_vote_en_meu[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b7e1de54-483d-4e55-bbfa-ca4b6c74d7a3",
+      "last_modified": "2013-07-22T10:12:21",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b7e1de54-483d-4e55-bbfa-ca4b6c74d7a3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:36:13.842000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/budget_2012_par_secteurs_-_autorisations_de_programme_ap/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:36:13.842000",
+      "description": "- *Libell\u00e9 secteur*: libelle_secteur[text]\n- *Montant vot\u00e9 en M\u20ac*: montant_vote_en_meu[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "bc5cdb6f-25f5-4820-a503-e3011b00f95f",
+      "last_modified": "2013-07-22T10:12:21",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/bc5cdb6f-25f5-4820-a503-e3011b00f95f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:36:13.842000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/budget_2012_par_secteurs_-_autorisations_de_programme_ap/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "budget-2012-par-secteurs-autorisations-de-programme-ap",
+  "spatial": null,
+  "tags": [
+    "budget-regional",
+    "finances-publiques"
+  ],
+  "temporal_coverage": null,
+  "title": "Budget 2012 par secteurs - Autorisations de programme (AP)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/budget-2012-par-secteurs-autorisations-de-programme-ap/"
+}

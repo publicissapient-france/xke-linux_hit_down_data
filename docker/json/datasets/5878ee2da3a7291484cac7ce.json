@@ -1,0 +1,116 @@
+{
+  "badges": [],
+  "created_at": "2013-09-02T00:00:00",
+  "deleted": null,
+  "description": "",
+  "extras": {
+    "ckan:name": "budgets-primitifs-de-la-cus",
+    "harvest:domain": "www.nosdonnees.fr",
+    "harvest:last_update": "2017-07-10T06:04:47.587562",
+    "harvest:remote_id": "34aeb8ac-b19f-4a2f-a7a7-3c23259fe39f",
+    "harvest:source_id": "5878ee1588ee385bffa6f719",
+    "remote_url": "http://www.strasbourg.eu/fr/ma-situation/professionnel/open-data/donnees/budget-open-data/budgets-primitifs-cus"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5878ee2da3a7291484cac7ce",
+  "last_modified": "2017-07-10T06:04:47.589000",
+  "last_update": "2017-01-13T16:11:41.565000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff99a3a7292c64a78016",
+    "logo": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-100.png",
+    "name": "NosDonn\u00e9es.fr",
+    "page": "https://www.data.gouv.fr/fr/organizations/nosdonnees-fr/",
+    "slug": "nosdonnees-fr",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nosdonnees-fr/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/budgets-primitifs-de-la-cus/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:11:41.564000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T09:16:22.565000",
+        "check:status": 200,
+        "check:url": "http://media.strasbourg.eu/alfresco/d/a/workspace/SpacesStore/58f0de80-0b85-4df3-892d-31fdcb5e8cca/CUS_CUS_DFP_BP.xls"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xls",
+      "id": "9003e7a4-3a75-44cd-8f58-c1e251b1e1f1",
+      "last_modified": "2017-07-10T06:04:47.586000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9003e7a4-3a75-44cd-8f58-c1e251b1e1f1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "",
+      "published": "2017-01-13T16:11:41.564000",
+      "title": " Budgets primitifs de la CUS",
+      "url": "http://media.strasbourg.eu/alfresco/d/a/workspace/SpacesStore/58f0de80-0b85-4df3-892d-31fdcb5e8cca/CUS_CUS_DFP_BP.xls"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:11:41.565000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T09:16:23.849000",
+        "check:status": 200,
+        "check:url": "http://media.strasbourg.eu/alfresco/d/a/workspace/SpacesStore/0971585f-11e2-4bf9-be00-4bacdd56d684/CUS_CUS_DFP_BP.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "d347bbeb-4991-45fa-b793-a9e644555f34",
+      "last_modified": "2017-07-10T06:04:47.586000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d347bbeb-4991-45fa-b793-a9e644555f34",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "",
+      "published": "2017-01-13T16:11:41.565000",
+      "title": " Budgets primitifs de la CUS",
+      "url": "http://media.strasbourg.eu/alfresco/d/a/workspace/SpacesStore/0971585f-11e2-4bf9-be00-4bacdd56d684/CUS_CUS_DFP_BP.csv"
+    }
+  ],
+  "slug": "budgets-primitifs-de-la-cus",
+  "spatial": null,
+  "tags": [
+    "budget-annexe",
+    "budget-primitif",
+    "budget-principal",
+    "depenses",
+    "finances",
+    "fonctionnement",
+    "investissement",
+    "recettes"
+  ],
+  "temporal_coverage": null,
+  "title": "Budgets primitifs de la CUS",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/budgets-primitifs-de-la-cus/"
+}

@@ -1,0 +1,101 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T20:06:29.953000",
+  "deleted": null,
+  "description": "Prix de base g\u00e9n\u00e9ral TER au 31 d\u00e9cembre 2014.",
+  "extras": {
+    "harvest:domain": "ressources.data.sncf.com",
+    "harvest:last_update": "2017-11-27T05:03:32.521377",
+    "harvest:remote_id": "bareme-de-prix-national-ter",
+    "harvest:source_id": "563dd01f88ee386a21e72046",
+    "ods:has_records": true,
+    "ods:url": "https://ressources.data.sncf.com/explore/dataset/bareme-de-prix-national-ter/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59593625a3a7291dcf9c8283",
+  "last_modified": "2017-11-27T05:03:32.529000",
+  "last_update": "2017-11-27T05:03:32.520000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb0a3a7292c64a78115",
+    "logo": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-100.png",
+    "name": "SNCF",
+    "page": "https://www.data.gouv.fr/fr/organizations/sncf/",
+    "slug": "sncf",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/sncf/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/bareme-national-kilometrique-de-prix-ter/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:03:32.519000",
+      "description": "- *Classe*: classe[text]\n- *Km*: km[int]\n- *Plein tarif*: plein_tarif[double]\n- *20%*: 20[double]\n- *25%*: 25[double]\n- *30%*: 30[double]\n- *35%*: 35[double]\n- *40%*: 40[double]\n- *50%*: 50[double]\n- *60%*: 60[double]\n- *70%*: 70[double]\n- *75%*: 75[double]\n- *80%*: 80[double]\n- *90%*: 90[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "31c1c7ce-2156-4033-b419-d727249d8e96",
+      "last_modified": "2017-03-16T13:13:07",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/31c1c7ce-2156-4033-b419-d727249d8e96",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:03:32.519000",
+      "title": "Export au format CSV",
+      "url": "https://ressources.data.sncf.com/explore/dataset/bareme-de-prix-national-ter/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:03:32.519000",
+      "description": "- *Classe*: classe[text]\n- *Km*: km[int]\n- *Plein tarif*: plein_tarif[double]\n- *20%*: 20[double]\n- *25%*: 25[double]\n- *30%*: 30[double]\n- *35%*: 35[double]\n- *40%*: 40[double]\n- *50%*: 50[double]\n- *60%*: 60[double]\n- *70%*: 70[double]\n- *75%*: 75[double]\n- *80%*: 80[double]\n- *90%*: 90[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "69eaef56-cc45-42ec-b7a0-e49ccfaf82dc",
+      "last_modified": "2017-03-16T13:13:07",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/69eaef56-cc45-42ec-b7a0-e49ccfaf82dc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:03:32.520000",
+      "title": "Export au format JSON",
+      "url": "https://ressources.data.sncf.com/explore/dataset/bareme-de-prix-national-ter/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "bareme-national-kilometrique-de-prix-ter",
+  "spatial": null,
+  "tags": [
+    "bareme-tarif-national",
+    "tarif-ter",
+    "tarifs-voyageurs",
+    "ter"
+  ],
+  "temporal_coverage": null,
+  "title": "Bar\u00e8me national kilom\u00e9trique de prix TER",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/bareme-national-kilometrique-de-prix-ter/"
+}

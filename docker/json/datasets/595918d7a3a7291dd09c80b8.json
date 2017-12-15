@@ -1,0 +1,147 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T18:01:27.871000",
+  "deleted": null,
+  "description": "Le Grand Paris Express est un projet de m\u00e9tro automatique qui s\u2019inscrit dans le cadre du Nouveau Grand Paris des transports et dont la r\u00e9alisation va s\u2019\u00e9chelonner d\u2019ici \u00e0 2030. Au sein du Grand Paris Express, le pr\u00e9sent jeu de donn\u00e9es porte sur le \u00ab r\u00e9seau de transport public du Grand Paris \u00bb, dont la ma\u00eetrise d\u2019ouvrage est assur\u00e9e par l\u2019\u00e9tablissement public Soci\u00e9t\u00e9 du Grand Paris au titre de la loi n\u00b0 2010-597 du 3 juin 2010 relative au Grand Paris et dont les principales caract\u00e9ristiques sont d\u00e9crites dans le sch\u00e9ma d\u2019ensemble approuv\u00e9 par le d\u00e9cret n\u00b0 2011-1011 du 24 ao\u00fbt 2011.\n\n**\\--- Avertissement ---**\n\nLes donn\u00e9es sont indicatives au moment de leur publication. Elles sont susceptibles d\u2019\u00eatre mises \u00e0 jour tout au long de l\u2019avancement de la conception des projets d\u2019infrastructure du R\u00e9seau de Transport Public du Grand Paris. La cartographie ne peut pas \u00e0 elle seule rendre compte de la situation pr\u00e9cise. Il appartient \u00e0 l\u2019organisme ayant droit de s\u2019assurer de l\u2019ad\u00e9quation des donn\u00e9es \u00e0 ses propres besoins. La consultation des plans annex\u00e9s aux d\u00e9crets de DUP et aux arr\u00eat\u00e9s pr\u00e9fectoraux (arr\u00eat\u00e9s de cessibilit\u00e9 notamment) demeure indispensable pour une parfaite et exacte information. En effet, la cartographie fournie ne peut \u00eatre oppos\u00e9e \u00e0 ces documents de r\u00e9f\u00e9rence et seuls les plans qui sont annex\u00e9s aux d\u00e9clarations d'utilit\u00e9 publique et aux arr\u00eat\u00e9s de cessibilit\u00e9 sont juridiquement contraignants et opposables. Les donn\u00e9es diffus\u00e9es sont la propri\u00e9t\u00e9 de la Soci\u00e9t\u00e9 du Grand Paris.\n\nCr\u00e9\u00e9 le 26 f\u00e9vrier 2015 et modifi\u00e9 le 4 mars 2015 sur data.gouv.fr",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T05:58:30.471628",
+    "harvest:remote_id": "point-de-localisation-des-gares-de-la-ligne-15-sud",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:references": "https://www.data.gouv.fr/fr/datasets/point-de-localisation-des-gares-de-la-ligne-15-sud/",
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/point-de-localisation-des-gares-de-la-ligne-15-sud/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "595918d7a3a7291dd09c80b8",
+  "last_modified": "2017-11-27T05:58:30.485000",
+  "last_update": "2017-11-27T05:58:30.470000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/points-de-localisation-des-gares-de-la-ligne-15-sud/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:58:30.469000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *OBJECTID*: objectid[int]\n- *CODE*: code[text]\n- *LIBELLE*: libelle[text]\n- *OBJET*: objet[text]\n- *X*: x[double]\n- *Y*: y[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "4b692c4c-0d34-4a39-9ce8-22ec775d7ea0",
+      "last_modified": "2015-03-04T16:07:30",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4b692c4c-0d34-4a39-9ce8-22ec775d7ea0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:58:30.469000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/point-de-localisation-des-gares-de-la-ligne-15-sud/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:58:30.470000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *OBJECTID*: objectid[int]\n- *CODE*: code[text]\n- *LIBELLE*: libelle[text]\n- *OBJET*: objet[text]\n- *X*: x[double]\n- *Y*: y[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "8d83e6bd-696b-4dce-8c84-7abb4b923c38",
+      "last_modified": "2015-03-04T16:07:30",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8d83e6bd-696b-4dce-8c84-7abb4b923c38",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:58:30.470000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/point-de-localisation-des-gares-de-la-ligne-15-sud/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:58:30.470000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *OBJECTID*: objectid[int]\n- *CODE*: code[text]\n- *LIBELLE*: libelle[text]\n- *OBJET*: objet[text]\n- *X*: x[double]\n- *Y*: y[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "67f85904-cf96-4560-add6-635672e98bde",
+      "last_modified": "2015-03-04T16:07:30",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/67f85904-cf96-4560-add6-635672e98bde",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:58:30.470000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/point-de-localisation-des-gares-de-la-ligne-15-sud/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:58:30.470000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *OBJECTID*: objectid[int]\n- *CODE*: code[text]\n- *LIBELLE*: libelle[text]\n- *OBJET*: objet[text]\n- *X*: x[double]\n- *Y*: y[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "3a9ea69b-398b-4ffe-9934-63f961566c2a",
+      "last_modified": "2015-03-04T16:07:30",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3a9ea69b-398b-4ffe-9934-63f961566c2a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:58:30.470000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.iledefrance.fr//explore/dataset/point-de-localisation-des-gares-de-la-ligne-15-sud/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "points-de-localisation-des-gares-de-la-ligne-15-sud",
+  "spatial": null,
+  "tags": [
+    "deplacements-transports",
+    "geolocalisation",
+    "metro",
+    "transport",
+    "transports-en-commun"
+  ],
+  "temporal_coverage": null,
+  "title": "Points de localisation des gares de la ligne 15 sud",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/points-de-localisation-des-gares-de-la-ligne-15-sud/"
+}

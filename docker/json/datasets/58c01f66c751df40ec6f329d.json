@@ -1,0 +1,85 @@
+{
+  "badges": [],
+  "created_at": "2017-03-08T16:12:38.426000",
+  "deleted": null,
+  "description": "Meudon ouvre ses comptes administratifs depuis 2012. Chaque tableau d\u00e9taille les informations g\u00e9n\u00e9rales, la pr\u00e9sentation g\u00e9n\u00e9rale du budget, le vote du budget et les annexes, pour les diff\u00e9rents budgets de la ville. Tous les tableaux de l'exercice 2013 sont ouverts sous forme de tableau CSV. Ce premier tableur pr\u00e9sente le vote du budget - section de fonctionnement - d\u00e9tail des d\u00e9penses. Les chiffres sont donn\u00e9s par rapport \u00e0 la population meudonnaise et par rapport \u00e0 la moyenne nationale.",
+  "extras": {},
+  "frequency": "punctual",
+  "frequency_date": null,
+  "id": "58c01f66c751df40ec6f329d",
+  "last_modified": "2017-03-08T16:13:32.476000",
+  "last_update": "2017-03-08T16:13:24.514000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "54d89442c751df1245467389",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-02-09/c8e02b8db0004b17b0aa311404798324/logo_meudon_couleur_HD-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-02-09/c8e02b8db0004b17b0aa311404798324/logo_meudon_couleur_HD-100.jpg",
+    "name": "Ville de Meudon",
+    "page": "https://www.data.gouv.fr/fr/organizations/ville-de-meudon/",
+    "slug": "ville-de-meudon",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ville-de-meudon/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/compte-administratif-2013-vote-du-budget-section-de-fonctionnement-detail-des-depenses/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "5ab1ecf3fd720d194caebf1b37f0535d56f24b55"
+      },
+      "created_at": "2017-03-08T16:13:24.514000",
+      "description": "Meudon ouvre ses comptes administratifs depuis 2012. Chaque tableau d\u00e9taille les informations g\u00e9n\u00e9rales, la pr\u00e9sentation g\u00e9n\u00e9rale du budget, le vote du budget et les annexes, pour les diff\u00e9rents budgets de la ville. Tous les tableaux de l'exercice 2013 sont ouverts sous forme de tableau CSV. Ce premier tableur pr\u00e9sente le vote du budget - section de fonctionnement - d\u00e9tail des d\u00e9penses. Les chiffres sont donn\u00e9s par rapport \u00e0 la population meudonnaise et par rapport \u00e0 la moyenne nationale.",
+      "extras": {},
+      "filesize": 8407,
+      "filetype": "file",
+      "format": "csv",
+      "id": "645eb98b-152c-4fcb-bc73-7a0a72ee3eb3",
+      "last_modified": "2017-03-08T16:13:32.475000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/645eb98b-152c-4fcb-bc73-7a0a72ee3eb3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-03-08T16:13:24.514000",
+      "title": "Compte administratif 2013 - Vote du budget - section de fonctionnement - d\u00e9tail des d\u00e9penses",
+      "url": "https://www.data.gouv.fr/s/resources/compte-administratif-2013-vote-du-budget-section-de-fonctionnement-detail-des-depenses/20170308-161324/Onglet_14_CA2013_Vote_du_budget.csv"
+    }
+  ],
+  "slug": "compte-administratif-2013-vote-du-budget-section-de-fonctionnement-detail-des-depenses",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:commune",
+    "zones": [
+      "fr:commune:92048@1968-01-01"
+    ]
+  },
+  "tags": [
+    "budget",
+    "budget-2013",
+    "commune",
+    "compte-administratif",
+    "depenses",
+    "fonctionnement",
+    "ville"
+  ],
+  "temporal_coverage": null,
+  "title": "Compte administratif 2013 - Vote du budget - section de fonctionnement - d\u00e9tail des d\u00e9penses",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/compte-administratif-2013-vote-du-budget-section-de-fonctionnement-detail-des-depenses/"
+}

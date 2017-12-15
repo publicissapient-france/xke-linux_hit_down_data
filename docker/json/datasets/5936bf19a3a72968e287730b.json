@@ -1,0 +1,147 @@
+{
+  "badges": [],
+  "created_at": "2017-06-06T00:00:00",
+  "deleted": null,
+  "description": "Cette donn\u00e9e renseigne les r\u00e9sultats des \u00e9lections d\u00e9partementales de 2015 des 2 tours par cantons de la Gironde",
+  "extras": {
+    "ckan:name": "resultats-des-elections-departementales-2015",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+    "guid": "https://datacat.datalocale.fr/415956",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-06-06T16:41:29.161378",
+    "harvest:remote_id": "9586b7b8-2c10-42ed-8438-4479b6e8ebb5",
+    "harvest:source_id": "59365a72c751df28ed47c9eb",
+    "identifier": "af99270c-6969-4561-9ec9-84e4e90d4abf",
+    "issued": "2015-03-22T20:00:11+00:00",
+    "modified": "2016-07-18T09:21:06.406099+00:00",
+    "publisher_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "publisher_name": "CRTA",
+    "publisher_uri": "https://datacat.datalocale.fr/414593",
+    "remote_url": "http://www.gironde.fr/jcms/cgw_78056/elections-2015-premiers-resultats-en-direct",
+    "theme": "[\"\u00e9lection locale\"]",
+    "uri": "https://datacat.datalocale.fr/415956"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5936bf19a3a72968e287730b",
+  "last_modified": "2017-06-06T16:41:29.165000",
+  "last_update": "2017-06-06T16:41:29.159000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/resultats-des-elections-departementales-2015-4/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:41:29.158000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-09T14:13:35.954000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415960/raw/gironde_resultats_BV1.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "19a60559-6c9d-4db6-971d-dc2ccbd0e927",
+      "last_modified": "2017-06-06T16:41:29.158000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/19a60559-6c9d-4db6-971d-dc2ccbd0e927",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:41:29.158000",
+      "title": "R\u00e9sultat des \u00e9lections d\u00e9partementales fournis par le r\u00e9seau RegardCitoyens",
+      "url": "https://datacat.datalocale.fr/file/415960/raw/gironde_resultats_BV1.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:41:29.158000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-09T14:13:36.239000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415958/raw/gironde_resultats_1erTour.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "4d4c9f4c-8d98-4aae-96f3-a939d191f2f8",
+      "last_modified": "2017-06-06T16:41:29.159000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4d4c9f4c-8d98-4aae-96f3-a939d191f2f8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:41:29.159000",
+      "title": "fichier contenant le nombre de votants et les pourcentage pour chaque parti et candidats ainsi que les taux de participation",
+      "url": "https://datacat.datalocale.fr/file/415958/raw/gironde_resultats_1erTour.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:41:29.159000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-09T14:13:36.223000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415962/raw/gironde_resultats_BV2.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "62fcc937-dbf2-45af-88ac-efb31b41416d",
+      "last_modified": "2017-06-06T16:41:29.160000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/62fcc937-dbf2-45af-88ac-efb31b41416d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:41:29.159000",
+      "title": "R\u00e9sultat des \u00e9lections d\u00e9partementales fournis par le r\u00e9seau RegardCitoyens",
+      "url": "https://datacat.datalocale.fr/file/415962/raw/gironde_resultats_BV2.csv"
+    }
+  ],
+  "slug": "resultats-des-elections-departementales-2015-4",
+  "spatial": null,
+  "tags": [
+    "cantonales",
+    "departements",
+    "elections"
+  ],
+  "temporal_coverage": null,
+  "title": "R\u00e9sultats des \u00e9lections d\u00e9partementales 2015",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/resultats-des-elections-departementales-2015-4/"
+}

@@ -1,0 +1,474 @@
+{
+  "badges": [],
+  "created_at": "2017-07-07T00:00:00",
+  "deleted": null,
+  "description": "comptage des b\u00e9n\u00e9ficiaires du RSA par canton par commune et par an (conforme r\u00e8gles IRIS)",
+  "extras": {
+    "ckan:name": "comptage-des-beneficiaires-du-rsa-par-canton-par-commune-et-par-an-conforme-regles-iris",
+    "contact_name": "DGAS",
+    "contact_uri": "https://datacat.datalocale.fr/414850",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+    "guid": "https://datacat.datalocale.fr/414851",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-11-27T05:18:12.902305",
+    "harvest:remote_id": "812d88e6-6379-455d-ab8b-9e9e4697a1ba",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "211e13ca-eb14-4ff2-8ea1-f97aa2917a0b",
+    "issued": "2012-12-28T15:22:08+00:00",
+    "modified": "2016-07-18T09:21:05.201684+00:00",
+    "publisher_email": "mailto:f.macou@cg33.fr",
+    "publisher_name": "Franck Macou",
+    "publisher_uri": "https://datacat.datalocale.fr/414849",
+    "remote_url": "http://www.gironde.fr/jcms/c_16816/le-rsa-revenu-de-solidarite-active",
+    "theme": "[\"politique sociale\"]",
+    "uri": "https://datacat.datalocale.fr/414851"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "596067aaa3a7296407d6a7c8",
+  "last_modified": "2017-11-27T05:18:12.905000",
+  "last_update": "2017-09-12T07:43:27.402000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/comptage-des-beneficiaires-du-rsa-par-canton-par-commune-et-par-an-conforme-regles-iris-2/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:03:38.733000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-10T11:13:44.445000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414853/raw/2013-04-30-111422LISTE_BENEF_RSA_CANTON.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "4cda2ac0-bd99-44d5-8f10-a9cc2b74f93c",
+      "last_modified": "2017-08-15T06:04:53.586000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4cda2ac0-bd99-44d5-8f10-a9cc2b74f93c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-08T07:03:38.733000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414853/raw/2013-04-30-111422LISTE_BENEF_RSA_CANTON.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:03:38.733000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-10T11:13:44.275000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414857/raw/2013-04-30-111512LISTE_BENEF_RSA_COMMUNE.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2f98ea67-eb28-453e-9ec9-b73fd1e85bda",
+      "last_modified": "2017-08-15T06:04:53.586000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2f98ea67-eb28-453e-9ec9-b73fd1e85bda",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-08T07:03:38.733000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414857/raw/2013-04-30-111512LISTE_BENEF_RSA_COMMUNE.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:03:38.734000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-10T11:13:44.345000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414859/raw/2013-04-30-111512LISTE_BENEF_RSA_COMMUNEdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "5b02a452-b8d8-4b32-b389-b75133c6d761",
+      "last_modified": "2017-08-15T06:04:53.586000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5b02a452-b8d8-4b32-b389-b75133c6d761",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-07-08T07:03:38.734000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414859/raw/2013-04-30-111512LISTE_BENEF_RSA_COMMUNEdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:03:38.734000",
+      "description": "export en csv geocod\u00e9",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-10T11:13:44.407000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/477339/raw/nombreFoyerBeneficiareRSACommune.geocoded.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2f19fcb3-7023-43f3-bac7-44277aba67bc",
+      "last_modified": "2017-08-15T06:04:53.586000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2f19fcb3-7023-43f3-bac7-44277aba67bc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 2
+      },
+      "mime": "text/csv",
+      "published": "2017-07-08T07:03:38.734000",
+      "title": "nombreFoyerBeneficiareRSACommuneGeocoded.csv",
+      "url": "https://datacat.datalocale.fr/file/477339/raw/nombreFoyerBeneficiareRSACommune.geocoded.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:03:38.735000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-10T11:13:44.203000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414855/raw/2013-04-30-111422LISTE_BENEF_RSA_CANTONdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "b48a8c99-f9b2-4a81-b135-fe0beabf56f0",
+      "last_modified": "2017-08-15T06:04:53.586000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b48a8c99-f9b2-4a81-b135-fe0beabf56f0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-07-08T07:03:38.735000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414855/raw/2013-04-30-111422LISTE_BENEF_RSA_CANTONdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-16T07:09:33.680000",
+      "description": "export en csv geocod\u00e9",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-10T11:13:44.407000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/477339/raw/nombreFoyerBeneficiareRSACommune.geocoded.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "78e30cbe-dd1a-4a42-b97f-ed8c820668aa",
+      "last_modified": "2017-09-11T06:11:15.434000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/78e30cbe-dd1a-4a42-b97f-ed8c820668aa",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-16T07:09:33.680000",
+      "title": "nombreFoyerBeneficiareRSACommuneGeocoded.csv",
+      "url": "https://datacat.datalocale.fr/file/477339/raw/nombreFoyerBeneficiareRSACommune.geocoded.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-16T07:09:33.681000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:11:40.313000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414853/raw/2013-04-30-111422LISTE_BENEF_RSA_CANTON.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "eb2d6bd6-ff6f-4bbf-be52-2fe79a88ff13",
+      "last_modified": "2017-09-11T06:11:15.434000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/eb2d6bd6-ff6f-4bbf-be52-2fe79a88ff13",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-16T07:09:33.681000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414853/raw/2013-04-30-111422LISTE_BENEF_RSA_CANTON.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-16T07:09:33.681000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-16T15:49:33.388000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414855/raw/2013-04-30-111422LISTE_BENEF_RSA_CANTONdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "42c27add-fdcf-4040-a60d-2d378dda01a1",
+      "last_modified": "2017-09-11T06:11:15.434000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/42c27add-fdcf-4040-a60d-2d378dda01a1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-16T07:09:33.681000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414855/raw/2013-04-30-111422LISTE_BENEF_RSA_CANTONdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-16T07:09:33.682000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:11:45.258000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414857/raw/2013-04-30-111512LISTE_BENEF_RSA_COMMUNE.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "fcddebbe-6d7a-45e7-a0bb-a6b330d6b05b",
+      "last_modified": "2017-09-11T06:11:15.434000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fcddebbe-6d7a-45e7-a0bb-a6b330d6b05b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-16T07:09:33.682000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414857/raw/2013-04-30-111512LISTE_BENEF_RSA_COMMUNE.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-16T07:09:33.682000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:11:44.773000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414859/raw/2013-04-30-111512LISTE_BENEF_RSA_COMMUNEdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "fb98f89b-cb01-4d44-a12d-bc61795581cf",
+      "last_modified": "2017-09-11T06:11:15.435000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fb98f89b-cb01-4d44-a12d-bc61795581cf",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-16T07:09:33.682000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414859/raw/2013-04-30-111512LISTE_BENEF_RSA_COMMUNEdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:43:27.399000",
+      "description": "export en csv geocod\u00e9",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:11:40.931000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/477339/raw/nombreFoyerBeneficiareRSACommune.geocoded.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "7e3c3657-1ac6-4ed6-9b93-10f222cbe1db",
+      "last_modified": "2017-11-27T05:18:12.901000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7e3c3657-1ac6-4ed6-9b93-10f222cbe1db",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:43:27.399000",
+      "title": "nombreFoyerBeneficiareRSACommuneGeocoded.csv",
+      "url": "https://datacat.datalocale.fr/distribution/477340/raw/nombreFoyerBeneficiareRSACommune.geocoded.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:43:27.400000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:11:42.828000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414859/raw/2013-04-30-111512LISTE_BENEF_RSA_COMMUNEdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "54322da1-f803-4276-9344-202d1330e1a2",
+      "last_modified": "2017-11-27T05:18:12.901000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/54322da1-f803-4276-9344-202d1330e1a2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-09-12T07:43:27.400000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/distribution/414858/raw/2013-04-30-111512LISTE_BENEF_RSA_COMMUNEdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:43:27.401000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-16T15:49:33.505000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414857/raw/2013-04-30-111512LISTE_BENEF_RSA_COMMUNE.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "8ed60405-321d-465a-8b68-91b91e423c5c",
+      "last_modified": "2017-11-27T05:18:12.901000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8ed60405-321d-465a-8b68-91b91e423c5c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:43:27.401000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/distribution/414856/raw/2013-04-30-111512LISTE_BENEF_RSA_COMMUNE.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:43:27.401000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-16T15:49:34.481000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414853/raw/2013-04-30-111422LISTE_BENEF_RSA_CANTON.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "fd6eb6b0-b30d-4350-a64b-febd943d4841",
+      "last_modified": "2017-11-27T05:18:12.901000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fd6eb6b0-b30d-4350-a64b-febd943d4841",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:43:27.401000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/distribution/414852/raw/2013-04-30-111422LISTE_BENEF_RSA_CANTON.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:43:27.402000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:11:41.351000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414855/raw/2013-04-30-111422LISTE_BENEF_RSA_CANTONdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "eb6b0922-3f8a-4070-a00b-61f5627ec426",
+      "last_modified": "2017-11-27T05:18:12.901000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/eb6b0922-3f8a-4070-a00b-61f5627ec426",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-09-12T07:43:27.402000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/distribution/414854/raw/2013-04-30-111422LISTE_BENEF_RSA_CANTONdesc.html"
+    }
+  ],
+  "slug": "comptage-des-beneficiaires-du-rsa-par-canton-par-commune-et-par-an-conforme-regles-iris-2",
+  "spatial": null,
+  "tags": [
+    "precarite",
+    "prestation-sociale",
+    "revenu",
+    "solidarite"
+  ],
+  "temporal_coverage": null,
+  "title": "comptage des b\u00e9n\u00e9ficiaires du RSA par canton par commune et par an (conforme r\u00e8gles IRIS)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/comptage-des-beneficiaires-du-rsa-par-canton-par-commune-et-par-an-conforme-regles-iris-2/"
+}

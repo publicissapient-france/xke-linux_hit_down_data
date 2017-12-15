@@ -1,0 +1,209 @@
+{
+  "badges": [],
+  "created_at": "2015-04-30T16:41:54.873000",
+  "deleted": null,
+  "description": "Gr\u00e2ce \u00e0 ses filiales et participations, le groupe Total est actif sur tous les segments de l\u2019industrie p\u00e9troli\u00e8re et gazi\u00e8re, dans le secteur de la chimie de sp\u00e9cialit\u00e9s et se positionne dans le domaine des \u00e9nergies nouvelles. ",
+  "extras": {},
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "55423f32c751df766fa7b26c",
+  "last_modified": "2015-09-11T16:35:27.863000",
+  "last_update": "2015-04-30T16:47:25.163000",
+  "license": "odc-odbl",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 2
+  },
+  "organization": null,
+  "owner": {
+    "avatar": null,
+    "avatar_thumbnail": null,
+    "class": "User",
+    "first_name": "Hubert",
+    "id": "534fff41a3a7292c64a7772a",
+    "last_name": "Goffin",
+    "page": "https://www.data.gouv.fr/fr/users/hubert-goffin/",
+    "slug": "hubert-goffin",
+    "uri": "https://www.data.gouv.fr/api/1/users/hubert-goffin/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/filiales-et-participations-du-groupe-total-pour-lannee-2014/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2015-04-30T16:47:25.163000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-25T09:43:03.853000",
+        "check:status": 200,
+        "check:url": "http://www.total.com/fr/profil-du-groupe/organisation-du-groupe/de-nombreuses-filiales-et-participations-travers-le-monde"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": null,
+      "id": "389ca641-9eb2-461b-a9b5-13b4639da0d6",
+      "last_modified": "2015-04-30T16:47:25.163000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/389ca641-9eb2-461b-a9b5-13b4639da0d6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": null,
+      "published": "2015-04-30T16:47:25.163000",
+      "title": "Page de pr\u00e9sentation sur le site de Total",
+      "url": "http://www.total.com/fr/profil-du-groupe/organisation-du-groupe/de-nombreuses-filiales-et-participations-travers-le-monde"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "5d8f683e06eca11f2b2a9835776e02371d17e641"
+      },
+      "created_at": "2015-04-30T16:45:37.377000",
+      "description": "Le PDF avec les donn\u00e9es",
+      "extras": {},
+      "filesize": 146888,
+      "filetype": "file",
+      "format": "pdf",
+      "id": "ea4736a7-b849-49fc-9640-72c8ebe0f312",
+      "last_modified": "2015-04-30T16:45:37.377000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ea4736a7-b849-49fc-9640-72c8ebe0f312",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": "application/pdf",
+      "published": "2015-04-30T16:45:37.377000",
+      "title": "Source",
+      "url": "https://www.data.gouv.fr/s/resources/filiales-et-participations-du-groupe-total-pour-lannee-2014/20150430-164502/perimetre-consolidation-2014_2.pdf"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "2b23648a994bb916ae4d27f87f939d375cd8fd3d"
+      },
+      "created_at": "2015-04-30T16:44:20.305000",
+      "description": "",
+      "extras": {},
+      "filesize": 13511,
+      "filetype": "file",
+      "format": "csv",
+      "id": "0a3366d0-69d7-4cd8-9673-ad8984d47532",
+      "last_modified": "2015-04-30T16:44:20.305000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0a3366d0-69d7-4cd8-9673-ad8984d47532",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": "text/csv",
+      "published": "2015-04-30T16:44:20.305000",
+      "title": "La liste Raffinage Chimie",
+      "url": "https://www.data.gouv.fr/s/resources/filiales-et-participations-du-groupe-total-pour-lannee-2014/20150430-164416/Raffinage-Chimie.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "21f65a25ec6cbe5ee1ce7bdb19894108af254ad4"
+      },
+      "created_at": "2015-04-30T16:43:53.383000",
+      "description": "",
+      "extras": {},
+      "filesize": 21729,
+      "filetype": "file",
+      "format": "csv",
+      "id": "efc011e8-1f11-4dd4-a56c-2951a7de73ef",
+      "last_modified": "2015-04-30T16:43:53.383000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/efc011e8-1f11-4dd4-a56c-2951a7de73ef",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 3
+      },
+      "mime": "text/csv",
+      "published": "2015-04-30T16:43:53.384000",
+      "title": "La liste Marketing & Services",
+      "url": "https://www.data.gouv.fr/s/resources/filiales-et-participations-du-groupe-total-pour-lannee-2014/20150430-164351/Marketing-Services.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "c4f25d52efa0147bea37febadbd6aa05ff4ba395"
+      },
+      "created_at": "2015-04-30T16:43:16.881000",
+      "description": "",
+      "extras": {},
+      "filesize": 2818,
+      "filetype": "file",
+      "format": "csv",
+      "id": "2b191069-dd1b-4976-8e8b-101d3df5a96a",
+      "last_modified": "2015-04-30T16:43:16.881000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2b191069-dd1b-4976-8e8b-101d3df5a96a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 2
+      },
+      "mime": "text/csv",
+      "published": "2015-04-30T16:43:16.881000",
+      "title": "La liste Holding",
+      "url": "https://www.data.gouv.fr/s/resources/filiales-et-participations-du-groupe-total-pour-lannee-2014/20150430-164314/Holding.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "460d26aef12695a7143357a20964b6c1ae3ce421"
+      },
+      "created_at": "2015-04-30T16:42:51.621000",
+      "description": "",
+      "extras": {},
+      "filesize": 14163,
+      "filetype": "file",
+      "format": "csv",
+      "id": "92dfcf39-d7e4-4a13-8ceb-508e48459f49",
+      "last_modified": "2015-04-30T16:42:51.621000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/92dfcf39-d7e4-4a13-8ceb-508e48459f49",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": "text/csv",
+      "published": "2015-04-30T16:42:51.621000",
+      "title": "La liste Amont",
+      "url": "https://www.data.gouv.fr/s/resources/filiales-et-participations-du-groupe-total-pour-lannee-2014/20150430-164240/Amont.csv"
+    }
+  ],
+  "slug": "filiales-et-participations-du-groupe-total-pour-lannee-2014",
+  "spatial": {
+    "geom": null,
+    "granularity": "other",
+    "zones": []
+  },
+  "tags": [
+    "economie",
+    "entreprises",
+    "filiales",
+    "total"
+  ],
+  "temporal_coverage": {
+    "end": "2014-12-31",
+    "start": "2014-01-01"
+  },
+  "title": "Filiales et Participations du groupe Total pour l'ann\u00e9e 2014",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/filiales-et-participations-du-groupe-total-pour-lannee-2014/"
+}

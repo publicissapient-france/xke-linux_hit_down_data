@@ -1,0 +1,148 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T17:47:49.089000",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es pr\u00e9sente la localisation des implantations des \u00e9tablissements d'enseignement sup\u00e9rieur publics : universit\u00e9s, universit\u00e9 de technologie, INP,\u00a0grands \u00e9tablissements, \u00e9coles d'ing\u00e9nieur.",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T06:23:06.589025",
+    "harvest:remote_id": "implantations-des-etablissements-denseignement-superieur-publics",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:references": "Base centrale des \u00e9tablissements, SISE",
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/implantations-des-etablissements-denseignement-superieur-publics/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "595915a5a3a7291dcf9c8072",
+  "last_modified": "2017-11-27T06:23:06.591000",
+  "last_update": "2017-11-27T06:23:06.588000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 1,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/implantations-des-etablissements-denseignement-superieur-publics-1/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:23:06.587000",
+      "description": "- *Localisation*: localisation[text]\n- *Etablissement si\u00e8ge*: siege_lib[text]\n- *type de l'\u00e9tablissement si\u00e8ge*: type_d_etablissement[text]\n- *Implantation*: implantation_lib[text]\n- *G\u00e9olocalisation*: coordonnees[geo_point_2d]\n- *Nature*: bcnag_n_nature_uai_libelle_editi[text]\n- *Service*: services[text]\n- *Date d'ouverture*: date_ouverture[date]\n- *Effectif d'\u00e9tudiants inscrits*: effectif[int] Donn\u00e9es \n- *Type*: bcnag_n_type_uai_libelle_edition[text]\n- *Code de l'implantation*: uai[text] Code UAI\n- *Code de l'unit\u00e9 de rattachement*: ur[text]\n- *Unit\u00e9 de rattachement*: ur_lib[text]\n- *Code de l'\u00e9tablissement si\u00e8ge*: etablissement_uai[text]\n- *sigle de l'\u00e9tablissement si\u00e8ge*: sigle[text]\n- *Identifiant ETER*: identifiant_eter[text]\n- *Identifiant wikidata*: identifiant_wikidata[text]\n- *El\u00e9ment wikidata*: element_wikidata[text]\n- *Identifiant GRID*: identifiant_grid[text]\n- *element_grid*: element_grid[text]\n- *Code commune*: com_code[text]\n- *Commune*: com_nom[text]\n- *Code unit\u00e9 urbaine*: uucr_id[text]\n- *Unit\u00e9 urbaine*: uucr_nom[text]\n- *Code d\u00e9partement*: dep_id[text]\n- *D\u00e9partement*: dep_nom[text]\n- *Code acad\u00e9mie*: aca_id[text]\n- *Acad\u00e9mie*: aca_nom[text]\n- *Code r\u00e9gion*: reg_id[text]\n- *R\u00e9gion*: reg_nom[text]\n- *Code pays*: code_pays[int]\n- *Mention de distribution*: mention_distribution[text]\n- *Adresse*: adresse_uai[text]\n- *Lieu dit*: lieu_dit_uai[text]\n- *Boite postale*: boite_postale_uai[text]\n- *Code postal*: code_postal_uai[text]\n- *Localit\u00e9*: localite_acheminement_uai[text]\n- *Pays*: pays_etranger_acheminement[text]\n- *Code type*: type_uai[text]\n- *Code nature*: nature_uai[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "78370a00-f0f4-4f74-889a-6948331e1f21",
+      "last_modified": "2017-10-31T17:09:55",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/78370a00-f0f4-4f74-889a-6948331e1f21",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T06:23:06.587000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/implantations-des-etablissements-denseignement-superieur-publics/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:23:06.587000",
+      "description": "- *Localisation*: localisation[text]\n- *Etablissement si\u00e8ge*: siege_lib[text]\n- *type de l'\u00e9tablissement si\u00e8ge*: type_d_etablissement[text]\n- *Implantation*: implantation_lib[text]\n- *G\u00e9olocalisation*: coordonnees[geo_point_2d]\n- *Nature*: bcnag_n_nature_uai_libelle_editi[text]\n- *Service*: services[text]\n- *Date d'ouverture*: date_ouverture[date]\n- *Effectif d'\u00e9tudiants inscrits*: effectif[int] Donn\u00e9es \n- *Type*: bcnag_n_type_uai_libelle_edition[text]\n- *Code de l'implantation*: uai[text] Code UAI\n- *Code de l'unit\u00e9 de rattachement*: ur[text]\n- *Unit\u00e9 de rattachement*: ur_lib[text]\n- *Code de l'\u00e9tablissement si\u00e8ge*: etablissement_uai[text]\n- *sigle de l'\u00e9tablissement si\u00e8ge*: sigle[text]\n- *Identifiant ETER*: identifiant_eter[text]\n- *Identifiant wikidata*: identifiant_wikidata[text]\n- *El\u00e9ment wikidata*: element_wikidata[text]\n- *Identifiant GRID*: identifiant_grid[text]\n- *element_grid*: element_grid[text]\n- *Code commune*: com_code[text]\n- *Commune*: com_nom[text]\n- *Code unit\u00e9 urbaine*: uucr_id[text]\n- *Unit\u00e9 urbaine*: uucr_nom[text]\n- *Code d\u00e9partement*: dep_id[text]\n- *D\u00e9partement*: dep_nom[text]\n- *Code acad\u00e9mie*: aca_id[text]\n- *Acad\u00e9mie*: aca_nom[text]\n- *Code r\u00e9gion*: reg_id[text]\n- *R\u00e9gion*: reg_nom[text]\n- *Code pays*: code_pays[int]\n- *Mention de distribution*: mention_distribution[text]\n- *Adresse*: adresse_uai[text]\n- *Lieu dit*: lieu_dit_uai[text]\n- *Boite postale*: boite_postale_uai[text]\n- *Code postal*: code_postal_uai[text]\n- *Localit\u00e9*: localite_acheminement_uai[text]\n- *Pays*: pays_etranger_acheminement[text]\n- *Code type*: type_uai[text]\n- *Code nature*: nature_uai[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "e245b130-2c76-4aa6-9c33-98a4282a179f",
+      "last_modified": "2017-10-31T17:09:55",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e245b130-2c76-4aa6-9c33-98a4282a179f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T06:23:06.587000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/implantations-des-etablissements-denseignement-superieur-publics/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:23:06.588000",
+      "description": "- *Localisation*: localisation[text]\n- *Etablissement si\u00e8ge*: siege_lib[text]\n- *type de l'\u00e9tablissement si\u00e8ge*: type_d_etablissement[text]\n- *Implantation*: implantation_lib[text]\n- *G\u00e9olocalisation*: coordonnees[geo_point_2d]\n- *Nature*: bcnag_n_nature_uai_libelle_editi[text]\n- *Service*: services[text]\n- *Date d'ouverture*: date_ouverture[date]\n- *Effectif d'\u00e9tudiants inscrits*: effectif[int] Donn\u00e9es \n- *Type*: bcnag_n_type_uai_libelle_edition[text]\n- *Code de l'implantation*: uai[text] Code UAI\n- *Code de l'unit\u00e9 de rattachement*: ur[text]\n- *Unit\u00e9 de rattachement*: ur_lib[text]\n- *Code de l'\u00e9tablissement si\u00e8ge*: etablissement_uai[text]\n- *sigle de l'\u00e9tablissement si\u00e8ge*: sigle[text]\n- *Identifiant ETER*: identifiant_eter[text]\n- *Identifiant wikidata*: identifiant_wikidata[text]\n- *El\u00e9ment wikidata*: element_wikidata[text]\n- *Identifiant GRID*: identifiant_grid[text]\n- *element_grid*: element_grid[text]\n- *Code commune*: com_code[text]\n- *Commune*: com_nom[text]\n- *Code unit\u00e9 urbaine*: uucr_id[text]\n- *Unit\u00e9 urbaine*: uucr_nom[text]\n- *Code d\u00e9partement*: dep_id[text]\n- *D\u00e9partement*: dep_nom[text]\n- *Code acad\u00e9mie*: aca_id[text]\n- *Acad\u00e9mie*: aca_nom[text]\n- *Code r\u00e9gion*: reg_id[text]\n- *R\u00e9gion*: reg_nom[text]\n- *Code pays*: code_pays[int]\n- *Mention de distribution*: mention_distribution[text]\n- *Adresse*: adresse_uai[text]\n- *Lieu dit*: lieu_dit_uai[text]\n- *Boite postale*: boite_postale_uai[text]\n- *Code postal*: code_postal_uai[text]\n- *Localit\u00e9*: localite_acheminement_uai[text]\n- *Pays*: pays_etranger_acheminement[text]\n- *Code type*: type_uai[text]\n- *Code nature*: nature_uai[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "44ff62f9-2028-4f32-a131-7511950eb8a7",
+      "last_modified": "2017-10-31T17:09:55",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/44ff62f9-2028-4f32-a131-7511950eb8a7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T06:23:06.588000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/implantations-des-etablissements-denseignement-superieur-publics/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:23:06.588000",
+      "description": "- *Localisation*: localisation[text]\n- *Etablissement si\u00e8ge*: siege_lib[text]\n- *type de l'\u00e9tablissement si\u00e8ge*: type_d_etablissement[text]\n- *Implantation*: implantation_lib[text]\n- *G\u00e9olocalisation*: coordonnees[geo_point_2d]\n- *Nature*: bcnag_n_nature_uai_libelle_editi[text]\n- *Service*: services[text]\n- *Date d'ouverture*: date_ouverture[date]\n- *Effectif d'\u00e9tudiants inscrits*: effectif[int] Donn\u00e9es \n- *Type*: bcnag_n_type_uai_libelle_edition[text]\n- *Code de l'implantation*: uai[text] Code UAI\n- *Code de l'unit\u00e9 de rattachement*: ur[text]\n- *Unit\u00e9 de rattachement*: ur_lib[text]\n- *Code de l'\u00e9tablissement si\u00e8ge*: etablissement_uai[text]\n- *sigle de l'\u00e9tablissement si\u00e8ge*: sigle[text]\n- *Identifiant ETER*: identifiant_eter[text]\n- *Identifiant wikidata*: identifiant_wikidata[text]\n- *El\u00e9ment wikidata*: element_wikidata[text]\n- *Identifiant GRID*: identifiant_grid[text]\n- *element_grid*: element_grid[text]\n- *Code commune*: com_code[text]\n- *Commune*: com_nom[text]\n- *Code unit\u00e9 urbaine*: uucr_id[text]\n- *Unit\u00e9 urbaine*: uucr_nom[text]\n- *Code d\u00e9partement*: dep_id[text]\n- *D\u00e9partement*: dep_nom[text]\n- *Code acad\u00e9mie*: aca_id[text]\n- *Acad\u00e9mie*: aca_nom[text]\n- *Code r\u00e9gion*: reg_id[text]\n- *R\u00e9gion*: reg_nom[text]\n- *Code pays*: code_pays[int]\n- *Mention de distribution*: mention_distribution[text]\n- *Adresse*: adresse_uai[text]\n- *Lieu dit*: lieu_dit_uai[text]\n- *Boite postale*: boite_postale_uai[text]\n- *Code postal*: code_postal_uai[text]\n- *Localit\u00e9*: localite_acheminement_uai[text]\n- *Pays*: pays_etranger_acheminement[text]\n- *Code type*: type_uai[text]\n- *Code nature*: nature_uai[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "e1036c85-13d5-4038-b738-d6141389706d",
+      "last_modified": "2017-10-31T17:09:55",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e1036c85-13d5-4038-b738-d6141389706d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T06:23:06.588000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.iledefrance.fr//explore/dataset/implantations-des-etablissements-denseignement-superieur-publics/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "implantations-des-etablissements-denseignement-superieur-publics-1",
+  "spatial": null,
+  "tags": [
+    "ecoles",
+    "enseignement-formation-recherche",
+    "enseignement-superieur",
+    "geolocalisation",
+    "rediffusion",
+    "universite"
+  ],
+  "temporal_coverage": null,
+  "title": "Implantations des \u00e9tablissements d'enseignement sup\u00e9rieur publics",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/implantations-des-etablissements-denseignement-superieur-publics-1/"
+}

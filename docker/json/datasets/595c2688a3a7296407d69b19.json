@@ -1,0 +1,145 @@
+{
+  "badges": [],
+  "created_at": "2017-07-05T01:36:40.370000",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es contient des informations sur les zones de collecte des ordures m\u00e9nag\u00e8res \u00e0 Issy-les-Moulineaux.",
+  "extras": {
+    "harvest:domain": "data.issy.com",
+    "harvest:last_update": "2017-11-27T05:04:52.698753",
+    "harvest:remote_id": "zones-de-collecte-des-ordures-menageres",
+    "harvest:source_id": "595c266188ee382c7517add5",
+    "ods:has_records": true,
+    "ods:url": "https://data.issy.com//explore/dataset/zones-de-collecte-des-ordures-menageres/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "595c2688a3a7296407d69b19",
+  "last_modified": "2017-11-27T05:04:52.701000",
+  "last_update": "2017-11-27T05:04:52.698000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb7a3a7292c64a78145",
+    "logo": "https://www.data.gouv.fr/s/avatars/b9/beecacecbd4d42ac10ef244f11e44e-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b9/beecacecbd4d42ac10ef244f11e44e-100.png",
+    "name": "Ville d'Issy-les-Moulineaux",
+    "page": "https://www.data.gouv.fr/fr/organizations/ville-d-issy-les-moulineaux/",
+    "slug": "ville-d-issy-les-moulineaux",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ville-d-issy-les-moulineaux/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/collecte-des-ordures-menageres/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:04:52.697000",
+      "description": "- *Jours de collecte des ordures m\u00e9nag\u00e8res*: secteur[text]\n- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *OBJECTID*: objectid[int]\n- *CODE_INSEE*: code_insee[text]\n- *CODE_POST*: code_post[text]\n- *SHAPE_AREA*: shape_area[double]\n- *SHAPE_LEN*: shape_len[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "4bed0184-d61a-465a-abac-67cb226c5826",
+      "last_modified": "2016-06-15T09:01:47",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4bed0184-d61a-465a-abac-67cb226c5826",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:04:52.697000",
+      "title": "Export au format CSV",
+      "url": "https://data.issy.com//explore/dataset/zones-de-collecte-des-ordures-menageres/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:04:52.697000",
+      "description": "- *Jours de collecte des ordures m\u00e9nag\u00e8res*: secteur[text]\n- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *OBJECTID*: objectid[int]\n- *CODE_INSEE*: code_insee[text]\n- *CODE_POST*: code_post[text]\n- *SHAPE_AREA*: shape_area[double]\n- *SHAPE_LEN*: shape_len[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "9638eb9c-f662-44af-9fae-836889644cb1",
+      "last_modified": "2016-06-15T09:01:47",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9638eb9c-f662-44af-9fae-836889644cb1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:04:52.697000",
+      "title": "Export au format JSON",
+      "url": "https://data.issy.com//explore/dataset/zones-de-collecte-des-ordures-menageres/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:04:52.697000",
+      "description": "- *Jours de collecte des ordures m\u00e9nag\u00e8res*: secteur[text]\n- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *OBJECTID*: objectid[int]\n- *CODE_INSEE*: code_insee[text]\n- *CODE_POST*: code_post[text]\n- *SHAPE_AREA*: shape_area[double]\n- *SHAPE_LEN*: shape_len[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "884ce70a-f63e-4b63-b5ac-8343af8ec37a",
+      "last_modified": "2016-06-15T09:01:47",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/884ce70a-f63e-4b63-b5ac-8343af8ec37a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:04:52.697000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.issy.com//explore/dataset/zones-de-collecte-des-ordures-menageres/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:04:52.698000",
+      "description": "- *Jours de collecte des ordures m\u00e9nag\u00e8res*: secteur[text]\n- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *OBJECTID*: objectid[int]\n- *CODE_INSEE*: code_insee[text]\n- *CODE_POST*: code_post[text]\n- *SHAPE_AREA*: shape_area[double]\n- *SHAPE_LEN*: shape_len[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "f2cb3e86-b9b3-4b97-92f4-d76073dec3be",
+      "last_modified": "2016-06-15T09:01:47",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f2cb3e86-b9b3-4b97-92f4-d76073dec3be",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:04:52.698000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.issy.com//explore/dataset/zones-de-collecte-des-ordures-menageres/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "collecte-des-ordures-menageres",
+  "spatial": null,
+  "tags": [
+    "collecte",
+    "environnement",
+    "ordures-menageres",
+    "proprete"
+  ],
+  "temporal_coverage": null,
+  "title": "Collecte des ordures m\u00e9nag\u00e8res",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/collecte-des-ordures-menageres/"
+}

@@ -1,0 +1,167 @@
+{
+  "badges": [],
+  "created_at": "2016-07-13T20:56:35.186000",
+  "deleted": null,
+  "description": "Localisation des murettes anti crue class\u00e9es\n\n* * *\n\nCes donn\u00e9es permettent de localiser les murettes anti-crue class\u00e9es au titre de la s\u00e9curit\u00e9 publique des digues fluviales.",
+  "extras": {
+    "harvest:domain": "opendata.hauts-de-seine.fr",
+    "harvest:last_update": "2017-04-06T06:03:36.594276",
+    "harvest:remote_id": "murettes-anti-crue-classees",
+    "harvest:source_id": "5731a6d688ee38379cd1b934",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.hauts-de-seine.fr//explore/dataset/murettes-anti-crue-classees/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "57868ee3a3a7295d371add27",
+  "last_modified": "2017-04-06T06:03:36.597000",
+  "last_update": "2017-04-06T06:03:36.593000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "544e1b0888ee38289ae1ed05",
+    "logo": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-100.jpg",
+    "name": "Hauts-de-Seine le D\u00e9partement",
+    "page": "https://www.data.gouv.fr/fr/organizations/hauts-de-seine-le-departement/",
+    "slug": "hauts-de-seine-le-departement",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/hauts-de-seine-le-departement/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/murettes-anti-crue-classees/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T06:03:36.592000",
+      "description": "- *TRONCON*: troncon[text] Code du tron\u00e7on de murette (G signifie rive Gauche et D signifie rive droite)\n- *ETAT*: etat[text] Existence de la murette (existant, existant b\u00e9ton, projet)\n- *LONGUEUR*: st_length_shape[double] Longueur du tron\u00e7on de murette en m\u00e8tres (m\u00e8tres)\n- *geo_shape*: geo_shape[geo_shape] G\u00e9om\u00e9trie de l'entit\u00e9 au format GeoJSON\n- *geo_point_2d*: geo_point_2d[geo_point_2d] Coordonn\u00e9es du centro\u00efde de l'entit\u00e9 (latitude, longitude en degr\u00e9s d\u00e9cimaux)\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-10T20:46:36.529000",
+        "check:status": 200,
+        "check:url": "https://opendata.hauts-de-seine.fr//explore/dataset/murettes-anti-crue-classees/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "578a9d6d-5666-43d3-b5bd-d5474c15b189",
+      "last_modified": "2012-12-16T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/578a9d6d-5666-43d3-b5bd-d5474c15b189",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-04-06T06:03:36.592000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/murettes-anti-crue-classees/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T06:03:36.592000",
+      "description": "- *TRONCON*: troncon[text] Code du tron\u00e7on de murette (G signifie rive Gauche et D signifie rive droite)\n- *ETAT*: etat[text] Existence de la murette (existant, existant b\u00e9ton, projet)\n- *LONGUEUR*: st_length_shape[double] Longueur du tron\u00e7on de murette en m\u00e8tres (m\u00e8tres)\n- *geo_shape*: geo_shape[geo_shape] G\u00e9om\u00e9trie de l'entit\u00e9 au format GeoJSON\n- *geo_point_2d*: geo_point_2d[geo_point_2d] Coordonn\u00e9es du centro\u00efde de l'entit\u00e9 (latitude, longitude en degr\u00e9s d\u00e9cimaux)\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-10T20:46:34.764000",
+        "check:status": 200,
+        "check:url": "https://opendata.hauts-de-seine.fr//explore/dataset/murettes-anti-crue-classees/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "44315b1e-a9a8-4967-947b-6962c6d07cb1",
+      "last_modified": "2012-12-16T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/44315b1e-a9a8-4967-947b-6962c6d07cb1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-04-06T06:03:36.592000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/murettes-anti-crue-classees/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T06:03:36.592000",
+      "description": "- *TRONCON*: troncon[text] Code du tron\u00e7on de murette (G signifie rive Gauche et D signifie rive droite)\n- *ETAT*: etat[text] Existence de la murette (existant, existant b\u00e9ton, projet)\n- *LONGUEUR*: st_length_shape[double] Longueur du tron\u00e7on de murette en m\u00e8tres (m\u00e8tres)\n- *geo_shape*: geo_shape[geo_shape] G\u00e9om\u00e9trie de l'entit\u00e9 au format GeoJSON\n- *geo_point_2d*: geo_point_2d[geo_point_2d] Coordonn\u00e9es du centro\u00efde de l'entit\u00e9 (latitude, longitude en degr\u00e9s d\u00e9cimaux)\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-10T20:46:42.741000",
+        "check:status": 200,
+        "check:url": "https://opendata.hauts-de-seine.fr//explore/dataset/murettes-anti-crue-classees/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "254e8f35-e815-47ca-b06a-aa5ebb79095d",
+      "last_modified": "2012-12-16T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/254e8f35-e815-47ca-b06a-aa5ebb79095d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-04-06T06:03:36.592000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/murettes-anti-crue-classees/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T06:03:36.593000",
+      "description": "- *TRONCON*: troncon[text] Code du tron\u00e7on de murette (G signifie rive Gauche et D signifie rive droite)\n- *ETAT*: etat[text] Existence de la murette (existant, existant b\u00e9ton, projet)\n- *LONGUEUR*: st_length_shape[double] Longueur du tron\u00e7on de murette en m\u00e8tres (m\u00e8tres)\n- *geo_shape*: geo_shape[geo_shape] G\u00e9om\u00e9trie de l'entit\u00e9 au format GeoJSON\n- *geo_point_2d*: geo_point_2d[geo_point_2d] Coordonn\u00e9es du centro\u00efde de l'entit\u00e9 (latitude, longitude en degr\u00e9s d\u00e9cimaux)\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-10T20:46:41.534000",
+        "check:status": 200,
+        "check:url": "https://opendata.hauts-de-seine.fr//explore/dataset/murettes-anti-crue-classees/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "49e3cad0-650e-4642-a15e-0c1ed4289538",
+      "last_modified": "2012-12-16T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/49e3cad0-650e-4642-a15e-0c1ed4289538",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-04-06T06:03:36.593000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/murettes-anti-crue-classees/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "murettes-anti-crue-classees",
+  "spatial": null,
+  "tags": [
+    "crues",
+    "equipement-services",
+    "inondations",
+    "murettes",
+    "seine"
+  ],
+  "temporal_coverage": null,
+  "title": "Murettes anti-crue class\u00e9es",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/murettes-anti-crue-classees/"
+}

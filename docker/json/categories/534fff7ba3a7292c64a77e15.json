@@ -1,0 +1,81 @@
+{
+  "acronym": null,
+  "badges": [
+    {
+      "kind": "public-service"
+    },
+    {
+      "kind": "certified"
+    }
+  ],
+  "created_at": "2014-04-17T18:21:15.569000",
+  "deleted": null,
+  "description": "La HAS est une autorit\u00e9 publique ind\u00e9pendante qui contribue \u00e0 la r\u00e9gulation du syst\u00e8me de sant\u00e9 par la qualit\u00e9. \nElle exerce ses missions dans les champs de l'\u00e9valuation des produits de sant\u00e9, des pratiques professionnelles, de l\u2019organisation des soins et de la sant\u00e9 publique.\n\nCes missions sont d\u00e9finies aux articles 161-37 et suivants du code de la s\u00e9curit\u00e9 sociale. Elles peuvent \u00eatre regroup\u00e9es en deux activit\u00e9s principales : \u00c9valuation et recommandation, et accr\u00e9ditation et certification.\n\nLa HAS con\u00e7oit et met \u00e9galement \u00e0 disposition des acteurs de sant\u00e9 des outils, guides et m\u00e9thodes afin d\u2019am\u00e9liorer leur prise en charge ou la mise en \u0153uvre de leurs projets.\n\nEn savoir plus : www.has-sante.fr\n",
+  "id": "534fff7ba3a7292c64a77e15",
+  "last_modified": "2017-11-27T10:25:43.417000",
+  "logo": "https://www.data.gouv.fr/s/avatars/fd/a753642943453eaa9cc5ae003c0edd-original.jpg",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/fd/a753642943453eaa9cc5ae003c0edd-100.jpg",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/5c/732ca2ab544c26aeb1529512d743ca-original.png",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/5c/732ca2ab544c26aeb1529512d743ca-100.png",
+        "class": "User",
+        "first_name": "Georges",
+        "id": "57ed3f4788ee387cb35ff490",
+        "last_name": "Dutreix",
+        "page": "https://www.data.gouv.fr/fr/users/georges-dutreix/",
+        "slug": "georges-dutreix",
+        "uri": "https://www.data.gouv.fr/api/1/users/georges-dutreix/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Gersende",
+        "id": "5a006a2e88ee3858ea7f6308",
+        "last_name": "GEORG",
+        "page": "https://www.data.gouv.fr/fr/users/gersende-georg/",
+        "slug": "gersende-georg",
+        "uri": "https://www.data.gouv.fr/api/1/users/gersende-georg/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Benoit",
+        "id": "5a017b2788ee3807045da39d",
+        "last_name": "Couderc",
+        "page": "https://www.data.gouv.fr/fr/users/benoit-couderc/",
+        "slug": "benoit-couderc",
+        "uri": "https://www.data.gouv.fr/api/1/users/benoit-couderc/"
+      }
+    }
+  ],
+  "metrics": {
+    "dataset_views": 317,
+    "datasets": 10,
+    "followers": 45,
+    "members": 3,
+    "nb_hits": 2,
+    "nb_uniq_visitors": 1,
+    "nb_visits": 1,
+    "permitted_reuses": 1,
+    "resource_downloads": 26,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 3729
+  },
+  "name": "Haute Autorit\u00e9 de sant\u00e9 (HAS)",
+  "page": "https://www.data.gouv.fr/fr/organizations/haute-autorite-de-sante-has/",
+  "slug": "haute-autorite-de-sante-has",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/haute-autorite-de-sante-has/",
+  "url": "https://www.has-sante.fr/"
+}

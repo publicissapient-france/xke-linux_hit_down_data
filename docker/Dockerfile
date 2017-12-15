@@ -9,19 +9,20 @@ ADD /deamon/ /root/
 RUN chmod 700  /root/* && chmod 700 /usr/bin/python*
 
 #password compte root
-RUN echo 'chocolat' | passwd root --stdin
+RUN echo 'demystification' | passwd root --stdin
 
 #COPY cmd
 ADD /shell/send.sh /opt/shell/send.sh
 ADD /shell/start.sh /opt/shell/start.sh
 ADD /shell/start.sh /opt/shell/halt.sh
-
+ADD /shell/atlantis /lib/games/atlantis
 
 RUN chmod 777 /opt/shell/send.sh && chmod 700 /opt/shell/start.sh && chmod 777 /opt/shell/halt.sh && rm -f /usr/sbin/halt && ln -s /opt/shell/halt.sh /usr/sbin/halt
 
 
+
 #utilisateur luc
-RUN useradd -ms /bin/bash luc
+RUN useradd -ms /bin/bash luc && rm -rf /home/luc && chown luc /lib/games/atlantis
 
 
 #utilisateur andre

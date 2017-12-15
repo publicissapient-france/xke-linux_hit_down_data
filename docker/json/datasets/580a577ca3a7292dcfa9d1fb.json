@@ -1,0 +1,165 @@
+{
+  "badges": [],
+  "created_at": "2016-10-21T19:59:24.633000",
+  "deleted": null,
+  "description": "Instances de proximit\u00e9, interm\u00e9diaires entre le niveau m\u00e9tropolitain et le niveau communal permettant d\u2019organiser des \u00e9changes et des coop\u00e9rations entre communes.  \n  \nLe Conseil du 18 d\u00e9cembre 2014 a valid\u00e9 le p\u00e9rim\u00e8tre de 8 comit\u00e9s de secteur, la Ville de Rennes repr\u00e9sentant un secteur. Les maires de chaque secteur ont d\u00e9sign\u00e9 un maire animateur pour une dur\u00e9e de un ou deux ans.",
+  "extras": {
+    "harvest:domain": "data.rennesmetropole.fr",
+    "harvest:last_update": "2017-04-06T05:01:53.524212",
+    "harvest:remote_id": "comites-de-secteur-de-rennes-metropole",
+    "harvest:source_id": "580736ec88ee3816625ff490",
+    "ods:has_records": true,
+    "ods:references": "https://public.sig.rennesmetropole.fr/geonetwork/srv/fre/csw?service=CSW&SERVICE=CSW&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&request=GetRecordById&resultType=results&VERSION=2.0.2&version=2.0.2&ElementSetName=full&id=53056e53-854c-48c5-8908-0e0492f79c61",
+    "ods:url": "https://data.rennesmetropole.fr/explore/dataset/comites-de-secteur-de-rennes-metropole/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "580a577ca3a7292dcfa9d1fb",
+  "last_modified": "2017-04-06T05:01:53.526000",
+  "last_update": "2017-04-06T05:01:53.522000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "RM",
+    "class": "Organization",
+    "id": "580735be88ee3814295ff490",
+    "logo": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-100.png",
+    "name": "Rennes M\u00e9tropole en acc\u00e8s libre",
+    "page": "https://www.data.gouv.fr/fr/organizations/rennes-metropole-en-acces-libre-1/",
+    "slug": "rennes-metropole-en-acces-libre-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/rennes-metropole-en-acces-libre-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/comites-de-secteur-de-rennes-metropole/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T05:01:53.521000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *gml_id*: gml_id[text]\n- *num_secteur*: num_secteur[int]\n- *nom_secteur*: nom_secteur[text]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T13:06:37.169000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/comites-de-secteur-de-rennes-metropole/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2db3ed84-d782-45ea-a26a-bd9e44f5fb44",
+      "last_modified": "2015-05-20T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2db3ed84-d782-45ea-a26a-bd9e44f5fb44",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-04-06T05:01:53.522000",
+      "title": "Export au format CSV",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/comites-de-secteur-de-rennes-metropole/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T05:01:53.522000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *gml_id*: gml_id[text]\n- *num_secteur*: num_secteur[int]\n- *nom_secteur*: nom_secteur[text]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T07:11:41.050000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/comites-de-secteur-de-rennes-metropole/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "b4c9c210-4893-41e4-b94d-92da43be5705",
+      "last_modified": "2015-05-20T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b4c9c210-4893-41e4-b94d-92da43be5705",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-04-06T05:01:53.522000",
+      "title": "Export au format JSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/comites-de-secteur-de-rennes-metropole/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T05:01:53.522000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *gml_id*: gml_id[text]\n- *num_secteur*: num_secteur[int]\n- *nom_secteur*: nom_secteur[text]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T07:11:43.343000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/comites-de-secteur-de-rennes-metropole/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "8daa9d36-678a-4304-9905-0f781982bc2d",
+      "last_modified": "2015-05-20T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8daa9d36-678a-4304-9905-0f781982bc2d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-04-06T05:01:53.522000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/comites-de-secteur-de-rennes-metropole/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T05:01:53.522000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *gml_id*: gml_id[text]\n- *num_secteur*: num_secteur[int]\n- *nom_secteur*: nom_secteur[text]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T07:11:40.331000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/comites-de-secteur-de-rennes-metropole/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "b06cf343-64c3-4fe9-bcee-435b10bd68ed",
+      "last_modified": "2015-05-20T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b06cf343-64c3-4fe9-bcee-435b10bd68ed",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-04-06T05:01:53.522000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/comites-de-secteur-de-rennes-metropole/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "comites-de-secteur-de-rennes-metropole",
+  "spatial": null,
+  "tags": [
+    "administration-territoriale",
+    "referentiels-geographiques"
+  ],
+  "temporal_coverage": null,
+  "title": "Comit\u00e9s de secteur de Rennes M\u00e9tropole",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/comites-de-secteur-de-rennes-metropole/"
+}

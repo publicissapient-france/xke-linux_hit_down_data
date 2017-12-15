@@ -1,0 +1,228 @@
+{
+  "badges": [],
+  "created_at": "2017-09-29T00:00:00",
+  "deleted": null,
+  "description": "En Aquitaine, AIRAQ est en charge de la surveillance de la qualit\u00e9 de l\u2019air. Le dispositif mis en place permet ainsi de connaitre en permanence les concentrations relev\u00e9es dans l\u2019air ambiant.\n\nAIRAQ a souhait\u00e9 s\u2019initier dans la d\u00e9marche \u00ab inventaire \u00bb car cet outil s\u2019av\u00e8re \u00eatre pr\u00e9cieux dans le cadre des missions des AASQA. En effet, poss\u00e9der un inventaire des \u00e9missions permet de r\u00e9pondre plus pr\u00e9cis\u00e9ment \u00e0 la mission de surveillance de la pollution atmosph\u00e9rique. Cette donn\u00e9e est n\u00e9cessaire pour une meilleure mod\u00e9lisation de la qualit\u00e9 de l\u2019air \u00e0 l\u2019\u00e9chelle r\u00e9gionale.",
+  "extras": {
+    "ckan:name": "surveillance-de-la-qualite-de-lair-station-proximite-automobile-de-bordeaux-gambetta",
+    "contact_email": "mailto:contact@airaq-asso.fr",
+    "contact_name": "Service de publication",
+    "contact_uri": "https://datacat.datalocale.fr/415000",
+    "guid": "https://datacat.datalocale.fr/416367",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-10-02T07:52:35.838789",
+    "harvest:remote_id": "083e09a2-1ce8-46c8-9ecd-a8a4dcf51592",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "f451e0f8-a391-44f1-b46d-8286bdac9c15",
+    "issued": "2013-03-12T17:18:26+00:00",
+    "modified": "2016-07-18T09:21:06.804953+00:00",
+    "remote_url": "http://www.airaq.asso.fr/mesures/20-consultation-des-mesures.html",
+    "theme": "[\"pollution automobile\"]",
+    "uri": "https://datacat.datalocale.fr/416367"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59cf1b47b59508043ce9b87e",
+  "last_modified": "2017-10-02T07:52:35.841000",
+  "last_update": "2017-10-02T07:52:35.837000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/surveillance-de-la-qualite-de-lair-station-proximite-automobile-de-bordeaux-gambetta-1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:19:19.568000",
+      "description": "export en csv encod\u00e9 en UTF-8 des mesures de qualit\u00e9 de l'air effectu\u00e9es dans la station de proximit\u00e9 automobile de l'agglom\u00e9ration de Bordeaux pour la p\u00e9riode de l'ann\u00e9e 2012. Les polluants mesur\u00e9s sont PM10, NOx, NO2, NO",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T20:24:02.353000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416369/raw/gambetta-airaq-pm2-no-co_2012.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "4bdaa0c8-2a20-46a2-ad9a-08df709121fb",
+      "last_modified": "2017-09-30T06:19:19.568000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4bdaa0c8-2a20-46a2-ad9a-08df709121fb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-30T06:19:19.568000",
+      "title": "gambetta-airaq-pm2-no-co_2012.csv",
+      "url": "https://datacat.datalocale.fr/file/416369/raw/gambetta-airaq-pm2-no-co_2012.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:19:19.568000",
+      "description": "export en csv encod\u00e9 en UTF-8 des mesures de qualit\u00e9 de l'air effectu\u00e9es dans la station de proximit\u00e9 automobile de l'agglom\u00e9ration de Bordeaux pour la p\u00e9riode des 6 premiers mois de l'ann\u00e9e 2013. Les polluants mesur\u00e9s sont PM10, NOx, NO2, NO",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-05T22:34:53.453000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416371/raw/gambettaPM-NO_01-06_2013.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "dea1a7bd-3efa-4779-9693-d53a01c4d048",
+      "last_modified": "2017-09-30T06:19:19.568000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/dea1a7bd-3efa-4779-9693-d53a01c4d048",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-30T06:19:19.568000",
+      "title": "gambettaPM-NO_01-06_2013.csv",
+      "url": "https://datacat.datalocale.fr/file/416371/raw/gambettaPM-NO_01-06_2013.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-01T06:09:13.867000",
+      "description": "export en csv encod\u00e9 en UTF-8 des mesures de qualit\u00e9 de l'air effectu\u00e9es dans la station de proximit\u00e9 automobile de l'agglom\u00e9ration de Bordeaux pour la p\u00e9riode de l'ann\u00e9e 2012. Les polluants mesur\u00e9s sont PM10, NOx, NO2, NO",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-05T22:34:55.081000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416369/raw/gambetta-airaq-pm2-no-co_2012.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "0807811f-80c7-40a3-9251-8f6f6fd06b62",
+      "last_modified": "2017-10-01T06:09:13.867000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0807811f-80c7-40a3-9251-8f6f6fd06b62",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-01T06:09:13.867000",
+      "title": "gambetta-airaq-pm2-no-co_2012.csv",
+      "url": "https://datacat.datalocale.fr/file/416369/raw/gambetta-airaq-pm2-no-co_2012.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-01T06:09:13.868000",
+      "description": "export en csv encod\u00e9 en UTF-8 des mesures de qualit\u00e9 de l'air effectu\u00e9es dans la station de proximit\u00e9 automobile de l'agglom\u00e9ration de Bordeaux pour la p\u00e9riode des 6 premiers mois de l'ann\u00e9e 2013. Les polluants mesur\u00e9s sont PM10, NOx, NO2, NO",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-05T22:34:53.453000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416371/raw/gambettaPM-NO_01-06_2013.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "af7c19f9-e80b-4934-8914-97d9925edd43",
+      "last_modified": "2017-10-01T06:09:13.868000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/af7c19f9-e80b-4934-8914-97d9925edd43",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-01T06:09:13.868000",
+      "title": "gambettaPM-NO_01-06_2013.csv",
+      "url": "https://datacat.datalocale.fr/file/416371/raw/gambettaPM-NO_01-06_2013.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-02T07:52:35.837000",
+      "description": "export en csv encod\u00e9 en UTF-8 des mesures de qualit\u00e9 de l'air effectu\u00e9es dans la station de proximit\u00e9 automobile de l'agglom\u00e9ration de Bordeaux pour la p\u00e9riode de l'ann\u00e9e 2012. Les polluants mesur\u00e9s sont PM10, NOx, NO2, NO",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-11T16:12:02.753000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416369/raw/gambetta-airaq-pm2-no-co_2012.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "cb1327b1-7386-4dc4-939f-20bae8b602ef",
+      "last_modified": "2017-10-02T07:52:35.837000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cb1327b1-7386-4dc4-939f-20bae8b602ef",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-02T07:52:35.837000",
+      "title": "gambetta-airaq-pm2-no-co_2012.csv",
+      "url": "https://datacat.datalocale.fr/file/416369/raw/gambetta-airaq-pm2-no-co_2012.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-02T07:52:35.837000",
+      "description": "export en csv encod\u00e9 en UTF-8 des mesures de qualit\u00e9 de l'air effectu\u00e9es dans la station de proximit\u00e9 automobile de l'agglom\u00e9ration de Bordeaux pour la p\u00e9riode des 6 premiers mois de l'ann\u00e9e 2013. Les polluants mesur\u00e9s sont PM10, NOx, NO2, NO",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-11T16:12:02.771000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416371/raw/gambettaPM-NO_01-06_2013.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e8eb4b92-0998-49f0-a55f-ac38a571c097",
+      "last_modified": "2017-10-02T07:52:35.837000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e8eb4b92-0998-49f0-a55f-ac38a571c097",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-02T07:52:35.837000",
+      "title": "gambettaPM-NO_01-06_2013.csv",
+      "url": "https://datacat.datalocale.fr/file/416371/raw/gambettaPM-NO_01-06_2013.csv"
+    }
+  ],
+  "slug": "surveillance-de-la-qualite-de-lair-station-proximite-automobile-de-bordeaux-gambetta-1",
+  "spatial": null,
+  "tags": [
+    "air",
+    "circulation",
+    "environnement",
+    "pollution"
+  ],
+  "temporal_coverage": null,
+  "title": "Surveillance de la qualit\u00e9 de l\u2019air station proximit\u00e9 automobile de Bordeaux Gambetta",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/surveillance-de-la-qualite-de-lair-station-proximite-automobile-de-bordeaux-gambetta-1/"
+}

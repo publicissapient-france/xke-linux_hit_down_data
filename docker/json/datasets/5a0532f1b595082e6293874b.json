@@ -1,0 +1,180 @@
+{
+  "badges": [],
+  "created_at": "2017-11-09T00:00:00",
+  "deleted": null,
+  "description": "Liste des artisans d\u2019art en Aquitaine, issue de la base de donn\u00e9es SIRTAQUI.\n\nCe fichier contient les informations de g\u00e9olocalisation et de contact, les informations sur l\u2019activit\u00e9, les marques et labels, les conditions d\u2019ouverture et de visites, les tarifs, les \u00e9quipements et les services propos\u00e9s.",
+  "extras": {
+    "ckan:name": "liste-des-artisans-dart-en-aquitaine",
+    "contact_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "contact_name": "CRTA",
+    "contact_uri": "https://datacat.datalocale.fr/414593",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
+    "guid": "https://datacat.datalocale.fr/415976",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-11-14T05:15:34.540254",
+    "harvest:remote_id": "16a6caf1-058a-449b-a528-7b9da1aea5a1",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "b19aecb1-ad06-4620-8fa3-3fa69bd81d37",
+    "issued": "2014-12-24T08:23:10+00:00",
+    "modified": "2016-07-18T09:21:07.089247+00:00",
+    "publisher_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "publisher_name": "agence SIRTAQUI",
+    "publisher_type": "\"Organisation \u00e0 but non lucratif\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414592",
+    "remote_url": "http://www.sirtaqui-aquitaine.com",
+    "theme": "[\"tourisme\"]",
+    "uri": "https://datacat.datalocale.fr/415976"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5a0532f1b595082e6293874b",
+  "last_modified": "2017-11-14T05:15:34.542000",
+  "last_update": "2017-11-10T06:02:41.794000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-artisans-dart-en-aquitaine-4/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-10T06:02:41.792000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-18T13:40:19.907000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/415979"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "36294684-d010-404d-80c0-64209502e446",
+      "last_modified": "2017-11-14T05:15:34.539000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/36294684-d010-404d-80c0-64209502e446",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-10T06:02:41.792000",
+      "title": "description des champs de jeux de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/415979"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-10T06:02:41.793000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-11-18T13:40:18.961000",
+        "check:status": 501,
+        "check:url": "http://wcf.tourinsoft.com/Syndication/aquitaine/dfed87aa-5bab-44b6-a61e-5bd11c6df05b/Objects?$format=json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "43d61425-f1d8-4f4f-bc02-42cfb7c78e55",
+      "last_modified": "2017-11-14T05:15:34.539000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/43d61425-f1d8-4f4f-bc02-42cfb7c78e55",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-10T06:02:41.793000",
+      "title": "flux de consommation des donn\u00e9es temps r\u00e9el",
+      "url": "http://wcf.tourinsoft.com/Syndication/aquitaine/dfed87aa-5bab-44b6-a61e-5bd11c6df05b/Objects?$format=json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-10T06:02:41.793000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-18T13:40:19.740000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/distribution/496081/raw/liste-csv-artisans-art-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "fd67ad9c-60f3-472f-abd1-c297724197aa",
+      "last_modified": "2017-11-14T05:15:34.539000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fd67ad9c-60f3-472f-abd1-c297724197aa",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-10T06:02:41.793000",
+      "title": "liste-csv-artisans-art-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/distribution/496081/raw/liste-csv-artisans-art-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-10T06:02:41.794000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-18T13:40:19.740000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/distribution/1902695/raw/liste-xml-artisans-art-aquitaine.xml"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "e3c46ef2-bcd9-485c-b448-00f99311e927",
+      "last_modified": "2017-11-14T05:15:34.539000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e3c46ef2-bcd9-485c-b448-00f99311e927",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/xml",
+      "published": "2017-11-10T06:02:41.794000",
+      "title": "liste-xml-artisans-art-aquitaine.xml",
+      "url": "https://datacat.datalocale.fr/distribution/1902695/raw/liste-xml-artisans-art-aquitaine.xml"
+    }
+  ],
+  "slug": "liste-des-artisans-dart-en-aquitaine-4",
+  "spatial": null,
+  "tags": [
+    "art",
+    "artisanat",
+    "culture",
+    "patrimoine",
+    "tourisme"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des artisans d'art en Aquitaine",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-artisans-dart-en-aquitaine-4/"
+}

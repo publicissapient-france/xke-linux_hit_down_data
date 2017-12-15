@@ -1,0 +1,167 @@
+{
+  "badges": [],
+  "created_at": "2016-07-06T09:57:00.629000",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es pr\u00e9sente l'historique annuel depuis 1990 des structures de recherche publiques r\u00e9f\u00e9renc\u00e9es dans le r\u00e9pertoire national des structures de recherche (RNSR). Il inclut les changements potentiels de tutelle au cours de l'existence d'une structure de recherche.",
+  "extras": {},
+  "frequency": "punctual",
+  "frequency_date": "2016-07-06T00:00:00",
+  "id": "577cb9ccc751df340c9901a0",
+  "last_modified": "2016-07-06T10:03:35.019000",
+  "last_update": "2016-07-06T00:00:00",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 1,
+    "views": 2
+  },
+  "organization": {
+    "acronym": "MESRI",
+    "class": "Organization",
+    "id": "534fff90a3a7292c64a77f45",
+    "logo": "https://www.data.gouv.fr/s/avatars/00/933e61180545a6a4c5afa4f6077183-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/00/933e61180545a6a4c5afa4f6077183-100.jpg",
+    "name": "Minist\u00e8re de l'Enseignement sup\u00e9rieur, de la Recherche et de l'Innovation",
+    "page": "https://www.data.gouv.fr/fr/organizations/enseignement-superieur-et-recherche/",
+    "slug": "enseignement-superieur-et-recherche",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/enseignement-superieur-et-recherche/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/repertoire-national-des-structures-de-recherche-historique-annuel/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2016-07-06T10:01:19.017000",
+      "description": "Format XLS",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T07:47:46.910000",
+        "check:status": 200,
+        "check:url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-repertoire-national-structures-recherche-historique-annuel/download/?format=xls&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xls",
+      "id": "8f5e2796-e465-4764-b82a-b31dcab48ec9",
+      "last_modified": "2016-07-06T10:01:19.017000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8f5e2796-e465-4764-b82a-b31dcab48ec9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 20
+      },
+      "mime": null,
+      "published": "2016-07-06T00:00:00",
+      "title": "Format XLS",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-repertoire-national-structures-recherche-historique-annuel/download/?format=xls&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2016-07-06T10:00:41.192000",
+      "description": "Format JSON",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T07:47:46.916000",
+        "check:status": 200,
+        "check:url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-repertoire-national-structures-recherche-historique-annuel/download/?format=json&timezone=Europe/Berlin"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "a6304f0f-b859-4214-b402-84a1976e8ad3",
+      "last_modified": "2016-07-06T10:00:41.192000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a6304f0f-b859-4214-b402-84a1976e8ad3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2016-07-06T00:00:00",
+      "title": "Format JSON",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-repertoire-national-structures-recherche-historique-annuel/download/?format=json&timezone=Europe/Berlin"
+    },
+    {
+      "checksum": null,
+      "created_at": "2016-07-06T09:59:54.567000",
+      "description": "Format CSV",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T07:47:46.910000",
+        "check:status": 200,
+        "check:url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-repertoire-national-structures-recherche-historique-annuel/download/?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "bfe3f131-c49a-4d8e-88bb-1bdfbba55b9d",
+      "last_modified": "2016-07-06T09:59:54.567000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/bfe3f131-c49a-4d8e-88bb-1bdfbba55b9d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2016-07-06T00:00:00",
+      "title": "Format CSV",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-repertoire-national-structures-recherche-historique-annuel/download/?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2016-07-06T09:57:30.506000",
+      "description": "API",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T19:26:49.885000",
+        "check:status": 200,
+        "check:url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-repertoire-national-structures-recherche-historique-annuel/api/?disjunctive.tutelles"
+      },
+      "filesize": null,
+      "filetype": "api",
+      "format": null,
+      "id": "a33f3261-1fff-4a32-bab0-296e8c559b37",
+      "last_modified": "2016-07-06T09:57:30.506000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a33f3261-1fff-4a32-bab0-296e8c559b37",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2016-07-06T00:00:00",
+      "title": "API",
+      "url": "http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-repertoire-national-structures-recherche-historique-annuel/api/?disjunctive.tutelles"
+    }
+  ],
+  "slug": "repertoire-national-des-structures-de-recherche-historique-annuel",
+  "spatial": {
+    "geom": null,
+    "granularity": "poi",
+    "zones": [
+      "country:fr"
+    ]
+  },
+  "tags": [
+    "laboratoire",
+    "laboratoires",
+    "recherche",
+    "repertoire-national-des-structur",
+    "rnsr",
+    "structure-de-recherche"
+  ],
+  "temporal_coverage": null,
+  "title": "R\u00e9pertoire national des structures de recherche - Historique annuel",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/repertoire-national-des-structures-de-recherche-historique-annuel/"
+}

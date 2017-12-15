@@ -1,0 +1,193 @@
+{
+  "acronym": null,
+  "badges": [
+    {
+      "kind": "public-service"
+    },
+    {
+      "kind": "certified"
+    }
+  ],
+  "created_at": "2014-04-17T18:21:35.113000",
+  "deleted": null,
+  "description": "Le site www.education.gouv.fr propose des informations sur le fonctionnement du syst\u00e8me \u00e9ducatif, tous les niveaux d'enseignement, de la maternelle \u00e0 la terminale, les programmes, les dipl\u00f4mes, les formations, les fili\u00e8res, etc. \r\n\r\nIl donne des informations actualis\u00e9es quotidiennement sur le minist\u00e8re, sur les r\u00e9formes engag\u00e9es et la politique minist\u00e9rielle (conf\u00e9rences de presse, communiqu\u00e9s de presse, rapports, etc.). \r\n\r\nOn y trouve \u00e9galement des informations pratiques et des services (bourses, aides, modalit\u00e9s d'inscription, concours) et des renseignements sur les carri\u00e8res de l'\u00e9ducation, des ressources et des outils p\u00e9dagogiques. Cela repr\u00e9sente plus de 30 000 pages et documents.",
+  "id": "534fff8fa3a7292c64a77f22",
+  "last_modified": "2017-11-27T10:25:35.413000",
+  "logo": "https://www.data.gouv.fr/s/avatars/36/a225fd237c4159b092611b12973905-original.png",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/36/a225fd237c4159b092611b12973905-100.png",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/7e/6ca0a660fc49a88cbc3c5e6609513f-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/7e/6ca0a660fc49a88cbc3c5e6609513f-100.jpg",
+        "class": "User",
+        "first_name": "Annick",
+        "id": "534fff3ca3a7292c64a773b6",
+        "last_name": "Vialla",
+        "page": "https://www.data.gouv.fr/fr/users/annick-vialla/",
+        "slug": "annick-vialla",
+        "uri": "https://www.data.gouv.fr/api/1/users/annick-vialla/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Maryse",
+        "id": "5492ac53c751df457204805a",
+        "last_name": "LE BRAS",
+        "page": "https://www.data.gouv.fr/fr/users/maryse-le-bras/",
+        "slug": "maryse-le-bras",
+        "uri": "https://www.data.gouv.fr/api/1/users/maryse-le-bras/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Olivier",
+        "id": "550c4fedc751df523a882844",
+        "last_name": "Colas",
+        "page": "https://www.data.gouv.fr/fr/users/olivier-colas/",
+        "slug": "olivier-colas",
+        "uri": "https://www.data.gouv.fr/api/1/users/olivier-colas/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "olivier",
+        "id": "55391463c751df5f83e96a3b",
+        "last_name": "gisselbrecht",
+        "page": "https://www.data.gouv.fr/fr/users/olivier-gisselbrecht/",
+        "slug": "olivier-gisselbrecht",
+        "uri": "https://www.data.gouv.fr/api/1/users/olivier-gisselbrecht/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Claudio",
+        "id": "5556763dc751df0c77190c79",
+        "last_name": "Cimelli",
+        "page": "https://www.data.gouv.fr/fr/users/claudio-cimelli/",
+        "slug": "claudio-cimelli",
+        "uri": "https://www.data.gouv.fr/api/1/users/claudio-cimelli/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Bureau du Web",
+        "id": "55643408c751df4839c98e11",
+        "last_name": "EducationFrance",
+        "page": "https://www.data.gouv.fr/fr/users/bureau-du-web-educationfrance/",
+        "slug": "bureau-du-web-educationfrance",
+        "uri": "https://www.data.gouv.fr/api/1/users/bureau-du-web-educationfrance/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Erwan",
+        "id": "55d5d2f088ee380172a46ec1",
+        "last_name": "le Gall",
+        "page": "https://www.data.gouv.fr/fr/users/erwan-le-gall/",
+        "slug": "erwan-le-gall",
+        "uri": "https://www.data.gouv.fr/api/1/users/erwan-le-gall/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/38/2d0effeef9489fa021388781ebc60d-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/38/2d0effeef9489fa021388781ebc60d-100.jpg",
+        "class": "User",
+        "first_name": "Jean-Philippe",
+        "id": "561da56c88ee387da4628ef9",
+        "last_name": "PEALAT",
+        "page": "https://www.data.gouv.fr/fr/users/jean-philippe-pealat/",
+        "slug": "jean-philippe-pealat",
+        "uri": "https://www.data.gouv.fr/api/1/users/jean-philippe-pealat/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "sylvain",
+        "id": "566700e488ee38560faf0bf5",
+        "last_name": "pays",
+        "page": "https://www.data.gouv.fr/fr/users/sylvain-pays/",
+        "slug": "sylvain-pays",
+        "uri": "https://www.data.gouv.fr/api/1/users/sylvain-pays/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/15/fd8225da5143bb820588888db96fef-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/15/fd8225da5143bb820588888db96fef-100.jpg",
+        "class": "User",
+        "first_name": "Laurent",
+        "id": "5652f27688ee385f11e72047",
+        "last_name": "LEHOUX",
+        "page": "https://www.data.gouv.fr/fr/users/laurent-lehoux/",
+        "slug": "laurent-lehoux",
+        "uri": "https://www.data.gouv.fr/api/1/users/laurent-lehoux/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "st\u00e9phane",
+        "id": "587f81e988ee384e209b81a5",
+        "last_name": "lebrasseur",
+        "page": "https://www.data.gouv.fr/fr/users/stephane-lebrasseur/",
+        "slug": "stephane-lebrasseur",
+        "uri": "https://www.data.gouv.fr/api/1/users/stephane-lebrasseur/"
+      }
+    }
+  ],
+  "metrics": {
+    "dataset_views": 50285,
+    "datasets": 387,
+    "followers": 130,
+    "members": 11,
+    "nb_hits": 4,
+    "nb_uniq_visitors": 4,
+    "nb_visits": 4,
+    "permitted_reuses": 23,
+    "resource_downloads": 1362,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 2631
+  },
+  "name": "Education Nationale",
+  "page": "https://www.data.gouv.fr/fr/organizations/education-nationale/",
+  "slug": "education-nationale",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/education-nationale/",
+  "url": null
+}

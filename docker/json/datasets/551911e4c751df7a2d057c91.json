@@ -1,0 +1,83 @@
+{
+  "badges": [],
+  "created_at": "2015-03-30T11:05:40.392000",
+  "deleted": null,
+  "description": "**Description**\n\nIl s'agit du nombre d'actions \u00e9ducatives en milieu ouvert en cours \u00e0 l'attention d'enfants suivis dans le cadre de l'Aide Sociale \u00e0 l'Enfance reparti par commune en Seine-Saint-Denis. Il s'agit de mesures judiciaires civiles, ordonn\u00e9es par le Juge des enfants, au b\u00e9n\u00e9fice des enfants.\n\n**Sources** \n\nD\u00e9partement de la Seine-Saint-Denis - IODAS\n\n**Origine de la donn\u00e9e - Producteur** \n\nFlux manuel\n\n**Liste des colonnes**\n\n- D\u00e9partement : N\u00b0 de d\u00e9partement\n- Code commune INSEE : Code commune INSEE\n- Commune : Nom commune\n- Nb d'actions 2009 : Nombre d'actions \u00e9ducatives en 2009\n- Nb d'actions 2010 : Nombre d'actions \u00e9ducatives en 2010\n- Nb d'actions 2011 : Nombre d'actions \u00e9ducatives en 2011\n- Nb d'actions 2012 : Nombre d'actions \u00e9ducatives en 2012\n- Nb d'actions 2013 : Nombre d'actions \u00e9ducatives en 2013\n\n**Format de diffusion**\n\nCes fichiers sont propos\u00e9s sous forme de :\n\n    fichiers csv (encodage ANSI)    \n    \n**Contact**\n\nPour toute question, ou signalement d'une am\u00e9lioration, vous pouvez nous contacter sur <a href=\"mailto:data93@cg93.fr\">data93@cg93.fr</a>\n\n**Liens**\n\n- Consulter la fiche sur le <a href=\"http://data.seine-saint-denis.fr/spip.php?article180\">portail Open Data de la Seine-Saint-Denis</a>\n\n\n\n\n\n\n\n",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": "2015-10-12T00:00:00",
+  "id": "551911e4c751df7a2d057c91",
+  "last_modified": "2015-10-12T11:32:54.141000",
+  "last_update": "2015-03-30T11:05:50.099000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5457bc26c751df7378225d2e",
+    "logo": "https://www.data.gouv.fr/s/avatars/2014-11-03/1368537f4075452eb44393ea68b6bfdc/SeineSaintDenis-Logo-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-11-03/1368537f4075452eb44393ea68b6bfdc/SeineSaintDenis-Logo-100.png",
+    "name": "Seine-Saint-Denis - Le D\u00e9partement",
+    "page": "https://www.data.gouv.fr/fr/organizations/seine-saint-denis-le-departement/",
+    "slug": "seine-saint-denis-le-departement",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/seine-saint-denis-le-departement/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/nombre-dactions-educatives-en-milieu-ouvert-en-cours-par-commune/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "cd66f762bdf170d7c849583c9d0e32839a3014b7"
+      },
+      "created_at": "2015-03-30T11:05:50.098000",
+      "description": "",
+      "extras": {},
+      "filesize": 2509,
+      "filetype": "file",
+      "format": "csv",
+      "id": "819b3c87-c357-443f-b1a5-f2698ef78cf6",
+      "last_modified": "2015-03-30T11:05:50.098000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/819b3c87-c357-443f-b1a5-f2698ef78cf6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": "text/csv",
+      "published": "2015-03-30T11:05:50.099000",
+      "title": "Departement93-Protection_de_enfance_Action_educative_en_milieu_ouvert_Nombre_actions_en_cours-2009_2013.csv",
+      "url": "https://www.data.gouv.fr/s/resources/nombre-dactions-educatives-en-milieu-ouvert-en-cours-par-commune/20150330-110548/Departement93-Protection_de_enfance_Action_educative_en_milieu_ouvert_Nombre_actions_en_cours-2009_2013.csv"
+    }
+  ],
+  "slug": "nombre-dactions-educatives-en-milieu-ouvert-en-cours-par-commune",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:departement",
+    "zones": [
+      "fr:departement:93@1968-01-01"
+    ]
+  },
+  "tags": [
+    "aemo",
+    "ase",
+    "protection-de-l-enfance"
+  ],
+  "temporal_coverage": {
+    "end": "2013-12-31",
+    "start": "2009-01-01"
+  },
+  "title": "Nombre d'actions \u00e9ducatives en milieu ouvert en cours par commune",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/nombre-dactions-educatives-en-milieu-ouvert-en-cours-par-commune/"
+}

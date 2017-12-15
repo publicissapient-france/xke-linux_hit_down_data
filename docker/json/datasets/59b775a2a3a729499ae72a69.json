@@ -1,0 +1,94 @@
+{
+  "badges": [],
+  "created_at": "2017-09-11T00:00:00",
+  "deleted": null,
+  "description": "Ont particip\u00e9 \u00e0 la constitution de cette base de donn\u00e9es : RAUDIN, AEC\n\n\u00c9chantillon de 661 sites web (200 nouveaux depuis 2008) sur 1125 h\u00f4tels et 509 sites web (65 nouveaux) sur 838 campings\nLes donn\u00e9es ici disponibles ne sont pas destin\u00e9es \u00e0 une r\u00e9utilisation dans un cadre commercial ou pour toute op\u00e9ration de d\u00e9marchage ou prospection.",
+  "extras": {
+    "ckan:name": "structures-dhebergement",
+    "contact_email": "mailto: aec@aecom.org",
+    "contact_name": "SIAD",
+    "contact_uri": "https://datacat.datalocale.fr/415535",
+    "guid": "https://datacat.datalocale.fr/415536",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-09-29T07:53:45.729475",
+    "harvest:remote_id": "9f54e5d3-2215-45e1-8093-c0559faa5c7f",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "738f4058-0482-4eb4-bac9-fe64a93e3cf8",
+    "issued": "2013-02-15T23:06:59+00:00",
+    "modified": "2016-07-18T09:21:07.383012+00:00",
+    "publisher_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "publisher_name": "agence SIRTAQUI",
+    "publisher_type": "\"Organisation \u00e0 but non lucratif\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414592",
+    "theme": "[\"tourisme\"]",
+    "uri": "https://datacat.datalocale.fr/415536"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59b775a2a3a729499ae72a69",
+  "last_modified": "2017-09-29T07:53:45.731000",
+  "last_update": "2017-09-12T07:50:26.801000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/structures-dhebergement-1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:50:26.801000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T14:57:33.946000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415538/raw/8.2_Data_TourismePriveHebergeursAquitaine2009_list.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "4ef78f83-152c-4a1e-b874-4a9630beac71",
+      "last_modified": "2017-09-29T07:53:45.728000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4ef78f83-152c-4a1e-b874-4a9630beac71",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:50:26.801000",
+      "title": "fichier csv de statistiques",
+      "url": "https://datacat.datalocale.fr/file/415538/raw/8.2_Data_TourismePriveHebergeursAquitaine2009_list.csv"
+    }
+  ],
+  "slug": "structures-dhebergement-1",
+  "spatial": null,
+  "tags": [
+    "statistiques",
+    "tourisme"
+  ],
+  "temporal_coverage": null,
+  "title": "Structures d'h\u00e9bergement",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/structures-dhebergement-1/"
+}

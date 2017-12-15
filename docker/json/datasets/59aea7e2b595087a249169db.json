@@ -1,0 +1,250 @@
+{
+  "badges": [],
+  "created_at": "2014-04-15T00:00:00",
+  "deleted": null,
+  "description": "Description des bioc\u00e9noses marines sur l'emprise du contrat de baie d'Azur (2006).\nAnalyse et cartographie des bioc\u00e9noses marines. Identification \u00e0 partir des lev\u00e9s bathym\u00e9triques multifaiscaux, photo-interpr\u00e9tation, lev\u00e9s de terrain avec GPS, et vectorisation.",
+  "extras": {
+    "ckan:name": "cartographie-des-biocenoses-marines",
+    "harvest:domain": "opendata.nicecotedazur.org",
+    "harvest:last_update": "2017-09-05T15:34:26.127145",
+    "harvest:remote_id": "eae640db-ce53-4852-8af7-cd46ff62ae31",
+    "harvest:source_id": "59aea691c751df40c6e8212c",
+    "spatial": "{\"type\": \"Polygon\", \"coordinates\": [[[7.06446329, 43.59422847], [7.38004147, 43.79631217], [7.42983617, 43.71855171], [7.11425799, 43.51646801], [7.06446329, 43.59422847]]]}",
+    "spatial-text": "CAP-D'AIL,SAINT-LAURENT-DU-VAR,EZE,NICE,CAGNES-SUR-MER,SAINT-JEAN-CAP-FERRAT"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59aea7e2b595087a249169db",
+  "last_modified": "2017-09-05T15:34:26.129000",
+  "last_update": "2017-09-05T15:34:26.126000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "59aea226c751df38f3f6834b",
+    "logo": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-100.png",
+    "name": "Nice C\u00f4te d'Azur",
+    "page": "https://www.data.gouv.fr/fr/organizations/nice-cote-dazur/",
+    "slug": "nice-cote-dazur",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nice-cote-dazur/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/cartographie-des-biocenoses-marines/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:34:26.123000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-16T15:16:45.911000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-04-15T14%3A12%3A10.897Z/biocenoses-2006.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "5d04dca7-0a17-465f-a524-23feaf835a51",
+      "last_modified": "2014-04-15T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5d04dca7-0a17-465f-a524-23feaf835a51",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-05T15:34:26.123000",
+      "title": "biocenoses_2006.csv",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-04-15T14%3A12%3A10.897Z/biocenoses-2006.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:34:26.124000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-16T00:16:57.266000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-04-15T14%3A13%3A57.162Z/biocenoses-2006.geojson"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "geojson",
+      "id": "87cfaf4e-c3a1-4065-ac5c-c1924bc54f8e",
+      "last_modified": "2014-04-15T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/87cfaf4e-c3a1-4065-ac5c-c1924bc54f8e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/plain",
+      "published": "2017-09-05T15:34:26.124000",
+      "title": "biocenoses_2006.geojson",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-04-15T14%3A13%3A57.162Z/biocenoses-2006.geojson"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:34:26.124000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-16T15:16:44.862000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-04-15T14%3A14%3A40.146Z/biocenoses-2006.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "e9405014-7aa8-4951-bb7f-5144d9942e4e",
+      "last_modified": "2014-04-15T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e9405014-7aa8-4951-bb7f-5144d9942e4e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-09-05T15:34:26.124000",
+      "title": "biocenoses_2006.json",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-04-15T14%3A14%3A40.146Z/biocenoses-2006.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:34:26.125000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-16T15:16:45.284000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-04-15T14%3A15%3A08.756Z/biocenoses-2006.kmz"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "kmz",
+      "id": "307b8e08-adc7-442c-8ab3-e7249e725fed",
+      "last_modified": "2014-04-15T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/307b8e08-adc7-442c-8ab3-e7249e725fed",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.google-earth.kmz",
+      "published": "2017-09-05T15:34:26.125000",
+      "title": "biocenoses_2006.kmz",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-04-15T14%3A15%3A08.756Z/biocenoses-2006.kmz"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:34:26.125000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T11:06:23.428000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-04-15T14%3A15%3A38.270Z/biocenoses-2006.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "55c4dc68-4e69-4ec6-a92c-9022575a2dae",
+      "last_modified": "2014-04-15T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/55c4dc68-4e69-4ec6-a92c-9022575a2dae",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-09-05T15:34:26.125000",
+      "title": "biocenoses_2006.zip",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-04-15T14%3A15%3A38.270Z/biocenoses-2006.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:34:26.126000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-16T15:16:46.542000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-04-15T14%3A15%3A51.080Z/biocenoses-2006rgf93l93.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "9786b2d9-9012-42c1-97a9-f76229a29ebf",
+      "last_modified": "2014-04-15T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9786b2d9-9012-42c1-97a9-f76229a29ebf",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-09-05T15:34:26.126000",
+      "title": "biocenoses_2006RGF93L93.zip",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-04-15T14%3A15%3A51.080Z/biocenoses-2006rgf93l93.zip"
+    }
+  ],
+  "slug": "cartographie-des-biocenoses-marines",
+  "spatial": {
+    "geom": {
+      "coordinates": [
+        [
+          [
+            [
+              7.06446329,
+              43.59422847
+            ],
+            [
+              7.38004147,
+              43.79631217
+            ],
+            [
+              7.42983617,
+              43.71855171
+            ],
+            [
+              7.11425799,
+              43.51646801
+            ],
+            [
+              7.06446329,
+              43.59422847
+            ]
+          ]
+        ]
+      ],
+      "type": "MultiPolygon"
+    },
+    "granularity": "other",
+    "zones": []
+  },
+  "tags": [
+    "biocenose",
+    "mer"
+  ],
+  "temporal_coverage": null,
+  "title": "Cartographie des bioc\u00e9noses marines",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/cartographie-des-biocenoses-marines/"
+}

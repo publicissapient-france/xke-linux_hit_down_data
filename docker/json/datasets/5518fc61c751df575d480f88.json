@@ -1,0 +1,82 @@
+{
+  "badges": [],
+  "created_at": "2015-03-30T09:33:53.499000",
+  "deleted": null,
+  "description": "**Description**\n\nIl s'agit du montant vers\u00e9 au titre de l'Allocation d\u00e9partementale d'accueil du jeune enfant r\u00e9parti par commune en Seine-Saint-Denis\n\n**Sources** \n\nD\u00e9partement de la Seine-Saint-Denis \n\n**Origine de la donn\u00e9e - Producteur** \n\nFlux manuel\n\n**Liste des colonnes**\n\n- D\u00e9partement : N\u00b0 de d\u00e9partement\n- Code commune INSEE : Code commune INSEE\n- Commune : Nom commune\n- Montant 2010 : Montant vers\u00e9 en 2010\n- Montant 2011 : Montant vers\u00e9 en 2011\n- Montant 2012 : Montant vers\u00e9 en 2012\n- Montant 2013 : Montant vers\u00e9 en 2013\n\n**Format de diffusion**\n\nCes fichiers sont propos\u00e9s sous forme de :\n\n    fichiers csv (encodage ANSI)    \n\n**Contact**\n\nPour toute question, ou signalement d'une am\u00e9lioration, vous pouvez nous contacter sur <a href=\"mailto:data93@cg93.fr\">data93@cg93.fr</a>\n\n**Liens**\n\n- Consulter la fiche sur le <a href=\"http://data.seine-saint-denis.fr/spip.php?article164\">portail Open Data de la Seine-Saint-Denis</a>\n\n\n\n\n\n\n\n",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": "2015-10-12T00:00:00",
+  "id": "5518fc61c751df575d480f88",
+  "last_modified": "2016-02-20T23:35:58.446000",
+  "last_update": "2015-03-30T09:34:04.260000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 3
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5457bc26c751df7378225d2e",
+    "logo": "https://www.data.gouv.fr/s/avatars/2014-11-03/1368537f4075452eb44393ea68b6bfdc/SeineSaintDenis-Logo-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-11-03/1368537f4075452eb44393ea68b6bfdc/SeineSaintDenis-Logo-100.png",
+    "name": "Seine-Saint-Denis - Le D\u00e9partement",
+    "page": "https://www.data.gouv.fr/fr/organizations/seine-saint-denis-le-departement/",
+    "slug": "seine-saint-denis-le-departement",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/seine-saint-denis-le-departement/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/montant-verse-dans-le-cadre-de-lallocation-departementale-daccueil-du-jeune-enfant/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "9b24cacac3f3afdd6bdfe75dc1eaa3976d06623a"
+      },
+      "created_at": "2015-03-30T09:34:04.260000",
+      "description": "",
+      "extras": {},
+      "filesize": 2638,
+      "filetype": "file",
+      "format": "csv",
+      "id": "6de554e8-9b8f-47f5-8e76-b1270cbd211f",
+      "last_modified": "2015-03-30T09:34:04.260000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6de554e8-9b8f-47f5-8e76-b1270cbd211f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2015-03-30T09:34:04.260000",
+      "title": "Departement93-Allocation_Departementale_Accueil_Jeune_Enfant_Montant_verse-2010_2013.csv",
+      "url": "https://www.data.gouv.fr/s/resources/montant-verse-dans-le-cadre-de-lallocation-departementale-daccueil-du-jeune-enfant/20150330-093402/Departement93-Allocation_Departementale_Accueil_Jeune_Enfant_Montant_verse-2010_2013.csv"
+    }
+  ],
+  "slug": "montant-verse-dans-le-cadre-de-lallocation-departementale-daccueil-du-jeune-enfant",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:departement",
+    "zones": [
+      "fr:departement:93@1968-01-01"
+    ]
+  },
+  "tags": [
+    "accueil-de-la-petite-enfance",
+    "adaje"
+  ],
+  "temporal_coverage": {
+    "end": "2013-12-31",
+    "start": "2010-01-01"
+  },
+  "title": "Montant vers\u00e9 dans le cadre de l'Allocation d\u00e9partementale d'accueil du jeune enfant",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/montant-verse-dans-le-cadre-de-lallocation-departementale-daccueil-du-jeune-enfant/"
+}

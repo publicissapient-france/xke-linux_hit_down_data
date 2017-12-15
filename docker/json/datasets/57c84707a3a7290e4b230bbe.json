@@ -1,0 +1,178 @@
+{
+  "badges": [],
+  "created_at": "2016-09-01T17:19:35.264000",
+  "deleted": null,
+  "description": "Retrouvez dans ce jeu de donn\u00e9es l'ensembles des points de recharge des parkings. Et notamment :\u00a0\n\n\u00a0- les bornes intelligentes (22 KW) permettant un rechargement rapide (payant). Les tarifs et les modes de paiement sont indiqu\u00e9s.\n\n\u00a0-\u00a0les bornes domestiques\u00a0gratuites\u00a0(charge lente 3 KW), sous r\u00e9serve de disponibilit\u00e9\n\n\u00a0- les niveaux de localisation des bornes au sein des parkings\n\n\u00a0- les bornes Autolib', r\u00e9serv\u00e9es aux voitures Autolib'",
+  "extras": {
+    "harvest:domain": "saemes.opendatasoft.com",
+    "harvest:last_update": "2017-07-02T19:32:58.636676",
+    "harvest:remote_id": "points-recharges-electriques-parkings",
+    "harvest:source_id": "57c7f8b8c751df1a8197bae5",
+    "ods:has_records": true,
+    "ods:references": "www.saemes.fr",
+    "ods:url": "https://saemes.opendatasoft.com/explore/dataset/points-recharges-electriques-parkings/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "57c84707a3a7290e4b230bbe",
+  "last_modified": "2017-07-26T01:10:05.405000",
+  "last_update": "2017-07-02T19:32:58.635000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 1,
+    "followers": 1,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "56f54580c751df65ebc485cb",
+    "logo": "https://www.data.gouv.fr/s/avatars/59/cfbb2a780d47a6a87bb8c548c7a6cf-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/59/cfbb2a780d47a6a87bb8c548c7a6cf-100.jpg",
+    "name": "Saemes ",
+    "page": "https://www.data.gouv.fr/fr/organizations/saemes/",
+    "slug": "saemes",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/saemes/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/points-recharges-electriques-parkings/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:32:58.634000",
+      "description": "- *Source data*: source_data[text]\n- *N\u00b0 point recharge electrique*: ndeg_point_recharge_electrique[text]\n- *Code parking concern\u00e9*: code_parking_concerne[text]\n- *Nom parking*: nom_parking[text]\n- *Type v\u00e9hicule*: type_vehicule[text]\n- *Puissance en KW*: puissance_en_kw[int]\n- *Recharge accessible au public ou r\u00e9serv\u00e9 aux abonn\u00e9s*: recharge_accessible_au_public_ou_reserve_aux_abonnes[text]\n- *Niveau du parking de la borne*: niveau_du_parking_de_la_borne[text]\n- *Co\u00fbt de la recharge (\u20ac/heure)*: cout_de_la_recharge_eu_heure[text]\n- *Paiement recharge  compte Kiwhi*: paiement_recharge_compte_kiwhi[text]\n- *Paiement recharge  compte Freshmile*: paiement_recharge_compte_freshmile[text]\n- *geo*: geo[geo_point_2d]\n- *Code postal*: code_postal[text]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-19T15:16:23.097000",
+        "check:status": 200,
+        "check:url": "https://saemes.opendatasoft.com/explore/dataset/points-recharges-electriques-parkings/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "05c531c4-6466-4b7b-96b3-ea0a987f9ca3",
+      "last_modified": "2017-03-15T15:15:19",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/05c531c4-6466-4b7b-96b3-ea0a987f9ca3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T19:32:58.634000",
+      "title": "Export au format CSV",
+      "url": "https://saemes.opendatasoft.com/explore/dataset/points-recharges-electriques-parkings/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:32:58.634000",
+      "description": "- *Source data*: source_data[text]\n- *N\u00b0 point recharge electrique*: ndeg_point_recharge_electrique[text]\n- *Code parking concern\u00e9*: code_parking_concerne[text]\n- *Nom parking*: nom_parking[text]\n- *Type v\u00e9hicule*: type_vehicule[text]\n- *Puissance en KW*: puissance_en_kw[int]\n- *Recharge accessible au public ou r\u00e9serv\u00e9 aux abonn\u00e9s*: recharge_accessible_au_public_ou_reserve_aux_abonnes[text]\n- *Niveau du parking de la borne*: niveau_du_parking_de_la_borne[text]\n- *Co\u00fbt de la recharge (\u20ac/heure)*: cout_de_la_recharge_eu_heure[text]\n- *Paiement recharge  compte Kiwhi*: paiement_recharge_compte_kiwhi[text]\n- *Paiement recharge  compte Freshmile*: paiement_recharge_compte_freshmile[text]\n- *geo*: geo[geo_point_2d]\n- *Code postal*: code_postal[text]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-19T15:16:23.097000",
+        "check:status": 200,
+        "check:url": "https://saemes.opendatasoft.com/explore/dataset/points-recharges-electriques-parkings/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "eb834d8d-9742-413d-942b-95b275a6557c",
+      "last_modified": "2017-03-15T15:15:19",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/eb834d8d-9742-413d-942b-95b275a6557c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-07-02T19:32:58.634000",
+      "title": "Export au format JSON",
+      "url": "https://saemes.opendatasoft.com/explore/dataset/points-recharges-electriques-parkings/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:32:58.634000",
+      "description": "- *Source data*: source_data[text]\n- *N\u00b0 point recharge electrique*: ndeg_point_recharge_electrique[text]\n- *Code parking concern\u00e9*: code_parking_concerne[text]\n- *Nom parking*: nom_parking[text]\n- *Type v\u00e9hicule*: type_vehicule[text]\n- *Puissance en KW*: puissance_en_kw[int]\n- *Recharge accessible au public ou r\u00e9serv\u00e9 aux abonn\u00e9s*: recharge_accessible_au_public_ou_reserve_aux_abonnes[text]\n- *Niveau du parking de la borne*: niveau_du_parking_de_la_borne[text]\n- *Co\u00fbt de la recharge (\u20ac/heure)*: cout_de_la_recharge_eu_heure[text]\n- *Paiement recharge  compte Kiwhi*: paiement_recharge_compte_kiwhi[text]\n- *Paiement recharge  compte Freshmile*: paiement_recharge_compte_freshmile[text]\n- *geo*: geo[geo_point_2d]\n- *Code postal*: code_postal[text]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T03:13:37.524000",
+        "check:status": 200,
+        "check:url": "https://saemes.opendatasoft.com/explore/dataset/points-recharges-electriques-parkings/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "bedb09b7-6a27-429f-aec0-c3c4b3d950c0",
+      "last_modified": "2017-03-15T15:15:19",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/bedb09b7-6a27-429f-aec0-c3c4b3d950c0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-07-02T19:32:58.635000",
+      "title": "Export au format GeoJSON",
+      "url": "https://saemes.opendatasoft.com/explore/dataset/points-recharges-electriques-parkings/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:32:58.635000",
+      "description": "- *Source data*: source_data[text]\n- *N\u00b0 point recharge electrique*: ndeg_point_recharge_electrique[text]\n- *Code parking concern\u00e9*: code_parking_concerne[text]\n- *Nom parking*: nom_parking[text]\n- *Type v\u00e9hicule*: type_vehicule[text]\n- *Puissance en KW*: puissance_en_kw[int]\n- *Recharge accessible au public ou r\u00e9serv\u00e9 aux abonn\u00e9s*: recharge_accessible_au_public_ou_reserve_aux_abonnes[text]\n- *Niveau du parking de la borne*: niveau_du_parking_de_la_borne[text]\n- *Co\u00fbt de la recharge (\u20ac/heure)*: cout_de_la_recharge_eu_heure[text]\n- *Paiement recharge  compte Kiwhi*: paiement_recharge_compte_kiwhi[text]\n- *Paiement recharge  compte Freshmile*: paiement_recharge_compte_freshmile[text]\n- *geo*: geo[geo_point_2d]\n- *Code postal*: code_postal[text]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-19T15:16:23.485000",
+        "check:status": 200,
+        "check:url": "https://saemes.opendatasoft.com/explore/dataset/points-recharges-electriques-parkings/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "b70152b8-6084-428b-82a7-f19171ea4cff",
+      "last_modified": "2017-03-15T15:15:19",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b70152b8-6084-428b-82a7-f19171ea4cff",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T19:32:58.635000",
+      "title": "Export au format Shapefile",
+      "url": "https://saemes.opendatasoft.com/explore/dataset/points-recharges-electriques-parkings/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "points-recharges-electriques-parkings",
+  "spatial": null,
+  "tags": [
+    "autolib",
+    "borne-de-rechargement-electrique",
+    "borne-electrique",
+    "deplacements",
+    "freshmile",
+    "grand-paris",
+    "ile-de-france",
+    "irve",
+    "kiwhi",
+    "paris",
+    "parking",
+    "parking-public",
+    "se-garer",
+    "stationnement",
+    "transports"
+  ],
+  "temporal_coverage": null,
+  "title": "Points recharges \u00e9lectriques parkings",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/points-recharges-electriques-parkings/"
+}

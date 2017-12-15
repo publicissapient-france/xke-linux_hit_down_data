@@ -1,0 +1,166 @@
+{
+  "badges": [],
+  "created_at": "2016-10-21T19:58:23.339000",
+  "deleted": null,
+  "description": "Il s'agit d'une des deux couches de r\u00e9f\u00e9rence des limites communales de Rennes M\u00e9tropole.  \n  \nCette couche de polygones est d\u00e9riv\u00e9e de la couche cadastrale des limites communales (version 2013).  \nSur les secteurs o\u00f9 le plan cadastral pr\u00e9sentait des probl\u00e8mes g\u00e9om\u00e9triques (superposition de parcelles, trous...), celui-ci a \u00e9t\u00e9 corrig\u00e9 par des traitements topologiques en privil\u00e9giant une des deux limites possibles.  \n  \nCette particularit\u00e9 ne concerne que les communes de Rennes M\u00e9tropole mais l'emprise de la couche concerne les communes p\u00e9riph\u00e9riques qui elles n'ont pas subi ce traitement sp\u00e9cifique.",
+  "extras": {
+    "harvest:domain": "data.rennesmetropole.fr",
+    "harvest:last_update": "2017-04-06T05:01:00.515221",
+    "harvest:remote_id": "limites-communales-referentielles-de-rennes-metropole-polygones",
+    "harvest:source_id": "580736ec88ee3816625ff490",
+    "ods:has_records": true,
+    "ods:references": "https://public.sig.rennesmetropole.fr/geonetwork/srv/fre/csw?service=CSW&SERVICE=CSW&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&request=GetRecordById&resultType=results&VERSION=2.0.2&version=2.0.2&ElementSetName=full&id=dc03f7c6-d6f3-4b8f-8491-e97ba77defba",
+    "ods:url": "https://data.rennesmetropole.fr/explore/dataset/limites-communales-referentielles-de-rennes-metropole-polygones/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "580a573fa3a7292dcea9d1db",
+  "last_modified": "2017-04-06T05:01:00.517000",
+  "last_update": "2017-04-06T05:01:00.511000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "RM",
+    "class": "Organization",
+    "id": "580735be88ee3814295ff490",
+    "logo": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-100.png",
+    "name": "Rennes M\u00e9tropole en acc\u00e8s libre",
+    "page": "https://www.data.gouv.fr/fr/organizations/rennes-metropole-en-acces-libre-1/",
+    "slug": "rennes-metropole-en-acces-libre-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/rennes-metropole-en-acces-libre-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/limites-communales-referentielles-de-rennes-metropole-polygones-1/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T05:01:00.510000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *gml_id*: gml_id[text]\n- *code_insee*: code_insee[double]\n- *nom*: nom[text]\n- *objectid*: objectid[int]\n- *commune_agglo*: commune_agglo[int]\n- *x_centrbrg*: x_centrbrg[double]\n- *y_centrbrg*: y_centrbrg[double]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T23:28:53.579000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/limites-communales-referentielles-de-rennes-metropole-polygones/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "63be8393-7e58-436e-ac54-23f46f8689e1",
+      "last_modified": "2014-07-07T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/63be8393-7e58-436e-ac54-23f46f8689e1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-04-06T05:01:00.510000",
+      "title": "Export au format CSV",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/limites-communales-referentielles-de-rennes-metropole-polygones/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T05:01:00.510000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *gml_id*: gml_id[text]\n- *code_insee*: code_insee[double]\n- *nom*: nom[text]\n- *objectid*: objectid[int]\n- *commune_agglo*: commune_agglo[int]\n- *x_centrbrg*: x_centrbrg[double]\n- *y_centrbrg*: y_centrbrg[double]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T23:29:03.911000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/limites-communales-referentielles-de-rennes-metropole-polygones/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "057d0f35-7415-4a59-a2f0-4eb0cfa183b3",
+      "last_modified": "2014-07-07T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/057d0f35-7415-4a59-a2f0-4eb0cfa183b3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-04-06T05:01:00.510000",
+      "title": "Export au format JSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/limites-communales-referentielles-de-rennes-metropole-polygones/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T05:01:00.510000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *gml_id*: gml_id[text]\n- *code_insee*: code_insee[double]\n- *nom*: nom[text]\n- *objectid*: objectid[int]\n- *commune_agglo*: commune_agglo[int]\n- *x_centrbrg*: x_centrbrg[double]\n- *y_centrbrg*: y_centrbrg[double]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T23:29:05.470000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/limites-communales-referentielles-de-rennes-metropole-polygones/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "5c594eca-d88c-41d2-be53-e7987c3940ae",
+      "last_modified": "2014-07-07T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5c594eca-d88c-41d2-be53-e7987c3940ae",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-04-06T05:01:00.510000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/limites-communales-referentielles-de-rennes-metropole-polygones/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T05:01:00.511000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *gml_id*: gml_id[text]\n- *code_insee*: code_insee[double]\n- *nom*: nom[text]\n- *objectid*: objectid[int]\n- *commune_agglo*: commune_agglo[int]\n- *x_centrbrg*: x_centrbrg[double]\n- *y_centrbrg*: y_centrbrg[double]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T23:29:14.041000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/limites-communales-referentielles-de-rennes-metropole-polygones/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "3fcac6da-b075-4afc-a16f-d37a626881b0",
+      "last_modified": "2014-07-07T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3fcac6da-b075-4afc-a16f-d37a626881b0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-04-06T05:01:00.511000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/limites-communales-referentielles-de-rennes-metropole-polygones/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "limites-communales-referentielles-de-rennes-metropole-polygones-1",
+  "spatial": null,
+  "tags": [
+    "commune",
+    "limite-administrative",
+    "referentiels-geographiques"
+  ],
+  "temporal_coverage": null,
+  "title": "Limites communales r\u00e9f\u00e9rentielles de Rennes M\u00e9tropole (polygones)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/limites-communales-referentielles-de-rennes-metropole-polygones-1/"
+}

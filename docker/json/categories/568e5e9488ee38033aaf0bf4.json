@@ -1,0 +1,54 @@
+{
+  "acronym": "Syndicat des Transports d'Ile-de-France",
+  "badges": [
+    {
+      "kind": "certified"
+    },
+    {
+      "kind": "public-service"
+    }
+  ],
+  "created_at": "2016-01-07T13:48:20.785000",
+  "deleted": null,
+  "description": "Le **Syndicat des Transports d'Ile-de-France** est l'Autorit\u00e9 Organisatrice de la mobilit\u00e9 durable en Ile-de-France. Il imagine, organise et finance les transports publics pour tous les Franciliens. Chaque jour, ce sont plus de **10 millions de voyageurs** qui empruntent le r\u00e9seau de transport francilien, op\u00e9r\u00e9 par les 75 entreprises OPTILE, la RATP et la SNCF. \n\n[Le portail Open data du Syndicat des Transports d'Ile-de-France](http://opendata.stif.info/).",
+  "id": "568e5e9488ee38033aaf0bf4",
+  "last_modified": "2017-11-18T15:39:21.773000",
+  "logo": "https://www.data.gouv.fr/s/avatars/11/36458e54d84094a7fcca2053afb162-original.png",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/11/36458e54d84094a7fcca2053afb162-100.png",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Jean-Luc",
+        "id": "568e5d5f88ee382480af0bf4",
+        "last_name": "PRAT",
+        "page": "https://www.data.gouv.fr/fr/users/jean-luc-prat/",
+        "slug": "jean-luc-prat",
+        "uri": "https://www.data.gouv.fr/api/1/users/jean-luc-prat/"
+      }
+    }
+  ],
+  "metrics": {
+    "badges": 0,
+    "dataset_views": 9,
+    "datasets": 37,
+    "followers": 4,
+    "members": 1,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 0,
+    "resource_downloads": 82,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 27
+  },
+  "name": "Syndicat des Transports d'Ile-de-France",
+  "page": "https://www.data.gouv.fr/fr/organizations/syndicat-des-transports-dile-de-france/",
+  "slug": "syndicat-des-transports-dile-de-france",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/syndicat-des-transports-dile-de-france/",
+  "url": "https://www.iledefrance-mobilites.fr/"
+}

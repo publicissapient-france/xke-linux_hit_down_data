@@ -1,0 +1,256 @@
+{
+  "badges": [],
+  "created_at": "2017-10-11T00:00:00",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es d\u00e9nombre, par commune, l\u2019ensemble des foyers allocataires ayant un droit versable \u00e0 au moins une prestation au cours du mois de d\u00e9cembre, ou ayant per\u00e7u au cours de l\u2019ann\u00e9e, une prestation vers\u00e9e en une seule fois (ex ARS, prime de naissance). Les foyers allocataires sont r\u00e9partis selon l\u2019\u00e2ge du responsable du dossier.\nL\u2019\u00e2ge retenu est l\u2019\u00e2ge atteint dans l\u2019ann\u00e9e (ou \u00e2ge par g\u00e9n\u00e9ration). Il correspond \u00e0 la diff\u00e9rence entre l'ann\u00e9e d\u2019observation et l'ann\u00e9e de naissance de l'individu.\n\nLe foyer allocataire est compos\u00e9 du responsable du dossier (personne qui per\u00e7oit au moins une prestation au regard de sa situation familiale et/ou mon\u00e9taire), et l'ensemble des autres ayants droit au sens de la r\u00e8glementation en vigueur (conjoint, enfant(s) et autre(s) personne(s) \u00e0 charge). Plusieurs foyers allocataires peuvent cohabiter dans un m\u00eame lieu, ils constituent alors un seul m\u00e9nage au sens de la d\u00e9finition statistique Insee. C\u2019est le cas, par exemple, lorsque un couple per\u00e7oit des allocations logement et h\u00e9berge son enfant titulaire d'un minimum social des Caf (RSO, RSA, AAH). En pratique, le terme \"allocataire\" est souvent utilis\u00e9 \u00e0 la place de \"foyer allocataire\".\n\nLe droit versable signifie que le foyer allocataire remplit toutes les conditions pour \u00eatre effectivement pay\u00e9 au titre du mois d\u2019observation. En particulier ne sont pas inclus dans ce p\u00e9rim\u00e8tre les b\u00e9n\u00e9ficiaires qui n\u2019ont pas fourni l\u2019int\u00e9gralit\u00e9 de leurs pi\u00e8ces justificatives, ou ceux dont le montant de la prestation est inf\u00e9rieur au seuil de versement.\n\nLe champ g\u00e9ographique d\u2019observation du jeu de donn\u00e9es correspond \u00e0 la commune de r\u00e9sidence du foyer allocataire telle qu\u2019elle est enregistr\u00e9e dans le fichier statistique des allocataires extrait en d\u00e9but d\u2019ann\u00e9e N+1 et ce quelle que soit la Caf de gestion",
+  "extras": {
+    "ckan:name": "denombrement-et-repartition-des-foyers-allocataires-selon-lage-du-responsable-dossier-par-commu",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+    "guid": "https://datacat.datalocale.fr/643031",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-11-27T05:18:40.093753",
+    "harvest:remote_id": "5239f059-c75b-4a01-b5e7-87a9c4fcee5c",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "issued": "2016-09-22T14:18:31.311356+00:00",
+    "modified": "2016-09-22T14:21:21.959701+00:00",
+    "publisher_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "publisher_name": "CRTA",
+    "publisher_uri": "https://datacat.datalocale.fr/414593",
+    "remote_url": "http://data.caf.fr/dataset/denombrement-et-repartition-des-foyers-allocataires-selon-l-age-du-responsable",
+    "uri": "https://datacat.datalocale.fr/643031"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59e18c31a3a7297d21b5fb44",
+  "last_modified": "2017-11-27T05:18:40.097000",
+  "last_update": "2017-10-14T06:01:53.733000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/denombrement-et-repartition-des-foyers-allocataires-selon-lage-du-responsable-dossier-par-commu/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:01:53.730000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-18T19:25:50.074000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1280725/raw/trancheage2013.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "93b6d8b3-fc01-4d9e-9363-e2dd5a98c8db",
+      "last_modified": "2017-11-27T05:18:40.092000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/93b6d8b3-fc01-4d9e-9363-e2dd5a98c8db",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-14T06:01:53.730000",
+      "title": "trancheage2013.csv",
+      "url": "https://datacat.datalocale.fr/file/1280725/raw/trancheage2013.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:01:53.731000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-18T19:25:50.777000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1280662/raw/trancheage2011.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "93f91c91-40a0-4f7a-834e-d53e230e8908",
+      "last_modified": "2017-11-27T05:18:40.092000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/93f91c91-40a0-4f7a-834e-d53e230e8908",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-14T06:01:53.731000",
+      "title": "trancheage2011.csv",
+      "url": "https://datacat.datalocale.fr/file/1280662/raw/trancheage2011.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:01:53.731000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "3f27f5b0-18d9-4192-bbce-1b845de6e1d7",
+      "last_modified": "2017-11-27T05:18:40.092000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3f27f5b0-18d9-4192-bbce-1b845de6e1d7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-14T06:01:53.731000",
+      "title": "trancheage2014.csv",
+      "url": "https://datacat.datalocale.fr/file/1280620/raw/trancheage2014.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:01:53.731000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-26T02:00:48.010000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1280716/raw/trancheage2010.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "47c33f55-15d3-4ffc-affb-09fc02945273",
+      "last_modified": "2017-11-27T05:18:40.092000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/47c33f55-15d3-4ffc-affb-09fc02945273",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-14T06:01:53.731000",
+      "title": "trancheage2010.csv",
+      "url": "https://datacat.datalocale.fr/file/1280716/raw/trancheage2010.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:01:53.732000",
+      "description": "Descriptif du fichier Ages des allocataires",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "txt",
+      "id": "4d4ded61-4617-4f85-9105-aac706efbac1",
+      "last_modified": "2017-11-27T05:18:40.092000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4d4ded61-4617-4f85-9105-aac706efbac1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/plain",
+      "published": "2017-10-14T06:01:53.732000",
+      "title": "descriptifallocTrancheAge.txt",
+      "url": "https://datacat.datalocale.fr/file/643133/raw/descriptifallocTrancheAge.txt"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:01:53.732000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ae2cb07b-486e-43a7-ba37-415a07d9dd50",
+      "last_modified": "2017-11-27T05:18:40.092000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ae2cb07b-486e-43a7-ba37-415a07d9dd50",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-14T06:01:53.732000",
+      "title": "trancheage2012.csv",
+      "url": "https://datacat.datalocale.fr/file/1280743/raw/trancheage2012.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:01:53.733000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "540e67bb-41cb-4674-ba5b-348bb8796303",
+      "last_modified": "2017-11-27T05:18:40.093000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/540e67bb-41cb-4674-ba5b-348bb8796303",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-14T06:01:53.733000",
+      "title": "trancheage2009.csv",
+      "url": "https://datacat.datalocale.fr/file/643059/raw/trancheage2009.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:01:53.733000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "8080a0fc-83ff-43a3-97c8-c863cbb0c8fa",
+      "last_modified": "2017-11-27T05:18:40.093000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8080a0fc-83ff-43a3-97c8-c863cbb0c8fa",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-14T06:01:53.733000",
+      "title": "trancheage2015.csv",
+      "url": "https://datacat.datalocale.fr/file/1280534/raw/trancheage2015.csv"
+    }
+  ],
+  "slug": "denombrement-et-repartition-des-foyers-allocataires-selon-lage-du-responsable-dossier-par-commu",
+  "spatial": null,
+  "tags": [
+    "aide-sociale",
+    "allocation",
+    "foyer",
+    "prestation"
+  ],
+  "temporal_coverage": null,
+  "title": "D\u00e9nombrement et r\u00e9partition des foyers allocataires selon l\u2019\u00e2ge du responsable dossier - par commune",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/denombrement-et-repartition-des-foyers-allocataires-selon-lage-du-responsable-dossier-par-commu/"
+}

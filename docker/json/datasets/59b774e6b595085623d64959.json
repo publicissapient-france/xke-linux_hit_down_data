@@ -1,0 +1,204 @@
+{
+  "badges": [],
+  "created_at": "2017-09-11T00:00:00",
+  "deleted": null,
+  "description": "Liste des r\u00e9sidences de tourisme en Aquitaine, issue de la base de donn\u00e9es SIRTAQUI.\n\nCe fichier contient les informations de g\u00e9olocalisation et de contact, les informations sur le classement, les marques et labels, les cha\u00eenes, la capacit\u00e9 en nombre de personnes, les conditions d\u2019ouverture, les tarifs, les \u00e9quipements et les services propos\u00e9s.",
+  "extras": {
+    "ckan:name": "liste-des-residences-de-tourisme-en-aquitaine",
+    "contact_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "contact_name": "CRTA",
+    "contact_uri": "https://datacat.datalocale.fr/414593",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
+    "guid": "https://datacat.datalocale.fr/416040",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-09-29T07:50:36.047491",
+    "harvest:remote_id": "80e0624d-a44f-4030-84fc-bfd6d6d9b43e",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "b68634d6-161a-4b02-97d3-149b70aec3bc",
+    "issued": "2015-01-01T20:06:29+00:00",
+    "modified": "2016-07-18T09:21:07.070401+00:00",
+    "publisher_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "publisher_name": "agence SIRTAQUI",
+    "publisher_type": "\"Organisation \u00e0 but non lucratif\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414592",
+    "remote_url": "http://partenaires.tourisme-aquitaine.fr",
+    "theme": "[\"tourisme\"]",
+    "uri": "https://datacat.datalocale.fr/416040"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59b774e6b595085623d64959",
+  "last_modified": "2017-09-29T07:50:36.049000",
+  "last_update": "2017-09-12T07:47:18.237000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-residences-de-tourisme-en-aquitaine-1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:47:18.235000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T17:48:19.190000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1771175/raw/liste-csv-residences-tourisme-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a7da9273-617b-473d-9fa0-d516ada18456",
+      "last_modified": "2017-09-29T07:50:36.045000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a7da9273-617b-473d-9fa0-d516ada18456",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:47:18.236000",
+      "title": "liste-csv-residences-tourisme-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1771175/raw/liste-csv-residences-tourisme-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:47:18.236000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T12:37:12.894000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414600/raw/sp%C3%A9cifications%20du%20jeu%20de%20donn%C3%A9es"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "26e8a53b-dcc6-437d-bcaf-7843f05000c4",
+      "last_modified": "2017-09-29T07:50:36.045000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/26e8a53b-dcc6-437d-bcaf-7843f05000c4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:47:18.236000",
+      "title": "sp\u00e9cifications du jeu de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414600/raw/sp%C3%A9cifications%20du%20jeu%20de%20donn%C3%A9es"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:47:18.236000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-17T07:49:43.180000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416044/raw/liste-residences-tourisme-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e6323923-8eb1-4ddc-8da9-c9a549155f2f",
+      "last_modified": "2017-09-29T07:50:36.045000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e6323923-8eb1-4ddc-8da9-c9a549155f2f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:47:18.236000",
+      "title": "export en csv (utf-8) des r\u00e9sidences de tourisme r\u00e9f\u00e9renc\u00e9es dans la base de donn\u00e9es de SIRTAQUI. Les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es dans la projection WGS84 ",
+      "url": "https://datacat.datalocale.fr/file/416044/raw/liste-residences-tourisme-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:47:18.237000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-11-06T09:37:52.544000",
+        "check:status": 501,
+        "check:url": "http://wcf.tourinsoft.com/Syndication/aquitaine/09f3c071-025c-4fb9-93a5-0265007daa92/Objects?$format=json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "0defd389-55e5-4174-909f-4cd4ccc7d228",
+      "last_modified": "2017-09-29T07:50:36.046000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0defd389-55e5-4174-909f-4cd4ccc7d228",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-09-12T07:47:18.237000",
+      "title": "consommation des donn\u00e9es temps r\u00e9el",
+      "url": "http://wcf.tourinsoft.com/Syndication/aquitaine/09f3c071-025c-4fb9-93a5-0265007daa92/Objects?$format=json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:47:18.237000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T09:37:54.907000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416042/raw/liste-xml-residences-tourisme-aquitaine.xml"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "97003626-0868-413e-9476-f1c263ee17f4",
+      "last_modified": "2017-09-29T07:50:36.046000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/97003626-0868-413e-9476-f1c263ee17f4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/xml",
+      "published": "2017-09-12T07:47:18.237000",
+      "title": "export en xml (tourinfo) des r\u00e9sidences de tourisme r\u00e9f\u00e9renc\u00e9s dans la base de donn\u00e9es de SIRTAQUI. Les coordonn\u00e9es g\u00e9ographiques sont exprim\u00e9es dans la projection WGS84 ",
+      "url": "https://datacat.datalocale.fr/file/416042/raw/liste-xml-residences-tourisme-aquitaine.xml"
+    }
+  ],
+  "slug": "liste-des-residences-de-tourisme-en-aquitaine-1",
+  "spatial": null,
+  "tags": [
+    "hebergement",
+    "tourisme"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des r\u00e9sidences de tourisme en Aquitaine",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-residences-de-tourisme-en-aquitaine-1/"
+}

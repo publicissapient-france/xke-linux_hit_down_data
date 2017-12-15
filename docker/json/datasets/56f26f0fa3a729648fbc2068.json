@@ -1,0 +1,166 @@
+{
+  "badges": [],
+  "created_at": "2016-03-23T11:25:19.008000",
+  "deleted": null,
+  "description": "Couche g\u00e9ographique d\u00e9crivant les trac\u00e9s des projets de transport en commun en \u00cele-de-France.\n\n**D\u00e9finition**\n\nUn projet de ligne de transport est l'am\u00e9lioration, le prolongement d'une ligne existante, ainsi que la cr\u00e9ation d'une nouvelle ligne de transport.   \n\n\nEn savoir plus sur les lignes en projet : [www.stif.org](http://www.stif.org/developpements-et-avenir.html)\n\n[](http://www.stif.org/developpements-et-avenir.html \"cliquer pour ouvrir le lien\")\n\n* * *\n\n**Qualit\u00e9**\n\nUne ligne d\u00e9crit le trac\u00e9 du projet.\n\nLa qualit\u00e9 des donn\u00e9es est fonction de l'\u00e9tat d'avancement du projet d'infrastructure. La pr\u00e9cision est donc variable d'un projet \u00e0 l'autre et la cartographie ne peut pas \u00e0 elle seule rendre compte de la situation pr\u00e9cise. Seuls les documents de r\u00e9f\u00e9rence sont juridiquement contraignants et opposables.",
+  "extras": {
+    "harvest:domain": "opendata.stif.info",
+    "harvest:last_update": "2017-11-27T05:14:21.350258",
+    "harvest:remote_id": "projets_lignes_idf",
+    "harvest:source_id": "569fec99c751df2484ade713",
+    "ods:has_records": true,
+    "ods:url": "http://opendata.stif.info//explore/dataset/projets_lignes_idf/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "56f26f0fa3a729648fbc2068",
+  "last_modified": "2017-11-27T05:14:21.355000",
+  "last_update": "2017-11-27T05:14:21.349000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 2
+  },
+  "organization": {
+    "acronym": "Syndicat des Transports d'Ile-de-France",
+    "class": "Organization",
+    "id": "568e5e9488ee38033aaf0bf4",
+    "logo": "https://www.data.gouv.fr/s/avatars/11/36458e54d84094a7fcca2053afb162-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/11/36458e54d84094a7fcca2053afb162-100.png",
+    "name": "Syndicat des Transports d'Ile-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/syndicat-des-transports-dile-de-france/",
+    "slug": "syndicat-des-transports-dile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/syndicat-des-transports-dile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/lignes-de-transport-en-projet-en-ile-de-france/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:21.349000",
+      "description": "- *Geo Shape*: geo_shape[geo_shape]\n- *ID_PROJET*: id_projet[text] Identifiant du projet g\u00e9n\u00e9ral\n- *NOM_PROJET*: nom_projet[text] Nom du projet g\u00e9n\u00e9ral\n- *ID_TRONCON*: id_troncon[text] Identifiant du tron\u00e7on\n- *TRONCON*: troncon[text] Nom du tron\u00e7on\n- *ID_MODE*: id_mode[text] Identifiant du mode\n- *MODE*: mode[text] Mode de transport, selon nouvelle charte des modes\n- *SOUS_MODE*: sous_mode[text] Mode de transport, selon l'ancienne charte des modes\n- *INDICE*: indice[text] Indice de ligne\n- *PHASE*: phase[text] Phase du tron\u00e7on\n- *VARIANTE*: variante[text] Variante de tron\u00e7on\n- *CREATION*: creation[int] cr\u00e9ation d'une nouvelle ligne de transport\n- *PROLONG*: prolong[int] prolongement d'une ligne de transport existante\n- *AMELIOR*: amelior[int] op\u00e9ration d'am\u00e9lioration d'une ligne de transport existante\n- *STATUT*: statut[text] Statut de l'op\u00e9ration en cours\n3 = concertation pr\u00e9alable, d\u00e9bat public\n7 = phase AVP (conception g\u00e9n\u00e9rale)\n8 = phase PRO (conception d\u00e9taill\u00e9e)\n9 = phase travaux\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-25T17:51:20.511000",
+        "check:status": 200,
+        "check:url": "http://opendata.stif.info//explore/dataset/projets_lignes_idf/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f6f85e2a-2b12-411c-beb4-cb5b5454b620",
+      "last_modified": "2016-08-11T15:20:58",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f6f85e2a-2b12-411c-beb4-cb5b5454b620",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:14:21.349000",
+      "title": "Export au format CSV",
+      "url": "http://opendata.stif.info//explore/dataset/projets_lignes_idf/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:21.349000",
+      "description": "- *Geo Shape*: geo_shape[geo_shape]\n- *ID_PROJET*: id_projet[text] Identifiant du projet g\u00e9n\u00e9ral\n- *NOM_PROJET*: nom_projet[text] Nom du projet g\u00e9n\u00e9ral\n- *ID_TRONCON*: id_troncon[text] Identifiant du tron\u00e7on\n- *TRONCON*: troncon[text] Nom du tron\u00e7on\n- *ID_MODE*: id_mode[text] Identifiant du mode\n- *MODE*: mode[text] Mode de transport, selon nouvelle charte des modes\n- *SOUS_MODE*: sous_mode[text] Mode de transport, selon l'ancienne charte des modes\n- *INDICE*: indice[text] Indice de ligne\n- *PHASE*: phase[text] Phase du tron\u00e7on\n- *VARIANTE*: variante[text] Variante de tron\u00e7on\n- *CREATION*: creation[int] cr\u00e9ation d'une nouvelle ligne de transport\n- *PROLONG*: prolong[int] prolongement d'une ligne de transport existante\n- *AMELIOR*: amelior[int] op\u00e9ration d'am\u00e9lioration d'une ligne de transport existante\n- *STATUT*: statut[text] Statut de l'op\u00e9ration en cours\n3 = concertation pr\u00e9alable, d\u00e9bat public\n7 = phase AVP (conception g\u00e9n\u00e9rale)\n8 = phase PRO (conception d\u00e9taill\u00e9e)\n9 = phase travaux\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-25T17:51:20.512000",
+        "check:status": 200,
+        "check:url": "http://opendata.stif.info//explore/dataset/projets_lignes_idf/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "53223651-bac3-4cc5-8cdf-022cbe9015f1",
+      "last_modified": "2016-08-11T15:20:58",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/53223651-bac3-4cc5-8cdf-022cbe9015f1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:14:21.349000",
+      "title": "Export au format JSON",
+      "url": "http://opendata.stif.info//explore/dataset/projets_lignes_idf/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:21.349000",
+      "description": "- *Geo Shape*: geo_shape[geo_shape]\n- *ID_PROJET*: id_projet[text] Identifiant du projet g\u00e9n\u00e9ral\n- *NOM_PROJET*: nom_projet[text] Nom du projet g\u00e9n\u00e9ral\n- *ID_TRONCON*: id_troncon[text] Identifiant du tron\u00e7on\n- *TRONCON*: troncon[text] Nom du tron\u00e7on\n- *ID_MODE*: id_mode[text] Identifiant du mode\n- *MODE*: mode[text] Mode de transport, selon nouvelle charte des modes\n- *SOUS_MODE*: sous_mode[text] Mode de transport, selon l'ancienne charte des modes\n- *INDICE*: indice[text] Indice de ligne\n- *PHASE*: phase[text] Phase du tron\u00e7on\n- *VARIANTE*: variante[text] Variante de tron\u00e7on\n- *CREATION*: creation[int] cr\u00e9ation d'une nouvelle ligne de transport\n- *PROLONG*: prolong[int] prolongement d'une ligne de transport existante\n- *AMELIOR*: amelior[int] op\u00e9ration d'am\u00e9lioration d'une ligne de transport existante\n- *STATUT*: statut[text] Statut de l'op\u00e9ration en cours\n3 = concertation pr\u00e9alable, d\u00e9bat public\n7 = phase AVP (conception g\u00e9n\u00e9rale)\n8 = phase PRO (conception d\u00e9taill\u00e9e)\n9 = phase travaux\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-25T17:51:20.681000",
+        "check:status": 200,
+        "check:url": "http://opendata.stif.info//explore/dataset/projets_lignes_idf/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "dc9d7b38-f006-4158-96ae-4be4cc363056",
+      "last_modified": "2016-08-11T15:20:58",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/dc9d7b38-f006-4158-96ae-4be4cc363056",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:14:21.349000",
+      "title": "Export au format GeoJSON",
+      "url": "http://opendata.stif.info//explore/dataset/projets_lignes_idf/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:21.349000",
+      "description": "- *Geo Shape*: geo_shape[geo_shape]\n- *ID_PROJET*: id_projet[text] Identifiant du projet g\u00e9n\u00e9ral\n- *NOM_PROJET*: nom_projet[text] Nom du projet g\u00e9n\u00e9ral\n- *ID_TRONCON*: id_troncon[text] Identifiant du tron\u00e7on\n- *TRONCON*: troncon[text] Nom du tron\u00e7on\n- *ID_MODE*: id_mode[text] Identifiant du mode\n- *MODE*: mode[text] Mode de transport, selon nouvelle charte des modes\n- *SOUS_MODE*: sous_mode[text] Mode de transport, selon l'ancienne charte des modes\n- *INDICE*: indice[text] Indice de ligne\n- *PHASE*: phase[text] Phase du tron\u00e7on\n- *VARIANTE*: variante[text] Variante de tron\u00e7on\n- *CREATION*: creation[int] cr\u00e9ation d'une nouvelle ligne de transport\n- *PROLONG*: prolong[int] prolongement d'une ligne de transport existante\n- *AMELIOR*: amelior[int] op\u00e9ration d'am\u00e9lioration d'une ligne de transport existante\n- *STATUT*: statut[text] Statut de l'op\u00e9ration en cours\n3 = concertation pr\u00e9alable, d\u00e9bat public\n7 = phase AVP (conception g\u00e9n\u00e9rale)\n8 = phase PRO (conception d\u00e9taill\u00e9e)\n9 = phase travaux\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-25T17:51:20.575000",
+        "check:status": 200,
+        "check:url": "http://opendata.stif.info//explore/dataset/projets_lignes_idf/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "c6035435-c663-418f-8b00-631eb13a794b",
+      "last_modified": "2016-08-11T15:20:58",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c6035435-c663-418f-8b00-631eb13a794b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:14:21.349000",
+      "title": "Export au format Shapefile",
+      "url": "http://opendata.stif.info//explore/dataset/projets_lignes_idf/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "lignes-de-transport-en-projet-en-ile-de-france",
+  "spatial": null,
+  "tags": [
+    "donnees-geographiques",
+    "lignes",
+    "projets",
+    "structure-du-reseau"
+  ],
+  "temporal_coverage": null,
+  "title": "Lignes de transport en projet en Ile-de-France",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/lignes-de-transport-en-projet-en-ile-de-france/"
+}

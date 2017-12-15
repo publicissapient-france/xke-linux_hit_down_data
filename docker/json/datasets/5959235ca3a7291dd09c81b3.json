@@ -1,0 +1,123 @@
+{
+  "badges": [],
+  "created_at": "2017-06-12T00:00:00",
+  "deleted": null,
+  "description": "Sur le territoire de la Gironde et par commune, prix TTC du service de l'assainissement au m3 pour une facture type de 120 m3",
+  "extras": {
+    "ckan:name": "liste-des-prix-de-lassainissement-par-commune",
+    "contact_email": "mailto:dgad-dat-set@cg33.fr",
+    "contact_name": "set-dat",
+    "contact_uri": "https://datacat.datalocale.fr/414668",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+    "guid": "https://datacat.datalocale.fr/414669",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-07-07T06:08:31.720034",
+    "harvest:remote_id": "d49c4327-9d91-4069-8612-5797b6425e4b",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "0f6b42fa-c145-4664-a9a7-b45be7f24c64",
+    "issued": "2013-01-02T17:00:37+00:00",
+    "modified": "2016-07-21T06:23:44.597912+00:00",
+    "publisher_email": "mailto:c.gaffory@cg33.fr",
+    "publisher_name": "Christian Gaffory",
+    "publisher_uri": "https://datacat.datalocale.fr/414667",
+    "theme": "[\"assainissement\"]",
+    "uri": "https://datacat.datalocale.fr/414669"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5959235ca3a7291dd09c81b3",
+  "last_modified": "2017-07-07T06:08:31.728000",
+  "last_update": "2017-07-02T18:46:20.037000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-prix-de-lassainissement-par-commune-1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:46:20.037000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T16:13:42.008000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414673/raw/2013-01-18-093856R_OPENDATA_PRIX-A-TTCdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "c4873a9a-ac3e-4460-b0c3-c724c70407d7",
+      "last_modified": "2017-07-07T06:08:31.718000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c4873a9a-ac3e-4460-b0c3-c724c70407d7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-07-02T18:46:20.037000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414673/raw/2013-01-18-093856R_OPENDATA_PRIX-A-TTCdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:46:20.037000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T12:21:24.904000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414671/raw/2013-01-18-093856R_OPENDATA_PRIX-A-TTC.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a75c1f5c-f4db-42c3-8efb-65ecfe31c90e",
+      "last_modified": "2017-07-07T06:08:31.718000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a75c1f5c-f4db-42c3-8efb-65ecfe31c90e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T18:46:20.037000",
+      "title": "Description of the ressource",
+      "url": "https://datacat.datalocale.fr/file/414671/raw/2013-01-18-093856R_OPENDATA_PRIX-A-TTC.csv"
+    }
+  ],
+  "slug": "liste-des-prix-de-lassainissement-par-commune-1",
+  "spatial": null,
+  "tags": [
+    "assainissement",
+    "commune",
+    "eau",
+    "prix"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des prix de l'assainissement par commune",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-prix-de-lassainissement-par-commune-1/"
+}

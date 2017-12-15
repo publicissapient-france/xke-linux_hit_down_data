@@ -1,0 +1,1579 @@
+{
+  "badges": [],
+  "created_at": "2017-06-21T00:00:00",
+  "deleted": null,
+  "description": "Taux des donateurs imposables d\u00e9clarant un don aux associations.",
+  "extras": {
+    "ckan:name": "taux-des-donateurs-imposables-declarant-un-don-aux-associations",
+    "contact_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "contact_name": "Mission Agenda 21",
+    "contact_uri": "https://datacat.datalocale.fr/414579",
+    "guid": "https://datacat.datalocale.fr/414674",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-09-29T07:54:48.320610",
+    "harvest:remote_id": "e583ac85-e780-4749-8940-9392d8953c4f",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "0f864e39-125f-4c9a-a50a-8e3bbe7c8c33",
+    "issued": "2013-08-27T09:44:34+00:00",
+    "modified": "2016-07-18T09:21:05.037399+00:00",
+    "publisher_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "publisher_name": "dgsd-a21",
+    "publisher_uri": "https://datacat.datalocale.fr/414578",
+    "theme": "[\"vie associative\"]",
+    "uri": "https://datacat.datalocale.fr/414674"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "595923c0a3a7291dd09c81d7",
+  "last_modified": "2017-09-29T07:54:48.322000",
+  "last_update": "2017-09-12T07:51:29.045000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/taux-des-donateurs-imposables-declarant-un-don-aux-associations/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:48:00.505000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T07:36:36.082000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "72aa29f1-6abd-4bc3-8c4a-f107f51b2043",
+      "last_modified": "2017-07-07T06:10:08.422000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/72aa29f1-6abd-4bc3-8c4a-f107f51b2043",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T18:48:00.506000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:48:00.506000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T03:12:30.258000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "7bcff1f0-1b80-4cce-a448-f4e98a789bf3",
+      "last_modified": "2017-07-07T06:10:08.422000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7bcff1f0-1b80-4cce-a448-f4e98a789bf3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-07-02T18:48:00.506000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:07:09.650000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T09:16:14.519000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "15a4dc0b-b6c0-4397-9c3a-4e5317516986",
+      "last_modified": "2017-07-08T07:07:09.650000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/15a4dc0b-b6c0-4397-9c3a-4e5317516986",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-08T07:07:09.650000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:07:09.650000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T07:36:38.739000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "f661a80c-6868-4b3a-81a3-bf917d68efcb",
+      "last_modified": "2017-07-08T07:07:09.651000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f661a80c-6868-4b3a-81a3-bf917d68efcb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-07-08T07:07:09.650000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-09T07:03:24.742000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T01:50:00.673000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "9d55e397-f6b3-4977-9069-12758d847df5",
+      "last_modified": "2017-07-09T07:03:24.742000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9d55e397-f6b3-4977-9069-12758d847df5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-09T07:03:24.742000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-09T07:03:24.742000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T07:36:36.079000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "fc39787d-33b9-49f5-8590-632a19a004c1",
+      "last_modified": "2017-07-09T07:03:24.743000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fc39787d-33b9-49f5-8590-632a19a004c1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-07-09T07:03:24.742000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-10T07:08:07.193000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-27T12:10:13.800000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f0b5dfaf-62e0-44bf-aede-9690d7e9086f",
+      "last_modified": "2017-07-10T07:08:07.193000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f0b5dfaf-62e0-44bf-aede-9690d7e9086f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-10T07:08:07.193000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-10T07:08:07.193000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-20T17:01:50.300000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "1d8c43dd-00d1-40d2-9d01-52253c8c9dc0",
+      "last_modified": "2017-07-10T07:08:07.194000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1d8c43dd-00d1-40d2-9d01-52253c8c9dc0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-07-10T07:08:07.193000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-20T02:31:20.748000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-20T17:01:50.300000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "d4ef170e-1689-48b7-a952-9b852ad78527",
+      "last_modified": "2017-08-03T06:09:36.831000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d4ef170e-1689-48b7-a952-9b852ad78527",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-07-20T02:31:20.748000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-20T02:31:20.749000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-20T17:01:50.364000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "793ad480-2389-4e67-9a7d-3bd6a1df2ac9",
+      "last_modified": "2017-08-03T06:09:36.831000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/793ad480-2389-4e67-9a7d-3bd6a1df2ac9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-20T02:31:20.749000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-08T06:06:48.383000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-20T17:01:50.364000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "5048ed6f-8a52-4e3e-9ef4-821e6a6ede62",
+      "last_modified": "2017-08-08T06:06:48.383000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5048ed6f-8a52-4e3e-9ef4-821e6a6ede62",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-08T06:06:48.383000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-08T06:06:48.383000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-20T17:01:50.300000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "b4fdf0e5-91c8-4a47-a259-0df7b0a287fa",
+      "last_modified": "2017-08-08T06:06:48.384000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b4fdf0e5-91c8-4a47-a259-0df7b0a287fa",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-08T06:06:48.384000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-09T06:05:27.054000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-20T17:01:50.364000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "6ba947d5-ac65-44ef-b860-230217001c1b",
+      "last_modified": "2017-08-09T06:05:27.054000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6ba947d5-ac65-44ef-b860-230217001c1b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-09T06:05:27.054000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-09T06:05:27.054000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-20T17:01:50.300000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "1dc01dfe-915d-49c7-8155-7a1d4987a046",
+      "last_modified": "2017-08-09T06:05:27.054000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1dc01dfe-915d-49c7-8155-7a1d4987a046",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-09T06:05:27.054000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-10T06:07:23.683000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-20T17:01:50.300000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "d7670f2b-0063-4f2e-9dfc-90cf31cc548e",
+      "last_modified": "2017-08-10T06:07:23.684000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d7670f2b-0063-4f2e-9dfc-90cf31cc548e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-10T06:07:23.684000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-10T06:07:23.684000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-20T17:01:50.364000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c6338e75-bff9-415b-91ef-e09dcf1b67e9",
+      "last_modified": "2017-08-10T06:07:23.684000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c6338e75-bff9-415b-91ef-e09dcf1b67e9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-10T06:07:23.684000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-11T06:08:04.544000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:27:28.495000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "6d420bd8-503d-4d25-a880-70434e16f4a6",
+      "last_modified": "2017-08-11T06:08:04.544000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6d420bd8-503d-4d25-a880-70434e16f4a6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-11T06:08:04.544000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-11T06:08:04.544000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-20T17:01:50.300000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "1693bb6f-8a31-4557-8a35-aed828452865",
+      "last_modified": "2017-08-11T06:08:04.545000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1693bb6f-8a31-4557-8a35-aed828452865",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-11T06:08:04.545000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-12T06:03:42.473000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-20T17:01:50.364000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e8772e93-83b7-4b17-b0f3-fc88df99163e",
+      "last_modified": "2017-08-12T06:03:42.473000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e8772e93-83b7-4b17-b0f3-fc88df99163e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-12T06:03:42.473000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-12T06:03:42.474000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:27:30.344000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "11dca79f-2e38-44f2-ba85-e804c3381381",
+      "last_modified": "2017-08-12T06:03:42.474000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/11dca79f-2e38-44f2-ba85-e804c3381381",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-12T06:03:42.474000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-13T06:09:36.758000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:27:30.344000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "2102f6ac-07ad-40aa-8dfd-2edd47ca3441",
+      "last_modified": "2017-08-13T06:09:36.759000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2102f6ac-07ad-40aa-8dfd-2edd47ca3441",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-13T06:09:36.758000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-13T06:09:36.759000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:27:40.632000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "10b814ef-df46-4825-ad23-9b8b7b366634",
+      "last_modified": "2017-08-13T06:09:36.759000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/10b814ef-df46-4825-ad23-9b8b7b366634",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-13T06:09:36.759000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-14T07:13:05.346000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:27:48.661000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "06b8bd08-cc13-492b-b3c6-3c6dd13c807a",
+      "last_modified": "2017-08-14T07:13:05.347000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/06b8bd08-cc13-492b-b3c6-3c6dd13c807a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-14T07:13:05.347000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-14T07:13:05.347000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:27:49.479000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "29104c8a-7747-4c57-a922-96de9c4805e1",
+      "last_modified": "2017-08-14T07:13:05.347000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/29104c8a-7747-4c57-a922-96de9c4805e1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-14T07:13:05.347000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-15T06:08:52.852000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:27:50.452000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "a0031edf-b9e3-4d5e-9173-881bd61bd0eb",
+      "last_modified": "2017-08-15T06:08:52.853000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a0031edf-b9e3-4d5e-9173-881bd61bd0eb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-15T06:08:52.853000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-15T06:08:52.853000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:27:50.949000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "325195da-0856-4939-866f-6c535a6f723a",
+      "last_modified": "2017-08-15T06:08:52.853000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/325195da-0856-4939-866f-6c535a6f723a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-15T06:08:52.853000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-16T07:13:03.896000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:27:51.984000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "b46165b2-e0ad-46b2-b1ac-8ff09c250856",
+      "last_modified": "2017-08-16T07:13:03.896000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b46165b2-e0ad-46b2-b1ac-8ff09c250856",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-16T07:13:03.896000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-16T07:13:03.897000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:27:53.160000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "79bf28d4-3048-4cf0-8cbf-c6536c3f41ef",
+      "last_modified": "2017-08-16T07:13:03.897000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/79bf28d4-3048-4cf0-8cbf-c6536c3f41ef",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-16T07:13:03.897000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-17T06:04:53.047000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:27:55.069000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "75658185-c034-4e7b-bccd-386d4977f30e",
+      "last_modified": "2017-08-17T06:04:53.047000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/75658185-c034-4e7b-bccd-386d4977f30e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-17T06:04:53.047000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-17T06:04:53.047000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-27T12:10:14.326000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "e37d51b1-55bf-4821-aac6-8109a84cf935",
+      "last_modified": "2017-08-17T06:04:53.048000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e37d51b1-55bf-4821-aac6-8109a84cf935",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-17T06:04:53.048000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-18T06:11:27.356000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:27:55.501000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "5442f5fe-b031-4def-b87e-e7171074c524",
+      "last_modified": "2017-08-18T06:11:27.357000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5442f5fe-b031-4def-b87e-e7171074c524",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-18T06:11:27.357000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-18T06:11:27.357000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:27:53.978000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "c4c9fa09-7353-45fb-85c3-d9ee38e319de",
+      "last_modified": "2017-08-18T06:11:27.358000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c4c9fa09-7353-45fb-85c3-d9ee38e319de",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-18T06:11:27.358000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-19T06:07:00.616000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:27:56.882000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "df6e8142-71a0-42eb-9a87-bd7da4d4e4e6",
+      "last_modified": "2017-08-19T06:07:00.617000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/df6e8142-71a0-42eb-9a87-bd7da4d4e4e6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-19T06:07:00.616000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-19T06:07:00.617000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:27:56.792000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "50cbe667-dd6a-40e5-9bab-5446c13254d0",
+      "last_modified": "2017-08-19T06:07:00.617000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/50cbe667-dd6a-40e5-9bab-5446c13254d0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-19T06:07:00.617000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-20T06:08:37.154000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:27:58.440000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "6d79037a-45e2-41ca-9b95-e3f3bb0e22a6",
+      "last_modified": "2017-08-20T06:08:37.154000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6d79037a-45e2-41ca-9b95-e3f3bb0e22a6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-20T06:08:37.154000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-20T06:08:37.155000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:28:00.724000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c77c3ed4-9a04-473f-9414-add786b6b1d7",
+      "last_modified": "2017-08-20T06:08:37.155000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c77c3ed4-9a04-473f-9414-add786b6b1d7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-20T06:08:37.155000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-21T07:12:36.353000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:28:00.226000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "7970955f-cb4e-4746-a2e6-fee351e58088",
+      "last_modified": "2017-08-21T07:12:36.353000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7970955f-cb4e-4746-a2e6-fee351e58088",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-21T07:12:36.353000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-21T07:12:36.354000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-27T23:32:44.698000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a81bd704-21ad-4a0e-8fac-3afa80db6e94",
+      "last_modified": "2017-08-21T07:12:36.354000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a81bd704-21ad-4a0e-8fac-3afa80db6e94",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-21T07:12:36.354000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-22T06:07:13.947000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:28:04.572000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "c3da8a7b-c1ee-4801-b736-d86ecdda5ccd",
+      "last_modified": "2017-08-22T06:07:13.947000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c3da8a7b-c1ee-4801-b736-d86ecdda5ccd",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-22T06:07:13.947000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-22T06:07:13.948000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:28:03.307000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "033f806c-0017-467c-851a-2be7131fd1a0",
+      "last_modified": "2017-08-22T06:07:13.948000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/033f806c-0017-467c-851a-2be7131fd1a0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-22T06:07:13.948000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-23T06:10:30.843000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:28:05.076000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "594ec8a4-a15c-4688-b5d4-aaea2b7f2ce0",
+      "last_modified": "2017-08-23T06:10:30.844000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/594ec8a4-a15c-4688-b5d4-aaea2b7f2ce0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-23T06:10:30.843000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-23T06:10:30.844000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:28:07.125000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "5447898e-2f9c-4db6-88d1-4c86cfcdab43",
+      "last_modified": "2017-08-23T06:10:30.844000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5447898e-2f9c-4db6-88d1-4c86cfcdab43",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-23T06:10:30.844000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-24T06:08:30.257000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:28:12.627000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "cd14e19c-3643-41b0-abca-8df03ea16a09",
+      "last_modified": "2017-08-24T06:08:30.258000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cd14e19c-3643-41b0-abca-8df03ea16a09",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-24T06:08:30.257000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-24T06:08:30.258000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-27T23:32:42.843000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "6e6764e2-62f6-472f-af4d-604cf970079b",
+      "last_modified": "2017-08-24T06:08:30.258000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6e6764e2-62f6-472f-af4d-604cf970079b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-24T06:08:30.258000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-25T06:07:42.187000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-27T23:32:47.967000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "9180c1cf-fd27-486b-aa88-0592b151d05b",
+      "last_modified": "2017-08-25T06:07:42.188000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9180c1cf-fd27-486b-aa88-0592b151d05b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-25T06:07:42.187000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-25T06:07:42.188000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-27T23:32:47.473000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "524f9cf1-d5e4-4a8f-828f-d8352361e0bc",
+      "last_modified": "2017-08-25T06:07:42.188000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/524f9cf1-d5e4-4a8f-828f-d8352361e0bc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-25T06:07:42.188000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-26T06:12:25.815000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-27T23:32:51.330000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "273678ca-69d7-4249-a25b-ee2688d1fdc0",
+      "last_modified": "2017-08-26T06:12:25.816000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/273678ca-69d7-4249-a25b-ee2688d1fdc0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-26T06:12:25.816000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-26T06:12:25.816000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-27T23:32:52.716000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "4c455fb9-72f8-4b97-bc43-0918329b9544",
+      "last_modified": "2017-08-26T06:12:25.816000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4c455fb9-72f8-4b97-bc43-0918329b9544",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-26T06:12:25.816000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-27T06:07:22.609000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-27T23:32:50.826000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "e3aa5793-7382-4c81-a376-b784d71959b9",
+      "last_modified": "2017-08-27T06:07:22.609000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e3aa5793-7382-4c81-a376-b784d71959b9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-27T06:07:22.609000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-27T06:07:22.609000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-27T23:33:00.886000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "9e6fe5e2-bf14-4b85-8f29-c4dd27b3a627",
+      "last_modified": "2017-08-27T06:07:22.610000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9e6fe5e2-bf14-4b85-8f29-c4dd27b3a627",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-27T06:07:22.609000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-28T06:11:27.459000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-27T23:32:54.126000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f546967b-6ccc-4086-b042-6747518d8b27",
+      "last_modified": "2017-08-28T06:11:27.459000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f546967b-6ccc-4086-b042-6747518d8b27",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-28T06:11:27.459000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-28T06:11:27.460000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-27T23:32:58.105000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "641f6e9a-18b4-4f4e-9c2c-2137b1e85516",
+      "last_modified": "2017-08-28T06:11:27.460000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/641f6e9a-18b4-4f4e-9c2c-2137b1e85516",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-28T06:11:27.460000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-29T06:08:50.885000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-27T23:33:03.634000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "525ea533-a4e3-4138-8e75-0204deeca47b",
+      "last_modified": "2017-09-11T06:19:57.653000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/525ea533-a4e3-4138-8e75-0204deeca47b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-29T06:08:50.885000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-29T06:08:50.885000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-27T23:32:59.344000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "9a045c0c-4f78-4cec-a394-16c78fd95f5e",
+      "last_modified": "2017-09-11T06:19:57.654000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9a045c0c-4f78-4cec-a394-16c78fd95f5e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-08-29T06:08:50.885000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:51:29.045000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-27T23:32:56.757000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "03b819c9-60ef-4cc4-b6a5-213c45e9ccaa",
+      "last_modified": "2017-09-29T07:54:48.319000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/03b819c9-60ef-4cc4-b6a5-213c45e9ccaa",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:51:29.045000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414676/raw/2013-09-02-095106tx-donateurs-imposables-associati.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:51:29.045000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-27T23:32:55.498000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "387c319f-6fad-4d6f-b4e1-bcc9abeb43df",
+      "last_modified": "2017-09-29T07:54:48.319000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/387c319f-6fad-4d6f-b4e1-bcc9abeb43df",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-09-12T07:51:29.045000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414678/raw/2013-09-02-095106tx-donateurs-imposables-associati.html"
+    }
+  ],
+  "slug": "taux-des-donateurs-imposables-declarant-un-don-aux-associations",
+  "spatial": null,
+  "tags": [
+    "associations",
+    "don",
+    "mecenat"
+  ],
+  "temporal_coverage": null,
+  "title": "Taux des donateurs imposables d\u00e9clarant un don aux associations",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/taux-des-donateurs-imposables-declarant-un-don-aux-associations/"
+}

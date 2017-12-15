@@ -1,0 +1,198 @@
+{
+  "badges": [],
+  "created_at": "2017-04-10T00:00:00",
+  "deleted": null,
+  "description": "Infrastructures de la Communaut\u00e9 de Communes C\u0153ur C\u00f4te Fleurie, repr\u00e9sent\u00e9s sous forme ponctuelle. Les donn\u00e9es ont \u00e9t\u00e9 num\u00e9ris\u00e9es sur fond de plan cadastral.",
+  "extras": {
+    "Jeu de caract\u00e8res": "UTF-8",
+    "Licence": "ODbL",
+    "Projections": "EPSG:4326 (kml et geojson), EPSG:2154 (shp)",
+    "ckan:name": "infrastructures_ccccf",
+    "harvest:domain": "data.coeurcotefleurie.org",
+    "harvest:last_update": "2017-11-25T01:00:36.329779",
+    "harvest:remote_id": "9fa94904-5918-42d2-b171-7d44fd5016b1",
+    "harvest:source_id": "59f84c7588ee38153106b46c"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5a0da257b595082e619393ce",
+  "last_modified": "2017-11-25T01:00:36.332000",
+  "last_update": "2017-11-16T15:36:07.375000",
+  "license": "odc-odbl",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "Coeur C\u00f4te Fleurie",
+    "class": "Organization",
+    "id": "59f846d588ee380840aa2865",
+    "logo": "https://www.data.gouv.fr/s/avatars/9c/51d093e5ff4e39a583c03020bb43cf-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/9c/51d093e5ff4e39a583c03020bb43cf-100.jpg",
+    "name": "Communaut\u00e9 de Communes Coeur C\u00f4te Fleurie",
+    "page": "https://www.data.gouv.fr/fr/organizations/communaute-de-communes-coeur-cote-fleurie/",
+    "slug": "communaute-de-communes-coeur-cote-fleurie",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/communaute-de-communes-coeur-cote-fleurie/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/infrastructures-ccccf/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-16T15:36:07.374000",
+      "description": "3.1 Ko",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T15:37:19.309000",
+        "check:status": 200,
+        "check:url": "http://data.coeurcotefleurie.org/dataset/9fa94904-5918-42d2-b171-7d44fd5016b1/resource/2378805a-9d49-441d-ad2e-49d5c338ff27/download/infrastructures_ccccf.geojson"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "geojson",
+      "id": "2378805a-9d49-441d-ad2e-49d5c338ff27",
+      "last_modified": "2017-07-31T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2378805a-9d49-441d-ad2e-49d5c338ff27",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-16T15:36:07.374000",
+      "title": "infrastructures_ccccf.geojson",
+      "url": "http://data.coeurcotefleurie.org/dataset/9fa94904-5918-42d2-b171-7d44fd5016b1/resource/2378805a-9d49-441d-ad2e-49d5c338ff27/download/infrastructures_ccccf.geojson"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-16T15:36:07.375000",
+      "description": "5.8 Ko",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T15:37:35.059000",
+        "check:status": 200,
+        "check:url": "http://data.coeurcotefleurie.org/dataset/9fa94904-5918-42d2-b171-7d44fd5016b1/resource/e890314a-0cf2-405e-98ec-81675feeece6/download/infrastructures_ccccf.kml"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "kml",
+      "id": "e890314a-0cf2-405e-98ec-81675feeece6",
+      "last_modified": "2017-07-31T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e890314a-0cf2-405e-98ec-81675feeece6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-16T15:36:07.375000",
+      "title": "infrastructures_ccccf.kml",
+      "url": "http://data.coeurcotefleurie.org/dataset/9fa94904-5918-42d2-b171-7d44fd5016b1/resource/e890314a-0cf2-405e-98ec-81675feeece6/download/infrastructures_ccccf.kml"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-16T15:36:07.375000",
+      "description": "1.9 Ko / zip",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T15:37:35.060000",
+        "check:status": 200,
+        "check:url": "http://data.coeurcotefleurie.org/dataset/9fa94904-5918-42d2-b171-7d44fd5016b1/resource/4f0192bb-c6fd-4afe-84e7-bdb78b0dd9b1/download/infrastructures_ccccf.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "4f0192bb-c6fd-4afe-84e7-bdb78b0dd9b1",
+      "last_modified": "2017-07-31T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4f0192bb-c6fd-4afe-84e7-bdb78b0dd9b1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-16T15:36:07.375000",
+      "title": "infrastructures_ccccf.shp",
+      "url": "http://data.coeurcotefleurie.org/dataset/9fa94904-5918-42d2-b171-7d44fd5016b1/resource/4f0192bb-c6fd-4afe-84e7-bdb78b0dd9b1/download/infrastructures_ccccf.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-16T15:36:07.375000",
+      "description": "1.1 Ko",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T15:37:22.378000",
+        "check:status": 200,
+        "check:url": "http://data.coeurcotefleurie.org/dataset/9fa94904-5918-42d2-b171-7d44fd5016b1/resource/0b17197c-743a-487c-a643-c6ffa8e01031/download/infrastructures_ccccf.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "0b17197c-743a-487c-a643-c6ffa8e01031",
+      "last_modified": "2017-07-31T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0b17197c-743a-487c-a643-c6ffa8e01031",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-16T15:36:07.375000",
+      "title": "infrastructures_ccccf.csv",
+      "url": "http://data.coeurcotefleurie.org/dataset/9fa94904-5918-42d2-b171-7d44fd5016b1/resource/0b17197c-743a-487c-a643-c6ffa8e01031/download/infrastructures_ccccf.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-16T15:36:07.375000",
+      "description": "Flux wms",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T15:37:27.794000",
+        "check:status": 200,
+        "check:url": "https://sig.coeurcotefleurie.org/wms?REQUEST=GetMap&VERSION=1.3.0&CRS=EPSG:2154&WIDTH=800&HEIGHT=800&LAYERS=Couche11&BBOX=480440.6,6914608.4,491340.4,6923625&STYLES=default&FORMAT=image/png"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "wms",
+      "id": "07654436-3efb-429d-81cc-116d2289e293",
+      "last_modified": "2017-11-25T01:00:36.329000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/07654436-3efb-429d-81cc-116d2289e293",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-16T15:36:07.375000",
+      "title": "infrastructures_ccccf.png",
+      "url": "https://sig.coeurcotefleurie.org/wms?REQUEST=GetMap&VERSION=1.3.0&CRS=EPSG:2154&WIDTH=800&HEIGHT=800&LAYERS=Couche11&BBOX=480440.6,6914608.4,491340.4,6923625&STYLES=default&FORMAT=image/png"
+    }
+  ],
+  "slug": "infrastructures-ccccf",
+  "spatial": null,
+  "tags": [
+    "deauville",
+    "environnement",
+    "saint-pierre-azif",
+    "services-d-utilite-publique-et-services-publics",
+    "touques",
+    "trouville-sur-mer",
+    "villers-sur-mer",
+    "villerville"
+  ],
+  "temporal_coverage": null,
+  "title": "Infrastructures de Coeur C\u00f4te Fleurie",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/infrastructures-ccccf/"
+}

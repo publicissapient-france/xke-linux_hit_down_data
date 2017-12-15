@@ -1,0 +1,337 @@
+{
+  "badges": [],
+  "created_at": "2017-09-29T00:00:00",
+  "deleted": null,
+  "description": "Liste des prestataires d\u2019activit\u00e9s li\u00e9es au cheval, au poney ou \u00e0 l\u2019\u00e2ne en Aquitaine, issue de la base de donn\u00e9es SIRTAQUI.\n\nCe fichier contient les informations de g\u00e9olocalisation et de contact, les informations sur le type d\u2019activit\u00e9, les marques et labels, les conditions d\u2019ouverture, les tarifs, les \u00e9quipements et les services propos\u00e9s.",
+  "extras": {
+    "ckan:name": "liste-des-activites-de-pratique-equestre-en-aquitaine",
+    "contact_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "contact_name": "CRTA",
+    "contact_uri": "https://datacat.datalocale.fr/414593",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
+    "guid": "https://datacat.datalocale.fr/415992",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-10-05T06:15:33.266624",
+    "harvest:remote_id": "04e2be40-c778-470a-a8ba-0a81ab871e4c",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "b4871400-c466-46ad-8de8-50722eb7f197",
+    "issued": "2014-12-23T12:26:37+00:00",
+    "modified": "2016-07-18T09:21:07.168702+00:00",
+    "publisher_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "publisher_name": "agence SIRTAQUI",
+    "publisher_type": "\"Organisation \u00e0 but non lucratif\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414592",
+    "remote_url": "http://www.sirtaqui-aquitaine.com",
+    "theme": "[\"tourisme\"]",
+    "uri": "https://datacat.datalocale.fr/415992"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59cf1ab2b59508043de9b886",
+  "last_modified": "2017-10-05T06:15:33.269000",
+  "last_update": "2017-10-02T07:49:50.202000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-activites-de-pratique-equestre-en-aquitaine-2/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:16:50.841000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T06:51:37.608000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415998/raw/liste-activites-cheval-poney-anes-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2ab0ec0e-5acf-49f9-a2c1-c966238b86d4",
+      "last_modified": "2017-10-01T06:06:37.981000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2ab0ec0e-5acf-49f9-a2c1-c966238b86d4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-30T06:16:50.841000",
+      "title": "export en csv (utf-8) des activit\u00e9s de la base de donn\u00e9es SIRTAQUI avec coordonn\u00e9es en wgs84",
+      "url": "https://datacat.datalocale.fr/file/415998/raw/liste-activites-cheval-poney-anes-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:16:50.841000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-11T06:39:12.689000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414600/raw/description%20des%20champs%20des%20jeux%20de%20donn%C3%A9es"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "67befb89-ad24-4112-9a3d-0cb2a09f37fd",
+      "last_modified": "2017-10-01T06:06:37.981000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/67befb89-ad24-4112-9a3d-0cb2a09f37fd",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-30T06:16:50.841000",
+      "title": "description des champs des jeux de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414600/raw/description%20des%20champs%20des%20jeux%20de%20donn%C3%A9es"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:16:50.842000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-11-11T06:39:14.371000",
+        "check:status": 501,
+        "check:url": "http://wcf.tourinsoft.com/Syndication/aquitaine/3db03dc1-a2aa-415f-b219-53f70d387b53/Objects?$format=json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "cee2475c-4fae-4629-863a-5aecf9752fe3",
+      "last_modified": "2017-10-01T06:06:37.981000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cee2475c-4fae-4629-863a-5aecf9752fe3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-09-30T06:16:50.842000",
+      "title": "Flux de r\u00e9cup\u00e9ration des donn\u00e9es en temps r\u00e9el",
+      "url": "http://wcf.tourinsoft.com/Syndication/aquitaine/3db03dc1-a2aa-415f-b219-53f70d387b53/Objects?$format=json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:16:50.842000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-11T06:39:12.712000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1282496/raw/liste-activites-cheval-poney-anes-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e58a651d-5b1d-4595-a34d-9bc6085d8059",
+      "last_modified": "2017-10-01T06:06:37.981000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e58a651d-5b1d-4595-a34d-9bc6085d8059",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-30T06:16:50.842000",
+      "title": "liste-activites-cheval-poney-anes-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1282496/raw/liste-activites-cheval-poney-anes-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:16:50.843000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-08T00:30:51.214000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415994/raw/liste-xml-activites-cheval-poney-anes-aquitaine.xml"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "79f10da3-27c1-4e2a-9e42-2a000a910a89",
+      "last_modified": "2017-10-01T06:06:37.982000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/79f10da3-27c1-4e2a-9e42-2a000a910a89",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/xml",
+      "published": "2017-09-30T06:16:50.843000",
+      "title": "extraction au format tourinfo de la base de donn\u00e9es de SIRTAQUI",
+      "url": "https://datacat.datalocale.fr/file/415994/raw/liste-xml-activites-cheval-poney-anes-aquitaine.xml"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-02T07:49:50.200000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-08T00:30:47.347000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415998/raw/liste-activites-cheval-poney-anes-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "205e189d-e7e0-430f-a008-ced1771f7329",
+      "last_modified": "2017-10-05T06:15:33.265000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/205e189d-e7e0-430f-a008-ced1771f7329",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-02T07:49:50.200000",
+      "title": "export en csv (utf-8) des activit\u00e9s de la base de donn\u00e9es SIRTAQUI avec coordonn\u00e9es en wgs84",
+      "url": "https://datacat.datalocale.fr/file/415998/raw/liste-activites-cheval-poney-anes-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-02T07:49:50.201000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T23:40:32.670000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414600/raw/description%20des%20champs%20des%20jeux%20de%20donn%C3%A9es"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "173be4e8-29c3-4a5c-b8a3-998dfdfd4d2c",
+      "last_modified": "2017-10-05T06:15:33.265000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/173be4e8-29c3-4a5c-b8a3-998dfdfd4d2c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-02T07:49:50.201000",
+      "title": "description des champs des jeux de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414600/raw/description%20des%20champs%20des%20jeux%20de%20donn%C3%A9es"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-02T07:49:50.201000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-10-24T23:23:04.768000",
+        "check:status": 501,
+        "check:url": "http://wcf.tourinsoft.com/Syndication/aquitaine/3db03dc1-a2aa-415f-b219-53f70d387b53/Objects?$format=json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "b17f1fcb-8034-48b4-b163-9728b518afe3",
+      "last_modified": "2017-10-05T06:15:33.265000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b17f1fcb-8034-48b4-b163-9728b518afe3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-10-02T07:49:50.201000",
+      "title": "Flux de r\u00e9cup\u00e9ration des donn\u00e9es en temps r\u00e9el",
+      "url": "http://wcf.tourinsoft.com/Syndication/aquitaine/3db03dc1-a2aa-415f-b219-53f70d387b53/Objects?$format=json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-02T07:49:50.202000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T23:23:50.892000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415994/raw/liste-xml-activites-cheval-poney-anes-aquitaine.xml"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "fe6c098e-faac-4e13-a10e-089cb536d0c1",
+      "last_modified": "2017-10-05T06:15:33.265000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fe6c098e-faac-4e13-a10e-089cb536d0c1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/xml",
+      "published": "2017-10-02T07:49:50.202000",
+      "title": "extraction au format tourinfo de la base de donn\u00e9es de SIRTAQUI",
+      "url": "https://datacat.datalocale.fr/file/415994/raw/liste-xml-activites-cheval-poney-anes-aquitaine.xml"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-02T07:49:50.202000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "648fe137-01ee-4c0d-9c87-0df834f4eaf4",
+      "last_modified": "2017-10-05T06:15:33.265000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/648fe137-01ee-4c0d-9c87-0df834f4eaf4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-02T07:49:50.202000",
+      "title": "liste-activites-cheval-poney-anes-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1282496/raw/liste-activites-cheval-poney-anes-aquitaine.csv"
+    }
+  ],
+  "slug": "liste-des-activites-de-pratique-equestre-en-aquitaine-2",
+  "spatial": null,
+  "tags": [
+    "ane",
+    "cheval",
+    "poney",
+    "sport",
+    "tourisme"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des activit\u00e9s de pratique \u00e9questre en aquitaine",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-activites-de-pratique-equestre-en-aquitaine-2/"
+}

@@ -1,0 +1,79 @@
+{
+  "badges": [],
+  "created_at": "2013-11-30T00:00:00",
+  "deleted": null,
+  "description": "",
+  "extras": {
+    "ckan:name": "localisation-des-instituts-francais-dans-le-monde",
+    "harvest:domain": "www.nosdonnees.fr",
+    "harvest:last_update": "2017-07-10T06:05:34.783105",
+    "harvest:remote_id": "97d435c1-3e82-469e-a28e-7e74c67b5fa7",
+    "harvest:source_id": "5878ee1588ee385bffa6f719"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5878ee5fa3a7291484cac809",
+  "last_modified": "2017-07-10T06:05:34.785000",
+  "last_update": "2017-01-13T16:12:31.467000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff99a3a7292c64a78016",
+    "logo": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-100.png",
+    "name": "NosDonn\u00e9es.fr",
+    "page": "https://www.data.gouv.fr/fr/organizations/nosdonnees-fr/",
+    "slug": "nosdonnees-fr",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nosdonnees-fr/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/localisation-des-instituts-francais-dans-le-monde/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:31.467000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-10-30T15:05:37.561000",
+        "check:status": 404,
+        "check:url": "http://www.nosdonnees.fr/fr/storage/f/2013-11-30T123226/if-monde.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b98858d6-db31-4816-bbfb-a4ea37514a28",
+      "last_modified": "2013-11-30T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b98858d6-db31-4816-bbfb-a4ea37514a28",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "",
+      "published": "2017-01-13T16:12:31.467000",
+      "title": "2013-11-30T123226/if-monde.csv",
+      "url": "http://www.nosdonnees.fr/fr/storage/f/2013-11-30T123226/if-monde.csv"
+    }
+  ],
+  "slug": "localisation-des-instituts-francais-dans-le-monde",
+  "spatial": null,
+  "tags": [],
+  "temporal_coverage": null,
+  "title": "Localisation des instituts fran\u00e7ais dans le monde",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/localisation-des-instituts-francais-dans-le-monde/"
+}

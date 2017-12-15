@@ -1,0 +1,138 @@
+{
+  "badges": [],
+  "created_at": "2014-05-19T00:00:00",
+  "deleted": null,
+  "description": "Vous trouverez ici les points d'int\u00e9r\u00eat issus du site mobile NFC \"transversalit\u00e9\", qui concernent les oeuvres d'art longeant la ligne 1 du tramway.",
+  "extras": {
+    "ckan:name": "points-d-interet-nfc-art-dans-la-ville",
+    "harvest:domain": "opendata.nicecotedazur.org",
+    "harvest:last_update": "2017-09-05T15:33:22.282829",
+    "harvest:remote_id": "5f3f397e-6ae8-46ea-a1d4-78e913b23400",
+    "harvest:source_id": "59aea691c751df40c6e8212c"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59aea7a2a3a72917d9f3fc83",
+  "last_modified": "2017-09-05T15:33:22.285000",
+  "last_update": "2017-09-05T15:33:22.282000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "59aea226c751df38f3f6834b",
+    "logo": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-100.png",
+    "name": "Nice C\u00f4te d'Azur",
+    "page": "https://www.data.gouv.fr/fr/organizations/nice-cote-dazur/",
+    "slug": "nice-cote-dazur",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nice-cote-dazur/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/points-d-interet-nfc-art-dans-la-ville/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:22.281000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T17:42:31.850000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-05-19T15%3A30%3A17.573Z/art-dans-la-ville.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a7aba9e9-9dde-4bea-9f50-204cf969f5ff",
+      "last_modified": "2017-09-05T15:33:22.281000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a7aba9e9-9dde-4bea-9f50-204cf969f5ff",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-09-05T15:33:22.281000",
+      "title": "art-dans-la-ville.csv",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-05-19T15%3A30%3A17.573Z/art-dans-la-ville.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:22.281000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T17:42:33.428000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-05-19T15%3A35%3A36.836Z/art-dans-la-ville.xls"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xls",
+      "id": "d2461595-aabd-469c-9437-f5b2c5daabab",
+      "last_modified": "2017-09-05T15:33:22.281000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d2461595-aabd-469c-9437-f5b2c5daabab",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-09-05T15:33:22.281000",
+      "title": "Art_dans_la_ville.xls",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-05-19T15%3A35%3A36.836Z/art-dans-la-ville.xls"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:22.282000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T17:42:32.546000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-05-30T13%3A57%3A54.424Z/art-dans-la-ville.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "af4d1239-5027-4c7a-af3e-36d86a00eacd",
+      "last_modified": "2014-05-30T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/af4d1239-5027-4c7a-af3e-36d86a00eacd",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.oasis.opendocument.spreadsheet",
+      "published": "2017-09-05T15:33:22.282000",
+      "title": "art-dans-la-ville.ods",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-05-30T13%3A57%3A54.424Z/art-dans-la-ville.ods"
+    }
+  ],
+  "slug": "points-d-interet-nfc-art-dans-la-ville",
+  "spatial": null,
+  "tags": [
+    "art",
+    "culture",
+    "nfc",
+    "oeuvre",
+    "tramway"
+  ],
+  "temporal_coverage": null,
+  "title": "Points d'int\u00e9r\u00eat NFC \"Art dans la ville\"",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/points-d-interet-nfc-art-dans-la-ville/"
+}

@@ -1,0 +1,61 @@
+{
+  "acronym": "CD31",
+  "badges": [],
+  "created_at": "2016-11-14T19:37:04.809000",
+  "deleted": null,
+  "description": "Conseil d\u00e9partemental de Haute-Garonne",
+  "id": "582a045088ee3875cec65bb4",
+  "last_modified": "2017-11-21T23:41:13.592000",
+  "logo": "https://www.data.gouv.fr/s/avatars/0a/35f64f1b1e4ad4bac3eca89551c14e-original.png",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/0a/35f64f1b1e4ad4bac3eca89551c14e-100.png",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/6b/e0dc1865a64505823ca84478f83a50-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/6b/e0dc1865a64505823ca84478f83a50-100.jpg",
+        "class": "User",
+        "first_name": "Jean-yves",
+        "id": "56b3799c88ee3875741690e3",
+        "last_name": "ROBIN",
+        "page": "https://www.data.gouv.fr/fr/users/jean-yves-robin-3/",
+        "slug": "jean-yves-robin-3",
+        "uri": "https://www.data.gouv.fr/api/1/users/jean-yves-robin-3/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Maylis",
+        "id": "58d3e68cc751df2f002d378e",
+        "last_name": "GALAUP",
+        "page": "https://www.data.gouv.fr/fr/users/maylis-galaup/",
+        "slug": "maylis-galaup",
+        "uri": "https://www.data.gouv.fr/api/1/users/maylis-galaup/"
+      }
+    }
+  ],
+  "metrics": {
+    "badges": 0,
+    "dataset_views": 2,
+    "datasets": 62,
+    "followers": 2,
+    "members": 2,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 0,
+    "resource_downloads": 2,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "name": "Conseil d\u00e9partemental de Haute-Garonne",
+  "page": "https://www.data.gouv.fr/fr/organizations/conseil-departemental-de-haute-garonne-2/",
+  "slug": "conseil-departemental-de-haute-garonne-2",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/conseil-departemental-de-haute-garonne-2/",
+  "url": "https://www.haute-garonne.fr/"
+}

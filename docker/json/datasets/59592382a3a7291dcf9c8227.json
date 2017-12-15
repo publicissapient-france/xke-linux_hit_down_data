@@ -1,0 +1,152 @@
+{
+  "badges": [],
+  "created_at": "2017-06-12T00:00:00",
+  "deleted": null,
+  "description": "polygones des parcelles propri\u00e9t\u00e9s du d\u00e9partement de la Gironde avec indication de la fonction li\u00e9e \u00e0 leur acquisition",
+  "extras": {
+    "ckan:name": "parcelles-du-domaine-departemental",
+    "contact_email": "mailto:dp@gironde.fr",
+    "contact_name": "Direcdtion du patrimoine",
+    "contact_uri": "https://datacat.datalocale.fr/415756",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+    "guid": "https://datacat.datalocale.fr/415757",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-07-07T06:09:08.135253",
+    "harvest:remote_id": "0e385b49-a0bf-4ea8-8b35-bacf4440fe09",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "90f25056-42d9-4104-92e4-001c592e9f51",
+    "issued": "2016-03-30T13:27:42+00:00",
+    "modified": "2016-07-18T09:21:06.204858+00:00",
+    "publisher_email": "mailto:datalocale@gironde.fr",
+    "publisher_name": "D\u00e9partement de la Gironde",
+    "publisher_type": "\"Collectivit\u00e9 locale\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414548",
+    "remote_url": "http://www.gironde.fr/jcms/cgw_42123/foncier",
+    "theme": "[\"propri\u00e9t\u00e9 fonci\u00e8re\"]",
+    "uri": "https://datacat.datalocale.fr/415757"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59592382a3a7291dcf9c8227",
+  "last_modified": "2017-07-07T06:09:08.138000",
+  "last_update": "2017-07-02T18:46:58.661000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/parcelles-du-domaine-departemental-1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:46:58.659000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-18T04:55:32.518000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415763/raw/Parcelles-domaineDept33-commune-politique-publique.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c2ab5390-9a6b-441a-8570-946cfc615169",
+      "last_modified": "2017-07-07T06:09:08.134000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c2ab5390-9a6b-441a-8570-946cfc615169",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T18:46:58.660000",
+      "title": "liste des parcelles par commune et par politique publique en csv encod\u00e9 en UTF-8",
+      "url": "https://datacat.datalocale.fr/file/415763/raw/Parcelles-domaineDept33-commune-politique-publique.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:46:58.660000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T10:54:53.539000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415761/raw/Parcelles_p2015-shp.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "bin",
+      "id": "273cacc4-2925-428c-8447-4710d96abed3",
+      "last_modified": "2017-07-07T06:09:08.134000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/273cacc4-2925-428c-8447-4710d96abed3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/octet-stream",
+      "published": "2017-07-02T18:46:58.660000",
+      "title": "export en shape dans le syst\u00e8me de projection WGS84",
+      "url": "https://datacat.datalocale.fr/file/415761/raw/Parcelles_p2015-shp.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:46:58.660000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-18T04:55:32.547000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415759/raw/Parcelles_2015_wgs84_j.kmz"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "kmz",
+      "id": "50029f06-6cb2-402e-bead-4e422a510237",
+      "last_modified": "2017-07-07T06:09:08.134000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/50029f06-6cb2-402e-bead-4e422a510237",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T18:46:58.661000",
+      "title": "export de la couche du syst\u00e8me d'information g\u00e9ographique en KML avec le syst\u00e8me de projection wgs84",
+      "url": "https://datacat.datalocale.fr/file/415759/raw/Parcelles_2015_wgs84_j.kmz"
+    }
+  ],
+  "slug": "parcelles-du-domaine-departemental-1",
+  "spatial": null,
+  "tags": [
+    "cadastre",
+    "foncier",
+    "parcelle",
+    "patrimoine"
+  ],
+  "temporal_coverage": null,
+  "title": "parcelles du domaine d\u00e9partemental",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/parcelles-du-domaine-departemental-1/"
+}

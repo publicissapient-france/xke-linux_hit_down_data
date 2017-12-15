@@ -1,0 +1,115 @@
+{
+  "badges": [
+    {
+      "kind": "c3"
+    }
+  ],
+  "created_at": "2015-10-01T22:12:43.265000",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es permet de visualiser \u00e0 fin septembre 2017, le parc des diff\u00e9rentes fili\u00e8res de production raccord\u00e9es au r\u00e9seau de distribution g\u00e9r\u00e9 par Enedis, en nombre et en puissance. Un d\u00e9tail de la r\u00e9partition en fonction de la puissance unitaire des installations est \u00e9galement donn\u00e9.\n\nCes donn\u00e9es sont publi\u00e9es dans le respect des r\u00e8gles relatives \u00e0 la protection des Informations Commercialement Sensibles.\n\nVisualisez aussi les donn\u00e9es du Panorama des installations producteurs sur notre [site internet](http://www.erdf.fr/open-data-panorama-des-installations).",
+  "extras": {
+    "harvest:domain": "erdf.opendatasoft.com",
+    "harvest:last_update": "2017-11-27T05:00:59.300945",
+    "harvest:remote_id": "parc-raccorde-par-tranches",
+    "harvest:source_id": "560d93b3c751df40ee756895",
+    "ods:has_records": true,
+    "ods:url": "https://erdf.opendatasoft.com//explore/dataset/parc-raccorde-par-tranches/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "560d93bba3a7294ad7ff2d07",
+  "last_modified": "2017-11-27T05:00:59.303000",
+  "last_update": "2017-11-27T05:00:59.299000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 2
+  },
+  "organization": {
+    "acronym": "ENEDIS",
+    "class": "Organization",
+    "id": "560d929ac751df40ef756894",
+    "logo": "https://www.data.gouv.fr/s/avatars/1f/42d2d1de184464bff9501b4d99461b-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/1f/42d2d1de184464bff9501b4d99461b-100.jpg",
+    "name": "ENEDIS",
+    "page": "https://www.data.gouv.fr/fr/organizations/electricite-reseau-distribution-france/",
+    "slug": "electricite-reseau-distribution-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/electricite-reseau-distribution-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/parc-des-installations-de-production-raccordees-sur-le-reseau-enedis-par-tranche-de-puissance/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:00:59.299000",
+      "description": "- *code typeProd*: code_typeprod[int]\n- *Type de production*: typeprod[text]\n- *Tranches de puissance*: tranche[text]\n- *Nombre d'installations*: nb[int]\n- *Puissance cumul\u00e9e (MW)*: mw[double]\n- *Fin de trimestre*: fin_de_trimestre[date]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T19:32:12.558000",
+        "check:status": 200,
+        "check:url": "https://erdf.opendatasoft.com//explore/dataset/parc-raccorde-par-tranches/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "0438ad98-24d8-4e16-b98c-d670125ea823",
+      "last_modified": "2017-10-26T14:56:18",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0438ad98-24d8-4e16-b98c-d670125ea823",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:00:59.299000",
+      "title": "Export au format CSV",
+      "url": "https://erdf.opendatasoft.com//explore/dataset/parc-raccorde-par-tranches/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:00:59.299000",
+      "description": "- *code typeProd*: code_typeprod[int]\n- *Type de production*: typeprod[text]\n- *Tranches de puissance*: tranche[text]\n- *Nombre d'installations*: nb[int]\n- *Puissance cumul\u00e9e (MW)*: mw[double]\n- *Fin de trimestre*: fin_de_trimestre[date]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T19:32:11.031000",
+        "check:status": 200,
+        "check:url": "https://erdf.opendatasoft.com//explore/dataset/parc-raccorde-par-tranches/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "ea38c628-58da-4cd0-add9-30b89f766ceb",
+      "last_modified": "2017-10-26T14:56:18",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ea38c628-58da-4cd0-add9-30b89f766ceb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:00:59.299000",
+      "title": "Export au format JSON",
+      "url": "https://erdf.opendatasoft.com//explore/dataset/parc-raccorde-par-tranches/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "parc-des-installations-de-production-raccordees-sur-le-reseau-enedis-par-tranche-de-puissance",
+  "spatial": null,
+  "tags": [
+    "consommation-et-production",
+    "filieres",
+    "production"
+  ],
+  "temporal_coverage": null,
+  "title": "Parc des installations de production raccord\u00e9es sur le r\u00e9seau Enedis par tranche de puissance",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/parc-des-installations-de-production-raccordees-sur-le-reseau-enedis-par-tranche-de-puissance/"
+}

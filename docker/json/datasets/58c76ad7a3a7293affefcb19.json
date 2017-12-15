@@ -1,0 +1,147 @@
+{
+  "badges": [],
+  "created_at": "2017-03-14T05:00:23.981000",
+  "deleted": null,
+  "description": "Ce fichier pr\u00e9sente, au 19 juin 2017, pour la France M\u00e9tropolitaine, l'ensemble des lignes souterraines du r\u00e9seau public de transport d'\u00e9lectricit\u00e9 g\u00e9r\u00e9 par RTE.\n\nEn pi\u00e8ce jointe vous trouverez un fichier listant les lignes souterraines d\u00e9coup\u00e9es en tron\u00e7ons. Il s'agit d'un fichier au format SHAPE FILE \n\n(RGF 93 Lambert 93) utilisable dans un syst\u00e8me d'information g\u00e9ographique (SIG). \n\nPour permettre la visualisation sur cette plateforme, ce jeu de donn\u00e9es pr\u00e9sente les tron\u00e7ons d\u00e9coup\u00e9s en segments. \n\nCes donn\u00e9es sont compl\u00e9t\u00e9es par des coordonn\u00e9es g\u00e9ographiques exprim\u00e9es en degr\u00e9s d\u00e9cimaux (DD). \n\n_\u00ab Ce jeu de donn\u00e9es est partag\u00e9 dans le cadre de la directive n\u00b0 2007/2/CE du Parlement europ\u00e9en et du Conseil du 14 mars 2007 dite \u00ab INSPIRE \u00bb \u00e9tablissant une infrastructure d'information g\u00e9ographique dans la Communaut\u00e9 europ\u00e9enne. La directive INSPIRE s\u2019applique aux donn\u00e9es g\u00e9ographiques num\u00e9riques d\u00e9tenues par des autorit\u00e9s publiques et impose de mettre \u00e0 disposition les donn\u00e9es conform\u00e9ment \u00e0 des sp\u00e9cifications techniques harmonis\u00e9es. \u00bb_\n\n_Pour tous renseignements compl\u00e9mentaires sur ce jeu de donn\u00e9es, \u00e9crivez\u00a0 \u00e0:[rte-inspire-infos@rte-france.com](mailto:rte-inspire-infos@rte-france.com)_\n\nLa publication de ce jeu de donn\u00e9es n'exon\u00e8re pas l'utilisateur de son obligation r\u00e9glementaire au titre du d\u00e9cret anti-endommagement (DT/DICT) en cas de travaux _._\n\n* * *\n\n**RTE underground lines**\n\nThis file pr\u00e9sents, at June 19th 2017, all underground lines of the public grid managed by RTE in mainland France.\n\nAttached you will find a file listing the underground lines divided into sections. The file is in SHAPE FILE format. \n\n(RGF 93 Lambert 93) which can be used in geographic information systems (SIG).\n\nTo enable it to be viewed on this platform, the dataset presents the sections divided into segments.\n\nThese data are supplemented with geographic coordinates expressed in decimal degrees (DD).\n\n _'This dataset is shared within the framework of Directive 2007/2/EC by the European Parliament and of the Council of 14 March 2007, known as' INSPIRE', establishing a geographical information infrastructure in the European Community. The INSPIRE Directive applies to digital geographical data held by public authorities and requires data to be made available in accordance with harmonized technical specifications. \u201c_\n\n _For additional information about this dataset please write to:_[ _rte-inspire-infos@rte-france.com_](mailto:rte-inspire-infos@rte-france.com)\n\nPublication of this dataset does not relieve the user of his regulatory obligations under the anti-damage decree (DT/DICT) in the event of works.\n\n __",
+  "extras": {
+    "harvest:domain": "opendata.rte-france.com",
+    "harvest:last_update": "2017-11-27T05:14:39.762922",
+    "harvest:remote_id": "lignes-souterraines",
+    "harvest:source_id": "56ebe63cc751df69fa170353",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.rte-france.com//explore/dataset/lignes-souterraines/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "58c76ad7a3a7293affefcb19",
+  "last_modified": "2017-11-27T05:14:39.765000",
+  "last_update": "2017-11-27T05:14:39.762000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "RTE",
+    "class": "Organization",
+    "id": "55f03e1088ee384bc1a46ec1",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-09-09/595e18df74fa490f93c7b2f52c28730e/sans-titre-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-09-09/595e18df74fa490f93c7b2f52c28730e/sans-titre-100.png",
+    "name": "R\u00e9seau de Transport d'Electricit\u00e9",
+    "page": "https://www.data.gouv.fr/fr/organizations/reseau-de-transport-delectricite/",
+    "slug": "reseau-de-transport-delectricite",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/reseau-de-transport-delectricite/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/lignes-souterraines-rte-au-19-juin-2017/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:39.761000",
+      "description": "- *Tension*: tension_max[text]\n- *Type d'ouvrage*: type_ouvrage[text]\n- *Etat*: etat[text] Indique si le segment est en exploitation ou non.\nLe terme \"accord administratif\" signifie que la ligne est en projet et dispose d'une autorisation administrative. Il peut s'agir, par exemple d'une D\u00e9claration d'Utilit\u00e9 Publique (DUP).\n- *Nombre de circuit*: nombre_de_circuits[int]\n- *Codification 1 de la ligne*: identification_1[text]\n- *Nom 1 de la ligne*: nom_ouvrage[text]\n- *Propri\u00e9taire 1 de la ligne*: proprietaire_1[text]\n- *Codification 2 de la ligne*: identification_2[text]\n- *Nom 2 de la ligne*: nom_ouvrage_2[text]\n- *Propri\u00e9taire 2 de la ligne*: proprietaire_2[text]\n- *Codification 3 de la ligne*: identification_3[text]\n- *Nom 3 de la ligne*: nom_ouvrage_3[text]\n- *Propri\u00e9taire 3 de la ligne*: proprietaire_3[text]\n- *Codification 4 de la ligne*: identification_4[text]\n- *Nom 3 de la ligne*: nom_ouvrage_4[text]\n- *Propri\u00e9taire 4 de la ligne*: proprietaire_4[text]\n- *Codification 5 de la ligne*: identification_5[text]\n- *Nom 5 de la ligne*: nom_ouvrage_5[text]\n- *Propri\u00e9taire 5 de la ligne*: proprietaire_5[text]\n- *Source des donn\u00e9es*: mode_acquisition[text] Indique qui fournit les coordonn\u00e9es g\u00e9ographiques\n- *Classe de pr\u00e9cision*: classe_de_precision[text] A: pr\u00e9cision de la g\u00e9olocalisation < \u00e0 40 cm\nB: pr\u00e9cision de la g\u00e9olocalisation entre 40 cm et 1,50 m\nC: pr\u00e9cision de la g\u00e9olocalisation > 1,50 m\n- *Longitude d\u00e9but (DD)*: e_start_dd[double] Longitude du point de d\u00e9part du segment en degr\u00e9s d\u00e9cimaux\n- *Latitude d\u00e9but (DD)*: n_start_dd[double] Latitude du point de d\u00e9part du tron\u00e7on en degr\u00e9s d\u00e9cimaux\n- *Longitude arriv\u00e9e (DD)*: e_end_dd[double] Longitude du point d'arriv\u00e9e du tron\u00e7on en degr\u00e9s d\u00e9cimaux\n- *Latitude arriv\u00e9e (DD)*: n_end_dd[double] Latitude du point d'arriv\u00e9e du tron\u00e7on en degr\u00e9s d\u00e9cimaux\n- *end*: end[geo_point_2d]\n- *start*: start[geo_point_2d]\n- *Debutexpression*: debutexpression[text]\n- *geoshape*: geoshape[geo_shape]\n- *filtre*: filtre[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "893fab23-7d18-416e-9417-e50d4e18e543",
+      "last_modified": "2017-07-12T12:04:53",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/893fab23-7d18-416e-9417-e50d4e18e543",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:14:39.761000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.rte-france.com//explore/dataset/lignes-souterraines/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:39.761000",
+      "description": "- *Tension*: tension_max[text]\n- *Type d'ouvrage*: type_ouvrage[text]\n- *Etat*: etat[text] Indique si le segment est en exploitation ou non.\nLe terme \"accord administratif\" signifie que la ligne est en projet et dispose d'une autorisation administrative. Il peut s'agir, par exemple d'une D\u00e9claration d'Utilit\u00e9 Publique (DUP).\n- *Nombre de circuit*: nombre_de_circuits[int]\n- *Codification 1 de la ligne*: identification_1[text]\n- *Nom 1 de la ligne*: nom_ouvrage[text]\n- *Propri\u00e9taire 1 de la ligne*: proprietaire_1[text]\n- *Codification 2 de la ligne*: identification_2[text]\n- *Nom 2 de la ligne*: nom_ouvrage_2[text]\n- *Propri\u00e9taire 2 de la ligne*: proprietaire_2[text]\n- *Codification 3 de la ligne*: identification_3[text]\n- *Nom 3 de la ligne*: nom_ouvrage_3[text]\n- *Propri\u00e9taire 3 de la ligne*: proprietaire_3[text]\n- *Codification 4 de la ligne*: identification_4[text]\n- *Nom 3 de la ligne*: nom_ouvrage_4[text]\n- *Propri\u00e9taire 4 de la ligne*: proprietaire_4[text]\n- *Codification 5 de la ligne*: identification_5[text]\n- *Nom 5 de la ligne*: nom_ouvrage_5[text]\n- *Propri\u00e9taire 5 de la ligne*: proprietaire_5[text]\n- *Source des donn\u00e9es*: mode_acquisition[text] Indique qui fournit les coordonn\u00e9es g\u00e9ographiques\n- *Classe de pr\u00e9cision*: classe_de_precision[text] A: pr\u00e9cision de la g\u00e9olocalisation < \u00e0 40 cm\nB: pr\u00e9cision de la g\u00e9olocalisation entre 40 cm et 1,50 m\nC: pr\u00e9cision de la g\u00e9olocalisation > 1,50 m\n- *Longitude d\u00e9but (DD)*: e_start_dd[double] Longitude du point de d\u00e9part du segment en degr\u00e9s d\u00e9cimaux\n- *Latitude d\u00e9but (DD)*: n_start_dd[double] Latitude du point de d\u00e9part du tron\u00e7on en degr\u00e9s d\u00e9cimaux\n- *Longitude arriv\u00e9e (DD)*: e_end_dd[double] Longitude du point d'arriv\u00e9e du tron\u00e7on en degr\u00e9s d\u00e9cimaux\n- *Latitude arriv\u00e9e (DD)*: n_end_dd[double] Latitude du point d'arriv\u00e9e du tron\u00e7on en degr\u00e9s d\u00e9cimaux\n- *end*: end[geo_point_2d]\n- *start*: start[geo_point_2d]\n- *Debutexpression*: debutexpression[text]\n- *geoshape*: geoshape[geo_shape]\n- *filtre*: filtre[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "f9afdda7-aec7-4e30-9d0a-cc3c01942aaf",
+      "last_modified": "2017-07-12T12:04:53",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f9afdda7-aec7-4e30-9d0a-cc3c01942aaf",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:14:39.761000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.rte-france.com//explore/dataset/lignes-souterraines/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:39.761000",
+      "description": "- *Tension*: tension_max[text]\n- *Type d'ouvrage*: type_ouvrage[text]\n- *Etat*: etat[text] Indique si le segment est en exploitation ou non.\nLe terme \"accord administratif\" signifie que la ligne est en projet et dispose d'une autorisation administrative. Il peut s'agir, par exemple d'une D\u00e9claration d'Utilit\u00e9 Publique (DUP).\n- *Nombre de circuit*: nombre_de_circuits[int]\n- *Codification 1 de la ligne*: identification_1[text]\n- *Nom 1 de la ligne*: nom_ouvrage[text]\n- *Propri\u00e9taire 1 de la ligne*: proprietaire_1[text]\n- *Codification 2 de la ligne*: identification_2[text]\n- *Nom 2 de la ligne*: nom_ouvrage_2[text]\n- *Propri\u00e9taire 2 de la ligne*: proprietaire_2[text]\n- *Codification 3 de la ligne*: identification_3[text]\n- *Nom 3 de la ligne*: nom_ouvrage_3[text]\n- *Propri\u00e9taire 3 de la ligne*: proprietaire_3[text]\n- *Codification 4 de la ligne*: identification_4[text]\n- *Nom 3 de la ligne*: nom_ouvrage_4[text]\n- *Propri\u00e9taire 4 de la ligne*: proprietaire_4[text]\n- *Codification 5 de la ligne*: identification_5[text]\n- *Nom 5 de la ligne*: nom_ouvrage_5[text]\n- *Propri\u00e9taire 5 de la ligne*: proprietaire_5[text]\n- *Source des donn\u00e9es*: mode_acquisition[text] Indique qui fournit les coordonn\u00e9es g\u00e9ographiques\n- *Classe de pr\u00e9cision*: classe_de_precision[text] A: pr\u00e9cision de la g\u00e9olocalisation < \u00e0 40 cm\nB: pr\u00e9cision de la g\u00e9olocalisation entre 40 cm et 1,50 m\nC: pr\u00e9cision de la g\u00e9olocalisation > 1,50 m\n- *Longitude d\u00e9but (DD)*: e_start_dd[double] Longitude du point de d\u00e9part du segment en degr\u00e9s d\u00e9cimaux\n- *Latitude d\u00e9but (DD)*: n_start_dd[double] Latitude du point de d\u00e9part du tron\u00e7on en degr\u00e9s d\u00e9cimaux\n- *Longitude arriv\u00e9e (DD)*: e_end_dd[double] Longitude du point d'arriv\u00e9e du tron\u00e7on en degr\u00e9s d\u00e9cimaux\n- *Latitude arriv\u00e9e (DD)*: n_end_dd[double] Latitude du point d'arriv\u00e9e du tron\u00e7on en degr\u00e9s d\u00e9cimaux\n- *end*: end[geo_point_2d]\n- *start*: start[geo_point_2d]\n- *Debutexpression*: debutexpression[text]\n- *geoshape*: geoshape[geo_shape]\n- *filtre*: filtre[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "cb1cfaf2-aa0c-4f4c-888a-2f23fa8c3684",
+      "last_modified": "2017-07-12T12:04:53",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cb1cfaf2-aa0c-4f4c-888a-2f23fa8c3684",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:14:39.762000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.rte-france.com//explore/dataset/lignes-souterraines/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:39.762000",
+      "description": "- *Tension*: tension_max[text]\n- *Type d'ouvrage*: type_ouvrage[text]\n- *Etat*: etat[text] Indique si le segment est en exploitation ou non.\nLe terme \"accord administratif\" signifie que la ligne est en projet et dispose d'une autorisation administrative. Il peut s'agir, par exemple d'une D\u00e9claration d'Utilit\u00e9 Publique (DUP).\n- *Nombre de circuit*: nombre_de_circuits[int]\n- *Codification 1 de la ligne*: identification_1[text]\n- *Nom 1 de la ligne*: nom_ouvrage[text]\n- *Propri\u00e9taire 1 de la ligne*: proprietaire_1[text]\n- *Codification 2 de la ligne*: identification_2[text]\n- *Nom 2 de la ligne*: nom_ouvrage_2[text]\n- *Propri\u00e9taire 2 de la ligne*: proprietaire_2[text]\n- *Codification 3 de la ligne*: identification_3[text]\n- *Nom 3 de la ligne*: nom_ouvrage_3[text]\n- *Propri\u00e9taire 3 de la ligne*: proprietaire_3[text]\n- *Codification 4 de la ligne*: identification_4[text]\n- *Nom 3 de la ligne*: nom_ouvrage_4[text]\n- *Propri\u00e9taire 4 de la ligne*: proprietaire_4[text]\n- *Codification 5 de la ligne*: identification_5[text]\n- *Nom 5 de la ligne*: nom_ouvrage_5[text]\n- *Propri\u00e9taire 5 de la ligne*: proprietaire_5[text]\n- *Source des donn\u00e9es*: mode_acquisition[text] Indique qui fournit les coordonn\u00e9es g\u00e9ographiques\n- *Classe de pr\u00e9cision*: classe_de_precision[text] A: pr\u00e9cision de la g\u00e9olocalisation < \u00e0 40 cm\nB: pr\u00e9cision de la g\u00e9olocalisation entre 40 cm et 1,50 m\nC: pr\u00e9cision de la g\u00e9olocalisation > 1,50 m\n- *Longitude d\u00e9but (DD)*: e_start_dd[double] Longitude du point de d\u00e9part du segment en degr\u00e9s d\u00e9cimaux\n- *Latitude d\u00e9but (DD)*: n_start_dd[double] Latitude du point de d\u00e9part du tron\u00e7on en degr\u00e9s d\u00e9cimaux\n- *Longitude arriv\u00e9e (DD)*: e_end_dd[double] Longitude du point d'arriv\u00e9e du tron\u00e7on en degr\u00e9s d\u00e9cimaux\n- *Latitude arriv\u00e9e (DD)*: n_end_dd[double] Latitude du point d'arriv\u00e9e du tron\u00e7on en degr\u00e9s d\u00e9cimaux\n- *end*: end[geo_point_2d]\n- *start*: start[geo_point_2d]\n- *Debutexpression*: debutexpression[text]\n- *geoshape*: geoshape[geo_shape]\n- *filtre*: filtre[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "21952396-a0ab-4343-bff0-8a0cdacdcabf",
+      "last_modified": "2017-07-12T12:04:53",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/21952396-a0ab-4343-bff0-8a0cdacdcabf",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:14:39.762000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.rte-france.com//explore/dataset/lignes-souterraines/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "lignes-souterraines-rte-au-19-juin-2017",
+  "spatial": null,
+  "tags": [
+    "electricite",
+    "inspire",
+    "reseau",
+    "reseau-de-transport",
+    "sig"
+  ],
+  "temporal_coverage": null,
+  "title": "Lignes souterraines RTE au 19 juin 2017",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/lignes-souterraines-rte-au-19-juin-2017/"
+}

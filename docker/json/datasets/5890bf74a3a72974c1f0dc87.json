@@ -1,0 +1,100 @@
+{
+  "badges": [],
+  "created_at": "2017-01-31T17:46:44.934000",
+  "deleted": null,
+  "description": "Liste des titres de presse b\u00e9n\u00e9ficiant de l'aide \u00e0 la distribution de la presse nationale.\n\nL\u2019aide \u00e0 la distribution de la presse quotidienne nationale d\u2019information politique et g\u00e9n\u00e9rale (d\u00e9cret n\u00b0 2002-629 du 25 avril 2002).\n\nElle s\u2019inscrit, pour la premi\u00e8re section, dans le cadre du syst\u00e8me coop\u00e9ratif de distribution de la presse bien qu\u2019elle soit vers\u00e9e directement aux titres. La seconde section du fonds a pour objet d\u2019aider la distribution des titres de presse \u00e0 l\u2019\u00e9tranger.",
+  "extras": {
+    "harvest:domain": "data.culturecommunication.gouv.fr",
+    "harvest:last_update": "2017-11-27T05:25:04.684477",
+    "harvest:remote_id": "aide-a-la-distribution-de-la-presse-quotidienne-nationale",
+    "harvest:source_id": "5890bf69c751df4121ae0a65",
+    "ods:has_records": true,
+    "ods:url": "https://data.culturecommunication.gouv.fr//explore/dataset/aide-a-la-distribution-de-la-presse-quotidienne-nationale/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5890bf74a3a72974c1f0dc87",
+  "last_modified": "2017-11-27T05:25:04.693000",
+  "last_update": "2017-11-27T05:25:04.682000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff91a3a7292c64a77f73",
+    "logo": "https://www.data.gouv.fr/s/avatars/cf/f1ce1cb584470c8b83a9839dd9c83e-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/cf/f1ce1cb584470c8b83a9839dd9c83e-100.jpg",
+    "name": "Minist\u00e8re de la Culture",
+    "page": "https://www.data.gouv.fr/fr/organizations/ministere-de-la-culture-et-de-la-communication/",
+    "slug": "ministere-de-la-culture-et-de-la-communication",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ministere-de-la-culture-et-de-la-communication/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/aide-a-la-distribution-de-la-presse-quotidienne-nationale-1/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:25:04.680000",
+      "description": "- *Titre*: titre[text]\n- *Montant (\u20ac)*: montant_eu[double]\n- *Section*: section[text]\n- *Ann\u00e9e*: annee[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "22fdf791-b4aa-48e1-97b0-91b400ee9ae6",
+      "last_modified": "2016-11-24T09:45:22",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/22fdf791-b4aa-48e1-97b0-91b400ee9ae6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:25:04.680000",
+      "title": "Export au format CSV",
+      "url": "https://data.culturecommunication.gouv.fr//explore/dataset/aide-a-la-distribution-de-la-presse-quotidienne-nationale/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:25:04.682000",
+      "description": "- *Titre*: titre[text]\n- *Montant (\u20ac)*: montant_eu[double]\n- *Section*: section[text]\n- *Ann\u00e9e*: annee[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "d38a11b3-3253-4272-95c5-b53ba066092f",
+      "last_modified": "2016-11-24T09:45:22",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d38a11b3-3253-4272-95c5-b53ba066092f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:25:04.682000",
+      "title": "Export au format JSON",
+      "url": "https://data.culturecommunication.gouv.fr//explore/dataset/aide-a-la-distribution-de-la-presse-quotidienne-nationale/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "aide-a-la-distribution-de-la-presse-quotidienne-nationale-1",
+  "spatial": null,
+  "tags": [
+    "aide",
+    "presse"
+  ],
+  "temporal_coverage": null,
+  "title": "Aide \u00e0 la distribution de la presse quotidienne nationale",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/aide-a-la-distribution-de-la-presse-quotidienne-nationale-1/"
+}

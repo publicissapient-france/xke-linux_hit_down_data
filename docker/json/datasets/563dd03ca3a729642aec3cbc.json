@@ -1,0 +1,103 @@
+{
+  "badges": [],
+  "created_at": "2015-11-07T11:19:40.157000",
+  "deleted": null,
+  "description": "Pr\u00e9sentation du r\u00e9seau Transilien.\n\nNombre de voyageurs par jour : il s\u2019agit du nombre de voyageurs montants dans les trains de la ligne (ou voyageurs transport\u00e9s) sur un jour ouvrable. Le chiffre a \u00e9t\u00e9 arrondi \u00e0 la centaine la plus proche. Le nombre de montants pour le RER A prend en compte la partie du RER A g\u00e9r\u00e9e par SNCF (de Houilles \u2013 Carri\u00e8res Sur Seine \u00e0 Poissy et de Houilles \u2013 Carri\u00e8res Sur Seine \u00e0 Cergy Le Haut).\n\nAnn\u00e9e de r\u00e9f\u00e9rence des dates de comptage des voyageurs RER A 2014 ; RER B 2014 ; RER C 2012 ; RER 2011 ; RER E 2012 ; H 2013 ; J 20122013 ; L 2010 ; L Grande Ceinture Ouest 2012 ; N 2013 ; P 2010 ; R 2013 ; T4 2011 ; U 2013",
+  "extras": {
+    "harvest:domain": "ressources.data.sncf.com",
+    "harvest:last_update": "2017-11-27T05:01:10.102242",
+    "harvest:remote_id": "presentation-reseau-transilien",
+    "harvest:source_id": "563dd01f88ee386a21e72046",
+    "ods:has_records": true,
+    "ods:url": "https://ressources.data.sncf.com/explore/dataset/presentation-reseau-transilien/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "563dd03ca3a729642aec3cbc",
+  "last_modified": "2017-11-27T05:01:10.106000",
+  "last_update": "2017-11-27T05:01:10.101000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb0a3a7292c64a78115",
+    "logo": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-100.png",
+    "name": "SNCF",
+    "page": "https://www.data.gouv.fr/fr/organizations/sncf/",
+    "slug": "sncf",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/sncf/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/presentation-du-reseau-transilien/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:01:10.101000",
+      "description": "- *ID*: id[text]\n- *Ligne*: ligne[text]\n- *Date de mise en service*: date_de_mise_en_service[date]\n- *Longueur de la voie (km)*: longueur_de_la_voie_km[int]\n- *Nombre de trains par jour*: nombre_de_trains_par_jour[int]\n- *Nombre de voyageurs par jour*: nombre_de_voyageurs_par_jour[int]\n- *Nombre de gares*: nombre_de_gares[int]\n- *Nombre de d\u00e9partement travers\u00e9s*: nombre_de_departements_traverses[int]\n- *Op\u00e9rateurs*: operateur[text]\n- *Blog*: blog_ligne[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "0dfd6def-b707-4229-8276-345b503a5759",
+      "last_modified": "2015-05-26T15:46:43",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0dfd6def-b707-4229-8276-345b503a5759",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:01:10.101000",
+      "title": "Export au format CSV",
+      "url": "https://ressources.data.sncf.com/explore/dataset/presentation-reseau-transilien/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:01:10.101000",
+      "description": "- *ID*: id[text]\n- *Ligne*: ligne[text]\n- *Date de mise en service*: date_de_mise_en_service[date]\n- *Longueur de la voie (km)*: longueur_de_la_voie_km[int]\n- *Nombre de trains par jour*: nombre_de_trains_par_jour[int]\n- *Nombre de voyageurs par jour*: nombre_de_voyageurs_par_jour[int]\n- *Nombre de gares*: nombre_de_gares[int]\n- *Nombre de d\u00e9partement travers\u00e9s*: nombre_de_departements_traverses[int]\n- *Op\u00e9rateurs*: operateur[text]\n- *Blog*: blog_ligne[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "27a92206-e397-462e-93ac-0a9eb9add645",
+      "last_modified": "2015-05-26T15:46:43",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/27a92206-e397-462e-93ac-0a9eb9add645",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:01:10.101000",
+      "title": "Export au format JSON",
+      "url": "https://ressources.data.sncf.com/explore/dataset/presentation-reseau-transilien/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "presentation-du-reseau-transilien",
+  "spatial": null,
+  "tags": [
+    "comptage-et-flux",
+    "ile-de-france",
+    "infrastructures",
+    "reseau",
+    "transilien"
+  ],
+  "temporal_coverage": null,
+  "title": "Pr\u00e9sentation du r\u00e9seau Transilien",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/presentation-du-reseau-transilien/"
+}

@@ -1,0 +1,76 @@
+{
+  "badges": [],
+  "created_at": "2015-02-06T15:17:07.674000",
+  "deleted": null,
+  "description": "Culture, loisir et tourisme \u00e0 Marnes-la-Coquette",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": null,
+  "id": "54d4cce3c751df0885467389",
+  "last_modified": "2015-10-12T11:32:07.707000",
+  "last_update": "2015-02-06T15:17:34.357000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 2
+  },
+  "organization": null,
+  "owner": {
+    "avatar": null,
+    "avatar_thumbnail": null,
+    "class": "User",
+    "first_name": "Mairie",
+    "id": "54930417c751df473a04805a",
+    "last_name": "Marnes-la-Coquette",
+    "page": "https://www.data.gouv.fr/fr/users/mairie-marnes-la-coquette/",
+    "slug": "mairie-marnes-la-coquette",
+    "uri": "https://www.data.gouv.fr/api/1/users/mairie-marnes-la-coquette/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/culture-loisirs-et-tourisme/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "bfb12b9b623b021b3bfd999e032c3f338db2bfbc"
+      },
+      "created_at": "2015-02-06T15:17:34.356000",
+      "description": "Culture, loisirs et tourisme \u00e0 Marnes-la-Coquette",
+      "extras": {},
+      "filesize": 1922,
+      "filetype": "file",
+      "format": "csv",
+      "id": "20484fd9-72da-4c5e-b87e-e4cee1834d81",
+      "last_modified": "2015-02-06T15:17:34.356000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/20484fd9-72da-4c5e-b87e-e4cee1834d81",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 7
+      },
+      "mime": "text/csv",
+      "published": "2015-02-06T15:17:34.357000",
+      "title": "Culture, loisirs et tourisme",
+      "url": "https://www.data.gouv.fr/s/resources/culture-loisirs-et-tourisme/20150206-151732/culture_loisirs_tourisme.csv"
+    }
+  ],
+  "slug": "culture-loisirs-et-tourisme",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:commune",
+    "zones": [
+      "fr:commune:92047@1968-01-01"
+    ]
+  },
+  "tags": [],
+  "temporal_coverage": null,
+  "title": "Culture, loisirs et tourisme",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/culture-loisirs-et-tourisme/"
+}

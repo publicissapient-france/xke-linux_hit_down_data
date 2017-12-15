@@ -1,0 +1,219 @@
+{
+  "badges": [],
+  "created_at": "2017-09-05T04:48:15.040000",
+  "deleted": null,
+  "description": "Ensemble des \u00e9quipements culturels de Versailles Grand Parc. Vous y trouverez les th\u00e9atres, les salles polyvalentes, les mus\u00e9es, les lieux d'enseignements artistiques, les cin\u00e9mas et biblioth\u00e8ques et les archives municipales.",
+  "extras": {
+    "dct:identifier": "http://www-cavgp.opendata.arcgis.com/datasets/5ef3e4220b684b90b1397e03646d415c_3",
+    "harvest:domain": "www-cavgp.opendata.arcgis.com",
+    "harvest:last_update": "2017-09-05T04:48:15.049767",
+    "harvest:remote_id": "http://www-cavgp.opendata.arcgis.com/datasets/5ef3e4220b684b90b1397e03646d415c_3",
+    "harvest:source_id": "58c6626c88ee38414af5c7a4"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59ae106fb595087a23916975",
+  "last_modified": "2017-09-05T04:48:15.056000",
+  "last_update": "2017-09-05T04:48:15.048000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "CAVGP",
+    "class": "Organization",
+    "id": "58c5a537c751df2fb0fde3c9",
+    "logo": "https://www.data.gouv.fr/s/avatars/39/717bed78eb400c99a31f83d001c75d-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/39/717bed78eb400c99a31f83d001c75d-100.jpg",
+    "name": "Communaut\u00e9 d'Agglomeration Versailles Grand Parc",
+    "page": "https://www.data.gouv.fr/fr/organizations/communaute-dagglomeration-versailles-grand-parc/",
+    "slug": "communaute-dagglomeration-versailles-grand-parc",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/communaute-dagglomeration-versailles-grand-parc/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/vgp-ec-enseign-artistique/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T04:48:15.041000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-09T22:38:26.771000",
+        "check:status": 204,
+        "check:url": "http://www-cavgp.opendata.arcgis.com/datasets/5ef3e4220b684b90b1397e03646d415c_3"
+      },
+      "filesize": null,
+      "filetype": "file",
+      "format": "web page",
+      "id": "ee073650-063d-40a7-a356-65dfc8d1443f",
+      "last_modified": "2017-09-05T04:48:15.041000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ee073650-063d-40a7-a356-65dfc8d1443f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-09-05T04:48:15.041000",
+      "title": "ArcGIS Open Dataset",
+      "url": "http://www-cavgp.opendata.arcgis.com/datasets/5ef3e4220b684b90b1397e03646d415c_3"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T04:48:15.043000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-09T22:38:27.685000",
+        "check:status": 200,
+        "check:url": "http://www-cavgp.opendata.arcgis.com/datasets/5ef3e4220b684b90b1397e03646d415c_3.csv"
+      },
+      "filesize": null,
+      "filetype": "file",
+      "format": "csv",
+      "id": "7618605c-d525-4311-ac63-40141a0fe4fa",
+      "last_modified": "2017-09-05T04:48:15.043000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7618605c-d525-4311-ac63-40141a0fe4fa",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-05T04:48:15.043000",
+      "title": "CSV",
+      "url": "http://www-cavgp.opendata.arcgis.com/datasets/5ef3e4220b684b90b1397e03646d415c_3.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T04:48:15.045000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-27T05:32:53.539000",
+        "check:status": 200,
+        "check:url": "http://www-cavgp.opendata.arcgis.com/datasets/5ef3e4220b684b90b1397e03646d415c_3.kml"
+      },
+      "filesize": null,
+      "filetype": "file",
+      "format": "kml",
+      "id": "e7beb8b0-3355-4b5d-bd0a-ca2211db0849",
+      "last_modified": "2017-09-05T04:48:15.045000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e7beb8b0-3355-4b5d-bd0a-ca2211db0849",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.google-earth.kml+xml",
+      "published": "2017-09-05T04:48:15.045000",
+      "title": "KML",
+      "url": "http://www-cavgp.opendata.arcgis.com/datasets/5ef3e4220b684b90b1397e03646d415c_3.kml"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T04:48:15.046000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-09T22:38:28.392000",
+        "check:status": 200,
+        "check:url": "http://www-cavgp.opendata.arcgis.com/datasets/5ef3e4220b684b90b1397e03646d415c_3.geojson"
+      },
+      "filesize": null,
+      "filetype": "file",
+      "format": "geojson",
+      "id": "ea05c98a-17c8-404d-9dd5-855167f27200",
+      "last_modified": "2017-09-05T04:48:15.046000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ea05c98a-17c8-404d-9dd5-855167f27200",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-09-05T04:48:15.046000",
+      "title": "GeoJSON",
+      "url": "http://www-cavgp.opendata.arcgis.com/datasets/5ef3e4220b684b90b1397e03646d415c_3.geojson"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T04:48:15.047000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-09T22:38:30.528000",
+        "check:status": 200,
+        "check:url": "https://services2.arcgis.com/YECJCCLQCtaylXWh/arcgis/rest/services/VGP_Equipement_culturel/FeatureServer/3"
+      },
+      "filesize": null,
+      "filetype": "file",
+      "format": "esri rest",
+      "id": "902b50a9-1361-4417-b25e-37caac90542e",
+      "last_modified": "2017-09-05T04:48:15.047000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/902b50a9-1361-4417-b25e-37caac90542e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-09-05T04:48:15.047000",
+      "title": "Esri Rest API",
+      "url": "https://services2.arcgis.com/YECJCCLQCtaylXWh/arcgis/rest/services/VGP_Equipement_culturel/FeatureServer/3"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T04:48:15.048000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-09T22:38:26.793000",
+        "check:status": 200,
+        "check:url": "http://www-cavgp.opendata.arcgis.com/datasets/5ef3e4220b684b90b1397e03646d415c_3.zip"
+      },
+      "filesize": null,
+      "filetype": "file",
+      "format": "zip",
+      "id": "fd5ebe1d-e9d6-4d54-a2fe-bb51c7b31f9b",
+      "last_modified": "2017-09-05T04:48:15.048000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fd5ebe1d-e9d6-4d54-a2fe-bb51c7b31f9b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-09-05T04:48:15.048000",
+      "title": "Shapefile",
+      "url": "http://www-cavgp.opendata.arcgis.com/datasets/5ef3e4220b684b90b1397e03646d415c_3.zip"
+    }
+  ],
+  "slug": "vgp-ec-enseign-artistique",
+  "spatial": null,
+  "tags": [
+    "culture",
+    "geospatial",
+    "institution",
+    "opendata",
+    "versailles"
+  ],
+  "temporal_coverage": null,
+  "title": "VGP EC enseign artistique",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/vgp-ec-enseign-artistique/"
+}

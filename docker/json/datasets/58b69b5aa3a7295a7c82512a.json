@@ -1,0 +1,150 @@
+{
+  "badges": [],
+  "created_at": "2017-03-01T10:58:50.227000",
+  "deleted": null,
+  "description": "Entreprises radi\u00e9e courant 2016 sur le territoire m\u00e9tropolitain",
+  "extras": {
+    "harvest:domain": "opendata.lillemetropole.fr",
+    "harvest:last_update": "2017-11-27T05:28:34.997448",
+    "harvest:remote_id": "entreprises-radiees-en-2016",
+    "harvest:source_id": "58b68fdcc751df10ea84f9cc",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.lillemetropole.fr//explore/dataset/entreprises-radiees-en-2016/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "58b69b5aa3a7295a7c82512a",
+  "last_modified": "2017-11-27T05:28:35.001000",
+  "last_update": "2017-11-27T05:28:34.995000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "MEL",
+    "class": "Organization",
+    "id": "58b69c62c751df4b175dd7a4",
+    "logo": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-100.png",
+    "name": "M\u00e9tropole Europ\u00e9enne de Lille ",
+    "page": "https://www.data.gouv.fr/fr/organizations/metropole-europeenne-de-lille/",
+    "slug": "metropole-europeenne-de-lille",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/metropole-europeenne-de-lille/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/entreprises-radiees-en-2016-2/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:28:34.994000",
+      "description": "- *D\u00e9nomination*: denomination[text]\n- *Siren*: siren[text]\n- *Nic*: nic[text]\n- *Forme Juridique*: forme_juridique[text]\n- *Code APE*: code_ape[text]\n- *Libell\u00e9 APE*: libelle_ape[text]\n- *Adresse*: adresse[text]\n- *Code postal*: code_postal[text]\n- *Ville*: ville[text]\n- *Num. dept.*: num_dept[text]\n- *D\u00e9partement*: departement[text]\n- *R\u00e9gion*: region[text]\n- *Greffe*: greffe[text]\n- *Date radiation*: date_radiation[date]\n- *Statut*: statut[text]\n- *Geolocalisation*: geolocalisation[geo_point_2d]\n- *Date de publication*: date_de_publication[date]\n- *fiche_identite*: fiche_identite[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "0f9fbdee-f1b6-4194-a7af-abf41bc40178",
+      "last_modified": "2016-11-23T14:39:39",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0f9fbdee-f1b6-4194-a7af-abf41bc40178",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:28:34.994000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/entreprises-radiees-en-2016/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:28:34.995000",
+      "description": "- *D\u00e9nomination*: denomination[text]\n- *Siren*: siren[text]\n- *Nic*: nic[text]\n- *Forme Juridique*: forme_juridique[text]\n- *Code APE*: code_ape[text]\n- *Libell\u00e9 APE*: libelle_ape[text]\n- *Adresse*: adresse[text]\n- *Code postal*: code_postal[text]\n- *Ville*: ville[text]\n- *Num. dept.*: num_dept[text]\n- *D\u00e9partement*: departement[text]\n- *R\u00e9gion*: region[text]\n- *Greffe*: greffe[text]\n- *Date radiation*: date_radiation[date]\n- *Statut*: statut[text]\n- *Geolocalisation*: geolocalisation[geo_point_2d]\n- *Date de publication*: date_de_publication[date]\n- *fiche_identite*: fiche_identite[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "3f02968c-4711-41ce-89ac-b7f64ebd792a",
+      "last_modified": "2016-11-23T14:39:39",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3f02968c-4711-41ce-89ac-b7f64ebd792a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:28:34.995000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/entreprises-radiees-en-2016/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:28:34.995000",
+      "description": "- *D\u00e9nomination*: denomination[text]\n- *Siren*: siren[text]\n- *Nic*: nic[text]\n- *Forme Juridique*: forme_juridique[text]\n- *Code APE*: code_ape[text]\n- *Libell\u00e9 APE*: libelle_ape[text]\n- *Adresse*: adresse[text]\n- *Code postal*: code_postal[text]\n- *Ville*: ville[text]\n- *Num. dept.*: num_dept[text]\n- *D\u00e9partement*: departement[text]\n- *R\u00e9gion*: region[text]\n- *Greffe*: greffe[text]\n- *Date radiation*: date_radiation[date]\n- *Statut*: statut[text]\n- *Geolocalisation*: geolocalisation[geo_point_2d]\n- *Date de publication*: date_de_publication[date]\n- *fiche_identite*: fiche_identite[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "279082ca-e815-428f-bd59-7ca2e044b579",
+      "last_modified": "2016-11-23T14:39:39",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/279082ca-e815-428f-bd59-7ca2e044b579",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:28:34.995000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/entreprises-radiees-en-2016/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:28:34.995000",
+      "description": "- *D\u00e9nomination*: denomination[text]\n- *Siren*: siren[text]\n- *Nic*: nic[text]\n- *Forme Juridique*: forme_juridique[text]\n- *Code APE*: code_ape[text]\n- *Libell\u00e9 APE*: libelle_ape[text]\n- *Adresse*: adresse[text]\n- *Code postal*: code_postal[text]\n- *Ville*: ville[text]\n- *Num. dept.*: num_dept[text]\n- *D\u00e9partement*: departement[text]\n- *R\u00e9gion*: region[text]\n- *Greffe*: greffe[text]\n- *Date radiation*: date_radiation[date]\n- *Statut*: statut[text]\n- *Geolocalisation*: geolocalisation[geo_point_2d]\n- *Date de publication*: date_de_publication[date]\n- *fiche_identite*: fiche_identite[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "855a2b67-2887-4546-83c2-72cd5d81fd6e",
+      "last_modified": "2016-11-23T14:39:39",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/855a2b67-2887-4546-83c2-72cd5d81fd6e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:28:34.995000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/entreprises-radiees-en-2016/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "entreprises-radiees-en-2016-2",
+  "spatial": null,
+  "tags": [
+    "business",
+    "developpement-economique",
+    "economie",
+    "emploi",
+    "entreprises",
+    "pme",
+    "radiations",
+    "societes"
+  ],
+  "temporal_coverage": null,
+  "title": "Entreprises radi\u00e9es en 2016",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/entreprises-radiees-en-2016-2/"
+}

@@ -1,0 +1,111 @@
+{
+  "badges": [],
+  "created_at": "2017-02-17T00:00:00",
+  "deleted": null,
+  "description": "Donn\u00e9es agr\u00e9g\u00e9es pour les communes fran\u00e7aises",
+  "extras": {
+    "ckan:name": "donnees-sur-les-communes-francaises1",
+    "guid": "https://datacat.datalocale.fr/415407",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-06-06T16:38:58.101548",
+    "harvest:remote_id": "76d3b795-2055-47c1-bdc2-fc8f2ccbdf74",
+    "harvest:source_id": "59365a72c751df28ed47c9eb",
+    "identifier": "623c4279-0f63-40eb-8850-759da142fadc",
+    "issued": "2014-04-26T23:10:43+00:00",
+    "modified": "2016-07-18T09:21:05.875974+00:00",
+    "theme": "[\"statistique\"]",
+    "uri": "https://datacat.datalocale.fr/415407"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "593457e7a3a72968e1876c1c",
+  "last_modified": "2017-06-06T16:38:58.103000",
+  "last_update": "2017-06-06T16:38:58.099000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": null,
+  "owner": {
+    "avatar": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-original.jpg",
+    "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-100.jpg",
+    "class": "User",
+    "first_name": "Ressourcerie",
+    "id": "534fff47a3a7292c64a77adc",
+    "last_name": "datalocale",
+    "page": "https://www.data.gouv.fr/fr/users/ressourcerie-datalocale/",
+    "slug": "ressourcerie-datalocale",
+    "uri": "https://www.data.gouv.fr/api/1/users/ressourcerie-datalocale/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/donnees-sur-les-communes-francaises1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:39.093000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T14:39:37.613000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415409/raw/french_communes_indicators.gz"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "de612e08-8a3a-4763-b7ee-7f7a9d67f219",
+      "last_modified": "2017-06-04T20:56:39.094000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/de612e08-8a3a-4763-b7ee-7f7a9d67f219",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:56:39.094000",
+      "title": "csv",
+      "url": "https://datacat.datalocale.fr/file/415409/raw/french_communes_indicators.gz"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:38:58.099000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T13:59:14.608000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415409/raw/french_communes_indicators.gz"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "5e828eea-db2c-436e-ba42-916957a66601",
+      "last_modified": "2017-06-06T16:38:58.100000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5e828eea-db2c-436e-ba42-916957a66601",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:38:58.099000",
+      "title": "csv",
+      "url": "https://datacat.datalocale.fr/file/415409/raw/french_communes_indicators.gz"
+    }
+  ],
+  "slug": "donnees-sur-les-communes-francaises1",
+  "spatial": null,
+  "tags": [],
+  "temporal_coverage": null,
+  "title": "Donn\u00e9es sur les communes francaises",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/donnees-sur-les-communes-francaises1/"
+}

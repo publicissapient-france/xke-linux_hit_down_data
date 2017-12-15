@@ -1,0 +1,73 @@
+{
+  "badges": [],
+  "created_at": "2017-03-17T13:54:04.100000",
+  "deleted": null,
+  "description": "Le groupe La Poste, deuxi\u00e8me employeur public de France avec plus de 250 000 salari\u00e9s, exerce ses activit\u00e9s dans des domaines divers (banque, courrier, colis, t\u00e9l\u00e9phonie mobile\u2026), y compris au moyen de filiales en France et \u00e0 l\u2019\u00e9tranger. La Poste incarne un service public pr\u00e9sent sur tout le territoire gr\u00e2ce \u00e0 deux r\u00e9seaux majeurs : celui des points de contact (plus de 17 000, dont 9 149 bureaux de poste) et la distribution \u00e0 domicile (plus de 72 000 facteurs distribuant le courrier dans 39 millions de bo\u00eetes aux lettres, six jours par semaine). La Poste est aujourd\u2019hui confront\u00e9e \u00e0 la chute continue des volumes du courrier, qui ampute son chiffre d\u2019affaires de 500 M\u20ac chaque ann\u00e9e. \u00c0 ce d\u00e9fi s\u2019ajoute pour l\u2019entreprise la n\u00e9cessit\u00e9 de r\u00e9ussir sa mutation num\u00e9rique, de r\u00e9pondre \u00e0 la croissance du e-commerce et, pour La Banque Postale, de faire face \u00e0 des taux d\u2019int\u00e9r\u00eat bas. Si La Poste a su \u00e9voluer et se montrer r\u00e9sistante, des fragilit\u00e9s et des risques exog\u00e8nes persistent. Elle doit donc, pour perdurer, acc\u00e9l\u00e9rer le rythme de sa transformation. \n\nCe rapport est accessible sur [le site de la Cour](https://www.ccomptes.fr/fr/publications/la-poste-une-transformation-accelerer).\n\nLes fichiers publi\u00e9s correspondent aux donn\u00e9es ayant servi de base \u00e0 l'\u00e9laboration du rapport.",
+  "extras": {},
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "58cbdc6cc751df4aa3a12f3a",
+  "last_modified": "2017-09-04T12:15:57.140000",
+  "last_update": "2017-03-17T13:54:44.503000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 1,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "53698dada3a729239d20331d",
+    "logo": "https://www.data.gouv.fr/s/avatars/ac/83f761a23f4263be8b3401b01625e8-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/ac/83f761a23f4263be8b3401b01625e8-100.png",
+    "name": "Cour des comptes",
+    "page": "https://www.data.gouv.fr/fr/organizations/cour-des-comptes/",
+    "slug": "cour-des-comptes",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/cour-des-comptes/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/la-poste-une-transformation-a-accelerer-1/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-03-17T13:54:44.503000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T09:55:32.637000",
+        "check:status": 200,
+        "check:url": "https://www.ccomptes.fr/sites/default/files/EzPublish/20161213-donnees-La-Poste.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "62fb8baa-97ee-4354-9bf0-de38b3283e62",
+      "last_modified": "2017-09-04T12:15:57.140000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/62fb8baa-97ee-4354-9bf0-de38b3283e62",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-03-17T13:54:44.503000",
+      "title": "La Poste : une transformation \u00e0 acc\u00e9l\u00e9rer ",
+      "url": "https://www.ccomptes.fr/sites/default/files/EzPublish/20161213-donnees-La-Poste.zip"
+    }
+  ],
+  "slug": "la-poste-une-transformation-a-accelerer-1",
+  "spatial": null,
+  "tags": [],
+  "temporal_coverage": null,
+  "title": "La Poste : une transformation \u00e0 acc\u00e9l\u00e9rer ",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/la-poste-une-transformation-a-accelerer-1/"
+}

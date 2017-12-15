@@ -1,0 +1,109 @@
+{
+  "badges": [],
+  "created_at": "2014-11-06T16:13:10.306000",
+  "deleted": null,
+  "description": "Ce tableau de bord contient, pour 25 d\u00e9marches courantes, le pourcentage 2012, 2013 et 2014 de d\u00e9marches r\u00e9alis\u00e9es de fa\u00e7on d\u00e9mat\u00e9rialis\u00e9e.\nIl a \u00e9t\u00e9 r\u00e9alis\u00e9 par le SGMAP en coordination avec les administrations.\n\n[Acc\u00e8s \u00e0 la version graphique du tableau de bord](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-des-services-numeriques-aux-usagers/tableau-de-bord-des-services-publics-numeriques-2015)\n",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": "2015-10-07T00:00:00",
+  "id": "545b9007c751df1f3f9b6045",
+  "last_modified": "2016-02-23T13:33:47.526000",
+  "last_update": "2015-10-07T18:21:08.898000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 195
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa5a3a7292c64a7809e",
+    "logo": "https://www.data.gouv.fr/s/avatars/08/98902e29244685862bcdd3198cef7b-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/08/98902e29244685862bcdd3198cef7b-100.png",
+    "name": "Premier ministre",
+    "page": "https://www.data.gouv.fr/fr/organizations/premier-ministre/",
+    "slug": "premier-ministre",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/premier-ministre/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/tableau-de-bord-des-services-publics-numeriques/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "8de6b75e3e23a183d86c4aa97250243eb1be8c16"
+      },
+      "created_at": "2015-10-07T18:19:43.204000",
+      "description": "",
+      "extras": {},
+      "filesize": 26816,
+      "filetype": "file",
+      "format": "csv",
+      "id": "c5dff901-1a66-4bf9-9f96-a7543c354893",
+      "last_modified": "2015-10-07T18:20:51.098000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c5dff901-1a66-4bf9-9f96-a7543c354893",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 2
+      },
+      "mime": "text/csv",
+      "published": "2015-10-07T18:19:43.204000",
+      "title": "Tableau de bord des services publics num\u00e9riques - Edition 2015",
+      "url": "https://www.data.gouv.fr/s/resources/tableau-de-bord-des-services-publics-numeriques/20151007-181943/Tableau_de_bord_services_publics_numeriques_Edition_2015.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "1880ed69c5d627fad876bbf2fa478b3434e24e00"
+      },
+      "created_at": "2015-10-07T18:21:08.898000",
+      "description": "",
+      "extras": {},
+      "filesize": 23058,
+      "filetype": "file",
+      "format": "xlsx",
+      "id": "99dc048e-4e71-4da0-96ca-96e1be57a1df",
+      "last_modified": "2015-10-07T18:22:07.635000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/99dc048e-4e71-4da0-96ca-96e1be57a1df",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 8
+      },
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "published": "2015-10-07T18:21:08.898000",
+      "title": "Tableau de bord des services publics num\u00e9riques - Edition 2015",
+      "url": "https://www.data.gouv.fr/s/resources/tableau-de-bord-des-services-publics-numeriques/20151007-182108/Tableau_de_bord_services_publics_numeriques_Edition_2015.xlsx"
+    }
+  ],
+  "slug": "tableau-de-bord-des-services-publics-numeriques",
+  "spatial": {
+    "geom": null,
+    "granularity": "other",
+    "zones": [
+      "country-subset:fr:dromcom"
+    ]
+  },
+  "tags": [
+    "procedure",
+    "procedures",
+    "tableau-de-bord",
+    "usages-internet"
+  ],
+  "temporal_coverage": {
+    "end": "2014-12-31",
+    "start": "2012-01-01"
+  },
+  "title": "Tableau de bord des services publics num\u00e9riques",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/tableau-de-bord-des-services-publics-numeriques/"
+}

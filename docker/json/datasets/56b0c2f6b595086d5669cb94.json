@@ -1,0 +1,157 @@
+{
+  "badges": [],
+  "created_at": "2016-02-02T15:53:42.486000",
+  "deleted": null,
+  "description": "Inventaire des march\u00e9s couverts et de plein vent de la ville de Toulouse indiquant le type de march\u00e9, le lieu, les horaires et les jours de tenue.",
+  "extras": {
+    "harvest:domain": "data.toulouse-metropole.fr",
+    "harvest:last_update": "2017-11-27T05:17:33.238304",
+    "harvest:remote_id": "marches-couverts-et-de-plein-vent",
+    "harvest:source_id": "564c3680c751df607daad370",
+    "ods:has_records": true,
+    "ods:url": "https://data.toulouse-metropole.fr//explore/dataset/marches-couverts-et-de-plein-vent/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "56b0c2f6b595086d5669cb94",
+  "last_modified": "2017-11-27T05:17:33.241000",
+  "last_update": "2017-11-27T05:17:33.237000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb3a3a7292c64a78129",
+    "logo": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-100.jpg",
+    "name": "Toulouse m\u00e9trople",
+    "page": "https://www.data.gouv.fr/fr/organizations/toulouse-metrople/",
+    "slug": "toulouse-metrople",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/toulouse-metrople/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/marches-couverts-et-de-plein-vent-toulouse/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:17:33.237000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *nom*: nom[text]\n- *type*: type[text]\n- *adresse*: adresse[text]\n- *code_postal*: code_postal[text]\n- *x*: x[text]\n- *y*: y[text]\n- *jours_de_tenue*: jours_de_tenue[text]\n- *horaires*: horaires[text]\n- *jours_de_tenue_2*: jours_de_tenue_2[text]\n- *horaires_2*: horaires_2[text]\n- *lundi*: lundi[text]\n- *mardi*: mardi[text]\n- *mercredi*: mercredi[text]\n- *jeudi*: jeudi[text]\n- *vendredi*: vendredi[text]\n- *samedi*: samedi[text]\n- *dimanche*: dimanche[text]\n- *info_candidature*: info_candidature[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b2285d9a-fff0-42e0-bb84-cb004e59a82f",
+      "last_modified": "2015-02-13T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b2285d9a-fff0-42e0-bb84-cb004e59a82f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:17:33.237000",
+      "title": "Export au format CSV",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/marches-couverts-et-de-plein-vent/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:17:33.237000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *nom*: nom[text]\n- *type*: type[text]\n- *adresse*: adresse[text]\n- *code_postal*: code_postal[text]\n- *x*: x[text]\n- *y*: y[text]\n- *jours_de_tenue*: jours_de_tenue[text]\n- *horaires*: horaires[text]\n- *jours_de_tenue_2*: jours_de_tenue_2[text]\n- *horaires_2*: horaires_2[text]\n- *lundi*: lundi[text]\n- *mardi*: mardi[text]\n- *mercredi*: mercredi[text]\n- *jeudi*: jeudi[text]\n- *vendredi*: vendredi[text]\n- *samedi*: samedi[text]\n- *dimanche*: dimanche[text]\n- *info_candidature*: info_candidature[text]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-05T23:10:18.011000",
+        "check:status": 200,
+        "check:url": "https://data.toulouse-metropole.fr//explore/dataset/marches-couverts-et-de-plein-vent/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "f646547f-f704-4230-90a0-13a38207a874",
+      "last_modified": "2015-02-13T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f646547f-f704-4230-90a0-13a38207a874",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:17:33.237000",
+      "title": "Export au format JSON",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/marches-couverts-et-de-plein-vent/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:17:33.237000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *nom*: nom[text]\n- *type*: type[text]\n- *adresse*: adresse[text]\n- *code_postal*: code_postal[text]\n- *x*: x[text]\n- *y*: y[text]\n- *jours_de_tenue*: jours_de_tenue[text]\n- *horaires*: horaires[text]\n- *jours_de_tenue_2*: jours_de_tenue_2[text]\n- *horaires_2*: horaires_2[text]\n- *lundi*: lundi[text]\n- *mardi*: mardi[text]\n- *mercredi*: mercredi[text]\n- *jeudi*: jeudi[text]\n- *vendredi*: vendredi[text]\n- *samedi*: samedi[text]\n- *dimanche*: dimanche[text]\n- *info_candidature*: info_candidature[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "f6a78e2d-c367-42f2-821c-39b4ac16d2d9",
+      "last_modified": "2015-02-13T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f6a78e2d-c367-42f2-821c-39b4ac16d2d9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:17:33.237000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/marches-couverts-et-de-plein-vent/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:17:33.237000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *nom*: nom[text]\n- *type*: type[text]\n- *adresse*: adresse[text]\n- *code_postal*: code_postal[text]\n- *x*: x[text]\n- *y*: y[text]\n- *jours_de_tenue*: jours_de_tenue[text]\n- *horaires*: horaires[text]\n- *jours_de_tenue_2*: jours_de_tenue_2[text]\n- *horaires_2*: horaires_2[text]\n- *lundi*: lundi[text]\n- *mardi*: mardi[text]\n- *mercredi*: mercredi[text]\n- *jeudi*: jeudi[text]\n- *vendredi*: vendredi[text]\n- *samedi*: samedi[text]\n- *dimanche*: dimanche[text]\n- *info_candidature*: info_candidature[text]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T21:16:55.922000",
+        "check:status": 200,
+        "check:url": "https://data.toulouse-metropole.fr//explore/dataset/marches-couverts-et-de-plein-vent/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "9ab3d581-8e60-410e-8b1a-1fe601b0506d",
+      "last_modified": "2015-02-13T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9ab3d581-8e60-410e-8b1a-1fe601b0506d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:17:33.237000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/marches-couverts-et-de-plein-vent/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "marches-couverts-et-de-plein-vent-toulouse",
+  "spatial": null,
+  "tags": [
+    "citoyennete",
+    "couvert",
+    "economie",
+    "marche",
+    "plein-vent"
+  ],
+  "temporal_coverage": null,
+  "title": "March\u00e9s couverts et de plein-vent - Toulouse",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/marches-couverts-et-de-plein-vent-toulouse/"
+}

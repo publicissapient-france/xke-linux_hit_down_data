@@ -1,0 +1,116 @@
+{
+  "badges": [],
+  "created_at": "2014-09-30T11:05:14.407000",
+  "deleted": null,
+  "description": "Le jeu de donn\u00e9es met \u00e0 disposition les comptages des publications des demandes de brevets pour les principaux d\u00e9posants depuis 2009.",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": null,
+  "id": "542a724a88ee382b8f22e2dc",
+  "last_modified": "2016-03-07T17:54:11.626000",
+  "last_update": "2014-09-30T11:07:56.153000",
+  "license": "fr-lo",
+  "metrics": {
+    "cow_criticals": 0,
+    "cow_errors": 0,
+    "cow_score": 0,
+    "cow_warnings": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "542a61d888ee382b8f22e2d7",
+    "logo": "https://www.data.gouv.fr/s/avatars/0a/277d25e3174a8db89dad2b67d42331-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/0a/277d25e3174a8db89dad2b67d42331-100.png",
+    "name": "Institut national de la propri\u00e9t\u00e9 industrielle (INPI)",
+    "page": "https://www.data.gouv.fr/fr/organizations/institut-national-de-la-propriete-industrielle-inpi/",
+    "slug": "institut-national-de-la-propriete-industrielle-inpi",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/institut-national-de-la-propriete-industrielle-inpi/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/principaux-deposants-par-la-voie-nationale-selon-le-nombre-de-demandes-de-brevets-publiees/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "c3b947b39e3d8bec2a323f63e467de790e8db93f"
+      },
+      "created_at": "2014-09-30T11:06:46.678000",
+      "description": "Comptages des publications des demandes de brevets pour les principaux d\u00e9posants depuis 2009.",
+      "extras": {},
+      "filesize": 8607,
+      "filetype": "file",
+      "format": "csv",
+      "id": "a9507539-9208-4ee0-8ec3-8811334d8bcf",
+      "last_modified": "2016-03-07T17:53:51.797000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a9507539-9208-4ee0-8ec3-8811334d8bcf",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 7
+      },
+      "mime": "text/csv",
+      "published": "2014-09-30T11:06:46.678000",
+      "title": "Principaux d\u00e9posants par la voie nationale selon le nombre de demandes de brevets publi\u00e9es",
+      "url": "https://www.data.gouv.fr/s/resources/principaux-deposants-par-la-voie-nationale-selon-le-nombre-de-demandes-de-brevets-publiees/20160307-175350/Opendata_DE_2015-10-004.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "f70953eb4d651d27ba6f89f17e5a3999c18e1dc8"
+      },
+      "created_at": "2014-09-30T11:07:56.153000",
+      "description": "Glossaire, principes de comptage, m\u00e9thodologie.",
+      "extras": {},
+      "filesize": 4329,
+      "filetype": "file",
+      "format": "csv",
+      "id": "509dbc0b-e6a9-45f9-8e48-fbca808baa3d",
+      "last_modified": "2016-03-07T17:54:11.626000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/509dbc0b-e6a9-45f9-8e48-fbca808baa3d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2014-09-30T11:07:56.153000",
+      "title": "Glossaire",
+      "url": "https://www.data.gouv.fr/s/resources/principaux-deposants-par-la-voie-nationale-selon-le-nombre-de-demandes-de-brevets-publiees/20160307-175409/Opendata_DE_Glossaire_20140923.csv"
+    }
+  ],
+  "slug": "principaux-deposants-par-la-voie-nationale-selon-le-nombre-de-demandes-de-brevets-publiees",
+  "spatial": {
+    "geom": null,
+    "granularity": "country",
+    "zones": []
+  },
+  "tags": [
+    "brevet",
+    "brevet-publie",
+    "deposant",
+    "economie",
+    "innovation",
+    "inpi",
+    "propriete-industrielle",
+    "publication",
+    "voie-nationale"
+  ],
+  "temporal_coverage": {
+    "end": "2013-12-31",
+    "start": "2009-01-01"
+  },
+  "title": "Principaux d\u00e9posants par la voie nationale selon le nombre de demandes de brevets publi\u00e9es",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/principaux-deposants-par-la-voie-nationale-selon-le-nombre-de-demandes-de-brevets-publiees/"
+}

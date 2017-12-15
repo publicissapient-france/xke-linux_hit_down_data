@@ -1,0 +1,137 @@
+{
+  "acronym": null,
+  "badges": [
+    {
+      "kind": "public-service"
+    },
+    {
+      "kind": "certified"
+    }
+  ],
+  "created_at": "2014-04-17T18:20:40.326000",
+  "deleted": null,
+  "description": "L\u2019Autorit\u00e9 de r\u00e9gulation des communications \u00e9lectroniques et des postes (ARCEP) a \u00e9t\u00e9 cr\u00e9\u00e9e par la loi du 26 juillet 1996 pour pr\u00e9parer et accompagner l\u2019ouverture \u00e0 la concurrence du secteur et veiller \u00e0 la fourniture et au financement du service universel des t\u00e9l\u00e9communications. La loi du 20 mai 2005 relative \u00e0 la r\u00e9gulation des activit\u00e9s postales a \u00e9tendu la comp\u00e9tence de  l\u2019Autorit\u00e9 au secteur postal. Autorit\u00e9 administrative ind\u00e9pendante, l\u2019ARCEP assure, au nom de l\u2019Etat, et sous le contr\u00f4le du Parlement et du juge, la r\u00e9gulation des secteurs des communications \u00e9lectroniques et postales.",
+  "id": "534fff58a3a7292c64a77cf6",
+  "last_modified": "2017-11-26T22:55:28.545000",
+  "logo": "https://www.data.gouv.fr/s/avatars/71/d1d847d7ec45a8a5f7fc0845a6994c-original.png",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/71/d1d847d7ec45a8a5f7fc0845a6994c-100.png",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/91/0dd11669264968b137b016600cfcaa-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/91/0dd11669264968b137b016600cfcaa-100.jpg",
+        "class": "User",
+        "first_name": "Elisabeth",
+        "id": "534fff3fa3a7292c64a775a2",
+        "last_name": "CHEHU-BEIS",
+        "page": "https://www.data.gouv.fr/fr/users/elisabeth-chehu-beis/",
+        "slug": "elisabeth-chehu-beis",
+        "uri": "https://www.data.gouv.fr/api/1/users/elisabeth-chehu-beis/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Olivier",
+        "id": "574c648588ee3875b4d1b934",
+        "last_name": "DELCLOS",
+        "page": "https://www.data.gouv.fr/fr/users/olivier-delclos/",
+        "slug": "olivier-delclos",
+        "uri": "https://www.data.gouv.fr/api/1/users/olivier-delclos/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Martine",
+        "id": "5820874e88ee380335c65bb3",
+        "last_name": "Ferrand",
+        "page": "https://www.data.gouv.fr/fr/users/martine-ferrand/",
+        "slug": "martine-ferrand",
+        "uri": "https://www.data.gouv.fr/api/1/users/martine-ferrand/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Baptiste",
+        "id": "58207336c751df5455c0bb7e",
+        "last_name": "Amar",
+        "page": "https://www.data.gouv.fr/fr/users/baptiste-amar/",
+        "slug": "baptiste-amar",
+        "uri": "https://www.data.gouv.fr/api/1/users/baptiste-amar/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Laurent",
+        "id": "58c9833188ee3869151d486c",
+        "last_name": "Toustou",
+        "page": "https://www.data.gouv.fr/fr/users/laurent-toustou/",
+        "slug": "laurent-toustou",
+        "uri": "https://www.data.gouv.fr/api/1/users/laurent-toustou/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/8d/ef2d2c7fa847ad94db7c2163a5661b-original.png",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/8d/ef2d2c7fa847ad94db7c2163a5661b-100.png",
+        "class": "User",
+        "first_name": "Romain",
+        "id": "5a00687d88ee38550ca9ae39",
+        "last_name": "MAZIERE",
+        "page": "https://www.data.gouv.fr/fr/users/romain-maziere-2/",
+        "slug": "romain-maziere-2",
+        "uri": "https://www.data.gouv.fr/api/1/users/romain-maziere-2/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "CATHERINE",
+        "id": "59c305b8c751df5154a7c7c8",
+        "last_name": "BACCETTI",
+        "page": "https://www.data.gouv.fr/fr/users/catherine-baccetti/",
+        "slug": "catherine-baccetti",
+        "uri": "https://www.data.gouv.fr/api/1/users/catherine-baccetti/"
+      }
+    }
+  ],
+  "metrics": {
+    "dataset_views": 508,
+    "datasets": 9,
+    "followers": 48,
+    "members": 7,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 0,
+    "resource_downloads": 312,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 673
+  },
+  "name": "Autorit\u00e9 de r\u00e9gulation des communications \u00e9lectroniques et des postes (ARCEP)",
+  "page": "https://www.data.gouv.fr/fr/organizations/autorite-de-regulation-des-communications-electroniques-et-des-postes-arcep/",
+  "slug": "autorite-de-regulation-des-communications-electroniques-et-des-postes-arcep",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/autorite-de-regulation-des-communications-electroniques-et-des-postes-arcep/",
+  "url": "http://www.arcep.fr"
+}

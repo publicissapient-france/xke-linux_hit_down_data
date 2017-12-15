@@ -1,0 +1,299 @@
+{
+  "badges": [],
+  "created_at": "2017-09-29T00:00:00",
+  "deleted": null,
+  "description": "Documents divers concernant la commune de Brocas",
+  "extras": {
+    "ckan:name": "commune-de-brocas-divers",
+    "contact_email": "mailto:contact@brocas.fr",
+    "contact_name": "Mairie de Brocas",
+    "contact_uri": "https://datacat.datalocale.fr/414602",
+    "guid": "https://datacat.datalocale.fr/416082",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-10-02T07:48:55.544838",
+    "harvest:remote_id": "c120e1a3-bca2-4f58-a3f2-f5828a786629",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "bf1afb45-5345-47cd-9052-2f623dc18fa5",
+    "issued": "2013-08-16T21:14:15+00:00",
+    "modified": "2016-07-18T09:21:06.525461+00:00",
+    "publisher_email": "mailto:contact@brocas.fr",
+    "publisher_name": "Mairie de Brocas",
+    "publisher_uri": "https://datacat.datalocale.fr/414602",
+    "theme": "[\"collectivit\u00e9 locale\"]",
+    "uri": "https://datacat.datalocale.fr/416082"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59cf1a7ab59508043ce9b859",
+  "last_modified": "2017-10-02T07:48:55.548000",
+  "last_update": "2017-10-02T07:48:55.542000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/commune-de-brocas-divers-1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:15:54.456000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T19:17:06.843000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416088/raw/DIVER_Iop-Brocas_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "8da694ee-762d-4755-bd55-2e85a7c6a24f",
+      "last_modified": "2017-09-30T06:15:54.457000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8da694ee-762d-4755-bd55-2e85a7c6a24f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-30T06:15:54.456000",
+      "title": "Liste des Iop",
+      "url": "https://datacat.datalocale.fr/file/416088/raw/DIVER_Iop-Brocas_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:15:54.457000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T20:10:47.817000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416086/raw/DIVER_Erp-Brocas_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "57044a9a-5a5a-42a4-863d-9c18b77b08e8",
+      "last_modified": "2017-09-30T06:15:54.458000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/57044a9a-5a5a-42a4-863d-9c18b77b08e8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-30T06:15:54.457000",
+      "title": "Liste des Erp",
+      "url": "https://datacat.datalocale.fr/file/416086/raw/DIVER_Erp-Brocas_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:15:54.458000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T20:10:45.042000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416084/raw/DIVER_Memento-tph_bro_v1.0.odt"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "odt",
+      "id": "a74ec7ec-39fa-4310-b0c7-57d343fa8fda",
+      "last_modified": "2017-09-30T06:15:54.458000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a74ec7ec-39fa-4310-b0c7-57d343fa8fda",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-09-30T06:15:54.458000",
+      "title": "Memento des num\u00e9ros t\u00e9l\u00e9phoniques",
+      "url": "https://datacat.datalocale.fr/file/416084/raw/DIVER_Memento-tph_bro_v1.0.odt"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-01T06:05:29.630000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T19:17:07.640000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416086/raw/DIVER_Erp-Brocas_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f38dab52-11f4-47f7-b193-8627bc7f4ec6",
+      "last_modified": "2017-10-01T06:05:29.630000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f38dab52-11f4-47f7-b193-8627bc7f4ec6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-01T06:05:29.630000",
+      "title": "Liste des Erp",
+      "url": "https://datacat.datalocale.fr/file/416086/raw/DIVER_Erp-Brocas_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-01T06:05:29.630000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T20:10:46.331000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416088/raw/DIVER_Iop-Brocas_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f86de13b-8988-41a8-9b41-0c12be7580e5",
+      "last_modified": "2017-10-01T06:05:29.630000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f86de13b-8988-41a8-9b41-0c12be7580e5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-01T06:05:29.630000",
+      "title": "Liste des Iop",
+      "url": "https://datacat.datalocale.fr/file/416088/raw/DIVER_Iop-Brocas_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-01T06:05:29.630000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T19:17:09.679000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416084/raw/DIVER_Memento-tph_bro_v1.0.odt"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "odt",
+      "id": "be0aa3c7-1654-4170-b377-db982462f8e3",
+      "last_modified": "2017-10-01T06:05:29.631000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/be0aa3c7-1654-4170-b377-db982462f8e3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-10-01T06:05:29.630000",
+      "title": "Memento des num\u00e9ros t\u00e9l\u00e9phoniques",
+      "url": "https://datacat.datalocale.fr/file/416084/raw/DIVER_Memento-tph_bro_v1.0.odt"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-02T07:48:55.540000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f32211e3-b43f-4a2b-b8c9-4e8137db94ee",
+      "last_modified": "2017-10-02T07:48:55.541000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f32211e3-b43f-4a2b-b8c9-4e8137db94ee",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-02T07:48:55.540000",
+      "title": "Liste des Iop",
+      "url": "https://datacat.datalocale.fr/file/416088/raw/DIVER_Iop-Brocas_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-02T07:48:55.541000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "odt",
+      "id": "8aa5191c-d39f-441b-84e4-717d4db4facb",
+      "last_modified": "2017-10-02T07:48:55.542000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8aa5191c-d39f-441b-84e4-717d4db4facb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-10-02T07:48:55.542000",
+      "title": "Memento des num\u00e9ros t\u00e9l\u00e9phoniques",
+      "url": "https://datacat.datalocale.fr/file/416084/raw/DIVER_Memento-tph_bro_v1.0.odt"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-02T07:48:55.542000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "53046283-36f3-44e3-b409-41a449e3b614",
+      "last_modified": "2017-10-02T07:48:55.543000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/53046283-36f3-44e3-b409-41a449e3b614",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-02T07:48:55.542000",
+      "title": "Liste des Erp",
+      "url": "https://datacat.datalocale.fr/file/416086/raw/DIVER_Erp-Brocas_bro_v1.0.csv"
+    }
+  ],
+  "slug": "commune-de-brocas-divers-1",
+  "spatial": null,
+  "tags": [
+    "brocas",
+    "divers",
+    "docments",
+    "erp",
+    "iop",
+    "memento",
+    "salle"
+  ],
+  "temporal_coverage": null,
+  "title": "Commune de Brocas : Divers",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/commune-de-brocas-divers-1/"
+}

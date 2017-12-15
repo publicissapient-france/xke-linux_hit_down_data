@@ -1,0 +1,148 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T18:08:52.604000",
+  "deleted": null,
+  "description": "La Base Adresse Nationale est une base de donn\u00e9es qui a pour but de r\u00e9f\u00e9rencer l'int\u00e9gralit\u00e9 des adresses du territoire fran\u00e7ais.\n\nElle contient la position g\u00e9ographique de plus de 25 millions d'adresses.\n\nElle est constitu\u00e9e par la collaboration entre:\n\n  * des acteurs nationaux tels que l'IGN, La Poste et La Poste,\n  * des acteurs locaux tels que les collectivit\u00e9s, les communes, les SDIS,\n  * des citoyens par exemple \u00e0 travers le projet OpenStreetMap et l'association OpenStreetMap France.\n\n\n\nLe projet est co-gouvern\u00e9 par l'Administrateur G\u00e9n\u00e9ral des Donn\u00e9es et le Conseil National de l'Information G\u00e9ographique.\n\nElle est diffus\u00e9e sur le site [adresse.data.gouv.fr](https://adresse.data.gouv.fr/) d\u00e9velopp\u00e9 par la mission Etalab du Secr\u00e9tariat G\u00e9n\u00e9ral \u00e0 la Modernisation de l'Action Publique (SGMAP).\n\nLes donn\u00e9es sont disponibles sous deux licences :\n\n  * Licence ODbL 1.0 (Open Database License)\n  * Licence Gratuite de Repartage\n\n\n\nUn [service de g\u00e9ocodage gratuit](https://adresse.data.gouv.fr/api) est mise \u00e0 disposition par la mission Etalab.",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T05:46:34.892292",
+    "harvest:remote_id": "base-adresse-75",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:references": "https://www.data.gouv.fr/fr/datasets/ban-base-adresse-nationale/",
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/base-adresse-75/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59591a94a3a7291dd09c80ed",
+  "last_modified": "2017-11-27T05:46:34.894000",
+  "last_update": "2017-11-27T05:46:34.891000",
+  "license": "odc-odbl",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/ban-base-adresse-nationale-paris/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:46:34.890000",
+      "description": "- *id*: id[text]\n- *nom_voie*: nom_voie[text]\n- *id_fantoir*: id_fantoir[text]\n- *numero*: numero[int]\n- *rep*: rep[text]\n- *code_insee*: code_insee[int]\n- *code_post*: code_post[int]\n- *alias*: alias[text]\n- *nom_ld*: nom_ld[text]\n- *nom_afnor*: nom_afnor[text]\n- *libelle_acheminement*: libelle_acheminement[text]\n- *x*: x[double]\n- *y*: y[double]\n- *lon*: lon[text]\n- *lat*: lat[text]\n- *nom_commune*: nom_commune[text]\n- *geo*: geo[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "edab7ac5-9cb3-4cc0-bde2-d7d703a845bf",
+      "last_modified": "2017-06-19T11:58:38",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/edab7ac5-9cb3-4cc0-bde2-d7d703a845bf",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:46:34.890000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/base-adresse-75/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:46:34.891000",
+      "description": "- *id*: id[text]\n- *nom_voie*: nom_voie[text]\n- *id_fantoir*: id_fantoir[text]\n- *numero*: numero[int]\n- *rep*: rep[text]\n- *code_insee*: code_insee[int]\n- *code_post*: code_post[int]\n- *alias*: alias[text]\n- *nom_ld*: nom_ld[text]\n- *nom_afnor*: nom_afnor[text]\n- *libelle_acheminement*: libelle_acheminement[text]\n- *x*: x[double]\n- *y*: y[double]\n- *lon*: lon[text]\n- *lat*: lat[text]\n- *nom_commune*: nom_commune[text]\n- *geo*: geo[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "2be8ca22-5bc6-4918-ada2-a7ca725cec86",
+      "last_modified": "2017-06-19T11:58:38",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2be8ca22-5bc6-4918-ada2-a7ca725cec86",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:46:34.891000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/base-adresse-75/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:46:34.891000",
+      "description": "- *id*: id[text]\n- *nom_voie*: nom_voie[text]\n- *id_fantoir*: id_fantoir[text]\n- *numero*: numero[int]\n- *rep*: rep[text]\n- *code_insee*: code_insee[int]\n- *code_post*: code_post[int]\n- *alias*: alias[text]\n- *nom_ld*: nom_ld[text]\n- *nom_afnor*: nom_afnor[text]\n- *libelle_acheminement*: libelle_acheminement[text]\n- *x*: x[double]\n- *y*: y[double]\n- *lon*: lon[text]\n- *lat*: lat[text]\n- *nom_commune*: nom_commune[text]\n- *geo*: geo[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "b31e9edb-9a7a-4938-b935-ea16693b79fc",
+      "last_modified": "2017-06-19T11:58:38",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b31e9edb-9a7a-4938-b935-ea16693b79fc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:46:34.891000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/base-adresse-75/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:46:34.891000",
+      "description": "- *id*: id[text]\n- *nom_voie*: nom_voie[text]\n- *id_fantoir*: id_fantoir[text]\n- *numero*: numero[int]\n- *rep*: rep[text]\n- *code_insee*: code_insee[int]\n- *code_post*: code_post[int]\n- *alias*: alias[text]\n- *nom_ld*: nom_ld[text]\n- *nom_afnor*: nom_afnor[text]\n- *libelle_acheminement*: libelle_acheminement[text]\n- *x*: x[double]\n- *y*: y[double]\n- *lon*: lon[text]\n- *lat*: lat[text]\n- *nom_commune*: nom_commune[text]\n- *geo*: geo[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "d80e5f8b-8965-4926-8104-a6fae02f9f12",
+      "last_modified": "2017-06-19T11:58:38",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d80e5f8b-8965-4926-8104-a6fae02f9f12",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:46:34.891000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.iledefrance.fr//explore/dataset/base-adresse-75/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "ban-base-adresse-nationale-paris",
+  "spatial": null,
+  "tags": [
+    "administration",
+    "adresse",
+    "amenagement-du-territoire",
+    "communes",
+    "departement",
+    "geolocalisation"
+  ],
+  "temporal_coverage": null,
+  "title": "BAN - Base Adresse Nationale - Paris",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/ban-base-adresse-nationale-paris/"
+}

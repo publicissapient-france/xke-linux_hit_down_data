@@ -1,0 +1,156 @@
+{
+  "badges": [],
+  "created_at": "2017-06-20T16:18:38.916000",
+  "deleted": null,
+  "description": "Le questionnaire e-Satis +48h MCO est mis \u00e0 disposition, en ligne, pour recueillir l'exp\u00e9rience et la satisfaction des patients de fa\u00e7on continue aupr\u00e8s de tous les patients hospitalis\u00e9s plus de 48 heures en m\u00e9decine, chirurgie ou obst\u00e9trique (MCO).\nIl permet au patient de donner son avis sur l\u2019ensemble des \u00e9tapes de son parcours dans l\u2019\u00e9tablissement de sant\u00e9 :\n- son accueil : accessibilit\u00e9, livret d\u2019accueil, identification du personnel, horaires de visite, \u2026 ;\n- sa prise en charge : information, d\u00e9cision m\u00e9dicale partag\u00e9e, d\u00e9lais d\u2019attente, respect de l\u2019intimit\u00e9/confidentialit\u00e9, \u00e9coute et soutien, gestion de la douleur, \u2026 ;\n- sa chambre et ses repas ;\n- sa sortie : organisation, informations re\u00e7ues sur les m\u00e9dicaments et les suites, \u2026",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": "2018-06-20T16:15:40",
+  "id": "59492ebe88ee3849e2345d0b",
+  "last_modified": "2017-06-21T09:15:44.770000",
+  "last_update": "2017-06-20T16:21:01.080000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 16
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff7ba3a7292c64a77e15",
+    "logo": "https://www.data.gouv.fr/s/avatars/fd/a753642943453eaa9cc5ae003c0edd-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/fd/a753642943453eaa9cc5ae003c0edd-100.jpg",
+    "name": "Haute Autorit\u00e9 de sant\u00e9 (HAS)",
+    "page": "https://www.data.gouv.fr/fr/organizations/haute-autorite-de-sante-has/",
+    "slug": "haute-autorite-de-sante-has",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/haute-autorite-de-sante-has/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/satisfaction-des-patients-hospitalises-e-satis/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "f1d584e8c7a133398275059745c54db55da0559a"
+      },
+      "created_at": "2017-06-20T16:21:01.080000",
+      "description": "",
+      "extras": {},
+      "filesize": 301852,
+      "filetype": "file",
+      "format": "pdf",
+      "id": "022fd3fc-d825-41c6-a192-e0f2cb59a88f",
+      "last_modified": "2017-06-20T16:21:04.726000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/022fd3fc-d825-41c6-a192-e0f2cb59a88f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": "application/pdf",
+      "published": "2017-06-20T16:21:01.080000",
+      "title": "Description des donn\u00e9es",
+      "url": "https://www.data.gouv.fr/s/resources/donnees-de-satisfaction-des-patients-hospitalises-e-satis/20170620-162101/opendata_e-satis_fiche_descriptive.pdf"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "ff790121354285f6626937762dc2e1c8a330d2b3"
+      },
+      "created_at": "2017-06-20T16:20:31.856000",
+      "description": "",
+      "extras": {},
+      "filesize": 470854,
+      "filetype": "file",
+      "format": "pdf",
+      "id": "ed342311-c7ed-485f-af87-10c7b3a89e5f",
+      "last_modified": "2017-06-20T16:20:36.822000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ed342311-c7ed-485f-af87-10c7b3a89e5f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/pdf",
+      "published": "2017-06-20T16:20:31.856000",
+      "title": "modalit\u00e9s de calcul",
+      "url": "https://www.data.gouv.fr/s/resources/donnees-de-satisfaction-des-patients-hospitalises-e-satis/20170620-162031/Modalites_Calculs_eSatis48hMCO_VF.pdf"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "c3b6dcc895ba033ec1e0c2e6ee28cfc3b6955f93"
+      },
+      "created_at": "2017-06-20T16:19:53.098000",
+      "description": "",
+      "extras": {},
+      "filesize": 952,
+      "filetype": "file",
+      "format": "csv",
+      "id": "81e952a4-2823-428d-8097-825d5ce3ecb0",
+      "last_modified": "2017-06-20T16:20:04.525000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/81e952a4-2823-428d-8097-825d5ce3ecb0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 2
+      },
+      "mime": "text/csv",
+      "published": "2017-06-20T16:19:53.098000",
+      "title": "lexique_esatisMCO_ipaqss",
+      "url": "https://www.data.gouv.fr/s/resources/donnees-de-satisfaction-des-patients-hospitalises-e-satis/20170620-161953/lexique_esatisMCO_ipaqss_2016_2016.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "157bc22c9d84d6e4fde8ebdfbf3968b7425e125f"
+      },
+      "created_at": "2017-06-20T16:18:58.635000",
+      "description": "",
+      "extras": {},
+      "filesize": 159025,
+      "filetype": "file",
+      "format": "csv",
+      "id": "efcf3a6a-f30c-4d69-aab7-b2c4dbabdd46",
+      "last_modified": "2017-06-20T16:19:23.026000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/efcf3a6a-f30c-4d69-aab7-b2c4dbabdd46",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 3
+      },
+      "mime": "text/csv",
+      "published": "2017-06-20T16:18:58.635000",
+      "title": "e-satis",
+      "url": "https://www.data.gouv.fr/s/resources/donnees-de-satisfaction-des-patients-hospitalises-e-satis/20170620-161858/opendata_e-satis.csv"
+    }
+  ],
+  "slug": "satisfaction-des-patients-hospitalises-e-satis",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:region",
+    "zones": []
+  },
+  "tags": [
+    "etablissement-de-sante",
+    "patients",
+    "qualite-des-soins"
+  ],
+  "temporal_coverage": {
+    "end": "2016-12-31",
+    "start": "2016-01-01"
+  },
+  "title": "Satisfaction des patients hospitalis\u00e9s (e-Satis)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/satisfaction-des-patients-hospitalises-e-satis/"
+}

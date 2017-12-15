@@ -1,0 +1,81 @@
+{
+  "badges": [],
+  "created_at": "2016-06-07T00:00:00",
+  "deleted": null,
+  "description": "",
+  "extras": {
+    "ckan:name": "les-espaces-de-teletravail-en-ardeche",
+    "harvest:domain": "opendata.ozwillo.com",
+    "harvest:last_update": "2017-11-27T05:04:03.376828",
+    "harvest:remote_id": "34498c71-239a-4f0f-bf95-fe309885da1a",
+    "harvest:source_id": "56bbbec4c751df6a689f9dea"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59593c56a3a7291dd09c828a",
+  "last_modified": "2017-11-27T05:04:03.381000",
+  "last_update": "2017-07-02T20:32:54.075000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "56c4765fc751df27326c6ddf",
+    "logo": "https://www.data.gouv.fr/s/avatars/c3/f674ad6c354099a8166090b134da4a-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c3/f674ad6c354099a8166090b134da4a-100.png",
+    "name": "Ozwillo",
+    "page": "https://www.data.gouv.fr/fr/organizations/ozwillo/",
+    "slug": "ozwillo",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ozwillo/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/les-espaces-de-teletravail-en-ardeche-2/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T20:32:54.074000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-08T01:50:16.593000",
+        "check:status": 200,
+        "check:url": "https://opendata.ozwillo.com/dataset/34498c71-239a-4f0f-bf95-fe309885da1a/resource/9648f69e-4625-4ed7-b7e3-27e01e08bdb1/download/1439544974.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "9648f69e-4625-4ed7-b7e3-27e01e08bdb1",
+      "last_modified": "2016-06-07T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9648f69e-4625-4ed7-b7e3-27e01e08bdb1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T20:32:54.075000",
+      "title": "Liste des espaces de t\u00e9l\u00e9travail dans l'Ard\u00e8che",
+      "url": "https://opendata.ozwillo.com/dataset/34498c71-239a-4f0f-bf95-fe309885da1a/resource/9648f69e-4625-4ed7-b7e3-27e01e08bdb1/download/1439544974.csv"
+    }
+  ],
+  "slug": "les-espaces-de-teletravail-en-ardeche-2",
+  "spatial": null,
+  "tags": [
+    "ardeche",
+    "teletravail"
+  ],
+  "temporal_coverage": null,
+  "title": "Les espaces de t\u00e9l\u00e9travail en Ard\u00e8che",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/les-espaces-de-teletravail-en-ardeche-2/"
+}

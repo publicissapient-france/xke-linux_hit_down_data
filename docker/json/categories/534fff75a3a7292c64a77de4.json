@@ -1,0 +1,263 @@
+{
+  "acronym": null,
+  "badges": [
+    {
+      "kind": "public-service"
+    },
+    {
+      "kind": "certified"
+    }
+  ],
+  "created_at": "2014-04-17T18:21:09.022000",
+  "deleted": null,
+  "description": "La politique d'ouverture et de partage des donn\u00e9es publiques (\"Open data\") est pilot\u00e9e, sous l'autorit\u00e9 du Premier ministre, par la mission Etalab, dirig\u00e9e par Mme Laure Lucchesi.\n\nLa mission Etalab fait partie du Secr\u00e9tariat g\u00e9n\u00e9ral pour la modernisation de l'action publique, dont la direction est assur\u00e9e par Madame Laure de la Bret\u00e8che.\n \n### Les missions et le r\u00f4le d\u2019Etalab pour la modernisation de l\u2019action publique\n \nAu sein du Secr\u00e9tariat g\u00e9n\u00e9ral pour la modernisation de l\u2019action publique, Etalab coordonne l\u2019action des services de l\u2019Etat et de ses \u00e9tablissements publics pour faciliter la r\u00e9utilisation la plus large possible de leurs informations publiques.\n\nEtalab administre le portail unique interminist\u00e9riel [data.gouv.fr](http://data.gouv.fr) destin\u00e9 \u00e0 rassembler et \u00e0 mettre \u00e0 disposition librement l\u2019ensemble des informations publiques de l\u2019Etat, de ses \u00e9tablissements publics et, si elles le souhaitent, des collectivit\u00e9s territoriales et des personnes de droit public ou de droit priv\u00e9 charg\u00e9es d\u2019une mission de service public.\n\nEtalab poursuit la mise \u00e0 disposition gratuite des donn\u00e9es publiques, conform\u00e9ment au principe g\u00e9n\u00e9ral de r\u00e9utilisation libre, facile et gratuite fix\u00e9 par la circulaire du Premier ministre du 26 mai 2011 relative \u00e0 l\u2019Open Data, en mettant l'accent sur les donn\u00e9es \u00e0 fort impact soci\u00e9tal (sant\u00e9, \u00e9ducation, etc.) et/ou \u00e0 fort potentiel d\u2019innovation sociale et \u00e9conomique.\n\nEtalab collabore \u00e9troitement avec les services charg\u00e9s de la modernisation de l\u2019action publique, notamment ceux responsables de l\u2019innovation au service des usagers et de la transformation num\u00e9rique de l\u2019Etat.\n \n### Les actions en faveur de la transparence et de l\u2019ouverture des donn\u00e9es publiques\n\nEtalab, depuis sa cr\u00e9ation, a mis en ligne le portail national data.gouv.fr qui permet l\u2019acc\u00e8s \u00e0 plus de 355 000 informations publiques gratuites et r\u00e9utilisables. En rendant, par exemple, accessibles les d\u00e9penses du budget de l'Etat \u00e0 partir d\u2019un seul fichier brut dans un format r\u00e9utilisable ou la liste des biens immobiliers propri\u00e9t\u00e9 de l\u2019Etat, data.gouv.fr contribue \u00e0 rendre des comptes aux citoyens sur le fonctionnement de l\u2019Etat et de ses administrations en permettant une plus grande transparence de leur fonctionnement.\n\nEtalab anime \u00e9galement les concours \u00ab Dataconnexions \u00bb qui contribuent \u00e0 encourager et soutenir le d\u00e9veloppement de projets innovants de r\u00e9utilisation de donn\u00e9es publiques.\n\n\n\n[www.modernisation.gouv.fr](http://www.modernisation.gouv.fr) et [www.etalab.gouv.fr](https://www.etalab.gouv.fr/).",
+  "id": "534fff75a3a7292c64a77de4",
+  "last_modified": "2017-11-27T10:25:34.707000",
+  "logo": "https://www.data.gouv.fr/s/avatars/2015-01-12/8ebc26cca2394e089a8b065fe0ae2659/etalab-original.jpg",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-01-12/8ebc26cca2394e089a8b065fe0ae2659/etalab-100.jpg",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Am\u00e9lie",
+        "id": "534fff3ca3a7292c64a7738e",
+        "last_name": "Banzet",
+        "page": "https://www.data.gouv.fr/fr/users/amelie-banzet/",
+        "slug": "amelie-banzet",
+        "uri": "https://www.data.gouv.fr/api/1/users/amelie-banzet/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/6d/7b0dd36b6a4e8cab820afc2a7593e1-original.png",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/6d/7b0dd36b6a4e8cab820afc2a7593e1-100.png",
+        "class": "User",
+        "first_name": "Axel",
+        "id": "534fff3da3a7292c64a7740a",
+        "last_name": "Haustant",
+        "page": "https://www.data.gouv.fr/fr/users/axel-haustant-2/",
+        "slug": "axel-haustant-2",
+        "uri": "https://www.data.gouv.fr/api/1/users/axel-haustant-2/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/42/b01da672d440b09017117c9cda5aff-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/42/b01da672d440b09017117c9cda5aff-100.jpg",
+        "class": "User",
+        "first_name": "Henri",
+        "id": "534fff41a3a7292c64a77718",
+        "last_name": "Verdier",
+        "page": "https://www.data.gouv.fr/fr/users/henri-verdier/",
+        "slug": "henri-verdier",
+        "uri": "https://www.data.gouv.fr/api/1/users/henri-verdier/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/c2/b9bad55a174ada8cfc8a948704c81f-original.jpeg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/c2/b9bad55a174ada8cfc8a948704c81f-100.jpeg",
+        "class": "User",
+        "first_name": "Pierre",
+        "id": "534fff47a3a7292c64a77a9c",
+        "last_name": "Pezziardi",
+        "page": "https://www.data.gouv.fr/fr/users/pierre-pezziardi/",
+        "slug": "pierre-pezziardi",
+        "uri": "https://www.data.gouv.fr/api/1/users/pierre-pezziardi/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/2014-11-13/892e2f5aadb64ab7a8bda671a57dffbf/photo-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-11-13/892e2f5aadb64ab7a8bda671a57dffbf/photo-100.jpg",
+        "class": "User",
+        "first_name": "Romain",
+        "id": "534fff48a3a7292c64a77b05",
+        "last_name": "Tales",
+        "page": "https://www.data.gouv.fr/fr/users/romain-tales/",
+        "slug": "romain-tales",
+        "uri": "https://www.data.gouv.fr/api/1/users/romain-tales/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/96/ab9b0987f447bc97dc8adab0581352-original.png",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/96/ab9b0987f447bc97dc8adab0581352-100.png",
+        "class": "User",
+        "first_name": "Christian",
+        "id": "534fff3ea3a7292c64a774e4",
+        "last_name": "Quest",
+        "page": "https://www.data.gouv.fr/fr/users/christian-quest-2/",
+        "slug": "christian-quest-2",
+        "uri": "https://www.data.gouv.fr/api/1/users/christian-quest-2/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/12/e1806df36f450896e23ed7807a1404-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/12/e1806df36f450896e23ed7807a1404-100.jpg",
+        "class": "User",
+        "first_name": "Paul-Antoine",
+        "id": "534fff46a3a7292c64a77a43",
+        "last_name": "Chevalier",
+        "page": "https://www.data.gouv.fr/fr/users/paul-antoine-chevalier/",
+        "slug": "paul-antoine-chevalier",
+        "uri": "https://www.data.gouv.fr/api/1/users/paul-antoine-chevalier/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/fe/59be7a05ae4ece8491e1efe2934bef-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/fe/59be7a05ae4ece8491e1efe2934bef-100.jpg",
+        "class": "User",
+        "first_name": "David",
+        "id": "5523f3dec751df21e3aec475",
+        "last_name": "Larlet",
+        "page": "https://www.data.gouv.fr/fr/users/david-larlet/",
+        "slug": "david-larlet",
+        "uri": "https://www.data.gouv.fr/api/1/users/david-larlet/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/43/2adc92d4b844d29cb8cca31b7c838d-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/43/2adc92d4b844d29cb8cca31b7c838d-100.jpg",
+        "class": "User",
+        "first_name": "Vincent",
+        "id": "562faf12c751df3869dcc3f3",
+        "last_name": "Agnano",
+        "page": "https://www.data.gouv.fr/fr/users/vincent-agnano/",
+        "slug": "vincent-agnano",
+        "uri": "https://www.data.gouv.fr/api/1/users/vincent-agnano/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/2014-12-01/cd6500d5dcd443bf8ba5d6201b542658/index-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-12-01/cd6500d5dcd443bf8ba5d6201b542658/index-100.jpg",
+        "class": "User",
+        "first_name": "laure ",
+        "id": "534fff43a3a7292c64a7784f",
+        "last_name": "lucchesi",
+        "page": "https://www.data.gouv.fr/fr/users/laure-lucchesi-2/",
+        "slug": "laure-lucchesi-2",
+        "uri": "https://www.data.gouv.fr/api/1/users/laure-lucchesi-2/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/c3/39e557eb384ef7ab4066fbb51ac82b-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/c3/39e557eb384ef7ab4066fbb51ac82b-100.jpg",
+        "class": "User",
+        "first_name": "Guillaume",
+        "id": "5690edf588ee380770af0bf4",
+        "last_name": "Thibault",
+        "page": "https://www.data.gouv.fr/fr/users/guillaume-thibault/",
+        "slug": "guillaume-thibault",
+        "uri": "https://www.data.gouv.fr/api/1/users/guillaume-thibault/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/60/ee9e4d91a5487e834a405116278acf-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/60/ee9e4d91a5487e834a405116278acf-100.jpg",
+        "class": "User",
+        "first_name": "Mathilde",
+        "id": "578e488388ee383a857d97c2",
+        "last_name": "Bras",
+        "page": "https://www.data.gouv.fr/fr/users/mathilde-bras/",
+        "slug": "mathilde-bras",
+        "uri": "https://www.data.gouv.fr/api/1/users/mathilde-bras/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Thimy",
+        "id": "59243b4888ee384c8bd2e6f9",
+        "last_name": "Kieu",
+        "page": "https://www.data.gouv.fr/fr/users/thimy-kieu/",
+        "slug": "thimy-kieu",
+        "uri": "https://www.data.gouv.fr/api/1/users/thimy-kieu/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/18/29c9406c2e4347a546a6c16cf9fc4d-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/18/29c9406c2e4347a546a6c16cf9fc4d-100.jpg",
+        "class": "User",
+        "first_name": "J\u00e9r\u00f4me",
+        "id": "534fff42a3a7292c64a777c6",
+        "last_name": "Desboeufs",
+        "page": "https://www.data.gouv.fr/fr/users/jerome-desboeufs/",
+        "slug": "jerome-desboeufs",
+        "uri": "https://www.data.gouv.fr/api/1/users/jerome-desboeufs/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Benjamin",
+        "id": "59b80fd388ee38119ad2930c",
+        "last_name": "Perrot",
+        "page": "https://www.data.gouv.fr/fr/users/benjamin-perrot-2/",
+        "slug": "benjamin-perrot-2",
+        "uri": "https://www.data.gouv.fr/api/1/users/benjamin-perrot-2/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/70/cb396327f04c58a6b376ec377918b5-original.png",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/70/cb396327f04c58a6b376ec377918b5-100.png",
+        "class": "User",
+        "first_name": "Colin",
+        "id": "534fff3ea3a7292c64a77526",
+        "last_name": "Maudry",
+        "page": "https://www.data.gouv.fr/fr/users/colin-maudry-2/",
+        "slug": "colin-maudry-2",
+        "uri": "https://www.data.gouv.fr/api/1/users/colin-maudry-2/"
+      }
+    }
+  ],
+  "metrics": {
+    "dataset_views": 15997,
+    "datasets": 15,
+    "followers": 149,
+    "members": 16,
+    "nb_hits": 5,
+    "nb_uniq_visitors": 5,
+    "nb_visits": 5,
+    "permitted_reuses": 4,
+    "resource_downloads": 4859,
+    "reuse_views": 3036,
+    "reuses": 11,
+    "views": 2772
+  },
+  "name": "Etalab",
+  "page": "https://www.data.gouv.fr/fr/organizations/etalab/",
+  "slug": "etalab",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/etalab/",
+  "url": "https://www.etalab.gouv.fr"
+}

@@ -1,0 +1,229 @@
+{
+  "badges": [],
+  "created_at": "2017-10-03T00:00:00",
+  "deleted": null,
+  "description": "Existence explicite de vice pr\u00e9sidence ou de d\u00e9l\u00e9gations D\u00e9veloppement Durable et D\u00e9mocratie Locale ou citoyennet\u00e9 et engagement des collectivit\u00e9s dans une d\u00e9marche AFAQ 26000.",
+  "extras": {
+    "ckan:name": "existence-explicite-de-vice-presidence-ou-de-delegations-developpement-durable-et-democratie-lo",
+    "contact_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "contact_name": "Mission Agenda 21",
+    "contact_uri": "https://datacat.datalocale.fr/414579",
+    "guid": "https://datacat.datalocale.fr/415784",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-11-27T05:19:16.466211",
+    "harvest:remote_id": "45cc91f9-0e0d-4bfb-acb5-11cd52e35d4c",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "95e39f64-f93c-422f-ad1f-1c10fdc30d38",
+    "issued": "2013-08-27T09:53:31+00:00",
+    "modified": "2016-07-18T09:21:06.241151+00:00",
+    "publisher_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "publisher_name": "dgsd-a21",
+    "publisher_uri": "https://datacat.datalocale.fr/414578",
+    "theme": "[\"d\u00e9mocratie\"]",
+    "uri": "https://datacat.datalocale.fr/415784"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59d45fa6a3a7291992b1ebb3",
+  "last_modified": "2017-11-27T05:19:16.468000",
+  "last_update": "2017-10-14T06:02:20.225000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/existence-explicite-de-vice-presidence-ou-de-delegations-developpement-durable-et-democratie-lo-3/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-10-04T06:12:22.286000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-09T22:56:07.232000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415786/raw/2013-09-02-095547tx_vp_dev_durable.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "4f9da66e-0422-4fb5-8991-c3edcd48451e",
+      "last_modified": "2017-10-04T06:12:22.287000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4f9da66e-0422-4fb5-8991-c3edcd48451e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-04T06:12:22.286000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415786/raw/2013-09-02-095547tx_vp_dev_durable.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-04T06:12:22.287000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-09T22:55:23.179000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415788/raw/2013-09-02-095547tx_vp_dev_durabledesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "00acc773-5054-4769-937c-a2bcac038ca2",
+      "last_modified": "2017-10-04T06:12:22.287000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/00acc773-5054-4769-937c-a2bcac038ca2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-10-04T06:12:22.287000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415788/raw/2013-09-02-095547tx_vp_dev_durabledesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-05T06:14:49.691000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-09T22:55:18.443000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415788/raw/2013-09-02-095547tx_vp_dev_durabledesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "87bdbb18-e03b-4d18-9528-100a639e3fd4",
+      "last_modified": "2017-10-05T06:14:49.692000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/87bdbb18-e03b-4d18-9528-100a639e3fd4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-10-05T06:14:49.691000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415788/raw/2013-09-02-095547tx_vp_dev_durabledesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-05T06:14:49.692000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T20:03:46.385000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415786/raw/2013-09-02-095547tx_vp_dev_durable.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "bbc0ec09-8842-4411-ad49-8457be0b3efa",
+      "last_modified": "2017-10-05T06:14:49.692000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/bbc0ec09-8842-4411-ad49-8457be0b3efa",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-05T06:14:49.692000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415786/raw/2013-09-02-095547tx_vp_dev_durable.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:02:20.225000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T01:37:06.800000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415788/raw/2013-09-02-095547tx_vp_dev_durabledesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "42f4f407-16be-488c-9249-a78b5a92d02c",
+      "last_modified": "2017-11-27T05:19:16.465000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/42f4f407-16be-488c-9249-a78b5a92d02c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-10-14T06:02:20.225000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/distribution/415787/raw/2013-09-02-095547tx_vp_dev_durabledesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:02:20.225000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T20:04:42.737000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/distribution/415785/raw/2013-09-02-095547tx_vp_dev_durable.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "350e632e-2a70-4e5f-9b53-d8026db46d49",
+      "last_modified": "2017-11-27T05:19:16.465000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/350e632e-2a70-4e5f-9b53-d8026db46d49",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-14T06:02:20.225000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/distribution/415785/raw/2013-09-02-095547tx_vp_dev_durable.csv"
+    }
+  ],
+  "slug": "existence-explicite-de-vice-presidence-ou-de-delegations-developpement-durable-et-democratie-lo-3",
+  "spatial": null,
+  "tags": [
+    "audit",
+    "democratie",
+    "developpement-durable"
+  ],
+  "temporal_coverage": null,
+  "title": "Existence explicite de vice pr\u00e9sidence ou de d\u00e9l\u00e9gations D\u00e9veloppement Durable et D\u00e9mocratie Locale ou citoyennet\u00e9 et engagement des collectivit\u00e9s dans une d\u00e9marche AFAQ 26000",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/existence-explicite-de-vice-presidence-ou-de-delegations-developpement-durable-et-democratie-lo-3/"
+}

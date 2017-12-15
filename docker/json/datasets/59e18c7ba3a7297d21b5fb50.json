@@ -1,0 +1,127 @@
+{
+  "badges": [],
+  "created_at": "2017-10-12T00:00:00",
+  "deleted": null,
+  "description": "Liste de prestataires d\u2019activit\u00e9s \u00e0 pratiquer dans les airs (Avion de tourisme, Cerf-volant, Deltaplane, Fly Fish, Flysurf, H\u00e9licopt\u00e8re, Hydraviation, Montgolfi\u00e8re, Parachute ascensionnel, Parachutisme, Parapente, Planeur, ULM, Vol \u00e0 voile) en Aquitaine, issue de la base de donn\u00e9es SIRTAQUI.\n\nCe fichier contient les informations de g\u00e9olocalisation et de contact, les informations sur le type d\u2019activit\u00e9, les marques et labels, les conditions d\u2019ouverture, les tarifs, les \u00e9quipements et les services propos\u00e9s.",
+  "extras": {
+    "ckan:name": "liste-dactivites-dans-les-airs-en-aquitaine",
+    "contact_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "contact_name": "CRTA",
+    "contact_uri": "https://datacat.datalocale.fr/414593",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
+    "guid": "https://datacat.datalocale.fr/415109",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-11-09T05:01:03.033598",
+    "harvest:remote_id": "fcd34da9-8209-453e-8c35-bd70f14f3cea",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "42316e95-7250-44d7-b6db-4bad23e09e89",
+    "issued": "2014-12-23T10:10:51+00:00",
+    "modified": "2016-07-18T09:21:07.320753+00:00",
+    "publisher_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "publisher_name": "agence SIRTAQUI",
+    "publisher_type": "\"Organisation \u00e0 but non lucratif\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414592",
+    "remote_url": "http://www.sirtaqui-aquitaine.com",
+    "theme": "[\"tourisme\"]",
+    "uri": "https://datacat.datalocale.fr/415109"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59e18c7ba3a7297d21b5fb50",
+  "last_modified": "2017-11-09T05:01:03.035000",
+  "last_update": "2017-10-14T06:03:07.727000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-dactivites-dans-les-airs-en-aquitaine-3/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:03:07.727000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T18:16:59.271000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415113/raw/SIRTAQUI_champs.csv-"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "be08a9f7-7276-4710-8160-55dd38369d6d",
+      "last_modified": "2017-11-09T05:01:03.032000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/be08a9f7-7276-4710-8160-55dd38369d6d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-14T06:03:07.727000",
+      "title": "description des champs des jeux de donn\u00e9es ",
+      "url": "https://datacat.datalocale.fr/file/415113/raw/SIRTAQUI_champs.csv-"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:03:07.727000",
+      "description": "export en csv des \u00e9l\u00e9ments contenus dans la base de donn\u00e9es SIRTAQUI",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T18:17:01.820000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1282483/raw/liste-activites-air-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "12d264b5-714e-4839-b90d-84c4e77888c8",
+      "last_modified": "2017-11-09T05:01:03.032000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/12d264b5-714e-4839-b90d-84c4e77888c8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-14T06:03:07.727000",
+      "title": "liste-activites-air-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1282483/raw/liste-activites-air-aquitaine.csv"
+    }
+  ],
+  "slug": "liste-dactivites-dans-les-airs-en-aquitaine-3",
+  "spatial": null,
+  "tags": [
+    "avion",
+    "kite",
+    "parachutisme",
+    "parapente",
+    "sport",
+    "tourisme"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste d\u2019activit\u00e9s dans les airs en Aquitaine",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-dactivites-dans-les-airs-en-aquitaine-3/"
+}

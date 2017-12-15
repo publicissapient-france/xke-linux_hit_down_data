@@ -1,0 +1,53 @@
+{
+  "acronym": "Marnes-la-Coquette",
+  "badges": [
+    {
+      "kind": "public-service"
+    },
+    {
+      "kind": "certified"
+    }
+  ],
+  "created_at": "2015-03-18T11:07:08.905000",
+  "deleted": null,
+  "description": "Page officielle de la ville de Marnes-la-Coquette",
+  "id": "55094e4cc751df601a882846",
+  "last_modified": "2017-11-23T21:33:42.768000",
+  "logo": "https://www.data.gouv.fr/s/avatars/2015-03-19/676f9f27e8a84ed6b89b92b9a0423859/MarnesBlason_nouv-original.jpeg",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-19/676f9f27e8a84ed6b89b92b9a0423859/MarnesBlason_nouv-100.jpeg",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Mairie",
+        "id": "54930417c751df473a04805a",
+        "last_name": "Marnes-la-Coquette",
+        "page": "https://www.data.gouv.fr/fr/users/mairie-marnes-la-coquette/",
+        "slug": "mairie-marnes-la-coquette",
+        "uri": "https://www.data.gouv.fr/api/1/users/mairie-marnes-la-coquette/"
+      }
+    }
+  ],
+  "metrics": {
+    "dataset_views": 3,
+    "datasets": 9,
+    "followers": 2,
+    "members": 1,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 0,
+    "resource_downloads": 8,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 35
+  },
+  "name": "Ville de Marnes-la-Coquette",
+  "page": "https://www.data.gouv.fr/fr/organizations/ville-de-marnes-la-coquette/",
+  "slug": "ville-de-marnes-la-coquette",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/ville-de-marnes-la-coquette/",
+  "url": "http://www.marnes-la-coquette.fr"
+}

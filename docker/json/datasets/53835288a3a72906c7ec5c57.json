@@ -1,0 +1,116 @@
+{
+  "badges": [],
+  "created_at": "2014-05-26T08:18:57.931000",
+  "deleted": null,
+  "description": "Horaires des lignes Intercit\u00e9s au format [GTFS](https://developers.google.com/transit/gtfs/reference).\n\nCes horaires sont les horaires th\u00e9oriques mis \u00e0 jour tous les deux mois.",
+  "extras": {
+    "datagouv_ckan_id": "0dc51d35-547f-45c8-89de-9c8f676dca74",
+    "datagouv_ckan_last_sync": "2014-09-16T09:14:19.251000",
+    "harvest:domain": "ressources.data.sncf.com",
+    "harvest:last_update": "2017-11-27T05:02:58.308633",
+    "harvest:remote_id": "sncf-intercites-gtfs",
+    "harvest:source_id": "563dd01f88ee386a21e72046",
+    "ods:has_records": true,
+    "ods:url": "https://ressources.data.sncf.com/explore/dataset/sncf-intercites-gtfs/",
+    "remote_url": "http://ressources.data.sncf.com/explore/dataset/sncf-intercites-gtfs/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "53835288a3a72906c7ec5c57",
+  "last_modified": "2017-11-27T05:02:58.311000",
+  "last_update": "2017-11-27T05:02:58.307000",
+  "license": "other-open",
+  "metrics": {
+    "cow_criticals": 0,
+    "cow_errors": 0,
+    "cow_score": 2.399573749860555,
+    "cow_warnings": 3,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 7
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb0a3a7292c64a78115",
+    "logo": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-100.png",
+    "name": "SNCF",
+    "page": "https://www.data.gouv.fr/fr/organizations/sncf/",
+    "slug": "sncf",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/sncf/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/horaires-des-lignes-intercites-sncf/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:02:58.306000",
+      "description": "- *Donn\u00e9es*: donnees[text]\n- *format*: format[text]\n- *Download*: download[file]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c5440bf3-b9ad-4af6-85f8-099f3a7c9b5f",
+      "last_modified": "2017-11-16T09:56:05",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c5440bf3-b9ad-4af6-85f8-099f3a7c9b5f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:02:58.307000",
+      "title": "Export au format CSV",
+      "url": "https://ressources.data.sncf.com/explore/dataset/sncf-intercites-gtfs/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:02:58.307000",
+      "description": "- *Donn\u00e9es*: donnees[text]\n- *format*: format[text]\n- *Download*: download[file]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "f2a351c6-6944-4c94-9e4d-6d61cbf8631a",
+      "last_modified": "2017-11-16T09:56:05",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f2a351c6-6944-4c94-9e4d-6d61cbf8631a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:02:58.307000",
+      "title": "Export au format JSON",
+      "url": "https://ressources.data.sncf.com/explore/dataset/sncf-intercites-gtfs/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "horaires-des-lignes-intercites-sncf",
+  "spatial": {
+    "geom": null,
+    "granularity": "other",
+    "zones": [
+      "country:fr"
+    ]
+  },
+  "tags": [
+    "france",
+    "gare-de-voyageurs",
+    "gtfs",
+    "horaire",
+    "horaires-et-itineraires",
+    "train"
+  ],
+  "temporal_coverage": null,
+  "title": "Horaires des lignes Intercit\u00e9s",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/horaires-des-lignes-intercites-sncf/"
+}

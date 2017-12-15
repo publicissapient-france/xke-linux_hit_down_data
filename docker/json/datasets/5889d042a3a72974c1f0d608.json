@@ -1,0 +1,150 @@
+{
+  "badges": [],
+  "created_at": "2017-01-26T11:32:34.839000",
+  "deleted": null,
+  "description": "****Lanc\u00e9 par le Pr\u00e9sident de la R\u00e9publique en mai 2015 \u00e0 l\u2019issue de la concertation nationale sur le num\u00e9rique \u00e9ducatif, le Plan num\u00e9rique pour l\u2019\u00e9ducation a pour but de permettre aux enseignants et aux \u00e9l\u00e8ves de profiter de toutes les opportunit\u00e9s offertes par le num\u00e9rique. Ce jeu de donn\u00e9es pr\u00e9sente la liste des \u00e9coles et coll\u00e8ges num\u00e9riques. ****",
+  "extras": {
+    "harvest:domain": "data.education.gouv.fr",
+    "harvest:last_update": "2017-11-27T05:00:33.036892",
+    "harvest:remote_id": "fr-en-ecoles-colleges-numeriques",
+    "harvest:source_id": "58864fc5c751df491dae0a67",
+    "ods:has_records": true,
+    "ods:url": "https://data.education.gouv.fr/explore/dataset/fr-en-ecoles-colleges-numeriques/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5889d042a3a72974c1f0d608",
+  "last_modified": "2017-11-27T05:00:33.047000",
+  "last_update": "2017-11-27T05:00:33.035000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff8fa3a7292c64a77f22",
+    "logo": "https://www.data.gouv.fr/s/avatars/36/a225fd237c4159b092611b12973905-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/36/a225fd237c4159b092611b12973905-100.png",
+    "name": "Education Nationale",
+    "page": "https://www.data.gouv.fr/fr/organizations/education-nationale/",
+    "slug": "education-nationale",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/education-nationale/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/ecoles-et-colleges-numeriques/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:00:33.034000",
+      "description": "- *Appellation officielle*: appellation_officielle[text] Appellation officielle de l'\u00e9tablissement\n- *UAI*: uai[text] num\u00e9ro de l'unit\u00e9 administrative immatricul\u00e9e (uai)\n- *Type d'\u00e9tablissement*: type_etablissement[text] type d'\u00e9tablissement au regard du plan num\u00e9rique pour l'\u00e9ducation\n- *Secteur Public/Priv\u00e9*: secteur_public_prive_libe[text] secteur public ou priv\u00e9\n- *Adresse*: adresse_uai[text] adresse de l'\u00e9tablissement\n- *Lieu dit*: lieu_dit_uai[text] lieu-dit de l'\u00e9tablissement\n- *Boite postale*: boite_postale_uai[text] boite postale de l'\u00e9tablissement\n- *Localite d'acheminement*: localite_acheminement_uai[text] localit\u00e9 d'acheminement de l'\u00e9tablissement\n- *Code postal*: code_postal_uai[text] code postal de l'\u00e9tablissement\n- *Position*: position[geo_point_2d] position de l'\u00e9tablissement\n- *Libell\u00e9 r\u00e9gion*: libelle_region_2016[text]\n- *Code d\u00e9partement*: code_departement[text]\n- *Code r\u00e9gion*: code_region_2016[text] code r\u00e9gion\n- *D\u00e9partement*: departement[text] d\u00e9partement de l'\u00e9tablissement\n- *France m\u00e9tropolitaine*: france_metropolitaine[text] indique si l'\u00e9tablissement est situ\u00e9 en France m\u00e9tropolitaine\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a61b1b76-8111-4e19-8a7b-8c81b67ba0f9",
+      "last_modified": "2016-12-07T14:44:32",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a61b1b76-8111-4e19-8a7b-8c81b67ba0f9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:00:33.034000",
+      "title": "Export au format CSV",
+      "url": "https://data.education.gouv.fr/explore/dataset/fr-en-ecoles-colleges-numeriques/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:00:33.035000",
+      "description": "- *Appellation officielle*: appellation_officielle[text] Appellation officielle de l'\u00e9tablissement\n- *UAI*: uai[text] num\u00e9ro de l'unit\u00e9 administrative immatricul\u00e9e (uai)\n- *Type d'\u00e9tablissement*: type_etablissement[text] type d'\u00e9tablissement au regard du plan num\u00e9rique pour l'\u00e9ducation\n- *Secteur Public/Priv\u00e9*: secteur_public_prive_libe[text] secteur public ou priv\u00e9\n- *Adresse*: adresse_uai[text] adresse de l'\u00e9tablissement\n- *Lieu dit*: lieu_dit_uai[text] lieu-dit de l'\u00e9tablissement\n- *Boite postale*: boite_postale_uai[text] boite postale de l'\u00e9tablissement\n- *Localite d'acheminement*: localite_acheminement_uai[text] localit\u00e9 d'acheminement de l'\u00e9tablissement\n- *Code postal*: code_postal_uai[text] code postal de l'\u00e9tablissement\n- *Position*: position[geo_point_2d] position de l'\u00e9tablissement\n- *Libell\u00e9 r\u00e9gion*: libelle_region_2016[text]\n- *Code d\u00e9partement*: code_departement[text]\n- *Code r\u00e9gion*: code_region_2016[text] code r\u00e9gion\n- *D\u00e9partement*: departement[text] d\u00e9partement de l'\u00e9tablissement\n- *France m\u00e9tropolitaine*: france_metropolitaine[text] indique si l'\u00e9tablissement est situ\u00e9 en France m\u00e9tropolitaine\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "26b46741-0a12-4473-99ef-d595a533db2c",
+      "last_modified": "2016-12-07T14:44:32",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/26b46741-0a12-4473-99ef-d595a533db2c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:00:33.035000",
+      "title": "Export au format JSON",
+      "url": "https://data.education.gouv.fr/explore/dataset/fr-en-ecoles-colleges-numeriques/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:00:33.035000",
+      "description": "- *Appellation officielle*: appellation_officielle[text] Appellation officielle de l'\u00e9tablissement\n- *UAI*: uai[text] num\u00e9ro de l'unit\u00e9 administrative immatricul\u00e9e (uai)\n- *Type d'\u00e9tablissement*: type_etablissement[text] type d'\u00e9tablissement au regard du plan num\u00e9rique pour l'\u00e9ducation\n- *Secteur Public/Priv\u00e9*: secteur_public_prive_libe[text] secteur public ou priv\u00e9\n- *Adresse*: adresse_uai[text] adresse de l'\u00e9tablissement\n- *Lieu dit*: lieu_dit_uai[text] lieu-dit de l'\u00e9tablissement\n- *Boite postale*: boite_postale_uai[text] boite postale de l'\u00e9tablissement\n- *Localite d'acheminement*: localite_acheminement_uai[text] localit\u00e9 d'acheminement de l'\u00e9tablissement\n- *Code postal*: code_postal_uai[text] code postal de l'\u00e9tablissement\n- *Position*: position[geo_point_2d] position de l'\u00e9tablissement\n- *Libell\u00e9 r\u00e9gion*: libelle_region_2016[text]\n- *Code d\u00e9partement*: code_departement[text]\n- *Code r\u00e9gion*: code_region_2016[text] code r\u00e9gion\n- *D\u00e9partement*: departement[text] d\u00e9partement de l'\u00e9tablissement\n- *France m\u00e9tropolitaine*: france_metropolitaine[text] indique si l'\u00e9tablissement est situ\u00e9 en France m\u00e9tropolitaine\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "462d9c38-e23c-4918-a06a-5032ae6844f6",
+      "last_modified": "2016-12-07T14:44:32",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/462d9c38-e23c-4918-a06a-5032ae6844f6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:00:33.035000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.education.gouv.fr/explore/dataset/fr-en-ecoles-colleges-numeriques/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:00:33.035000",
+      "description": "- *Appellation officielle*: appellation_officielle[text] Appellation officielle de l'\u00e9tablissement\n- *UAI*: uai[text] num\u00e9ro de l'unit\u00e9 administrative immatricul\u00e9e (uai)\n- *Type d'\u00e9tablissement*: type_etablissement[text] type d'\u00e9tablissement au regard du plan num\u00e9rique pour l'\u00e9ducation\n- *Secteur Public/Priv\u00e9*: secteur_public_prive_libe[text] secteur public ou priv\u00e9\n- *Adresse*: adresse_uai[text] adresse de l'\u00e9tablissement\n- *Lieu dit*: lieu_dit_uai[text] lieu-dit de l'\u00e9tablissement\n- *Boite postale*: boite_postale_uai[text] boite postale de l'\u00e9tablissement\n- *Localite d'acheminement*: localite_acheminement_uai[text] localit\u00e9 d'acheminement de l'\u00e9tablissement\n- *Code postal*: code_postal_uai[text] code postal de l'\u00e9tablissement\n- *Position*: position[geo_point_2d] position de l'\u00e9tablissement\n- *Libell\u00e9 r\u00e9gion*: libelle_region_2016[text]\n- *Code d\u00e9partement*: code_departement[text]\n- *Code r\u00e9gion*: code_region_2016[text] code r\u00e9gion\n- *D\u00e9partement*: departement[text] d\u00e9partement de l'\u00e9tablissement\n- *France m\u00e9tropolitaine*: france_metropolitaine[text] indique si l'\u00e9tablissement est situ\u00e9 en France m\u00e9tropolitaine\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "dcede092-e38c-475f-b19f-01d4f0a4297f",
+      "last_modified": "2016-12-07T14:44:32",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/dcede092-e38c-475f-b19f-01d4f0a4297f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:00:33.035000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.education.gouv.fr/explore/dataset/fr-en-ecoles-colleges-numeriques/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "ecoles-et-colleges-numeriques",
+  "spatial": null,
+  "tags": [
+    "colleges-connectes",
+    "ent",
+    "equipements",
+    "materiels",
+    "ordinateurs",
+    "plan-numerique",
+    "politiques-publiques",
+    "usages-numeriques"
+  ],
+  "temporal_coverage": null,
+  "title": "\u00c9coles et coll\u00e8ges num\u00e9riques",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/ecoles-et-colleges-numeriques/"
+}

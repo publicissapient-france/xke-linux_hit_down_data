@@ -1,0 +1,113 @@
+{
+  "badges": [],
+  "created_at": "2017-01-24T19:45:26.924000",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es permet de visualiser\u00a0l\u2019\u00e9volution jour par jour des quantit\u00e9s journali\u00e8res provisoires inject\u00e9es de biom\u00e9thane\u00a0sur les 60 derniers jours,\u00a0dans le r\u00e9seau de distribution de GRDF \u00e0 la maille France.\n\nLe jeu de donn\u00e9es \"quantit\u00e9s journali\u00e8res d\u00e9finitives inject\u00e9es de biom\u00e9thane\u00a0\u00e0 la maille France, toute unit\u00e9 confondue\"\u00a0permet d'acc\u00e9der \u00e0 l'historique des donn\u00e9es depuis le 1er janvier 2016.\n\nCes donn\u00e9es sont publi\u00e9es dans le respect des r\u00e8gles relatives \u00e0 la protection des Informations Commercialement Sensibles.",
+  "extras": {
+    "harvest:domain": "opendata.grdf.fr",
+    "harvest:last_update": "2017-11-27T05:00:28.124251",
+    "harvest:remote_id": "quantite-provisoire-quotidienne-injectee-de-biomethane-agregee-a-la-maille-franc",
+    "harvest:source_id": "5887a0b288ee384d149b81a4",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.grdf.fr//explore/dataset/quantite-provisoire-quotidienne-injectee-de-biomethane-agregee-a-la-maille-franc/"
+  },
+  "frequency": "unknown",
+  "frequency_date": "2017-02-14T10:37:31",
+  "id": "5887a0c6a3a72974c1f0d44d",
+  "last_modified": "2017-11-27T05:00:28.129000",
+  "last_update": "2017-11-27T05:00:28.123000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "GRDF",
+    "class": "Organization",
+    "id": "571e4595c751df54b2fcca0d",
+    "logo": "https://www.data.gouv.fr/s/avatars/68/ae94c4688549b19b6f3409bf8f618e-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/68/ae94c4688549b19b6f3409bf8f618e-100.jpg",
+    "name": "GRDF",
+    "page": "https://www.data.gouv.fr/fr/organizations/grdf/",
+    "slug": "grdf",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/grdf/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/quantites-journalieres-provisoires-injectees-de-biomethane-agregees-a-la-maille-france-toute-unite-confondue/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:00:28.123000",
+      "description": "- *Journ\u00e9e gazi\u00e8re*: journee_gaziere[date] Journ\u00e9e gazi\u00e8re (de 6h \u00e0 6h la journ\u00e9e suivante)\n- *Maille*: maille[text] Maille\n- *Quantit\u00e9 inject\u00e9e*: quantite_injectee[double] Quantit\u00e9 en MWh\n- *Nombre de sites comptabilises*: nombre_de_sites_comptabilises[text] Nombre de sites comptabilis\u00e9s sur les sites en production\n- *Statut*: statut[text] Statut provisoire. Les donn\u00e9es d\u00e9finitives sont publi\u00e9es dans un autre jeu de donn\u00e9es.\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "31625ba9-79ff-4b2e-a7d3-360fa915a536",
+      "last_modified": "2017-04-07T07:58:55",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/31625ba9-79ff-4b2e-a7d3-360fa915a536",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:00:28.123000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.grdf.fr//explore/dataset/quantite-provisoire-quotidienne-injectee-de-biomethane-agregee-a-la-maille-franc/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:00:28.123000",
+      "description": "- *Journ\u00e9e gazi\u00e8re*: journee_gaziere[date] Journ\u00e9e gazi\u00e8re (de 6h \u00e0 6h la journ\u00e9e suivante)\n- *Maille*: maille[text] Maille\n- *Quantit\u00e9 inject\u00e9e*: quantite_injectee[double] Quantit\u00e9 en MWh\n- *Nombre de sites comptabilises*: nombre_de_sites_comptabilises[text] Nombre de sites comptabilis\u00e9s sur les sites en production\n- *Statut*: statut[text] Statut provisoire. Les donn\u00e9es d\u00e9finitives sont publi\u00e9es dans un autre jeu de donn\u00e9es.\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "0cc51b06-97b8-4a13-b0a2-8aa35ed7011d",
+      "last_modified": "2017-04-07T07:58:55",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0cc51b06-97b8-4a13-b0a2-8aa35ed7011d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:00:28.123000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.grdf.fr//explore/dataset/quantite-provisoire-quotidienne-injectee-de-biomethane-agregee-a-la-maille-franc/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "quantites-journalieres-provisoires-injectees-de-biomethane-agregees-a-la-maille-france-toute-unite-confondue",
+  "spatial": {
+    "geom": null,
+    "granularity": "country",
+    "zones": []
+  },
+  "tags": [
+    "amenagement-du-territoire",
+    "batiments",
+    "biogaz",
+    "biomethane",
+    "equipements",
+    "gaz-renouvelable",
+    "injection",
+    "logement",
+    "reduction-de-gaz-a-effet-de-serre",
+    "urbanisme",
+    "valorisation-des-dechets"
+  ],
+  "temporal_coverage": null,
+  "title": "Quantit\u00e9s journali\u00e8res provisoires inject\u00e9es de biom\u00e9thane, agr\u00e9g\u00e9es \u00e0 la maille France, toute unit\u00e9 confondue",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/quantites-journalieres-provisoires-injectees-de-biomethane-agregees-a-la-maille-france-toute-unite-confondue/"
+}

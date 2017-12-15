@@ -1,0 +1,104 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T18:01:49.501000",
+  "deleted": null,
+  "description": "Effectifs des m\u00e9decins exer\u00e7ant en R\u00e9gion \u00cele-de-France par sp\u00e9cialit\u00e9 (2014).\n\nLes donn\u00e9es sur les m\u00e9decins au 1er janvier diffus\u00e9es sur le site [http://www.data.drees.sante.gouv.fr](http://www.data.drees.sante.gouv.fr/) sont issues de l\u2019exploitation statistique du R\u00e9pertoire partag\u00e9 des Professionnels de Sant\u00e9 (RPPS).",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T05:57:48.961664",
+    "harvest:remote_id": "effectifs-des-medecins-par-specialite-2014",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:references": "http://www.data.gouv.fr/fr/dataset/la-demographie-des-medecins-rpps",
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/effectifs-des-medecins-par-specialite-2014/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "595918eda3a7291dd09c80bb",
+  "last_modified": "2017-11-27T05:57:48.966000",
+  "last_update": "2017-11-27T05:57:48.960000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/effectifs-des-medecins-par-specialite-2014/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:57:48.960000",
+      "description": "- *Sp\u00e9cialit\u00e9*: region_inscript[text]\n- *FRANCE ENTIERE*: france_entiere[int]\n- *FRANCE M\u00e9tropolitaine*: france_metropolitaine[int]\n- *Ile-de-France*: ile_de_france[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "1a79ebc8-b43c-4b10-be98-7f62c782ecf6",
+      "last_modified": "2014-05-15T10:53:05",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1a79ebc8-b43c-4b10-be98-7f62c782ecf6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:57:48.960000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/effectifs-des-medecins-par-specialite-2014/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:57:48.960000",
+      "description": "- *Sp\u00e9cialit\u00e9*: region_inscript[text]\n- *FRANCE ENTIERE*: france_entiere[int]\n- *FRANCE M\u00e9tropolitaine*: france_metropolitaine[int]\n- *Ile-de-France*: ile_de_france[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "ffe3deca-8f94-483a-acea-297d00e3479a",
+      "last_modified": "2014-05-15T10:53:05",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ffe3deca-8f94-483a-acea-297d00e3479a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:57:48.960000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/effectifs-des-medecins-par-specialite-2014/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "effectifs-des-medecins-par-specialite-2014",
+  "spatial": null,
+  "tags": [
+    "effectifs",
+    "logement-sante-social",
+    "medecin",
+    "medecine",
+    "sante",
+    "social"
+  ],
+  "temporal_coverage": null,
+  "title": "Effectifs des m\u00e9decins par sp\u00e9cialit\u00e9 (2014)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/effectifs-des-medecins-par-specialite-2014/"
+}

@@ -1,0 +1,87 @@
+{
+  "badges": [
+    {
+      "kind": "nec"
+    }
+  ],
+  "created_at": "2015-01-19T16:34:27.909000",
+  "deleted": null,
+  "description": "Liste et g\u00e9olocalisation des services de secours et urgences \u00e0 Vanves.",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": "2016-01-15T00:00:00",
+  "id": "54bd2403c751df181f5fa5a2",
+  "last_modified": "2016-01-15T16:28:52.309000",
+  "last_update": "2015-01-19T16:34:48.221000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "54884a24c751df7226a3fc16",
+    "logo": "https://www.data.gouv.fr/s/avatars/2014-12-10/93e23e82aed54ad291101943e549bfc5/011-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-12-10/93e23e82aed54ad291101943e549bfc5/011-100.jpg",
+    "name": "Ville de Vanves",
+    "page": "https://www.data.gouv.fr/fr/organizations/ville-de-vanves/",
+    "slug": "ville-de-vanves",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ville-de-vanves/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/secours-et-urgences/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "d2ba9d6cc84a6b37d606785c008e58d622044fc1"
+      },
+      "created_at": "2016-01-15T16:28:52.309000",
+      "description": "Secours et urgences",
+      "extras": {},
+      "filesize": 1680,
+      "filetype": "file",
+      "format": "csv",
+      "id": "93bbe9b8-2040-41f8-9b5c-372921fb9e96",
+      "last_modified": "2016-01-15T16:28:52.309000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/93bbe9b8-2040-41f8-9b5c-372921fb9e96",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 3
+      },
+      "mime": "text/csv",
+      "published": "2015-01-19T16:34:48.221000",
+      "title": "Secours et urgences",
+      "url": "https://www.data.gouv.fr/s/resources/secours-et-urgences/20150119-163445/Vanves_-_SecoursUrgences_-_20141215.csv"
+    }
+  ],
+  "slug": "secours-et-urgences",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:commune",
+    "zones": [
+      "fr:commune:92075@1968-01-01"
+    ]
+  },
+  "tags": [
+    "defibrillateurs",
+    "necmergitur",
+    "police",
+    "secours",
+    "urgences",
+    "vanves"
+  ],
+  "temporal_coverage": null,
+  "title": "Secours et Urgences",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/secours-et-urgences/"
+}

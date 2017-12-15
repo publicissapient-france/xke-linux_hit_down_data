@@ -1,0 +1,172 @@
+{
+  "badges": [],
+  "created_at": "2017-03-15T04:01:57.931000",
+  "deleted": null,
+  "description": "Localisation des arr\u00eats physiques desservis par les lignes r\u00e9guli\u00e8res du r\u00e9seau STAR.  \nUn arr\u00eat physique correspond a la position du mobilier urbain.  \n  \nLes attributs donnent des informations sur le type de mobilier (abribus ou poteau), l'\u00e9quipement (\u00e9clairage, banc, corbeille) et l'accessibilit\u00e9 aux personnes \u00e0 mobilit\u00e9 r\u00e9duite.  \nConcernant l'accessibilit\u00e9, elle est indiqu\u00e9 pour l'arr\u00eat et pour les lignes qui desservent l'arr\u00eat.  \n  \nUtilisation \u00e0 privil\u00e9gier pour les grandes \u00e9chelles. Pr\u00e9f\u00e9rer les arr\u00eats logiques pour les moyennes et petites \u00e9chelles.",
+  "extras": {
+    "harvest:domain": "data.rennesmetropole.fr",
+    "harvest:last_update": "2017-03-17T04:03:02.235256",
+    "harvest:remote_id": "star-arrets-physiques",
+    "harvest:source_id": "580736ec88ee3816625ff490",
+    "ods:has_records": true,
+    "ods:references": "https://public.sig.rennesmetropole.fr/geonetwork/srv/fre/csw?service=CSW&SERVICE=CSW&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&request=GetRecordById&resultType=results&VERSION=2.0.2&version=2.0.2&ElementSetName=full&id=be36bcbf-9d0e-4425-9b8b-c58c155c96e7",
+    "ods:url": "https://data.rennesmetropole.fr/explore/dataset/star-arrets-physiques/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "58c8aea5a3a7293affefcd23",
+  "last_modified": "2017-03-17T04:03:02.237000",
+  "last_update": "2017-03-17T04:03:02.234000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "RM",
+    "class": "Organization",
+    "id": "580735be88ee3814295ff490",
+    "logo": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-100.png",
+    "name": "Rennes M\u00e9tropole en acc\u00e8s libre",
+    "page": "https://www.data.gouv.fr/fr/organizations/rennes-metropole-en-acces-libre-1/",
+    "slug": "rennes-metropole-en-acces-libre-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/rennes-metropole-en-acces-libre-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/donnees-geographiques-du-reseau-star-arrets-physiques/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-03-17T04:03:02.232000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *ap_timeo*: ap_timeo[text]\n- *ap_type*: ap_type[text]\n- *ap_nom*: ap_nom[text]\n- *ap_insee*: ap_insee[text]\n- *nom*: nom[text]\n- *al_id*: al_id[int]\n- *ap_auteur*: ap_auteur[text]\n- *ap_datemaj*: ap_datemaj[text]\n- *equip_mobilier*: equip_mobilier[text]\n- *equip_banc*: equip_banc[text]\n- *equip_eclairage*: equip_eclairage[text]\n- *equip_poubelle*: equip_poubelle[text]\n- *access_pmr*: access_pmr[text]\n- *access_li_ok*: access_li_ok[text]\n- *access_li_nok*: access_li_nok[text]\n- *objectid*: objectid[int]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T15:37:54.934000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/star-arrets-physiques/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "9f5b247d-c24b-439a-b5a3-f4b5154f1410",
+      "last_modified": "2017-03-10T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9f5b247d-c24b-439a-b5a3-f4b5154f1410",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-03-17T04:03:02.233000",
+      "title": "Export au format CSV",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/star-arrets-physiques/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-03-17T04:03:02.233000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *ap_timeo*: ap_timeo[text]\n- *ap_type*: ap_type[text]\n- *ap_nom*: ap_nom[text]\n- *ap_insee*: ap_insee[text]\n- *nom*: nom[text]\n- *al_id*: al_id[int]\n- *ap_auteur*: ap_auteur[text]\n- *ap_datemaj*: ap_datemaj[text]\n- *equip_mobilier*: equip_mobilier[text]\n- *equip_banc*: equip_banc[text]\n- *equip_eclairage*: equip_eclairage[text]\n- *equip_poubelle*: equip_poubelle[text]\n- *access_pmr*: access_pmr[text]\n- *access_li_ok*: access_li_ok[text]\n- *access_li_nok*: access_li_nok[text]\n- *objectid*: objectid[int]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T02:40:42.723000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/star-arrets-physiques/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "9114f0ac-5a0a-4370-af74-d47765912a0f",
+      "last_modified": "2017-03-10T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9114f0ac-5a0a-4370-af74-d47765912a0f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-03-17T04:03:02.233000",
+      "title": "Export au format JSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/star-arrets-physiques/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-03-17T04:03:02.233000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *ap_timeo*: ap_timeo[text]\n- *ap_type*: ap_type[text]\n- *ap_nom*: ap_nom[text]\n- *ap_insee*: ap_insee[text]\n- *nom*: nom[text]\n- *al_id*: al_id[int]\n- *ap_auteur*: ap_auteur[text]\n- *ap_datemaj*: ap_datemaj[text]\n- *equip_mobilier*: equip_mobilier[text]\n- *equip_banc*: equip_banc[text]\n- *equip_eclairage*: equip_eclairage[text]\n- *equip_poubelle*: equip_poubelle[text]\n- *access_pmr*: access_pmr[text]\n- *access_li_ok*: access_li_ok[text]\n- *access_li_nok*: access_li_nok[text]\n- *objectid*: objectid[int]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T15:37:55.945000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/star-arrets-physiques/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "4436f85d-bec3-475f-9d0d-413581a2960f",
+      "last_modified": "2017-03-10T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4436f85d-bec3-475f-9d0d-413581a2960f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-03-17T04:03:02.233000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/star-arrets-physiques/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-03-17T04:03:02.233000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *ap_timeo*: ap_timeo[text]\n- *ap_type*: ap_type[text]\n- *ap_nom*: ap_nom[text]\n- *ap_insee*: ap_insee[text]\n- *nom*: nom[text]\n- *al_id*: al_id[int]\n- *ap_auteur*: ap_auteur[text]\n- *ap_datemaj*: ap_datemaj[text]\n- *equip_mobilier*: equip_mobilier[text]\n- *equip_banc*: equip_banc[text]\n- *equip_eclairage*: equip_eclairage[text]\n- *equip_poubelle*: equip_poubelle[text]\n- *access_pmr*: access_pmr[text]\n- *access_li_ok*: access_li_ok[text]\n- *access_li_nok*: access_li_nok[text]\n- *objectid*: objectid[int]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T09:13:54.565000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/star-arrets-physiques/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "a8d5e2c9-d6f5-4814-9fcd-8221b27a0d3e",
+      "last_modified": "2017-03-10T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a8d5e2c9-d6f5-4814-9fcd-8221b27a0d3e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-03-17T04:03:02.234000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/star-arrets-physiques/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "donnees-geographiques-du-reseau-star-arrets-physiques",
+  "spatial": null,
+  "tags": [
+    "autobus",
+    "metro",
+    "mobilite",
+    "politique-du-transport",
+    "systeme-de-transport",
+    "transport",
+    "transport-de-voyageurs",
+    "transport-en-commun",
+    "vehicule-de-transport-en-commun"
+  ],
+  "temporal_coverage": null,
+  "title": "Donn\u00e9es g\u00e9ographiques du r\u00e9seau STAR : arr\u00eats physiques",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/donnees-geographiques-du-reseau-star-arrets-physiques/"
+}

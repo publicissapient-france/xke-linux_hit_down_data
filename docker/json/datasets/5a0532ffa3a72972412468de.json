@@ -1,0 +1,179 @@
+{
+  "badges": [],
+  "created_at": "2017-11-09T00:00:00",
+  "deleted": null,
+  "description": "Liste des h\u00e9bergements collectifs (Accueil p\u00e8lerins, Auberge de jeunesse, Centre de vacances (colonies), Centre d'accueil de groupes, G\u00eete de groupe / s\u00e9jour, G\u00eete d'enfants, Centre international de s\u00e9jour, G\u00eete d'\u00e9tape, Maison Familiale de vacances, Refuge class\u00e9 gard\u00e9) en Aquitaine, issue de la base de donn\u00e9es SIRTAQUI.\nCe fichier contient les informations de g\u00e9olocalisation et de contact, les informations sur les marques et labels, la capacit\u00e9 en nombre de personnes, les conditions d\u2019ouverture, les tarifs, les \u00e9quipements et les services propos\u00e9s.",
+  "extras": {
+    "ckan:name": "liste-des-hebergements-collectifs-en-aquitaine",
+    "contact_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "contact_name": "CRTA",
+    "contact_uri": "https://datacat.datalocale.fr/414593",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
+    "guid": "https://datacat.datalocale.fr/415808",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-11-14T05:16:02.939398",
+    "harvest:remote_id": "2bff9681-ffb0-4844-ba15-b7220c37eb29",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "9ca97b8d-1839-48f5-ba0f-b525c5b8885b",
+    "issued": "2015-01-04T20:59:51+00:00",
+    "modified": "2016-07-18T09:21:07.249135+00:00",
+    "publisher_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "publisher_name": "agence SIRTAQUI",
+    "publisher_type": "\"Organisation \u00e0 but non lucratif\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414592",
+    "remote_url": "http://partenaires.tourisme-aquitaine.fr",
+    "theme": "[\"tourisme\"]",
+    "uri": "https://datacat.datalocale.fr/415808"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5a0532ffa3a72972412468de",
+  "last_modified": "2017-11-14T05:16:02.941000",
+  "last_update": "2017-11-10T06:02:55.652000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-hebergements-collectifs-en-aquitaine-4/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-10T06:02:55.651000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-11-19T19:04:15.368000",
+        "check:status": 501,
+        "check:url": "http://wcf.tourinsoft.com/Syndication/aquitaine/fb60e9f2-8535-4c49-878b-2d3a0918d0ac/Objects?$format=json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "",
+      "id": "3a759642-d365-4b6b-a224-f95c35923433",
+      "last_modified": "2017-11-14T05:16:02.938000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3a759642-d365-4b6b-a224-f95c35923433",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-10T06:02:55.651000",
+      "title": "consommation des donn\u00e9es temps r\u00e9el",
+      "url": "http://wcf.tourinsoft.com/Syndication/aquitaine/fb60e9f2-8535-4c49-878b-2d3a0918d0ac/Objects?$format=json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-10T06:02:55.652000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T05:57:48.431000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/415813"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b4b1c1b3-6489-4a2e-ae59-c27743ffb514",
+      "last_modified": "2017-11-14T05:16:02.938000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b4b1c1b3-6489-4a2e-ae59-c27743ffb514",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-10T06:02:55.652000",
+      "title": "sp\u00e9cifications du jeu de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/415813"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-10T06:02:55.652000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T05:57:47.258000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/distribution/491681/raw/liste-csv-hebergements-collectifs-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "d15f80f8-f70f-4345-a5ed-7e1e0a739b91",
+      "last_modified": "2017-11-14T05:16:02.938000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d15f80f8-f70f-4345-a5ed-7e1e0a739b91",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-10T06:02:55.652000",
+      "title": "liste-csv-hebergements-collectifs-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/distribution/491681/raw/liste-csv-hebergements-collectifs-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-10T06:02:55.652000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T05:57:49.675000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/distribution/1902490/raw/liste-xml-hebergements-collectifs-aquitaine.xml"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xml",
+      "id": "ced1ea37-8b33-4796-9e31-24e1135afea3",
+      "last_modified": "2017-11-14T05:16:02.938000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ced1ea37-8b33-4796-9e31-24e1135afea3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/xml",
+      "published": "2017-11-10T06:02:55.652000",
+      "title": "liste-xml-hebergements-collectifs-aquitaine.xml",
+      "url": "https://datacat.datalocale.fr/distribution/1902490/raw/liste-xml-hebergements-collectifs-aquitaine.xml"
+    }
+  ],
+  "slug": "liste-des-hebergements-collectifs-en-aquitaine-4",
+  "spatial": null,
+  "tags": [
+    "colonies",
+    "gite",
+    "hebergement",
+    "tourisme"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des h\u00e9bergements collectifs en Aquitaine",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-hebergements-collectifs-en-aquitaine-4/"
+}

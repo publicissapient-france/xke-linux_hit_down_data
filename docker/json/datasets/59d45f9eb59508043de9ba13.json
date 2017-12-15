@@ -1,0 +1,229 @@
+{
+  "badges": [],
+  "created_at": "2017-10-03T00:00:00",
+  "deleted": null,
+  "description": "Ecart a la parit\u00e9 dans l'attribution des vice-pr\u00e9sidences d\u00e9partementales.",
+  "extras": {
+    "ckan:name": "ecart-a-la-parite-dans-lattribution-des-vice-presidences-departementales",
+    "contact_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "contact_name": "Mission Agenda 21",
+    "contact_uri": "https://datacat.datalocale.fr/414579",
+    "guid": "https://datacat.datalocale.fr/414828",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-11-27T05:18:52.030314",
+    "harvest:remote_id": "58519814-702b-4427-b58d-d73bee838996",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "1e6600e1-e982-4a4b-8fcc-d5f454226112",
+    "issued": "2013-08-27T09:51:26+00:00",
+    "modified": "2016-07-18T09:21:05.173835+00:00",
+    "publisher_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "publisher_name": "dgsd-a21",
+    "publisher_uri": "https://datacat.datalocale.fr/414578",
+    "theme": "[\"repr\u00e9sentation politique\"]",
+    "uri": "https://datacat.datalocale.fr/414828"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59d45f9eb59508043de9ba13",
+  "last_modified": "2017-11-27T05:18:52.036000",
+  "last_update": "2017-10-14T06:02:02.148000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/ecart-a-la-parite-dans-lattribution-des-vice-presidences-departementales-3/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-10-04T06:12:14.605000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-11T05:56:16.407000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414832/raw/2013-09-02-095130tx_parite_elue_vpdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "f8a1280b-3d63-457e-8d08-69f720c73f6d",
+      "last_modified": "2017-10-04T06:12:14.605000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f8a1280b-3d63-457e-8d08-69f720c73f6d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-10-04T06:12:14.605000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414832/raw/2013-09-02-095130tx_parite_elue_vpdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-04T06:12:14.605000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T03:12:48.306000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414830/raw/2013-09-02-095130tx_parite_elue_vp.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e177cd51-e4b1-481a-99e9-8d896af70b99",
+      "last_modified": "2017-10-04T06:12:14.605000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e177cd51-e4b1-481a-99e9-8d896af70b99",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-04T06:12:14.605000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414830/raw/2013-09-02-095130tx_parite_elue_vp.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-05T06:14:40.988000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-10T01:35:37.566000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414830/raw/2013-09-02-095130tx_parite_elue_vp.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "7890fb60-ae6c-4cfa-93d8-b0858425317f",
+      "last_modified": "2017-10-05T06:14:40.988000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7890fb60-ae6c-4cfa-93d8-b0858425317f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-05T06:14:40.988000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/414830/raw/2013-09-02-095130tx_parite_elue_vp.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-05T06:14:40.989000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-11T05:56:02.483000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414832/raw/2013-09-02-095130tx_parite_elue_vpdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "894ea1e1-1eb7-4f5d-9726-2d15d7cbd424",
+      "last_modified": "2017-10-05T06:14:40.989000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/894ea1e1-1eb7-4f5d-9726-2d15d7cbd424",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-10-05T06:14:40.989000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/414832/raw/2013-09-02-095130tx_parite_elue_vpdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:02:02.147000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-10T01:35:36.357000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414832/raw/2013-09-02-095130tx_parite_elue_vpdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "047866a2-0ca7-4281-8353-58344651d8b0",
+      "last_modified": "2017-11-27T05:18:52.028000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/047866a2-0ca7-4281-8353-58344651d8b0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-10-14T06:02:02.147000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/distribution/414831/raw/2013-09-02-095130tx_parite_elue_vpdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:02:02.148000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T01:24:01.110000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/distribution/414829/raw/2013-09-02-095130tx_parite_elue_vp.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ef05607b-a0fa-4d54-8616-dca258b3e85a",
+      "last_modified": "2017-11-27T05:18:52.028000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ef05607b-a0fa-4d54-8616-dca258b3e85a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-14T06:02:02.148000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/distribution/414829/raw/2013-09-02-095130tx_parite_elue_vp.csv"
+    }
+  ],
+  "slug": "ecart-a-la-parite-dans-lattribution-des-vice-presidences-departementales-3",
+  "spatial": null,
+  "tags": [
+    "elu",
+    "parite",
+    "representation"
+  ],
+  "temporal_coverage": null,
+  "title": "Ecart a la parit\u00e9 dans l'attribution des vice-pr\u00e9sidences d\u00e9partementales",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/ecart-a-la-parite-dans-lattribution-des-vice-presidences-departementales-3/"
+}

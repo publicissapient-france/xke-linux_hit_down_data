@@ -1,0 +1,137 @@
+{
+  "badges": [],
+  "created_at": "2015-09-10T00:00:00",
+  "deleted": null,
+  "description": "le compte rendu officiel du conseil municipal de septembre 2014 et le tableau des votes de chaque d\u00e9lib\u00e9ration",
+  "extras": {
+    "ckan:name": "conseil-municipal-de-grenible-septembre-2045",
+    "harvest:domain": "www.nosdonnees.fr",
+    "harvest:last_update": "2017-07-10T06:04:53.717837",
+    "harvest:remote_id": "93c919ec-5fba-4dd4-80ab-e76607efc997",
+    "harvest:source_id": "5878ee1588ee385bffa6f719",
+    "remote_url": "http://nosconseilsmunicipaux.grelibre.org/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5878ee33a3a7291485cac7bd",
+  "last_modified": "2017-07-10T06:04:53.719000",
+  "last_update": "2017-01-13T16:11:47.419000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff99a3a7292c64a78016",
+    "logo": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-100.png",
+    "name": "NosDonn\u00e9es.fr",
+    "page": "https://www.data.gouv.fr/fr/organizations/nosdonnees-fr/",
+    "slug": "nosdonnees-fr",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nosdonnees-fr/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/conseil-municipal-de-grenible-septembre-2045/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:11:47.418000",
+      "description": "Le tableau des votes de chaque d\u00e9lib\u00e9ration",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-30T21:12:23.001000",
+        "check:status": 200,
+        "check:url": "http://www.nosdonnees.fr/dataset/93c919ec-5fba-4dd4-80ab-e76607efc997/resource/68b95161-03d4-4bd8-b48b-48197a8c7913/download/conseilseptembre2014.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": ".ods",
+      "id": "68b95161-03d4-4bd8-b48b-48197a8c7913",
+      "last_modified": "2017-07-10T06:04:53.716000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/68b95161-03d4-4bd8-b48b-48197a8c7913",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:11:47.418000",
+      "title": "Conseil de septembre 2014",
+      "url": "http://www.nosdonnees.fr/dataset/93c919ec-5fba-4dd4-80ab-e76607efc997/resource/68b95161-03d4-4bd8-b48b-48197a8c7913/download/conseilseptembre2014.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:11:47.418000",
+      "description": "Les votes de chaque d\u00e9lib\u00e9ration",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-30T21:12:22.254000",
+        "check:status": 200,
+        "check:url": "http://www.nosdonnees.fr/dataset/93c919ec-5fba-4dd4-80ab-e76607efc997/resource/7b35e32a-cf74-4b04-b347-3920494b8c20/download/conseilseptembre2014.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "7b35e32a-cf74-4b04-b347-3920494b8c20",
+      "last_modified": "2017-07-10T06:04:53.717000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7b35e32a-cf74-4b04-b347-3920494b8c20",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:11:47.418000",
+      "title": "Conseil municipal de Grenoble septembre 2014",
+      "url": "http://www.nosdonnees.fr/dataset/93c919ec-5fba-4dd4-80ab-e76607efc997/resource/7b35e32a-cf74-4b04-b347-3920494b8c20/download/conseilseptembre2014.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:11:47.419000",
+      "description": "Le compte rendu officiel disponible sur le site de la mairie",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-30T21:12:20.308000",
+        "check:status": 200,
+        "check:url": "http://www.nosdonnees.fr/dataset/93c919ec-5fba-4dd4-80ab-e76607efc997/resource/7bfb155a-2445-4e75-b172-867b4c42e733/download/compterenduduconseilmunicipaldu15septembre20141.pdf"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "pdf",
+      "id": "7bfb155a-2445-4e75-b172-867b4c42e733",
+      "last_modified": "2017-07-10T06:04:53.717000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7bfb155a-2445-4e75-b172-867b4c42e733",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:11:47.419000",
+      "title": "CR du conseil municipal de septembre 2014 ",
+      "url": "http://www.nosdonnees.fr/dataset/93c919ec-5fba-4dd4-80ab-e76607efc997/resource/7bfb155a-2445-4e75-b172-867b4c42e733/download/compterenduduconseilmunicipaldu15septembre20141.pdf"
+    }
+  ],
+  "slug": "conseil-municipal-de-grenible-septembre-2045",
+  "spatial": null,
+  "tags": [
+    "commune",
+    "grenoble"
+  ],
+  "temporal_coverage": null,
+  "title": "2014 - 09 - Conseil municipal de Grenoble",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/conseil-municipal-de-grenible-septembre-2045/"
+}

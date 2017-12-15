@@ -1,0 +1,166 @@
+{
+  "badges": [],
+  "created_at": "2016-09-23T00:00:00",
+  "deleted": null,
+  "description": "D\u00e9nombrement au niveau national des foyers allocataires ayant un droit versable \u00e0 la Prime d\u2019activit\u00e9.\n\nLa Prime d\u2019activit\u00e9 remplace au 1er janvier 2016 le Rsa \u00ab Activit\u00e9 \u00bb et la Prime pour l\u2019emploi. Elle est vers\u00e9e par les Caf. C'est une aide financi\u00e8re qui vise \u00e0 encourager l\u2019activit\u00e9 et \u00e0 soutenir le pouvoir d\u2019achat des travailleurs aux ressources modestes. Elle est calcul\u00e9e sur la base des ressources de l\u2019ensemble des membres du foyer, indiqu\u00e9es \u00e0 la Caf par une d\u00e9claration trimestrielle.\n\nDes \u00e9l\u00e9ments plus d\u00e9taill\u00e9s sur la prime d'activit\u00e9 sont disponibles sur le site caf.fr, en cliquant sur le lien suivant :\nhttps://www.caf.fr/aides-et-services/s-informer-sur-les-aides/solidarite-et-insertion/la-prime-d-activite-3?active=tab1\n\nLe foyer allocataire est compos\u00e9 du responsable du dossier (personne qui per\u00e7oit au moins une prestation au regard de sa situation familiale et/ou mon\u00e9taire), et l'ensemble des autres ayants droit au sens de la r\u00e8glementation en vigueur (conjoint, enfant(s) et autre(s) personne(s) \u00e0 charge). Plusieurs foyers allocataires peuvent cohabiter dans un m\u00eame lieu, ils constituent alors un seul m\u00e9nage au sens de la d\u00e9finition statistique Insee. C\u2019est le cas, par exemple, lorsque un couple per\u00e7oit des allocations logement et h\u00e9berge son enfant titulaire d'un minimum social des Caf (RSO, RSA, AAH). En pratique, le terme \"allocataire\" est souvent utilis\u00e9 \u00e0 la place de \"foyer allocataire\".\n\nLe droit versable signifie que le foyer allocataire remplit toutes les conditions pour \u00eatre effectivement pay\u00e9 au titre du mois d\u2019observation. En particulier ne sont pas inclus dans ce p\u00e9rim\u00e8tre les b\u00e9n\u00e9ficiaires qui n\u2019ont pas fourni l\u2019int\u00e9gralit\u00e9 de leurs pi\u00e8ces justificatives, ou ceux dont le montant de la prestation est inf\u00e9rieur au seuil de versement.\n\nAttention, les chiffres sur le nombre d'allocataires de PPA par Caf, sont une photographie \u00e0 6 semaines. En raison d'une charge de travail tr\u00e8s importante dans les Caf, li\u00e9e au lancement de la PPA, certains dossiers n'ont pas \u00e9t\u00e9 trait\u00e9s apr\u00e8s 6 semaines et n'apparaissent pas dans le d\u00e9compte.",
+  "extras": {
+    "ckan:name": "foyers-allocataires-percevant-la-prime-d-activite-ppa-niveau-national",
+    "harvest:domain": "data.caf.fr",
+    "harvest:last_update": "2017-11-27T05:08:30.611106",
+    "harvest:remote_id": "8de5ffd4-31e5-432a-9d23-9b381ee15724",
+    "harvest:source_id": "560d9133c751df40ee756894",
+    "harvested": "2017-10-02T09:49:30.943335",
+    "source_id": "954ea88a-1b59-4a56-acae-2148a64dbe5e"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "595930dea3a7291dd09c81e1",
+  "last_modified": "2017-11-27T05:08:30.614000",
+  "last_update": "2017-07-02T19:43:58.283000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "CNAF",
+    "class": "Organization",
+    "id": "5595066cc751df4582a453ba",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-07-02/a1bc08e4a4dc44a89cb29697800a83b5/new_logo-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-07-02/a1bc08e4a4dc44a89cb29697800a83b5/new_logo-100.jpg",
+    "name": "Caisse Nationale des Allocations familiales ",
+    "page": "https://www.data.gouv.fr/fr/organizations/allocations-familiales/",
+    "slug": "allocations-familiales",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/allocations-familiales/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/foyers-allocataires-percevant-la-prime-d-activite-ppa-niveau-national/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:43:58.281000",
+      "description": "Lisez-moi",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T23:55:22.980000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/8de5ffd4-31e5-432a-9d23-9b381ee15724/resource/050a9849-38e4-4670-8d9e-584b614db887/download/DescriptifPPAAGENAT.txt"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "txt",
+      "id": "050a9849-38e4-4670-8d9e-584b614db887",
+      "last_modified": "2016-09-21T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/050a9849-38e4-4670-8d9e-584b614db887",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T19:43:58.281000",
+      "title": "Descriptif PPA age",
+      "url": "http://data.caf.fr/dataset/8de5ffd4-31e5-432a-9d23-9b381ee15724/resource/050a9849-38e4-4670-8d9e-584b614db887/download/DescriptifPPAAGENAT.txt"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:43:58.282000",
+      "description": "Lisez-moi.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:37:11.325000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/8de5ffd4-31e5-432a-9d23-9b381ee15724/resource/cda2a9f5-20ab-4387-994b-0c3b31549a04/download/DescriptifPPAFAMILLENAT.txt"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "txt",
+      "id": "cda2a9f5-20ab-4387-994b-0c3b31549a04",
+      "last_modified": "2016-09-21T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cda2a9f5-20ab-4387-994b-0c3b31549a04",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T19:43:58.282000",
+      "title": "Descriptif PPA par r\u00e9partition familiale",
+      "url": "http://data.caf.fr/dataset/8de5ffd4-31e5-432a-9d23-9b381ee15724/resource/cda2a9f5-20ab-4387-994b-0c3b31549a04/download/DescriptifPPAFAMILLENAT.txt"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:43:58.282000",
+      "description": "D\u00e9nombrement au niveau national des foyers allocataires ayant un droit versable \u00e0 la PPA par situation familiale.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:37:09.960000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/8de5ffd4-31e5-432a-9d23-9b381ee15724/resource/2e3cc82e-8224-47a2-9563-d0943990c786/download/PPAFAMILLENAT.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2e3cc82e-8224-47a2-9563-d0943990c786",
+      "last_modified": "2017-10-02T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2e3cc82e-8224-47a2-9563-d0943990c786",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T19:43:58.282000",
+      "title": "PPA_r\u00e9partition_familiale_nat",
+      "url": "http://data.caf.fr/dataset/8de5ffd4-31e5-432a-9d23-9b381ee15724/resource/2e3cc82e-8224-47a2-9563-d0943990c786/download/PPAFAMILLENAT.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:43:58.282000",
+      "description": "D\u00e9nombrement au niveau national des foyers allocataires ayant un droit versable \u00e0 la PPA par tranche d'age du responsable du dossier.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T05:37:10.238000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/8de5ffd4-31e5-432a-9d23-9b381ee15724/resource/c37e57ee-e3bf-42ea-996a-238c9534a070/download/PPAAGENAT.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c37e57ee-e3bf-42ea-996a-238c9534a070",
+      "last_modified": "2017-10-02T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c37e57ee-e3bf-42ea-996a-238c9534a070",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T19:43:58.283000",
+      "title": "PPA_age_nat",
+      "url": "http://data.caf.fr/dataset/8de5ffd4-31e5-432a-9d23-9b381ee15724/resource/c37e57ee-e3bf-42ea-996a-238c9534a070/download/PPAAGENAT.csv"
+    }
+  ],
+  "slug": "foyers-allocataires-percevant-la-prime-d-activite-ppa-niveau-national",
+  "spatial": null,
+  "tags": [
+    "age",
+    "national",
+    "ppa",
+    "si013"
+  ],
+  "temporal_coverage": null,
+  "title": "Foyers allocataires percevant la prime d'activit\u00e9 (PPA) - niveau national",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/foyers-allocataires-percevant-la-prime-d-activite-ppa-niveau-national/"
+}

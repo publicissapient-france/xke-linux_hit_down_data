@@ -1,0 +1,719 @@
+{
+  "badges": [],
+  "created_at": "2017-02-17T00:00:00",
+  "deleted": null,
+  "description": "Donn\u00e9es concernant le vote des Brocassais et Brocassaises aux diff\u00e9rentes \u00e9lections (hors municipales)",
+  "extras": {
+    "ckan:name": "commune-de-brocas-elections1",
+    "contact_email": "mailto:contact@brocas.fr",
+    "contact_name": "Mairie de Brocas",
+    "contact_uri": "https://datacat.datalocale.fr/414602",
+    "guid": "https://datacat.datalocale.fr/415219",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-06-06T16:38:44.359525",
+    "harvest:remote_id": "df11c6dc-61ba-40c3-949c-bef6f62bbe4a",
+    "harvest:source_id": "59365a72c751df28ed47c9eb",
+    "identifier": "5171ec6f-0801-4b1c-8f9b-6ca03fb91c97",
+    "issued": "2013-08-16T19:25:59+00:00",
+    "modified": "2016-07-18T09:21:05.695775+00:00",
+    "publisher_email": "mailto:contact@brocas.fr",
+    "publisher_name": "Mairie de Brocas",
+    "publisher_uri": "https://datacat.datalocale.fr/414602",
+    "theme": "[\"\u00e9lection\"]",
+    "uri": "https://datacat.datalocale.fr/415219"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "593457d8a3a72968e2876c04",
+  "last_modified": "2017-06-06T16:38:44.361000",
+  "last_update": "2017-06-06T16:38:44.358000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": null,
+  "owner": {
+    "avatar": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-original.jpg",
+    "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-100.jpg",
+    "class": "User",
+    "first_name": "Ressourcerie",
+    "id": "534fff47a3a7292c64a77adc",
+    "last_name": "datalocale",
+    "page": "https://www.data.gouv.fr/fr/users/ressourcerie-datalocale/",
+    "slug": "ressourcerie-datalocale",
+    "uri": "https://www.data.gouv.fr/api/1/users/ressourcerie-datalocale/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/commune-de-brocas-elections1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:24.190000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T14:45:35.127000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415233/raw/ELECT_Statistiques-Presidentielles-2007_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "28aaf52f-e672-442c-a087-42d29d43acd2",
+      "last_modified": "2017-06-04T20:56:24.190000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/28aaf52f-e672-442c-a087-42d29d43acd2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:56:24.190000",
+      "title": "Elections : Statistiques pr\u00e9sidentielles 2007",
+      "url": "https://datacat.datalocale.fr/file/415233/raw/ELECT_Statistiques-Presidentielles-2007_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:24.190000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T11:51:02.433000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415237/raw/ELECT_Statistiques-Regionales--2010_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "07b1012c-50df-4163-8d0c-a06f22a7f62e",
+      "last_modified": "2017-06-04T20:56:24.191000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/07b1012c-50df-4163-8d0c-a06f22a7f62e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:56:24.191000",
+      "title": "Elections : Statistiques r\u00e9gionales 2010",
+      "url": "https://datacat.datalocale.fr/file/415237/raw/ELECT_Statistiques-Regionales--2010_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:24.191000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T14:45:36.836000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415229/raw/ELECT_Resultats-Presidentielles-2012_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a1bcbbdf-e279-4078-a24a-ebf6c2cc9507",
+      "last_modified": "2017-06-04T20:56:24.191000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a1bcbbdf-e279-4078-a24a-ebf6c2cc9507",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:56:24.191000",
+      "title": "Elections : R\u00e9sultats pr\u00e9sidentielles 2012",
+      "url": "https://datacat.datalocale.fr/file/415229/raw/ELECT_Resultats-Presidentielles-2012_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:24.191000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-12T13:37:56.071000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415225/raw/ELECT_Resultats-Regionales--2010_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "5aae24b4-8af2-4d0a-8d14-e491fe363e32",
+      "last_modified": "2017-06-04T20:56:24.191000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5aae24b4-8af2-4d0a-8d14-e491fe363e32",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:56:24.191000",
+      "title": "Elections : R\u00e9sultats r\u00e9gionales 2010",
+      "url": "https://datacat.datalocale.fr/file/415225/raw/ELECT_Resultats-Regionales--2010_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:24.192000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-12T13:41:25.832000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415241/raw/ELECT_Statistiques-Presidentielles-2012_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a1a3c152-6ce9-466b-ad43-cf49f343f303",
+      "last_modified": "2017-06-04T20:56:24.192000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a1a3c152-6ce9-466b-ad43-cf49f343f303",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:56:24.192000",
+      "title": "Elections : Statistiques pr\u00e9sidentielles 2012",
+      "url": "https://datacat.datalocale.fr/file/415241/raw/ELECT_Statistiques-Presidentielles-2012_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:24.192000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-17T07:43:07.380000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415243/raw/ELECT_Statistiques-L%25C3%25A9gislatives-2012_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "191a3390-ee48-4a58-89fe-4faf97e9e22d",
+      "last_modified": "2017-06-04T20:56:24.192000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/191a3390-ee48-4a58-89fe-4faf97e9e22d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:56:24.192000",
+      "title": "Elections : Statistiques l\u00e9gislatives 2012",
+      "url": "https://datacat.datalocale.fr/file/415243/raw/ELECT_Statistiques-L%25C3%25A9gislatives-2012_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:24.192000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-23T19:46:46.906000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415235/raw/ELECT_Statistiques-Europeennes--2009_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "d44aa2fd-42cf-4335-9338-f582f6efb2f5",
+      "last_modified": "2017-06-04T20:56:24.193000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d44aa2fd-42cf-4335-9338-f582f6efb2f5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:56:24.193000",
+      "title": "Elections : Statistiques Europ\u00e9ennes 2009",
+      "url": "https://datacat.datalocale.fr/file/415235/raw/ELECT_Statistiques-Europeennes--2009_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:24.193000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T04:00:12.857000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415239/raw/ELECT_Statistiques-Cantonales-2011_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "73e3f4ae-b58f-46ec-b434-2a00cc0831ce",
+      "last_modified": "2017-06-04T20:56:24.193000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/73e3f4ae-b58f-46ec-b434-2a00cc0831ce",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:56:24.193000",
+      "title": "Elections : Statistiques cantonales 2011",
+      "url": "https://datacat.datalocale.fr/file/415239/raw/ELECT_Statistiques-Cantonales-2011_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:24.193000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-23T19:46:24.772000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415221/raw/ELECT_Resultats-Presidentielles-2007_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e0ab14e7-2298-4079-933a-cefe11cedd7d",
+      "last_modified": "2017-06-04T20:56:24.194000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e0ab14e7-2298-4079-933a-cefe11cedd7d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:56:24.193000",
+      "title": "Elections : R\u00e9sultats pr\u00e9sidentielles 2007",
+      "url": "https://datacat.datalocale.fr/file/415221/raw/ELECT_Resultats-Presidentielles-2007_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:24.194000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-23T19:46:11.130000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415231/raw/ELECT_Resultats-Legislatives-2012_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e835f3b1-2889-4ee6-beef-612e9b670a02",
+      "last_modified": "2017-06-04T20:56:24.194000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e835f3b1-2889-4ee6-beef-612e9b670a02",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:56:24.194000",
+      "title": "Elections : R\u00e9sultats l\u00e9gislatives 2012",
+      "url": "https://datacat.datalocale.fr/file/415231/raw/ELECT_Resultats-Legislatives-2012_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:24.194000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-23T19:46:11.130000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415227/raw/ELECT_Resultats-Cantonales-2011_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "1b1ab1d1-bdce-4e02-9945-66bf95a089a4",
+      "last_modified": "2017-06-04T20:56:24.194000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1b1ab1d1-bdce-4e02-9945-66bf95a089a4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:56:24.194000",
+      "title": "Elections : R\u00e9sultats cantonales 2011",
+      "url": "https://datacat.datalocale.fr/file/415227/raw/ELECT_Resultats-Cantonales-2011_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:24.195000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-23T19:46:32.138000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415223/raw/ELECT_Resultats-Europeennes--2009_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ed2054b6-4376-45a6-90a0-e370a0999281",
+      "last_modified": "2017-06-04T20:56:24.195000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ed2054b6-4376-45a6-90a0-e370a0999281",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:56:24.195000",
+      "title": "Elections : R\u00e9sultats Europ\u00e9ennes 2009",
+      "url": "https://datacat.datalocale.fr/file/415223/raw/ELECT_Resultats-Europeennes--2009_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:38:44.352000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T03:57:36.292000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415223/raw/ELECT_Resultats-Europeennes--2009_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "11508e21-6ae0-4db0-a867-c705c5f3e833",
+      "last_modified": "2017-06-06T16:38:44.353000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/11508e21-6ae0-4db0-a867-c705c5f3e833",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:38:44.353000",
+      "title": "Elections : R\u00e9sultats Europ\u00e9ennes 2009",
+      "url": "https://datacat.datalocale.fr/file/415223/raw/ELECT_Resultats-Europeennes--2009_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:38:44.353000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T04:00:17.170000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415233/raw/ELECT_Statistiques-Presidentielles-2007_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "09a868e9-c3f9-450c-aaf8-9709ee5c396a",
+      "last_modified": "2017-06-06T16:38:44.353000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/09a868e9-c3f9-450c-aaf8-9709ee5c396a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:38:44.353000",
+      "title": "Elections : Statistiques pr\u00e9sidentielles 2007",
+      "url": "https://datacat.datalocale.fr/file/415233/raw/ELECT_Statistiques-Presidentielles-2007_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:38:44.354000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T03:57:18.114000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415231/raw/ELECT_Resultats-Legislatives-2012_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "8e875dea-b86d-4925-bbce-b118c752fc72",
+      "last_modified": "2017-06-06T16:38:44.354000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8e875dea-b86d-4925-bbce-b118c752fc72",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:38:44.354000",
+      "title": "Elections : R\u00e9sultats l\u00e9gislatives 2012",
+      "url": "https://datacat.datalocale.fr/file/415231/raw/ELECT_Resultats-Legislatives-2012_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:38:44.354000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T04:00:11.983000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415235/raw/ELECT_Statistiques-Europeennes--2009_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a5b3d5a8-ed5c-4fdc-bc37-b8d18e12241a",
+      "last_modified": "2017-06-06T16:38:44.354000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a5b3d5a8-ed5c-4fdc-bc37-b8d18e12241a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:38:44.354000",
+      "title": "Elections : Statistiques Europ\u00e9ennes 2009",
+      "url": "https://datacat.datalocale.fr/file/415235/raw/ELECT_Statistiques-Europeennes--2009_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:38:44.354000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-23T19:46:34.077000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415237/raw/ELECT_Statistiques-Regionales--2010_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "1c87f37e-1004-4c91-b2f8-fbb4b8cbafec",
+      "last_modified": "2017-06-06T16:38:44.355000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1c87f37e-1004-4c91-b2f8-fbb4b8cbafec",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:38:44.355000",
+      "title": "Elections : Statistiques r\u00e9gionales 2010",
+      "url": "https://datacat.datalocale.fr/file/415237/raw/ELECT_Statistiques-Regionales--2010_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:38:44.355000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T04:00:25.938000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415241/raw/ELECT_Statistiques-Presidentielles-2012_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "8c30c61f-08dc-4d62-8ed0-a0495ab7af91",
+      "last_modified": "2017-06-06T16:38:44.355000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8c30c61f-08dc-4d62-8ed0-a0495ab7af91",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:38:44.355000",
+      "title": "Elections : Statistiques pr\u00e9sidentielles 2012",
+      "url": "https://datacat.datalocale.fr/file/415241/raw/ELECT_Statistiques-Presidentielles-2012_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:38:44.355000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T04:00:14.590000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415225/raw/ELECT_Resultats-Regionales--2010_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "1d38fb6c-ef9a-4c8f-a75b-e5266ad91e19",
+      "last_modified": "2017-06-06T16:38:44.356000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1d38fb6c-ef9a-4c8f-a75b-e5266ad91e19",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:38:44.356000",
+      "title": "Elections : R\u00e9sultats r\u00e9gionales 2010",
+      "url": "https://datacat.datalocale.fr/file/415225/raw/ELECT_Resultats-Regionales--2010_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:38:44.356000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T04:00:15.630000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415227/raw/ELECT_Resultats-Cantonales-2011_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2b3cd62d-f6dc-4889-91f5-a51d0e376f3e",
+      "last_modified": "2017-06-06T16:38:44.356000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2b3cd62d-f6dc-4889-91f5-a51d0e376f3e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:38:44.356000",
+      "title": "Elections : R\u00e9sultats cantonales 2011",
+      "url": "https://datacat.datalocale.fr/file/415227/raw/ELECT_Resultats-Cantonales-2011_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:38:44.356000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-23T19:46:43.038000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415243/raw/ELECT_Statistiques-L%25C3%25A9gislatives-2012_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a538e6cb-e404-4128-915a-2d1837fb64e5",
+      "last_modified": "2017-06-06T16:38:44.357000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a538e6cb-e404-4128-915a-2d1837fb64e5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:38:44.357000",
+      "title": "Elections : Statistiques l\u00e9gislatives 2012",
+      "url": "https://datacat.datalocale.fr/file/415243/raw/ELECT_Statistiques-L%25C3%25A9gislatives-2012_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:38:44.357000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T04:00:14.436000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415221/raw/ELECT_Resultats-Presidentielles-2007_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "6842c61d-3d7d-42f2-b15f-8494691c120a",
+      "last_modified": "2017-06-06T16:38:44.357000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6842c61d-3d7d-42f2-b15f-8494691c120a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:38:44.357000",
+      "title": "Elections : R\u00e9sultats pr\u00e9sidentielles 2007",
+      "url": "https://datacat.datalocale.fr/file/415221/raw/ELECT_Resultats-Presidentielles-2007_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:38:44.357000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-22T03:57:21.994000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415229/raw/ELECT_Resultats-Presidentielles-2012_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "86ea06aa-f6e8-4482-8540-daa45f7db49d",
+      "last_modified": "2017-06-06T16:38:44.358000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/86ea06aa-f6e8-4482-8540-daa45f7db49d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:38:44.358000",
+      "title": "Elections : R\u00e9sultats pr\u00e9sidentielles 2012",
+      "url": "https://datacat.datalocale.fr/file/415229/raw/ELECT_Resultats-Presidentielles-2012_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:38:44.358000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-23T19:46:40.114000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415239/raw/ELECT_Statistiques-Cantonales-2011_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "3834ba43-2b39-48d4-a0a1-534e356b3c46",
+      "last_modified": "2017-06-06T16:38:44.358000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3834ba43-2b39-48d4-a0a1-534e356b3c46",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:38:44.358000",
+      "title": "Elections : Statistiques cantonales 2011",
+      "url": "https://datacat.datalocale.fr/file/415239/raw/ELECT_Statistiques-Cantonales-2011_bro_v1.0.csv"
+    }
+  ],
+  "slug": "commune-de-brocas-elections1",
+  "spatial": null,
+  "tags": [
+    "brocas",
+    "cantonales",
+    "elections",
+    "europeennes",
+    "legislatives",
+    "presidentielles",
+    "regionales"
+  ],
+  "temporal_coverage": null,
+  "title": "Commune de Brocas : Elections",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/commune-de-brocas-elections1/"
+}

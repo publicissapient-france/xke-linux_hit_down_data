@@ -1,0 +1,85 @@
+{
+  "badges": [],
+  "created_at": "2017-07-07T00:00:00",
+  "deleted": null,
+  "description": "D\u00e9nombrement au niveau communal des foyers allocataires ayant un droit versable \u00e0 la Prime d\u2019activit\u00e9.\n\nLa Prime d\u2019activit\u00e9 remplace au 1er janvier 2016 le Rsa \u00ab Activit\u00e9 \u00bb et la Prime pour l\u2019emploi. Elle est vers\u00e9e par les Caf. C'est une aide financi\u00e8re qui vise \u00e0 encourager l\u2019activit\u00e9 et \u00e0 soutenir le pouvoir d\u2019achat des travailleurs aux ressources modestes. Elle est calcul\u00e9e sur la base des ressources de l\u2019ensemble des membres du foyer, indiqu\u00e9es \u00e0 la Caf par une d\u00e9claration trimestrielle.\n\nDes \u00e9l\u00e9ments plus d\u00e9taill\u00e9s sur la prime d'activit\u00e9 sont disponibles sur le site caf.fr, en cliquant sur le lien suivant :\nhttps://www.caf.fr/aides-et-services/s-informer-sur-les-aides/solidarite-et-insertion/la-prime-d-activite-3?active=tab1\n\nLe foyer allocataire est compos\u00e9 du responsable du dossier (personne qui per\u00e7oit au moins une prestation au regard de sa situation familiale et/ou mon\u00e9taire), et l'ensemble des autres ayants droit au sens de la r\u00e8glementation en vigueur (conjoint, enfant(s) et autre(s) personne(s) \u00e0 charge). Plusieurs foyers allocataires peuvent cohabiter dans un m\u00eame lieu, ils constituent alors un seul m\u00e9nage au sens de la d\u00e9finition statistique Insee. C\u2019est le cas, par exemple, lorsque un couple per\u00e7oit des allocations logement et h\u00e9berge son enfant titulaire d'un minimum social des Caf (RSO, RSA, AAH). En pratique, le terme \"allocataire\" est souvent utilis\u00e9 \u00e0 la place de \"foyer allocataire\".\n\nLe droit versable signifie que le foyer allocataire remplit toutes les conditions pour \u00eatre effectivement pay\u00e9 au titre du mois d\u2019observation. En particulier ne sont pas inclus dans ce p\u00e9rim\u00e8tre les b\u00e9n\u00e9ficiaires qui n\u2019ont pas fourni l\u2019int\u00e9gralit\u00e9 de leurs pi\u00e8ces justificatives, ou ceux dont le montant de la prestation est inf\u00e9rieur au seuil de versement.\n\nLe champ g\u00e9ographique d\u2019observation du jeu de donn\u00e9es correspond \u00e0 la commune de r\u00e9sidence du foyer allocataire telle qu\u2019elle est enregistr\u00e9e dans le fichier statistique des allocataires extrait en d\u00e9but d\u2019ann\u00e9e N+1 (environ 6 semaines apr\u00e8s la fin du mois observ\u00e9) et ce quelle que soit la Caf de gestion",
+  "extras": {
+    "ckan:name": "foyers-allocataires-percevant-la-prime-d-activite-ppa-par-commune",
+    "harvest:domain": "data.caf.fr",
+    "harvest:last_update": "2017-11-27T05:08:28.760945",
+    "harvest:remote_id": "bff4acee-2a60-4c42-bc13-c5e903b6e97d",
+    "harvest:source_id": "560d9133c751df40ee756894",
+    "harvested": "2017-10-02T09:52:54.311481",
+    "remote_url": "FILEAS Base Communale Allocataires (BCA)",
+    "source_id": "954ea88a-1b59-4a56-acae-2148a64dbe5e"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59606638a3a7296407d6a7c1",
+  "last_modified": "2017-11-27T05:08:28.766000",
+  "last_update": "2017-07-08T06:57:28.802000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "CNAF",
+    "class": "Organization",
+    "id": "5595066cc751df4582a453ba",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-07-02/a1bc08e4a4dc44a89cb29697800a83b5/new_logo-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-07-02/a1bc08e4a4dc44a89cb29697800a83b5/new_logo-100.jpg",
+    "name": "Caisse Nationale des Allocations familiales ",
+    "page": "https://www.data.gouv.fr/fr/organizations/allocations-familiales/",
+    "slug": "allocations-familiales",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/allocations-familiales/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/foyers-allocataires-percevant-la-prime-d-activite-ppa-par-commune/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T06:57:28.801000",
+      "description": "Nombres de b\u00e9n\u00e9ficiaires PPA et de b\u00e9n\u00e9ficiaires PPA de moins de 25 ans en 2016",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T15:42:51.215000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/bff4acee-2a60-4c42-bc13-c5e903b6e97d/resource/50a87ae7-bd5b-4b03-90f2-6a9b53be9748/download/PPACOM2016.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "50a87ae7-bd5b-4b03-90f2-6a9b53be9748",
+      "last_modified": "2017-07-26T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/50a87ae7-bd5b-4b03-90f2-6a9b53be9748",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-08T06:57:28.802000",
+      "title": "PPA",
+      "url": "http://data.caf.fr/dataset/bff4acee-2a60-4c42-bc13-c5e903b6e97d/resource/50a87ae7-bd5b-4b03-90f2-6a9b53be9748/download/PPACOM2016.csv"
+    }
+  ],
+  "slug": "foyers-allocataires-percevant-la-prime-d-activite-ppa-par-commune",
+  "spatial": null,
+  "tags": [
+    "age",
+    "commune",
+    "ppa"
+  ],
+  "temporal_coverage": null,
+  "title": "Foyers allocataires percevant la prime d'activit\u00e9 (PPA) - par Commune",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/foyers-allocataires-percevant-la-prime-d-activite-ppa-par-commune/"
+}

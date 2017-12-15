@@ -1,0 +1,75 @@
+{
+  "acronym": null,
+  "badges": [],
+  "created_at": "2017-03-31T15:51:14.924000",
+  "deleted": null,
+  "description": "We open data, we make them used and useful",
+  "id": "58de5ed288ee3830702efd74",
+  "last_modified": "2017-11-23T21:46:19.022000",
+  "logo": "https://www.data.gouv.fr/s/avatars/f8/c4c9c5f12e485097d4d81dd5b7b07d-original.png",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/f8/c4c9c5f12e485097d4d81dd5b7b07d-100.png",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Scop",
+        "id": "58de5a2488ee381bcb55c882",
+        "last_name": "Datactivist",
+        "page": "https://www.data.gouv.fr/fr/users/samuel-goeta-2/",
+        "slug": "samuel-goeta-2",
+        "uri": "https://www.data.gouv.fr/api/1/users/samuel-goeta-2/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/be/da92de296f48918c9b71d05a7f1c4a-original.jpeg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/be/da92de296f48918c9b71d05a7f1c4a-100.jpeg",
+        "class": "User",
+        "first_name": "Joel",
+        "id": "5387e530a3a7291cb367547f",
+        "last_name": "Gombin",
+        "page": "https://www.data.gouv.fr/fr/users/joel-gombin/",
+        "slug": "joel-gombin",
+        "uri": "https://www.data.gouv.fr/api/1/users/joel-gombin/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/d3/005c6c83c74973b5174dd20e3f8959-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/d3/005c6c83c74973b5174dd20e3f8959-100.jpg",
+        "class": "User",
+        "first_name": "Samuel",
+        "id": "534fff48a3a7292c64a77b1c",
+        "last_name": "Goeta",
+        "page": "https://www.data.gouv.fr/fr/users/samuel-goeta/",
+        "slug": "samuel-goeta",
+        "uri": "https://www.data.gouv.fr/api/1/users/samuel-goeta/"
+      }
+    }
+  ],
+  "metrics": {
+    "badges": 0,
+    "dataset_views": 2,
+    "datasets": 4,
+    "followers": 4,
+    "members": 3,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 0,
+    "resource_downloads": 5,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 4
+  },
+  "name": "Datactivist",
+  "page": "https://www.data.gouv.fr/fr/organizations/datactivist/",
+  "slug": "datactivist",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/datactivist/",
+  "url": null
+}

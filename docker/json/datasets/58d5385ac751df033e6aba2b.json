@@ -1,0 +1,85 @@
+{
+  "badges": [],
+  "created_at": "2017-03-24T16:16:42.625000",
+  "deleted": null,
+  "description": "Meudon ouvre ses comptes administratifs depuis 2012. Ce tableur pr\u00e9sente les d\u00e9penses et recettes de fonctionnement pour la fonction logement.",
+  "extras": {},
+  "frequency": "punctual",
+  "frequency_date": "2017-03-24T00:00:00",
+  "id": "58d5385ac751df033e6aba2b",
+  "last_modified": "2017-03-24T16:16:58.342000",
+  "last_update": "2017-03-24T16:16:53.986000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "54d89442c751df1245467389",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-02-09/c8e02b8db0004b17b0aa311404798324/logo_meudon_couleur_HD-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-02-09/c8e02b8db0004b17b0aa311404798324/logo_meudon_couleur_HD-100.jpg",
+    "name": "Ville de Meudon",
+    "page": "https://www.data.gouv.fr/fr/organizations/ville-de-meudon/",
+    "slug": "ville-de-meudon",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ville-de-meudon/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/compte-administratif-2015-presentation-croisee-par-fonction-detail-fonctionnement-logement/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "c99c2433f440eee0c09e3053111326008c84d850"
+      },
+      "created_at": "2017-03-24T16:16:53.986000",
+      "description": "Meudon ouvre ses comptes administratifs depuis 2012. Ce tableur pr\u00e9sente les d\u00e9penses et recettes de fonctionnement pour la fonction logement.",
+      "extras": {},
+      "filesize": 1888,
+      "filetype": "file",
+      "format": "csv",
+      "id": "ba1811c6-097d-4f1d-a326-c3a25078988f",
+      "last_modified": "2017-03-24T16:16:58.342000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ba1811c6-097d-4f1d-a326-c3a25078988f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-03-24T16:16:53.986000",
+      "title": "Onglet_27_CA2015_presentation_croisee_par_fonction-detail_fonctionnement-logement.csv",
+      "url": "https://www.data.gouv.fr/s/resources/compte-administratif-2015-presentation-croisee-par-fonction-detail-fonctionnement-logement/20170324-161653/Onglet_27_CA2015_presentation_croisee_par_fonction-detail_fonctionnement-logement.csv"
+    }
+  ],
+  "slug": "compte-administratif-2015-presentation-croisee-par-fonction-detail-fonctionnement-logement",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:commune",
+    "zones": [
+      "fr:commune:92048@1968-01-01"
+    ]
+  },
+  "tags": [
+    "budget-2015",
+    "compte-administratif",
+    "finances",
+    "finances-locales",
+    "finances-publiques",
+    "meudon",
+    "meudon-la-foret"
+  ],
+  "temporal_coverage": null,
+  "title": "Compte administratif 2015-pr\u00e9sentation crois\u00e9e par fonction-d\u00e9tail fonctionnement-logement",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/compte-administratif-2015-presentation-croisee-par-fonction-detail-fonctionnement-logement/"
+}

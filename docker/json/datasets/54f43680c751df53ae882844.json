@@ -1,0 +1,81 @@
+{
+  "badges": [],
+  "created_at": "2015-03-02T11:08:00.909000",
+  "deleted": null,
+  "description": "**Description **\n\nIl s'agit de 9 ratios financiers obligatoires renseign\u00e9s annuellement par les d\u00e9partements conform\u00e9ment \u00e0 l'article L.2313-1 du code g\u00e9n\u00e9ral des collectivit\u00e9s territoriales.\n\n\n**Sources** \n\nSite internet.\n\n**Fiabilit\u00e9** \n\nInt\u00e9gration manuelle.\n\n**Liste des colonnes** \n\n- D\u00e9partement_Code : correspond au num\u00e9ro du d\u00e9partement\n- Intitul\u00e9 : Intitul\u00e9 du ratio\n- Mesure 2009 : Montant 2009 en euros\n- Mesure 2010 : Montant 2010 en euros\n- Mesure 2011 : Montant 2011 en euros\n- Mesure 2012 : Montant 2012 en euros\n- Mesure 2013 : Montant 2013 en euros \n\n**Format de diffusion**\n\nCes fichiers sont propos\u00e9s sous forme de :\n\n    fichiers csv (encodage ANSI)\n\n**Contact**\n\nPour toute question, ou signalement d'une am\u00e9lioration, vous pouvez nous contacter sur <a href=\"mailto:data93@cg93.fr\">data93@cg93.fr</a>\n\n**Liens**\n\n- Consulter la fiche sur le <a href=\"http://data.seine-saint-denis.fr/spip.php?article194\">portail Open Data de la Seine-Saint-Denis</a>",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": "2015-10-12T00:00:00",
+  "id": "54f43680c751df53ae882844",
+  "last_modified": "2015-10-12T09:47:53.231000",
+  "last_update": "2015-04-08T15:11:10.126000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5457bc26c751df7378225d2e",
+    "logo": "https://www.data.gouv.fr/s/avatars/2014-11-03/1368537f4075452eb44393ea68b6bfdc/SeineSaintDenis-Logo-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-11-03/1368537f4075452eb44393ea68b6bfdc/SeineSaintDenis-Logo-100.png",
+    "name": "Seine-Saint-Denis - Le D\u00e9partement",
+    "page": "https://www.data.gouv.fr/fr/organizations/seine-saint-denis-le-departement/",
+    "slug": "seine-saint-denis-le-departement",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/seine-saint-denis-le-departement/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/ratios-financiers-obligatoires/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "1158b4debd98a3d58835aaed8533c9dd1dc5aac9"
+      },
+      "created_at": "2015-04-08T15:11:10.126000",
+      "description": "",
+      "extras": {},
+      "filesize": 1341,
+      "filetype": "file",
+      "format": "csv",
+      "id": "12f928b5-d7b1-4f90-9831-b1b7406cc6e1",
+      "last_modified": "2015-04-08T15:11:10.126000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/12f928b5-d7b1-4f90-9831-b1b7406cc6e1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": "text/csv",
+      "published": "2015-04-08T15:11:10.126000",
+      "title": "Departement93-Ratios_obligatoires-2009_2013.csv",
+      "url": "https://www.data.gouv.fr/s/resources/ratios-financiers-obligatoires/20150408-151108/Departement93-Ratios_obligatoires-2009_2013.csv"
+    }
+  ],
+  "slug": "ratios-financiers-obligatoires",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:departement",
+    "zones": [
+      "fr:departement:93@1968-01-01"
+    ]
+  },
+  "tags": [
+    "ratios-financiers-obligatoires"
+  ],
+  "temporal_coverage": {
+    "end": "2015-03-02",
+    "start": "2009-01-01"
+  },
+  "title": "Ratios financiers obligatoires",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/ratios-financiers-obligatoires/"
+}

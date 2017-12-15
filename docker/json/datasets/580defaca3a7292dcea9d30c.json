@@ -1,0 +1,105 @@
+{
+  "badges": [],
+  "created_at": "2016-10-24T13:25:32.552000",
+  "deleted": null,
+  "description": "**Liste des titres et tarifs actuels\u00a0du r\u00e9seau STAR, comprenant notamment leur nom, les prix pour chaque quantit\u00e9 et leurs\u00a0caract\u00e9ristiques\u00a0essentielles.**\n\nCertains titres sont pr\u00e9sent\u00e9s ici bien qu'ils ne soient plus vendus : en effet, il peut encore \u00eatre pr\u00e9sent sur certaines cartes KorriGo.",
+  "extras": {
+    "harvest:domain": "data.explore.star.fr",
+    "harvest:last_update": "2017-11-27T05:07:57.862377",
+    "harvest:remote_id": "mkt-titres-gamme-td",
+    "harvest:source_id": "5631e57dc751df24cedcc3f2",
+    "ods:has_records": true,
+    "ods:url": "http://data.explore.star.fr/explore/dataset/mkt-titres-gamme-td/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "580defaca3a7292dcea9d30c",
+  "last_modified": "2017-11-27T05:07:57.863000",
+  "last_update": "2017-11-27T05:07:57.861000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": null,
+  "owner": {
+    "avatar": null,
+    "avatar_thumbnail": null,
+    "class": "User",
+    "first_name": "Benjamin",
+    "id": "5631e492c751df24cedcc3f0",
+    "last_name": "BERTELLE",
+    "page": "https://www.data.gouv.fr/fr/users/benjamin-bertelle/",
+    "slug": "benjamin-bertelle",
+    "uri": "https://www.data.gouv.fr/api/1/users/benjamin-bertelle/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/titres-et-tarifs-du-reseau-star-1/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:07:57.860000",
+      "description": "- *Identifiant*: idproduit[int]\n- *Libell\u00e9*: libelleproduit[text]\n- *Exploitant (ID)*: idexploitant[int]\n- *Exploitant (libell\u00e9)*: libelleexploitant[text]\n- *Description*: descriptif[text]\n- *Famille*: libellefamille[text]\n- *Type de validit\u00e9*: libelletypevalidite[text]\n- *P\u00e9riode de validit\u00e9*: libellecalculperiodevalidite[text]\n- *Nombre d'unit\u00e9s*: nombreunites[int]\n- *Nombre de passagers*: nombrepassagers[int]\n- *Priorit\u00e9 \u00e0 la validation*: prioritevalidation[int]\n- *Est en vente*: estenvente[text]\n- *Quantit\u00e9*: quantiteproduit[int]\n- *Prix*: prix[double]\n- *Taux de TVA*: tauxtva[double]\n- *Visibilit\u00e9*: visibilite[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "6c1e59c4-911b-42cd-b02a-d9e909d150fd",
+      "last_modified": "2016-08-26T15:03:59",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6c1e59c4-911b-42cd-b02a-d9e909d150fd",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:07:57.860000",
+      "title": "Export au format CSV",
+      "url": "http://data.explore.star.fr/explore/dataset/mkt-titres-gamme-td/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:07:57.861000",
+      "description": "- *Identifiant*: idproduit[int]\n- *Libell\u00e9*: libelleproduit[text]\n- *Exploitant (ID)*: idexploitant[int]\n- *Exploitant (libell\u00e9)*: libelleexploitant[text]\n- *Description*: descriptif[text]\n- *Famille*: libellefamille[text]\n- *Type de validit\u00e9*: libelletypevalidite[text]\n- *P\u00e9riode de validit\u00e9*: libellecalculperiodevalidite[text]\n- *Nombre d'unit\u00e9s*: nombreunites[int]\n- *Nombre de passagers*: nombrepassagers[int]\n- *Priorit\u00e9 \u00e0 la validation*: prioritevalidation[int]\n- *Est en vente*: estenvente[text]\n- *Quantit\u00e9*: quantiteproduit[int]\n- *Prix*: prix[double]\n- *Taux de TVA*: tauxtva[double]\n- *Visibilit\u00e9*: visibilite[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "1a3f7886-6442-4429-9dd5-59c5cf6f083d",
+      "last_modified": "2016-08-26T15:03:59",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1a3f7886-6442-4429-9dd5-59c5cf6f083d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:07:57.861000",
+      "title": "Export au format JSON",
+      "url": "http://data.explore.star.fr/explore/dataset/mkt-titres-gamme-td/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "titres-et-tarifs-du-reseau-star-1",
+  "spatial": null,
+  "tags": [
+    "deplacements",
+    "prix",
+    "produits",
+    "tarifs",
+    "titres",
+    "transports",
+    "validite"
+  ],
+  "temporal_coverage": null,
+  "title": "Titres et tarifs du r\u00e9seau STAR",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/titres-et-tarifs-du-reseau-star-1/"
+}

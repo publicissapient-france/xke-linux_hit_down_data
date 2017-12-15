@@ -1,0 +1,75 @@
+{
+  "acronym": "AE",
+  "badges": [],
+  "created_at": "2017-02-04T11:57:13.248000",
+  "deleted": null,
+  "description": "Astrolabe Exp\u00e9ditions a pour objectif de rendre accessible les exp\u00e9ditions scientifiques oc\u00e9aniques.\n \nCes missions de recherche citoyenne, organis\u00e9es \u00e0 bord de voiliers visent \u00e0 am\u00e9liorer les connaissances et la pr\u00e9servation de l'environnement marin.\nEn collaboration avec des institutions scientifiques et des espaces de recherche collaboratifs, tous les citoyens peuvent s'impliquer dans le d\u00e9veloppement de programmes de recherche et participer aux exp\u00e9ditions en mer.",
+  "id": "5895b38988ee3805179b81a4",
+  "last_modified": "2017-09-05T03:12:42.012000",
+  "logo": "https://www.data.gouv.fr/s/avatars/a1/ab9ed3f2454484bc469e52969a2f52-original.png",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/a1/ab9ed3f2454484bc469e52969a2f52-100.png",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/2014-10-27/d0ebd2384d7848ba96358b00ec2c6a12/me_by_g_small-original.png",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-10-27/d0ebd2384d7848ba96358b00ec2c6a12/me_by_g_small-100.png",
+        "class": "User",
+        "first_name": "Yohan",
+        "id": "544e2539c751df50f392aaeb",
+        "last_name": "Boniface",
+        "page": "https://www.data.gouv.fr/fr/users/yohan-boniface/",
+        "slug": "yohan-boniface",
+        "uri": "https://www.data.gouv.fr/api/1/users/yohan-boniface/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Mouna",
+        "id": "5895b3f488ee3805379b81a4",
+        "last_name": "Petitjean",
+        "page": "https://www.data.gouv.fr/fr/users/mouna-petitjean/",
+        "slug": "mouna-petitjean",
+        "uri": "https://www.data.gouv.fr/api/1/users/mouna-petitjean/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Marl\u00e8ne",
+        "id": "589708e3c751df13c6ae0a65",
+        "last_name": "Etienne",
+        "page": "https://www.data.gouv.fr/fr/users/marlene-etienne/",
+        "slug": "marlene-etienne",
+        "uri": "https://www.data.gouv.fr/api/1/users/marlene-etienne/"
+      }
+    }
+  ],
+  "metrics": {
+    "badges": 0,
+    "dataset_views": 0,
+    "datasets": 3,
+    "followers": 2,
+    "members": 3,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 0,
+    "resource_downloads": 0,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "name": "Astrolabe Exp\u00e9ditions",
+  "page": "https://www.data.gouv.fr/fr/organizations/astrolabe-expeditions/",
+  "slug": "astrolabe-expeditions",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/astrolabe-expeditions/",
+  "url": "http://www.astrolabe-expeditions.org/"
+}

@@ -1,0 +1,146 @@
+{
+  "badges": [],
+  "created_at": "2017-03-03T15:24:56.212000",
+  "deleted": null,
+  "description": "**RCS -\u00a0Statistiques des immatriculations en 2015**\n\n* * *\n\nIl s'agit du nombre de formalit\u00e9s de cr\u00e9ation d'entreprises individuelles (commer\u00e7ants)\u00a0et de soci\u00e9t\u00e9s commerciales enregistr\u00e9es au registre du commerce et des soci\u00e9t\u00e9s en 2015",
+  "extras": {
+    "harvest:domain": "datainfogreffe.fr",
+    "harvest:last_update": "2017-11-27T05:16:08.533350",
+    "harvest:remote_id": "statistiques-immatriculations-2015",
+    "harvest:source_id": "5624ae7d88ee383db537dfca",
+    "ods:has_records": true,
+    "ods:references": "Statistiques du Conseil National des Greffiers, Registre du commerce et des soci\u00e9t\u00e9s",
+    "ods:url": "https://datainfogreffe.fr//explore/dataset/statistiques-immatriculations-2015/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "58b97cb8a3a7295fa30a2b40",
+  "last_modified": "2017-11-27T05:16:08.540000",
+  "last_update": "2017-11-27T05:16:08.531000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5620c13fc751df08e3cdbb48",
+    "logo": "https://www.data.gouv.fr/s/avatars/46/ccf8461acc41bfad4be5d5bc6a9767-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/46/ccf8461acc41bfad4be5d5bc6a9767-100.jpg",
+    "name": "Infogreffe ",
+    "page": "https://www.data.gouv.fr/fr/organizations/infogreffe/",
+    "slug": "infogreffe",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/infogreffe/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/statistiques-immatriculations-en-2015-1/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:16:08.530000",
+      "description": "- *P\u00e9riode*: periode[date]\n- *R\u00e9gion*: region[text] Nom de la r\u00e9gion\n- *D\u00e9partement*: code_libelle_departement[text]\n- *Greffe*: greffe[text] Greffe du Tribunal de commerce\n- *Code d\u00e9partement*: code_departement[text] Code du d\u00e9partement\n- *Libell\u00e9 d\u00e9partement*: departement[text] Nom du d\u00e9partement\n- *Code r\u00e9gion*: code_region[int] Code de la r\u00e9gion\n- *Personnes Physiques*: personne_physique[int] Nombre de cr\u00e9ation d'entreprises individuelles (commer\u00e7ants)\n- *Soci\u00e9t\u00e9s commerciales sur cr\u00e9ation*: societe_commerciales_sur_creation[int] Nombre de cr\u00e9ation de soci\u00e9t\u00e9s commerciales sans origine de fond (cr\u00e9ation)\n- *Soci\u00e9t\u00e9s commerciales sur achats*: societes_commerciales_sur_achats[int] Nombre cr\u00e9ation de soci\u00e9t\u00e9s commerciales sur achats de fond\n- *Soci\u00e9t\u00e9s commerciales sur autres origines*: societes_commerciales_sur_autres_origines[int] Nombre de cr\u00e9ation de soci\u00e9t\u00e9s commerciales avec origine de fond distinct de cr\u00e9ation ou achats\n- *Groupements d'Int\u00e9r\u00eat Economique*: groupement_d_interet_economique[int] Nombre de cr\u00e9ation de groupements d'int\u00e9r\u00eat \u00e9conomique\n- *Soci\u00e9t\u00e9s civiles*: societes_civiles[int] Nombre de cr\u00e9ation de soci\u00e9t\u00e9s civiles\n- *Total*: total[int] Nombre total de cr\u00e9ation de soci\u00e9t\u00e9s commerciales\n- *G\u00e9olocalisation*: coord_gps[geo_point_2d] G\u00e9olocalisation (Coordonn\u00e9es GPS)\n- *P\u00e9riode (mois)*: mois_annee[text]\n- *Ann\u00e9e*: annee[int] Ann\u00e9e\n- *Mois*: mois[int] Mois\n- *datetmp*: datetmp[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "3564b6a7-7a58-476c-b743-353a4e381f02",
+      "last_modified": "2015-09-28T18:24:20",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3564b6a7-7a58-476c-b743-353a4e381f02",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:16:08.530000",
+      "title": "Export au format CSV",
+      "url": "https://datainfogreffe.fr//explore/dataset/statistiques-immatriculations-2015/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:16:08.530000",
+      "description": "- *P\u00e9riode*: periode[date]\n- *R\u00e9gion*: region[text] Nom de la r\u00e9gion\n- *D\u00e9partement*: code_libelle_departement[text]\n- *Greffe*: greffe[text] Greffe du Tribunal de commerce\n- *Code d\u00e9partement*: code_departement[text] Code du d\u00e9partement\n- *Libell\u00e9 d\u00e9partement*: departement[text] Nom du d\u00e9partement\n- *Code r\u00e9gion*: code_region[int] Code de la r\u00e9gion\n- *Personnes Physiques*: personne_physique[int] Nombre de cr\u00e9ation d'entreprises individuelles (commer\u00e7ants)\n- *Soci\u00e9t\u00e9s commerciales sur cr\u00e9ation*: societe_commerciales_sur_creation[int] Nombre de cr\u00e9ation de soci\u00e9t\u00e9s commerciales sans origine de fond (cr\u00e9ation)\n- *Soci\u00e9t\u00e9s commerciales sur achats*: societes_commerciales_sur_achats[int] Nombre cr\u00e9ation de soci\u00e9t\u00e9s commerciales sur achats de fond\n- *Soci\u00e9t\u00e9s commerciales sur autres origines*: societes_commerciales_sur_autres_origines[int] Nombre de cr\u00e9ation de soci\u00e9t\u00e9s commerciales avec origine de fond distinct de cr\u00e9ation ou achats\n- *Groupements d'Int\u00e9r\u00eat Economique*: groupement_d_interet_economique[int] Nombre de cr\u00e9ation de groupements d'int\u00e9r\u00eat \u00e9conomique\n- *Soci\u00e9t\u00e9s civiles*: societes_civiles[int] Nombre de cr\u00e9ation de soci\u00e9t\u00e9s civiles\n- *Total*: total[int] Nombre total de cr\u00e9ation de soci\u00e9t\u00e9s commerciales\n- *G\u00e9olocalisation*: coord_gps[geo_point_2d] G\u00e9olocalisation (Coordonn\u00e9es GPS)\n- *P\u00e9riode (mois)*: mois_annee[text]\n- *Ann\u00e9e*: annee[int] Ann\u00e9e\n- *Mois*: mois[int] Mois\n- *datetmp*: datetmp[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "9cd66e2a-a60d-4396-9471-90b79b73e68c",
+      "last_modified": "2015-09-28T18:24:20",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9cd66e2a-a60d-4396-9471-90b79b73e68c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:16:08.530000",
+      "title": "Export au format JSON",
+      "url": "https://datainfogreffe.fr//explore/dataset/statistiques-immatriculations-2015/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:16:08.531000",
+      "description": "- *P\u00e9riode*: periode[date]\n- *R\u00e9gion*: region[text] Nom de la r\u00e9gion\n- *D\u00e9partement*: code_libelle_departement[text]\n- *Greffe*: greffe[text] Greffe du Tribunal de commerce\n- *Code d\u00e9partement*: code_departement[text] Code du d\u00e9partement\n- *Libell\u00e9 d\u00e9partement*: departement[text] Nom du d\u00e9partement\n- *Code r\u00e9gion*: code_region[int] Code de la r\u00e9gion\n- *Personnes Physiques*: personne_physique[int] Nombre de cr\u00e9ation d'entreprises individuelles (commer\u00e7ants)\n- *Soci\u00e9t\u00e9s commerciales sur cr\u00e9ation*: societe_commerciales_sur_creation[int] Nombre de cr\u00e9ation de soci\u00e9t\u00e9s commerciales sans origine de fond (cr\u00e9ation)\n- *Soci\u00e9t\u00e9s commerciales sur achats*: societes_commerciales_sur_achats[int] Nombre cr\u00e9ation de soci\u00e9t\u00e9s commerciales sur achats de fond\n- *Soci\u00e9t\u00e9s commerciales sur autres origines*: societes_commerciales_sur_autres_origines[int] Nombre de cr\u00e9ation de soci\u00e9t\u00e9s commerciales avec origine de fond distinct de cr\u00e9ation ou achats\n- *Groupements d'Int\u00e9r\u00eat Economique*: groupement_d_interet_economique[int] Nombre de cr\u00e9ation de groupements d'int\u00e9r\u00eat \u00e9conomique\n- *Soci\u00e9t\u00e9s civiles*: societes_civiles[int] Nombre de cr\u00e9ation de soci\u00e9t\u00e9s civiles\n- *Total*: total[int] Nombre total de cr\u00e9ation de soci\u00e9t\u00e9s commerciales\n- *G\u00e9olocalisation*: coord_gps[geo_point_2d] G\u00e9olocalisation (Coordonn\u00e9es GPS)\n- *P\u00e9riode (mois)*: mois_annee[text]\n- *Ann\u00e9e*: annee[int] Ann\u00e9e\n- *Mois*: mois[int] Mois\n- *datetmp*: datetmp[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "dccb54d3-e793-4e70-b062-3a42c3f4c209",
+      "last_modified": "2015-09-28T18:24:20",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/dccb54d3-e793-4e70-b062-3a42c3f4c209",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:16:08.531000",
+      "title": "Export au format GeoJSON",
+      "url": "https://datainfogreffe.fr//explore/dataset/statistiques-immatriculations-2015/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:16:08.531000",
+      "description": "- *P\u00e9riode*: periode[date]\n- *R\u00e9gion*: region[text] Nom de la r\u00e9gion\n- *D\u00e9partement*: code_libelle_departement[text]\n- *Greffe*: greffe[text] Greffe du Tribunal de commerce\n- *Code d\u00e9partement*: code_departement[text] Code du d\u00e9partement\n- *Libell\u00e9 d\u00e9partement*: departement[text] Nom du d\u00e9partement\n- *Code r\u00e9gion*: code_region[int] Code de la r\u00e9gion\n- *Personnes Physiques*: personne_physique[int] Nombre de cr\u00e9ation d'entreprises individuelles (commer\u00e7ants)\n- *Soci\u00e9t\u00e9s commerciales sur cr\u00e9ation*: societe_commerciales_sur_creation[int] Nombre de cr\u00e9ation de soci\u00e9t\u00e9s commerciales sans origine de fond (cr\u00e9ation)\n- *Soci\u00e9t\u00e9s commerciales sur achats*: societes_commerciales_sur_achats[int] Nombre cr\u00e9ation de soci\u00e9t\u00e9s commerciales sur achats de fond\n- *Soci\u00e9t\u00e9s commerciales sur autres origines*: societes_commerciales_sur_autres_origines[int] Nombre de cr\u00e9ation de soci\u00e9t\u00e9s commerciales avec origine de fond distinct de cr\u00e9ation ou achats\n- *Groupements d'Int\u00e9r\u00eat Economique*: groupement_d_interet_economique[int] Nombre de cr\u00e9ation de groupements d'int\u00e9r\u00eat \u00e9conomique\n- *Soci\u00e9t\u00e9s civiles*: societes_civiles[int] Nombre de cr\u00e9ation de soci\u00e9t\u00e9s civiles\n- *Total*: total[int] Nombre total de cr\u00e9ation de soci\u00e9t\u00e9s commerciales\n- *G\u00e9olocalisation*: coord_gps[geo_point_2d] G\u00e9olocalisation (Coordonn\u00e9es GPS)\n- *P\u00e9riode (mois)*: mois_annee[text]\n- *Ann\u00e9e*: annee[int] Ann\u00e9e\n- *Mois*: mois[int] Mois\n- *datetmp*: datetmp[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "a0b81477-4988-4888-80ce-a77dc248dd0d",
+      "last_modified": "2015-09-28T18:24:20",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a0b81477-4988-4888-80ce-a77dc248dd0d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:16:08.531000",
+      "title": "Export au format Shapefile",
+      "url": "https://datainfogreffe.fr//explore/dataset/statistiques-immatriculations-2015/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "statistiques-immatriculations-en-2015-1",
+  "spatial": null,
+  "tags": [
+    "greffes",
+    "immatriculations",
+    "statistiques"
+  ],
+  "temporal_coverage": null,
+  "title": "Statistiques Immatriculations en 2015",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/statistiques-immatriculations-en-2015-1/"
+}

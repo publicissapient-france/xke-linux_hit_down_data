@@ -1,0 +1,85 @@
+{
+  "badges": [],
+  "created_at": "2013-02-27T00:00:00",
+  "deleted": null,
+  "description": "",
+  "extras": {
+    "ckan:name": "codes-insee-communes-g-olocalis-es",
+    "harvest:domain": "www.nosdonnees.fr",
+    "harvest:last_update": "2017-07-10T06:04:52.136839",
+    "harvest:remote_id": "2180a0fb-2fa0-440a-9016-8055cd814ce3",
+    "harvest:source_id": "5878ee1588ee385bffa6f719",
+    "remote_url": "http://www.lion1906.com/Pages/francais/utile/telechargements.html"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5878ee30a3a7291484cac7d4",
+  "last_modified": "2017-07-10T06:04:52.138000",
+  "last_update": "2017-01-13T16:11:44.805000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 2,
+    "views": 1
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff99a3a7292c64a78016",
+    "logo": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-100.png",
+    "name": "NosDonn\u00e9es.fr",
+    "page": "https://www.data.gouv.fr/fr/organizations/nosdonnees-fr/",
+    "slug": "nosdonnees-fr",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nosdonnees-fr/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/codes-insee-communes-g-olocalis-es/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:11:44.805000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T07:04:16.296000",
+        "check:status": 200,
+        "check:url": "http://www.nosdonnees.fr/storage/f/2013-02-27T230542/Codes-INSEE-communes-geolocalisees.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "7d37bf51-cd4e-4481-92f2-f27f948bd8e5",
+      "last_modified": "2013-02-28T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7d37bf51-cd4e-4481-92f2-f27f948bd8e5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "",
+      "published": "2017-01-13T16:11:44.805000",
+      "title": "2013-02-27T230542/Codes-INSEE-communes-geolocalisees.csv",
+      "url": "http://www.nosdonnees.fr/storage/f/2013-02-27T230542/Codes-INSEE-communes-geolocalisees.csv"
+    }
+  ],
+  "slug": "codes-insee-communes-g-olocalis-es",
+  "spatial": null,
+  "tags": [
+    "code",
+    "commune",
+    "geolocalise",
+    "insee"
+  ],
+  "temporal_coverage": null,
+  "title": "Codes INSEE Communes g\u00e9olocalis\u00e9es",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/codes-insee-communes-g-olocalis-es/"
+}

@@ -1,0 +1,104 @@
+{
+  "badges": [],
+  "created_at": "2016-02-02T15:53:23.566000",
+  "deleted": null,
+  "description": "Liste des candidats se pr\u00e9sentant au second\u00a0tour des\u00a0\u00e9lections r\u00e9gionales\u00a0de d\u00e9cembre\u00a02015.",
+  "extras": {
+    "harvest:domain": "data.toulouse-metropole.fr",
+    "harvest:last_update": "2017-11-27T05:16:52.955484",
+    "harvest:remote_id": "elections-regionales-2015-second-tour-liste-des-candidats",
+    "harvest:source_id": "564c3680c751df607daad370",
+    "ods:has_records": true,
+    "ods:url": "https://data.toulouse-metropole.fr//explore/dataset/elections-regionales-2015-second-tour-liste-des-candidats/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "56b0c2e3b595086d5669cb86",
+  "last_modified": "2017-11-27T05:16:52.957000",
+  "last_update": "2017-11-27T05:16:52.954000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb3a3a7292c64a78129",
+    "logo": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-100.jpg",
+    "name": "Toulouse m\u00e9trople",
+    "page": "https://www.data.gouv.fr/fr/organizations/toulouse-metrople/",
+    "slug": "toulouse-metrople",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/toulouse-metrople/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/elections-regionales-2015-second-tour-liste-des-candidats/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:16:52.953000",
+      "description": "- *CODE_DEPOT*: code_depot[int] Identification de la liste \u00e9lectorale\n- *LISTE*: liste[text] Nom de la liste \u00e9lectorale\n- *TETE DE LISTE*: tete_de_liste[text] Nom du premier candidat de la liste \u00e9lectorale.\n- *CODE_AFFICHAGE*: code_affichage[int] Champ permettant de respecter l\u2019ordre d\u2019affichage des listes \u00e9lectorales (d\u00e9finit par la pr\u00e9fecture)\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b09c0601-af0c-4fc2-a33c-ec89ea7ff605",
+      "last_modified": "2015-12-09T15:15:59",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b09c0601-af0c-4fc2-a33c-ec89ea7ff605",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:16:52.953000",
+      "title": "Export au format CSV",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/elections-regionales-2015-second-tour-liste-des-candidats/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:16:52.954000",
+      "description": "- *CODE_DEPOT*: code_depot[int] Identification de la liste \u00e9lectorale\n- *LISTE*: liste[text] Nom de la liste \u00e9lectorale\n- *TETE DE LISTE*: tete_de_liste[text] Nom du premier candidat de la liste \u00e9lectorale.\n- *CODE_AFFICHAGE*: code_affichage[int] Champ permettant de respecter l\u2019ordre d\u2019affichage des listes \u00e9lectorales (d\u00e9finit par la pr\u00e9fecture)\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "c905dbfd-d312-43d6-a3ec-68682e680771",
+      "last_modified": "2015-12-09T15:15:59",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c905dbfd-d312-43d6-a3ec-68682e680771",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:16:52.954000",
+      "title": "Export au format JSON",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/elections-regionales-2015-second-tour-liste-des-candidats/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "elections-regionales-2015-second-tour-liste-des-candidats",
+  "spatial": null,
+  "tags": [
+    "2015",
+    "candidats",
+    "citoyennete",
+    "elections",
+    "regionales",
+    "second-tour"
+  ],
+  "temporal_coverage": null,
+  "title": "Elections r\u00e9gionales 2015 - second tour - liste des candidats",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/elections-regionales-2015-second-tour-liste-des-candidats/"
+}

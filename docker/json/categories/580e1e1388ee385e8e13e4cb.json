@@ -1,0 +1,47 @@
+{
+  "acronym": "RT78",
+  "badges": [],
+  "created_at": "2016-10-24T16:43:31.510000",
+  "deleted": null,
+  "description": "Situ\u00e9e \u00e0 50 km de Paris, \u00e0 mi-chemin-entre Versailles et Chartres, la communaut\u00e9 d\u2019agglom\u00e9ration Rambouillet Territoires assure la liaison entre la r\u00e9gion \u00cele-de-France et la r\u00e9gion Centre. Elle allie le charme d\u2019une r\u00e9gion touristique, dot\u00e9e d\u2019un important patrimoine touristique, aux atouts d\u2019un territoire \u00e9conomique dynamique.",
+  "id": "580e1e1388ee385e8e13e4cb",
+  "last_modified": "2017-09-05T03:13:26.671000",
+  "logo": "https://www.data.gouv.fr/s/avatars/b3/b9abff49674b139da297d2bd735bf3-original.jpg",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b3/b9abff49674b139da297d2bd735bf3-100.jpg",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Salim",
+        "id": "580a3f2488ee38289113e4c9",
+        "last_name": "EL RHAZI",
+        "page": "https://www.data.gouv.fr/fr/users/salim-el-rhazi/",
+        "slug": "salim-el-rhazi",
+        "uri": "https://www.data.gouv.fr/api/1/users/salim-el-rhazi/"
+      }
+    }
+  ],
+  "metrics": {
+    "badges": 0,
+    "dataset_views": 1,
+    "datasets": 1,
+    "followers": 1,
+    "members": 1,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 0,
+    "resource_downloads": 1,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 2
+  },
+  "name": "Communaut\u00e9 d'Agglom\u00e9ration de Rambouillet Territoires",
+  "page": "https://www.data.gouv.fr/fr/organizations/rambouillet-territoires/",
+  "slug": "rambouillet-territoires",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/rambouillet-territoires/",
+  "url": "http://www.rt78.fr/"
+}

@@ -1,0 +1,144 @@
+{
+  "badges": [],
+  "created_at": "2015-11-07T11:19:39.857000",
+  "deleted": null,
+  "description": "La base de donn\u00e9es du r\u00e9seau commercial SNCF recense toutes les boutiques anim\u00e9es par des vendeurs SNCF et qui distribuent des billets\u00a0TGV, INTERCITES et TER.\u00a0Les guichets TRANSILIEN ne sont pas recens\u00e9s dans ce fichier.\n\nLe fichier pr\u00e9cise si les points de ventes sont implant\u00e9s en gare. Les coordonn\u00e9es GPS (WGS 84)\u00a0et les adresses postales de chaque site sont disponibles, ainsi que les heures et jours d'ouverture. Les points de ventes qui proposent le service rendez-vous \u00e0 leurs clients sont identifi\u00e9s.",
+  "extras": {
+    "harvest:domain": "ressources.data.sncf.com",
+    "harvest:last_update": "2017-11-27T05:01:19.371976",
+    "harvest:remote_id": "points-vente",
+    "harvest:source_id": "563dd01f88ee386a21e72046",
+    "ods:has_records": true,
+    "ods:url": "https://ressources.data.sncf.com/explore/dataset/points-vente/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "563dd03ba3a729642bec3cbf",
+  "last_modified": "2017-11-27T05:01:19.374000",
+  "last_update": "2017-11-27T05:01:19.370000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 1,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 1,
+    "views": 2
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb0a3a7292c64a78115",
+    "logo": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-100.png",
+    "name": "SNCF",
+    "page": "https://www.data.gouv.fr/fr/organizations/sncf/",
+    "slug": "sncf",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/sncf/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/points-de-vente-sncf/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:01:19.369000",
+      "description": "- *Pays*: pays[text]\n- *Secteur*: secteur[text]\n- *Type*: type[text]\n- *Nom*: nom[text]\n- *WGS 84*: wgs_84[geo_point_2d]\n- *Adresse*: adresse[text]\n- *D\u00e9partement*: departement[text]\n- *Code postal*: code_postal[double]\n- *Ville*: ville[text]\n- *Lundi*: lundi[text]\n- *Mardi*: mardi[text]\n- *Mercredi*: mercredi[text]\n- *Jeudi*: jeudi[text]\n- *Vendredi *: vendredi[text]\n- *Samedi*: samedi[text]\n- *Dimanche et f\u00eates*: dimanche_et_fetes[text]\n- *Ouvert le lundi*: ouvert_le_lundi[text]\n- *Ouvert le mardi*: ouvert_le_mardi[text]\n- *Ouvert le mercredi*: ouvert_le_mercredi[text]\n- *Ouvert le jeudi*: ouvert_le_jeudi[text]\n- *Ouvert le vendredi*: ouvert_le_vendredi[text]\n- *Ouvert le samedi*: ouvert_le_samedi[text]\n- *Ouvert le dimanche*: ouvert_le_dimanche[text]\n- *Rendez-vous*: rendez_vous[text]\n- *GUICHET VENTE VOYAGES*: guichet_vente_voyages[text]\n- *BLS\n(borne libre service)*: bls_borne_libre_service[text]\n- *lu*: lu[double]\n- *ma*: ma[double]\n- *me*: me[double]\n- *je*: je[double]\n- *ve*: ve[double]\n- *LU - VE*: lu_ve[double]\n- *Ouvert lundi - vendredi*: ouvert_lundi_vendredi[text]\n- *Particularit\u00e9s*: particularites[text]\n- *Particularit\u00e9s EN*: particularites_en[text]\n- *Particularit\u00e9s ES*: particularites_es[text]\n- *Particularit\u00e9s DE*: particularites_de[text]\n- *Particularit\u00e9s IT*: particularites_it[text]\n- *Particularit\u00e9s NL*: particularites_nl[text]\n- *Dates d'ouverture\nsi pdv saisonnier*: dates_d_ouverture_si_pdv_saisonnier[text]\n- *Dates d'ouverture si pdv saisonnier EN*: dates_d_ouverture_si_pdv_saisonnier_en[text]\n- *Dates d'ouverture si pdv saisonnier ES*: dates_d_ouverture_si_pdv_saisonnier_es[text]\n- *Dates d'ouverture si pdv saisonnier DE*: dates_d_ouverture_si_pdv_saisonnier_de[text]\n- *Dates d'ouverture si pdv saisonnier IT*: dates_d_ouverture_si_pdv_saisonnier_it[text]\n- *Dates d'ouverture si pdv saisonnier NL*: dates_d_ouverture_si_pdv_saisonnier_nl[text]\n- *Si travaux, \ndates de fermeture*: si_travaux_dates_de_fermeture[text]\n- *Si travaux, dates de fermeture EN*: si_travaux_dates_de_fermeture_en[text]\n- *Si travaux, dates de fermeture ES*: si_travaux_dates_de_fermeture_es[text]\n- *Si travaux, dates de fermeture DE*: si_travaux_dates_de_fermeture_de[text]\n- *Si travaux, dates de fermeture IT*: si_travaux_dates_de_fermeture_it[text]\n- *Si travaux, dates de fermeture NL*: si_travaux_dates_de_fermeture_nl[text]\n- *URL profonde service rendez-vous *: url_profonde_service_rendez_vous[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "6f8bc3ad-7337-476a-b47b-d15345f388a5",
+      "last_modified": "2015-04-15T16:25:33",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6f8bc3ad-7337-476a-b47b-d15345f388a5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:01:19.369000",
+      "title": "Export au format CSV",
+      "url": "https://ressources.data.sncf.com/explore/dataset/points-vente/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:01:19.369000",
+      "description": "- *Pays*: pays[text]\n- *Secteur*: secteur[text]\n- *Type*: type[text]\n- *Nom*: nom[text]\n- *WGS 84*: wgs_84[geo_point_2d]\n- *Adresse*: adresse[text]\n- *D\u00e9partement*: departement[text]\n- *Code postal*: code_postal[double]\n- *Ville*: ville[text]\n- *Lundi*: lundi[text]\n- *Mardi*: mardi[text]\n- *Mercredi*: mercredi[text]\n- *Jeudi*: jeudi[text]\n- *Vendredi *: vendredi[text]\n- *Samedi*: samedi[text]\n- *Dimanche et f\u00eates*: dimanche_et_fetes[text]\n- *Ouvert le lundi*: ouvert_le_lundi[text]\n- *Ouvert le mardi*: ouvert_le_mardi[text]\n- *Ouvert le mercredi*: ouvert_le_mercredi[text]\n- *Ouvert le jeudi*: ouvert_le_jeudi[text]\n- *Ouvert le vendredi*: ouvert_le_vendredi[text]\n- *Ouvert le samedi*: ouvert_le_samedi[text]\n- *Ouvert le dimanche*: ouvert_le_dimanche[text]\n- *Rendez-vous*: rendez_vous[text]\n- *GUICHET VENTE VOYAGES*: guichet_vente_voyages[text]\n- *BLS\n(borne libre service)*: bls_borne_libre_service[text]\n- *lu*: lu[double]\n- *ma*: ma[double]\n- *me*: me[double]\n- *je*: je[double]\n- *ve*: ve[double]\n- *LU - VE*: lu_ve[double]\n- *Ouvert lundi - vendredi*: ouvert_lundi_vendredi[text]\n- *Particularit\u00e9s*: particularites[text]\n- *Particularit\u00e9s EN*: particularites_en[text]\n- *Particularit\u00e9s ES*: particularites_es[text]\n- *Particularit\u00e9s DE*: particularites_de[text]\n- *Particularit\u00e9s IT*: particularites_it[text]\n- *Particularit\u00e9s NL*: particularites_nl[text]\n- *Dates d'ouverture\nsi pdv saisonnier*: dates_d_ouverture_si_pdv_saisonnier[text]\n- *Dates d'ouverture si pdv saisonnier EN*: dates_d_ouverture_si_pdv_saisonnier_en[text]\n- *Dates d'ouverture si pdv saisonnier ES*: dates_d_ouverture_si_pdv_saisonnier_es[text]\n- *Dates d'ouverture si pdv saisonnier DE*: dates_d_ouverture_si_pdv_saisonnier_de[text]\n- *Dates d'ouverture si pdv saisonnier IT*: dates_d_ouverture_si_pdv_saisonnier_it[text]\n- *Dates d'ouverture si pdv saisonnier NL*: dates_d_ouverture_si_pdv_saisonnier_nl[text]\n- *Si travaux, \ndates de fermeture*: si_travaux_dates_de_fermeture[text]\n- *Si travaux, dates de fermeture EN*: si_travaux_dates_de_fermeture_en[text]\n- *Si travaux, dates de fermeture ES*: si_travaux_dates_de_fermeture_es[text]\n- *Si travaux, dates de fermeture DE*: si_travaux_dates_de_fermeture_de[text]\n- *Si travaux, dates de fermeture IT*: si_travaux_dates_de_fermeture_it[text]\n- *Si travaux, dates de fermeture NL*: si_travaux_dates_de_fermeture_nl[text]\n- *URL profonde service rendez-vous *: url_profonde_service_rendez_vous[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "57c9ef75-be02-47a1-880d-bc50fdd7391b",
+      "last_modified": "2015-04-15T16:25:33",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/57c9ef75-be02-47a1-880d-bc50fdd7391b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:01:19.369000",
+      "title": "Export au format JSON",
+      "url": "https://ressources.data.sncf.com/explore/dataset/points-vente/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:01:19.370000",
+      "description": "- *Pays*: pays[text]\n- *Secteur*: secteur[text]\n- *Type*: type[text]\n- *Nom*: nom[text]\n- *WGS 84*: wgs_84[geo_point_2d]\n- *Adresse*: adresse[text]\n- *D\u00e9partement*: departement[text]\n- *Code postal*: code_postal[double]\n- *Ville*: ville[text]\n- *Lundi*: lundi[text]\n- *Mardi*: mardi[text]\n- *Mercredi*: mercredi[text]\n- *Jeudi*: jeudi[text]\n- *Vendredi *: vendredi[text]\n- *Samedi*: samedi[text]\n- *Dimanche et f\u00eates*: dimanche_et_fetes[text]\n- *Ouvert le lundi*: ouvert_le_lundi[text]\n- *Ouvert le mardi*: ouvert_le_mardi[text]\n- *Ouvert le mercredi*: ouvert_le_mercredi[text]\n- *Ouvert le jeudi*: ouvert_le_jeudi[text]\n- *Ouvert le vendredi*: ouvert_le_vendredi[text]\n- *Ouvert le samedi*: ouvert_le_samedi[text]\n- *Ouvert le dimanche*: ouvert_le_dimanche[text]\n- *Rendez-vous*: rendez_vous[text]\n- *GUICHET VENTE VOYAGES*: guichet_vente_voyages[text]\n- *BLS\n(borne libre service)*: bls_borne_libre_service[text]\n- *lu*: lu[double]\n- *ma*: ma[double]\n- *me*: me[double]\n- *je*: je[double]\n- *ve*: ve[double]\n- *LU - VE*: lu_ve[double]\n- *Ouvert lundi - vendredi*: ouvert_lundi_vendredi[text]\n- *Particularit\u00e9s*: particularites[text]\n- *Particularit\u00e9s EN*: particularites_en[text]\n- *Particularit\u00e9s ES*: particularites_es[text]\n- *Particularit\u00e9s DE*: particularites_de[text]\n- *Particularit\u00e9s IT*: particularites_it[text]\n- *Particularit\u00e9s NL*: particularites_nl[text]\n- *Dates d'ouverture\nsi pdv saisonnier*: dates_d_ouverture_si_pdv_saisonnier[text]\n- *Dates d'ouverture si pdv saisonnier EN*: dates_d_ouverture_si_pdv_saisonnier_en[text]\n- *Dates d'ouverture si pdv saisonnier ES*: dates_d_ouverture_si_pdv_saisonnier_es[text]\n- *Dates d'ouverture si pdv saisonnier DE*: dates_d_ouverture_si_pdv_saisonnier_de[text]\n- *Dates d'ouverture si pdv saisonnier IT*: dates_d_ouverture_si_pdv_saisonnier_it[text]\n- *Dates d'ouverture si pdv saisonnier NL*: dates_d_ouverture_si_pdv_saisonnier_nl[text]\n- *Si travaux, \ndates de fermeture*: si_travaux_dates_de_fermeture[text]\n- *Si travaux, dates de fermeture EN*: si_travaux_dates_de_fermeture_en[text]\n- *Si travaux, dates de fermeture ES*: si_travaux_dates_de_fermeture_es[text]\n- *Si travaux, dates de fermeture DE*: si_travaux_dates_de_fermeture_de[text]\n- *Si travaux, dates de fermeture IT*: si_travaux_dates_de_fermeture_it[text]\n- *Si travaux, dates de fermeture NL*: si_travaux_dates_de_fermeture_nl[text]\n- *URL profonde service rendez-vous *: url_profonde_service_rendez_vous[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "7ed1e65a-b5fe-4679-b8ab-5cd811fd4564",
+      "last_modified": "2015-04-15T16:25:33",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7ed1e65a-b5fe-4679-b8ab-5cd811fd4564",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:01:19.370000",
+      "title": "Export au format GeoJSON",
+      "url": "https://ressources.data.sncf.com/explore/dataset/points-vente/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:01:19.370000",
+      "description": "- *Pays*: pays[text]\n- *Secteur*: secteur[text]\n- *Type*: type[text]\n- *Nom*: nom[text]\n- *WGS 84*: wgs_84[geo_point_2d]\n- *Adresse*: adresse[text]\n- *D\u00e9partement*: departement[text]\n- *Code postal*: code_postal[double]\n- *Ville*: ville[text]\n- *Lundi*: lundi[text]\n- *Mardi*: mardi[text]\n- *Mercredi*: mercredi[text]\n- *Jeudi*: jeudi[text]\n- *Vendredi *: vendredi[text]\n- *Samedi*: samedi[text]\n- *Dimanche et f\u00eates*: dimanche_et_fetes[text]\n- *Ouvert le lundi*: ouvert_le_lundi[text]\n- *Ouvert le mardi*: ouvert_le_mardi[text]\n- *Ouvert le mercredi*: ouvert_le_mercredi[text]\n- *Ouvert le jeudi*: ouvert_le_jeudi[text]\n- *Ouvert le vendredi*: ouvert_le_vendredi[text]\n- *Ouvert le samedi*: ouvert_le_samedi[text]\n- *Ouvert le dimanche*: ouvert_le_dimanche[text]\n- *Rendez-vous*: rendez_vous[text]\n- *GUICHET VENTE VOYAGES*: guichet_vente_voyages[text]\n- *BLS\n(borne libre service)*: bls_borne_libre_service[text]\n- *lu*: lu[double]\n- *ma*: ma[double]\n- *me*: me[double]\n- *je*: je[double]\n- *ve*: ve[double]\n- *LU - VE*: lu_ve[double]\n- *Ouvert lundi - vendredi*: ouvert_lundi_vendredi[text]\n- *Particularit\u00e9s*: particularites[text]\n- *Particularit\u00e9s EN*: particularites_en[text]\n- *Particularit\u00e9s ES*: particularites_es[text]\n- *Particularit\u00e9s DE*: particularites_de[text]\n- *Particularit\u00e9s IT*: particularites_it[text]\n- *Particularit\u00e9s NL*: particularites_nl[text]\n- *Dates d'ouverture\nsi pdv saisonnier*: dates_d_ouverture_si_pdv_saisonnier[text]\n- *Dates d'ouverture si pdv saisonnier EN*: dates_d_ouverture_si_pdv_saisonnier_en[text]\n- *Dates d'ouverture si pdv saisonnier ES*: dates_d_ouverture_si_pdv_saisonnier_es[text]\n- *Dates d'ouverture si pdv saisonnier DE*: dates_d_ouverture_si_pdv_saisonnier_de[text]\n- *Dates d'ouverture si pdv saisonnier IT*: dates_d_ouverture_si_pdv_saisonnier_it[text]\n- *Dates d'ouverture si pdv saisonnier NL*: dates_d_ouverture_si_pdv_saisonnier_nl[text]\n- *Si travaux, \ndates de fermeture*: si_travaux_dates_de_fermeture[text]\n- *Si travaux, dates de fermeture EN*: si_travaux_dates_de_fermeture_en[text]\n- *Si travaux, dates de fermeture ES*: si_travaux_dates_de_fermeture_es[text]\n- *Si travaux, dates de fermeture DE*: si_travaux_dates_de_fermeture_de[text]\n- *Si travaux, dates de fermeture IT*: si_travaux_dates_de_fermeture_it[text]\n- *Si travaux, dates de fermeture NL*: si_travaux_dates_de_fermeture_nl[text]\n- *URL profonde service rendez-vous *: url_profonde_service_rendez_vous[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "87351851-3544-45d9-b810-2fdc385931cf",
+      "last_modified": "2015-04-15T16:25:33",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/87351851-3544-45d9-b810-2fdc385931cf",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:01:19.370000",
+      "title": "Export au format Shapefile",
+      "url": "https://ressources.data.sncf.com/explore/dataset/points-vente/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "points-de-vente-sncf",
+  "spatial": null,
+  "tags": [
+    "points-de-vente",
+    "services-voyageurs"
+  ],
+  "temporal_coverage": null,
+  "title": "Points de vente SNCF",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/points-de-vente-sncf/"
+}

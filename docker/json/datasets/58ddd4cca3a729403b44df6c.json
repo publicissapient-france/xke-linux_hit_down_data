@@ -1,0 +1,115 @@
+{
+  "badges": [],
+  "created_at": "2017-03-31T06:02:20.018000",
+  "deleted": null,
+  "description": "Plan d'occupation du sol des diff\u00e9rentes communes de la M\u00e9tropole Europ\u00e9enne de Lille \u00e9labor\u00e9s en 1975. Il s'agit de documents\u00a0locaux\u00a0d'urbanisme qui fixent les r\u00e8gles g\u00e9n\u00e9rales et les servitudes d'utilisation des sols.",
+  "extras": {
+    "harvest:domain": "opendata.lillemetropole.fr",
+    "harvest:last_update": "2017-04-06T06:00:28.850766",
+    "harvest:remote_id": "plan-doccupation-du-sol-1975",
+    "harvest:source_id": "58b68fdcc751df10ea84f9cc",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.lillemetropole.fr//explore/dataset/plan-doccupation-du-sol-1975/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "58ddd4cca3a729403b44df6c",
+  "last_modified": "2017-04-06T06:00:28.853000",
+  "last_update": "2017-04-06T06:00:28.849000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "MEL",
+    "class": "Organization",
+    "id": "58b69c62c751df4b175dd7a4",
+    "logo": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-100.png",
+    "name": "M\u00e9tropole Europ\u00e9enne de Lille ",
+    "page": "https://www.data.gouv.fr/fr/organizations/metropole-europeenne-de-lille/",
+    "slug": "metropole-europeenne-de-lille",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/metropole-europeenne-de-lille/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/plan-doccupation-du-sol-1975/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T06:00:28.849000",
+      "description": "- *Commune*: commune[text] Commune concern\u00e9e par le POS\n- *Secteur*: secteur[text] Zone (en cas de d\u00e9coupage)\n- *Nom du fichier*: nom_du_fichier[text] Nom du fichier\n- *Lien vers le fichier*: lien_vers_le_fichier[file] Lien de t\u00e9l\u00e9chargement\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-18T10:18:17.639000",
+        "check:status": 200,
+        "check:url": "https://opendata.lillemetropole.fr//explore/dataset/plan-doccupation-du-sol-1975/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c7db80b0-ff81-4ed7-a348-0cd475792af0",
+      "last_modified": "2016-12-21T10:31:59",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c7db80b0-ff81-4ed7-a348-0cd475792af0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-04-06T06:00:28.849000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/plan-doccupation-du-sol-1975/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T06:00:28.849000",
+      "description": "- *Commune*: commune[text] Commune concern\u00e9e par le POS\n- *Secteur*: secteur[text] Zone (en cas de d\u00e9coupage)\n- *Nom du fichier*: nom_du_fichier[text] Nom du fichier\n- *Lien vers le fichier*: lien_vers_le_fichier[file] Lien de t\u00e9l\u00e9chargement\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-18T10:18:16.443000",
+        "check:status": 200,
+        "check:url": "https://opendata.lillemetropole.fr//explore/dataset/plan-doccupation-du-sol-1975/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "b74a117f-da10-4ade-8d4b-a88b18437155",
+      "last_modified": "2016-12-21T10:31:59",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b74a117f-da10-4ade-8d4b-a88b18437155",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-04-06T06:00:28.849000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/plan-doccupation-du-sol-1975/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "plan-doccupation-du-sol-1975",
+  "spatial": null,
+  "tags": [
+    "amenagement-du-territoire",
+    "batiments",
+    "communes",
+    "equipements",
+    "logement",
+    "pos",
+    "urbanisme"
+  ],
+  "temporal_coverage": null,
+  "title": "Plan d'occupation du sol 1975",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/plan-doccupation-du-sol-1975/"
+}

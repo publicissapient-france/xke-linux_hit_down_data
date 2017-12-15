@@ -1,0 +1,182 @@
+{
+  "badges": [],
+  "created_at": "2016-12-07T14:18:23.469000",
+  "deleted": null,
+  "description": "Ces donn\u00e9es sont bas\u00e9es sur les donn\u00e9es collect\u00e9es dans le cadre de l'op\u00e9ration nationale de collecte de donn\u00e9es sur l\u2019insertion professionnelle des dipl\u00f4m\u00e9s du Dipl\u00f4me universitaire de technologie (DUT).\nCette enqu\u00eate a \u00e9t\u00e9 men\u00e9e en d\u00e9cembre 2015, 18 et 30 mois apr\u00e8s l\u2019obtention de leur dipl\u00f4me, aupr\u00e8s des dipl\u00f4m\u00e9s de DUT de la session 2013.\nLe taux d\u2019insertion est d\u00e9fini comme \u00e9tant le pourcentage de dipl\u00f4m\u00e9s occupant un emploi, quel qu\u2019il soit, sur l\u2019ensemble des dipl\u00f4m\u00e9s pr\u00e9sents sur le march\u00e9 du travail. Il est calcul\u00e9 sur les dipl\u00f4m\u00e9s de nationalit\u00e9 fran\u00e7aise, issus de la formation initiale, entr\u00e9s imm\u00e9diatement et durablement sur le march\u00e9 du travail apr\u00e8s l\u2019obtention de leur dipl\u00f4me en 2013.\nL\u2019information collect\u00e9e sur le salaire porte sur le salaire net, primes comprises. Les salaires affich\u00e9s correspondent aux valeurs m\u00e9dianes sur les emplois \u00e0 temps plein. A partir de ces valeurs, on estime un salaire brut annuel, sur la base d\u2019un taux forfaitaire de passage du net au brut de 1,3 (donn\u00e9e moyenne constat\u00e9e sur les salaires du secteur priv\u00e9).\nL\u2019enqu\u00eate a \u00e9t\u00e9 men\u00e9e par les universit\u00e9s dans le cadre d\u2019une charte dont les dispositions visent \u00e0 garantir la comparabilit\u00e9 des r\u00e9sultats entre les \u00e9tablissements. La coordination d\u2019ensemble et l\u2019exploitation de l\u2019enqu\u00eate sont prises en charge par le minist\u00e8re en charge de l'Enseignement sup\u00e9rieur et de la Recherche.",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": "2017-12-07T14:16:47",
+  "id": "58480c1fc751df560cc0bb7e",
+  "last_modified": "2016-12-07T14:21:14.854000",
+  "last_update": "2016-12-07T00:00:00",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 1,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "MESRI",
+    "class": "Organization",
+    "id": "534fff90a3a7292c64a77f45",
+    "logo": "https://www.data.gouv.fr/s/avatars/00/933e61180545a6a4c5afa4f6077183-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/00/933e61180545a6a4c5afa4f6077183-100.jpg",
+    "name": "Minist\u00e8re de l'Enseignement sup\u00e9rieur, de la Recherche et de l'Innovation",
+    "page": "https://www.data.gouv.fr/fr/organizations/enseignement-superieur-et-recherche/",
+    "slug": "enseignement-superieur-et-recherche",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/enseignement-superieur-et-recherche/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/insertion-professionnelle-des-diplome-e-s-de-diplome-universitaire-de-technologie-dut-en-universites-et-etablissements-assimiles-donnees-nationales-par-disciplines-detaillees/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2016-12-07T14:21:14.801000",
+      "description": "XLS",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T22:18:27.939000",
+        "check:status": 200,
+        "check:url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-insertion_professionnelle-dut_donnees_nationales/download/?format=xls&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xls",
+      "id": "af3537ec-e20c-4bce-9eb1-c818d23a1cb0",
+      "last_modified": "2016-12-07T14:21:14.801000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/af3537ec-e20c-4bce-9eb1-c818d23a1cb0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2016-12-07T00:00:00",
+      "title": "XLS",
+      "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-insertion_professionnelle-dut_donnees_nationales/download/?format=xls&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2016-12-07T14:20:34.744000",
+      "description": "Json",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T22:18:27.940000",
+        "check:status": 200,
+        "check:url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-insertion_professionnelle-dut_donnees_nationales/download/?format=json&timezone=Europe/Berlin"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "67c11d6c-af1a-4965-910e-5bb3c386761d",
+      "last_modified": "2016-12-07T14:20:34.744000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/67c11d6c-af1a-4965-910e-5bb3c386761d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2016-12-07T00:00:00",
+      "title": "Json",
+      "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-insertion_professionnelle-dut_donnees_nationales/download/?format=json&timezone=Europe/Berlin"
+    },
+    {
+      "checksum": null,
+      "created_at": "2016-12-07T14:20:04.097000",
+      "description": "CSV",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T22:18:29.373000",
+        "check:status": 200,
+        "check:url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-insertion_professionnelle-dut_donnees_nationales/download/?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c283305f-a08c-422f-9528-6f7716296792",
+      "last_modified": "2016-12-07T14:20:04.097000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c283305f-a08c-422f-9528-6f7716296792",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2016-12-07T00:00:00",
+      "title": "CSV",
+      "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-insertion_professionnelle-dut_donnees_nationales/download/?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2016-12-07T14:19:24.883000",
+      "description": "API",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T22:18:29.976000",
+        "check:status": 200,
+        "check:url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-insertion_professionnelle-dut_donnees_nationales/api/"
+      },
+      "filesize": null,
+      "filetype": "api",
+      "format": null,
+      "id": "4656b798-75dd-4406-98c5-cc0b1bba2d0c",
+      "last_modified": "2016-12-07T14:19:24.883000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4656b798-75dd-4406-98c5-cc0b1bba2d0c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2016-12-07T00:00:00",
+      "title": "API",
+      "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-insertion_professionnelle-dut_donnees_nationales/api/"
+    }
+  ],
+  "slug": "insertion-professionnelle-des-diplome-e-s-de-diplome-universitaire-de-technologie-dut-en-universites-et-etablissements-assimiles-donnees-nationales-par-disciplines-detaillees",
+  "spatial": {
+    "geom": null,
+    "granularity": "poi",
+    "zones": [
+      "country:fr"
+    ]
+  },
+  "tags": [
+    "boursier",
+    "boursiers",
+    "cadre",
+    "cdi",
+    "diplome",
+    "diplomes",
+    "donnees-sexuees",
+    "dut",
+    "emploi",
+    "etablissements",
+    "insertion",
+    "insertion-professionnelle",
+    "parite",
+    "salaire",
+    "statistiques",
+    "taux-de-chomage",
+    "universite",
+    "universites"
+  ],
+  "temporal_coverage": {
+    "end": "2015-12-31",
+    "start": "2013-06-01"
+  },
+  "title": "Insertion professionnelle des dipl\u00f4m\u00e9.e.s de Dipl\u00f4me universitaire de technologie (DUT) en universit\u00e9s et \u00e9tablissements assimil\u00e9s - donn\u00e9es nationales par disciplines d\u00e9taill\u00e9es",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/insertion-professionnelle-des-diplome-e-s-de-diplome-universitaire-de-technologie-dut-en-universites-et-etablissements-assimiles-donnees-nationales-par-disciplines-detaillees/"
+}

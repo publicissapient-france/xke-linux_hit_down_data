@@ -1,0 +1,130 @@
+{
+  "badges": [],
+  "created_at": "2015-03-04T14:36:41.556000",
+  "deleted": null,
+  "description": "Localisation des bacs de collecte pour les piles et petites batteries usag\u00e9es, dans les b\u00e2timents municipaux.\r\n",
+  "extras": {},
+  "frequency": "punctual",
+  "frequency_date": null,
+  "id": "54f70a69c751df7e92882844",
+  "last_modified": "2016-01-13T09:34:00.731000",
+  "last_update": "2015-03-04T14:48:21.234000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 13
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "53ba4599a3a729219b7beaca",
+    "logo": "https://www.data.gouv.fr/s/avatars/71/d80c263317463ca8050811b5b22be6-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/71/d80c263317463ca8050811b5b22be6-100.png",
+    "name": "Ville de Saint-Malo",
+    "page": "https://www.data.gouv.fr/fr/organizations/ville-de-saint-malo/",
+    "slug": "ville-de-saint-malo",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ville-de-saint-malo/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/collecteurs-de-piles-et-batteries-usagees/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "c21b4aacd462b36e97fd09d197d6f781992bca93"
+      },
+      "created_at": "2015-03-04T14:48:21.234000",
+      "description": "Fichiers SHP (projection Lambert-93)",
+      "extras": {},
+      "filesize": 2365,
+      "filetype": "file",
+      "format": "zip",
+      "id": "b7252796-e028-4146-aa80-8d847d45066d",
+      "last_modified": "2015-03-04T14:48:21.234000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b7252796-e028-4146-aa80-8d847d45066d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 7
+      },
+      "mime": "application/zip",
+      "published": "2015-03-04T14:48:21.234000",
+      "title": "35288-STMALO-COLLECTEURS PILES.zip",
+      "url": "https://www.data.gouv.fr/s/resources/collecteurs-de-piles-et-batteries-usagees/20150304-144727/35288-STMALO-COLLECTEURS_PILES.zip"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "f1c395b80630203b62a0643f5841a9049eccdda3"
+      },
+      "created_at": "2015-03-04T14:40:09.212000",
+      "description": "Fichier KML",
+      "extras": {},
+      "filesize": 2811,
+      "filetype": "file",
+      "format": "kml",
+      "id": "556dbe9c-0a98-4ac9-b6d1-68b59707bb51",
+      "last_modified": "2015-03-04T14:40:09.212000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/556dbe9c-0a98-4ac9-b6d1-68b59707bb51",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.google-earth.kml+xml",
+      "published": "2015-03-04T14:40:09.212000",
+      "title": "35288-STMALO-COLLECTEURS-PILES.kml",
+      "url": "https://www.data.gouv.fr/s/resources/collecteurs-de-piles-et-batteries-usagees/20150304-143958/35288-STMALO-COLLECTEURS-PILES.kml"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "9a3d8bf3e477e63f4d0e60a8dab75015437dd7c7"
+      },
+      "created_at": "2015-03-04T14:38:16.832000",
+      "description": "Fichier CSV. Les colonnes X_WGS84 et Y_WGS84 indiquent les coordonn\u00e9es GPS",
+      "extras": {},
+      "filesize": 848,
+      "filetype": "file",
+      "format": "csv",
+      "id": "9f29008b-2b60-443f-a48b-225a2bccde9c",
+      "last_modified": "2015-03-04T14:38:16.832000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9f29008b-2b60-443f-a48b-225a2bccde9c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 2
+      },
+      "mime": "text/csv",
+      "published": "2015-03-04T14:38:16.832000",
+      "title": "35288-STMALO-COLLECTEURS-PILES.csv",
+      "url": "https://www.data.gouv.fr/s/resources/collecteurs-de-piles-et-batteries-usagees/20150304-143704/35288-STMALO-COLLECTEURS-PILES.csv"
+    }
+  ],
+  "slug": "collecteurs-de-piles-et-batteries-usagees",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:commune",
+    "zones": [
+      "fr:commune:35288@1942-01-01"
+    ]
+  },
+  "tags": [
+    "collecte",
+    "dechets",
+    "environnement"
+  ],
+  "temporal_coverage": null,
+  "title": "Collecteurs de piles et batteries usag\u00e9es",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/collecteurs-de-piles-et-batteries-usagees/"
+}

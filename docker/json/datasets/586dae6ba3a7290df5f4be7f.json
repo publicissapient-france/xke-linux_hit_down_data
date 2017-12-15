@@ -1,0 +1,150 @@
+{
+  "badges": [],
+  "created_at": "2017-01-05T03:24:43.079000",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es pr\u00e9sente les structures de recherche publiques actives r\u00e9f\u00e9renc\u00e9es dans le r\u00e9pertoire national des structures de recherche (RNSR).",
+  "extras": {
+    "harvest:domain": "data.enseignementsup-recherche.gouv.fr",
+    "harvest:last_update": "2017-11-27T04:00:07.627696",
+    "harvest:remote_id": "fr-esr-structures-recherche-publiques-actives",
+    "harvest:source_id": "586961d688ee3816ad3f4e5d",
+    "ods:has_records": true,
+    "ods:url": "https://data.enseignementsup-recherche.gouv.fr//explore/dataset/fr-esr-structures-recherche-publiques-actives/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "586dae6ba3a7290df5f4be7f",
+  "last_modified": "2017-11-27T04:00:07.630000",
+  "last_update": "2017-11-27T04:00:07.627000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "MESRI",
+    "class": "Organization",
+    "id": "534fff90a3a7292c64a77f45",
+    "logo": "https://www.data.gouv.fr/s/avatars/00/933e61180545a6a4c5afa4f6077183-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/00/933e61180545a6a4c5afa4f6077183-100.jpg",
+    "name": "Minist\u00e8re de l'Enseignement sup\u00e9rieur, de la Recherche et de l'Innovation",
+    "page": "https://www.data.gouv.fr/fr/organizations/enseignement-superieur-et-recherche/",
+    "slug": "enseignement-superieur-et-recherche",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/enseignement-superieur-et-recherche/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/structures-de-recherche-publiques-actives-1/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:00:07.625000",
+      "description": "- *Num\u00e9ro national de structure*: numero_national_de_structure[text]\n- *Libell\u00e9*: libelle[text]\n- *Sigle*: sigle[text]\n- *Ann\u00e9e de cr\u00e9ation*: annee_de_creation[text]\n- *Label num\u00e9ro*: label_numero[text]\n- *Tutelles*: tutelles[text]\n- *Sigles des tutelles*: sigles_des_tutelles[text]\n- *SIRET des tutelles*: siret_des_tutelles[text]\n- *UAI des tutelles*: uai_des_tutelles[text]\n- *Code de type de tutelle*: code_de_type_de_tutelle[text]\n- *Type de tutelle*: type_de_tutelle[text]\n- *URL de tutelle*: url_de_tutelle[text]\n- *Code de nature de tutelle*: code_de_nature_de_tutelle[text]\n- *Nature de tutelle*: nature_de_tutelle[text]\n- *Code de nature de structure*: code_de_nature_de_structure[text]\n- *Nature de structure*: nature_de_structure[text]\n- *Code de type de structure*: code_de_type_de_structure[text]\n- *Type de structure*: type_de_structure[text]\n- *Code de niveau de structure*: code_de_niveau_de_structure[text]\n- *Niveau de structure*: niveau_de_structure[text]\n- *Code domaine scientifique*: code_domaine_scientifique[text]\n- *Domaine scientifique*: domaine_scientifique[text]\n- *Code panel ERC*: code_panel_erc[text]\n- *Panel ERC*: panel_erc[text]\n- *Code th\u00e8me de recherche*: code_theme_de_recherche[text]\n- *Th\u00e8me de recherche*: theme_de_recherche[text]\n- *Adresse*: adresse[text]\n- *Code postal*: code_postal[text]\n- *Code commune*: code_commune[text]\n- *Commune*: commune[text]\n- *Code d'unit\u00e9 urbaine*: code_d_unite_urbaine[text]\n- *Unit\u00e9 urbaine*: unite_urbaine[text]\n- *Code du d\u00e9partement*: code_du_departement[text]\n- *D\u00e9partement*: departement[text]\n- *Code de la r\u00e9gion*: code_de_la_region[text]\n- *R\u00e9gion*: region[text]\n- *Code du pays*: code_du_pays[text]\n- *Pays*: pays[text]\n- *G\u00e9olocalisation*: geolocalisation[geo_point_2d]\n- *Site web*: site_web[text]\n- *Type de site*: type_de_site[text]\n- *Wikidata*: wikidata[text]\n- *scanR*: scanr[text]\n- *Lien historique annuel*: lien_historique_annuel[text]\n- *Fiche RNSR*: fiche_rnsr[text]\n- *Wikipedia*: wikipedia[text]\n- *Num\u00e9ro de structure parent*: numero_de_structure_parent[text]\n- *Num\u00e9ro de structure enfant*: numero_de_structure_enfant[text]\n- *Num\u00e9ro de structure - historique*: numero_de_structure_historique[text]\n- *Ann\u00e9e d'effet - historique*: annee_d_effet_historique[text]\n- *Code de type de succession*: code_de_type_de_succession[text]\n- *Type de succession*: type_de_succession[text]\n- *Derni\u00e8re \u00e9valuation du HCERES*: derniere_evaluation_du_hceres[text]\n- *Rapport d'\u00e9valuation HCERES*: rapport_d_evaluation_hceres[text]\n- *Universit\u00e9 du Droit*: universite_du_droit[text]\n- *Pr\u00e9nom du responsable*: prenom_du_responsable[text]\n- *Nom du responsable*: nom_du_responsable[text]\n- *Titre du responsable*: titre_du_responsable[text]\n- *Email du responsable*: email_du_responsable[text]\n- *\u00c9cole doctorale*: ecole_doctorale[text]\n- *Num\u00e9ro d'\u00e9cole doctorale*: numero_d_ecole_doctorale[text]\n- *Sigle de l'\u00e9cole doctorale*: sigle_de_l_ecole_doctorale[text]\n- *URL d'\u00e9cole doctorale*: url_d_ecole_doctorale[text]\n- *Code UAI COMUE*: code_uai_comue[text]\n- *Code SIRET COMUE*: code_siret_comue[text]\n- *COMUE*: comue[text]\n- *Sigle COMUE*: sigle_comue[text]\n- *URL COMUE*: url_comue[text]\n- *Institut Carnot*: institut_carnot[text]\n- *Sigle de l'institut Carnot*: sigle_de_l_institut_carnot[text]\n- *URL Institut Carnot*: url_institut_carnot[text]\n- *SIREN des entreprises essaim\u00e9es - iLab*: siren_des_entreprises_essaimees_ilab[text]\n- *Entreprise essaim\u00e9e - Lien open data*: entreprise_essaimee_lien_open_data[text]\n- *Code badge scanR*: code_badge_scanr[text]\n- *Badge scanR*: badge_scanr[text]\n- *Code de la r\u00e9gion (avant 2016)*: code_de_la_region_avant_2016[text]\n- *R\u00e9gion (avant 2016)*: region_avant_2016[text]\n- *Langue du libell\u00e9*: langue_du_libelle[text]\n- *Libell\u00e9s alternatifs*: libelles_alternatifs[text]\n- *Sigles alternatifs*: sigles_alternatifs[text]\n- *Langue des libell\u00e9s alternatifs*: langue_des_libelles_alternatifs[text]\n- *Site web alternatif*: site_web_alternatif[text]\n- *Type de site web alternatif*: type_de_site_web_alternatif[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "0d715a66-40dd-4be1-a1e4-1c7636c0aff0",
+      "last_modified": "2017-04-04T15:48:13",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0d715a66-40dd-4be1-a1e4-1c7636c0aff0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T04:00:07.625000",
+      "title": "Export au format CSV",
+      "url": "https://data.enseignementsup-recherche.gouv.fr//explore/dataset/fr-esr-structures-recherche-publiques-actives/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:00:07.625000",
+      "description": "- *Num\u00e9ro national de structure*: numero_national_de_structure[text]\n- *Libell\u00e9*: libelle[text]\n- *Sigle*: sigle[text]\n- *Ann\u00e9e de cr\u00e9ation*: annee_de_creation[text]\n- *Label num\u00e9ro*: label_numero[text]\n- *Tutelles*: tutelles[text]\n- *Sigles des tutelles*: sigles_des_tutelles[text]\n- *SIRET des tutelles*: siret_des_tutelles[text]\n- *UAI des tutelles*: uai_des_tutelles[text]\n- *Code de type de tutelle*: code_de_type_de_tutelle[text]\n- *Type de tutelle*: type_de_tutelle[text]\n- *URL de tutelle*: url_de_tutelle[text]\n- *Code de nature de tutelle*: code_de_nature_de_tutelle[text]\n- *Nature de tutelle*: nature_de_tutelle[text]\n- *Code de nature de structure*: code_de_nature_de_structure[text]\n- *Nature de structure*: nature_de_structure[text]\n- *Code de type de structure*: code_de_type_de_structure[text]\n- *Type de structure*: type_de_structure[text]\n- *Code de niveau de structure*: code_de_niveau_de_structure[text]\n- *Niveau de structure*: niveau_de_structure[text]\n- *Code domaine scientifique*: code_domaine_scientifique[text]\n- *Domaine scientifique*: domaine_scientifique[text]\n- *Code panel ERC*: code_panel_erc[text]\n- *Panel ERC*: panel_erc[text]\n- *Code th\u00e8me de recherche*: code_theme_de_recherche[text]\n- *Th\u00e8me de recherche*: theme_de_recherche[text]\n- *Adresse*: adresse[text]\n- *Code postal*: code_postal[text]\n- *Code commune*: code_commune[text]\n- *Commune*: commune[text]\n- *Code d'unit\u00e9 urbaine*: code_d_unite_urbaine[text]\n- *Unit\u00e9 urbaine*: unite_urbaine[text]\n- *Code du d\u00e9partement*: code_du_departement[text]\n- *D\u00e9partement*: departement[text]\n- *Code de la r\u00e9gion*: code_de_la_region[text]\n- *R\u00e9gion*: region[text]\n- *Code du pays*: code_du_pays[text]\n- *Pays*: pays[text]\n- *G\u00e9olocalisation*: geolocalisation[geo_point_2d]\n- *Site web*: site_web[text]\n- *Type de site*: type_de_site[text]\n- *Wikidata*: wikidata[text]\n- *scanR*: scanr[text]\n- *Lien historique annuel*: lien_historique_annuel[text]\n- *Fiche RNSR*: fiche_rnsr[text]\n- *Wikipedia*: wikipedia[text]\n- *Num\u00e9ro de structure parent*: numero_de_structure_parent[text]\n- *Num\u00e9ro de structure enfant*: numero_de_structure_enfant[text]\n- *Num\u00e9ro de structure - historique*: numero_de_structure_historique[text]\n- *Ann\u00e9e d'effet - historique*: annee_d_effet_historique[text]\n- *Code de type de succession*: code_de_type_de_succession[text]\n- *Type de succession*: type_de_succession[text]\n- *Derni\u00e8re \u00e9valuation du HCERES*: derniere_evaluation_du_hceres[text]\n- *Rapport d'\u00e9valuation HCERES*: rapport_d_evaluation_hceres[text]\n- *Universit\u00e9 du Droit*: universite_du_droit[text]\n- *Pr\u00e9nom du responsable*: prenom_du_responsable[text]\n- *Nom du responsable*: nom_du_responsable[text]\n- *Titre du responsable*: titre_du_responsable[text]\n- *Email du responsable*: email_du_responsable[text]\n- *\u00c9cole doctorale*: ecole_doctorale[text]\n- *Num\u00e9ro d'\u00e9cole doctorale*: numero_d_ecole_doctorale[text]\n- *Sigle de l'\u00e9cole doctorale*: sigle_de_l_ecole_doctorale[text]\n- *URL d'\u00e9cole doctorale*: url_d_ecole_doctorale[text]\n- *Code UAI COMUE*: code_uai_comue[text]\n- *Code SIRET COMUE*: code_siret_comue[text]\n- *COMUE*: comue[text]\n- *Sigle COMUE*: sigle_comue[text]\n- *URL COMUE*: url_comue[text]\n- *Institut Carnot*: institut_carnot[text]\n- *Sigle de l'institut Carnot*: sigle_de_l_institut_carnot[text]\n- *URL Institut Carnot*: url_institut_carnot[text]\n- *SIREN des entreprises essaim\u00e9es - iLab*: siren_des_entreprises_essaimees_ilab[text]\n- *Entreprise essaim\u00e9e - Lien open data*: entreprise_essaimee_lien_open_data[text]\n- *Code badge scanR*: code_badge_scanr[text]\n- *Badge scanR*: badge_scanr[text]\n- *Code de la r\u00e9gion (avant 2016)*: code_de_la_region_avant_2016[text]\n- *R\u00e9gion (avant 2016)*: region_avant_2016[text]\n- *Langue du libell\u00e9*: langue_du_libelle[text]\n- *Libell\u00e9s alternatifs*: libelles_alternatifs[text]\n- *Sigles alternatifs*: sigles_alternatifs[text]\n- *Langue des libell\u00e9s alternatifs*: langue_des_libelles_alternatifs[text]\n- *Site web alternatif*: site_web_alternatif[text]\n- *Type de site web alternatif*: type_de_site_web_alternatif[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "bf7d69f8-17cc-4fdb-810e-d4aaecc2320e",
+      "last_modified": "2017-04-04T15:48:13",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/bf7d69f8-17cc-4fdb-810e-d4aaecc2320e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T04:00:07.625000",
+      "title": "Export au format JSON",
+      "url": "https://data.enseignementsup-recherche.gouv.fr//explore/dataset/fr-esr-structures-recherche-publiques-actives/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:00:07.626000",
+      "description": "- *Num\u00e9ro national de structure*: numero_national_de_structure[text]\n- *Libell\u00e9*: libelle[text]\n- *Sigle*: sigle[text]\n- *Ann\u00e9e de cr\u00e9ation*: annee_de_creation[text]\n- *Label num\u00e9ro*: label_numero[text]\n- *Tutelles*: tutelles[text]\n- *Sigles des tutelles*: sigles_des_tutelles[text]\n- *SIRET des tutelles*: siret_des_tutelles[text]\n- *UAI des tutelles*: uai_des_tutelles[text]\n- *Code de type de tutelle*: code_de_type_de_tutelle[text]\n- *Type de tutelle*: type_de_tutelle[text]\n- *URL de tutelle*: url_de_tutelle[text]\n- *Code de nature de tutelle*: code_de_nature_de_tutelle[text]\n- *Nature de tutelle*: nature_de_tutelle[text]\n- *Code de nature de structure*: code_de_nature_de_structure[text]\n- *Nature de structure*: nature_de_structure[text]\n- *Code de type de structure*: code_de_type_de_structure[text]\n- *Type de structure*: type_de_structure[text]\n- *Code de niveau de structure*: code_de_niveau_de_structure[text]\n- *Niveau de structure*: niveau_de_structure[text]\n- *Code domaine scientifique*: code_domaine_scientifique[text]\n- *Domaine scientifique*: domaine_scientifique[text]\n- *Code panel ERC*: code_panel_erc[text]\n- *Panel ERC*: panel_erc[text]\n- *Code th\u00e8me de recherche*: code_theme_de_recherche[text]\n- *Th\u00e8me de recherche*: theme_de_recherche[text]\n- *Adresse*: adresse[text]\n- *Code postal*: code_postal[text]\n- *Code commune*: code_commune[text]\n- *Commune*: commune[text]\n- *Code d'unit\u00e9 urbaine*: code_d_unite_urbaine[text]\n- *Unit\u00e9 urbaine*: unite_urbaine[text]\n- *Code du d\u00e9partement*: code_du_departement[text]\n- *D\u00e9partement*: departement[text]\n- *Code de la r\u00e9gion*: code_de_la_region[text]\n- *R\u00e9gion*: region[text]\n- *Code du pays*: code_du_pays[text]\n- *Pays*: pays[text]\n- *G\u00e9olocalisation*: geolocalisation[geo_point_2d]\n- *Site web*: site_web[text]\n- *Type de site*: type_de_site[text]\n- *Wikidata*: wikidata[text]\n- *scanR*: scanr[text]\n- *Lien historique annuel*: lien_historique_annuel[text]\n- *Fiche RNSR*: fiche_rnsr[text]\n- *Wikipedia*: wikipedia[text]\n- *Num\u00e9ro de structure parent*: numero_de_structure_parent[text]\n- *Num\u00e9ro de structure enfant*: numero_de_structure_enfant[text]\n- *Num\u00e9ro de structure - historique*: numero_de_structure_historique[text]\n- *Ann\u00e9e d'effet - historique*: annee_d_effet_historique[text]\n- *Code de type de succession*: code_de_type_de_succession[text]\n- *Type de succession*: type_de_succession[text]\n- *Derni\u00e8re \u00e9valuation du HCERES*: derniere_evaluation_du_hceres[text]\n- *Rapport d'\u00e9valuation HCERES*: rapport_d_evaluation_hceres[text]\n- *Universit\u00e9 du Droit*: universite_du_droit[text]\n- *Pr\u00e9nom du responsable*: prenom_du_responsable[text]\n- *Nom du responsable*: nom_du_responsable[text]\n- *Titre du responsable*: titre_du_responsable[text]\n- *Email du responsable*: email_du_responsable[text]\n- *\u00c9cole doctorale*: ecole_doctorale[text]\n- *Num\u00e9ro d'\u00e9cole doctorale*: numero_d_ecole_doctorale[text]\n- *Sigle de l'\u00e9cole doctorale*: sigle_de_l_ecole_doctorale[text]\n- *URL d'\u00e9cole doctorale*: url_d_ecole_doctorale[text]\n- *Code UAI COMUE*: code_uai_comue[text]\n- *Code SIRET COMUE*: code_siret_comue[text]\n- *COMUE*: comue[text]\n- *Sigle COMUE*: sigle_comue[text]\n- *URL COMUE*: url_comue[text]\n- *Institut Carnot*: institut_carnot[text]\n- *Sigle de l'institut Carnot*: sigle_de_l_institut_carnot[text]\n- *URL Institut Carnot*: url_institut_carnot[text]\n- *SIREN des entreprises essaim\u00e9es - iLab*: siren_des_entreprises_essaimees_ilab[text]\n- *Entreprise essaim\u00e9e - Lien open data*: entreprise_essaimee_lien_open_data[text]\n- *Code badge scanR*: code_badge_scanr[text]\n- *Badge scanR*: badge_scanr[text]\n- *Code de la r\u00e9gion (avant 2016)*: code_de_la_region_avant_2016[text]\n- *R\u00e9gion (avant 2016)*: region_avant_2016[text]\n- *Langue du libell\u00e9*: langue_du_libelle[text]\n- *Libell\u00e9s alternatifs*: libelles_alternatifs[text]\n- *Sigles alternatifs*: sigles_alternatifs[text]\n- *Langue des libell\u00e9s alternatifs*: langue_des_libelles_alternatifs[text]\n- *Site web alternatif*: site_web_alternatif[text]\n- *Type de site web alternatif*: type_de_site_web_alternatif[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "bb68bb80-7fee-499c-9850-c5dd0018a96b",
+      "last_modified": "2017-04-04T15:48:13",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/bb68bb80-7fee-499c-9850-c5dd0018a96b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T04:00:07.626000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.enseignementsup-recherche.gouv.fr//explore/dataset/fr-esr-structures-recherche-publiques-actives/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:00:07.627000",
+      "description": "- *Num\u00e9ro national de structure*: numero_national_de_structure[text]\n- *Libell\u00e9*: libelle[text]\n- *Sigle*: sigle[text]\n- *Ann\u00e9e de cr\u00e9ation*: annee_de_creation[text]\n- *Label num\u00e9ro*: label_numero[text]\n- *Tutelles*: tutelles[text]\n- *Sigles des tutelles*: sigles_des_tutelles[text]\n- *SIRET des tutelles*: siret_des_tutelles[text]\n- *UAI des tutelles*: uai_des_tutelles[text]\n- *Code de type de tutelle*: code_de_type_de_tutelle[text]\n- *Type de tutelle*: type_de_tutelle[text]\n- *URL de tutelle*: url_de_tutelle[text]\n- *Code de nature de tutelle*: code_de_nature_de_tutelle[text]\n- *Nature de tutelle*: nature_de_tutelle[text]\n- *Code de nature de structure*: code_de_nature_de_structure[text]\n- *Nature de structure*: nature_de_structure[text]\n- *Code de type de structure*: code_de_type_de_structure[text]\n- *Type de structure*: type_de_structure[text]\n- *Code de niveau de structure*: code_de_niveau_de_structure[text]\n- *Niveau de structure*: niveau_de_structure[text]\n- *Code domaine scientifique*: code_domaine_scientifique[text]\n- *Domaine scientifique*: domaine_scientifique[text]\n- *Code panel ERC*: code_panel_erc[text]\n- *Panel ERC*: panel_erc[text]\n- *Code th\u00e8me de recherche*: code_theme_de_recherche[text]\n- *Th\u00e8me de recherche*: theme_de_recherche[text]\n- *Adresse*: adresse[text]\n- *Code postal*: code_postal[text]\n- *Code commune*: code_commune[text]\n- *Commune*: commune[text]\n- *Code d'unit\u00e9 urbaine*: code_d_unite_urbaine[text]\n- *Unit\u00e9 urbaine*: unite_urbaine[text]\n- *Code du d\u00e9partement*: code_du_departement[text]\n- *D\u00e9partement*: departement[text]\n- *Code de la r\u00e9gion*: code_de_la_region[text]\n- *R\u00e9gion*: region[text]\n- *Code du pays*: code_du_pays[text]\n- *Pays*: pays[text]\n- *G\u00e9olocalisation*: geolocalisation[geo_point_2d]\n- *Site web*: site_web[text]\n- *Type de site*: type_de_site[text]\n- *Wikidata*: wikidata[text]\n- *scanR*: scanr[text]\n- *Lien historique annuel*: lien_historique_annuel[text]\n- *Fiche RNSR*: fiche_rnsr[text]\n- *Wikipedia*: wikipedia[text]\n- *Num\u00e9ro de structure parent*: numero_de_structure_parent[text]\n- *Num\u00e9ro de structure enfant*: numero_de_structure_enfant[text]\n- *Num\u00e9ro de structure - historique*: numero_de_structure_historique[text]\n- *Ann\u00e9e d'effet - historique*: annee_d_effet_historique[text]\n- *Code de type de succession*: code_de_type_de_succession[text]\n- *Type de succession*: type_de_succession[text]\n- *Derni\u00e8re \u00e9valuation du HCERES*: derniere_evaluation_du_hceres[text]\n- *Rapport d'\u00e9valuation HCERES*: rapport_d_evaluation_hceres[text]\n- *Universit\u00e9 du Droit*: universite_du_droit[text]\n- *Pr\u00e9nom du responsable*: prenom_du_responsable[text]\n- *Nom du responsable*: nom_du_responsable[text]\n- *Titre du responsable*: titre_du_responsable[text]\n- *Email du responsable*: email_du_responsable[text]\n- *\u00c9cole doctorale*: ecole_doctorale[text]\n- *Num\u00e9ro d'\u00e9cole doctorale*: numero_d_ecole_doctorale[text]\n- *Sigle de l'\u00e9cole doctorale*: sigle_de_l_ecole_doctorale[text]\n- *URL d'\u00e9cole doctorale*: url_d_ecole_doctorale[text]\n- *Code UAI COMUE*: code_uai_comue[text]\n- *Code SIRET COMUE*: code_siret_comue[text]\n- *COMUE*: comue[text]\n- *Sigle COMUE*: sigle_comue[text]\n- *URL COMUE*: url_comue[text]\n- *Institut Carnot*: institut_carnot[text]\n- *Sigle de l'institut Carnot*: sigle_de_l_institut_carnot[text]\n- *URL Institut Carnot*: url_institut_carnot[text]\n- *SIREN des entreprises essaim\u00e9es - iLab*: siren_des_entreprises_essaimees_ilab[text]\n- *Entreprise essaim\u00e9e - Lien open data*: entreprise_essaimee_lien_open_data[text]\n- *Code badge scanR*: code_badge_scanr[text]\n- *Badge scanR*: badge_scanr[text]\n- *Code de la r\u00e9gion (avant 2016)*: code_de_la_region_avant_2016[text]\n- *R\u00e9gion (avant 2016)*: region_avant_2016[text]\n- *Langue du libell\u00e9*: langue_du_libelle[text]\n- *Libell\u00e9s alternatifs*: libelles_alternatifs[text]\n- *Sigles alternatifs*: sigles_alternatifs[text]\n- *Langue des libell\u00e9s alternatifs*: langue_des_libelles_alternatifs[text]\n- *Site web alternatif*: site_web_alternatif[text]\n- *Type de site web alternatif*: type_de_site_web_alternatif[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "74d4b75e-ddc4-498c-8463-ea806e4487f5",
+      "last_modified": "2017-04-04T15:48:13",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/74d4b75e-ddc4-498c-8463-ea806e4487f5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T04:00:07.627000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.enseignementsup-recherche.gouv.fr//explore/dataset/fr-esr-structures-recherche-publiques-actives/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "structures-de-recherche-publiques-actives-1",
+  "spatial": null,
+  "tags": [
+    "education",
+    "enseignement",
+    "formation",
+    "r-d",
+    "recherche",
+    "recherche-publique",
+    "rnsr",
+    "scanr"
+  ],
+  "temporal_coverage": null,
+  "title": "Structures de recherche publiques actives",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/structures-de-recherche-publiques-actives-1/"
+}

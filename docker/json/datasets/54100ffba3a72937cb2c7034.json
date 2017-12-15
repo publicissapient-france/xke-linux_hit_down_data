@@ -1,0 +1,108 @@
+{
+  "badges": [],
+  "created_at": "2014-09-09T16:00:09.292000",
+  "deleted": null,
+  "description": "R\u00e9mun\u00e9ration mensuelle moyenne\u00a0brute des agents SNCF\u00a0depuis 2010.\n\nLa r\u00e9mun\u00e9ration mensuelle moyenne brute (en euros)\u00a0est calcul\u00e9e \u00e0 partir des r\u00e9mun\u00e9rations brutes imposables de chacun des mois (y compris prime de fin d\u2019ann\u00e9e). Elle est ramen\u00e9e sur douze mois.\u00a0Pour chaque mois, seule est prise en compte la r\u00e9mun\u00e9ration des agents \u00e0 temps complet pr\u00e9sents tout le mois.\n\n  * \u201cAgents au statut\u201d : \u00e9galement d\u00e9sign\u00e9 par \u201ccadre permanent\u201d \u00e0 l\u2019int\u00e9rieur de SNCF, cette notion d\u00e9signe une position statutaire, quelque soit le coll\u00e8ge de l\u2019agent, conforme aux dispositions de la directive interne RH 001 (\u201cStatut des relations collectives entre la SNCF et son personnel\u201d).\n  * \"Agents contractuels\" : d\u00e9signe un agent qui n\u2019est pas au statut, mais et qui est li\u00e9 \u00e0 SNCF par un contrat de travail de droit commun.\n\n\n\nCes donn\u00e9es sont issues du Bilan social publi\u00e9 chaque ann\u00e9e par la Direction coh\u00e9sion & ressources humaines de SNCF. Le bilan social pr\u00e9sente les donn\u00e9es relatives \u00e0 l\u2019ensemble du personnel de l\u2019entreprise \u00e0 l\u2019exception des m\u00e9decins qui interviennent dans le cadre de la m\u00e9decine du travail et de la m\u00e9decine de soins des agents en activit\u00e9, des stagiaires, des concierges et du personnel contractuel sous contrait aid\u00e9.\n\nVous avez des questions ou des remarques sur ces donn\u00e9es ? Rendez-vous sur le [forum](http://data.sncf.com/forum/vos-retours-sur-les-donnees) de data.sncf.com.",
+  "extras": {
+    "datagouv_ckan_id": "c7d7769d-517a-4261-8194-f740212e91f7",
+    "datagouv_ckan_last_sync": "2014-09-16T09:40:02.483000",
+    "harvest:domain": "ressources.data.sncf.com",
+    "harvest:last_update": "2017-11-27T05:02:18.469715",
+    "harvest:remote_id": "montant-remunerations-agents",
+    "harvest:source_id": "563dd01f88ee386a21e72046",
+    "ods:has_records": true,
+    "ods:url": "https://ressources.data.sncf.com/explore/dataset/montant-remunerations-agents/",
+    "remote_url": "http://ressources.data.sncf.com/explore/dataset/montant-remunerations-agents/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "54100ffba3a72937cb2c7034",
+  "last_modified": "2017-11-27T05:02:18.474000",
+  "last_update": "2017-11-27T05:02:18.468000",
+  "license": "other-open",
+  "metrics": {
+    "cow_criticals": 0,
+    "cow_errors": 0,
+    "cow_score": 0.1499958562137898,
+    "cow_warnings": 3,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 154
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb0a3a7292c64a78115",
+    "logo": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-100.png",
+    "name": "SNCF",
+    "page": "https://www.data.gouv.fr/fr/organizations/sncf/",
+    "slug": "sncf",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/sncf/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/remuneration-mensuelle-moyenne-brute-des-agents-sncf-par-qualification/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:02:18.468000",
+      "description": "- * Date*: id[date]\n- *Contrat de travail*: contrat_de_travail[text]\n- *Qualification*: qualification[text]\n- *R\u00e9mun\u00e9ration moyenne*: remuneration_moyenne[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "5a53a1e5-ec62-41b5-a3e7-5950d4cff6fd",
+      "last_modified": "2015-07-03T12:04:49",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5a53a1e5-ec62-41b5-a3e7-5950d4cff6fd",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:02:18.468000",
+      "title": "Export au format CSV",
+      "url": "https://ressources.data.sncf.com/explore/dataset/montant-remunerations-agents/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:02:18.468000",
+      "description": "- * Date*: id[date]\n- *Contrat de travail*: contrat_de_travail[text]\n- *Qualification*: qualification[text]\n- *R\u00e9mun\u00e9ration moyenne*: remuneration_moyenne[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "43bde07f-af41-472a-a832-8e66253a0e6d",
+      "last_modified": "2015-07-03T12:04:49",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/43bde07f-af41-472a-a832-8e66253a0e6d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:02:18.468000",
+      "title": "Export au format JSON",
+      "url": "https://ressources.data.sncf.com/explore/dataset/montant-remunerations-agents/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "remuneration-mensuelle-moyenne-brute-des-agents-sncf-par-qualification",
+  "spatial": null,
+  "tags": [
+    "remunerations",
+    "ressources-humaines",
+    "social",
+    "social-et-ressources-humaines"
+  ],
+  "temporal_coverage": null,
+  "title": "R\u00e9mun\u00e9ration mensuelle moyenne brute des agents SNCF par qualification",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/remuneration-mensuelle-moyenne-brute-des-agents-sncf-par-qualification/"
+}

@@ -1,0 +1,107 @@
+{
+  "badges": [],
+  "created_at": "2017-01-26T11:32:32.739000",
+  "deleted": null,
+  "description": "Effectifs des agents par sexe et par tranche d'\u00e2ge dans les \u00e9coles du premier degr\u00e9 et dans les \u00e9tablissements du second degr\u00e9 public et priv\u00e9 sous tutelle du minist\u00e8re en charge de l'\u00e9ducation nationale de France m\u00e9tropolitaine, des DOM et d'Andorre.\n\nPersonnels enseignants : les titulaires sur zone de remplacement ne sont pas comptabilis\u00e9s.",
+  "extras": {
+    "harvest:domain": "data.education.gouv.fr",
+    "harvest:last_update": "2017-11-27T05:00:42.514008",
+    "harvest:remote_id": "fr-en-effectifs-des-personnels-des-ecoles-et-etablissements-du-2nd-degre",
+    "harvest:source_id": "58864fc5c751df491dae0a67",
+    "ods:has_records": true,
+    "ods:url": "https://data.education.gouv.fr/explore/dataset/fr-en-effectifs-des-personnels-des-ecoles-et-etablissements-du-2nd-degre/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5889d040a3a72974cbf0d5b4",
+  "last_modified": "2017-11-27T05:00:42.521000",
+  "last_update": "2017-11-27T05:00:42.513000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff8fa3a7292c64a77f22",
+    "logo": "https://www.data.gouv.fr/s/avatars/36/a225fd237c4159b092611b12973905-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/36/a225fd237c4159b092611b12973905-100.png",
+    "name": "Education Nationale",
+    "page": "https://www.data.gouv.fr/fr/organizations/education-nationale/",
+    "slug": "education-nationale",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/education-nationale/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/effectifs-des-personnels-des-ecoles-du-1er-degre-et-des-etablissements-du-2nd-degre/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:00:42.513000",
+      "description": "- *Ann\u00e9e scolaire*: annee_scolaire[text] ann\u00e9e scolaire\n- *Num\u00e9ro d'\u00e9tablissement*: rne[text] identifiant de l'\u00e9tablissement\n- *Type d'\u00e9tablissement*: typeetablissement[text] type d'\u00e9tablissement\n- *Secteur d'enseignement*: secteur[text] secteur public/priv\u00e9\n- *Acad\u00e9mie*: academie[text] nom de l'acad\u00e9mie\n- *Groupe de personnels*: lbl_groupe[text] regroupement des agents par type de poste\n- *Titulaire*: lbl_titulaire[text] Indique si les agents d\u00e9compt\u00e9s sont contractuels ou titulaires\n- *Sexe*: sexe[text] sexe\n- *Borne inf\u00e9rieure de la tranche d'\u00e2ge*: age_min[int] limite inf\u00e9rieure de la tranche d'\u00e2ge\n- *Borne sup\u00e9rieure de la tranche d'\u00e2ge*: age_max[int] limite sup\u00e9rieure de la tranche d'\u00e2ge\n- *Nombre d'agents*: nbagt[int] nombre d'agents\n- *Code r\u00e9gion*: code_region[int] code r\u00e9gion 2016\n- *Code d\u00e9partement*: code_departement[text] code d\u00e9partement\n- *Appellation officielle*: nom_provider[text] nom de l'\u00e9tablissement\n- *Localite d'acheminement*: nom_commune[text] localit\u00e9 d'acheminement\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e6e63202-59d5-4a2d-ad4b-4fb64de71c01",
+      "last_modified": "2017-10-05T13:08:06",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e6e63202-59d5-4a2d-ad4b-4fb64de71c01",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:00:42.513000",
+      "title": "Export au format CSV",
+      "url": "https://data.education.gouv.fr/explore/dataset/fr-en-effectifs-des-personnels-des-ecoles-et-etablissements-du-2nd-degre/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:00:42.513000",
+      "description": "- *Ann\u00e9e scolaire*: annee_scolaire[text] ann\u00e9e scolaire\n- *Num\u00e9ro d'\u00e9tablissement*: rne[text] identifiant de l'\u00e9tablissement\n- *Type d'\u00e9tablissement*: typeetablissement[text] type d'\u00e9tablissement\n- *Secteur d'enseignement*: secteur[text] secteur public/priv\u00e9\n- *Acad\u00e9mie*: academie[text] nom de l'acad\u00e9mie\n- *Groupe de personnels*: lbl_groupe[text] regroupement des agents par type de poste\n- *Titulaire*: lbl_titulaire[text] Indique si les agents d\u00e9compt\u00e9s sont contractuels ou titulaires\n- *Sexe*: sexe[text] sexe\n- *Borne inf\u00e9rieure de la tranche d'\u00e2ge*: age_min[int] limite inf\u00e9rieure de la tranche d'\u00e2ge\n- *Borne sup\u00e9rieure de la tranche d'\u00e2ge*: age_max[int] limite sup\u00e9rieure de la tranche d'\u00e2ge\n- *Nombre d'agents*: nbagt[int] nombre d'agents\n- *Code r\u00e9gion*: code_region[int] code r\u00e9gion 2016\n- *Code d\u00e9partement*: code_departement[text] code d\u00e9partement\n- *Appellation officielle*: nom_provider[text] nom de l'\u00e9tablissement\n- *Localite d'acheminement*: nom_commune[text] localit\u00e9 d'acheminement\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "f754dd14-f358-4082-8d96-e414cabcbeda",
+      "last_modified": "2017-10-05T13:08:06",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f754dd14-f358-4082-8d96-e414cabcbeda",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:00:42.513000",
+      "title": "Export au format JSON",
+      "url": "https://data.education.gouv.fr/explore/dataset/fr-en-effectifs-des-personnels-des-ecoles-et-etablissements-du-2nd-degre/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "effectifs-des-personnels-des-ecoles-du-1er-degre-et-des-etablissements-du-2nd-degre",
+  "spatial": null,
+  "tags": [
+    "ecoles",
+    "effectifs",
+    "enseignants",
+    "eple",
+    "instituteurs",
+    "pe",
+    "personnels",
+    "professeurs",
+    "pyramide-age"
+  ],
+  "temporal_coverage": null,
+  "title": "Effectifs des personnels des \u00e9coles du 1er degr\u00e9 et des \u00e9tablissements du 2nd degr\u00e9",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/effectifs-des-personnels-des-ecoles-du-1er-degre-et-des-etablissements-du-2nd-degre/"
+}

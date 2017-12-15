@@ -1,0 +1,136 @@
+{
+  "badges": [],
+  "created_at": "2014-05-30T00:00:00",
+  "deleted": null,
+  "description": "Vous trouverez ici la liste des \u00e9tablissements li\u00e9s \u00e0 la petite enfance sur le territoire de la M\u00e9tropole.",
+  "extras": {
+    "ckan:name": "liste-des-equipements-lies-a-la-petite-enfance",
+    "harvest:domain": "opendata.nicecotedazur.org",
+    "harvest:last_update": "2017-09-05T15:33:19.058993",
+    "harvest:remote_id": "5deebd6c-1c85-44cf-ad4f-b6f9f1f78449",
+    "harvest:source_id": "59aea691c751df40c6e8212c"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59aea79fb595087a249169c4",
+  "last_modified": "2017-09-05T15:33:19.060000",
+  "last_update": "2017-09-05T15:33:19.058000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "59aea226c751df38f3f6834b",
+    "logo": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-100.png",
+    "name": "Nice C\u00f4te d'Azur",
+    "page": "https://www.data.gouv.fr/fr/organizations/nice-cote-dazur/",
+    "slug": "nice-cote-dazur",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nice-cote-dazur/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-equipements-lies-a-la-petite-enfance/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:19.057000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-08T00:07:37.417000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-05-30T14%3A12%3A26.943Z/etablissement-petite-enfance.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "585d521f-8f71-40e8-868d-8fbc86ea4f61",
+      "last_modified": "2014-05-30T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/585d521f-8f71-40e8-868d-8fbc86ea4f61",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-05T15:33:19.057000",
+      "title": "etablissement_petite_enfance.csv",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-05-30T14%3A12%3A26.943Z/etablissement-petite-enfance.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:19.057000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-14T19:36:29.947000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-05-30T14%3A12%3A35.117Z/etablissement-petite-enfance.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "69dfeed9-1913-421a-ab91-3a660eb11358",
+      "last_modified": "2014-05-30T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/69dfeed9-1913-421a-ab91-3a660eb11358",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.oasis.opendocument.spreadsheet",
+      "published": "2017-09-05T15:33:19.057000",
+      "title": "etablissement_petite_enfance.ods",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-05-30T14%3A12%3A35.117Z/etablissement-petite-enfance.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:19.058000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-14T19:36:29.740000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-05-30T14%3A12%3A43.679Z/etablissement-petite-enfance.xls"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xls",
+      "id": "b1f74a6b-213a-4fb2-89f6-e2ebb600885b",
+      "last_modified": "2014-05-30T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b1f74a6b-213a-4fb2-89f6-e2ebb600885b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.ms-excel",
+      "published": "2017-09-05T15:33:19.058000",
+      "title": "etablissement_petite_enfance.xls",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-05-30T14%3A12%3A43.679Z/etablissement-petite-enfance.xls"
+    }
+  ],
+  "slug": "liste-des-equipements-lies-a-la-petite-enfance",
+  "spatial": null,
+  "tags": [
+    "creche",
+    "petite-enfance",
+    "social"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des \u00e9quipements li\u00e9s \u00e0 la petite enfance",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-equipements-lies-a-la-petite-enfance/"
+}

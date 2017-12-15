@@ -1,0 +1,155 @@
+{
+  "badges": [],
+  "created_at": "2017-05-20T06:03:12.263000",
+  "deleted": null,
+  "description": "Localisation des postes de s\u00e9curit\u00e9 (caserne de pompiers, centres incendies, gendarmeries, postes de police) sur le territoire de la MEL.",
+  "extras": {
+    "harvest:domain": "opendata.lillemetropole.fr",
+    "harvest:last_update": "2017-11-27T05:28:03.177368",
+    "harvest:remote_id": "postes-securite",
+    "harvest:source_id": "58b68fdcc751df10ea84f9cc",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.lillemetropole.fr//explore/dataset/postes-securite/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "591fc000a3a7296494ca2993",
+  "last_modified": "2017-11-27T05:28:03.179000",
+  "last_update": "2017-11-27T05:28:03.176000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "MEL",
+    "class": "Organization",
+    "id": "58b69c62c751df4b175dd7a4",
+    "logo": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-100.png",
+    "name": "M\u00e9tropole Europ\u00e9enne de Lille ",
+    "page": "https://www.data.gouv.fr/fr/organizations/metropole-europeenne-de-lille/",
+    "slug": "metropole-europeenne-de-lille",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/metropole-europeenne-de-lille/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/postes-de-securite/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:28:03.176000",
+      "description": "- *commune*: commune[text]\n- *objectid*: objectid[text]\n- *url*: url[text]\n- *libelle*: libelle[text]\n- *geometry*: geometry[geo_shape]\n- *type-lpu*: type_lpu[text]\n- *code-postal*: code_postal[text]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "d0f36faa-168d-436e-9bd1-6a2908b77ab9",
+      "last_modified": "2017-05-18T15:13:29",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d0f36faa-168d-436e-9bd1-6a2908b77ab9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:28:03.176000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/postes-securite/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:28:03.176000",
+      "description": "- *commune*: commune[text]\n- *objectid*: objectid[text]\n- *url*: url[text]\n- *libelle*: libelle[text]\n- *geometry*: geometry[geo_shape]\n- *type-lpu*: type_lpu[text]\n- *code-postal*: code_postal[text]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "8e2e1fa5-800e-47cb-963f-d5212b1a0161",
+      "last_modified": "2017-05-18T15:13:29",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8e2e1fa5-800e-47cb-963f-d5212b1a0161",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:28:03.176000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/postes-securite/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:28:03.176000",
+      "description": "- *commune*: commune[text]\n- *objectid*: objectid[text]\n- *url*: url[text]\n- *libelle*: libelle[text]\n- *geometry*: geometry[geo_shape]\n- *type-lpu*: type_lpu[text]\n- *code-postal*: code_postal[text]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "cc8186df-a73d-49a5-8aee-756dfbc5ba3c",
+      "last_modified": "2017-05-18T15:13:29",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cc8186df-a73d-49a5-8aee-756dfbc5ba3c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:28:03.176000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/postes-securite/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:28:03.176000",
+      "description": "- *commune*: commune[text]\n- *objectid*: objectid[text]\n- *url*: url[text]\n- *libelle*: libelle[text]\n- *geometry*: geometry[geo_shape]\n- *type-lpu*: type_lpu[text]\n- *code-postal*: code_postal[text]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "91f888d5-6ad0-4e4a-ad94-243b23f84a1f",
+      "last_modified": "2017-05-18T15:13:29",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/91f888d5-6ad0-4e4a-ad94-243b23f84a1f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:28:03.176000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/postes-securite/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "postes-de-securite",
+  "spatial": {
+    "geom": null,
+    "granularity": "poi",
+    "zones": [
+      "fr:commune:59350@1942-01-01"
+    ]
+  },
+  "tags": [
+    "caserne",
+    "crime",
+    "douanes",
+    "gendarmerie",
+    "justice",
+    "police",
+    "pompiers",
+    "securite"
+  ],
+  "temporal_coverage": null,
+  "title": "Postes de s\u00e9curit\u00e9",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/postes-de-securite/"
+}

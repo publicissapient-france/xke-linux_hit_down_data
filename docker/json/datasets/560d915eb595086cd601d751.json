@@ -1,0 +1,298 @@
+{
+  "badges": [],
+  "created_at": "2016-06-22T00:00:00",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es d\u00e9nombre les foyers allocataires ayant un droit versable au revenu de solidarit\u00e9 (RSO), par commune, au cours du mois de d\u00e9cembre.\n\nMis en place en d\u00e9cembre 2001, le revenu de solidarit\u00e9 (RSO) est une prestation sous condition de ressources et sp\u00e9cifique aux d\u00e9partements d\u2019Outre-mer (et de Saint-Pierre-et-Miquelon), Pour y avoir droit, il faut remplir plusieurs conditions: \u00eatre b\u00e9n\u00e9ficiaire du RSA depuis plus de deux ans dans les Dom, \u00eatre \u00e2g\u00e9 d'au moins 55 ans et de moins de 65 ans, et \u00eatre sans activit\u00e9 professionnelle durant la perception de cette allocation. L\u2019ouverture de droit \u00e0 ce revenu met fin au droit au RSA. \n\nDes \u00e9l\u00e9ments plus d\u00e9taill\u00e9s sur le RSO sont disponibles sur le site caf.fr, en cliquant sur le lien suivant :\n\nhttps://www.caf.fr/aides-et-services/s-informer-sur-les-aides/solidarite-et-insertion/ \n\nDes donn\u00e9es de synth\u00e8se et d'analyse ainsi que des descriptions statistiques et cartographiques sur le RSA sont disponibles dans le cahier des donn\u00e9es sociales de la Cnaf (page 70) en cliquant sur le lien suivant :\n\nhttp://www.caf.fr/sites/default/files/cnaf/Documents/Dser/cahier_donnees_sociales/CDS_2011.pdf#page=30 \n\nLe foyer allocataire est compos\u00e9 du responsable du dossier (personne qui per\u00e7oit au moins une prestation au regard de sa situation familiale et/ou mon\u00e9taire), et l'ensemble des autres ayants droit au sens de la r\u00e8glementation en vigueur (conjoint, enfant(s) et autre(s) personne(s) \u00e0 charge).\nPlusieurs foyers allocataires peuvent cohabiter dans un m\u00eame lieu, ils constituent alors un seul m\u00e9nage au sens de la d\u00e9finition statistique Insee. C\u2019est le cas, par exemple, lorsque un couple per\u00e7oit des allocations logement et h\u00e9berge son enfant titulaire d'un minimum social des Caf (RSO, RSA, AAH).\nEn pratique, le terme \"allocataire\" est souvent utilis\u00e9 \u00e0 la place de \"foyer allocataire\".\n\n\nLe droit versable signifie que le foyer allocataire remplit toutes les conditions pour \u00eatre effectivement pay\u00e9 au titre du mois d\u2019observation. En particulier ne sont pas inclus dans ce p\u00e9rim\u00e8tre les b\u00e9n\u00e9ficiaires qui n\u2019ont pas fourni l\u2019int\u00e9gralit\u00e9 de leurs pi\u00e8ces justificatives, ou ceux dont le montant de la prestation est inf\u00e9rieur au seuil de versement. \n\nLe champ g\u00e9ographique d\u2019observation du jeu de donn\u00e9es correspond \u00e0 la commune de r\u00e9sidence du foyer allocataire telle qu\u2019elle est enregistr\u00e9e dans le fichier statistique des allocataires de  d\u00e9cembre de l\u2019ann\u00e9e de r\u00e9f\u00e9rence N) extrait en d\u00e9but d\u2019ann\u00e9e N+1 et ce quelle que soit la Caf de gestion.",
+  "extras": {
+    "ckan:name": "foyers-allocataires-percevant-le-revenu-de-solidarite-rso-par-commune-d-outre-mer",
+    "harvest:domain": "data.caf.fr",
+    "harvest:last_update": "2017-11-27T05:08:32.092363",
+    "harvest:remote_id": "d276fca5-0830-43a0-bdfc-583760fdfee2",
+    "harvest:source_id": "560d9133c751df40ee756894",
+    "harvested": "2017-10-02T09:53:54.502221",
+    "remote_url": "FILEAS Base Communale Allocataires (BCA)",
+    "source_id": "954ea88a-1b59-4a56-acae-2148a64dbe5e"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "560d915eb595086cd601d751",
+  "last_modified": "2017-11-27T05:08:32.095000",
+  "last_update": "2017-07-02T19:44:00.874000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 2
+  },
+  "organization": {
+    "acronym": "CNAF",
+    "class": "Organization",
+    "id": "5595066cc751df4582a453ba",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-07-02/a1bc08e4a4dc44a89cb29697800a83b5/new_logo-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-07-02/a1bc08e4a4dc44a89cb29697800a83b5/new_logo-100.jpg",
+    "name": "Caisse Nationale des Allocations familiales ",
+    "page": "https://www.data.gouv.fr/fr/organizations/allocations-familiales/",
+    "slug": "allocations-familiales",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/allocations-familiales/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/foyers-allocataires-percevant-le-revenu-de-solidarite-rso-par-commune-d-outre-mer/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:38.507000",
+      "description": "Lisez-moi",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T15:49:40.203000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/d276fca5-0830-43a0-bdfc-583760fdfee2/resource/71b89706-6754-4e7d-bca8-72436010a8f8/download/descriptifallocRSO.txt"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "txt",
+      "id": "71b89706-6754-4e7d-bca8-72436010a8f8",
+      "last_modified": "2015-07-27T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/71b89706-6754-4e7d-bca8-72436010a8f8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 4
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:38.507000",
+      "title": "Descriptif du fichier RSO",
+      "url": "http://data.caf.fr/dataset/d276fca5-0830-43a0-bdfc-583760fdfee2/resource/71b89706-6754-4e7d-bca8-72436010a8f8/download/descriptifallocRSO.txt"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:38.507000",
+      "description": "D\u00e9nombrement des foyers allocataires ayant un droit versable au RSO en 2009.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T15:49:41.298000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/d276fca5-0830-43a0-bdfc-583760fdfee2/resource/f3c626d9-2d47-4dbe-9e87-2f19e431c19b/download/RSOCom2009.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f3c626d9-2d47-4dbe-9e87-2f19e431c19b",
+      "last_modified": "2017-11-27T05:08:32.090000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f3c626d9-2d47-4dbe-9e87-2f19e431c19b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:38.507000",
+      "title": "RSO en 2009",
+      "url": "http://data.caf.fr/dataset/d276fca5-0830-43a0-bdfc-583760fdfee2/resource/f3c626d9-2d47-4dbe-9e87-2f19e431c19b/download/RSOCom2009.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:38.507000",
+      "description": "D\u00e9nombrement des foyers allocataires ayant un droit versable au RSO.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T15:49:41.620000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/d276fca5-0830-43a0-bdfc-583760fdfee2/resource/02d62dfb-20f0-4a47-baf5-b2f69c3d323e/download/RSOCom2010.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "02d62dfb-20f0-4a47-baf5-b2f69c3d323e",
+      "last_modified": "2017-11-27T05:08:32.090000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/02d62dfb-20f0-4a47-baf5-b2f69c3d323e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:38.507000",
+      "title": "RSO en 2010",
+      "url": "http://data.caf.fr/dataset/d276fca5-0830-43a0-bdfc-583760fdfee2/resource/02d62dfb-20f0-4a47-baf5-b2f69c3d323e/download/RSOCom2010.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:38.507000",
+      "description": "D\u00e9nombrement des foyers allocataires ayant un droit versable au RSO.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T15:49:41.701000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/d276fca5-0830-43a0-bdfc-583760fdfee2/resource/d11a2e70-c1de-4c54-b792-ac29423ac6cd/download/RSOCom2011.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "d11a2e70-c1de-4c54-b792-ac29423ac6cd",
+      "last_modified": "2017-11-27T05:08:32.090000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d11a2e70-c1de-4c54-b792-ac29423ac6cd",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:38.507000",
+      "title": "RSO en 2011",
+      "url": "http://data.caf.fr/dataset/d276fca5-0830-43a0-bdfc-583760fdfee2/resource/d11a2e70-c1de-4c54-b792-ac29423ac6cd/download/RSOCom2011.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:38.507000",
+      "description": "D\u00e9nombrement des foyers allocataires ayant un droit versable au RSO.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T15:49:41.654000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/d276fca5-0830-43a0-bdfc-583760fdfee2/resource/30797818-0bf8-49db-80c3-0c4af228f20a/download/RSOCOM2012.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "30797818-0bf8-49db-80c3-0c4af228f20a",
+      "last_modified": "2017-11-27T05:08:32.090000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/30797818-0bf8-49db-80c3-0c4af228f20a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:38.507000",
+      "title": "RSO en 2012",
+      "url": "http://data.caf.fr/dataset/d276fca5-0830-43a0-bdfc-583760fdfee2/resource/30797818-0bf8-49db-80c3-0c4af228f20a/download/RSOCOM2012.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:38.508000",
+      "description": "D\u00e9nombrement des foyers allocataires ayant un droit versable au RSO.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T15:49:41.697000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/d276fca5-0830-43a0-bdfc-583760fdfee2/resource/5317b4ee-4f11-4c8c-85b7-4eaa6879a855/download/RSOCom2013.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "5317b4ee-4f11-4c8c-85b7-4eaa6879a855",
+      "last_modified": "2015-05-05T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5317b4ee-4f11-4c8c-85b7-4eaa6879a855",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 2
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:38.508000",
+      "title": "RSO en 2013",
+      "url": "http://data.caf.fr/dataset/d276fca5-0830-43a0-bdfc-583760fdfee2/resource/5317b4ee-4f11-4c8c-85b7-4eaa6879a855/download/RSOCom2013.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2015-10-01T22:02:38.508000",
+      "description": "D\u00e9nombrement des foyers allocataires ayant un droit versable au RSO, en 2014.",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c8e11c49-8faa-4abd-90b9-ae94fb9bcbcb",
+      "last_modified": "2015-05-05T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c8e11c49-8faa-4abd-90b9-ae94fb9bcbcb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2015-10-01T22:02:38.508000",
+      "title": "RSO en 2014",
+      "url": "http://data.caf.fr/dataset/d276fca5-0830-43a0-bdfc-583760fdfee2/resource/c8e11c49-8faa-4abd-90b9-ae94fb9bcbcb/download/RSOCom2014.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:44:00.873000",
+      "description": "D\u00e9nombrement des foyers allocataires ayant un droit versable au RSO, en 2015.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-16T04:55:06.441000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/d276fca5-0830-43a0-bdfc-583760fdfee2/resource/d568513a-1fac-455e-91ae-11f07c4a1167/download/RSOCom2015.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "d568513a-1fac-455e-91ae-11f07c4a1167",
+      "last_modified": "2016-06-30T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d568513a-1fac-455e-91ae-11f07c4a1167",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T19:44:00.873000",
+      "title": "RSO en 2015",
+      "url": "http://data.caf.fr/dataset/d276fca5-0830-43a0-bdfc-583760fdfee2/resource/d568513a-1fac-455e-91ae-11f07c4a1167/download/RSOCom2015.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:44:00.873000",
+      "description": "D\u00e9nombrement des foyers allocataires ayant un droit versable au RSO, en 2016.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-16T04:50:53.397000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/d276fca5-0830-43a0-bdfc-583760fdfee2/resource/edcf3cc0-f900-420d-ba94-e152c0198076/download/RSOCom2016.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "edcf3cc0-f900-420d-ba94-e152c0198076",
+      "last_modified": "2017-11-27T05:08:32.091000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/edcf3cc0-f900-420d-ba94-e152c0198076",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T19:44:00.874000",
+      "title": "RSO en 2016",
+      "url": "http://data.caf.fr/dataset/d276fca5-0830-43a0-bdfc-583760fdfee2/resource/edcf3cc0-f900-420d-ba94-e152c0198076/download/RSOCom2016.csv"
+    }
+  ],
+  "slug": "foyers-allocataires-percevant-le-revenu-de-solidarite-rso-par-commune-d-outre-mer",
+  "spatial": null,
+  "tags": [
+    "commune",
+    "outre-mer",
+    "rsa",
+    "rso"
+  ],
+  "temporal_coverage": null,
+  "title": "Foyers allocataires percevant le revenu de solidarit\u00e9 (RSO) - par commune d'Outre-mer",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/foyers-allocataires-percevant-le-revenu-de-solidarite-rso-par-commune-d-outre-mer/"
+}

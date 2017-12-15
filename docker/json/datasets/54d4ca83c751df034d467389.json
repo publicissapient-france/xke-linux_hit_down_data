@@ -1,0 +1,104 @@
+{
+  "badges": [],
+  "created_at": "2015-02-06T15:06:59.238000",
+  "deleted": null,
+  "description": "Commerces \u00e0 Marnes-la-Coquette",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": null,
+  "id": "54d4ca83c751df034d467389",
+  "last_modified": "2015-03-17T23:40:18.305000",
+  "last_update": "2015-02-06T15:07:51.501000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": null,
+  "owner": {
+    "avatar": null,
+    "avatar_thumbnail": null,
+    "class": "User",
+    "first_name": "Mairie",
+    "id": "54930417c751df473a04805a",
+    "last_name": "Marnes-la-Coquette",
+    "page": "https://www.data.gouv.fr/fr/users/mairie-marnes-la-coquette/",
+    "slug": "mairie-marnes-la-coquette",
+    "uri": "https://www.data.gouv.fr/api/1/users/mairie-marnes-la-coquette/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/commerces-1/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "53b44215fdb16c764b3c23c69f50c1bfe90154b5"
+      },
+      "created_at": "2015-02-06T15:07:25.541000",
+      "description": "Commerces \u00e0 Marnes-la-Coquette",
+      "extras": {},
+      "filesize": 2655,
+      "filetype": "file",
+      "format": "csv",
+      "id": "11cb1ec8-9f61-4692-9ac8-b5b172206da9",
+      "last_modified": "2015-02-06T15:07:25.541000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/11cb1ec8-9f61-4692-9ac8-b5b172206da9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 5
+      },
+      "mime": "text/csv",
+      "published": "2015-02-06T15:07:25.541000",
+      "title": "Commerces",
+      "url": "https://www.data.gouv.fr/s/resources/commerces-1/20150206-150721/commerces.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "233595150f45399081e3925b0454359752d0bd89"
+      },
+      "created_at": "2015-02-06T15:07:51.501000",
+      "description": "Restaurants \u00e0 Marnes-la-Coquette",
+      "extras": {},
+      "filesize": 558,
+      "filetype": "file",
+      "format": "csv",
+      "id": "a3bc02db-3eef-45e0-acd2-16dcbc5a7067",
+      "last_modified": "2015-02-06T15:07:51.501000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a3bc02db-3eef-45e0-acd2-16dcbc5a7067",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": "text/csv",
+      "published": "2015-02-06T15:07:51.501000",
+      "title": "Restaurations",
+      "url": "https://www.data.gouv.fr/s/resources/commerces-1/20150206-150749/restaurants_bars.csv"
+    }
+  ],
+  "slug": "commerces-1",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:commune",
+    "zones": [
+      "fr:commune:92047@1968-01-01"
+    ]
+  },
+  "tags": [
+    "commerces",
+    "restaurants"
+  ],
+  "temporal_coverage": null,
+  "title": "Commerces",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/commerces-1/"
+}

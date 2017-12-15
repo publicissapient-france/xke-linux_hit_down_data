@@ -1,0 +1,95 @@
+{
+  "acronym": null,
+  "badges": [
+    {
+      "kind": "public-service"
+    },
+    {
+      "kind": "certified"
+    }
+  ],
+  "created_at": "2014-04-17T18:21:12.718000",
+  "deleted": null,
+  "description": "Interm\u00e9diaire entre les fili\u00e8res et l'\u00c9tat, FranceAgriMer organise leurs \u00e9changes.\nEtablissement national des produits de l'agriculture et de la mer, exerce ses missions pour le compte de l'\u00c9tat, en lien avec le minist\u00e8re de l'Agriculture, de l'Agroalimentaire et de la For\u00eat.\nCes missions consistent principalement \u00e0 favoriser la concertation au sein des fili\u00e8res de l'agriculture et de la for\u00eat, \u00e0 assurer la connaissance et l'organisation des march\u00e9s, ainsi qu'\u00e0 g\u00e9rer des aides publiques nationales et communautaires.\nFranceAgriMer met en \u0153uvre les politiques publiques de r\u00e9gulation des march\u00e9s, assure une veille \u00e9conomique qui renforce l'efficacit\u00e9 des fili\u00e8res et favorise leur organisation.\nGr\u00e2ce au dialogue permanent qu'il suscite aupr\u00e8s des fili\u00e8res, l'\u00e9tablissement constitue le lieu privil\u00e9gi\u00e9 des \u00e9changes entre ces derni\u00e8res et les pouvoirs publics, se posant comme un partenaire incontournable de concertation et d'arbitrage.\n\nN\u00e9 le 1er avril 2009 de la fusion de cinq offices agricoles (Ofimer, Office de l'\u00e9levage, ONIGC, Onippam et Viniflhor), FranceAgriMer, \u00e9tablissement national des produits de l'agriculture et de la mer sous tutelle de l'\u00c9tat, a \u00e9t\u00e9 cr\u00e9\u00e9 par l'ordonnance n\u00b02009-325 du 25 mars 2009, dans le cadre de la r\u00e9vision g\u00e9n\u00e9rale des politiques publiques.\n",
+  "id": "534fff78a3a7292c64a77e02",
+  "last_modified": "2017-11-26T22:55:33.402000",
+  "logo": "https://www.data.gouv.fr/s/avatars/cd/6d9c448556476ca76e8c4fcf0221a3-original.jpg",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/cd/6d9c448556476ca76e8c4fcf0221a3-100.jpg",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "armelle",
+        "id": "534fff3da3a7292c64a773da",
+        "last_name": "bonnet",
+        "page": "https://www.data.gouv.fr/fr/users/armelle-bonnet/",
+        "slug": "armelle-bonnet",
+        "uri": "https://www.data.gouv.fr/api/1/users/armelle-bonnet/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Philippe",
+        "id": "534fff47a3a7292c64a77a7b",
+        "last_name": "Seyer",
+        "page": "https://www.data.gouv.fr/fr/users/philippe-seyer/",
+        "slug": "philippe-seyer",
+        "uri": "https://www.data.gouv.fr/api/1/users/philippe-seyer/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "jean-claude",
+        "id": "5672a3f288ee380d9caf0bf4",
+        "last_name": "strek",
+        "page": "https://www.data.gouv.fr/fr/users/jean-claude-strek/",
+        "slug": "jean-claude-strek",
+        "uri": "https://www.data.gouv.fr/api/1/users/jean-claude-strek/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Marie",
+        "id": "594d27b488ee3811ecb6e14e",
+        "last_name": "Lecocq",
+        "page": "https://www.data.gouv.fr/fr/users/marie-lecocq/",
+        "slug": "marie-lecocq",
+        "uri": "https://www.data.gouv.fr/api/1/users/marie-lecocq/"
+      }
+    }
+  ],
+  "metrics": {
+    "dataset_views": 338,
+    "datasets": 62,
+    "followers": 14,
+    "members": 4,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 0,
+    "resource_downloads": 663,
+    "reuse_views": 4,
+    "reuses": 0,
+    "views": 172
+  },
+  "name": "FranceAgriMer - \u00c9tablissement national des produits de l'agriculture et de la mer",
+  "page": "https://www.data.gouv.fr/fr/organizations/franceagrimer-etablissement-national-des-produits-de-l-agriculture-et-de-la-mer/",
+  "slug": "franceagrimer-etablissement-national-des-produits-de-l-agriculture-et-de-la-mer",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/franceagrimer-etablissement-national-des-produits-de-l-agriculture-et-de-la-mer/",
+  "url": null
+}

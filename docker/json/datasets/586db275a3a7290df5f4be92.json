@@ -1,0 +1,102 @@
+{
+  "badges": [],
+  "created_at": "2017-01-05T03:41:57.169000",
+  "deleted": null,
+  "description": "Fr\u00e9quentation d\u00e9taill\u00e9e par type de visiteur, par mois, du Mus\u00e9e des Beaux Arts, pour l'ann\u00e9e 2016 en cours.",
+  "extras": {
+    "harvest:domain": "data.rennesmetropole.fr",
+    "harvest:last_update": "2017-11-27T04:01:26.265479",
+    "harvest:remote_id": "frequentation-detaillee-du-musee-des-beaux-arts",
+    "harvest:source_id": "580736ec88ee3816625ff490",
+    "ods:has_records": true,
+    "ods:url": "https://data.rennesmetropole.fr/explore/dataset/frequentation-detaillee-du-musee-des-beaux-arts/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "586db275a3a7290df5f4be92",
+  "last_modified": "2017-11-27T04:01:26.268000",
+  "last_update": "2017-11-27T04:01:26.263000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "RM",
+    "class": "Organization",
+    "id": "580735be88ee3814295ff490",
+    "logo": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-100.png",
+    "name": "Rennes M\u00e9tropole en acc\u00e8s libre",
+    "page": "https://www.data.gouv.fr/fr/organizations/rennes-metropole-en-acces-libre-1/",
+    "slug": "rennes-metropole-en-acces-libre-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/rennes-metropole-en-acces-libre-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/frequentation-detaillee-du-musee-des-beaux-arts/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:01:26.263000",
+      "description": "- *P\u00e9riode*: periode[date]\n- *Nombre visiteurs*: nombre_visiteurs[int]\n- *Nombre non scolaire*: nombre_non_scolaire[int]\n- *Nombre scolaire encadr\u00e9*: nombre_scolaire_encadre[int]\n- *Nombre scolaire non encadr\u00e9*: nombre_scolaire_non_encadre[int]\n- *Tickets*: tickets[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "408c11d2-dbfb-4326-bfb8-4823621dab59",
+      "last_modified": "2016-10-26T14:11:35",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/408c11d2-dbfb-4326-bfb8-4823621dab59",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T04:01:26.263000",
+      "title": "Export au format CSV",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/frequentation-detaillee-du-musee-des-beaux-arts/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:01:26.263000",
+      "description": "- *P\u00e9riode*: periode[date]\n- *Nombre visiteurs*: nombre_visiteurs[int]\n- *Nombre non scolaire*: nombre_non_scolaire[int]\n- *Nombre scolaire encadr\u00e9*: nombre_scolaire_encadre[int]\n- *Nombre scolaire non encadr\u00e9*: nombre_scolaire_non_encadre[int]\n- *Tickets*: tickets[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "7578ad8f-2f5c-4a92-b86a-a30ae139e5f6",
+      "last_modified": "2016-10-26T14:11:35",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7578ad8f-2f5c-4a92-b86a-a30ae139e5f6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T04:01:26.263000",
+      "title": "Export au format JSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/frequentation-detaillee-du-musee-des-beaux-arts/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "frequentation-detaillee-du-musee-des-beaux-arts",
+  "spatial": null,
+  "tags": [
+    "culture",
+    "loisirs",
+    "musee",
+    "sports"
+  ],
+  "temporal_coverage": null,
+  "title": "Fr\u00e9quentation d\u00e9taill\u00e9e du Mus\u00e9e des Beaux Arts",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/frequentation-detaillee-du-musee-des-beaux-arts/"
+}

@@ -1,0 +1,82 @@
+{
+  "badges": [],
+  "created_at": "2015-03-18T10:56:44.918000",
+  "deleted": null,
+  "description": "Liste des \u00e9quipements de type social (antennes sociales, bains-douches, PMI, etc.)",
+  "extras": {},
+  "frequency": "punctual",
+  "frequency_date": null,
+  "id": "55094bdcc751df6386882844",
+  "last_modified": "2015-04-14T17:37:11.318000",
+  "last_update": "2015-03-18T10:57:08.720000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "54d8f2a4c751df1df7467389",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-02-09/b5bcf47b74044a88b2bc684dd2c40631/BB_03_noir_2009_rogne-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-02-09/b5bcf47b74044a88b2bc684dd2c40631/BB_03_noir_2009_rogne-100.jpg",
+    "name": "Ville de Boulogne-Billancourt",
+    "page": "https://www.data.gouv.fr/fr/organizations/ville-de-boulogne-billancourt/",
+    "slug": "ville-de-boulogne-billancourt",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ville-de-boulogne-billancourt/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/equipements-de-type-social/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "49ed6a005294ccfe36c772b8a01bd8de950b5f25"
+      },
+      "created_at": "2015-03-18T10:57:08.720000",
+      "description": "Liste des \u00e9quipements de type social",
+      "extras": {},
+      "filesize": 1585,
+      "filetype": "file",
+      "format": "csv",
+      "id": "8fe99fce-971a-443e-b127-9c183a41a56b",
+      "last_modified": "2015-03-18T10:57:08.720000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8fe99fce-971a-443e-b127-9c183a41a56b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": "text/csv",
+      "published": "2015-03-18T10:57:08.720000",
+      "title": "SOCIAL.csv",
+      "url": "https://www.data.gouv.fr/s/resources/equipements-de-type-social/20150318-105655/SOCIAL.csv"
+    }
+  ],
+  "slug": "equipements-de-type-social",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:commune",
+    "zones": [
+      "fr:commune:92012@1968-01-01"
+    ]
+  },
+  "tags": [
+    "antenne",
+    "antenne-sociale",
+    "bains-douches",
+    "sanitaire",
+    "sanitaire-et-social"
+  ],
+  "temporal_coverage": null,
+  "title": "Equipements de type Social",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/equipements-de-type-social/"
+}

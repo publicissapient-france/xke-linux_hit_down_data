@@ -1,0 +1,100 @@
+{
+  "badges": [],
+  "created_at": "2016-06-23T00:40:42.688000",
+  "deleted": null,
+  "description": "This dataset contains transport data for the french regions of Alsace, Bourgogne, Picardie, Nord-Pas-de-Calais.",
+  "extras": {
+    "harvest:domain": "navitia.opendatasoft.com",
+    "harvest:last_update": "2017-11-27T05:00:50.256757",
+    "harvest:remote_id": "fr-ne",
+    "harvest:source_id": "576b13d988ee386d03ab6513",
+    "ods:has_records": true,
+    "ods:url": "https://navitia.opendatasoft.com//explore/dataset/fr-ne/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "576b13eaa3a72927ec4f8572",
+  "last_modified": "2017-11-27T05:00:50.260000",
+  "last_update": "2017-11-27T05:00:50.255000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 1,
+    "followers": 2,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 3
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "576af9f088ee382315ab6512",
+    "logo": "https://www.data.gouv.fr/s/avatars/76/51e50e49924344876db939b11ff701-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/76/51e50e49924344876db939b11ff701-100.png",
+    "name": "Navitia",
+    "page": "https://www.data.gouv.fr/fr/organizations/navitia/",
+    "slug": "navitia",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/navitia/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/france-north-east-quarter/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:00:50.255000",
+      "description": "- *ID*: id[text]\n- *Description*: description[text]\n- *Format*: format[text]\n- *Type file*: type_file[text]\n- *Download*: download[file]\n- *Validity start date*: validity_start_date[text]\n- *Validity end date*: validity_end_date[text]\n- *Script of Transformation*: script_of_transformation[text]\n- *Licence*: licence[text]\n- *Source link*: source_link[text]\n- *Size*: size[int]\n- *Update date*: update_date[text]\n- *Publication update date*: publication_update_date[date]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "7f21937c-6da1-496e-bd87-7a6f5fc17de4",
+      "last_modified": "2015-09-16T07:56:19",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7f21937c-6da1-496e-bd87-7a6f5fc17de4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:00:50.255000",
+      "title": "Export au format CSV",
+      "url": "https://navitia.opendatasoft.com//explore/dataset/fr-ne/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:00:50.255000",
+      "description": "- *ID*: id[text]\n- *Description*: description[text]\n- *Format*: format[text]\n- *Type file*: type_file[text]\n- *Download*: download[file]\n- *Validity start date*: validity_start_date[text]\n- *Validity end date*: validity_end_date[text]\n- *Script of Transformation*: script_of_transformation[text]\n- *Licence*: licence[text]\n- *Source link*: source_link[text]\n- *Size*: size[int]\n- *Update date*: update_date[text]\n- *Publication update date*: publication_update_date[date]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "32c5927b-b2a5-4347-9fa4-6cfd96579a54",
+      "last_modified": "2015-09-16T07:56:19",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/32c5927b-b2a5-4347-9fa4-6cfd96579a54",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:00:50.255000",
+      "title": "Export au format JSON",
+      "url": "https://navitia.opendatasoft.com//explore/dataset/fr-ne/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "france-north-east-quarter",
+  "spatial": null,
+  "tags": [
+    "deplacements",
+    "transports"
+  ],
+  "temporal_coverage": null,
+  "title": "FRANCE : North-East Quarter",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/france-north-east-quarter/"
+}

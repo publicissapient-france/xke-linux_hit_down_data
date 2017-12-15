@@ -1,0 +1,148 @@
+{
+  "badges": [],
+  "created_at": "2017-10-02T00:00:00",
+  "deleted": null,
+  "description": "Donn\u00e9es concernant les r\u00e9sultats sportifs des clubs de la commune de Brocas",
+  "extras": {
+    "ckan:name": "commune-de-brocas-resultats-sportifs",
+    "contact_email": "mailto:contact@brocas.fr",
+    "contact_name": "Mairie de Brocas",
+    "contact_uri": "https://datacat.datalocale.fr/414602",
+    "guid": "https://datacat.datalocale.fr/415147",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-10-03T06:12:06.685368",
+    "harvest:remote_id": "0f4b6f61-b70c-47fa-9422-90acee4bcbcb",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "466cc859-244a-4317-89d5-cd709e4e993d",
+    "issued": "2013-08-16T20:16:27+00:00",
+    "modified": "2016-07-18T09:21:05.611498+00:00",
+    "publisher_email": "mailto:contact@brocas.fr",
+    "publisher_name": "Mairie de Brocas",
+    "publisher_uri": "https://datacat.datalocale.fr/414602",
+    "theme": "[\"mouvement associatif\"]",
+    "uri": "https://datacat.datalocale.fr/415147"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59d30e16a3a7291992b1eb19",
+  "last_modified": "2017-10-03T06:12:06.687000",
+  "last_update": "2017-10-03T06:12:06.684000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/commune-de-brocas-resultats-sportifs-3/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-10-03T06:12:06.683000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-08T01:49:43.175000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415153/raw/RESCL_Foot-USB2-R%25C3%25A9sultats-2012_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "8e0e94a0-907a-4490-9e32-e2d1657d2c27",
+      "last_modified": "2017-10-03T06:12:06.683000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8e0e94a0-907a-4490-9e32-e2d1657d2c27",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-03T06:12:06.683000",
+      "title": "Sport : r\u00e9sultats 2012-2013 USB2 Football",
+      "url": "https://datacat.datalocale.fr/file/415153/raw/RESCL_Foot-USB2-R%25C3%25A9sultats-2012_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-03T06:12:06.683000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T18:40:35.284000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415149/raw/RESCL_Foot-USB1-Classement-2012_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "3cb2aba7-3896-4c48-a4ae-ebf885703190",
+      "last_modified": "2017-10-03T06:12:06.684000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3cb2aba7-3896-4c48-a4ae-ebf885703190",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-03T06:12:06.683000",
+      "title": "Sport : classement 2012-2013 USB1 Football",
+      "url": "https://datacat.datalocale.fr/file/415149/raw/RESCL_Foot-USB1-Classement-2012_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-03T06:12:06.684000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T18:40:36.694000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415151/raw/RESCL_Foot-USB1-R%25C3%25A9sultats-2012_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a343c7c3-95c5-437e-b6a9-fc9924edbb8d",
+      "last_modified": "2017-10-03T06:12:06.684000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a343c7c3-95c5-437e-b6a9-fc9924edbb8d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-03T06:12:06.684000",
+      "title": "Sport : r\u00e9sultats 2012-2013 USB1 Football",
+      "url": "https://datacat.datalocale.fr/file/415151/raw/RESCL_Foot-USB1-R%25C3%25A9sultats-2012_bro_v1.0.csv"
+    }
+  ],
+  "slug": "commune-de-brocas-resultats-sportifs-3",
+  "spatial": null,
+  "tags": [
+    "brocas",
+    "football",
+    "usb"
+  ],
+  "temporal_coverage": null,
+  "title": "Commune de Brocas : R\u00e9sultats sportifs",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/commune-de-brocas-resultats-sportifs-3/"
+}

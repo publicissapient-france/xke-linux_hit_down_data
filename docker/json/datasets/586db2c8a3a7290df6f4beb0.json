@@ -1,0 +1,163 @@
+{
+  "badges": [],
+  "created_at": "2017-01-05T03:43:20.827000",
+  "deleted": null,
+  "description": "Couche de lignes repr\u00e9sentant les isohypses r\u00e9sultant de l'exploitation du Mod\u00e8le Num\u00e9rique de Terrain (MNT) de 2014 sur le territoire de Rennes M\u00e9tropole. Le MNT utilis\u00e9 pour g\u00e9n\u00e9rer les isohypses n'affichait pas les variations altim\u00e9triques dues aux ouvrages d'art (ex : sur un pont, l'altitude indiqu\u00e9e correspond \u00e0 celle du sol sous le tablier).   \nUne isohypse est une ligne imaginaire reliant tous les points d'un MNT ayant une m\u00eame altitude. On les appelle plus commun\u00e9ment \"courbes de niveaux\" en cartographie.  \nLes courbes de niveaux sont espac\u00e9es de 2 m\u00e8tres. Un champ nomm\u00e9 \"m_dix\" permet de filtrer les courbes tous les 10 m\u00e8tres.  \nUn d\u00e9coupage par commune est disponible sur demande aupr\u00e8s du service SIG",
+  "extras": {
+    "harvest:domain": "data.rennesmetropole.fr",
+    "harvest:last_update": "2017-04-06T05:02:59.785321",
+    "harvest:remote_id": "courbes-de-niveaux-issues-du-modele-numerique-de-terrain-de-2014",
+    "harvest:source_id": "580736ec88ee3816625ff490",
+    "ods:has_records": true,
+    "ods:url": "https://data.rennesmetropole.fr/explore/dataset/courbes-de-niveaux-issues-du-modele-numerique-de-terrain-de-2014/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "586db2c8a3a7290df6f4beb0",
+  "last_modified": "2017-04-06T05:02:59.789000",
+  "last_update": "2017-04-06T05:02:59.784000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "RM",
+    "class": "Organization",
+    "id": "580735be88ee3814295ff490",
+    "logo": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-100.png",
+    "name": "Rennes M\u00e9tropole en acc\u00e8s libre",
+    "page": "https://www.data.gouv.fr/fr/organizations/rennes-metropole-en-acces-libre-1/",
+    "slug": "rennes-metropole-en-acces-libre-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/rennes-metropole-en-acces-libre-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/courbes-de-niveaux-issues-du-modele-numerique-de-terrain-de-2014-sur-le-territoire-de-rennes-metropole/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T05:02:59.783000",
+      "description": "- *Geo Shape*: geo_shape[geo_shape]\n- *M_DEUX*: m_deux[text]\n- *M_DIX*: m_dix[text]\n- *ALTITUDE*: altitude[int]\n- *ST_LENGTH_*: st_length[double]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T11:51:15.580000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/courbes-de-niveaux-issues-du-modele-numerique-de-terrain-de-2014/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ac904c76-5f9d-4f9d-9a90-aa871c50df18",
+      "last_modified": "2016-07-09T12:01:51",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ac904c76-5f9d-4f9d-9a90-aa871c50df18",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-04-06T05:02:59.783000",
+      "title": "Export au format CSV",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/courbes-de-niveaux-issues-du-modele-numerique-de-terrain-de-2014/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T05:02:59.783000",
+      "description": "- *Geo Shape*: geo_shape[geo_shape]\n- *M_DEUX*: m_deux[text]\n- *M_DIX*: m_dix[text]\n- *ALTITUDE*: altitude[int]\n- *ST_LENGTH_*: st_length[double]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T10:52:00.795000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/courbes-de-niveaux-issues-du-modele-numerique-de-terrain-de-2014/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "25fd883f-7816-4628-a002-6f9a644bd9d0",
+      "last_modified": "2016-07-09T12:01:51",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/25fd883f-7816-4628-a002-6f9a644bd9d0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-04-06T05:02:59.783000",
+      "title": "Export au format JSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/courbes-de-niveaux-issues-du-modele-numerique-de-terrain-de-2014/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T05:02:59.783000",
+      "description": "- *Geo Shape*: geo_shape[geo_shape]\n- *M_DEUX*: m_deux[text]\n- *M_DIX*: m_dix[text]\n- *ALTITUDE*: altitude[int]\n- *ST_LENGTH_*: st_length[double]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T10:52:00.823000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/courbes-de-niveaux-issues-du-modele-numerique-de-terrain-de-2014/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "874b0e9a-879f-4338-baf9-f5012603483f",
+      "last_modified": "2016-07-09T12:01:51",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/874b0e9a-879f-4338-baf9-f5012603483f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-04-06T05:02:59.784000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/courbes-de-niveaux-issues-du-modele-numerique-de-terrain-de-2014/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T05:02:59.784000",
+      "description": "- *Geo Shape*: geo_shape[geo_shape]\n- *M_DEUX*: m_deux[text]\n- *M_DIX*: m_dix[text]\n- *ALTITUDE*: altitude[int]\n- *ST_LENGTH_*: st_length[double]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T10:52:00.856000",
+        "check:status": 200,
+        "check:url": "https://data.rennesmetropole.fr/explore/dataset/courbes-de-niveaux-issues-du-modele-numerique-de-terrain-de-2014/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "43cfeef6-5e73-4141-9566-9e1113e1cbbe",
+      "last_modified": "2016-07-09T12:01:51",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/43cfeef6-5e73-4141-9566-9e1113e1cbbe",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-04-06T05:02:59.784000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/courbes-de-niveaux-issues-du-modele-numerique-de-terrain-de-2014/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "courbes-de-niveaux-issues-du-modele-numerique-de-terrain-de-2014-sur-le-territoire-de-rennes-metropole",
+  "spatial": null,
+  "tags": [
+    "referentiels-geographiques"
+  ],
+  "temporal_coverage": null,
+  "title": "Courbes de niveaux issues du mod\u00e8le Num\u00e9rique de Terrain de 2014 sur le territoire de Rennes M\u00e9tropole",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/courbes-de-niveaux-issues-du-modele-numerique-de-terrain-de-2014-sur-le-territoire-de-rennes-metropole/"
+}

@@ -1,0 +1,100 @@
+{
+  "badges": [],
+  "created_at": "2016-10-21T19:58:37.049000",
+  "deleted": null,
+  "description": "Fichier recensant le nombre de mariages civils dans la ville de Rennes. Les donn\u00e9es sont ventil\u00e9es par tranche d'\u00e2ge.Depuis 2013 sont publi\u00e9es les statistiques de mariage entre personnes de m\u00eame sexe.",
+  "extras": {
+    "harvest:domain": "data.rennesmetropole.fr",
+    "harvest:last_update": "2017-11-27T04:01:59.377001",
+    "harvest:remote_id": "mariages-a-rennes",
+    "harvest:source_id": "580736ec88ee3816625ff490",
+    "ods:has_records": true,
+    "ods:url": "https://data.rennesmetropole.fr/explore/dataset/mariages-a-rennes/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "580a574da3a7292dcea9d1e6",
+  "last_modified": "2017-11-27T04:01:59.379000",
+  "last_update": "2017-11-27T04:01:59.375000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "RM",
+    "class": "Organization",
+    "id": "580735be88ee3814295ff490",
+    "logo": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-100.png",
+    "name": "Rennes M\u00e9tropole en acc\u00e8s libre",
+    "page": "https://www.data.gouv.fr/fr/organizations/rennes-metropole-en-acces-libre-1/",
+    "slug": "rennes-metropole-en-acces-libre-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/rennes-metropole-en-acces-libre-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/mariages-a-rennes/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:01:59.375000",
+      "description": "- *CODE_INSEE*: code_insee[int] Code INSEE de la Commune\n- *COMMUNE*: commune[text] Nom de la commune\n- *ANNEE*: annee[date] Ann\u00e9e de la couverture temporelle\n- *EPOUX_MOINS_25*: epoux_moins_25[int] Epoux de moins de 25 ans\n- *EPOUX_25_45*: epoux_25_45[int] Epoux entre 25 et 45 ans\n- *EPOUX_45_65*: epoux_45_65[int] Epoux de plus de  45 ans et jusqu'\u00e0 65 ans\n- *EPOUX_PLUS_65*: epoux_plus_65[int] Epoux de plus de 65 ans\n- *EPOUSE_MOINS_25*: epouse_moins_25[int] Epouse de moins de 25 ans \n\n- *EPOUSE_25_45*: epouse_25_45[int] Epouse entre 25 et 45 ans\n- *EPOUSE_45_65*: epouse_45_65[int] Epouse de plus de 45 ans et jusqu'\u00e0 65 ans\n\n- *EPOUSE_PLUS_65*: epouse_plus_65[int] Epouse de plus de 65 ans\n\n- *HOM_FEM*: hom_fem[int] Mariage entre un homme et une femme\n- *FEM_FEM*: fem_fem[text] Mariage entre deux femmes\n- *HOM_HOM*: hom_hom[text] Mariage entre deux hommes\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "52a5a2af-7d4e-42d0-977c-4c148f2a125a",
+      "last_modified": "2017-01-03T10:35:32",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/52a5a2af-7d4e-42d0-977c-4c148f2a125a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T04:01:59.375000",
+      "title": "Export au format CSV",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/mariages-a-rennes/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:01:59.375000",
+      "description": "- *CODE_INSEE*: code_insee[int] Code INSEE de la Commune\n- *COMMUNE*: commune[text] Nom de la commune\n- *ANNEE*: annee[date] Ann\u00e9e de la couverture temporelle\n- *EPOUX_MOINS_25*: epoux_moins_25[int] Epoux de moins de 25 ans\n- *EPOUX_25_45*: epoux_25_45[int] Epoux entre 25 et 45 ans\n- *EPOUX_45_65*: epoux_45_65[int] Epoux de plus de  45 ans et jusqu'\u00e0 65 ans\n- *EPOUX_PLUS_65*: epoux_plus_65[int] Epoux de plus de 65 ans\n- *EPOUSE_MOINS_25*: epouse_moins_25[int] Epouse de moins de 25 ans \n\n- *EPOUSE_25_45*: epouse_25_45[int] Epouse entre 25 et 45 ans\n- *EPOUSE_45_65*: epouse_45_65[int] Epouse de plus de 45 ans et jusqu'\u00e0 65 ans\n\n- *EPOUSE_PLUS_65*: epouse_plus_65[int] Epouse de plus de 65 ans\n\n- *HOM_FEM*: hom_fem[int] Mariage entre un homme et une femme\n- *FEM_FEM*: fem_fem[text] Mariage entre deux femmes\n- *HOM_HOM*: hom_hom[text] Mariage entre deux hommes\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "ef628f1e-3ed0-4c47-96f9-844cf84da596",
+      "last_modified": "2017-01-03T10:35:32",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ef628f1e-3ed0-4c47-96f9-844cf84da596",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T04:01:59.375000",
+      "title": "Export au format JSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/mariages-a-rennes/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "mariages-a-rennes",
+  "spatial": null,
+  "tags": [
+    "citoyennete",
+    "etat-civil"
+  ],
+  "temporal_coverage": null,
+  "title": "Mariages \u00e0 Rennes",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/mariages-a-rennes/"
+}

@@ -1,0 +1,137 @@
+{
+  "badges": [],
+  "created_at": "2016-03-22T00:00:00",
+  "deleted": null,
+  "description": "Le Cr et le tableau des votes du conseil municipal de Grenoble",
+  "extras": {
+    "ckan:name": "2015-11-conseil-municipal-de-grenoble",
+    "harvest:domain": "www.nosdonnees.fr",
+    "harvest:last_update": "2017-07-10T06:04:39.025345",
+    "harvest:remote_id": "06b45d7e-0236-41cc-9e0f-a074d339a03a",
+    "harvest:source_id": "5878ee1588ee385bffa6f719",
+    "remote_url": "http://nosconseilsmunicipaux.grelibre.org/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5878ee23a3a7291485cac7a7",
+  "last_modified": "2017-07-10T06:04:39.026000",
+  "last_update": "2017-01-13T16:11:31.755000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff99a3a7292c64a78016",
+    "logo": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-100.png",
+    "name": "NosDonn\u00e9es.fr",
+    "page": "https://www.data.gouv.fr/fr/organizations/nosdonnees-fr/",
+    "slug": "nosdonnees-fr",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nosdonnees-fr/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/2015-11-conseil-municipal-de-grenoble/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:11:31.753000",
+      "description": "Il est aussi disponible sur le site de Grenoble : www.grenoble.fr",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T02:03:54.702000",
+        "check:status": 200,
+        "check:url": "http://www.nosdonnees.fr/dataset/06b45d7e-0236-41cc-9e0f-a074d339a03a/resource/bd328a8a-8fc3-4351-a7ad-1e3c41074f9f/download/crcm201115.pdf"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "pdf",
+      "id": "bd328a8a-8fc3-4351-a7ad-1e3c41074f9f",
+      "last_modified": "2017-07-10T06:04:39.024000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/bd328a8a-8fc3-4351-a7ad-1e3c41074f9f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:11:31.754000",
+      "title": "Le CR du conseil municipal",
+      "url": "http://www.nosdonnees.fr/dataset/06b45d7e-0236-41cc-9e0f-a074d339a03a/resource/bd328a8a-8fc3-4351-a7ad-1e3c41074f9f/download/crcm201115.pdf"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:11:31.754000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T02:03:54.697000",
+        "check:status": 200,
+        "check:url": "http://www.nosdonnees.fr/dataset/06b45d7e-0236-41cc-9e0f-a074d339a03a/resource/94f5d275-5378-46b3-a52c-7e64bad202be/download/tableaunovembre2015.odt"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": ".odt",
+      "id": "94f5d275-5378-46b3-a52c-7e64bad202be",
+      "last_modified": "2017-07-10T06:04:39.024000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/94f5d275-5378-46b3-a52c-7e64bad202be",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:11:31.754000",
+      "title": "Le tableau des votes des d\u00e9lib\u00e9rations",
+      "url": "http://www.nosdonnees.fr/dataset/06b45d7e-0236-41cc-9e0f-a074d339a03a/resource/94f5d275-5378-46b3-a52c-7e64bad202be/download/tableaunovembre2015.odt"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:11:31.755000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-30T18:55:40.622000",
+        "check:status": 200,
+        "check:url": "http://www.nosdonnees.fr/dataset/06b45d7e-0236-41cc-9e0f-a074d339a03a/resource/0105a9f8-5920-4b59-af01-a52085d60710/download/tableaunovembre2015.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "0105a9f8-5920-4b59-af01-a52085d60710",
+      "last_modified": "2017-07-10T06:04:39.024000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0105a9f8-5920-4b59-af01-a52085d60710",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:11:31.755000",
+      "title": "Le tableau des votes des d\u00e9lib\u00e9rations",
+      "url": "http://www.nosdonnees.fr/dataset/06b45d7e-0236-41cc-9e0f-a074d339a03a/resource/0105a9f8-5920-4b59-af01-a52085d60710/download/tableaunovembre2015.csv"
+    }
+  ],
+  "slug": "2015-11-conseil-municipal-de-grenoble",
+  "spatial": null,
+  "tags": [
+    "commune",
+    "grenoble"
+  ],
+  "temporal_coverage": null,
+  "title": "2015 - 11 - Conseil municipal de Grenoble",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/2015-11-conseil-municipal-de-grenoble/"
+}

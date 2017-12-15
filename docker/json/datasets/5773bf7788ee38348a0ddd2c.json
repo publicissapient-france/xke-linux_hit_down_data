@@ -1,0 +1,79 @@
+{
+  "badges": [],
+  "created_at": "2016-06-29T14:30:47.588000",
+  "deleted": null,
+  "description": "La Cour des comptes rend public, le 27 juin 2016, son rapport de certification des comptes du r\u00e9gime g\u00e9n\u00e9ral de s\u00e9curit\u00e9 sociale pour l\u2019exercice 2015. Le fait que la Cour s\u2019assure de la r\u00e9gularit\u00e9, de la sinc\u00e9rit\u00e9 et de la fid\u00e9lit\u00e9 de ces comptes constitue un atout en termes de transparence et de fiabilit\u00e9 pour les finances sociales. Pour la troisi\u00e8me ann\u00e9e cons\u00e9cutive, la Cour certifie les comptes de la totalit\u00e9 des entit\u00e9s du r\u00e9gime g\u00e9n\u00e9ral avec 33 r\u00e9serves, comme en 2014. Si certaines r\u00e9serves ont \u00e9t\u00e9 lev\u00e9es ou all\u00e9g\u00e9es, notamment sur les branches famille et recouvrement, de nouvelles ont \u00e9t\u00e9 formul\u00e9es sur les branches maladie et accidents du travail-maladies professionnelles (AT-MP).\n\nCe rapport est accessible sur [le site de la Cour](https://www.ccomptes.fr/fr/publications/certification-des-comptes-du-regime-general-de-securite-sociale-2015).\n\nLes fichiers publi\u00e9s correspondent aux donn\u00e9es ayant servi de base \u00e0 l'\u00e9laboration du rapport.",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": "2017-06-29T14:30:44",
+  "id": "5773bf7788ee38348a0ddd2c",
+  "last_modified": "2017-09-05T11:36:39.122000",
+  "last_update": "2016-06-29T14:31:33",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 4
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "53698dada3a729239d20331d",
+    "logo": "https://www.data.gouv.fr/s/avatars/ac/83f761a23f4263be8b3401b01625e8-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/ac/83f761a23f4263be8b3401b01625e8-100.png",
+    "name": "Cour des comptes",
+    "page": "https://www.data.gouv.fr/fr/organizations/cour-des-comptes/",
+    "slug": "cour-des-comptes",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/cour-des-comptes/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/certification-des-comptes-du-regime-general-de-securite-sociale-2015/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2016-06-29T14:31:33.807000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T08:13:54.277000",
+        "check:status": 200,
+        "check:url": "https://www.ccomptes.fr/sites/default/files/EzPublish/20160627-donnees-certification-comptes-securite-sociale.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f6415ab2-38d3-4b3f-a72c-e4627d0f2807",
+      "last_modified": "2017-09-05T11:36:39.122000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f6415ab2-38d3-4b3f-a72c-e4627d0f2807",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 17
+      },
+      "mime": null,
+      "published": "2016-06-29T14:31:33",
+      "title": "Certification des comptes du r\u00e9gime g\u00e9n\u00e9ral de s\u00e9curit\u00e9 sociale 2015",
+      "url": "https://www.ccomptes.fr/sites/default/files/EzPublish/20160627-donnees-certification-comptes-securite-sociale.zip"
+    }
+  ],
+  "slug": "certification-des-comptes-du-regime-general-de-securite-sociale-2015",
+  "spatial": null,
+  "tags": [
+    "certification",
+    "cour-des-comptes",
+    "finances-sociales",
+    "juridictions-financieres",
+    "securite-sociale"
+  ],
+  "temporal_coverage": null,
+  "title": "Certification des comptes du r\u00e9gime g\u00e9n\u00e9ral de s\u00e9curit\u00e9 sociale 2015",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/certification-des-comptes-du-regime-general-de-securite-sociale-2015/"
+}

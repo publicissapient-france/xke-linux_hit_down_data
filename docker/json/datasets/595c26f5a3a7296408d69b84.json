@@ -1,0 +1,144 @@
+{
+  "badges": [],
+  "created_at": "2017-07-05T01:38:29.111000",
+  "deleted": null,
+  "description": "Localisation de tous les arbres sur le d\u00e9partement des Hauts-de-Seine\n\n* * *\n\nCe jeu de donn\u00e9es pr\u00e9cise les emplacements, les types et les caract\u00e9ristiques des arbres isol\u00e9s ou d'alignement pr\u00e9sents sur l'ensemble du territoire des Hauts-de-Seine. Ces informations ont \u00e9t\u00e9 collect\u00e9es dans le cadre du cadastre vert, un cadastre sp\u00e9cifique aux espaces verts.",
+  "extras": {
+    "harvest:domain": "data.issy.com",
+    "harvest:last_update": "2017-11-27T05:07:37.145313",
+    "harvest:remote_id": "cadastre-vert-les-arbres",
+    "harvest:source_id": "595c266188ee382c7517add5",
+    "ods:has_records": true,
+    "ods:url": "https://data.issy.com//explore/dataset/cadastre-vert-les-arbres/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "595c26f5a3a7296408d69b84",
+  "last_modified": "2017-11-27T05:07:37.152000",
+  "last_update": "2017-11-27T05:07:37.144000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb7a3a7292c64a78145",
+    "logo": "https://www.data.gouv.fr/s/avatars/b9/beecacecbd4d42ac10ef244f11e44e-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b9/beecacecbd4d42ac10ef244f11e44e-100.png",
+    "name": "Ville d'Issy-les-Moulineaux",
+    "page": "https://www.data.gouv.fr/fr/organizations/ville-d-issy-les-moulineaux/",
+    "slug": "ville-d-issy-les-moulineaux",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ville-d-issy-les-moulineaux/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/cadastre-vert-les-arbres-1/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:07:37.143000",
+      "description": "- *IDELEMENT_VERT*: idelement_vert[int] Identifiant de l'arbre\n- *COMMUNE*: commune[text] Nom de la commune\n- *CODE_INSEE*: code_insee[text] Code INSEE de la commune\n- *DIAMETRE*: diametre[double] Diam\u00e8tre de l'arbre (m\u00e8tres)\n- *CIRCONFERENCE*: circonference[double] Circonf\u00e9rence de l'arbre (m\u00e8tres)\n- *TYPE*: type[text] Type d'arbre (A : Align\u00e9, I : Isol\u00e9)\n\n- *geo_shape*: geo_shape[geo_shape] G\u00e9om\u00e9trie de l'entit\u00e9 au format GeoJSON\n- *geo_point_2d*: geo_point_2d[geo_point_2d] Coordonn\u00e9es de l'entit\u00e9 (latitude, longitude en degr\u00e9s d\u00e9cimaux)\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "bf752922-f3f8-47b8-bd6f-d9e8dc3b3a31",
+      "last_modified": "2016-03-31T10:35:24",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/bf752922-f3f8-47b8-bd6f-d9e8dc3b3a31",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:07:37.143000",
+      "title": "Export au format CSV",
+      "url": "https://data.issy.com//explore/dataset/cadastre-vert-les-arbres/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:07:37.143000",
+      "description": "- *IDELEMENT_VERT*: idelement_vert[int] Identifiant de l'arbre\n- *COMMUNE*: commune[text] Nom de la commune\n- *CODE_INSEE*: code_insee[text] Code INSEE de la commune\n- *DIAMETRE*: diametre[double] Diam\u00e8tre de l'arbre (m\u00e8tres)\n- *CIRCONFERENCE*: circonference[double] Circonf\u00e9rence de l'arbre (m\u00e8tres)\n- *TYPE*: type[text] Type d'arbre (A : Align\u00e9, I : Isol\u00e9)\n\n- *geo_shape*: geo_shape[geo_shape] G\u00e9om\u00e9trie de l'entit\u00e9 au format GeoJSON\n- *geo_point_2d*: geo_point_2d[geo_point_2d] Coordonn\u00e9es de l'entit\u00e9 (latitude, longitude en degr\u00e9s d\u00e9cimaux)\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "1f65ff18-e29d-42ef-9731-eb00f93493b3",
+      "last_modified": "2016-03-31T10:35:24",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1f65ff18-e29d-42ef-9731-eb00f93493b3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:07:37.143000",
+      "title": "Export au format JSON",
+      "url": "https://data.issy.com//explore/dataset/cadastre-vert-les-arbres/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:07:37.143000",
+      "description": "- *IDELEMENT_VERT*: idelement_vert[int] Identifiant de l'arbre\n- *COMMUNE*: commune[text] Nom de la commune\n- *CODE_INSEE*: code_insee[text] Code INSEE de la commune\n- *DIAMETRE*: diametre[double] Diam\u00e8tre de l'arbre (m\u00e8tres)\n- *CIRCONFERENCE*: circonference[double] Circonf\u00e9rence de l'arbre (m\u00e8tres)\n- *TYPE*: type[text] Type d'arbre (A : Align\u00e9, I : Isol\u00e9)\n\n- *geo_shape*: geo_shape[geo_shape] G\u00e9om\u00e9trie de l'entit\u00e9 au format GeoJSON\n- *geo_point_2d*: geo_point_2d[geo_point_2d] Coordonn\u00e9es de l'entit\u00e9 (latitude, longitude en degr\u00e9s d\u00e9cimaux)\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "e06c829e-a940-4d67-a456-469c310ce956",
+      "last_modified": "2016-03-31T10:35:24",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e06c829e-a940-4d67-a456-469c310ce956",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:07:37.143000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.issy.com//explore/dataset/cadastre-vert-les-arbres/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:07:37.144000",
+      "description": "- *IDELEMENT_VERT*: idelement_vert[int] Identifiant de l'arbre\n- *COMMUNE*: commune[text] Nom de la commune\n- *CODE_INSEE*: code_insee[text] Code INSEE de la commune\n- *DIAMETRE*: diametre[double] Diam\u00e8tre de l'arbre (m\u00e8tres)\n- *CIRCONFERENCE*: circonference[double] Circonf\u00e9rence de l'arbre (m\u00e8tres)\n- *TYPE*: type[text] Type d'arbre (A : Align\u00e9, I : Isol\u00e9)\n\n- *geo_shape*: geo_shape[geo_shape] G\u00e9om\u00e9trie de l'entit\u00e9 au format GeoJSON\n- *geo_point_2d*: geo_point_2d[geo_point_2d] Coordonn\u00e9es de l'entit\u00e9 (latitude, longitude en degr\u00e9s d\u00e9cimaux)\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "12e82257-fe0e-4b66-973d-7c1a505e6e41",
+      "last_modified": "2016-03-31T10:35:24",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/12e82257-fe0e-4b66-973d-7c1a505e6e41",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:07:37.144000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.issy.com//explore/dataset/cadastre-vert-les-arbres/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "cadastre-vert-les-arbres-1",
+  "spatial": null,
+  "tags": [
+    "arbres",
+    "cadastre-vert",
+    "environnement"
+  ],
+  "temporal_coverage": null,
+  "title": "Cadastre vert - Les arbres",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/cadastre-vert-les-arbres-1/"
+}

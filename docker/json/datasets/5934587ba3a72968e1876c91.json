@@ -1,0 +1,549 @@
+{
+  "badges": [],
+  "created_at": "2017-02-09T00:00:00",
+  "deleted": null,
+  "description": "superficie des communes de Gironde en km2",
+  "extras": {
+    "ckan:name": "superficie-des-communes-de-gironde-en-km21",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+    "guid": "https://datacat.datalocale.fr/440422",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-11-27T05:24:36.530615",
+    "harvest:remote_id": "b676168f-f67e-4b58-86ee-6d56cd46cf45",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "issued": "2016-07-28T10:02:43.033151+00:00",
+    "modified": "2016-07-28T10:02:43.033151+00:00",
+    "publisher_name": "INSEE",
+    "publisher_type": "\"Administration nationale\"",
+    "publisher_uri": "https://datacat.datalocale.fr/416204",
+    "remote_url": "http://www.insee.fr",
+    "uri": "https://datacat.datalocale.fr/440422"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5934587ba3a72968e1876c91",
+  "last_modified": "2017-11-27T05:24:36.533000",
+  "last_update": "2017-10-14T06:08:00.538000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": null,
+  "owner": {
+    "avatar": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-original.jpg",
+    "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-100.jpg",
+    "class": "User",
+    "first_name": "Ressourcerie",
+    "id": "534fff47a3a7292c64a77adc",
+    "last_name": "datalocale",
+    "page": "https://www.data.gouv.fr/fr/users/ressourcerie-datalocale/",
+    "slug": "ressourcerie-datalocale",
+    "uri": "https://www.data.gouv.fr/api/1/users/ressourcerie-datalocale/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/superficie-des-communes-de-gironde-en-km21/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:59:07.945000",
+      "description": "export des m\u00e9tadonn\u00e9es en DCAT-AP RDF",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T14:37:15.156000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1552055/raw/440422%3Fvid%3Ddcat.rdf.complete"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "rdf",
+      "id": "a54a8945-7b54-4b4b-9a5b-79fe568a4f9a",
+      "last_modified": "2017-06-06T16:41:40.139000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a54a8945-7b54-4b4b-9a5b-79fe568a4f9a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/rdf+xml",
+      "published": "2017-06-04T20:59:07.946000",
+      "title": "metadonnees_dataset.rdf",
+      "url": "https://datacat.datalocale.fr/file/1552055/raw/440422%3Fvid%3Ddcat.rdf.complete"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:59:07.946000",
+      "description": "export en csv encod\u00e9 en UTF-8",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T14:37:16.291000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/440437/raw/superficieCommuneGironde.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "16a3fdc4-b041-47b3-adab-8ff8ce058ed7",
+      "last_modified": "2017-06-06T16:41:40.139000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/16a3fdc4-b041-47b3-adab-8ff8ce058ed7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 3
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:59:07.946000",
+      "title": "superficieCommuneGironde.csv",
+      "url": "https://datacat.datalocale.fr/file/440437/raw/superficieCommuneGironde.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:47:40.942000",
+      "description": "export en csv encod\u00e9 en UTF-8",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T14:37:16.291000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/440437/raw/superficieCommuneGironde.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "27d7e2bc-6fc9-4312-a515-cfe079037e85",
+      "last_modified": "2017-07-07T06:09:49.387000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/27d7e2bc-6fc9-4312-a515-cfe079037e85",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T18:47:40.942000",
+      "title": "superficieCommuneGironde.csv",
+      "url": "https://datacat.datalocale.fr/file/440437/raw/superficieCommuneGironde.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:47:40.942000",
+      "description": "export des m\u00e9tadonn\u00e9es en DCAT-AP RDF",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T14:37:15.089000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1586057/raw/440422%3Fvid%3Ddcat.rdf.complete"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "rdf",
+      "id": "42c21155-2182-47c8-99c7-b9215d662602",
+      "last_modified": "2017-07-07T06:09:49.387000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/42c21155-2182-47c8-99c7-b9215d662602",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/rdf+xml",
+      "published": "2017-07-02T18:47:40.943000",
+      "title": "metadonnees_dataset.rdf",
+      "url": "https://datacat.datalocale.fr/file/1586057/raw/440422%3Fvid%3Ddcat.rdf.complete"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:06:44.942000",
+      "description": "export en csv encod\u00e9 en UTF-8",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T14:37:16.291000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/440437/raw/superficieCommuneGironde.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "4cd6bb1b-4c37-471d-9613-0e02a4de09ed",
+      "last_modified": "2017-08-10T06:07:05.591000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4cd6bb1b-4c37-471d-9613-0e02a4de09ed",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-08T07:06:44.942000",
+      "title": "superficieCommuneGironde.csv",
+      "url": "https://datacat.datalocale.fr/file/440437/raw/superficieCommuneGironde.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:06:44.943000",
+      "description": "export des m\u00e9tadonn\u00e9es en DCAT-AP RDF",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T14:37:16.291000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1636012/raw/440422%3Fvid%3Ddcat.rdf.complete"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "rdf",
+      "id": "b9b44c19-ab19-4cd1-b495-b25ba72a8784",
+      "last_modified": "2017-08-10T06:07:05.591000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b9b44c19-ab19-4cd1-b495-b25ba72a8784",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/rdf+xml",
+      "published": "2017-07-08T07:06:44.943000",
+      "title": "metadonnees_dataset.rdf",
+      "url": "https://datacat.datalocale.fr/file/1636012/raw/440422%3Fvid%3Ddcat.rdf.complete"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-11T06:07:43.961000",
+      "description": "export des m\u00e9tadonn\u00e9es en DCAT-AP RDF",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T07:58:21.952000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1705829/raw/440422%3Fvid%3Ddcat.rdf.complete"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "rdf",
+      "id": "2579b971-b9a4-4e08-bbba-13530f07d163",
+      "last_modified": "2017-08-17T06:04:13.597000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2579b971-b9a4-4e08-bbba-13530f07d163",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/rdf+xml",
+      "published": "2017-08-11T06:07:43.961000",
+      "title": "metadonnees_dataset.rdf",
+      "url": "https://datacat.datalocale.fr/file/1705829/raw/440422%3Fvid%3Ddcat.rdf.complete"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-11T06:07:43.962000",
+      "description": "export en csv encod\u00e9 en UTF-8",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T20:07:09.964000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/440437/raw/superficieCommuneGironde.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2104aff8-daf6-4f59-a744-d2e52eec28b7",
+      "last_modified": "2017-08-17T06:04:13.598000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2104aff8-daf6-4f59-a744-d2e52eec28b7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-11T06:07:43.968000",
+      "title": "superficieCommuneGironde.csv",
+      "url": "https://datacat.datalocale.fr/file/440437/raw/superficieCommuneGironde.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-18T06:10:53.192000",
+      "description": "export des m\u00e9tadonn\u00e9es en DCAT-AP RDF",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T07:58:21.942000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1718996/raw/440422%3Fvid%3Ddcat.rdf.complete"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "rdf",
+      "id": "28503ef9-e463-4f18-bfab-248fcf5d04f1",
+      "last_modified": "2017-08-24T06:07:56.840000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/28503ef9-e463-4f18-bfab-248fcf5d04f1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/rdf+xml",
+      "published": "2017-08-18T06:10:53.192000",
+      "title": "metadonnees_dataset.rdf",
+      "url": "https://datacat.datalocale.fr/file/1718996/raw/440422%3Fvid%3Ddcat.rdf.complete"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-18T06:10:53.192000",
+      "description": "export en csv encod\u00e9 en UTF-8",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T20:07:09.964000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/440437/raw/superficieCommuneGironde.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "1a463364-5c00-4444-8bb2-2ba23ccf2dd5",
+      "last_modified": "2017-08-24T06:07:56.841000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1a463364-5c00-4444-8bb2-2ba23ccf2dd5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-18T06:10:53.193000",
+      "title": "superficieCommuneGironde.csv",
+      "url": "https://datacat.datalocale.fr/file/440437/raw/superficieCommuneGironde.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-25T06:07:07.263000",
+      "description": "export des m\u00e9tadonn\u00e9es en DCAT-AP RDF",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T07:58:21.967000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1732152/raw/440422%3Fvid%3Ddcat.rdf.complete"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "rdf",
+      "id": "f82682c6-8e60-466e-a89a-870929a9173a",
+      "last_modified": "2017-09-11T06:18:43.418000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f82682c6-8e60-466e-a89a-870929a9173a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/rdf+xml",
+      "published": "2017-08-25T06:07:07.263000",
+      "title": "metadonnees_dataset.rdf",
+      "url": "https://datacat.datalocale.fr/file/1732152/raw/440422%3Fvid%3Ddcat.rdf.complete"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-25T06:07:07.264000",
+      "description": "export en csv encod\u00e9 en UTF-8",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T20:07:09.964000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/440437/raw/superficieCommuneGironde.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a4562444-7e64-4bab-8743-a706b7fbffa6",
+      "last_modified": "2017-09-11T06:18:43.418000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a4562444-7e64-4bab-8743-a706b7fbffa6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-25T06:07:07.264000",
+      "title": "superficieCommuneGironde.csv",
+      "url": "https://datacat.datalocale.fr/file/440437/raw/superficieCommuneGironde.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:50:31.082000",
+      "description": "export en csv encod\u00e9 en UTF-8",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T20:07:09.964000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/440437/raw/superficieCommuneGironde.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "7019c2a8-a855-4ee8-ac24-ae657368b7f7",
+      "last_modified": "2017-09-29T07:53:49.721000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7019c2a8-a855-4ee8-ac24-ae657368b7f7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:50:31.082000",
+      "title": "superficieCommuneGironde.csv",
+      "url": "https://datacat.datalocale.fr/file/440437/raw/superficieCommuneGironde.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:50:31.083000",
+      "description": "export des m\u00e9tadonn\u00e9es en DCAT-AP RDF",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T07:58:22.008000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1771179/raw/440422%3Fvid%3Ddcat.rdf.complete"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "rdf",
+      "id": "e3387486-35db-4e2c-846d-25079f0bc146",
+      "last_modified": "2017-09-29T07:53:49.721000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e3387486-35db-4e2c-846d-25079f0bc146",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/rdf+xml",
+      "published": "2017-09-12T07:50:31.083000",
+      "title": "metadonnees_dataset.rdf",
+      "url": "https://datacat.datalocale.fr/file/1771179/raw/440422%3Fvid%3Ddcat.rdf.complete"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:19:08.154000",
+      "description": "export des m\u00e9tadonn\u00e9es en DCAT-AP RDF",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T07:58:22.008000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1810214/raw/440422%3Fvid%3Ddcat.rdf.complete"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "rdf",
+      "id": "7ddf734c-edb2-466f-9217-6f5ef0aff73a",
+      "last_modified": "2017-10-05T06:18:18.954000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7ddf734c-edb2-466f-9217-6f5ef0aff73a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/rdf+xml",
+      "published": "2017-09-30T06:19:08.154000",
+      "title": "metadonnees_dataset.rdf",
+      "url": "https://datacat.datalocale.fr/file/1810214/raw/440422%3Fvid%3Ddcat.rdf.complete"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:19:08.154000",
+      "description": "export en csv encod\u00e9 en UTF-8",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T20:07:09.964000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/440437/raw/superficieCommuneGironde.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "99f02bc9-7743-4510-866a-5a8b6422db76",
+      "last_modified": "2017-10-05T06:18:18.954000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/99f02bc9-7743-4510-866a-5a8b6422db76",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-30T06:19:08.154000",
+      "title": "superficieCommuneGironde.csv",
+      "url": "https://datacat.datalocale.fr/file/440437/raw/superficieCommuneGironde.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:08:00.537000",
+      "description": "export en csv encod\u00e9 en UTF-8",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T20:07:18.087000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/distribution/440438/raw/superficieCommuneGironde.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "25301da5-cdc3-414b-9abb-8ba79d106a68",
+      "last_modified": "2017-11-27T05:24:36.529000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/25301da5-cdc3-414b-9abb-8ba79d106a68",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-14T06:08:00.537000",
+      "title": "superficieCommuneGironde.csv",
+      "url": "https://datacat.datalocale.fr/distribution/440438/raw/superficieCommuneGironde.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:08:00.538000",
+      "description": "export des m\u00e9tadonn\u00e9es en DCAT-AP RDF",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T20:07:18.518000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/distribution/441008/raw/440422%3Fvid%3Ddcat.rdf.complete"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "rdf",
+      "id": "d15b4736-d413-4bdb-bbe9-eeb13fcc7a65",
+      "last_modified": "2017-11-27T05:24:36.529000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d15b4736-d413-4bdb-bbe9-eeb13fcc7a65",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/rdf+xml",
+      "published": "2017-10-14T06:08:00.538000",
+      "title": "metadonnees_dataset.rdf",
+      "url": "https://datacat.datalocale.fr/distribution/441008/raw/440422%3Fvid%3Ddcat.rdf.complete"
+    }
+  ],
+  "slug": "superficie-des-communes-de-gironde-en-km21",
+  "spatial": null,
+  "tags": [
+    "commune",
+    "superficie"
+  ],
+  "temporal_coverage": null,
+  "title": "Superficie des communes de Gironde en km2",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/superficie-des-communes-de-gironde-en-km21/"
+}

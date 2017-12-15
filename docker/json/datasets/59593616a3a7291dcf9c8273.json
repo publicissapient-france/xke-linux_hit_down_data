@@ -1,0 +1,100 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T20:06:14.701000",
+  "deleted": null,
+  "description": "Nombre d'agents de la s\u00fbret\u00e9 ferroviaire depuis 2011.",
+  "extras": {
+    "harvest:domain": "ressources.data.sncf.com",
+    "harvest:last_update": "2017-11-27T05:01:30.219796",
+    "harvest:remote_id": "effectif-agents-surete-ferroviaire",
+    "harvest:source_id": "563dd01f88ee386a21e72046",
+    "ods:has_records": true,
+    "ods:url": "https://ressources.data.sncf.com/explore/dataset/effectif-agents-surete-ferroviaire/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59593616a3a7291dcf9c8273",
+  "last_modified": "2017-11-27T05:01:30.223000",
+  "last_update": "2017-11-27T05:01:30.218000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb0a3a7292c64a78115",
+    "logo": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-100.png",
+    "name": "SNCF",
+    "page": "https://www.data.gouv.fr/fr/organizations/sncf/",
+    "slug": "sncf",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/sncf/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/effectif-des-agents-de-la-surete-ferroviaire-depuis-2011/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:01:30.218000",
+      "description": "- *Ann\u00e9e*: annee[date]\n- *Sexe*: sexe[text]\n- *Effectif*: effectif[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c1043377-f414-4bb7-a135-8e4f40711156",
+      "last_modified": "2016-03-14T10:03:27",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c1043377-f414-4bb7-a135-8e4f40711156",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:01:30.218000",
+      "title": "Export au format CSV",
+      "url": "https://ressources.data.sncf.com/explore/dataset/effectif-agents-surete-ferroviaire/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:01:30.218000",
+      "description": "- *Ann\u00e9e*: annee[date]\n- *Sexe*: sexe[text]\n- *Effectif*: effectif[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "84d64f74-7eeb-4e9f-bca5-6c54c4fdae05",
+      "last_modified": "2016-03-14T10:03:27",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/84d64f74-7eeb-4e9f-bca5-6c54c4fdae05",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:01:30.218000",
+      "title": "Export au format JSON",
+      "url": "https://ressources.data.sncf.com/explore/dataset/effectif-agents-surete-ferroviaire/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "effectif-des-agents-de-la-surete-ferroviaire-depuis-2011",
+  "spatial": null,
+  "tags": [
+    "effectifs",
+    "informations-institutionnelles-et-financieres",
+    "surete"
+  ],
+  "temporal_coverage": null,
+  "title": "Effectif des agents de la s\u00fbret\u00e9 ferroviaire depuis 2011",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/effectif-des-agents-de-la-surete-ferroviaire-depuis-2011/"
+}

@@ -1,0 +1,60 @@
+{
+  "acronym": null,
+  "badges": [],
+  "created_at": "2014-10-02T15:19:41.598000",
+  "deleted": null,
+  "description": "Regroupement informel des membres du canal IRC #OpenDataBourgogne",
+  "id": "542d50ed88ee38615b8561ac",
+  "last_modified": "2017-11-24T23:56:41.405000",
+  "logo": "https://www.data.gouv.fr/s/avatars/4d/b1897d7fd240a19ec02119e5f52ee0-original.png",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/4d/b1897d7fd240a19ec02119e5f52ee0-100.png",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/84/95e3ef9f0a4832b99a26cbacf728c9-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/84/95e3ef9f0a4832b99a26cbacf728c9-100.jpg",
+        "class": "User",
+        "first_name": "Brice",
+        "id": "534fff3da3a7292c64a7746f",
+        "last_name": "Person",
+        "page": "https://www.data.gouv.fr/fr/users/brice-person/",
+        "slug": "brice-person",
+        "uri": "https://www.data.gouv.fr/api/1/users/brice-person/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "William",
+        "id": "559b80dec751df205f390bd3",
+        "last_name": "Petit",
+        "page": "https://www.data.gouv.fr/fr/users/william-petit/",
+        "slug": "william-petit",
+        "uri": "https://www.data.gouv.fr/api/1/users/william-petit/"
+      }
+    }
+  ],
+  "metrics": {
+    "dataset_views": 17,
+    "datasets": 2,
+    "followers": 3,
+    "members": 2,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 0,
+    "resource_downloads": 53,
+    "reuse_views": 0,
+    "reuses": 0,
+    "views": 53
+  },
+  "name": "Open Data Bourgogne",
+  "page": "https://www.data.gouv.fr/fr/organizations/open-data-bourgogne/",
+  "slug": "open-data-bourgogne",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/open-data-bourgogne/",
+  "url": "http://opendatabourgogne.org/"
+}

@@ -1,0 +1,126 @@
+{
+  "badges": [],
+  "created_at": "2017-09-29T00:00:00",
+  "deleted": null,
+  "description": "Liste d\u2019\u00e9quipements et de prestataires permettant de faire des promenades comment\u00e9es (bateaux promenade, cal\u00e8ches promenade, promenades en voiture, t\u00e9l\u00e9ph\u00e9riques touristiques, trains touristiques) en Aquitaine, issue de la base de donn\u00e9es SIRTAQUI.\nCe fichier contient les informations de g\u00e9olocalisation et de contact, les informations sur le type d\u2019\u00e9quipement, les marques et labels, les conditions d\u2019ouverture et de visites, les tarifs, les \u00e9quipements et les services propos\u00e9s.",
+  "extras": {
+    "ckan:name": "liste-de-prestataires-de-promenade-en-aquitaine",
+    "contact_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "contact_name": "CRTA",
+    "contact_uri": "https://datacat.datalocale.fr/414593",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
+    "guid": "https://datacat.datalocale.fr/415559",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-10-05T06:15:28.676025",
+    "harvest:remote_id": "173c8463-5600-4be5-93bd-a847d8b1977c",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "7679efc7-5905-48b1-9d1e-5eb442380b5d",
+    "issued": "2015-01-01T19:31:09+00:00",
+    "modified": "2016-07-18T09:21:07.400902+00:00",
+    "publisher_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "publisher_name": "agence SIRTAQUI",
+    "publisher_type": "\"Organisation \u00e0 but non lucratif\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414592",
+    "remote_url": "http://www.sirtaqui-aquitaine.com",
+    "theme": "[\"tourisme\"]",
+    "uri": "https://datacat.datalocale.fr/415559"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59cf1ab0b59508043de9b885",
+  "last_modified": "2017-10-05T06:15:28.678000",
+  "last_update": "2017-10-02T07:49:46.103000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-de-prestataires-de-promenade-en-aquitaine-2/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:16:47.637000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-16T00:31:00.482000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1810581/raw/liste-csv-se-promener-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "00f75d81-cace-4c40-b140-6bdc673e7ee1",
+      "last_modified": "2017-10-01T06:06:34.276000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/00f75d81-cace-4c40-b140-6bdc673e7ee1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-30T06:16:47.637000",
+      "title": "liste-csv-se-promener-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1810581/raw/liste-csv-se-promener-aquitaine.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-02T07:49:46.103000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-16T00:30:58.376000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1823692/raw/liste-csv-se-promener-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "415a0f94-1e98-4ea5-8eb7-1027761e15ab",
+      "last_modified": "2017-10-05T06:15:28.674000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/415a0f94-1e98-4ea5-8eb7-1027761e15ab",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-02T07:49:46.103000",
+      "title": "liste-csv-se-promener-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1823692/raw/liste-csv-se-promener-aquitaine.csv"
+    }
+  ],
+  "slug": "liste-de-prestataires-de-promenade-en-aquitaine-2",
+  "spatial": null,
+  "tags": [
+    "balade",
+    "loisirs",
+    "randonnee",
+    "tourisme",
+    "visites"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste de prestataires de promenade en Aquitaine",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-de-prestataires-de-promenade-en-aquitaine-2/"
+}

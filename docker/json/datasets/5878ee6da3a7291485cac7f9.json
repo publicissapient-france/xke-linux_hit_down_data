@@ -1,0 +1,599 @@
+{
+  "badges": [],
+  "created_at": "2013-02-22T00:00:00",
+  "deleted": null,
+  "description": "Liste des pr\u00e9noms des enfants n\u00e9s \u00e0 Nantes en 2010 avec le nombre d\u2019occurrences de chaque pr\u00e9nom.\n\nLorsque le nombre d'occurrences est inf\u00e9rieur ou \u00e9gal \u00e0 5, cette donn\u00e9e n'est pas publi\u00e9e, conform\u00e9ment aux pr\u00e9conisations de la CNIL.",
+  "extras": {
+    "ckan:name": "prenoms-des-enfants-a-nantes",
+    "harvest:domain": "www.nosdonnees.fr",
+    "harvest:last_update": "2017-07-10T06:05:46.198655",
+    "harvest:remote_id": "867d0d7b-fa16-434f-a230-41f351e998af",
+    "harvest:source_id": "5878ee1588ee385bffa6f719",
+    "remote_url": "http://data.nantes.fr/donnees/detail/?tx_icsoddatastore_pi1[uid]=59"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5878ee6da3a7291485cac7f9",
+  "last_modified": "2017-07-10T06:05:46.200000",
+  "last_update": "2017-01-13T16:12:45.945000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff99a3a7292c64a78016",
+    "logo": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-100.png",
+    "name": "NosDonn\u00e9es.fr",
+    "page": "https://www.data.gouv.fr/fr/organizations/nosdonnees-fr/",
+    "slug": "nosdonnees-fr",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nosdonnees-fr/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/prenoms-des-enfants-a-nantes/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:45.937000",
+      "description": "2010",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T08:13:41.697000",
+        "check:status": 200,
+        "check:url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2010_csv.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "acf62651-c3af-4581-83a1-a9ad2b35d0d4",
+      "last_modified": "2017-07-10T06:05:46.195000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/acf62651-c3af-4581-83a1-a9ad2b35d0d4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:12:45.937000",
+      "title": "",
+      "url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2010_csv.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:45.937000",
+      "description": "2010",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T07:34:14.487000",
+        "check:status": 200,
+        "check:url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2010_xls.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xls",
+      "id": "d4194aa4-b21e-41e0-b52c-16acc9f2581f",
+      "last_modified": "2017-07-10T06:05:46.195000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d4194aa4-b21e-41e0-b52c-16acc9f2581f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:12:45.937000",
+      "title": "",
+      "url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2010_xls.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:45.938000",
+      "description": "2009",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T07:34:13.249000",
+        "check:status": 200,
+        "check:url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2009_csv.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c92f92d8-e4f1-41fa-b9cd-bb7a31c9eeb9",
+      "last_modified": "2017-07-10T06:05:46.195000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c92f92d8-e4f1-41fa-b9cd-bb7a31c9eeb9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:12:45.938000",
+      "title": "",
+      "url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2009_csv.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:45.938000",
+      "description": "2009",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T07:34:10.462000",
+        "check:status": 200,
+        "check:url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2009_xls.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xls",
+      "id": "50051982-d08d-49a4-9e6e-802e90bc99a2",
+      "last_modified": "2017-07-10T06:05:46.195000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/50051982-d08d-49a4-9e6e-802e90bc99a2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:12:45.938000",
+      "title": "",
+      "url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2009_xls.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:45.939000",
+      "description": "2008",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T14:34:58.851000",
+        "check:status": 200,
+        "check:url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2008_csv.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "94e71a48-b19a-49d0-ae23-4719259d90ea",
+      "last_modified": "2017-07-10T06:05:46.195000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/94e71a48-b19a-49d0-ae23-4719259d90ea",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:12:45.939000",
+      "title": "",
+      "url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2008_csv.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:45.939000",
+      "description": "2008",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T07:34:12.418000",
+        "check:status": 200,
+        "check:url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2008_xls.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xls",
+      "id": "020e6e0b-5a62-4599-8c42-6c1265b1ac11",
+      "last_modified": "2017-07-10T06:05:46.196000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/020e6e0b-5a62-4599-8c42-6c1265b1ac11",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:12:45.939000",
+      "title": "",
+      "url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2008_xls.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:45.939000",
+      "description": "2007",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-26T14:37:34.962000",
+        "check:status": 200,
+        "check:url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2007_csv.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "ceac9814-0b60-49ee-9715-c868c4c8ab60",
+      "last_modified": "2017-07-10T06:05:46.196000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ceac9814-0b60-49ee-9715-c868c4c8ab60",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:12:45.939000",
+      "title": "",
+      "url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2007_csv.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:45.940000",
+      "description": "2007",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-26T14:37:36.034000",
+        "check:status": 200,
+        "check:url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2007_xls.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xls",
+      "id": "c56ece07-fd9d-48bf-97a4-3f61bab7fe2f",
+      "last_modified": "2017-07-10T06:05:46.196000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c56ece07-fd9d-48bf-97a4-3f61bab7fe2f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:12:45.940000",
+      "title": "",
+      "url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2007_xls.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:45.940000",
+      "description": "2006",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-26T14:37:36.318000",
+        "check:status": 200,
+        "check:url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2006_csv.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "77cfdb9c-7509-4eb9-ae89-f139fc707cd2",
+      "last_modified": "2017-07-10T06:05:46.196000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/77cfdb9c-7509-4eb9-ae89-f139fc707cd2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:12:45.940000",
+      "title": "",
+      "url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2006_csv.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:45.941000",
+      "description": "2006",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-26T14:37:36.883000",
+        "check:status": 200,
+        "check:url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2006_xls.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xls",
+      "id": "9090d793-9c60-440a-baef-3f3a9a1ef305",
+      "last_modified": "2017-07-10T06:05:46.196000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9090d793-9c60-440a-baef-3f3a9a1ef305",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:12:45.941000",
+      "title": "",
+      "url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2006_xls.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:45.941000",
+      "description": "2005",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-26T14:37:38.225000",
+        "check:status": 200,
+        "check:url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2005_csv.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "112629f9-6448-47ca-ab6d-3d7200a95890",
+      "last_modified": "2017-07-10T06:05:46.196000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/112629f9-6448-47ca-ab6d-3d7200a95890",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:12:45.941000",
+      "title": "",
+      "url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2005_csv.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:45.941000",
+      "description": "2005",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-26T14:37:54.476000",
+        "check:status": 200,
+        "check:url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2005_xls.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xls",
+      "id": "c46e5cd4-1348-4124-9f0a-e4f824216729",
+      "last_modified": "2017-07-10T06:05:46.196000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c46e5cd4-1348-4124-9f0a-e4f824216729",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:12:45.942000",
+      "title": "",
+      "url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2005_xls.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:45.942000",
+      "description": "2004",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-26T14:38:00.267000",
+        "check:status": 200,
+        "check:url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2004_csv.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "13acf9a5-9b7f-483b-b143-9e081a4b73f7",
+      "last_modified": "2017-07-10T06:05:46.197000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/13acf9a5-9b7f-483b-b143-9e081a4b73f7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:12:45.942000",
+      "title": "",
+      "url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2004_csv.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:45.942000",
+      "description": "2004",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-26T14:38:00.283000",
+        "check:status": 200,
+        "check:url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2004_xls.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xls",
+      "id": "4b587ae6-be12-493d-ad87-78b82031ce56",
+      "last_modified": "2017-07-10T06:05:46.197000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4b587ae6-be12-493d-ad87-78b82031ce56",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:12:45.942000",
+      "title": "",
+      "url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2004_xls.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:45.943000",
+      "description": "2003",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-26T14:38:00.284000",
+        "check:status": 200,
+        "check:url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2003_csv.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "bce33048-e8f0-4778-959a-18cfa66eb1dd",
+      "last_modified": "2017-07-10T06:05:46.197000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/bce33048-e8f0-4778-959a-18cfa66eb1dd",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:12:45.943000",
+      "title": "",
+      "url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2003_csv.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:45.943000",
+      "description": "2003",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-26T14:38:00.689000",
+        "check:status": 200,
+        "check:url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2003_xls.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xls",
+      "id": "e1ffad24-2e39-46a0-a747-6d0f00284b74",
+      "last_modified": "2017-07-10T06:05:46.197000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e1ffad24-2e39-46a0-a747-6d0f00284b74",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:12:45.943000",
+      "title": "",
+      "url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2003_xls.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:45.944000",
+      "description": "2002",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-26T14:38:00.696000",
+        "check:status": 200,
+        "check:url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2002_csv.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "10124181-5ac0-4a86-b202-c012b333361a",
+      "last_modified": "2017-07-10T06:05:46.197000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/10124181-5ac0-4a86-b202-c012b333361a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:12:45.944000",
+      "title": "",
+      "url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2002_csv.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:45.944000",
+      "description": "2002",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-26T14:38:17.616000",
+        "check:status": 200,
+        "check:url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2002_xls.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xls",
+      "id": "6f6806fb-b908-4076-9bf9-9d050d48c103",
+      "last_modified": "2017-07-10T06:05:46.197000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6f6806fb-b908-4076-9bf9-9d050d48c103",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:12:45.944000",
+      "title": "",
+      "url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2002_xls.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:45.945000",
+      "description": "2001",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-26T14:38:18.100000",
+        "check:status": 200,
+        "check:url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2001_csv.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "d4564cc0-ddd4-4c81-b93e-c4af2eabcb53",
+      "last_modified": "2017-07-10T06:05:46.197000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d4564cc0-ddd4-4c81-b93e-c4af2eabcb53",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:12:45.945000",
+      "title": "",
+      "url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2001_csv.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:45.945000",
+      "description": "2001",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-26T14:38:18.207000",
+        "check:status": 200,
+        "check:url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2001_xls.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xls",
+      "id": "5a211aac-efd2-417e-8d73-4e1a37340279",
+      "last_modified": "2017-07-10T06:05:46.198000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5a211aac-efd2-417e-8d73-4e1a37340279",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-01-13T16:12:45.945000",
+      "title": "",
+      "url": "http://data.nantes.fr/fileadmin/data/datastore/3-publication/citoyennete/prenoms_enfants_nantes/prenoms_enfants_nantes_2001_xls.zip"
+    }
+  ],
+  "slug": "prenoms-des-enfants-a-nantes",
+  "spatial": null,
+  "tags": [
+    "2001-2010",
+    "etat-civil",
+    "naissances",
+    "nantes",
+    "prenoms"
+  ],
+  "temporal_coverage": null,
+  "title": "Pr\u00e9noms des enfants n\u00e9s \u00e0 Nantes",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/prenoms-des-enfants-a-nantes/"
+}

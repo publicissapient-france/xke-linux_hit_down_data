@@ -1,0 +1,107 @@
+{
+  "badges": [],
+  "created_at": "2017-01-05T03:24:30.176000",
+  "deleted": null,
+  "description": "Statistiques mensuelles du nombre de t\u00e9l\u00e9chargements des jeux de donn\u00e9es \u00e0 partir de la\u00a0[plateforme open data du\u00a0Minist\u00e8re en charge de l'enseignement sup\u00e9rieur et de la recherche](http://data.enseignementsup-recherche.gouv.fr/explore/?sort=modified) et de la\u00a0[plateforme open data\u00a0data.gouv.fr](https://www.data.gouv.fr/fr/)",
+  "extras": {
+    "harvest:domain": "data.enseignementsup-recherche.gouv.fr",
+    "harvest:last_update": "2017-11-27T04:00:21.082116",
+    "harvest:remote_id": "fr_telechargements_jeux_open_data",
+    "harvest:source_id": "586961d688ee3816ad3f4e5d",
+    "ods:has_records": true,
+    "ods:url": "https://data.enseignementsup-recherche.gouv.fr//explore/dataset/fr_telechargements_jeux_open_data/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "586dae5ea3a7290df5f4be71",
+  "last_modified": "2017-11-27T04:00:21.084000",
+  "last_update": "2017-11-27T04:00:21.081000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "MESRI",
+    "class": "Organization",
+    "id": "534fff90a3a7292c64a77f45",
+    "logo": "https://www.data.gouv.fr/s/avatars/00/933e61180545a6a4c5afa4f6077183-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/00/933e61180545a6a4c5afa4f6077183-100.jpg",
+    "name": "Minist\u00e8re de l'Enseignement sup\u00e9rieur, de la Recherche et de l'Innovation",
+    "page": "https://www.data.gouv.fr/fr/organizations/enseignement-superieur-et-recherche/",
+    "slug": "enseignement-superieur-et-recherche",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/enseignement-superieur-et-recherche/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/statistiques-mensuelles-du-nombre-de-telechargements-des-jeux-de-donnees-open-data/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:00:21.081000",
+      "description": "- *annee_mois*: annees_mois[text]\n- *Mois*: mois[text]\n- *Ann\u00e9e*: annee[text]\n- *Temps*: temps[date]\n- *Titre du jeu de donn\u00e9es*: titre[text]\n- *Identifiant du jeu de donn\u00e9es*: dataset[text]\n- *Nombre de t\u00e9l\u00e9chargements du mois*: nb_telechargements_mois[int]\n- *Nombre de t\u00e9l\u00e9chargements cumul\u00e9s*: nb_telechargements_cumules[int]\n- *Acc\u00e8s aux informations sur le jeu de donn\u00e9es*: meta[text]\n- *Acc\u00e8s aux donn\u00e9es*: data[text]\n- *Acc\u00e8s \u00e0 la page d'exportation des donn\u00e9es*: export[text]\n- *Acc\u00e8s \u00e0 la console API*: api[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "6934524d-e4b7-4459-811f-f9eba3248b1b",
+      "last_modified": "2017-11-02T10:18:26",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6934524d-e4b7-4459-811f-f9eba3248b1b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T04:00:21.081000",
+      "title": "Export au format CSV",
+      "url": "https://data.enseignementsup-recherche.gouv.fr//explore/dataset/fr_telechargements_jeux_open_data/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:00:21.081000",
+      "description": "- *annee_mois*: annees_mois[text]\n- *Mois*: mois[text]\n- *Ann\u00e9e*: annee[text]\n- *Temps*: temps[date]\n- *Titre du jeu de donn\u00e9es*: titre[text]\n- *Identifiant du jeu de donn\u00e9es*: dataset[text]\n- *Nombre de t\u00e9l\u00e9chargements du mois*: nb_telechargements_mois[int]\n- *Nombre de t\u00e9l\u00e9chargements cumul\u00e9s*: nb_telechargements_cumules[int]\n- *Acc\u00e8s aux informations sur le jeu de donn\u00e9es*: meta[text]\n- *Acc\u00e8s aux donn\u00e9es*: data[text]\n- *Acc\u00e8s \u00e0 la page d'exportation des donn\u00e9es*: export[text]\n- *Acc\u00e8s \u00e0 la console API*: api[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "53be12e6-ded7-4713-94b2-0077b6880e9b",
+      "last_modified": "2017-11-02T10:18:26",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/53be12e6-ded7-4713-94b2-0077b6880e9b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T04:00:21.081000",
+      "title": "Export au format JSON",
+      "url": "https://data.enseignementsup-recherche.gouv.fr//explore/dataset/fr_telechargements_jeux_open_data/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "statistiques-mensuelles-du-nombre-de-telechargements-des-jeux-de-donnees-open-data",
+  "spatial": null,
+  "tags": [
+    "administration",
+    "citoyennete",
+    "fichiers",
+    "finances-publiques",
+    "gouvernement",
+    "open-data",
+    "statistiques",
+    "telechargement",
+    "telechargements"
+  ],
+  "temporal_coverage": null,
+  "title": "Statistiques mensuelles du nombre de t\u00e9l\u00e9chargements des jeux de donn\u00e9es open data",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/statistiques-mensuelles-du-nombre-de-telechargements-des-jeux-de-donnees-open-data/"
+}

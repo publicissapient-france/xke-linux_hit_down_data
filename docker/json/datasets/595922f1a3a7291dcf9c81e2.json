@@ -1,0 +1,254 @@
+{
+  "badges": [],
+  "created_at": "2017-06-12T00:00:00",
+  "deleted": null,
+  "description": "Les fichiers mis \u00e0 disposition correspondent \u00e0 la norme comptable M52 par chapitre et par article correspondant \u00e0 l'\u00e9tape budg\u00e9taire du vote de la seconde d\u00e9cision modificative de la collectivit\u00e9 vot\u00e9 par les \u00e9lus en assembl\u00e9 g\u00e9n\u00e9rale en d\u00e9cembre.\nLes diff\u00e9rents fichiers correspondent aux diff\u00e9rentes \u00e9tapes budg\u00e9taires vot\u00e9es par les conseillers d\u00e9partementaux",
+  "extras": {
+    "ckan:name": "budgets-decision-modificative-du-departement-de-la-gironde",
+    "contact_email": "mailto:b.siracusa@cg33.fr",
+    "contact_name": "B\u00e9atrice Siracusa",
+    "contact_uri": "https://datacat.datalocale.fr/415161",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+    "guid": "https://datacat.datalocale.fr/1014555",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-07-07T06:06:18.437456",
+    "harvest:remote_id": "5d294521-06aa-430d-9fc8-b9c8dbd8405e",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "issued": "2016-12-08T15:42:58.160385+00:00",
+    "modified": "2016-12-08T15:42:58.160385+00:00",
+    "publisher_email": "mailto:datalocale@gironde.fr",
+    "publisher_name": "D\u00e9partement de la Gironde",
+    "publisher_type": "\"Collectivit\u00e9 locale\"",
+    "publisher_uri": "https://datacat.datalocale.fr/416453",
+    "remote_url": "http://www.gironde.fr/jcms/c_17142/le-budget-2016-du-departement",
+    "theme": "[\"2436 finances publiques et politique budg\u00e9taire\", \"finances locales\", \"budget rectificatif\", \"finances publiques\"]",
+    "uri": "https://datacat.datalocale.fr/1014555"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "595922f1a3a7291dcf9c81e2",
+  "last_modified": "2017-07-07T06:06:18.439000",
+  "last_update": "2017-07-02T18:44:33.389000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/budgets-decision-modificative-du-departement-de-la-gironde-1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:44:33.386000",
+      "description": "export en csv de la seconde d\u00e9cision modificative du budget 2014 du D\u00e9partement de la Gironde",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T08:13:38.493000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1242216/raw/cedi_2014_DM2.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "bc6b4847-fc41-43a2-8aae-3be520f6ba93",
+      "last_modified": "2017-07-07T06:06:18.435000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/bc6b4847-fc41-43a2-8aae-3be520f6ba93",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T18:44:33.387000",
+      "title": "cedi_2014_DM2.csv",
+      "url": "https://datacat.datalocale.fr/file/1242216/raw/cedi_2014_DM2.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:44:33.387000",
+      "description": "export en csv de la seconde \u00e9tape modificative du budget 2013 du D\u00e9partement de la Gironde",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T08:13:35.846000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1242215/raw/cedi_2013_DM2.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "0ebb6811-be24-41cc-bd53-de4c9a428f04",
+      "last_modified": "2017-07-07T06:06:18.436000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0ebb6811-be24-41cc-bd53-de4c9a428f04",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T18:44:33.387000",
+      "title": "cedi_2013_DM2.csv",
+      "url": "https://datacat.datalocale.fr/file/1242215/raw/cedi_2013_DM2.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:44:33.387000",
+      "description": "export en csv de la seconde \u00e9tape modificative du budget du D\u00e9partement de la Gironde",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T08:13:38.579000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1242199/raw/cedi_2010_DM2.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2831eba6-be7f-43cc-b448-6f48d48002f0",
+      "last_modified": "2017-07-07T06:06:18.436000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2831eba6-be7f-43cc-b448-6f48d48002f0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T18:44:33.387000",
+      "title": "cedi_2010_DM2.csv",
+      "url": "https://datacat.datalocale.fr/file/1242199/raw/cedi_2010_DM2.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:44:33.388000",
+      "description": "export en csv de la seconde \u00e9tape modificative du budget du D\u00e9partement de la Gironde",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T08:13:40.080000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1242214/raw/cedi_2011_DM2.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "15b80bff-fdd7-4cfc-be60-35bdda7b4219",
+      "last_modified": "2017-07-07T06:06:18.436000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/15b80bff-fdd7-4cfc-be60-35bdda7b4219",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T18:44:33.388000",
+      "title": "cedi_2011_DM2.csv",
+      "url": "https://datacat.datalocale.fr/file/1242214/raw/cedi_2011_DM2.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:44:33.388000",
+      "description": "export en csv de la seconde d\u00e9cision modificative du budget 2014 du D\u00e9partement de la Gironde",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T08:13:35.860000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1242217/raw/cedi_2015_DM2.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b2124abd-ccf8-4cb6-b9ad-573a80345921",
+      "last_modified": "2017-07-07T06:06:18.436000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b2124abd-ccf8-4cb6-b9ad-573a80345921",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T18:44:33.388000",
+      "title": "cedi_2015_DM2.csv",
+      "url": "https://datacat.datalocale.fr/file/1242217/raw/cedi_2015_DM2.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:44:33.389000",
+      "description": "export en csv de la seconde d\u00e9cision modificative du budget 2016 du D\u00e9partement de la Gironde",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T02:38:01.342000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1242218/raw/cedi_2016_DM2.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a6a06b25-f202-4092-8cde-9606c57b44c2",
+      "last_modified": "2017-07-07T06:06:18.436000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a6a06b25-f202-4092-8cde-9606c57b44c2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T18:44:33.389000",
+      "title": "cedi_2016_DM2.csv",
+      "url": "https://datacat.datalocale.fr/file/1242218/raw/cedi_2016_DM2.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:44:33.389000",
+      "description": "export en csv de la seconde \u00e9tape modificative du budget du D\u00e9partement de la Gironde",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "d8e6c637-1ba4-44b4-bbcd-f2d855489c0c",
+      "last_modified": "2017-07-07T06:06:18.436000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d8e6c637-1ba4-44b4-bbcd-f2d855489c0c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T18:44:33.389000",
+      "title": "cedi_2009_DM2.csv",
+      "url": "https://datacat.datalocale.fr/file/1242189/raw/cedi_2009_DM2.csv"
+    }
+  ],
+  "slug": "budgets-decision-modificative-du-departement-de-la-gironde-1",
+  "spatial": null,
+  "tags": [
+    "budget",
+    "finances",
+    "m52",
+    "transparence"
+  ],
+  "temporal_coverage": null,
+  "title": "Budgets d\u00e9cision modificative du d\u00e9partement de la Gironde",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/budgets-decision-modificative-du-departement-de-la-gironde-1/"
+}

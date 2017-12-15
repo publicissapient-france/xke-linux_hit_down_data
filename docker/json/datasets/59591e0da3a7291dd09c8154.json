@@ -1,0 +1,100 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T18:23:41.075000",
+  "deleted": null,
+  "description": "R\u00e9partition par statut et par genre des effectifs non permanents du conseil r\u00e9gional \u00cele-de-France r\u00e9mun\u00e9r\u00e9s au 31 d\u00e9cembre.\n\nCes donn\u00e9es sont issues du Bilan social publi\u00e9 chaque ann\u00e9e par l'unit\u00e9 Personnel et Ressources Humaines\u00a0de la R\u00e9gion \u00cele-de-France. Le bilan social pr\u00e9sente les donn\u00e9es relatives \u00e0 l\u2019ensemble du personnel de la collectivit\u00e9.",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T06:03:51.889579",
+    "harvest:remote_id": "effectifs-non-permanents-bilan-social",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/effectifs-non-permanents-bilan-social/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59591e0da3a7291dd09c8154",
+  "last_modified": "2017-11-27T06:03:51.891000",
+  "last_update": "2017-11-27T06:03:51.888000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/effectifs-non-permanents-bilan-social/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:03:51.888000",
+      "description": "- *Ann\u00e9e*: annee[int]\n- *Statut*: statut[text]\n- *Genre*: genre[text]\n- *Personnels non-titulaires sur un emploi non permanent*: personnels_non_titulaires_sur_un_emploi_non_permanent[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "cb565e81-f45c-4c99-a886-b08845b810f2",
+      "last_modified": "2016-06-15T21:52:32",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cb565e81-f45c-4c99-a886-b08845b810f2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T06:03:51.888000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/effectifs-non-permanents-bilan-social/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:03:51.888000",
+      "description": "- *Ann\u00e9e*: annee[int]\n- *Statut*: statut[text]\n- *Genre*: genre[text]\n- *Personnels non-titulaires sur un emploi non permanent*: personnels_non_titulaires_sur_un_emploi_non_permanent[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "d496f13a-9807-4d57-bb34-9b04efabe296",
+      "last_modified": "2016-06-15T21:52:32",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d496f13a-9807-4d57-bb34-9b04efabe296",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T06:03:51.888000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/effectifs-non-permanents-bilan-social/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "effectifs-non-permanents-bilan-social",
+  "spatial": null,
+  "tags": [
+    "administration",
+    "bilan-social",
+    "ressources-humaines"
+  ],
+  "temporal_coverage": null,
+  "title": "Effectifs non permanents - bilan social",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/effectifs-non-permanents-bilan-social/"
+}

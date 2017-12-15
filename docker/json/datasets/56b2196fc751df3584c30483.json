@@ -1,0 +1,79 @@
+{
+  "badges": [],
+  "created_at": "2016-02-03T16:14:55.975000",
+  "deleted": null,
+  "description": "Liste et contacts des associations de la Communaut\u00e9 d'Agglom\u00e9ration Bar-le-Duc Sud Meuse",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": "2017-02-03T16:13:52",
+  "id": "56b2196fc751df3584c30483",
+  "last_modified": "2016-02-08T15:34:18.115000",
+  "last_update": "2016-02-03T16:14:59.918000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "56b8a4ffc751df02a29f9deb",
+    "logo": "https://www.data.gouv.fr/s/avatars/50/57ae17a70e4c8e96dc74e50f80c748-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/50/57ae17a70e4c8e96dc74e50f80c748-100.jpg",
+    "name": "Communaut\u00e9 d'Agglom\u00e9ration Bar-le-Duc Sud Meuse",
+    "page": "https://www.data.gouv.fr/fr/organizations/communaute-dagglomeration-bar-le-duc-sud-meuse/",
+    "slug": "communaute-dagglomeration-bar-le-duc-sud-meuse",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/communaute-dagglomeration-bar-le-duc-sud-meuse/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/annuaire-des-associations-de-la-communaute-dagglomeration-meuse-grand-sud/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "00024aed2577cf22f17e1469d01e18de7cced562"
+      },
+      "created_at": "2016-02-03T16:14:59.918000",
+      "description": "",
+      "extras": {},
+      "filesize": 35573,
+      "filetype": "file",
+      "format": "csv",
+      "id": "a2f3b256-2648-4d64-9260-80deb5ce95f9",
+      "last_modified": "2016-02-03T16:15:01.606000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a2f3b256-2648-4d64-9260-80deb5ce95f9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": "text/csv",
+      "published": "2016-02-03T16:14:59.918000",
+      "title": "Annuaire_des_Associations_Agglo.csv",
+      "url": "https://www.data.gouv.fr/s/resources/annuaire-des-associations-de-la-communaute-dagglomeration-meuse-grand-sud/20160203-161459/Annuaire_des_Associations_Agglo.csv"
+    }
+  ],
+  "slug": "annuaire-des-associations-de-la-communaute-dagglomeration-meuse-grand-sud",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:epci",
+    "zones": [
+      "fr:epci:200033025@2013-01-01"
+    ]
+  },
+  "tags": [
+    "associations"
+  ],
+  "temporal_coverage": null,
+  "title": "Annuaire des Associations de la Communaut\u00e9 d'Agglom\u00e9ration Meuse Grand Sud",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/annuaire-des-associations-de-la-communaute-dagglomeration-meuse-grand-sud/"
+}

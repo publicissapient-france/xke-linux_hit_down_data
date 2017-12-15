@@ -1,0 +1,106 @@
+{
+  "badges": [],
+  "created_at": "2017-06-08T06:03:57.066000",
+  "deleted": null,
+  "description": "##  Localisation des carrefours impact\u00e9s par des travaux, et date des chantiers. \n\n####  Le tableau est actualis\u00e9 quotidiennement.\n\n* * *\n\n> **Mise en garde : Ces donn\u00e9es sont indicatives et ne tiennent pas compte des \u00e9volutions possibles en cours d'am\u00e9nagement.**\n\n* * *\n\nPour toute information concernant les travaux de voirie de la MEL, contactez-nous \u00e0 l'adresse : **contact@lillemetropole.fr**\n\n* * *",
+  "extras": {
+    "harvest:domain": "opendata.lillemetropole.fr",
+    "harvest:last_update": "2017-11-27T05:28:04.454579",
+    "harvest:remote_id": "carrefours-de-voirie-impactes-par-des-travaux-temps-reel",
+    "harvest:source_id": "58b68fdcc751df10ea84f9cc",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.lillemetropole.fr//explore/dataset/carrefours-de-voirie-impactes-par-des-travaux-temps-reel/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5938ccada3a72968e287762d",
+  "last_modified": "2017-11-27T05:28:04.460000",
+  "last_update": "2017-11-27T05:28:04.453000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "MEL",
+    "class": "Organization",
+    "id": "58b69c62c751df4b175dd7a4",
+    "logo": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-100.png",
+    "name": "M\u00e9tropole Europ\u00e9enne de Lille ",
+    "page": "https://www.data.gouv.fr/fr/organizations/metropole-europeenne-de-lille/",
+    "slug": "metropole-europeenne-de-lille",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/metropole-europeenne-de-lille/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/carrefours-de-voirie-impactes-par-des-travaux-temps-reel/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:28:04.453000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "210a89e0-a679-4daf-a7f3-afe2264e58ac",
+      "last_modified": "2017-06-01T14:33:40",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/210a89e0-a679-4daf-a7f3-afe2264e58ac",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:28:04.453000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/carrefours-de-voirie-impactes-par-des-travaux-temps-reel/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:28:04.453000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "05c42490-f86a-43cc-a02c-8dfa584e7de4",
+      "last_modified": "2017-06-01T14:33:40",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/05c42490-f86a-43cc-a02c-8dfa584e7de4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:28:04.453000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/carrefours-de-voirie-impactes-par-des-travaux-temps-reel/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "carrefours-de-voirie-impactes-par-des-travaux-temps-reel",
+  "spatial": null,
+  "tags": [
+    "amenagement-du-territoire",
+    "batiments",
+    "carrefours",
+    "chantiers",
+    "equipements",
+    "logement",
+    "travaux",
+    "urbanisme",
+    "voirie"
+  ],
+  "temporal_coverage": null,
+  "title": "Carrefours de voirie impact\u00e9s par des travaux (temps r\u00e9el)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/carrefours-de-voirie-impactes-par-des-travaux-temps-reel/"
+}

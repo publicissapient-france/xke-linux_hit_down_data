@@ -1,0 +1,104 @@
+{
+  "badges": [],
+  "created_at": "2017-06-09T06:02:03.303000",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es, rafra\u00eechi une fois par jour, pr\u00e9sente les donn\u00e9es consolid\u00e9es (2017) et d\u00e9finitives (2012 \u00e0 2016)\u00a0issues de l'application \u00e9CO2mix. Elles sont \u00e9labor\u00e9es \u00e0 partir des comptages et compl\u00e9t\u00e9es par des forfaits. Les donn\u00e9es sont dites\u00a0consolid\u00e9es lorsqu'elles ont \u00e9t\u00e9 v\u00e9rifi\u00e9es et compl\u00e9t\u00e9es (livraison en milieu de M+1). Elles deviennent d\u00e9finitives lorsque\u00a0tous les partenaires ont\u00a0transmis et v\u00e9rifi\u00e9 l'ensemble de leurs comptages (livraison deuxi\u00e8me sem\u00e8stre A+1).\n\nVous y trouverez au pas quart d'heure:\n\n  * Les pr\u00e9visions de consommation \u00e9tablies la veille (J-1) et celles r\u00e9actualis\u00e9es le jour m\u00eame (J).\n\n\n\nVous y trouverez au pas demi-heure:\n\n  * La consommation r\u00e9alis\u00e9e.\n  * La production selon les diff\u00e9rentes\u00a0fili\u00e8res composant le mix \u00e9nerg\u00e9tique.\n  * La consommation des pompes dans les Stations de Transfert d'Energie par Pompage (STEP).\n  * Les \u00e9changes physiques aux fronti\u00e8res\n  * Une estimation des \u00e9missions de carbone g\u00e9n\u00e9r\u00e9es par la production d'\u00e9lectricit\u00e9 en France\n  * Les \u00e9changes\u00a0commerciaux aux fronti\u00e8res.\n  * Le d\u00e9coupage\u00a0des fili\u00e8res\u00a0par technologie du mix de production (d\u00e9bute en 2013).\n\n\n\nSi vous souhaitez consulter les donn\u00e9es \"temps r\u00e9el\" apr\u00e8s la derni\u00e8re consolidation, vous pouvez suivre ce lien:\n\n<https://opendata.rte-france.com/explore/dataset/eco2mix_national_tr/>\n\nPour en savoir plus, n'h\u00e9sitez pas \u00e0 consulter le site \u00e9CO2mix\u00a0\u00e0 cette adresse:\n\n<http://www.rte-france.com/fr/eco2mix/eco2mix>\n\n__",
+  "extras": {
+    "harvest:domain": "opendata.rte-france.com",
+    "harvest:last_update": "2017-11-27T05:14:48.415684",
+    "harvest:remote_id": "eco2mix_nationales_cons_def",
+    "harvest:source_id": "56ebe63cc751df69fa170353",
+    "ods:has_records": true,
+    "ods:references": "http://www.rte-france.com/fr/eco2mix/eco2mix",
+    "ods:url": "https://opendata.rte-france.com//explore/dataset/eco2mix_nationales_cons_def/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "593a1dbba3a72968e2877ce1",
+  "last_modified": "2017-11-27T05:14:48.419000",
+  "last_update": "2017-11-27T05:14:48.414000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 2
+  },
+  "organization": {
+    "acronym": "RTE",
+    "class": "Organization",
+    "id": "55f03e1088ee384bc1a46ec1",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-09-09/595e18df74fa490f93c7b2f52c28730e/sans-titre-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-09-09/595e18df74fa490f93c7b2f52c28730e/sans-titre-100.png",
+    "name": "R\u00e9seau de Transport d'Electricit\u00e9",
+    "page": "https://www.data.gouv.fr/fr/organizations/reseau-de-transport-delectricite/",
+    "slug": "reseau-de-transport-delectricite",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/reseau-de-transport-delectricite/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/donnees-eco2mix-nationales-consolidees-et-definitives-2012-a-2017/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:48.413000",
+      "description": "- *Perimetre*: perimetre[text] Uniquement France pour ce jeu de donn\u00e9es.\n- *Nature*: nature[text]\n- *Date*: date[text]\n- *Heure*: heure[text]\n- *Date et Heure*: date_heure[datetime]\n- *Consommation (MW)*: conso[int]\n- *Pr\u00e9vision J-1 (MW)*: prevision_j_1[int] Pr\u00e9vision, r\u00e9alis\u00e9e la veille pour le lendemain, de la consommation.\n- *Pr\u00e9vision J (MW)*: prevision_j[int] Pr\u00e9vision, r\u00e9alis\u00e9e le jour m\u00eame, de la consommation.\n- *Production Fioul (MW)*: fioul[int]\n- *Production Charbon (MW)*: charbon[int]\n- *Production Gaz (MW)*: gaz[int]\n- *Production Nucleaire (MW)*: nucleaire[int]\n- *Production Eolienne (MW)*: eolien[int]\n- *Production Solaire (MW)*: solaire[int]\n- *Production Hydraulique (MW)*: hydraulique[int]\n- *Pompage (MW)*: pompage[int] Puissance consomm\u00e9e par les pompes dans les Stations de Transfert d'Energie par Pompage (STEP)\n- *Production Bioenergies (MW)*: bioenergies[int]\n- *Ech. physiques (MW)*: ech_physiques[int] Solde des \u00e9changes physiques aux interconnexions avec les autres pays:\nExportateur si n\u00e9gatif, importateur si positif.\n- *Taux de Co2 (g/kWh)*: taux_de_co2[int] Estimation des \u00e9missions de carbone g\u00e9n\u00e9r\u00e9es par la production d'\u00e9lectricit\u00e9 en France.\n- *Ech. comm. Angleterre (MW)*: ech_comm_angleterre[int] Solde des \u00e9changes commerciaux entre la France et l'Angleterre.\nExportateur si n\u00e9gatif, importateur si positif.\n- *Ech. comm. Espagne (MW)*: ech_comm_espagne[int] Solde des \u00e9changes commerciaux entre la France et l'Espagne.\nExportateur si n\u00e9gatif, importateur si positif.\n- *Ech. comm. Italie (MW)*: ech_comm_italie[int] Solde des \u00e9changes commerciaux entre la France et l'Italie.\nExportateur si n\u00e9gatif, importateur si positif.\n- *Ech. comm. Suisse (MW)*: ech_comm_suisse[int] Solde des \u00e9changes commerciaux entre la France et la Suisse.\nExportateur si n\u00e9gatif, importateur si positif.\n- *Ech. comm. Allemagne-Belgique (MW)*: ech_comm_allemagne_belgique[text] Solde des \u00e9changes commerciaux entre la France et la zone Allemagne et Belgique.\nExportateur si n\u00e9gatif, importateur si positif.\n- *Fioul TAC (MW)*: fioul_tac[int] Production des Turbines \u00e0 Combustion fonctionnant au fioul.\n- *Fioul Cogeneration (MW)*: fioul_cogen[int] Production des cog\u00e9n\u00e9rations fonctionnant au fioul\n- *Fioul Autres (MW)*: fioul_autres[int] Autres technologies fonctionnant au fioul\n- *Gaz TAC (MW)*: gaz_tac[int] Production des Turbines \u00e0 Combustion fonctionnant au gaz\n- *Gaz Cogeneration (MW)*: gaz_cogen[text] Production des cog\u00e9n\u00e9rations fonctionnant au gaz\n- *Gaz CCG (MW)*: gaz_ccg[int] Production des Cycles Combin\u00e9s Gaz\n- *Gaz Autres (MW)*: gaz_autres[int] Autres technologies fonctionnant au gaz\n- *Hydraulique Fil de l'eau + eclusee (MW)*: hydraulique_fil_de_l_eau_eclusee[int]\n- *Hydraulique Lacs (MW)*: hydraulique_lacs[int]\n- *Hydraulique STEP turbinage (MW)*: hydraulique_step_turbinage[int] Production hydraulique issue des Stations de Transfert d'Energie par Pompage.\n- *Bioenergies Dechets (MW)*: bioenergies_dechets[int] Production bio\u00e9nergies r\u00e9alis\u00e9e \u00e0 partir des d\u00e9chets\n- *Bioenergies Biomasse (MW)*: bioenergies_biomasse[int] Production bio\u00e9nergies r\u00e9alis\u00e9e \u00e0 partir de la biomasse\n- *Bioenergies Biogaz (MW)*: bioenergies_biogaz[int] Production bio\u00e9nergies r\u00e9alis\u00e9e \u00e0 partir du biogaz\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c5b4b347-2aaa-4e04-aa3b-d008b2158dea",
+      "last_modified": "2017-11-07T17:02:29",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c5b4b347-2aaa-4e04-aa3b-d008b2158dea",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:14:48.413000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.rte-france.com//explore/dataset/eco2mix_nationales_cons_def/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:48.414000",
+      "description": "- *Perimetre*: perimetre[text] Uniquement France pour ce jeu de donn\u00e9es.\n- *Nature*: nature[text]\n- *Date*: date[text]\n- *Heure*: heure[text]\n- *Date et Heure*: date_heure[datetime]\n- *Consommation (MW)*: conso[int]\n- *Pr\u00e9vision J-1 (MW)*: prevision_j_1[int] Pr\u00e9vision, r\u00e9alis\u00e9e la veille pour le lendemain, de la consommation.\n- *Pr\u00e9vision J (MW)*: prevision_j[int] Pr\u00e9vision, r\u00e9alis\u00e9e le jour m\u00eame, de la consommation.\n- *Production Fioul (MW)*: fioul[int]\n- *Production Charbon (MW)*: charbon[int]\n- *Production Gaz (MW)*: gaz[int]\n- *Production Nucleaire (MW)*: nucleaire[int]\n- *Production Eolienne (MW)*: eolien[int]\n- *Production Solaire (MW)*: solaire[int]\n- *Production Hydraulique (MW)*: hydraulique[int]\n- *Pompage (MW)*: pompage[int] Puissance consomm\u00e9e par les pompes dans les Stations de Transfert d'Energie par Pompage (STEP)\n- *Production Bioenergies (MW)*: bioenergies[int]\n- *Ech. physiques (MW)*: ech_physiques[int] Solde des \u00e9changes physiques aux interconnexions avec les autres pays:\nExportateur si n\u00e9gatif, importateur si positif.\n- *Taux de Co2 (g/kWh)*: taux_de_co2[int] Estimation des \u00e9missions de carbone g\u00e9n\u00e9r\u00e9es par la production d'\u00e9lectricit\u00e9 en France.\n- *Ech. comm. Angleterre (MW)*: ech_comm_angleterre[int] Solde des \u00e9changes commerciaux entre la France et l'Angleterre.\nExportateur si n\u00e9gatif, importateur si positif.\n- *Ech. comm. Espagne (MW)*: ech_comm_espagne[int] Solde des \u00e9changes commerciaux entre la France et l'Espagne.\nExportateur si n\u00e9gatif, importateur si positif.\n- *Ech. comm. Italie (MW)*: ech_comm_italie[int] Solde des \u00e9changes commerciaux entre la France et l'Italie.\nExportateur si n\u00e9gatif, importateur si positif.\n- *Ech. comm. Suisse (MW)*: ech_comm_suisse[int] Solde des \u00e9changes commerciaux entre la France et la Suisse.\nExportateur si n\u00e9gatif, importateur si positif.\n- *Ech. comm. Allemagne-Belgique (MW)*: ech_comm_allemagne_belgique[text] Solde des \u00e9changes commerciaux entre la France et la zone Allemagne et Belgique.\nExportateur si n\u00e9gatif, importateur si positif.\n- *Fioul TAC (MW)*: fioul_tac[int] Production des Turbines \u00e0 Combustion fonctionnant au fioul.\n- *Fioul Cogeneration (MW)*: fioul_cogen[int] Production des cog\u00e9n\u00e9rations fonctionnant au fioul\n- *Fioul Autres (MW)*: fioul_autres[int] Autres technologies fonctionnant au fioul\n- *Gaz TAC (MW)*: gaz_tac[int] Production des Turbines \u00e0 Combustion fonctionnant au gaz\n- *Gaz Cogeneration (MW)*: gaz_cogen[text] Production des cog\u00e9n\u00e9rations fonctionnant au gaz\n- *Gaz CCG (MW)*: gaz_ccg[int] Production des Cycles Combin\u00e9s Gaz\n- *Gaz Autres (MW)*: gaz_autres[int] Autres technologies fonctionnant au gaz\n- *Hydraulique Fil de l'eau + eclusee (MW)*: hydraulique_fil_de_l_eau_eclusee[int]\n- *Hydraulique Lacs (MW)*: hydraulique_lacs[int]\n- *Hydraulique STEP turbinage (MW)*: hydraulique_step_turbinage[int] Production hydraulique issue des Stations de Transfert d'Energie par Pompage.\n- *Bioenergies Dechets (MW)*: bioenergies_dechets[int] Production bio\u00e9nergies r\u00e9alis\u00e9e \u00e0 partir des d\u00e9chets\n- *Bioenergies Biomasse (MW)*: bioenergies_biomasse[int] Production bio\u00e9nergies r\u00e9alis\u00e9e \u00e0 partir de la biomasse\n- *Bioenergies Biogaz (MW)*: bioenergies_biogaz[int] Production bio\u00e9nergies r\u00e9alis\u00e9e \u00e0 partir du biogaz\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "e9d4587c-a1d2-449c-a4e5-26e27b01b773",
+      "last_modified": "2017-11-07T17:02:29",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e9d4587c-a1d2-449c-a4e5-26e27b01b773",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:14:48.414000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.rte-france.com//explore/dataset/eco2mix_nationales_cons_def/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "donnees-eco2mix-nationales-consolidees-et-definitives-2012-a-2017",
+  "spatial": null,
+  "tags": [
+    "co2",
+    "consommation",
+    "eco2mix",
+    "filiere",
+    "interconnexion",
+    "production"
+  ],
+  "temporal_coverage": null,
+  "title": "Donn\u00e9es \u00e9CO2mix nationales consolid\u00e9es et d\u00e9finitives (2012 \u00e0 2017)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/donnees-eco2mix-nationales-consolidees-et-definitives-2012-a-2017/"
+}

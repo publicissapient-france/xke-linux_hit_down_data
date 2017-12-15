@@ -1,0 +1,140 @@
+{
+  "badges": [],
+  "created_at": "2017-08-12T06:07:29.901000",
+  "deleted": null,
+  "description": "**Donn\u00e9es de l'aide au d\u00e9veloppement de Proparco - mise \u00e0 jour juin 2017**\n\nLes donn\u00e9es portent sur les op\u00e9rations de Proparco, filiale de l'Agence Fran\u00e7aise de D\u00e9veloppement d\u00e9di\u00e9e au secteur priv\u00e9, dans le respect de ses obligations l\u00e9gales en mati\u00e8re de secret bancaire. Les donn\u00e9es couvrent l\u2019ensemble des projets sign\u00e9s depuis le 1er janvier 2014 et pour lesquels un accord de diffusion du client a \u00e9t\u00e9 obtenu.\n\nProparco visera une actualisation trimestrielle de la publication de ces donn\u00e9es, notamment pour prendre en compte les nouveaux projets financ\u00e9s par Proparco, sous r\u00e9serve de l\u2019autorisation des clients.",
+  "extras": {
+    "harvest:domain": "opendata.afd.fr",
+    "harvest:last_update": "2017-11-27T05:00:31.013445",
+    "harvest:remote_id": "donnees-de-laide-au-developpement-de-proparco",
+    "harvest:source_id": "595b8e0988ee385df155b35b",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.afd.fr//explore/dataset/donnees-de-laide-au-developpement-de-proparco/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "598e7f01a3a729783e0f68ee",
+  "last_modified": "2017-11-27T05:00:31.019000",
+  "last_update": "2017-11-27T05:00:31.012000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "AFD",
+    "class": "Organization",
+    "id": "5492ee28c751df24df04805b",
+    "logo": "https://www.data.gouv.fr/s/avatars/b9/e6cee4c6544deaa4877ebc8b2c4242-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b9/e6cee4c6544deaa4877ebc8b2c4242-100.png",
+    "name": "Agence Fran\u00e7aise de D\u00e9veloppement (AFD)",
+    "page": "https://www.data.gouv.fr/fr/organizations/agence-francaise-de-developpement-afd/",
+    "slug": "agence-francaise-de-developpement-afd",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/agence-francaise-de-developpement-afd/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/donnees-de-laide-au-developpement-de-proparco/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:00:31.010000",
+      "description": "- *Nature du client*: nature_du_client[text]\n- *Id. Projet*: id_projet[text]\n- *Id. Concours*: id_concours[text]\n- *Titre court du projet*: titre_court_du_projet[text]\n- *Titre du projet*: titre_du_projet[text]\n- *R\u00e9sum\u00e9 du projet*: resume_du_projet[text]\n- *Secteur(s) concern\u00e9(s) par le projet*: secteur_s_concerne_s_par_le_projet[text]\n- *Secteur principal*: secteur_principal[text]\n- *Nom du client*: nom_du_client[text]\n- *Pays de r\u00e9alisation*: pays_de_realisation[text]\n- *D\u00e9tail Multi-pays*: detail_multi_pays[text]\n- *Latitude*: latitude[double]\n- *Longitude*: longitude[double]\n- *Pays du si\u00e8ge social*: pays_du_siege_social[text]\n- *Organisme Financeur*: organisme_financeur[text]\n- *Date de signature *: date_de_signature[date]\n- *Montant du financement en euro*: montant_du_financement_en_euro[double]\n- *Type de financement (1)*: type_de_financement_1[text]\n- *Type de financement (2)*: type_de_financement_2[text]\n- *D\u00e9tail du type de financement*: detail_du_type_de_financement[text]\n- *CES*: ces[text]\n- *Fonds vert*: fonds_vert[text]\n- *Fonds UE*: fonds_ue[text]\n- *Pr\u00e9sentation du client*: presentation_du_client[text]\n- *Description du projet*: description_du_projet[text]\n- *Impact du projet*: impact_du_projet[text]\n- *geographie*: geographie[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "d3e5956b-e7db-430d-93ea-d22f2e405978",
+      "last_modified": "2017-08-11T09:52:05",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d3e5956b-e7db-430d-93ea-d22f2e405978",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:00:31.010000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.afd.fr//explore/dataset/donnees-de-laide-au-developpement-de-proparco/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:00:31.011000",
+      "description": "- *Nature du client*: nature_du_client[text]\n- *Id. Projet*: id_projet[text]\n- *Id. Concours*: id_concours[text]\n- *Titre court du projet*: titre_court_du_projet[text]\n- *Titre du projet*: titre_du_projet[text]\n- *R\u00e9sum\u00e9 du projet*: resume_du_projet[text]\n- *Secteur(s) concern\u00e9(s) par le projet*: secteur_s_concerne_s_par_le_projet[text]\n- *Secteur principal*: secteur_principal[text]\n- *Nom du client*: nom_du_client[text]\n- *Pays de r\u00e9alisation*: pays_de_realisation[text]\n- *D\u00e9tail Multi-pays*: detail_multi_pays[text]\n- *Latitude*: latitude[double]\n- *Longitude*: longitude[double]\n- *Pays du si\u00e8ge social*: pays_du_siege_social[text]\n- *Organisme Financeur*: organisme_financeur[text]\n- *Date de signature *: date_de_signature[date]\n- *Montant du financement en euro*: montant_du_financement_en_euro[double]\n- *Type de financement (1)*: type_de_financement_1[text]\n- *Type de financement (2)*: type_de_financement_2[text]\n- *D\u00e9tail du type de financement*: detail_du_type_de_financement[text]\n- *CES*: ces[text]\n- *Fonds vert*: fonds_vert[text]\n- *Fonds UE*: fonds_ue[text]\n- *Pr\u00e9sentation du client*: presentation_du_client[text]\n- *Description du projet*: description_du_projet[text]\n- *Impact du projet*: impact_du_projet[text]\n- *geographie*: geographie[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "17dced99-659a-4776-a9d2-83a2fca80be4",
+      "last_modified": "2017-08-11T09:52:05",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/17dced99-659a-4776-a9d2-83a2fca80be4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:00:31.011000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.afd.fr//explore/dataset/donnees-de-laide-au-developpement-de-proparco/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:00:31.011000",
+      "description": "- *Nature du client*: nature_du_client[text]\n- *Id. Projet*: id_projet[text]\n- *Id. Concours*: id_concours[text]\n- *Titre court du projet*: titre_court_du_projet[text]\n- *Titre du projet*: titre_du_projet[text]\n- *R\u00e9sum\u00e9 du projet*: resume_du_projet[text]\n- *Secteur(s) concern\u00e9(s) par le projet*: secteur_s_concerne_s_par_le_projet[text]\n- *Secteur principal*: secteur_principal[text]\n- *Nom du client*: nom_du_client[text]\n- *Pays de r\u00e9alisation*: pays_de_realisation[text]\n- *D\u00e9tail Multi-pays*: detail_multi_pays[text]\n- *Latitude*: latitude[double]\n- *Longitude*: longitude[double]\n- *Pays du si\u00e8ge social*: pays_du_siege_social[text]\n- *Organisme Financeur*: organisme_financeur[text]\n- *Date de signature *: date_de_signature[date]\n- *Montant du financement en euro*: montant_du_financement_en_euro[double]\n- *Type de financement (1)*: type_de_financement_1[text]\n- *Type de financement (2)*: type_de_financement_2[text]\n- *D\u00e9tail du type de financement*: detail_du_type_de_financement[text]\n- *CES*: ces[text]\n- *Fonds vert*: fonds_vert[text]\n- *Fonds UE*: fonds_ue[text]\n- *Pr\u00e9sentation du client*: presentation_du_client[text]\n- *Description du projet*: description_du_projet[text]\n- *Impact du projet*: impact_du_projet[text]\n- *geographie*: geographie[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "959f6e3a-903a-4d36-93f7-bf84847d7670",
+      "last_modified": "2017-08-11T09:52:05",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/959f6e3a-903a-4d36-93f7-bf84847d7670",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:00:31.011000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.afd.fr//explore/dataset/donnees-de-laide-au-developpement-de-proparco/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:00:31.012000",
+      "description": "- *Nature du client*: nature_du_client[text]\n- *Id. Projet*: id_projet[text]\n- *Id. Concours*: id_concours[text]\n- *Titre court du projet*: titre_court_du_projet[text]\n- *Titre du projet*: titre_du_projet[text]\n- *R\u00e9sum\u00e9 du projet*: resume_du_projet[text]\n- *Secteur(s) concern\u00e9(s) par le projet*: secteur_s_concerne_s_par_le_projet[text]\n- *Secteur principal*: secteur_principal[text]\n- *Nom du client*: nom_du_client[text]\n- *Pays de r\u00e9alisation*: pays_de_realisation[text]\n- *D\u00e9tail Multi-pays*: detail_multi_pays[text]\n- *Latitude*: latitude[double]\n- *Longitude*: longitude[double]\n- *Pays du si\u00e8ge social*: pays_du_siege_social[text]\n- *Organisme Financeur*: organisme_financeur[text]\n- *Date de signature *: date_de_signature[date]\n- *Montant du financement en euro*: montant_du_financement_en_euro[double]\n- *Type de financement (1)*: type_de_financement_1[text]\n- *Type de financement (2)*: type_de_financement_2[text]\n- *D\u00e9tail du type de financement*: detail_du_type_de_financement[text]\n- *CES*: ces[text]\n- *Fonds vert*: fonds_vert[text]\n- *Fonds UE*: fonds_ue[text]\n- *Pr\u00e9sentation du client*: presentation_du_client[text]\n- *Description du projet*: description_du_projet[text]\n- *Impact du projet*: impact_du_projet[text]\n- *geographie*: geographie[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "eb0fa931-2646-4a7c-acd5-ba661fbadf77",
+      "last_modified": "2017-08-11T09:52:05",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/eb0fa931-2646-4a7c-acd5-ba661fbadf77",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:00:31.012000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.afd.fr//explore/dataset/donnees-de-laide-au-developpement-de-proparco/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "donnees-de-laide-au-developpement-de-proparco",
+  "spatial": null,
+  "tags": [],
+  "temporal_coverage": null,
+  "title": "Donn\u00e9es de l'aide au d\u00e9veloppement de Proparco",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/donnees-de-laide-au-developpement-de-proparco/"
+}

@@ -1,0 +1,118 @@
+{
+  "badges": [],
+  "created_at": "2017-06-06T00:00:00",
+  "deleted": null,
+  "description": "comptage des b\u00e9n\u00e9ficiaires de l'allocation personnalis\u00e9e d'autonomie par canton par commune et par an (conforme r\u00e8gles IRIS)",
+  "extras": {
+    "ckan:name": "nombre-de-beneficiaires-de-lallocation-personnalisee-dautonomie",
+    "contact_email": "mailto:dgas-dapah@cg33.fr",
+    "contact_name": "Direction des Actions pour les Personnes Ag\u00e9es et Personnes Handicap\u00e9es",
+    "contact_uri": "https://datacat.datalocale.fr/415295",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+    "guid": "https://datacat.datalocale.fr/415296",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-06-06T16:40:47.834710",
+    "harvest:remote_id": "cb8a7cc4-7ca3-4423-b19f-3d2f4c88bb3d",
+    "harvest:source_id": "59365a72c751df28ed47c9eb",
+    "identifier": "55f4540a-8f8f-4844-a9a3-b5054a009389",
+    "issued": "2012-12-28T15:22:07+00:00",
+    "modified": "2016-07-18T09:21:05.749820+00:00",
+    "publisher_name": "DAGMS-SSISAG",
+    "publisher_uri": "https://datacat.datalocale.fr/414585",
+    "remote_url": "http://www.gironde.fr/jcms/c_5062/personnes-agees",
+    "theme": "[\"soins aux personnes \u00e2g\u00e9es\"]",
+    "uri": "https://datacat.datalocale.fr/415296"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5936beefa3a72968e2877305",
+  "last_modified": "2017-06-06T16:40:47.836000",
+  "last_update": "2017-06-06T16:40:47.833000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/nombre-de-beneficiaires-de-lallocation-personnalisee-dautonomie/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:40:47.832000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-19T23:08:18.059000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415298/raw/LISTE_BENEF_APA_CANTON.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "3178359c-5644-4253-83a4-41493a275a20",
+      "last_modified": "2017-06-06T16:40:47.833000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3178359c-5644-4253-83a4-41493a275a20",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:40:47.833000",
+      "title": "liste des demandeurs de la prestation d'aide aux personnes \u00e2g\u00e9es pour les 3 derni\u00e8res ann\u00e9es par canton (les donn\u00e9es dont le nombre est inf\u00e9rieur \u00e0 5 ont \u00e9t\u00e9 supprim\u00e9es)",
+      "url": "https://datacat.datalocale.fr/file/415298/raw/LISTE_BENEF_APA_CANTON.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:40:47.833000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-19T23:10:17.147000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415300/raw/LISTE_BENEF_APA_COMMUNE.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b8d909d1-739e-4ba5-8095-65df7369d480",
+      "last_modified": "2017-06-06T16:40:47.834000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b8d909d1-739e-4ba5-8095-65df7369d480",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:40:47.833000",
+      "title": "liste des demandeurs de la prestation d'aide aux personnes \u00e2g\u00e9es pour les 3 derni\u00e8res ann\u00e9es par commune (les donn\u00e9es dont le nombre est inf\u00e9rieur \u00e0 5 ont \u00e9t\u00e9 supprim\u00e9es)",
+      "url": "https://datacat.datalocale.fr/file/415300/raw/LISTE_BENEF_APA_COMMUNE.csv"
+    }
+  ],
+  "slug": "nombre-de-beneficiaires-de-lallocation-personnalisee-dautonomie",
+  "spatial": null,
+  "tags": [],
+  "temporal_coverage": null,
+  "title": "Nombre de b\u00e9n\u00e9ficiaires de l'allocation personnalis\u00e9e d'autonomie",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/nombre-de-beneficiaires-de-lallocation-personnalisee-dautonomie/"
+}

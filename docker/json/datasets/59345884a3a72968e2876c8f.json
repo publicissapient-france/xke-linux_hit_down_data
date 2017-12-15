@@ -1,0 +1,228 @@
+{
+  "badges": [],
+  "created_at": "2017-02-17T00:00:00",
+  "deleted": null,
+  "description": "En Aquitaine, AIRAQ est en charge de la surveillance de la qualit\u00e9 de l\u2019air. Le dispositif mis en place permet ainsi de connaitre en permanence les concentrations relev\u00e9es dans l\u2019air ambiant.\n\nAIRAQ a souhait\u00e9 s\u2019initier dans la d\u00e9marche \u00ab inventaire \u00bb car cet outil s\u2019av\u00e8re \u00eatre pr\u00e9cieux dans le cadre des missions des AASQA. En effet, poss\u00e9der un inventaire des \u00e9missions permet de r\u00e9pondre plus pr\u00e9cis\u00e9ment \u00e0 la mission de surveillance de la pollution atmosph\u00e9rique. Cette donn\u00e9e est n\u00e9cessaire pour une meilleure mod\u00e9lisation de la qualit\u00e9 de l\u2019air \u00e0 l\u2019\u00e9chelle r\u00e9gionale.",
+  "extras": {
+    "ckan:name": "surveillance-de-la-qualite-de-lair-station-proximite-automobile-de-bordeaux-bastide1",
+    "contact_email": "mailto:contact@airaq-asso.fr",
+    "contact_name": "Service de publication",
+    "contact_uri": "https://datacat.datalocale.fr/415000",
+    "guid": "https://datacat.datalocale.fr/416050",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-06-06T16:41:51.602783",
+    "harvest:remote_id": "4316f308-21f7-45a7-a9ee-4831c57121c1",
+    "harvest:source_id": "59365a72c751df28ed47c9eb",
+    "identifier": "bb228a59-0741-45a5-ba33-a45a1794f93b",
+    "issued": "2013-03-12T17:09:31+00:00",
+    "modified": "2016-07-18T09:21:06.472118+00:00",
+    "remote_url": "http://www.airaq.asso.fr/mesures/20-consultation-des-mesures.html",
+    "theme": "[\"pollution automobile\"]",
+    "uri": "https://datacat.datalocale.fr/416050"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59345884a3a72968e2876c8f",
+  "last_modified": "2017-06-06T16:41:51.605000",
+  "last_update": "2017-06-06T16:41:51.600000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": null,
+  "owner": {
+    "avatar": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-original.jpg",
+    "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-100.jpg",
+    "class": "User",
+    "first_name": "Ressourcerie",
+    "id": "534fff47a3a7292c64a77adc",
+    "last_name": "datalocale",
+    "page": "https://www.data.gouv.fr/fr/users/ressourcerie-datalocale/",
+    "slug": "ressourcerie-datalocale",
+    "uri": "https://www.data.gouv.fr/api/1/users/ressourcerie-datalocale/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/surveillance-de-la-qualite-de-lair-station-proximite-automobile-de-bordeaux-bastide1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:59:16.949000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T18:32:42.127000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416052/raw/bastide-airaq-pm2-no-co_2012.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "75cd8853-7c40-4235-8c7b-baa3eb18a519",
+      "last_modified": "2017-06-04T20:59:16.949000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/75cd8853-7c40-4235-8c7b-baa3eb18a519",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:59:16.949000",
+      "title": "export en csv encod\u00e9 en UTF-8 des mesures de qualit\u00e9 de l'air effectu\u00e9es dans la station de proximit\u00e9 automobile de l'agglom\u00e9ration de Bordeaux pour la p\u00e9riode de l'ann\u00e9e 2012. Les polluants mesur\u00e9s sont PM10, NOx, NO2, NO ",
+      "url": "https://datacat.datalocale.fr/file/416052/raw/bastide-airaq-pm2-no-co_2012.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:59:16.949000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-11T16:08:37.560000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416056/raw/bastide-airaq-pm2-no-co_jour-2012.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "3f26ed76-1107-46b9-887a-0a2638ba7201",
+      "last_modified": "2017-06-04T20:59:16.949000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3f26ed76-1107-46b9-887a-0a2638ba7201",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:59:16.949000",
+      "title": "export journalis\u00e9 en csv encod\u00e9 en UTF-8 des mesures de qualit\u00e9 de l'air effectu\u00e9es dans la station de proximit\u00e9 automobile de l'agglom\u00e9ration de Bordeaux pour la p\u00e9riode de l'ann\u00e9e 2012. Les polluants mesur\u00e9s sont PM10, NOx, NO2, NO ",
+      "url": "https://datacat.datalocale.fr/file/416056/raw/bastide-airaq-pm2-no-co_jour-2012.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:59:16.950000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T23:04:46.254000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416054/raw/bastide-airaq-pm2-no-co_mois-2012.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "56076a14-6907-458e-ba27-f63ba702f305",
+      "last_modified": "2017-06-04T20:59:16.950000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/56076a14-6907-458e-ba27-f63ba702f305",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:59:16.950000",
+      "title": "export mensualis\u00e9 en csv encod\u00e9 en UTF-8 des mesures de qualit\u00e9 de l'air effectu\u00e9es dans la station de proximit\u00e9 automobile de l'agglom\u00e9ration de Bordeaux pour la p\u00e9riode de l'ann\u00e9e 2012. Les polluants m\u00e9sur\u00e9s sont PM10, NOx, NO2, NO ",
+      "url": "https://datacat.datalocale.fr/file/416054/raw/bastide-airaq-pm2-no-co_mois-2012.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:41:51.598000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-11T16:08:36.511000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416052/raw/bastide-airaq-pm2-no-co_2012.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c37ea700-0434-46c8-ada0-a34388f349a3",
+      "last_modified": "2017-06-06T16:41:51.599000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c37ea700-0434-46c8-ada0-a34388f349a3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:41:51.599000",
+      "title": "export en csv encod\u00e9 en UTF-8 des mesures de qualit\u00e9 de l'air effectu\u00e9es dans la station de proximit\u00e9 automobile de l'agglom\u00e9ration de Bordeaux pour la p\u00e9riode de l'ann\u00e9e 2012. Les polluants mesur\u00e9s sont PM10, NOx, NO2, NO ",
+      "url": "https://datacat.datalocale.fr/file/416052/raw/bastide-airaq-pm2-no-co_2012.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:41:51.599000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T23:05:15.587000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416056/raw/bastide-airaq-pm2-no-co_jour-2012.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "4a688382-249e-40c7-9859-190941c9cb44",
+      "last_modified": "2017-06-06T16:41:51.600000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4a688382-249e-40c7-9859-190941c9cb44",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:41:51.599000",
+      "title": "export journalis\u00e9 en csv encod\u00e9 en UTF-8 des mesures de qualit\u00e9 de l'air effectu\u00e9es dans la station de proximit\u00e9 automobile de l'agglom\u00e9ration de Bordeaux pour la p\u00e9riode de l'ann\u00e9e 2012. Les polluants mesur\u00e9s sont PM10, NOx, NO2, NO ",
+      "url": "https://datacat.datalocale.fr/file/416056/raw/bastide-airaq-pm2-no-co_jour-2012.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:41:51.600000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-11T16:08:37.560000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416054/raw/bastide-airaq-pm2-no-co_mois-2012.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f75fa082-9484-4e4a-9172-30752ac5b0ce",
+      "last_modified": "2017-06-06T16:41:51.601000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f75fa082-9484-4e4a-9172-30752ac5b0ce",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:41:51.600000",
+      "title": "export mensualis\u00e9 en csv encod\u00e9 en UTF-8 des mesures de qualit\u00e9 de l'air effectu\u00e9es dans la station de proximit\u00e9 automobile de l'agglom\u00e9ration de Bordeaux pour la p\u00e9riode de l'ann\u00e9e 2012. Les polluants m\u00e9sur\u00e9s sont PM10, NOx, NO2, NO ",
+      "url": "https://datacat.datalocale.fr/file/416054/raw/bastide-airaq-pm2-no-co_mois-2012.csv"
+    }
+  ],
+  "slug": "surveillance-de-la-qualite-de-lair-station-proximite-automobile-de-bordeaux-bastide1",
+  "spatial": null,
+  "tags": [
+    "air",
+    "circulation",
+    "environnement",
+    "pollution"
+  ],
+  "temporal_coverage": null,
+  "title": "Surveillance de la qualit\u00e9 de l\u2019air station proximit\u00e9 automobile de Bordeaux Bastide",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/surveillance-de-la-qualite-de-lair-station-proximite-automobile-de-bordeaux-bastide1/"
+}

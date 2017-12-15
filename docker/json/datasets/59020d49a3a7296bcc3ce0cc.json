@@ -1,0 +1,80 @@
+{
+  "badges": [],
+  "created_at": "2017-03-05T00:00:00",
+  "deleted": null,
+  "description": "",
+  "extras": {
+    "ckan:name": "points-dinterets-caracteristiques",
+    "harvest:domain": "opendata.data-ozwillo.org",
+    "harvest:last_update": "2017-04-27T17:24:57.591379",
+    "harvest:remote_id": "9d8791d3-cc2b-4f9a-a7fa-96f60c41b4df",
+    "harvest:source_id": "57599de9c751df1a1dac31a0",
+    "remote_url": "Ozwillo"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59020d49a3a7296bcc3ce0cc",
+  "last_modified": "2017-04-27T17:24:57.593000",
+  "last_update": "2017-04-27T17:24:57.590000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "56c4765fc751df27326c6ddf",
+    "logo": "https://www.data.gouv.fr/s/avatars/c3/f674ad6c354099a8166090b134da4a-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c3/f674ad6c354099a8166090b134da4a-100.png",
+    "name": "Ozwillo",
+    "page": "https://www.data.gouv.fr/fr/organizations/ozwillo/",
+    "slug": "ozwillo",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ozwillo/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/points-dinterets-caracteristiques/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-04-27T17:24:57.590000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-10-30T21:43:09.108000",
+        "check:status": 503,
+        "check:url": "https://opendata.data-ozwillo.org/dataset/9d8791d3-cc2b-4f9a-a7fa-96f60c41b4df/resource/b453f017-fb52-40e5-b202-adf3bc939a6c/download/poitourcharcharacteristics0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b453f017-fb52-40e5-b202-adf3bc939a6c",
+      "last_modified": "2017-03-09T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b453f017-fb52-40e5-b202-adf3bc939a6c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-04-27T17:24:57.590000",
+      "title": "Export des caract\u00e9ristiques des points d'int\u00e9r\u00eats",
+      "url": "https://opendata.data-ozwillo.org/dataset/9d8791d3-cc2b-4f9a-a7fa-96f60c41b4df/resource/b453f017-fb52-40e5-b202-adf3bc939a6c/download/poitourcharcharacteristics0.csv"
+    }
+  ],
+  "slug": "points-dinterets-caracteristiques",
+  "spatial": null,
+  "tags": [],
+  "temporal_coverage": null,
+  "title": "Points d'int\u00e9r\u00eats - Caract\u00e9ristiques",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/points-dinterets-caracteristiques/"
+}

@@ -1,0 +1,102 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T18:01:47.731000",
+  "deleted": null,
+  "description": "Ouvert \u00e0 tous types de **projets cin\u00e9matographiques** , **l\u2019Aide apr\u00e8s r\u00e9alisation** est un dispositif s\u00e9lectif permettant de soutenir des \u0153uvres tr\u00e8s diverses qui ne pourraient \u00eatre achev\u00e9es ou distribu\u00e9es sans cette aide financi\u00e8re.\n\n  \nQu'il s'agisse de postproduction argentique ou num\u00e9rique, la R\u00e9gion aide les producteurs de films \u00e0 achever les oeuvres d\u00e9j\u00e0 tourn\u00e9es.  \n  \n\n\n**Objectifs de l'aide**\n\nOuvert \u00e0 tous types de **projets cin\u00e9matographiques** , **l\u2019Aide apr\u00e8s r\u00e9alisation** est un dispositif s\u00e9lectif permettant de soutenir des \u0153uvres tr\u00e8s diverses qui ne pourraient \u00eatre achev\u00e9es ou distribu\u00e9es sans cette aide financi\u00e8re. Ce dispositif intervient \u00e0 une \u00e9tape cruciale de la fabrication d'un film : apr\u00e8s le tournage, mais avant l'ach\u00e8vement de l'\u0153uvre et constitue une r\u00e9elle opportunit\u00e9, pour des \u0153uvres fragiles, d\u2019\u00eatre diffus\u00e9es en salle et de rencontrer leur public.\n\n **B\u00e9n\u00e9ficiaires**\n\nSoci\u00e9t\u00e9s de production cin\u00e9matographiques et audiovisuelles.\n\n **Nature des projets soutenus**\n\nCourt ou long m\u00e9trage cin\u00e9matographique de tous genres (fiction, animation, documentaire, exp\u00e9rimental\u2026)\n\n **Crit\u00e8res d\u2019\u00e9ligibilit\u00e9**\n\nTout projet ayant b\u00e9n\u00e9fici\u00e9 d\u2019un dispositif d\u2019aide apr\u00e8s r\u00e9alisation mis en place par une collectivit\u00e9 locale francilienne ne peut pr\u00e9tendre \u00e0 une aide r\u00e9gionale.\n\nTout film ayant d\u00e9j\u00e0 b\u00e9n\u00e9fici\u00e9 d\u2019une aide du Fonds de soutien aux industries techniques cin\u00e9matographiques et audiovisuelles de la R\u00e9gion Ile de France ne peut pr\u00e9tendre \u00e0 une nouvelle aide dans le cadre du dispositif d\u2019aide apr\u00e8s r\u00e9alisation.\n\nPour \u00eatre \u00e9ligibles \u00e0 une aide r\u00e9gionale, les films ne doivent pas d\u00e9passer un certain plafond de financements publics (fran\u00e7ais et \u00e9trangers, dont financements europ\u00e9ens) ou t\u00e9l\u00e9visuels acquis.\n\nLes travaux de finalisation objets de la demande d\u2019aide ne devront pas d\u00e9j\u00e0 avoir \u00e9t\u00e9 r\u00e9alis\u00e9s avant le d\u00e9p\u00f4t du dossier.\n\n **Modalit\u00e9s**\n\nL\u2019attribution de l\u2019aide s\u2019effectue dans le cadre de la d\u00e9lib\u00e9ration n\u00b0 CR 12-23 du 16 f\u00e9vrier 2012,\n\nL\u2019Aide s\u00e9lective est attribu\u00e9e apr\u00e8s avis favorable d\u2019une commission de visionnage, vote de la commission permanente de la R\u00e9gion et signature d\u2019une convention.\n\n **D\u00e9marches**\n\nPour pouvoir b\u00e9n\u00e9ficier de cette aide, les candidats doivent d\u00e9poser un dossier de candidature complet comprenant l\u2019ensemble des pi\u00e8ces attendues, dont les DVD de l\u2019\u0153uvre dans un montage image d\u00e9finitif ou quasi d\u00e9finitif",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T05:57:31.359438",
+    "harvest:remote_id": "films-aides-apres-realisation-2006-2014",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:references": "http://www.iledefrance.fr/aides-regionales-appels-projets/cinema-aide-apres-realisation",
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/films-aides-apres-realisation-2006-2014/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "595918eba3a7291dcf9c80e0",
+  "last_modified": "2017-11-27T05:57:31.361000",
+  "last_update": "2017-11-27T05:57:31.358000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/films-aides-apres-realisation-2006-2014/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:57:31.358000",
+      "description": "- *PRODUCTEUR*: producteur[text]\n- *TITRE DU FILM*: titre_du_film[text]\n- *Fiche artistique*: fiche_artistique[text]\n- *Nature*: nature[text]\n- *Genre*: genre[text]\n- *Dur\u00e9e*: duree[double]\n- *Montant*: montant[double]\n- *empty*: empty[text]\n- *empty*: empty0[text]\n- *empty*: empty1[text]\n- *empty*: empty2[text]\n- *empty*: empty3[text]\n- *empty*: empty4[text]\n- *empty*: empty5[text]\n- *empty*: empty6[text]\n- *empty*: empty7[text]\n- *empty*: empty8[text]\n- *empty*: empty9[text]\n- *empty*: empty10[text]\n- *empty*: empty11[text]\n- *empty*: empty12[text]\n- *empty*: empty13[text]\n- *empty*: empty14[text]\n- *empty*: empty15[text]\n- *empty*: empty16[text]\n- *empty*: empty17[text]\n- *empty*: empty18[text]\n- *empty*: empty19[text]\n- *empty*: empty20[text]\n- *empty*: empty21[text]\n- *empty*: empty22[text]\n- *empty*: empty23[text]\n- *empty*: empty24[text]\n- *empty*: empty25[text]\n- *empty*: empty26[text]\n- *empty*: empty27[text]\n- *empty*: empty28[text]\n- *empty*: empty29[text]\n- *empty*: empty30[text]\n- *empty*: empty31[text]\n- *empty*: empty32[text]\n- *empty*: empty33[text]\n- *empty*: empty34[text]\n- *empty*: empty35[text]\n- *empty*: empty36[text]\n- *empty*: empty37[text]\n- *empty*: empty38[text]\n- *empty*: empty39[text]\n- *empty*: empty40[text]\n- *empty*: empty41[text]\n- *empty*: empty42[text]\n- *empty*: empty43[text]\n- *empty*: empty44[text]\n- *empty*: empty45[text]\n- *empty*: empty46[text]\n- *empty*: empty47[text]\n- *empty*: empty48[text]\n- *empty*: empty49[text]\n- *empty*: empty50[text]\n- *empty*: empty51[text]\n- *empty*: empty52[text]\n- *empty*: empty53[text]\n- *empty*: empty54[text]\n- *empty*: empty55[text]\n- *empty*: empty56[text]\n- *empty*: empty57[text]\n- *empty*: empty58[text]\n- *empty*: empty59[text]\n- *empty*: empty60[text]\n- *empty*: empty61[text]\n- *empty*: empty62[text]\n- *empty*: empty63[text]\n- *empty*: empty64[text]\n- *empty*: empty65[text]\n- *empty*: empty66[text]\n- *empty*: empty67[text]\n- *empty*: empty68[text]\n- *empty*: empty69[text]\n- *empty*: empty70[text]\n- *empty*: empty71[text]\n- *empty*: empty72[text]\n- *empty*: empty73[text]\n- *empty*: empty74[text]\n- *empty*: empty75[text]\n- *empty*: empty76[text]\n- *empty*: empty77[text]\n- *empty*: empty78[text]\n- *empty*: empty79[text]\n- *empty*: empty80[text]\n- *empty*: empty81[text]\n- *empty*: empty82[text]\n- *empty*: empty83[text]\n- *empty*: empty84[text]\n- *empty*: empty85[text]\n- *empty*: empty86[text]\n- *empty*: empty87[text]\n- *empty*: empty88[text]\n- *empty*: empty89[text]\n- *empty*: empty90[text]\n- *empty*: empty91[text]\n- *empty*: empty92[text]\n- *empty*: empty93[text]\n- *empty*: empty94[text]\n- *empty*: empty95[text]\n- *empty*: empty96[text]\n- *empty*: empty97[text]\n- *empty*: empty98[text]\n- *empty*: empty99[text]\n- *empty*: empty100[text]\n- *empty*: empty101[text]\n- *empty*: empty102[text]\n- *empty*: empty103[text]\n- *empty*: empty104[text]\n- *empty*: empty105[text]\n- *empty*: empty106[text]\n- *empty*: empty107[text]\n- *empty*: empty108[text]\n- *empty*: empty109[text]\n- *empty*: empty110[text]\n- *empty*: empty111[text]\n- *empty*: empty112[text]\n- *empty*: empty113[text]\n- *empty*: empty114[text]\n- *empty*: empty115[text]\n- *empty*: empty116[text]\n- *empty*: empty117[text]\n- *empty*: empty118[text]\n- *empty*: empty119[text]\n- *empty*: empty120[text]\n- *empty*: empty121[text]\n- *empty*: empty122[text]\n- *empty*: empty123[text]\n- *empty*: empty124[text]\n- *empty*: empty125[text]\n- *empty*: empty126[text]\n- *empty*: empty127[text]\n- *empty*: empty128[text]\n- *empty*: empty129[text]\n- *empty*: empty130[text]\n- *empty*: empty131[text]\n- *empty*: empty132[text]\n- *empty*: empty133[text]\n- *empty*: empty134[text]\n- *empty*: empty135[text]\n- *empty*: empty136[text]\n- *empty*: empty137[text]\n- *empty*: empty138[text]\n- *empty*: empty139[text]\n- *empty*: empty140[text]\n- *empty*: empty141[text]\n- *empty*: empty142[text]\n- *empty*: empty143[text]\n- *empty*: empty144[text]\n- *empty*: empty145[text]\n- *empty*: empty146[text]\n- *empty*: empty147[text]\n- *empty*: empty148[text]\n- *empty*: empty149[text]\n- *empty*: empty150[text]\n- *empty*: empty151[text]\n- *empty*: empty152[text]\n- *empty*: empty153[text]\n- *empty*: empty154[text]\n- *empty*: empty155[text]\n- *empty*: empty156[text]\n- *empty*: empty157[text]\n- *empty*: empty158[text]\n- *empty*: empty159[text]\n- *empty*: empty160[text]\n- *empty*: empty161[text]\n- *empty*: empty162[text]\n- *empty*: empty163[text]\n- *empty*: empty164[text]\n- *empty*: empty165[text]\n- *empty*: empty166[text]\n- *Ann\u00e9e*: ann[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "49856aba-d836-424c-be9a-80adcc6ed2d7",
+      "last_modified": "2014-05-13T08:18:06",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/49856aba-d836-424c-be9a-80adcc6ed2d7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:57:31.358000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/films-aides-apres-realisation-2006-2014/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:57:31.358000",
+      "description": "- *PRODUCTEUR*: producteur[text]\n- *TITRE DU FILM*: titre_du_film[text]\n- *Fiche artistique*: fiche_artistique[text]\n- *Nature*: nature[text]\n- *Genre*: genre[text]\n- *Dur\u00e9e*: duree[double]\n- *Montant*: montant[double]\n- *empty*: empty[text]\n- *empty*: empty0[text]\n- *empty*: empty1[text]\n- *empty*: empty2[text]\n- *empty*: empty3[text]\n- *empty*: empty4[text]\n- *empty*: empty5[text]\n- *empty*: empty6[text]\n- *empty*: empty7[text]\n- *empty*: empty8[text]\n- *empty*: empty9[text]\n- *empty*: empty10[text]\n- *empty*: empty11[text]\n- *empty*: empty12[text]\n- *empty*: empty13[text]\n- *empty*: empty14[text]\n- *empty*: empty15[text]\n- *empty*: empty16[text]\n- *empty*: empty17[text]\n- *empty*: empty18[text]\n- *empty*: empty19[text]\n- *empty*: empty20[text]\n- *empty*: empty21[text]\n- *empty*: empty22[text]\n- *empty*: empty23[text]\n- *empty*: empty24[text]\n- *empty*: empty25[text]\n- *empty*: empty26[text]\n- *empty*: empty27[text]\n- *empty*: empty28[text]\n- *empty*: empty29[text]\n- *empty*: empty30[text]\n- *empty*: empty31[text]\n- *empty*: empty32[text]\n- *empty*: empty33[text]\n- *empty*: empty34[text]\n- *empty*: empty35[text]\n- *empty*: empty36[text]\n- *empty*: empty37[text]\n- *empty*: empty38[text]\n- *empty*: empty39[text]\n- *empty*: empty40[text]\n- *empty*: empty41[text]\n- *empty*: empty42[text]\n- *empty*: empty43[text]\n- *empty*: empty44[text]\n- *empty*: empty45[text]\n- *empty*: empty46[text]\n- *empty*: empty47[text]\n- *empty*: empty48[text]\n- *empty*: empty49[text]\n- *empty*: empty50[text]\n- *empty*: empty51[text]\n- *empty*: empty52[text]\n- *empty*: empty53[text]\n- *empty*: empty54[text]\n- *empty*: empty55[text]\n- *empty*: empty56[text]\n- *empty*: empty57[text]\n- *empty*: empty58[text]\n- *empty*: empty59[text]\n- *empty*: empty60[text]\n- *empty*: empty61[text]\n- *empty*: empty62[text]\n- *empty*: empty63[text]\n- *empty*: empty64[text]\n- *empty*: empty65[text]\n- *empty*: empty66[text]\n- *empty*: empty67[text]\n- *empty*: empty68[text]\n- *empty*: empty69[text]\n- *empty*: empty70[text]\n- *empty*: empty71[text]\n- *empty*: empty72[text]\n- *empty*: empty73[text]\n- *empty*: empty74[text]\n- *empty*: empty75[text]\n- *empty*: empty76[text]\n- *empty*: empty77[text]\n- *empty*: empty78[text]\n- *empty*: empty79[text]\n- *empty*: empty80[text]\n- *empty*: empty81[text]\n- *empty*: empty82[text]\n- *empty*: empty83[text]\n- *empty*: empty84[text]\n- *empty*: empty85[text]\n- *empty*: empty86[text]\n- *empty*: empty87[text]\n- *empty*: empty88[text]\n- *empty*: empty89[text]\n- *empty*: empty90[text]\n- *empty*: empty91[text]\n- *empty*: empty92[text]\n- *empty*: empty93[text]\n- *empty*: empty94[text]\n- *empty*: empty95[text]\n- *empty*: empty96[text]\n- *empty*: empty97[text]\n- *empty*: empty98[text]\n- *empty*: empty99[text]\n- *empty*: empty100[text]\n- *empty*: empty101[text]\n- *empty*: empty102[text]\n- *empty*: empty103[text]\n- *empty*: empty104[text]\n- *empty*: empty105[text]\n- *empty*: empty106[text]\n- *empty*: empty107[text]\n- *empty*: empty108[text]\n- *empty*: empty109[text]\n- *empty*: empty110[text]\n- *empty*: empty111[text]\n- *empty*: empty112[text]\n- *empty*: empty113[text]\n- *empty*: empty114[text]\n- *empty*: empty115[text]\n- *empty*: empty116[text]\n- *empty*: empty117[text]\n- *empty*: empty118[text]\n- *empty*: empty119[text]\n- *empty*: empty120[text]\n- *empty*: empty121[text]\n- *empty*: empty122[text]\n- *empty*: empty123[text]\n- *empty*: empty124[text]\n- *empty*: empty125[text]\n- *empty*: empty126[text]\n- *empty*: empty127[text]\n- *empty*: empty128[text]\n- *empty*: empty129[text]\n- *empty*: empty130[text]\n- *empty*: empty131[text]\n- *empty*: empty132[text]\n- *empty*: empty133[text]\n- *empty*: empty134[text]\n- *empty*: empty135[text]\n- *empty*: empty136[text]\n- *empty*: empty137[text]\n- *empty*: empty138[text]\n- *empty*: empty139[text]\n- *empty*: empty140[text]\n- *empty*: empty141[text]\n- *empty*: empty142[text]\n- *empty*: empty143[text]\n- *empty*: empty144[text]\n- *empty*: empty145[text]\n- *empty*: empty146[text]\n- *empty*: empty147[text]\n- *empty*: empty148[text]\n- *empty*: empty149[text]\n- *empty*: empty150[text]\n- *empty*: empty151[text]\n- *empty*: empty152[text]\n- *empty*: empty153[text]\n- *empty*: empty154[text]\n- *empty*: empty155[text]\n- *empty*: empty156[text]\n- *empty*: empty157[text]\n- *empty*: empty158[text]\n- *empty*: empty159[text]\n- *empty*: empty160[text]\n- *empty*: empty161[text]\n- *empty*: empty162[text]\n- *empty*: empty163[text]\n- *empty*: empty164[text]\n- *empty*: empty165[text]\n- *empty*: empty166[text]\n- *Ann\u00e9e*: ann[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "30b3c433-ea13-48be-84dc-a6235e6d2315",
+      "last_modified": "2014-05-13T08:18:06",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/30b3c433-ea13-48be-84dc-a6235e6d2315",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:57:31.358000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/films-aides-apres-realisation-2006-2014/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "films-aides-apres-realisation-2006-2014",
+  "spatial": null,
+  "tags": [
+    "aide",
+    "cinema",
+    "realisation",
+    "vie-culturelle"
+  ],
+  "temporal_coverage": null,
+  "title": "Films aid\u00e9s \"Apr\u00e8s r\u00e9alisation\" (2006-2014)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/films-aides-apres-realisation-2006-2014/"
+}

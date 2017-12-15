@@ -1,0 +1,110 @@
+{
+  "badges": [],
+  "created_at": "2013-09-02T00:00:00",
+  "deleted": null,
+  "description": "Classement des nouveaux pr\u00e9noms inscrits \u00e0 l'\u00e9tat civil de la ville de Strasbourg dans l'ann\u00e9e r\u00e9volue. Le jeu de donn\u00e9es contient un fichier par sexe et par an.",
+  "extras": {
+    "ckan:name": "pr-noms-inscrits-annuellement-l-tat-civil-de-la-ville-de-strasbourg",
+    "harvest:domain": "www.nosdonnees.fr",
+    "harvest:last_update": "2017-07-10T06:05:47.904578",
+    "harvest:remote_id": "3ddb0f2a-8b34-4159-8f10-9e5cb56734b4",
+    "harvest:source_id": "5878ee1588ee385bffa6f719",
+    "remote_url": "http://www.strasbourg.eu/ma-situation/professionnel/open-data/donnees/citoyennete-democratie-open-data/prenoms-inscrits-annuellement-etat-civil-ville-strasbourg"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5878ee6fa3a7291485cac7fb",
+  "last_modified": "2017-07-10T06:05:47.906000",
+  "last_update": "2017-01-13T16:12:47.744000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff99a3a7292c64a78016",
+    "logo": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/55/ae53576ff5482899020a1967a7490d-100.png",
+    "name": "NosDonn\u00e9es.fr",
+    "page": "https://www.data.gouv.fr/fr/organizations/nosdonnees-fr/",
+    "slug": "nosdonnees-fr",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nosdonnees-fr/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/pr-noms-inscrits-annuellement-l-tat-civil-de-la-ville-de-strasbourg/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:47.743000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-01T00:24:44.658000",
+        "check:status": 200,
+        "check:url": "http://media.strasbourg.eu/alfresco/d/a/workspace/SpacesStore/47893abd-177b-4714-8cb7-cb3fde2d393e/CUS_CUS_DPEC_PRENO.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "1b0d4cba-9802-4ec3-9eef-edcd2a1d250a",
+      "last_modified": "2017-07-10T06:05:47.903000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1b0d4cba-9802-4ec3-9eef-edcd2a1d250a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "",
+      "published": "2017-01-13T16:12:47.743000",
+      "title": " Pr\u00e9noms inscrits annuellement \u00e0 l'\u00e9tat civil de la ville de Strasbourg",
+      "url": "http://media.strasbourg.eu/alfresco/d/a/workspace/SpacesStore/47893abd-177b-4714-8cb7-cb3fde2d393e/CUS_CUS_DPEC_PRENO.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-01-13T16:12:47.743000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-12T05:46:30.127000",
+        "check:status": 200,
+        "check:url": "http://media.strasbourg.eu/alfresco/d/a/workspace/SpacesStore/49bd7c26-86d6-4fe3-808f-146db94bab6e/CUS_CUS_DPEC_PRENO.xls"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xls",
+      "id": "6897d8a7-f98e-46ab-b29d-9bb70c3b0ea8",
+      "last_modified": "2017-07-10T06:05:47.903000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6897d8a7-f98e-46ab-b29d-9bb70c3b0ea8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "",
+      "published": "2017-01-13T16:12:47.744000",
+      "title": " Pr\u00e9noms inscrits annuellement \u00e0 l'\u00e9tat civil de la ville de Strasbourg",
+      "url": "http://media.strasbourg.eu/alfresco/d/a/workspace/SpacesStore/49bd7c26-86d6-4fe3-808f-146db94bab6e/CUS_CUS_DPEC_PRENO.xls"
+    }
+  ],
+  "slug": "pr-noms-inscrits-annuellement-l-tat-civil-de-la-ville-de-strasbourg",
+  "spatial": null,
+  "tags": [
+    "naissance",
+    "prenoms"
+  ],
+  "temporal_coverage": null,
+  "title": "Pr\u00e9noms inscrits annuellement \u00e0 l'\u00e9tat civil de la ville de Strasbourg",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/pr-noms-inscrits-annuellement-l-tat-civil-de-la-ville-de-strasbourg/"
+}

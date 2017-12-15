@@ -1,0 +1,146 @@
+{
+  "badges": [],
+  "created_at": "2017-01-05T03:41:43.557000",
+  "deleted": null,
+  "description": "Liste des organismes et des \u00e9quipements de Rennes M\u00e9tropole.\u00a0Cette base de donn\u00e9es \"Organismes\" g\u00e9r\u00e9e par la DGCOM de Rennes M\u00e9tropole permet l'\u00e9dition du guide \"Vivre \u00e0 Rennes\".\n\nCette base identifie plus de 1000 \u00e9quipements et organismes publics et parapublics \u00e0 Rennes M\u00e9tropole et contient:\n\n  * Les coordonn\u00e9es compl\u00e8tes\n  * La g\u00e9olocalisation\n  * Le descriptif d'activit\u00e9\n  * Les horaires d'ouverture\n\n\n\nCette base est mise \u00e0 jour toutes les semaines.",
+  "extras": {
+    "harvest:domain": "data.rennesmetropole.fr",
+    "harvest:last_update": "2017-11-27T04:01:24.313900",
+    "harvest:remote_id": "base-orga-var",
+    "harvest:source_id": "580736ec88ee3816625ff490",
+    "ods:has_records": true,
+    "ods:url": "https://data.rennesmetropole.fr/explore/dataset/base-orga-var/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "586db267a3a7290df5f4be91",
+  "last_modified": "2017-11-27T04:01:24.315000",
+  "last_update": "2017-11-27T04:01:24.313000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "RM",
+    "class": "Organization",
+    "id": "580735be88ee3814295ff490",
+    "logo": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-100.png",
+    "name": "Rennes M\u00e9tropole en acc\u00e8s libre",
+    "page": "https://www.data.gouv.fr/fr/organizations/rennes-metropole-en-acces-libre-1/",
+    "slug": "rennes-metropole-en-acces-libre-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/rennes-metropole-en-acces-libre-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/base-organismes-et-equipements-vivre-a-rennes/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:01:24.312000",
+      "description": "- *ID*: organismeid[text] ID de l'organisme\n- *Nom*: organom[text] Nom de l'organisme\n- *Sigle*: orgasigle[text] Sigle de l'organisme\n- *Minitel*: orgaminitel[text]\n- *Email*: orgaemail[text]\n- *Web*: orgaweb[text] Site web de l'organisme\n- *Description*: orgadesc[text]\n- *Info*: orgainfo[text] Informations compl\u00e9mentaires de l'organisme\n- *Horaires*: orgahoraires[text]\n- *BP*: coorbp[text] Coordonn\u00e9es de Boite Postale\n- *CP*: coorcp[int] Coordonn\u00e9es de Code Postal\n- *Telephone1*: coortel1[text] Num\u00e9ro de t\u00e9l\u00e9phone\n- *Telephone2*: coortel2[text]\n- *Fax*: coorfax[text]\n- *CommuneID*: communeid[int] ID de la commune de l'organisme\n- *CommuneNom*: commnom[text] Nom de la commune\n- *QuarNum*: quarnum[int] Num\u00e9ro du quartier\n- *QuarNom*: quarnom[text] Nom du quartier\n- *AdreNumero*: adrenumero[int] Num\u00e9ro de l'adresse postale\n- *AdreExtension*: adreextension[text] Extension de l'adresse postale\n- *AdreImmeuble*: adreimmeuble[text] Immeuble de l'adresse postale\n- *AdreRue1*: adrerue[text] Rue de l'adresse postale\n- *AdreRue2*: rivolide[text]\n- *Longitude*: longitude[text]\n- *Latitude*: latitude[text]\n- *OrgaDescription*: orgadomanetdescription[text] Description compl\u00e9mentaire de l'activit\u00e9\n- *DomaineLibelle1*: domanetlibelle1[text] Domaine d'activit\u00e9\n- *DomaineDescription1*: domanetdescription1[text] Description du domaine d'activit\u00e9\n- *DomaineLibelle2*: domanetlibelle2[text] Sous-domaine\n- *DomaineDescription2*: domanetdescription2[text] Description du sous-domaine\n- *DomaineLibelle3*: domanetlibelle3[text] Sous domaine\n- *DomaineDescription3*: domanetdescription3[text] Description du sous-domaine\n- *DomaineLibelle4*: domanetlibelle4[text] Sous domaine\n- *DomaineDescription4*: domanetdescription4[text] Description du sous domaine\n- *Accessibilit\u00e9 1*: accessibilite_1[text]\n- *Accessibilit\u00e9 2*: accessibilite_2[text]\n- *Accessibilit\u00e9 3*: accessibilite_3[text]\n- *Accessibilit\u00e9 4*: accessibilite_4x[text]\n- *Geo*: geo[geo_point_2d] Coordonn\u00e9es g\u00e9ographiques\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a23570e0-f7fb-48d3-a22a-2c2eb644beea",
+      "last_modified": "2017-10-23T12:59:01",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a23570e0-f7fb-48d3-a22a-2c2eb644beea",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T04:01:24.312000",
+      "title": "Export au format CSV",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/base-orga-var/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:01:24.312000",
+      "description": "- *ID*: organismeid[text] ID de l'organisme\n- *Nom*: organom[text] Nom de l'organisme\n- *Sigle*: orgasigle[text] Sigle de l'organisme\n- *Minitel*: orgaminitel[text]\n- *Email*: orgaemail[text]\n- *Web*: orgaweb[text] Site web de l'organisme\n- *Description*: orgadesc[text]\n- *Info*: orgainfo[text] Informations compl\u00e9mentaires de l'organisme\n- *Horaires*: orgahoraires[text]\n- *BP*: coorbp[text] Coordonn\u00e9es de Boite Postale\n- *CP*: coorcp[int] Coordonn\u00e9es de Code Postal\n- *Telephone1*: coortel1[text] Num\u00e9ro de t\u00e9l\u00e9phone\n- *Telephone2*: coortel2[text]\n- *Fax*: coorfax[text]\n- *CommuneID*: communeid[int] ID de la commune de l'organisme\n- *CommuneNom*: commnom[text] Nom de la commune\n- *QuarNum*: quarnum[int] Num\u00e9ro du quartier\n- *QuarNom*: quarnom[text] Nom du quartier\n- *AdreNumero*: adrenumero[int] Num\u00e9ro de l'adresse postale\n- *AdreExtension*: adreextension[text] Extension de l'adresse postale\n- *AdreImmeuble*: adreimmeuble[text] Immeuble de l'adresse postale\n- *AdreRue1*: adrerue[text] Rue de l'adresse postale\n- *AdreRue2*: rivolide[text]\n- *Longitude*: longitude[text]\n- *Latitude*: latitude[text]\n- *OrgaDescription*: orgadomanetdescription[text] Description compl\u00e9mentaire de l'activit\u00e9\n- *DomaineLibelle1*: domanetlibelle1[text] Domaine d'activit\u00e9\n- *DomaineDescription1*: domanetdescription1[text] Description du domaine d'activit\u00e9\n- *DomaineLibelle2*: domanetlibelle2[text] Sous-domaine\n- *DomaineDescription2*: domanetdescription2[text] Description du sous-domaine\n- *DomaineLibelle3*: domanetlibelle3[text] Sous domaine\n- *DomaineDescription3*: domanetdescription3[text] Description du sous-domaine\n- *DomaineLibelle4*: domanetlibelle4[text] Sous domaine\n- *DomaineDescription4*: domanetdescription4[text] Description du sous domaine\n- *Accessibilit\u00e9 1*: accessibilite_1[text]\n- *Accessibilit\u00e9 2*: accessibilite_2[text]\n- *Accessibilit\u00e9 3*: accessibilite_3[text]\n- *Accessibilit\u00e9 4*: accessibilite_4x[text]\n- *Geo*: geo[geo_point_2d] Coordonn\u00e9es g\u00e9ographiques\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "2503f89d-00af-4a79-91a4-4e92d23a6e36",
+      "last_modified": "2017-10-23T12:59:01",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2503f89d-00af-4a79-91a4-4e92d23a6e36",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T04:01:24.312000",
+      "title": "Export au format JSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/base-orga-var/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:01:24.313000",
+      "description": "- *ID*: organismeid[text] ID de l'organisme\n- *Nom*: organom[text] Nom de l'organisme\n- *Sigle*: orgasigle[text] Sigle de l'organisme\n- *Minitel*: orgaminitel[text]\n- *Email*: orgaemail[text]\n- *Web*: orgaweb[text] Site web de l'organisme\n- *Description*: orgadesc[text]\n- *Info*: orgainfo[text] Informations compl\u00e9mentaires de l'organisme\n- *Horaires*: orgahoraires[text]\n- *BP*: coorbp[text] Coordonn\u00e9es de Boite Postale\n- *CP*: coorcp[int] Coordonn\u00e9es de Code Postal\n- *Telephone1*: coortel1[text] Num\u00e9ro de t\u00e9l\u00e9phone\n- *Telephone2*: coortel2[text]\n- *Fax*: coorfax[text]\n- *CommuneID*: communeid[int] ID de la commune de l'organisme\n- *CommuneNom*: commnom[text] Nom de la commune\n- *QuarNum*: quarnum[int] Num\u00e9ro du quartier\n- *QuarNom*: quarnom[text] Nom du quartier\n- *AdreNumero*: adrenumero[int] Num\u00e9ro de l'adresse postale\n- *AdreExtension*: adreextension[text] Extension de l'adresse postale\n- *AdreImmeuble*: adreimmeuble[text] Immeuble de l'adresse postale\n- *AdreRue1*: adrerue[text] Rue de l'adresse postale\n- *AdreRue2*: rivolide[text]\n- *Longitude*: longitude[text]\n- *Latitude*: latitude[text]\n- *OrgaDescription*: orgadomanetdescription[text] Description compl\u00e9mentaire de l'activit\u00e9\n- *DomaineLibelle1*: domanetlibelle1[text] Domaine d'activit\u00e9\n- *DomaineDescription1*: domanetdescription1[text] Description du domaine d'activit\u00e9\n- *DomaineLibelle2*: domanetlibelle2[text] Sous-domaine\n- *DomaineDescription2*: domanetdescription2[text] Description du sous-domaine\n- *DomaineLibelle3*: domanetlibelle3[text] Sous domaine\n- *DomaineDescription3*: domanetdescription3[text] Description du sous-domaine\n- *DomaineLibelle4*: domanetlibelle4[text] Sous domaine\n- *DomaineDescription4*: domanetdescription4[text] Description du sous domaine\n- *Accessibilit\u00e9 1*: accessibilite_1[text]\n- *Accessibilit\u00e9 2*: accessibilite_2[text]\n- *Accessibilit\u00e9 3*: accessibilite_3[text]\n- *Accessibilit\u00e9 4*: accessibilite_4x[text]\n- *Geo*: geo[geo_point_2d] Coordonn\u00e9es g\u00e9ographiques\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "d1bd450f-1af8-4665-943a-7068160e660a",
+      "last_modified": "2017-10-23T12:59:01",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d1bd450f-1af8-4665-943a-7068160e660a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T04:01:24.313000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/base-orga-var/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:01:24.313000",
+      "description": "- *ID*: organismeid[text] ID de l'organisme\n- *Nom*: organom[text] Nom de l'organisme\n- *Sigle*: orgasigle[text] Sigle de l'organisme\n- *Minitel*: orgaminitel[text]\n- *Email*: orgaemail[text]\n- *Web*: orgaweb[text] Site web de l'organisme\n- *Description*: orgadesc[text]\n- *Info*: orgainfo[text] Informations compl\u00e9mentaires de l'organisme\n- *Horaires*: orgahoraires[text]\n- *BP*: coorbp[text] Coordonn\u00e9es de Boite Postale\n- *CP*: coorcp[int] Coordonn\u00e9es de Code Postal\n- *Telephone1*: coortel1[text] Num\u00e9ro de t\u00e9l\u00e9phone\n- *Telephone2*: coortel2[text]\n- *Fax*: coorfax[text]\n- *CommuneID*: communeid[int] ID de la commune de l'organisme\n- *CommuneNom*: commnom[text] Nom de la commune\n- *QuarNum*: quarnum[int] Num\u00e9ro du quartier\n- *QuarNom*: quarnom[text] Nom du quartier\n- *AdreNumero*: adrenumero[int] Num\u00e9ro de l'adresse postale\n- *AdreExtension*: adreextension[text] Extension de l'adresse postale\n- *AdreImmeuble*: adreimmeuble[text] Immeuble de l'adresse postale\n- *AdreRue1*: adrerue[text] Rue de l'adresse postale\n- *AdreRue2*: rivolide[text]\n- *Longitude*: longitude[text]\n- *Latitude*: latitude[text]\n- *OrgaDescription*: orgadomanetdescription[text] Description compl\u00e9mentaire de l'activit\u00e9\n- *DomaineLibelle1*: domanetlibelle1[text] Domaine d'activit\u00e9\n- *DomaineDescription1*: domanetdescription1[text] Description du domaine d'activit\u00e9\n- *DomaineLibelle2*: domanetlibelle2[text] Sous-domaine\n- *DomaineDescription2*: domanetdescription2[text] Description du sous-domaine\n- *DomaineLibelle3*: domanetlibelle3[text] Sous domaine\n- *DomaineDescription3*: domanetdescription3[text] Description du sous-domaine\n- *DomaineLibelle4*: domanetlibelle4[text] Sous domaine\n- *DomaineDescription4*: domanetdescription4[text] Description du sous domaine\n- *Accessibilit\u00e9 1*: accessibilite_1[text]\n- *Accessibilit\u00e9 2*: accessibilite_2[text]\n- *Accessibilit\u00e9 3*: accessibilite_3[text]\n- *Accessibilit\u00e9 4*: accessibilite_4x[text]\n- *Geo*: geo[geo_point_2d] Coordonn\u00e9es g\u00e9ographiques\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "4f900f70-3dec-48d7-b62e-1816b88c8e07",
+      "last_modified": "2017-10-23T12:59:01",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4f900f70-3dec-48d7-b62e-1816b88c8e07",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T04:01:24.313000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/base-orga-var/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "base-organismes-et-equipements-vivre-a-rennes",
+  "spatial": null,
+  "tags": [
+    "api",
+    "equipements",
+    "espace-public",
+    "organismes"
+  ],
+  "temporal_coverage": null,
+  "title": "Base organismes et \u00e9quipements \"Vivre \u00e0 Rennes\"",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/base-organismes-et-equipements-vivre-a-rennes/"
+}

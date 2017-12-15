@@ -1,0 +1,152 @@
+{
+  "badges": [],
+  "created_at": "2017-01-05T03:42:02.471000",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es est un \u00e9chantillon du jeu de donn\u00e9es national \"Accidents corporels de la circulation 2015\". Les donn\u00e9es ont \u00e9t\u00e9 filtr\u00e9s pour uniquement afficher les communes de Rennes M\u00e9tropole.\n\n_______________________________________________________\n\nPour chaque accident corporel (soit un accident survenu sur une voie ouverte \u00e0 la circulation publique, impliquant au moins un v\u00e9hicule et ayant fait au moins une victime ayant n\u00e9cessit\u00e9 des soins), des saisies d\u2019information d\u00e9crivant l\u2019accident sont effectu\u00e9es par l\u2019unit\u00e9 des forces de l\u2019ordre (police, gendarmerie, etc.) qui est intervenue sur le lieu de l\u2019accident. Ces saisies sont rassembl\u00e9es dans une fiche intitul\u00e9e bulletin d\u2019analyse des accidents corporels. L\u2019ensemble de ces fiches constitue le fichier national des accidents corporels de la circulation dit \" Fichier BAAC \" administr\u00e9 par l\u2019Observatoire national interminist\u00e9riel de la s\u00e9curit\u00e9 routi\u00e8re \"ONISR\".\n\nLes bases de donn\u00e9es, extraites du fichier BAAC, r\u00e9pertorient l'int\u00e9gralit\u00e9 des accidents corporels de la circulation intervenus durant une ann\u00e9e pr\u00e9cise en France m\u00e9tropolitaine ainsi que les d\u00e9partements d\u2019Outre-mer (Guadeloupe, Guyane, Martinique, La R\u00e9union et Mayotte depuis 2012) avec une description simplifi\u00e9e. Cela comprend des informations de localisation de l\u2019accident, telles que renseign\u00e9es ainsi que des informations concernant les caract\u00e9ristiques de l\u2019accident et son lieu, les v\u00e9hicules impliqu\u00e9s et leurs victimes.\n\nPar rapport aux bases de donn\u00e9es agr\u00e9g\u00e9es 2005-2010 et 2006-2011 actuellement disponibles sur le site [www.data.gouv.fr](https://www.data.gouv.fr/), les bases de donn\u00e9es de 2005 \u00e0 2015 sont d\u00e9sormais annuelles et compos\u00e9es de 4 fichiers (Caract\u00e9ristiques \u2013 Lieux \u2013 V\u00e9hicules \u2013 Usagers ) au format csv.\n\nCes bases occultent n\u00e9anmoins certaines donn\u00e9es sp\u00e9cifiques relatives aux usagers et aux v\u00e9hicules et \u00e0 leur comportement dans la mesure o\u00f9 la divulgation de ces donn\u00e9es porterait atteinte \u00e0 la protection de la vie priv\u00e9e des personnes physiques ais\u00e9ment identifiables ou ferait appara\u00eetre le comportement de telles personnes alors que la divulgation de ce comportement pourrait leur porter pr\u00e9judice (avis de la CADA \u2013 2 janvier 2012).",
+  "extras": {
+    "harvest:domain": "data.rennesmetropole.fr",
+    "harvest:last_update": "2017-11-27T04:02:18.314692",
+    "harvest:remote_id": "accidents-corporels-de-la-circulation-2015",
+    "harvest:source_id": "580736ec88ee3816625ff490",
+    "ods:has_records": true,
+    "ods:references": "https://www.data.gouv.fr/fr/datasets/base-de-donnees-accidents-corporels-de-la-circulation/",
+    "ods:url": "https://data.rennesmetropole.fr/explore/dataset/accidents-corporels-de-la-circulation-2015/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "586db27aa3a7290df6f4bea9",
+  "last_modified": "2017-11-27T04:02:18.316000",
+  "last_update": "2017-11-27T04:02:18.314000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "RM",
+    "class": "Organization",
+    "id": "580735be88ee3814295ff490",
+    "logo": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-100.png",
+    "name": "Rennes M\u00e9tropole en acc\u00e8s libre",
+    "page": "https://www.data.gouv.fr/fr/organizations/rennes-metropole-en-acces-libre-1/",
+    "slug": "rennes-metropole-en-acces-libre-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/rennes-metropole-en-acces-libre-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/accidents-corporels-de-la-circulation-2015-rennes-metropole/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:02:18.313000",
+      "description": "- *Identifiant de l'accident*: num_acc[text] Num\u00e9ro d'identifiant de l\u2019accident \n- *Date et heure*: datetime[datetime] Date et heure de l'accident\n- *Commune*: nom_com[text] Commune\n- *Ann\u00e9e*: an[text] Ann\u00e9e\n- *Mois*: mois[text] Mois\n- *Jour*: jour[text] Jour\n- *Heure minute*: hrmn[text] Heure minute\n- *Lumi\u00e8re*: lum[text] Lumi\u00e8re : conditions d\u2019\u00e9clairage dans lesquelles l'accident s'est produit \n- *Localisation*: agg[text] Localisation\n- *Intersection*: int[text] Intersection\n- *Conditions atmosph\u00e9riques*: atm[text] Conditions atmosph\u00e9riques\n- *Collision*: col[text] Type de collision\n- *D\u00e9partement*: dep[text] D\u00e9partement : Code INSEE\n- *Code commune*: com[text] Commune : Le num\u00e9ro de commune est un code donn\u00e9 par l\u2018INSEE. Le code comporte 3 chiffres cal\u00e9s \u00e0 droite\n- *Code Insee*: insee[text] Code insee\n- *Adresse*: adr[text] Adresse postale : variable renseign\u00e9e pour les accidents survenus en agglom\u00e9ration\n- *Latitude*: lat[text] Latitude\n- *Longitude*: long[text] Longitude\n- *Code Postal*: code_postal[text] Code postal\n- *Num\u00e9ro*: num[text] Num\u00e9ro\n- *Coordonn\u00e9es*: coordonnees[geo_point_2d] Coordonn\u00e9es issues du g\u00e9ocoding de l'adresse via la BAN\n- *PR*: pr[text] Num\u00e9ro du PR de rattachement (num\u00e9ro de la borne amont) \n- *Surface*: surf[text] Etat de la surface\n- *V1*: v1[text] Indice num\u00e9rique du num\u00e9ro de route (exemple : 2 bis, 3 ter etc.)\n- *Circulation*: circ[text] R\u00e9gime de circulation \n- *Voie r\u00e9serv\u00e9e*: vosp[text] Signale l\u2019existence d\u2019une voie r\u00e9serv\u00e9e, ind\u00e9pendamment du fait que l\u2019accident ait lieu ou non sur cette voie\n- *Env1*: env1[text] point \u00e9cole : proximit\u00e9 d'une \u00e9cole \n- *Voie*: voie[text] Num\u00e9ro de la route\n- *Largeur de la chauss\u00e9e*: larrout[int] Largeur de la chauss\u00e9e affect\u00e9e \u00e0 la circulation des v\u00e9hicules ne sont pas compris les bandes d'arr\u00eat d'urgence,\nles TPC et les places de stationnement\n- *V2*: v2[text] Lettre indice alphanum\u00e9rique de la route\n- *Largeur terre plein central*: lartpc[int] Largeur du terre plein central (TPC) s'il existe\n- *Nombre de voies*: nbv[int] Nombre total de voies de circulation \n- *Cat\u00e9gorie route*: catr[text] Cat\u00e9gorie de route\n- *PR1*: pr1[int] Distance en m\u00e8tres au PR (par rapport \u00e0 la borne amont)\n- *Plan*: plan[text] Trac\u00e9 en plan \n- *Profil*: prof[text] Profil en long d\u00e9crit la d\u00e9clivit\u00e9 de la route \u00e0 l'endroit de l'accident \n- *Infrastructure*: infra[text] Am\u00e9nagement - Infrastructure\n- *Situation*: situ[text] Situation de l\u2019accident\n- *Ann\u00e9e de naissance*: an_nais[text] Ann\u00e9e de naissance de l'usager\n- *Sexe*: sexe[text] Sexe de l'usager\n- *Action pi\u00e9ton*: actp[text] Action du pi\u00e9ton \n- *Gravit\u00e9*: grav[text] Gravit\u00e9 de l'accident : Les usagers accident\u00e9s sont class\u00e9s en trois cat\u00e9gories de victimes plus les indemnes Gravit\u00e9 de l'accident : Les usagers accident\u00e9s sont class\u00e9s en trois cat\u00e9gories de victimes plus les indemnes \n- *Existence \u00e9quipement de s\u00e9curit\u00e9*: secu[text] Existence d\u2019un \u00c9quipement de s\u00e9curit\u00e9\n- *Utilisation \u00e9quipement de s\u00e9curit\u00e9*: secu_utl[text] Utilisation de l\u2019\u00c9quipement de s\u00e9curit\u00e9 \n- *Localisation du pi\u00e9ton*: locp[text] Localisation du pi\u00e9ton\n- *Identifiant v\u00e9hicule*: num_veh[text] Identifiant du v\u00e9hicule repris pour chacun des usagers occupant ce v\u00e9hicule \n- *Place*: place[text] Permet de situer la place occup\u00e9e dans le v\u00e9hicule par l'usager au moment de l'accident \n- *Cat\u00e9gorie d'usager*: catu[text] Cat\u00e9gorie d'usager \n- *Pi\u00e9ton seul ou non*: etatp[text] Cette variable permet de pr\u00e9ciser si le pi\u00e9ton accident\u00e9 \u00e9tait seul ou non\n- *Motif trajet*: trajet[text] Motif du d\u00e9placement au moment de l\u2019accident \n- *Point de choc*: choc[text] Point de choc initial\n- *Man\u0153uvre*: manv[text] Man\u0153uvre principale avant l\u2019accident \n- *Sens*: senc[text] Sens de circulation \n- *Obstacle mobile heurt\u00e9*: obsm[text] Obstacle mobile heurt\u00e9\n- *Obstacle fixe heurt\u00e9*: obs[text] Obstacle fixe heurt\u00e9\n- *Cat\u00e9gorie v\u00e9hicule*: catv[text] Cat\u00e9gorie du v\u00e9hicule\n- *Nombre d'occupants*: occutc[text] Nombre d\u2019occupants dans le transport en commun\n- *Gps*: gps[text] Indicateur de provenance\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2db1c4c3-e1d7-41af-91ee-3747c6e1ca5b",
+      "last_modified": "2016-12-06T08:15:01",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2db1c4c3-e1d7-41af-91ee-3747c6e1ca5b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T04:02:18.313000",
+      "title": "Export au format CSV",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/accidents-corporels-de-la-circulation-2015/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:02:18.313000",
+      "description": "- *Identifiant de l'accident*: num_acc[text] Num\u00e9ro d'identifiant de l\u2019accident \n- *Date et heure*: datetime[datetime] Date et heure de l'accident\n- *Commune*: nom_com[text] Commune\n- *Ann\u00e9e*: an[text] Ann\u00e9e\n- *Mois*: mois[text] Mois\n- *Jour*: jour[text] Jour\n- *Heure minute*: hrmn[text] Heure minute\n- *Lumi\u00e8re*: lum[text] Lumi\u00e8re : conditions d\u2019\u00e9clairage dans lesquelles l'accident s'est produit \n- *Localisation*: agg[text] Localisation\n- *Intersection*: int[text] Intersection\n- *Conditions atmosph\u00e9riques*: atm[text] Conditions atmosph\u00e9riques\n- *Collision*: col[text] Type de collision\n- *D\u00e9partement*: dep[text] D\u00e9partement : Code INSEE\n- *Code commune*: com[text] Commune : Le num\u00e9ro de commune est un code donn\u00e9 par l\u2018INSEE. Le code comporte 3 chiffres cal\u00e9s \u00e0 droite\n- *Code Insee*: insee[text] Code insee\n- *Adresse*: adr[text] Adresse postale : variable renseign\u00e9e pour les accidents survenus en agglom\u00e9ration\n- *Latitude*: lat[text] Latitude\n- *Longitude*: long[text] Longitude\n- *Code Postal*: code_postal[text] Code postal\n- *Num\u00e9ro*: num[text] Num\u00e9ro\n- *Coordonn\u00e9es*: coordonnees[geo_point_2d] Coordonn\u00e9es issues du g\u00e9ocoding de l'adresse via la BAN\n- *PR*: pr[text] Num\u00e9ro du PR de rattachement (num\u00e9ro de la borne amont) \n- *Surface*: surf[text] Etat de la surface\n- *V1*: v1[text] Indice num\u00e9rique du num\u00e9ro de route (exemple : 2 bis, 3 ter etc.)\n- *Circulation*: circ[text] R\u00e9gime de circulation \n- *Voie r\u00e9serv\u00e9e*: vosp[text] Signale l\u2019existence d\u2019une voie r\u00e9serv\u00e9e, ind\u00e9pendamment du fait que l\u2019accident ait lieu ou non sur cette voie\n- *Env1*: env1[text] point \u00e9cole : proximit\u00e9 d'une \u00e9cole \n- *Voie*: voie[text] Num\u00e9ro de la route\n- *Largeur de la chauss\u00e9e*: larrout[int] Largeur de la chauss\u00e9e affect\u00e9e \u00e0 la circulation des v\u00e9hicules ne sont pas compris les bandes d'arr\u00eat d'urgence,\nles TPC et les places de stationnement\n- *V2*: v2[text] Lettre indice alphanum\u00e9rique de la route\n- *Largeur terre plein central*: lartpc[int] Largeur du terre plein central (TPC) s'il existe\n- *Nombre de voies*: nbv[int] Nombre total de voies de circulation \n- *Cat\u00e9gorie route*: catr[text] Cat\u00e9gorie de route\n- *PR1*: pr1[int] Distance en m\u00e8tres au PR (par rapport \u00e0 la borne amont)\n- *Plan*: plan[text] Trac\u00e9 en plan \n- *Profil*: prof[text] Profil en long d\u00e9crit la d\u00e9clivit\u00e9 de la route \u00e0 l'endroit de l'accident \n- *Infrastructure*: infra[text] Am\u00e9nagement - Infrastructure\n- *Situation*: situ[text] Situation de l\u2019accident\n- *Ann\u00e9e de naissance*: an_nais[text] Ann\u00e9e de naissance de l'usager\n- *Sexe*: sexe[text] Sexe de l'usager\n- *Action pi\u00e9ton*: actp[text] Action du pi\u00e9ton \n- *Gravit\u00e9*: grav[text] Gravit\u00e9 de l'accident : Les usagers accident\u00e9s sont class\u00e9s en trois cat\u00e9gories de victimes plus les indemnes Gravit\u00e9 de l'accident : Les usagers accident\u00e9s sont class\u00e9s en trois cat\u00e9gories de victimes plus les indemnes \n- *Existence \u00e9quipement de s\u00e9curit\u00e9*: secu[text] Existence d\u2019un \u00c9quipement de s\u00e9curit\u00e9\n- *Utilisation \u00e9quipement de s\u00e9curit\u00e9*: secu_utl[text] Utilisation de l\u2019\u00c9quipement de s\u00e9curit\u00e9 \n- *Localisation du pi\u00e9ton*: locp[text] Localisation du pi\u00e9ton\n- *Identifiant v\u00e9hicule*: num_veh[text] Identifiant du v\u00e9hicule repris pour chacun des usagers occupant ce v\u00e9hicule \n- *Place*: place[text] Permet de situer la place occup\u00e9e dans le v\u00e9hicule par l'usager au moment de l'accident \n- *Cat\u00e9gorie d'usager*: catu[text] Cat\u00e9gorie d'usager \n- *Pi\u00e9ton seul ou non*: etatp[text] Cette variable permet de pr\u00e9ciser si le pi\u00e9ton accident\u00e9 \u00e9tait seul ou non\n- *Motif trajet*: trajet[text] Motif du d\u00e9placement au moment de l\u2019accident \n- *Point de choc*: choc[text] Point de choc initial\n- *Man\u0153uvre*: manv[text] Man\u0153uvre principale avant l\u2019accident \n- *Sens*: senc[text] Sens de circulation \n- *Obstacle mobile heurt\u00e9*: obsm[text] Obstacle mobile heurt\u00e9\n- *Obstacle fixe heurt\u00e9*: obs[text] Obstacle fixe heurt\u00e9\n- *Cat\u00e9gorie v\u00e9hicule*: catv[text] Cat\u00e9gorie du v\u00e9hicule\n- *Nombre d'occupants*: occutc[text] Nombre d\u2019occupants dans le transport en commun\n- *Gps*: gps[text] Indicateur de provenance\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "f6dcab68-df02-4928-9cfe-5b6178d4dfda",
+      "last_modified": "2016-12-06T08:15:01",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f6dcab68-df02-4928-9cfe-5b6178d4dfda",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T04:02:18.313000",
+      "title": "Export au format JSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/accidents-corporels-de-la-circulation-2015/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:02:18.313000",
+      "description": "- *Identifiant de l'accident*: num_acc[text] Num\u00e9ro d'identifiant de l\u2019accident \n- *Date et heure*: datetime[datetime] Date et heure de l'accident\n- *Commune*: nom_com[text] Commune\n- *Ann\u00e9e*: an[text] Ann\u00e9e\n- *Mois*: mois[text] Mois\n- *Jour*: jour[text] Jour\n- *Heure minute*: hrmn[text] Heure minute\n- *Lumi\u00e8re*: lum[text] Lumi\u00e8re : conditions d\u2019\u00e9clairage dans lesquelles l'accident s'est produit \n- *Localisation*: agg[text] Localisation\n- *Intersection*: int[text] Intersection\n- *Conditions atmosph\u00e9riques*: atm[text] Conditions atmosph\u00e9riques\n- *Collision*: col[text] Type de collision\n- *D\u00e9partement*: dep[text] D\u00e9partement : Code INSEE\n- *Code commune*: com[text] Commune : Le num\u00e9ro de commune est un code donn\u00e9 par l\u2018INSEE. Le code comporte 3 chiffres cal\u00e9s \u00e0 droite\n- *Code Insee*: insee[text] Code insee\n- *Adresse*: adr[text] Adresse postale : variable renseign\u00e9e pour les accidents survenus en agglom\u00e9ration\n- *Latitude*: lat[text] Latitude\n- *Longitude*: long[text] Longitude\n- *Code Postal*: code_postal[text] Code postal\n- *Num\u00e9ro*: num[text] Num\u00e9ro\n- *Coordonn\u00e9es*: coordonnees[geo_point_2d] Coordonn\u00e9es issues du g\u00e9ocoding de l'adresse via la BAN\n- *PR*: pr[text] Num\u00e9ro du PR de rattachement (num\u00e9ro de la borne amont) \n- *Surface*: surf[text] Etat de la surface\n- *V1*: v1[text] Indice num\u00e9rique du num\u00e9ro de route (exemple : 2 bis, 3 ter etc.)\n- *Circulation*: circ[text] R\u00e9gime de circulation \n- *Voie r\u00e9serv\u00e9e*: vosp[text] Signale l\u2019existence d\u2019une voie r\u00e9serv\u00e9e, ind\u00e9pendamment du fait que l\u2019accident ait lieu ou non sur cette voie\n- *Env1*: env1[text] point \u00e9cole : proximit\u00e9 d'une \u00e9cole \n- *Voie*: voie[text] Num\u00e9ro de la route\n- *Largeur de la chauss\u00e9e*: larrout[int] Largeur de la chauss\u00e9e affect\u00e9e \u00e0 la circulation des v\u00e9hicules ne sont pas compris les bandes d'arr\u00eat d'urgence,\nles TPC et les places de stationnement\n- *V2*: v2[text] Lettre indice alphanum\u00e9rique de la route\n- *Largeur terre plein central*: lartpc[int] Largeur du terre plein central (TPC) s'il existe\n- *Nombre de voies*: nbv[int] Nombre total de voies de circulation \n- *Cat\u00e9gorie route*: catr[text] Cat\u00e9gorie de route\n- *PR1*: pr1[int] Distance en m\u00e8tres au PR (par rapport \u00e0 la borne amont)\n- *Plan*: plan[text] Trac\u00e9 en plan \n- *Profil*: prof[text] Profil en long d\u00e9crit la d\u00e9clivit\u00e9 de la route \u00e0 l'endroit de l'accident \n- *Infrastructure*: infra[text] Am\u00e9nagement - Infrastructure\n- *Situation*: situ[text] Situation de l\u2019accident\n- *Ann\u00e9e de naissance*: an_nais[text] Ann\u00e9e de naissance de l'usager\n- *Sexe*: sexe[text] Sexe de l'usager\n- *Action pi\u00e9ton*: actp[text] Action du pi\u00e9ton \n- *Gravit\u00e9*: grav[text] Gravit\u00e9 de l'accident : Les usagers accident\u00e9s sont class\u00e9s en trois cat\u00e9gories de victimes plus les indemnes Gravit\u00e9 de l'accident : Les usagers accident\u00e9s sont class\u00e9s en trois cat\u00e9gories de victimes plus les indemnes \n- *Existence \u00e9quipement de s\u00e9curit\u00e9*: secu[text] Existence d\u2019un \u00c9quipement de s\u00e9curit\u00e9\n- *Utilisation \u00e9quipement de s\u00e9curit\u00e9*: secu_utl[text] Utilisation de l\u2019\u00c9quipement de s\u00e9curit\u00e9 \n- *Localisation du pi\u00e9ton*: locp[text] Localisation du pi\u00e9ton\n- *Identifiant v\u00e9hicule*: num_veh[text] Identifiant du v\u00e9hicule repris pour chacun des usagers occupant ce v\u00e9hicule \n- *Place*: place[text] Permet de situer la place occup\u00e9e dans le v\u00e9hicule par l'usager au moment de l'accident \n- *Cat\u00e9gorie d'usager*: catu[text] Cat\u00e9gorie d'usager \n- *Pi\u00e9ton seul ou non*: etatp[text] Cette variable permet de pr\u00e9ciser si le pi\u00e9ton accident\u00e9 \u00e9tait seul ou non\n- *Motif trajet*: trajet[text] Motif du d\u00e9placement au moment de l\u2019accident \n- *Point de choc*: choc[text] Point de choc initial\n- *Man\u0153uvre*: manv[text] Man\u0153uvre principale avant l\u2019accident \n- *Sens*: senc[text] Sens de circulation \n- *Obstacle mobile heurt\u00e9*: obsm[text] Obstacle mobile heurt\u00e9\n- *Obstacle fixe heurt\u00e9*: obs[text] Obstacle fixe heurt\u00e9\n- *Cat\u00e9gorie v\u00e9hicule*: catv[text] Cat\u00e9gorie du v\u00e9hicule\n- *Nombre d'occupants*: occutc[text] Nombre d\u2019occupants dans le transport en commun\n- *Gps*: gps[text] Indicateur de provenance\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "ae7ffd97-33c9-4891-a6a9-077364329f65",
+      "last_modified": "2016-12-06T08:15:01",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ae7ffd97-33c9-4891-a6a9-077364329f65",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T04:02:18.313000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/accidents-corporels-de-la-circulation-2015/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:02:18.314000",
+      "description": "- *Identifiant de l'accident*: num_acc[text] Num\u00e9ro d'identifiant de l\u2019accident \n- *Date et heure*: datetime[datetime] Date et heure de l'accident\n- *Commune*: nom_com[text] Commune\n- *Ann\u00e9e*: an[text] Ann\u00e9e\n- *Mois*: mois[text] Mois\n- *Jour*: jour[text] Jour\n- *Heure minute*: hrmn[text] Heure minute\n- *Lumi\u00e8re*: lum[text] Lumi\u00e8re : conditions d\u2019\u00e9clairage dans lesquelles l'accident s'est produit \n- *Localisation*: agg[text] Localisation\n- *Intersection*: int[text] Intersection\n- *Conditions atmosph\u00e9riques*: atm[text] Conditions atmosph\u00e9riques\n- *Collision*: col[text] Type de collision\n- *D\u00e9partement*: dep[text] D\u00e9partement : Code INSEE\n- *Code commune*: com[text] Commune : Le num\u00e9ro de commune est un code donn\u00e9 par l\u2018INSEE. Le code comporte 3 chiffres cal\u00e9s \u00e0 droite\n- *Code Insee*: insee[text] Code insee\n- *Adresse*: adr[text] Adresse postale : variable renseign\u00e9e pour les accidents survenus en agglom\u00e9ration\n- *Latitude*: lat[text] Latitude\n- *Longitude*: long[text] Longitude\n- *Code Postal*: code_postal[text] Code postal\n- *Num\u00e9ro*: num[text] Num\u00e9ro\n- *Coordonn\u00e9es*: coordonnees[geo_point_2d] Coordonn\u00e9es issues du g\u00e9ocoding de l'adresse via la BAN\n- *PR*: pr[text] Num\u00e9ro du PR de rattachement (num\u00e9ro de la borne amont) \n- *Surface*: surf[text] Etat de la surface\n- *V1*: v1[text] Indice num\u00e9rique du num\u00e9ro de route (exemple : 2 bis, 3 ter etc.)\n- *Circulation*: circ[text] R\u00e9gime de circulation \n- *Voie r\u00e9serv\u00e9e*: vosp[text] Signale l\u2019existence d\u2019une voie r\u00e9serv\u00e9e, ind\u00e9pendamment du fait que l\u2019accident ait lieu ou non sur cette voie\n- *Env1*: env1[text] point \u00e9cole : proximit\u00e9 d'une \u00e9cole \n- *Voie*: voie[text] Num\u00e9ro de la route\n- *Largeur de la chauss\u00e9e*: larrout[int] Largeur de la chauss\u00e9e affect\u00e9e \u00e0 la circulation des v\u00e9hicules ne sont pas compris les bandes d'arr\u00eat d'urgence,\nles TPC et les places de stationnement\n- *V2*: v2[text] Lettre indice alphanum\u00e9rique de la route\n- *Largeur terre plein central*: lartpc[int] Largeur du terre plein central (TPC) s'il existe\n- *Nombre de voies*: nbv[int] Nombre total de voies de circulation \n- *Cat\u00e9gorie route*: catr[text] Cat\u00e9gorie de route\n- *PR1*: pr1[int] Distance en m\u00e8tres au PR (par rapport \u00e0 la borne amont)\n- *Plan*: plan[text] Trac\u00e9 en plan \n- *Profil*: prof[text] Profil en long d\u00e9crit la d\u00e9clivit\u00e9 de la route \u00e0 l'endroit de l'accident \n- *Infrastructure*: infra[text] Am\u00e9nagement - Infrastructure\n- *Situation*: situ[text] Situation de l\u2019accident\n- *Ann\u00e9e de naissance*: an_nais[text] Ann\u00e9e de naissance de l'usager\n- *Sexe*: sexe[text] Sexe de l'usager\n- *Action pi\u00e9ton*: actp[text] Action du pi\u00e9ton \n- *Gravit\u00e9*: grav[text] Gravit\u00e9 de l'accident : Les usagers accident\u00e9s sont class\u00e9s en trois cat\u00e9gories de victimes plus les indemnes Gravit\u00e9 de l'accident : Les usagers accident\u00e9s sont class\u00e9s en trois cat\u00e9gories de victimes plus les indemnes \n- *Existence \u00e9quipement de s\u00e9curit\u00e9*: secu[text] Existence d\u2019un \u00c9quipement de s\u00e9curit\u00e9\n- *Utilisation \u00e9quipement de s\u00e9curit\u00e9*: secu_utl[text] Utilisation de l\u2019\u00c9quipement de s\u00e9curit\u00e9 \n- *Localisation du pi\u00e9ton*: locp[text] Localisation du pi\u00e9ton\n- *Identifiant v\u00e9hicule*: num_veh[text] Identifiant du v\u00e9hicule repris pour chacun des usagers occupant ce v\u00e9hicule \n- *Place*: place[text] Permet de situer la place occup\u00e9e dans le v\u00e9hicule par l'usager au moment de l'accident \n- *Cat\u00e9gorie d'usager*: catu[text] Cat\u00e9gorie d'usager \n- *Pi\u00e9ton seul ou non*: etatp[text] Cette variable permet de pr\u00e9ciser si le pi\u00e9ton accident\u00e9 \u00e9tait seul ou non\n- *Motif trajet*: trajet[text] Motif du d\u00e9placement au moment de l\u2019accident \n- *Point de choc*: choc[text] Point de choc initial\n- *Man\u0153uvre*: manv[text] Man\u0153uvre principale avant l\u2019accident \n- *Sens*: senc[text] Sens de circulation \n- *Obstacle mobile heurt\u00e9*: obsm[text] Obstacle mobile heurt\u00e9\n- *Obstacle fixe heurt\u00e9*: obs[text] Obstacle fixe heurt\u00e9\n- *Cat\u00e9gorie v\u00e9hicule*: catv[text] Cat\u00e9gorie du v\u00e9hicule\n- *Nombre d'occupants*: occutc[text] Nombre d\u2019occupants dans le transport en commun\n- *Gps*: gps[text] Indicateur de provenance\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "2db8281b-15a7-418a-98a8-d1f980f7b74a",
+      "last_modified": "2016-12-06T08:15:01",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2db8281b-15a7-418a-98a8-d1f980f7b74a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T04:02:18.314000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/accidents-corporels-de-la-circulation-2015/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "accidents-corporels-de-la-circulation-2015-rennes-metropole",
+  "spatial": null,
+  "tags": [
+    "accidents",
+    "assurance",
+    "blesses",
+    "route",
+    "routiere",
+    "sante",
+    "securite",
+    "tues",
+    "vehicules"
+  ],
+  "temporal_coverage": null,
+  "title": "Accidents corporels de la circulation 2015 - Rennes M\u00e9tropole",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/accidents-corporels-de-la-circulation-2015-rennes-metropole/"
+}

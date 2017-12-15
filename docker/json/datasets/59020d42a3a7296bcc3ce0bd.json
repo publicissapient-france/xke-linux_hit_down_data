@@ -1,0 +1,134 @@
+{
+  "badges": [],
+  "created_at": "2016-07-25T00:00:00",
+  "deleted": null,
+  "description": "Export des communes fran\u00e7aises, espagnoles, italiennes, turques et bulgares",
+  "extras": {
+    "Fr\u00e9quence de mise \u00e0 jour": "Temps r\u00e9el",
+    "ckan:name": "communes",
+    "harvest:domain": "opendata.data-ozwillo.org",
+    "harvest:last_update": "2017-04-27T17:24:50.076714",
+    "harvest:remote_id": "18994aa7-c81c-42a8-9e4b-8ce24d3f2856",
+    "harvest:source_id": "57599de9c751df1a1dac31a0"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59020d42a3a7296bcc3ce0bd",
+  "last_modified": "2017-04-27T17:24:50.078000",
+  "last_update": "2017-04-27T17:24:50.076000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "56c4765fc751df27326c6ddf",
+    "logo": "https://www.data.gouv.fr/s/avatars/c3/f674ad6c354099a8166090b134da4a-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c3/f674ad6c354099a8166090b134da4a-100.png",
+    "name": "Ozwillo",
+    "page": "https://www.data.gouv.fr/fr/organizations/ozwillo/",
+    "slug": "ozwillo",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ozwillo/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/communes-2/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-04-27T17:24:50.074000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-10-29T15:17:01.232000",
+        "check:status": 503,
+        "check:url": "https://opendata.data-ozwillo.org/dataset/18994aa7-c81c-42a8-9e4b-8ce24d3f2856/resource/af37430c-c7d7-431f-a2c2-216f6b79e071/download/export-5746140281313405996.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "af37430c-c7d7-431f-a2c2-216f6b79e071",
+      "last_modified": "2016-07-25T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/af37430c-c7d7-431f-a2c2-216f6b79e071",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-04-27T17:24:50.075000",
+      "title": "Export des communes fran\u00e7aises",
+      "url": "https://opendata.data-ozwillo.org/dataset/18994aa7-c81c-42a8-9e4b-8ce24d3f2856/resource/af37430c-c7d7-431f-a2c2-216f6b79e071/download/export-5746140281313405996.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-27T17:24:50.075000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-10-29T15:17:00.006000",
+        "check:status": 503,
+        "check:url": "https://opendata.data-ozwillo.org/dataset/18994aa7-c81c-42a8-9e4b-8ce24d3f2856/resource/78ddcb03-3d78-485d-8c82-84f747bd9fab/download/export-6644968911472105141.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "78ddcb03-3d78-485d-8c82-84f747bd9fab",
+      "last_modified": "2016-07-25T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/78ddcb03-3d78-485d-8c82-84f747bd9fab",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-04-27T17:24:50.075000",
+      "title": "Export des communes italiennes",
+      "url": "https://opendata.data-ozwillo.org/dataset/18994aa7-c81c-42a8-9e4b-8ce24d3f2856/resource/78ddcb03-3d78-485d-8c82-84f747bd9fab/download/export-6644968911472105141.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-27T17:24:50.075000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-10-29T15:16:57.456000",
+        "check:status": 503,
+        "check:url": "https://opendata.data-ozwillo.org/dataset/18994aa7-c81c-42a8-9e4b-8ce24d3f2856/resource/c0500fbc-abbd-4648-bbd6-84f296aef87e/download/export-8975153983350881384.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c0500fbc-abbd-4648-bbd6-84f296aef87e",
+      "last_modified": "2016-07-25T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c0500fbc-abbd-4648-bbd6-84f296aef87e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-04-27T17:24:50.076000",
+      "title": "Export des communes espagnoles",
+      "url": "https://opendata.data-ozwillo.org/dataset/18994aa7-c81c-42a8-9e4b-8ce24d3f2856/resource/c0500fbc-abbd-4648-bbd6-84f296aef87e/download/export-8975153983350881384.csv"
+    }
+  ],
+  "slug": "communes-2",
+  "spatial": null,
+  "tags": [],
+  "temporal_coverage": null,
+  "title": "Communes",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/communes-2/"
+}

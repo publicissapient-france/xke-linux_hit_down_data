@@ -1,0 +1,95 @@
+{
+  "badges": [],
+  "created_at": "2017-02-06T00:00:00",
+  "deleted": null,
+  "description": "La liste des services de proximit\u00e9 du domaine social pour le d\u00e9partement de la Gironde. Il contient la fiche descriptive des antennes d'accueil du public",
+  "extras": {
+    "ckan:name": "liste-des-services-sociaux-de-proximite1",
+    "contact_email": "mailto:dgas-dagms@cg33.fr",
+    "contact_name": "Direction des Affaires g\u00e9n\u00e9rales des moyens de solidarit\u00e9",
+    "contact_uri": "https://datacat.datalocale.fr/414586",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+    "guid": "https://datacat.datalocale.fr/414744",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-06-04T20:58:01.269499",
+    "harvest:remote_id": "435172f2-15f1-4824-876a-be6a7e7da6d4",
+    "harvest:source_id": "59342bc2c751df46b29d4f99",
+    "identifier": "1a922c50-1abf-4c34-8cee-e883239f1c70",
+    "issued": "2012-12-28T15:22:12+00:00",
+    "modified": "2016-07-25T09:41:15.148118+00:00",
+    "publisher_name": "DAGMS-SSISAG",
+    "publisher_uri": "https://datacat.datalocale.fr/414585",
+    "theme": "[\"politique sociale\"]",
+    "uri": "https://datacat.datalocale.fr/414744"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59345839a3a72968e2876c5c",
+  "last_modified": "2017-06-04T20:58:01.272000",
+  "last_update": "2017-06-04T20:58:01.268000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 2
+  },
+  "organization": null,
+  "owner": {
+    "avatar": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-original.jpg",
+    "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-100.jpg",
+    "class": "User",
+    "first_name": "Ressourcerie",
+    "id": "534fff47a3a7292c64a77adc",
+    "last_name": "datalocale",
+    "page": "https://www.data.gouv.fr/fr/users/ressourcerie-datalocale/",
+    "slug": "ressourcerie-datalocale",
+    "uri": "https://www.data.gouv.fr/api/1/users/ressourcerie-datalocale/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-services-sociaux-de-proximite1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:58:01.268000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T12:25:31.599000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414746/raw/2013-01-14-165858LISTE_SERVICE_PROX.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "30c23a22-2514-49a2-acf5-3e98c123422a",
+      "last_modified": "2017-06-04T20:58:01.268000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/30c23a22-2514-49a2-acf5-3e98c123422a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:58:01.268000",
+      "title": "Liste des services de proximit\u00e9 de l'action sociale",
+      "url": "https://datacat.datalocale.fr/file/414746/raw/2013-01-14-165858LISTE_SERVICE_PROX.csv"
+    }
+  ],
+  "slug": "liste-des-services-sociaux-de-proximite1",
+  "spatial": null,
+  "tags": [
+    "antenne-sociale",
+    "conseil-departemental",
+    "equipement",
+    "gironde"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des services sociaux de proximit\u00e9",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-services-sociaux-de-proximite1/"
+}

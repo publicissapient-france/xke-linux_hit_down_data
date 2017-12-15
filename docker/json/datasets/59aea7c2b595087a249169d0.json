@@ -1,0 +1,136 @@
+{
+  "badges": [],
+  "created_at": "2017-01-19T00:00:00",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es renseigne le nombre de d\u00e9c\u00e8s mensuels \u00e0 Nice.",
+  "extras": {
+    "ckan:name": "nombre-de-deces-par-mois-pour-l-annee-2016",
+    "harvest:domain": "opendata.nicecotedazur.org",
+    "harvest:last_update": "2017-09-05T15:33:54.631989",
+    "harvest:remote_id": "a5cd9d50-fd8a-4610-bc91-b6dca616577d",
+    "harvest:source_id": "59aea691c751df40c6e8212c"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59aea7c2b595087a249169d0",
+  "last_modified": "2017-09-05T15:33:54.633000",
+  "last_update": "2017-09-05T15:33:54.631000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "59aea226c751df38f3f6834b",
+    "logo": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-100.png",
+    "name": "Nice C\u00f4te d'Azur",
+    "page": "https://www.data.gouv.fr/fr/organizations/nice-cote-dazur/",
+    "slug": "nice-cote-dazur",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nice-cote-dazur/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/nombre-de-deces-par-mois-pour-l-annee-2016/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:54.630000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-16T19:12:14.622000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-01-19T13%3A28%3A33.370Z/2016-nombre-de-deces.xls"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xls",
+      "id": "9b60fa63-cc34-45f2-b530-c700920249e7",
+      "last_modified": "2017-01-19T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9b60fa63-cc34-45f2-b530-c700920249e7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.ms-excel",
+      "published": "2017-09-05T15:33:54.630000",
+      "title": "2016 Nombre de d\u00e9c\u00e8s.xls",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-01-19T13%3A28%3A33.370Z/2016-nombre-de-deces.xls"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:54.630000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-16T19:12:13.883000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-01-19T13%3A33%3A16.095Z/2016-nombre-de-deces.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "810757f4-d8d7-47ea-9bde-3b5446f465a6",
+      "last_modified": "2017-01-19T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/810757f4-d8d7-47ea-9bde-3b5446f465a6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.oasis.opendocument.spreadsheet",
+      "published": "2017-09-05T15:33:54.630000",
+      "title": "2016 Nombre de d\u00e9c\u00e8s.ods",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-01-19T13%3A33%3A16.095Z/2016-nombre-de-deces.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:54.631000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-16T19:12:12.560000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-01-19T13%3A33%3A37.302Z/2016-nombre-de-deces.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "449b7e08-4242-4fab-9399-6da988dd07b6",
+      "last_modified": "2017-01-19T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/449b7e08-4242-4fab-9399-6da988dd07b6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-05T15:33:54.631000",
+      "title": "2016 Nombre de d\u00e9c\u00e8s.csv",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-01-19T13%3A33%3A37.302Z/2016-nombre-de-deces.csv"
+    }
+  ],
+  "slug": "nombre-de-deces-par-mois-pour-l-annee-2016",
+  "spatial": null,
+  "tags": [
+    "deces",
+    "mensuel",
+    "nombre"
+  ],
+  "temporal_coverage": null,
+  "title": "Nombre de d\u00e9c\u00e8s par mois pour l'ann\u00e9e 2016",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/nombre-de-deces-par-mois-pour-l-annee-2016/"
+}

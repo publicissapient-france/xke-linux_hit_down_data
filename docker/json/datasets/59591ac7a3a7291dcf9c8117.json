@@ -1,0 +1,100 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T18:09:43.907000",
+  "deleted": null,
+  "description": "L\u2019extraction concerne les \u00e9tudiants qui ont constitu\u00e9 un dossier pour obtenir une bourse. Certains \u00e9tudiants n\u2019ont pas finalis\u00e9 leur dossier de demande de bourse (dossier en r\u00e9daction ou non trait\u00e9s pas l\u2019\u00e9cole). \n\nLes codes associ\u00e9s \u00e0 certaines donn\u00e9es ont la signification suivante : \n\n  * Civilit\u00e9 : Madame (=1) ; Monsieur (=2)\n  * Nationalit\u00e9 : fran\u00e7ais (=1) ; ressortissants de l\u2019union europ\u00e9enne (=2) ; \u00e9trangers hors ressortissants de l\u2019union europ\u00e9enne (=3)\n  * P\u00e9riode Id : codification informatique de la p\u00e9riode avec comme d\u00e9marrage septembre 2007=1\n  * Etat Dossier : DNT = dossier notifi\u00e9 (accord ou refus) ; DAI = dossier en attente d\u2019instruction (dossier qui a \u00e9t\u00e9 valid\u00e9 par l\u2019\u00e9cole par erreur ou jamais compl\u00e9t\u00e9 par l\u2019\u00e9tudiant) ; DIN= dossiers incomplets (signal\u00e9s par l\u2019\u00e9cole)\n  * D\u00e9cision : AB = arr\u00eat bourse (en cas d\u2019abandon) ; BA= bourse attribu\u00e9e ; BR= bourse refus\u00e9e ; DI= dossier incomplet (signal\u00e9 par la R\u00e9gion) ; ND= pas de d\u00e9cision ; RGA= recours gracieux accord\u00e9 ; RGR= recours gracieux refus\u00e9\n  * Date Validation Etudiant = date \u00e0 laquelle l\u2019\u00e9tudiant a valid\u00e9 d\u00e9finitivement en ligne la cr\u00e9ation de sa demande de bourse\n  * Date Validation Centre = date \u00e0 laquelle le centre de formation a valid\u00e9 d\u00e9finitivement la demande de l\u2019\u00e9tudiant\n  * Date Notification = date \u00e0 laquelle la R\u00e9gion \u00e0 lancer la proc\u00e9dure de notification : accord ou refus",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T06:07:41.878943",
+    "harvest:remote_id": "etudiants_boursiers_des_formations_sanitaires_et_sociales_sept_2008",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/etudiants_boursiers_des_formations_sanitaires_et_sociales_sept_2008/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59591ac7a3a7291dcf9c8117",
+  "last_modified": "2017-11-27T06:07:41.883000",
+  "last_update": "2017-11-27T06:07:41.877000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/etudiants-boursiers-des-formations-sanitaires-et-sociales-sept-2008/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:07:41.877000",
+      "description": "- *CIVILITE*: civilite[int]\n- *Nationalit\u00e9 Code*: nationalite_code[int]\n- *Code Postal*: code_postal[int]\n- *Etudiant Ville*: etudiant_ville[text]\n- *P\u00e9riode Description*: periode_description[text]\n- *P\u00e9riode Id*: periode_id[int]\n- *Ecole Description*: ecole_description[text]\n- *D\u00e9partement Code*: departement_code[int]\n- *Etat Dossier Code*: etat_dossier_code[text]\n- *D\u00e9cision Code*: decision_code[text]\n- *Date Validation Etudiant*: date_validation_etudiant[date]\n- *Date Validation Centre*: date_validation_centre[date]\n- *Date Notification*: date_notification[date]\n- *Formation Description*: formation_description[text]\n- *Montant Attribu\u00e9*: montant_attribue[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "9be5fea9-87cb-435d-a80d-e0ba6dea0b93",
+      "last_modified": "2013-05-30T07:50:53",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9be5fea9-87cb-435d-a80d-e0ba6dea0b93",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T06:07:41.877000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/etudiants_boursiers_des_formations_sanitaires_et_sociales_sept_2008/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:07:41.877000",
+      "description": "- *CIVILITE*: civilite[int]\n- *Nationalit\u00e9 Code*: nationalite_code[int]\n- *Code Postal*: code_postal[int]\n- *Etudiant Ville*: etudiant_ville[text]\n- *P\u00e9riode Description*: periode_description[text]\n- *P\u00e9riode Id*: periode_id[int]\n- *Ecole Description*: ecole_description[text]\n- *D\u00e9partement Code*: departement_code[int]\n- *Etat Dossier Code*: etat_dossier_code[text]\n- *D\u00e9cision Code*: decision_code[text]\n- *Date Validation Etudiant*: date_validation_etudiant[date]\n- *Date Validation Centre*: date_validation_centre[date]\n- *Date Notification*: date_notification[date]\n- *Formation Description*: formation_description[text]\n- *Montant Attribu\u00e9*: montant_attribue[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "254ff69d-3ddd-40a4-b4c5-79dbbc0fbceb",
+      "last_modified": "2013-05-30T07:50:53",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/254ff69d-3ddd-40a4-b4c5-79dbbc0fbceb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T06:07:41.877000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/etudiants_boursiers_des_formations_sanitaires_et_sociales_sept_2008/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "etudiants-boursiers-des-formations-sanitaires-et-sociales-sept-2008",
+  "spatial": null,
+  "tags": [
+    "bourse-detudes",
+    "enseignement-formation-recherche",
+    "formations-sanitaires-et-sociales"
+  ],
+  "temporal_coverage": null,
+  "title": "\u00c9tudiants boursiers des formations sanitaires et sociales (sept. 2008)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/etudiants-boursiers-des-formations-sanitaires-et-sociales-sept-2008/"
+}

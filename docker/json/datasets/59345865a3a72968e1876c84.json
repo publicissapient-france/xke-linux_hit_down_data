@@ -1,0 +1,174 @@
+{
+  "badges": [],
+  "created_at": "2017-02-17T00:00:00",
+  "deleted": null,
+  "description": "Poids de l'\u00e9conomie sociale dans les emplois salari\u00e9s du territoire.",
+  "extras": {
+    "ckan:name": "poids-de-leconomie-sociale-dans-les-emplois-salaries-du-territoire1",
+    "contact_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "contact_name": "Mission Agenda 21",
+    "contact_uri": "https://datacat.datalocale.fr/414579",
+    "guid": "https://datacat.datalocale.fr/415520",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-06-06T16:41:15.315197",
+    "harvest:remote_id": "760874c9-8b60-4ce5-8d49-79a349a30fbe",
+    "harvest:source_id": "59365a72c751df28ed47c9eb",
+    "identifier": "6e272d83-ce99-4907-9a68-b6f7039e6175",
+    "issued": "2013-08-27T09:50:36+00:00",
+    "modified": "2016-07-18T09:21:05.993804+00:00",
+    "publisher_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "publisher_name": "dgsd-a21",
+    "publisher_uri": "https://datacat.datalocale.fr/414578",
+    "theme": "[\"\u00e9conomie sociale\"]",
+    "uri": "https://datacat.datalocale.fr/415520"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59345865a3a72968e1876c84",
+  "last_modified": "2017-06-06T16:41:15.317000",
+  "last_update": "2017-06-06T16:41:15.314000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": null,
+  "owner": {
+    "avatar": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-original.jpg",
+    "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-100.jpg",
+    "class": "User",
+    "first_name": "Ressourcerie",
+    "id": "534fff47a3a7292c64a77adc",
+    "last_name": "datalocale",
+    "page": "https://www.data.gouv.fr/fr/users/ressourcerie-datalocale/",
+    "slug": "ressourcerie-datalocale",
+    "uri": "https://www.data.gouv.fr/api/1/users/ressourcerie-datalocale/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/poids-de-leconomie-sociale-dans-les-emplois-salaries-du-territoire1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:58:45.082000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T20:43:54.139000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "764aadd8-3092-4761-847d-196e58b18544",
+      "last_modified": "2017-06-04T20:58:45.082000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/764aadd8-3092-4761-847d-196e58b18544",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-06-04T20:58:45.082000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:58:45.082000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T20:42:24.479000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "92d9950e-2034-4ef9-98c7-eb732994a1d0",
+      "last_modified": "2017-06-04T20:58:45.082000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/92d9950e-2034-4ef9-98c7-eb732994a1d0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:58:45.082000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:41:15.313000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T20:42:26.528000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "e66f27c2-c61c-4df9-88fa-8d011f08a581",
+      "last_modified": "2017-06-06T16:41:15.314000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e66f27c2-c61c-4df9-88fa-8d011f08a581",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-06-06T16:41:15.313000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415524/raw/2013-09-02-095406tx_ess_salariesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:41:15.314000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T20:43:56.407000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "30c27e24-9e59-45b8-8cc4-a7cb0c9f7263",
+      "last_modified": "2017-06-06T16:41:15.314000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/30c27e24-9e59-45b8-8cc4-a7cb0c9f7263",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:41:15.314000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415522/raw/2013-09-02-095406tx_ess_salaries.csv"
+    }
+  ],
+  "slug": "poids-de-leconomie-sociale-dans-les-emplois-salaries-du-territoire1",
+  "spatial": null,
+  "tags": [
+    "capacitation",
+    "economie-sociale-et-solidaire"
+  ],
+  "temporal_coverage": null,
+  "title": "Poids de l'\u00e9conomie sociale dans les emplois salari\u00e9s du territoire",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/poids-de-leconomie-sociale-dans-les-emplois-salaries-du-territoire1/"
+}

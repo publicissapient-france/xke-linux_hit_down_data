@@ -1,0 +1,179 @@
+{
+  "badges": [],
+  "created_at": "2017-10-12T00:00:00",
+  "deleted": null,
+  "description": "Parcours d'un v\u00e9hicule d'un terminus \u00e0 un autre",
+  "extras": {
+    "ckan:name": "chemin-dune-ligne",
+    "contact_email": "mailto:dig@cu-bordeaux.fr",
+    "contact_name": "Direction de l'information g\u00e9ographique",
+    "contact_uri": "https://datacat.datalocale.fr/414721",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
+    "guid": "https://datacat.datalocale.fr/415395",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-11-27T05:17:30.108044",
+    "harvest:remote_id": "90b0c136-ab85-49ad-92e4-2c7e2ddf923e",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "61b5f44c-14fb-4f3e-8019-008008e7223e",
+    "issued": "2013-03-19T23:02:04+00:00",
+    "modified": "2016-07-18T22:13:04.362480+00:00",
+    "publisher_email": "mailto:opendata@bordeaux-metropole.fr",
+    "publisher_name": "DGINSI de la m\u00e9tropole de Bordeaux",
+    "publisher_type": "\"Collectivit\u00e9 locale\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414720",
+    "theme": "[\"r\u00e9seau de transport\"]",
+    "uri": "https://datacat.datalocale.fr/415395"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59e18c09a3a7297d21b5fb40",
+  "last_modified": "2017-11-27T05:17:30.113000",
+  "last_update": "2017-10-14T06:01:13.744000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/chemin-dune-ligne/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:01:13.743000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-25T18:40:22.244000",
+        "check:status": 200,
+        "check:url": "http://data.lacub.fr/files.php?gid=38&format=1"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "zip",
+      "id": "24085d13-3503-4e4e-ae73-783b43f50270",
+      "last_modified": "2017-11-27T05:17:30.106000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/24085d13-3503-4e4e-ae73-783b43f50270",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-10-14T06:01:13.743000",
+      "title": "r\u00e9f\u00e9rencement de la couche SIG de r\u00e9f\u00e9rence depuis le site http://data.lacub.fr",
+      "url": "http://data.lacub.fr/files.php?gid=38&format=1"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:01:13.743000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-25T18:40:21.581000",
+        "check:status": 200,
+        "check:url": "http://data.lacub.fr/files.php?gid=38&format=2"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "zip",
+      "id": "2886c20e-f670-4da0-a71b-03c0a6617e0b",
+      "last_modified": "2017-11-27T05:17:30.106000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2886c20e-f670-4da0-a71b-03c0a6617e0b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-10-14T06:01:13.743000",
+      "title": "r\u00e9f\u00e9rencement de la couche SIG de r\u00e9f\u00e9rence depuis le site http://data.lacub.fr",
+      "url": "http://data.lacub.fr/files.php?gid=38&format=2"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:01:13.744000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-25T18:40:21.835000",
+        "check:status": 200,
+        "check:url": "http://data.lacub.fr/files.php?gid=38&format=3"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "kml",
+      "id": "4389306e-a411-4b35-9f7c-d0a8e2a10789",
+      "last_modified": "2017-11-27T05:17:30.106000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4389306e-a411-4b35-9f7c-d0a8e2a10789",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.google-earth.kml+xml",
+      "published": "2017-10-14T06:01:13.744000",
+      "title": "r\u00e9f\u00e9rencement de la couche SIG de r\u00e9f\u00e9rence depuis le site http://data.lacub.fr",
+      "url": "http://data.lacub.fr/files.php?gid=38&format=3"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:01:13.744000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-25T18:40:21.544000",
+        "check:status": 200,
+        "check:url": "http://data.lacub.fr/files.php?gid=38&format=6"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "3c544cc4-59f7-4630-a582-ece89270b462",
+      "last_modified": "2017-11-27T05:17:30.106000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3c544cc4-59f7-4630-a582-ece89270b462",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-14T06:01:13.744000",
+      "title": "r\u00e9f\u00e9rencement de la couche SIG de r\u00e9f\u00e9rence depuis le site http://data.lacub.fr",
+      "url": "http://data.lacub.fr/files.php?gid=38&format=6"
+    }
+  ],
+  "slug": "chemin-dune-ligne",
+  "spatial": null,
+  "tags": [
+    "bus",
+    "cub",
+    "ligne",
+    "tramway",
+    "transport-collectif"
+  ],
+  "temporal_coverage": null,
+  "title": "Chemin d'une ligne",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/chemin-dune-ligne/"
+}

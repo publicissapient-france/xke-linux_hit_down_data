@@ -1,0 +1,82 @@
+{
+  "badges": [],
+  "created_at": "2015-03-25T16:40:35.683000",
+  "deleted": null,
+  "description": "**Description**\n\nIl s'agit du montant de d\u00e9penses r\u00e9alis\u00e9es au titre de l'Aide sociale \u00e0 l\u2019h\u00e9bergement en faveur des personnes handicap\u00e9es r\u00e9parti par commune de Seine-Saint-Denis (correspondant au domicile de secours des personnes).\n\n**Sources** \n\nD\u00e9partement de la Seine-Saint-Denis - IODAS\n\n**Origine de la donn\u00e9e - Producteur** \n\nFlux manuel\n\n**Liste des colonnes**\n\n- D\u00e9partement : N\u00b0 du d\u00e9partement\n- Code commune INSEE : Code commune INSEE\n- Commune : Nom commune\n- Montant 2009 : Montant de d\u00e9penses en 2009\n- Montant 2010 : Montant de d\u00e9penses en 2010\n- Montant 2011 : Montant de d\u00e9penses en 2011\n- Montant 2012 : Montant de d\u00e9penses en 2012\n- Montant 2013 : Montant de d\u00e9penses en 2013\n\n**Format de diffusion**\n\nCes fichiers sont propos\u00e9s sous forme de :\n\n    fichiers csv (encodage ANSI)      \n    \n**Contact**\n\nPour toute question, ou signalement d'une am\u00e9lioration, vous pouvez nous contacter sur <a href=\"mailto:data93@cg93.fr\">data93@cg93.fr</a>\n\n**Liens**\n\n- Consulter la fiche sur le <a href=\"http://data.seine-saint-denis.fr/spip.php?article143\">portail Open Data de la Seine-Saint-Denis</a>\n\n\n\n\n\n\n\n",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": "2015-10-12T00:00:00",
+  "id": "5512d6f3c751df43d4cea128",
+  "last_modified": "2015-10-12T09:45:33.195000",
+  "last_update": "2015-03-25T16:40:44.422000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5457bc26c751df7378225d2e",
+    "logo": "https://www.data.gouv.fr/s/avatars/2014-11-03/1368537f4075452eb44393ea68b6bfdc/SeineSaintDenis-Logo-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-11-03/1368537f4075452eb44393ea68b6bfdc/SeineSaintDenis-Logo-100.png",
+    "name": "Seine-Saint-Denis - Le D\u00e9partement",
+    "page": "https://www.data.gouv.fr/fr/organizations/seine-saint-denis-le-departement/",
+    "slug": "seine-saint-denis-le-departement",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/seine-saint-denis-le-departement/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/montant-de-depenses-au-titre-de-laide-sociale-a-lhebergement-en-direction-des-personnes-handicapees-par-commune/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "a41ff5d7d45d6cdf34b2a2a810b1191eaf4247af"
+      },
+      "created_at": "2015-03-25T16:40:44.422000",
+      "description": "",
+      "extras": {},
+      "filesize": 3589,
+      "filetype": "file",
+      "format": "csv",
+      "id": "6e99d389-b516-4ebf-a5b9-041d5191ca61",
+      "last_modified": "2015-03-25T16:40:44.422000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6e99d389-b516-4ebf-a5b9-041d5191ca61",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2015-03-25T16:40:44.422000",
+      "title": "Departement93-Personnes_handicapees_Aide_sociale_a_hebergement_Montant_des_depenses-2009_2013.csv",
+      "url": "https://www.data.gouv.fr/s/resources/montant-de-depenses-au-titre-de-laide-sociale-a-lhebergement-en-direction-des-personnes-handicapees-par-commune/20150325-164043/Departement93-Personnes_handicapees_Aide_sociale_a_hebergement_Montant_des_depenses-2009_2013.csv"
+    }
+  ],
+  "slug": "montant-de-depenses-au-titre-de-laide-sociale-a-lhebergement-en-direction-des-personnes-handicapees-par-commune",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:departement",
+    "zones": [
+      "fr:departement:93@1968-01-01"
+    ]
+  },
+  "tags": [
+    "aide-sociale-hebergement",
+    "personnes-handicapees"
+  ],
+  "temporal_coverage": {
+    "end": "2013-12-31",
+    "start": "2009-01-01"
+  },
+  "title": "Montant de d\u00e9penses au titre de l'Aide sociale \u00e0 l\u2019h\u00e9bergement en direction des personnes handicap\u00e9es par commune",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/montant-de-depenses-au-titre-de-laide-sociale-a-lhebergement-en-direction-des-personnes-handicapees-par-commune/"
+}

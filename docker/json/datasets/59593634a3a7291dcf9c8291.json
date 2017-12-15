@@ -1,0 +1,102 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T20:06:44.346000",
+  "deleted": null,
+  "description": "Bilan passif 2016 issu du Rapport Financier du groupe SNCF R\u00e9seau au 31 d\u00e9cembre 2016 (Comptes sociaux de l'EPIC SNCF R\u00c9SEAU)",
+  "extras": {
+    "harvest:domain": "ressources.data.sncf.com",
+    "harvest:last_update": "2017-11-27T05:01:59.578105",
+    "harvest:remote_id": "bilan-passif-2016-cso",
+    "harvest:source_id": "563dd01f88ee386a21e72046",
+    "ods:has_records": true,
+    "ods:url": "https://ressources.data.sncf.com/explore/dataset/bilan-passif-2016-cso/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59593634a3a7291dcf9c8291",
+  "last_modified": "2017-11-27T05:01:59.581000",
+  "last_update": "2017-11-27T05:01:59.577000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb0a3a7292c64a78115",
+    "logo": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-100.png",
+    "name": "SNCF",
+    "page": "https://www.data.gouv.fr/fr/organizations/sncf/",
+    "slug": "sncf",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/sncf/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/bilan-passif-sncf-reseau-2016-cso/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:01:59.576000",
+      "description": "- *#*: id[double]\n- *En millions d\u2019euros*: en_millions_d_euros[text]\n- *2016-12-31 00:00:00*: 2016_12_31_00_00_00[double]\n- *2015-12-31 00:00:00*: 2015_12_31_00_00_00[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "245446d4-70f4-4698-8cdd-79b272afd355",
+      "last_modified": "2017-04-03T14:51:43",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/245446d4-70f4-4698-8cdd-79b272afd355",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:01:59.576000",
+      "title": "Export au format CSV",
+      "url": "https://ressources.data.sncf.com/explore/dataset/bilan-passif-2016-cso/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:01:59.577000",
+      "description": "- *#*: id[double]\n- *En millions d\u2019euros*: en_millions_d_euros[text]\n- *2016-12-31 00:00:00*: 2016_12_31_00_00_00[double]\n- *2015-12-31 00:00:00*: 2015_12_31_00_00_00[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "dcfe3e23-94f2-4276-8fad-cdd9e3120246",
+      "last_modified": "2017-04-03T14:51:43",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/dcfe3e23-94f2-4276-8fad-cdd9e3120246",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:01:59.577000",
+      "title": "Export au format JSON",
+      "url": "https://ressources.data.sncf.com/explore/dataset/bilan-passif-2016-cso/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "bilan-passif-sncf-reseau-2016-cso",
+  "spatial": null,
+  "tags": [
+    "bilan",
+    "comptes-sociaux",
+    "passif",
+    "rapport-financier",
+    "sncf-reseau"
+  ],
+  "temporal_coverage": null,
+  "title": "Bilan passif SNCF R\u00e9seau 2016 CSO",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/bilan-passif-sncf-reseau-2016-cso/"
+}

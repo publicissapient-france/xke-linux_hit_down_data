@@ -1,0 +1,82 @@
+{
+  "badges": [],
+  "created_at": "2015-03-25T14:44:42.273000",
+  "deleted": null,
+  "description": "**Description**\n\nIl s'agit du nombre de personnes \u00e2g\u00e9es ayant un droit ouvert \u00e0 l'aide sociale \u00e0 l\u2019h\u00e9bergement r\u00e9parti par commune de Seine-Saint-Denis (correspondant au domicile de secours des personnes).\n\n**Sources** \n\nD\u00e9partement de la Seine-Saint-Denis - IODAS\n\n**Origine de la donn\u00e9e - Producteur** \n\nFlux manuel\n\n**Liste des colonnes**\n\n- D\u00e9partement : N\u00b0 du d\u00e9partement\n- Code commune INSEE : Code commune INSEE\n- Commune : Nom commune\n- Nb de droits 2009 : Nombre de droits en 2009\n- Nb de droits 2010 : Nombre de droits en 2010\n- Nb de droits 2011 : Nombre de droits en 2011\n- Nb de droits 2012 : Nombre de droits en 2012\n- Nb de droits 2013 : Nombre de droits en 2013\n\n**Format de diffusion**\n\nCes fichiers sont propos\u00e9s sous forme de :\n\n    fichiers csv (encodage ANSI)        \n    \n**Contact**\n\nPour toute question, ou signalement d'une am\u00e9lioration, vous pouvez nous contacter sur <a href=\"mailto:data93@cg93.fr\">data93@cg93.fr</a>\n\n**Liens**\n\n- Consulter la fiche sur le <a href=\"http://data.seine-saint-denis.fr/spip.php?article109\">portail Open Data de la Seine-Saint-Denis</a>\n\n\n\n\n\n\n\n",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": "2015-10-12T00:00:00",
+  "id": "5512bbcac751df1c09cea128",
+  "last_modified": "2015-10-12T09:50:35.342000",
+  "last_update": "2015-03-25T14:44:54.513000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 2
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5457bc26c751df7378225d2e",
+    "logo": "https://www.data.gouv.fr/s/avatars/2014-11-03/1368537f4075452eb44393ea68b6bfdc/SeineSaintDenis-Logo-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-11-03/1368537f4075452eb44393ea68b6bfdc/SeineSaintDenis-Logo-100.png",
+    "name": "Seine-Saint-Denis - Le D\u00e9partement",
+    "page": "https://www.data.gouv.fr/fr/organizations/seine-saint-denis-le-departement/",
+    "slug": "seine-saint-denis-le-departement",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/seine-saint-denis-le-departement/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/nombre-de-personnes-agees-beneficiaires-de-laide-sociale-a-lhebergement-par-commune/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "0415d1e1626f276c088d9ba3800b73fba8404f7a"
+      },
+      "created_at": "2015-03-25T14:44:54.513000",
+      "description": "",
+      "extras": {},
+      "filesize": 2322,
+      "filetype": "file",
+      "format": "csv",
+      "id": "3a72d17a-9d7b-4d77-94d5-84ff56b1b167",
+      "last_modified": "2015-03-25T14:44:54.513000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3a72d17a-9d7b-4d77-94d5-84ff56b1b167",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2015-03-25T14:44:54.513000",
+      "title": "Departement93-Personnes_agees_Aide_sociale_a_hebergement_Nombre_de_droits_actifs-2009_2013.csv",
+      "url": "https://www.data.gouv.fr/s/resources/nombre-de-personnes-agees-beneficiaires-de-laide-sociale-a-lhebergement-par-commune/20150325-144452/Departement93-Personnes_agees_Aide_sociale_a_hebergement_Nombre_de_droits_actifs-2009_2013.csv"
+    }
+  ],
+  "slug": "nombre-de-personnes-agees-beneficiaires-de-laide-sociale-a-lhebergement-par-commune",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:departement",
+    "zones": [
+      "fr:departement:93@1968-01-01"
+    ]
+  },
+  "tags": [
+    "aide-sociale-hergement",
+    "personnes-agees"
+  ],
+  "temporal_coverage": {
+    "end": "2013-12-31",
+    "start": "2009-01-01"
+  },
+  "title": "Nombre de personnes \u00e2g\u00e9es b\u00e9n\u00e9ficiaires de l'Aide sociale \u00e0 l'h\u00e9bergement par commune",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/nombre-de-personnes-agees-beneficiaires-de-laide-sociale-a-lhebergement-par-commune/"
+}

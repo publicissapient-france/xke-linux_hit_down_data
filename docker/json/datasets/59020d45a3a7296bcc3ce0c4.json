@@ -1,0 +1,111 @@
+{
+  "badges": [],
+  "created_at": "2016-06-07T00:00:00",
+  "deleted": null,
+  "description": "Emplacement des hotspots WiFi Cigale permettant une connexion \u00e0 Internet gratuite sur simple inscription avec reconnexion automatique \u00e0 proximit\u00e9 des points \u00e9quip\u00e9s.",
+  "extras": {
+    "ckan:name": "hotspots-wifi-cigale",
+    "harvest:domain": "opendata.data-ozwillo.org",
+    "harvest:last_update": "2017-04-27T17:24:53.542165",
+    "harvest:remote_id": "17d4fd4a-7fd2-4106-8d59-c080b3e0786d",
+    "harvest:source_id": "57599de9c751df1a1dac31a0"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59020d45a3a7296bcc3ce0c4",
+  "last_modified": "2017-04-27T17:24:53.544000",
+  "last_update": "2017-04-27T17:24:53.541000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "56c4765fc751df27326c6ddf",
+    "logo": "https://www.data.gouv.fr/s/avatars/c3/f674ad6c354099a8166090b134da4a-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c3/f674ad6c354099a8166090b134da4a-100.png",
+    "name": "Ozwillo",
+    "page": "https://www.data.gouv.fr/fr/organizations/ozwillo/",
+    "slug": "ozwillo",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ozwillo/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/hotspots-wifi-cigale-1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-04-27T17:24:53.540000",
+      "description": "Emplacement des hotspots Wifi Cigale. Flux de donn\u00e9es actualis\u00e9 en temps r\u00e9el",
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-11-19T10:40:16.663000",
+        "check:status": 503,
+        "check:url": "https://opendata.data-ozwillo.org/dataset/17d4fd4a-7fd2-4106-8d59-c080b3e0786d/resource/716aba3b-86e0-4c93-b42b-2fd05632a2e4/download/listebornescsv.1"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "716aba3b-86e0-4c93-b42b-2fd05632a2e4",
+      "last_modified": "2016-06-09T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/716aba3b-86e0-4c93-b42b-2fd05632a2e4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-04-27T17:24:53.540000",
+      "title": "Emplacement des hotspots Wifi Cigale",
+      "url": "https://opendata.data-ozwillo.org/dataset/17d4fd4a-7fd2-4106-8d59-c080b3e0786d/resource/716aba3b-86e0-4c93-b42b-2fd05632a2e4/download/listebornescsv.1"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-27T17:24:53.541000",
+      "description": "Emplacement des hotspots Wifi Cigale. Flux de donn\u00e9es actualis\u00e9 en temps r\u00e9el",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T21:06:30.803000",
+        "check:status": 200,
+        "check:url": "https://admin.cigale-hotspot.fr/api/liste_bornes?geojson"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "5148550e-6756-4f78-8601-142f929e87db",
+      "last_modified": "2017-04-27T17:24:53.541000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5148550e-6756-4f78-8601-142f929e87db",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": null,
+      "published": "2017-04-27T17:24:53.541000",
+      "title": "",
+      "url": "https://admin.cigale-hotspot.fr/api/liste_bornes?geojson"
+    }
+  ],
+  "slug": "hotspots-wifi-cigale-1",
+  "spatial": null,
+  "tags": [
+    "cigale",
+    "hotspot",
+    "internet",
+    "wifi"
+  ],
+  "temporal_coverage": null,
+  "title": "Emplacement des hotspots Wifi Cigale",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/hotspots-wifi-cigale-1/"
+}

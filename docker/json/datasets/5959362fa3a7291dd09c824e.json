@@ -1,0 +1,102 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T20:06:39.450000",
+  "deleted": null,
+  "description": "Subventions investissements 2016 issues du Rapport Financier du groupe SNCF R\u00e9seau au 31 d\u00e9cembre 2016 (Comptes consolid\u00e9s incluant l'EPIC SNCF RESEAU et ses filiales)",
+  "extras": {
+    "harvest:domain": "ressources.data.sncf.com",
+    "harvest:last_update": "2017-11-27T05:02:43.665990",
+    "harvest:remote_id": "subventions-investissements-2016-cco",
+    "harvest:source_id": "563dd01f88ee386a21e72046",
+    "ods:has_records": true,
+    "ods:url": "https://ressources.data.sncf.com/explore/dataset/subventions-investissements-2016-cco/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5959362fa3a7291dd09c824e",
+  "last_modified": "2017-11-27T05:02:43.671000",
+  "last_update": "2017-11-27T05:02:43.665000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb0a3a7292c64a78115",
+    "logo": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/f3/0b8ad932f74086a6ab3f291ee9243f-100.png",
+    "name": "SNCF",
+    "page": "https://www.data.gouv.fr/fr/organizations/sncf/",
+    "slug": "sncf",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/sncf/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/subventions-investissements-sncf-reseau-2016-cco/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:02:43.665000",
+      "description": "- *#*: id[double]\n- *en millions d'euros*: en_millions_d_euros[text]\n- *31/12/2016*: 31_12_2016[double]\n- *31/12/2015*: 2015_12_31_00_00_00[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "27e6385d-a653-4236-9f72-7ac42a1d601e",
+      "last_modified": "2017-04-05T12:42:27",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/27e6385d-a653-4236-9f72-7ac42a1d601e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:02:43.665000",
+      "title": "Export au format CSV",
+      "url": "https://ressources.data.sncf.com/explore/dataset/subventions-investissements-2016-cco/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:02:43.665000",
+      "description": "- *#*: id[double]\n- *en millions d'euros*: en_millions_d_euros[text]\n- *31/12/2016*: 31_12_2016[double]\n- *31/12/2015*: 2015_12_31_00_00_00[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "4c15ccf1-1cab-4d45-a55d-615e31db6d7b",
+      "last_modified": "2017-04-05T12:42:27",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4c15ccf1-1cab-4d45-a55d-615e31db6d7b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:02:43.665000",
+      "title": "Export au format JSON",
+      "url": "https://ressources.data.sncf.com/explore/dataset/subventions-investissements-2016-cco/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "subventions-investissements-sncf-reseau-2016-cco",
+  "spatial": null,
+  "tags": [
+    "comptes-consolides",
+    "investissements",
+    "rapport-financier",
+    "sncf-reseau",
+    "subventions"
+  ],
+  "temporal_coverage": null,
+  "title": "Subventions investissements SNCF R\u00e9seau 2016 CCO",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/subventions-investissements-sncf-reseau-2016-cco/"
+}

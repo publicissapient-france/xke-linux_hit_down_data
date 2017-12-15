@@ -1,0 +1,176 @@
+{
+  "badges": [],
+  "created_at": "2017-02-17T00:00:00",
+  "deleted": null,
+  "description": "Budget moyen des conseils Instances et de d\u00e9veloppement.",
+  "extras": {
+    "ckan:name": "budget-moyen-des-conseils-instances-et-de-developpement1",
+    "contact_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "contact_name": "Mission Agenda 21",
+    "contact_uri": "https://datacat.datalocale.fr/414579",
+    "guid": "https://datacat.datalocale.fr/415707",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-06-06T16:38:30.685132",
+    "harvest:remote_id": "bb0ba082-98e5-4d44-8499-83558fcb3972",
+    "harvest:source_id": "59365a72c751df28ed47c9eb",
+    "identifier": "886229e0-297c-400c-9892-77cb102df134",
+    "issued": "2013-08-27T09:47:29+00:00",
+    "modified": "2016-07-18T09:21:06.177708+00:00",
+    "publisher_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "publisher_name": "dgsd-a21",
+    "publisher_uri": "https://datacat.datalocale.fr/414578",
+    "theme": "[\"administration locale\"]",
+    "uri": "https://datacat.datalocale.fr/415707"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "593457c8a3a72968e2876bf6",
+  "last_modified": "2017-06-06T16:38:30.686000",
+  "last_update": "2017-06-06T16:38:30.684000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": null,
+  "owner": {
+    "avatar": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-original.jpg",
+    "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-100.jpg",
+    "class": "User",
+    "first_name": "Ressourcerie",
+    "id": "534fff47a3a7292c64a77adc",
+    "last_name": "datalocale",
+    "page": "https://www.data.gouv.fr/fr/users/ressourcerie-datalocale/",
+    "slug": "ressourcerie-datalocale",
+    "uri": "https://www.data.gouv.fr/api/1/users/ressourcerie-datalocale/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/budget-moyen-des-conseils-instances-et-de-developpement1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:08.414000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T14:35:22.910000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415709/raw/2013-09-02-095035tx_budget_moyen_conseils_dev.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "91a7f82f-b915-4d9f-ae7b-7fe738b382da",
+      "last_modified": "2017-06-04T20:56:08.415000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/91a7f82f-b915-4d9f-ae7b-7fe738b382da",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:56:08.415000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415709/raw/2013-09-02-095035tx_budget_moyen_conseils_dev.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:08.415000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T15:06:19.597000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415711/raw/2013-09-02-095035tx_budget_moyen_conseils_devdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "59c0261c-d384-416e-a24c-86020d98ad7e",
+      "last_modified": "2017-06-04T20:56:08.415000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/59c0261c-d384-416e-a24c-86020d98ad7e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-06-04T20:56:08.415000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415711/raw/2013-09-02-095035tx_budget_moyen_conseils_devdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:38:30.683000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T14:35:19.683000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415711/raw/2013-09-02-095035tx_budget_moyen_conseils_devdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "903a259a-c504-4535-a4b4-65f9030eaf8d",
+      "last_modified": "2017-06-06T16:38:30.683000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/903a259a-c504-4535-a4b4-65f9030eaf8d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-06-06T16:38:30.683000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415711/raw/2013-09-02-095035tx_budget_moyen_conseils_devdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:38:30.683000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T18:34:50.408000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415709/raw/2013-09-02-095035tx_budget_moyen_conseils_dev.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f8b5da0d-219e-4a1e-9b35-5af3b1d0dd74",
+      "last_modified": "2017-06-06T16:38:30.684000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f8b5da0d-219e-4a1e-9b35-5af3b1d0dd74",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:38:30.684000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415709/raw/2013-09-02-095035tx_budget_moyen_conseils_dev.csv"
+    }
+  ],
+  "slug": "budget-moyen-des-conseils-instances-et-de-developpement1",
+  "spatial": null,
+  "tags": [
+    "budget",
+    "democratie",
+    "proximite",
+    "societe-civile"
+  ],
+  "temporal_coverage": null,
+  "title": "Budget moyen des conseils Instances et de d\u00e9veloppement",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/budget-moyen-des-conseils-instances-et-de-developpement1/"
+}

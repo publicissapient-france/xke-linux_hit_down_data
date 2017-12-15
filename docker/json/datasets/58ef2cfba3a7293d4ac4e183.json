@@ -1,0 +1,105 @@
+{
+  "badges": [],
+  "created_at": "2017-04-13T09:47:07.190000",
+  "deleted": null,
+  "description": "**Subventions indirectes accord\u00e9es aux associations par Grand Poitiers en 2014, 2015 et 2016**\n\nLes subventions indirectes repr\u00e9sentent la valorisation ou le b\u00e9n\u00e9fice des aides en nature offertes par la collectivit\u00e9 aux associations.\n\nLes subventions indirectes sont principalement la mise \u00e0 disposition :\n\n  * -de locaux, \n\n\n  * -d\u2019\u00e9quipements sportifs, \n\n\n  * -de mat\u00e9riels, \n\n\n  * -de personnel, \n\n\n  * -de panneaux d\u2019affichage, \n\n\n  * -d\u2019autres services\u2026",
+  "extras": {
+    "harvest:domain": "data.grandpoitiers.fr",
+    "harvest:last_update": "2017-11-27T05:14:07.993729",
+    "harvest:remote_id": "citoyennete-subventions-indirectes-attribuees-aux-associations-grand-poitiers",
+    "harvest:source_id": "58ebf519c751df10f8b26706",
+    "ods:has_records": true,
+    "ods:url": "https://data.grandpoitiers.fr/explore/dataset/citoyennete-subventions-indirectes-attribuees-aux-associations-grand-poitiers/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "58ef2cfba3a7293d4ac4e183",
+  "last_modified": "2017-11-27T05:14:07.997000",
+  "last_update": "2017-11-27T05:14:07.992000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "54da1f52c751df59f7467389",
+    "logo": "https://www.data.gouv.fr/s/avatars/2d/8ee06454214021a2592805c8faa799-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2d/8ee06454214021a2592805c8faa799-100.png",
+    "name": "Grand Poitiers Open Data",
+    "page": "https://www.data.gouv.fr/fr/organizations/grand-poitiers-open-data/",
+    "slug": "grand-poitiers-open-data",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/grand-poitiers-open-data/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/citoyennete-subventions-indirectes-attribuees-aux-associations-grand-poitiers/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:07.991000",
+      "description": "- *Ann\u00e9e*: annee[text]\n- *Tiers b\u00e9n\u00e9ficiaire*: tiers_beneficiaire[text]\n- *Code SIRET*: code_siret[text]\n- *Montant*: montant[double]\n- *Notification \u00e0 la commission Europ\u00e9enne*: notification_a_la_commission_europeenne[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "88757553-4035-4a07-a539-ad5e28d22447",
+      "last_modified": "2017-03-31T14:48:08",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/88757553-4035-4a07-a539-ad5e28d22447",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:14:07.991000",
+      "title": "Export au format CSV",
+      "url": "https://data.grandpoitiers.fr/explore/dataset/citoyennete-subventions-indirectes-attribuees-aux-associations-grand-poitiers/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:07.992000",
+      "description": "- *Ann\u00e9e*: annee[text]\n- *Tiers b\u00e9n\u00e9ficiaire*: tiers_beneficiaire[text]\n- *Code SIRET*: code_siret[text]\n- *Montant*: montant[double]\n- *Notification \u00e0 la commission Europ\u00e9enne*: notification_a_la_commission_europeenne[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "399dac7a-e89c-4438-84f5-c97dd4201b5b",
+      "last_modified": "2017-03-31T14:48:08",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/399dac7a-e89c-4438-84f5-c97dd4201b5b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:14:07.992000",
+      "title": "Export au format JSON",
+      "url": "https://data.grandpoitiers.fr/explore/dataset/citoyennete-subventions-indirectes-attribuees-aux-associations-grand-poitiers/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "citoyennete-subventions-indirectes-attribuees-aux-associations-grand-poitiers",
+  "spatial": null,
+  "tags": [
+    "administration",
+    "aides",
+    "associations",
+    "citoyennete",
+    "finances-publiques",
+    "gouvernement",
+    "subventions"
+  ],
+  "temporal_coverage": null,
+  "title": "Citoyennet\u00e9 - Subventions indirectes attribu\u00e9es aux associations - Grand Poitiers",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/citoyennete-subventions-indirectes-attribuees-aux-associations-grand-poitiers/"
+}

@@ -1,0 +1,150 @@
+{
+  "badges": [],
+  "created_at": "2017-10-12T00:00:00",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es repr\u00e9sente de fa\u00e7on figurative (cercle) les bat\u00eements visibles sur l'orthophotographie hiver 2008 de la Communaut\u00e9 urbaine de Bordeaux (La Cub), mais non pr\u00e9sents dans le cadastre.",
+  "extras": {
+    "ckan:name": "batiment-absent-du-plan-cadastral",
+    "contact_email": "mailto:dig@cu-bordeaux.fr",
+    "contact_name": "Direction de l'information g\u00e9ographique",
+    "contact_uri": "https://datacat.datalocale.fr/414721",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
+    "guid": "https://datacat.datalocale.fr/773547",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-11-27T05:16:48.067660",
+    "harvest:remote_id": "8bf80e30-b8db-4d61-9405-297e54a13e64",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "issued": "2016-10-17T15:04:55.742330+00:00",
+    "modified": "2016-10-17T15:04:55.742330+00:00",
+    "publisher_email": "mailto:opendata@bordeaux-metropole.fr",
+    "publisher_name": "DGINSI Bordeaux m\u00e9tropole",
+    "publisher_type": "\"Collectivit\u00e9 locale\"",
+    "publisher_uri": "https://datacat.datalocale.fr/416182",
+    "remote_url": "http://data.bordeaux-metropole.fr/data.php?layer=TO_PTBAT_S",
+    "theme": "[\"cadastre\"]",
+    "uri": "https://datacat.datalocale.fr/773547"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59e18be2a3a7297d20b5fb45",
+  "last_modified": "2017-11-27T05:16:48.070000",
+  "last_update": "2017-10-14T06:00:34.700000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/batiment-absent-du-plan-cadastral/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:00:34.699000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T14:23:47.983000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/distribution/773553/raw/files.php%3Fgid%3D11%26format%3D3"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "kml",
+      "id": "792d9946-08e6-4666-a5a8-fa858ae3aeb3",
+      "last_modified": "2017-11-27T05:16:48.066000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/792d9946-08e6-4666-a5a8-fa858ae3aeb3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.google-earth.kml+xml",
+      "published": "2017-10-14T06:00:34.699000",
+      "title": "TO_PTBAT_S.kmz",
+      "url": "https://datacat.datalocale.fr/distribution/773553/raw/files.php%3Fgid%3D11%26format%3D3"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:00:34.700000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T13:26:58.501000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/distribution/773566/raw/files.php%3Fgid%3D11%26format%3D6"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "00b28c22-4363-46a8-b0f4-ccb0d75283d4",
+      "last_modified": "2017-11-27T05:16:48.066000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/00b28c22-4363-46a8-b0f4-ccb0d75283d4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-14T06:00:34.700000",
+      "title": "TO_PTBAT_S.csv",
+      "url": "https://datacat.datalocale.fr/distribution/773566/raw/files.php%3Fgid%3D11%26format%3D6"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:00:34.700000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T14:23:47.935000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/distribution/773550/raw/files.php%3Fgid%3D11%26format%3D1"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "zip",
+      "id": "e05ed978-87e5-4fd6-939f-3edb461b4692",
+      "last_modified": "2017-11-27T05:16:48.066000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e05ed978-87e5-4fd6-939f-3edb461b4692",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-10-14T06:00:34.700000",
+      "title": "TO_PTBAT_S_CC45.zip",
+      "url": "https://datacat.datalocale.fr/distribution/773550/raw/files.php%3Fgid%3D11%26format%3D1"
+    }
+  ],
+  "slug": "batiment-absent-du-plan-cadastral",
+  "spatial": null,
+  "tags": [
+    "batiment",
+    "cadaste",
+    "patrimoine"
+  ],
+  "temporal_coverage": null,
+  "title": "B\u00e2timent absent du plan cadastral",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/batiment-absent-du-plan-cadastral/"
+}

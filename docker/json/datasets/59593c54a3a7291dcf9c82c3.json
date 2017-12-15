@@ -1,0 +1,78 @@
+{
+  "badges": [],
+  "created_at": "2017-04-21T00:00:00",
+  "deleted": null,
+  "description": "",
+  "extras": {
+    "ckan:name": "deliberations-2017-sictiam",
+    "harvest:domain": "opendata.ozwillo.com",
+    "harvest:last_update": "2017-11-27T05:03:55.122239",
+    "harvest:remote_id": "2c3165de-4197-4185-a3f4-c3915886cfa9",
+    "harvest:source_id": "56bbbec4c751df6a689f9dea"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59593c54a3a7291dcf9c82c3",
+  "last_modified": "2017-11-27T05:03:55.124000",
+  "last_update": "2017-07-02T20:32:52.784000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "56c4765fc751df27326c6ddf",
+    "logo": "https://www.data.gouv.fr/s/avatars/c3/f674ad6c354099a8166090b134da4a-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c3/f674ad6c354099a8166090b134da4a-100.png",
+    "name": "Ozwillo",
+    "page": "https://www.data.gouv.fr/fr/organizations/ozwillo/",
+    "slug": "ozwillo",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ozwillo/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/deliberations-2017-sictiam/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T20:32:52.784000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T16:28:38.127000",
+        "check:status": 200,
+        "check:url": "https://opendata.ozwillo.com/dataset/2c3165de-4197-4185-a3f4-c3915886cfa9/resource/fce79722-ad21-4f19-a048-164be05f9b3b/download/tableau-deliberations-2017-opendata.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "fce79722-ad21-4f19-a048-164be05f9b3b",
+      "last_modified": "2017-04-21T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fce79722-ad21-4f19-a048-164be05f9b3b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T20:32:52.784000",
+      "title": "Tableau des d\u00e9lib\u00e9rations et d\u00e9cisions du Sictiam",
+      "url": "https://opendata.ozwillo.com/dataset/2c3165de-4197-4185-a3f4-c3915886cfa9/resource/fce79722-ad21-4f19-a048-164be05f9b3b/download/tableau-deliberations-2017-opendata.csv"
+    }
+  ],
+  "slug": "deliberations-2017-sictiam",
+  "spatial": null,
+  "tags": [],
+  "temporal_coverage": null,
+  "title": "Registre des d\u00e9lib\u00e9rations 2017 du SICTIAM",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/deliberations-2017-sictiam/"
+}

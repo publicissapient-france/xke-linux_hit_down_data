@@ -1,0 +1,170 @@
+{
+  "badges": [],
+  "created_at": "2016-07-13T20:54:53.905000",
+  "deleted": null,
+  "description": "Conservatoires soutenus au titre du sch\u00e9ma d\u00e9partemental des enseignements artistiques des Hauts-de-Seine : informations pratiques, pr\u00e9sentation des \u00e9tablissements, niveaux d'accessibilit\u00e9 au regard des 4 handicaps majeurs, dispositifs p\u00e9dagogiques et institutionnels\n\n* * *\n\nCe jeu de donn\u00e9es pr\u00e9sente les conservatoires, structures d'enseignement dites \"sp\u00e9cialis\u00e9es\", f\u00e9d\u00e9r\u00e9s autour d'un [ sch\u00e9ma d\u00e9partemental des enseignements artistiques](http://www.hauts-de-seine.fr/votre-collectivite/les-competences-et-les-actions/les-dispositifs-culture/le-schema-departemental-des-enseignements-artistiques-2012-2015/) (2012-2015), comp\u00e9tence obligatoire en mati\u00e8re culturelle pour les d\u00e9partements. Celui-ci a pour objectif de d\u00e9finir les principes d'organisation des enseignements artistiques, en vue d'am\u00e9liorer l'offre de formation et les conditions d'acc\u00e8s \u00e0 cet enseignement.\n\nCe jeu de donn\u00e9es :   \n\\- identifie et valorise l'offre d'enseignement ;   \n\\- rend plus lisible la r\u00e9alit\u00e9 des conservatoires sur le territoire ;   \n\\- pr\u00e9sente les dispositifs p\u00e9dagogiques et institutionnels mis en place ;   \n\\- et recense le niveau d'accessibilit\u00e9 de chaque structure au regard des quatre handicaps majeurs : visuel, mental, moteur, auditif.\n\nLe public pourra retrouver tous ces renseignements localis\u00e9s sur le site [accessible.net](http://accessible.net), recherche \"Hauts-de-Seine &gt; Lieu institutionnel &gt; Conservatoires\" gr\u00e2ce aux associations partenaires [CRTH](http://www.crth.org/) et [MESH](http://mesh.asso.fr/).\n\n**Lexique**\n\nLes conservatoires\n    ces \u00e9tablissements dispensent des formations artistiques de qualit\u00e9 sur des cycles d\u2019apprentissages gradu\u00e9s, d\u00e9livrent des dipl\u00f4mes et remplissent les missions conform\u00e9ment \u00e0 la \u00ab Charte de l\u2019enseignement artistique sp\u00e9cialis\u00e9 en musique, danse et th\u00e9\u00e2tre \u00bb \u00e9labor\u00e9e par le Minist\u00e8re de la culture et de la communication.\nClasses \u00e0 horaires am\u00e9nag\u00e9s\n    elles permettent aux \u00e9l\u00e8ves de recevoir, dans le cadre des horaires et programmes scolaires, un enseignement artistique renforc\u00e9 en musique, danse et th\u00e9\u00e2tre.\nOrchestre \u00e0 l'\u00e9cole\n    nom d'un dispositif mis en place dans des \u00e9coles et coll\u00e8ges fran\u00e7ais permettant la cr\u00e9ation de \"classes-orchestre\" recevant un enseignement de la musique en p\u00e9dagogie de groupe.\nD\u00e9partements\n    un conservatoire dispense aux \u00e9l\u00e8ves de multiples disciplines organis\u00e9es en d\u00e9partements p\u00e9dagogiques, g\u00e9r\u00e9s par un responsable coordonnateur.\nPass Hauts-de-Seine\n    tous les \u00e9l\u00e8ves, de la 6e \u00e0 la 3e, domicili\u00e9s dans les Hauts-de-Seine peuvent b\u00e9n\u00e9ficier de 70\u20ac afin de s'inscrire au sein d'associations culturelles, sportives et artistiques de leur choix.\nND\n    Non Disponible\n\n**Observations particuli\u00e8res**\n\nLes conservatoires fonctionnent sur des rythmes de saison annuels. Les donn\u00e9es sont donc valables pendant l'ann\u00e9e scolaire en cours.",
+  "extras": {
+    "harvest:domain": "opendata.hauts-de-seine.fr",
+    "harvest:last_update": "2017-04-06T06:02:58.914785",
+    "harvest:remote_id": "enseignements-artistiques-les-conservatoires-des-hauts-de-seine",
+    "harvest:source_id": "5731a6d688ee38379cd1b934",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.hauts-de-seine.fr//explore/dataset/enseignements-artistiques-les-conservatoires-des-hauts-de-seine/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "57868e7da3a7295d371adcdd",
+  "last_modified": "2017-04-06T06:02:58.918000",
+  "last_update": "2017-04-06T06:02:58.913000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "544e1b0888ee38289ae1ed05",
+    "logo": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-100.jpg",
+    "name": "Hauts-de-Seine le D\u00e9partement",
+    "page": "https://www.data.gouv.fr/fr/organizations/hauts-de-seine-le-departement/",
+    "slug": "hauts-de-seine-le-departement",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/hauts-de-seine-le-departement/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/enseignements-artistiques-les-conservatoires-des-hauts-de-seine/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T06:02:58.912000",
+      "description": "- *ID*: id[text] Identifiant du lieu culturel\n- *ETABLISSEMENT*: etablissement[text] Nom de l'\u00e9tablissement\n- *PRESENTATION*: presentation[text] Pr\u00e9sentation de l'\u00e9tablissement\n- *ADRESSE*: adresse[text] Adresse de l'\u00e9tablissement\n- *CP*: cp[text] Code postal de la commune\n- *COMMUNE*: commune[text] Nom de la commune\n- *CODE_INSEE*: code_insee[text] Code INSEE de la commune\n- *TEL*: tel[text] Num\u00e9ro de t\u00e9l\u00e9phone de l'\u00e9tablissement\n- *MAIL*: mail[text] Adresse e-mail de l'\u00e9tablissement\n- *SITE_INTERNET*: site_internet[text] Site internet de l'\u00e9tablissement\n- *DISCIPLINES*: disciplines[text] Disciplines enseign\u00e9es\n- *DISCIPLINES_SPECIFIQUES_RARES*: disciplines_specifiques_rares[text] Disciplines sp\u00e9cifiques ou rares en enseign\u00e9es\n- *FICHE_ACCESSIBILITE*: fiche_accessibilite[text] Lien vers la fiche internet pr\u00e9sentant le niveau d'accessibilit\u00e9 de l'\u00e9tablissement au regard des 4 handicaps majeurs \n- *DATE_MAJ*: date_maj[date] Date de mise \u00e0 jour des renseignements\n- *Geo Point*: geo_point[geo_point_2d]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T10:24:17.975000",
+        "check:status": 200,
+        "check:url": "https://opendata.hauts-de-seine.fr//explore/dataset/enseignements-artistiques-les-conservatoires-des-hauts-de-seine/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "42c0f56d-2b45-4010-97d0-bda636c3cd5c",
+      "last_modified": "2016-06-13T22:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/42c0f56d-2b45-4010-97d0-bda636c3cd5c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 3
+      },
+      "mime": "text/csv",
+      "published": "2017-04-06T06:02:58.912000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/enseignements-artistiques-les-conservatoires-des-hauts-de-seine/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T06:02:58.913000",
+      "description": "- *ID*: id[text] Identifiant du lieu culturel\n- *ETABLISSEMENT*: etablissement[text] Nom de l'\u00e9tablissement\n- *PRESENTATION*: presentation[text] Pr\u00e9sentation de l'\u00e9tablissement\n- *ADRESSE*: adresse[text] Adresse de l'\u00e9tablissement\n- *CP*: cp[text] Code postal de la commune\n- *COMMUNE*: commune[text] Nom de la commune\n- *CODE_INSEE*: code_insee[text] Code INSEE de la commune\n- *TEL*: tel[text] Num\u00e9ro de t\u00e9l\u00e9phone de l'\u00e9tablissement\n- *MAIL*: mail[text] Adresse e-mail de l'\u00e9tablissement\n- *SITE_INTERNET*: site_internet[text] Site internet de l'\u00e9tablissement\n- *DISCIPLINES*: disciplines[text] Disciplines enseign\u00e9es\n- *DISCIPLINES_SPECIFIQUES_RARES*: disciplines_specifiques_rares[text] Disciplines sp\u00e9cifiques ou rares en enseign\u00e9es\n- *FICHE_ACCESSIBILITE*: fiche_accessibilite[text] Lien vers la fiche internet pr\u00e9sentant le niveau d'accessibilit\u00e9 de l'\u00e9tablissement au regard des 4 handicaps majeurs \n- *DATE_MAJ*: date_maj[date] Date de mise \u00e0 jour des renseignements\n- *Geo Point*: geo_point[geo_point_2d]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T10:24:17.966000",
+        "check:status": 200,
+        "check:url": "https://opendata.hauts-de-seine.fr//explore/dataset/enseignements-artistiques-les-conservatoires-des-hauts-de-seine/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "328d1248-cd1f-4fc4-b92d-edb973ce0d3d",
+      "last_modified": "2016-06-13T22:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/328d1248-cd1f-4fc4-b92d-edb973ce0d3d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-04-06T06:02:58.913000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/enseignements-artistiques-les-conservatoires-des-hauts-de-seine/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T06:02:58.913000",
+      "description": "- *ID*: id[text] Identifiant du lieu culturel\n- *ETABLISSEMENT*: etablissement[text] Nom de l'\u00e9tablissement\n- *PRESENTATION*: presentation[text] Pr\u00e9sentation de l'\u00e9tablissement\n- *ADRESSE*: adresse[text] Adresse de l'\u00e9tablissement\n- *CP*: cp[text] Code postal de la commune\n- *COMMUNE*: commune[text] Nom de la commune\n- *CODE_INSEE*: code_insee[text] Code INSEE de la commune\n- *TEL*: tel[text] Num\u00e9ro de t\u00e9l\u00e9phone de l'\u00e9tablissement\n- *MAIL*: mail[text] Adresse e-mail de l'\u00e9tablissement\n- *SITE_INTERNET*: site_internet[text] Site internet de l'\u00e9tablissement\n- *DISCIPLINES*: disciplines[text] Disciplines enseign\u00e9es\n- *DISCIPLINES_SPECIFIQUES_RARES*: disciplines_specifiques_rares[text] Disciplines sp\u00e9cifiques ou rares en enseign\u00e9es\n- *FICHE_ACCESSIBILITE*: fiche_accessibilite[text] Lien vers la fiche internet pr\u00e9sentant le niveau d'accessibilit\u00e9 de l'\u00e9tablissement au regard des 4 handicaps majeurs \n- *DATE_MAJ*: date_maj[date] Date de mise \u00e0 jour des renseignements\n- *Geo Point*: geo_point[geo_point_2d]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T10:24:17.972000",
+        "check:status": 200,
+        "check:url": "https://opendata.hauts-de-seine.fr//explore/dataset/enseignements-artistiques-les-conservatoires-des-hauts-de-seine/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "1ba0698c-30f5-4f9d-8081-88f201b35596",
+      "last_modified": "2016-06-13T22:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1ba0698c-30f5-4f9d-8081-88f201b35596",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-04-06T06:02:58.913000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/enseignements-artistiques-les-conservatoires-des-hauts-de-seine/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T06:02:58.913000",
+      "description": "- *ID*: id[text] Identifiant du lieu culturel\n- *ETABLISSEMENT*: etablissement[text] Nom de l'\u00e9tablissement\n- *PRESENTATION*: presentation[text] Pr\u00e9sentation de l'\u00e9tablissement\n- *ADRESSE*: adresse[text] Adresse de l'\u00e9tablissement\n- *CP*: cp[text] Code postal de la commune\n- *COMMUNE*: commune[text] Nom de la commune\n- *CODE_INSEE*: code_insee[text] Code INSEE de la commune\n- *TEL*: tel[text] Num\u00e9ro de t\u00e9l\u00e9phone de l'\u00e9tablissement\n- *MAIL*: mail[text] Adresse e-mail de l'\u00e9tablissement\n- *SITE_INTERNET*: site_internet[text] Site internet de l'\u00e9tablissement\n- *DISCIPLINES*: disciplines[text] Disciplines enseign\u00e9es\n- *DISCIPLINES_SPECIFIQUES_RARES*: disciplines_specifiques_rares[text] Disciplines sp\u00e9cifiques ou rares en enseign\u00e9es\n- *FICHE_ACCESSIBILITE*: fiche_accessibilite[text] Lien vers la fiche internet pr\u00e9sentant le niveau d'accessibilit\u00e9 de l'\u00e9tablissement au regard des 4 handicaps majeurs \n- *DATE_MAJ*: date_maj[date] Date de mise \u00e0 jour des renseignements\n- *Geo Point*: geo_point[geo_point_2d]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T10:24:17.972000",
+        "check:status": 200,
+        "check:url": "https://opendata.hauts-de-seine.fr//explore/dataset/enseignements-artistiques-les-conservatoires-des-hauts-de-seine/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "b617a6b5-bfb0-449c-ad76-92d53335b40c",
+      "last_modified": "2016-06-13T22:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b617a6b5-bfb0-449c-ad76-92d53335b40c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-04-06T06:02:58.913000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/enseignements-artistiques-les-conservatoires-des-hauts-de-seine/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "enseignements-artistiques-les-conservatoires-des-hauts-de-seine",
+  "spatial": null,
+  "tags": [
+    "arts",
+    "conservatoires",
+    "culture-tourisme",
+    "danse",
+    "education",
+    "enseignements",
+    "musique",
+    "theatre"
+  ],
+  "temporal_coverage": null,
+  "title": "Enseignements artistiques : les conservatoires des Hauts-de-Seine",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/enseignements-artistiques-les-conservatoires-des-hauts-de-seine/"
+}

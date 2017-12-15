@@ -1,0 +1,80 @@
+{
+  "badges": [],
+  "created_at": "2017-03-17T15:49:06.484000",
+  "deleted": null,
+  "description": "La police technique et scientifique (PTS) occupe un r\u00f4le central dans l\u2019exercice des missions des services d\u2019enqu\u00eates, mais son organisation est singuli\u00e8rement complexe. L\u2019essentiel de sa d\u00e9pense est port\u00e9 par les budgets de la police et de la gendarmerie nationales, qui agissent c\u00f4te \u00e0 c\u00f4te sans chercher \u00e0 d\u00e9velopper de r\u00e9elles synergies. L\u2019importance que rev\u00eat la PTS dans la r\u00e9v\u00e9lation de la v\u00e9rit\u00e9, la lutte contre la criminalit\u00e9 et la coop\u00e9ration internationale justifie que soit engag\u00e9 un effort profond de rationalisation et de mutualisation de ses moyens, pour le moment dispers\u00e9s, notamment par une r\u00e9duction sensible du nombre de plateaux techniques de la police et de la gendarmerie. Il appara\u00eet n\u00e9cessaire de r\u00e9nover sa gouvernance, de clarifier son organisation, d\u2019harmoniser ses m\u00e9thodes et d\u2019am\u00e9liorer sa performance. La Cour formule dix recommandations, avec l\u2019orientation de cr\u00e9er \u00e0 moyen terme une direction de la PTS commune \u00e0 la police et \u00e0 la gendarmerie nationales. \n\nCe rapport est accessible sur [le site de la Cour](https://www.ccomptes.fr/fr/publications/la-police-technique-et-scientifique).\n\nLes fichiers publi\u00e9s correspondent aux donn\u00e9es ayant servi de base \u00e0 l'\u00e9laboration du rapport.",
+  "extras": {},
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "58cbf76288ee381723fd5ba2",
+  "last_modified": "2017-09-04T12:04:45.929000",
+  "last_update": "2017-03-17T15:49:24.709000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "53698dada3a729239d20331d",
+    "logo": "https://www.data.gouv.fr/s/avatars/ac/83f761a23f4263be8b3401b01625e8-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/ac/83f761a23f4263be8b3401b01625e8-100.png",
+    "name": "Cour des comptes",
+    "page": "https://www.data.gouv.fr/fr/organizations/cour-des-comptes/",
+    "slug": "cour-des-comptes",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/cour-des-comptes/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/la-police-technique-et-scientifique/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-03-17T15:49:24.708000",
+      "description": "",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-26T07:40:38.140000",
+        "check:status": 200,
+        "check:url": "https://www.ccomptes.fr/sites/default/files/EzPublish/20170215-donnees-police-technique-scientifique.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "4d83f98a-441a-4781-aea4-5d68f556728e",
+      "last_modified": "2017-09-04T12:04:45.929000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4d83f98a-441a-4781-aea4-5d68f556728e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 3
+      },
+      "mime": null,
+      "published": "2017-03-17T15:49:24.709000",
+      "title": "La police technique et scientifique",
+      "url": "https://www.ccomptes.fr/sites/default/files/EzPublish/20170215-donnees-police-technique-scientifique.zip"
+    }
+  ],
+  "slug": "la-police-technique-et-scientifique",
+  "spatial": null,
+  "tags": [
+    "cour-des-comptes",
+    "criminalite",
+    "enquete",
+    "police",
+    "pts",
+    "scientifique"
+  ],
+  "temporal_coverage": null,
+  "title": "La police technique et scientifique",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/la-police-technique-et-scientifique/"
+}

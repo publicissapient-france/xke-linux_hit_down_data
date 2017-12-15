@@ -1,0 +1,87 @@
+{
+  "badges": [],
+  "created_at": "2017-03-09T17:29:23.105000",
+  "deleted": null,
+  "description": "Meudon ouvre ses comptes administratifs depuis 2012. Chaque tableau d\u00e9taille les informations g\u00e9n\u00e9rales, la pr\u00e9sentation g\u00e9n\u00e9rale du budget, le vote du budget et les annexes, pour les diff\u00e9rents budgets de la ville. Tous les tableaux de l'exercice 2013 sont ouverts sous forme de tableau CSV. Ce premier tableur pr\u00e9sente les annexes - \u00e9l\u00e9ments du bilan - d\u00e9tail investissement - logement. Les chiffres sont donn\u00e9s par rapport \u00e0 la population meudonnaise et par rapport \u00e0 la moyenne nationale.",
+  "extras": {},
+  "frequency": "punctual",
+  "frequency_date": null,
+  "id": "58c182e3c751df11f58f7833",
+  "last_modified": "2017-03-09T17:29:57.501000",
+  "last_update": "2017-03-09T17:29:54.911000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "54d89442c751df1245467389",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-02-09/c8e02b8db0004b17b0aa311404798324/logo_meudon_couleur_HD-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-02-09/c8e02b8db0004b17b0aa311404798324/logo_meudon_couleur_HD-100.jpg",
+    "name": "Ville de Meudon",
+    "page": "https://www.data.gouv.fr/fr/organizations/ville-de-meudon/",
+    "slug": "ville-de-meudon",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ville-de-meudon/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/compte-administratif-2013-annexes-elements-du-bilan-detail-investissement-logement/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "781d507f73d718736f663b5be778f51da36e6817"
+      },
+      "created_at": "2017-03-09T17:29:54.911000",
+      "description": "Meudon ouvre ses comptes administratifs depuis 2012. Chaque tableau d\u00e9taille les informations g\u00e9n\u00e9rales, la pr\u00e9sentation g\u00e9n\u00e9rale du budget, le vote du budget et les annexes, pour les diff\u00e9rents budgets de la ville. Tous les tableaux de l'exercice 2013 sont ouverts sous forme de tableau CSV. Ce premier tableur pr\u00e9sente les annexes - \u00e9l\u00e9ments du bilan - d\u00e9tail investissement - logement. Les chiffres sont donn\u00e9s par rapport \u00e0 la population meudonnaise et par rapport \u00e0 la moyenne nationale.",
+      "extras": {},
+      "filesize": 2340,
+      "filetype": "file",
+      "format": "csv",
+      "id": "a332be2e-7303-44ab-9bf9-ed19f703198c",
+      "last_modified": "2017-03-09T17:29:57.501000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a332be2e-7303-44ab-9bf9-ed19f703198c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-03-09T17:29:54.911000",
+      "title": "Compte administratif 2013 - Annexes - \u00e9l\u00e9ments du bilan - d\u00e9tail investissement - logement",
+      "url": "https://www.data.gouv.fr/s/resources/compte-administratif-2013-annexes-elements-du-bilan-detail-investissement-logement/20170309-172954/Onglet_48_CA2013_Annexes.csv"
+    }
+  ],
+  "slug": "compte-administratif-2013-annexes-elements-du-bilan-detail-investissement-logement",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:commune",
+    "zones": [
+      "fr:commune:92048@1968-01-01"
+    ]
+  },
+  "tags": [
+    "annexes",
+    "bilan",
+    "budget",
+    "budget-2013",
+    "commune",
+    "compte-administratif",
+    "investissement",
+    "logement",
+    "ville"
+  ],
+  "temporal_coverage": null,
+  "title": "Compte administratif 2013 - Annexes - \u00e9l\u00e9ments du bilan - d\u00e9tail investissement - logement",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/compte-administratif-2013-annexes-elements-du-bilan-detail-investissement-logement/"
+}

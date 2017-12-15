@@ -1,0 +1,173 @@
+{
+  "badges": [],
+  "created_at": "2016-07-13T20:55:14.999000",
+  "deleted": null,
+  "description": "Travaux r\u00e9alis\u00e9s sur la voirie d\u00e9partementale, occasionnant une g\u00eane \u00e0 l'usager.\n\n* * *\n\nCe jeu de donn\u00e9es permet de localiser les travaux r\u00e9alis\u00e9s par le D\u00e9partement des Hauts-de-Seine sur la voirie d\u00e9partementale occasionnant une g\u00eane \u00e0 l'usager. Les travaux sont pr\u00e9sent\u00e9s dans trois cat\u00e9gories : travaux sur la voirie, travaux d'assainissement ou travaux d'espaces verts.\n\n**Observations particuli\u00e8res**\n\nCe jeu de donn\u00e9es ne pr\u00e9sente que les travaux repr\u00e9sent\u00e9s par un point.\n\n**Donn\u00e9es connexes**\n\nopendata.hauts-de-seine.fr   \n[Acc\u00e9der au jeu de donn\u00e9es \"Travaux sur la voirie d\u00e9partementale (lignes)\"](https://opendata.hauts-de-seine.fr/explore/dataset/travaux-sur-la-voirie-departementale-lignes/)",
+  "extras": {
+    "harvest:domain": "opendata.hauts-de-seine.fr",
+    "harvest:last_update": "2017-04-06T06:03:01.489773",
+    "harvest:remote_id": "travaux-sur-la-voirie-departementale-points",
+    "harvest:source_id": "5731a6d688ee38379cd1b934",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.hauts-de-seine.fr//explore/dataset/travaux-sur-la-voirie-departementale-points/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "57868e93a3a7295d371adcf0",
+  "last_modified": "2017-04-06T06:03:01.493000",
+  "last_update": "2017-04-06T06:03:01.488000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "544e1b0888ee38289ae1ed05",
+    "logo": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-100.jpg",
+    "name": "Hauts-de-Seine le D\u00e9partement",
+    "page": "https://www.data.gouv.fr/fr/organizations/hauts-de-seine-le-departement/",
+    "slug": "hauts-de-seine-le-departement",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/hauts-de-seine-le-departement/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/travaux-sur-la-voirie-departementale-points/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T06:03:01.487000",
+      "description": "- *TRIMESTRE*: trimestre[text] Indication du trimestre\n- *COMMUNE*: commune[text] Nom de la commune\n- *DIRECTION*: direction[text] Direction responsable des travaux\n- *TYPE_TVX*: type_tvx[text] Type de travaux\n- *RD*: rd[text] Num\u00e9ro de la route d\u00e9partementale\n- *LOCALISATION*: localisation[text] Adresse des travaux\n- *OPERATION*: operation[text] Pr\u00e9cisions sur l'op\u00e9ration\n- *geo_shape*: geo_shape[geo_shape] G\u00e9om\u00e9trie de l'entit\u00e9 au format GeoJSON\n- *geo_point_2d*: geo_point_2d[geo_point_2d] Coordonn\u00e9es du point (latitude, longitude en degr\u00e9s d\u00e9cimaux)\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-09T15:02:57.642000",
+        "check:status": 200,
+        "check:url": "https://opendata.hauts-de-seine.fr//explore/dataset/travaux-sur-la-voirie-departementale-points/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b25dff7e-11be-40c3-82ce-97fb57e2a317",
+      "last_modified": "2017-01-23T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b25dff7e-11be-40c3-82ce-97fb57e2a317",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-04-06T06:03:01.487000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/travaux-sur-la-voirie-departementale-points/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T06:03:01.487000",
+      "description": "- *TRIMESTRE*: trimestre[text] Indication du trimestre\n- *COMMUNE*: commune[text] Nom de la commune\n- *DIRECTION*: direction[text] Direction responsable des travaux\n- *TYPE_TVX*: type_tvx[text] Type de travaux\n- *RD*: rd[text] Num\u00e9ro de la route d\u00e9partementale\n- *LOCALISATION*: localisation[text] Adresse des travaux\n- *OPERATION*: operation[text] Pr\u00e9cisions sur l'op\u00e9ration\n- *geo_shape*: geo_shape[geo_shape] G\u00e9om\u00e9trie de l'entit\u00e9 au format GeoJSON\n- *geo_point_2d*: geo_point_2d[geo_point_2d] Coordonn\u00e9es du point (latitude, longitude en degr\u00e9s d\u00e9cimaux)\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-09T15:02:53.239000",
+        "check:status": 200,
+        "check:url": "https://opendata.hauts-de-seine.fr//explore/dataset/travaux-sur-la-voirie-departementale-points/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "5d5eb1c9-64e0-46bf-9c3a-094edd006acd",
+      "last_modified": "2017-01-23T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5d5eb1c9-64e0-46bf-9c3a-094edd006acd",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-04-06T06:03:01.487000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/travaux-sur-la-voirie-departementale-points/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T06:03:01.488000",
+      "description": "- *TRIMESTRE*: trimestre[text] Indication du trimestre\n- *COMMUNE*: commune[text] Nom de la commune\n- *DIRECTION*: direction[text] Direction responsable des travaux\n- *TYPE_TVX*: type_tvx[text] Type de travaux\n- *RD*: rd[text] Num\u00e9ro de la route d\u00e9partementale\n- *LOCALISATION*: localisation[text] Adresse des travaux\n- *OPERATION*: operation[text] Pr\u00e9cisions sur l'op\u00e9ration\n- *geo_shape*: geo_shape[geo_shape] G\u00e9om\u00e9trie de l'entit\u00e9 au format GeoJSON\n- *geo_point_2d*: geo_point_2d[geo_point_2d] Coordonn\u00e9es du point (latitude, longitude en degr\u00e9s d\u00e9cimaux)\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-09T15:02:55.515000",
+        "check:status": 200,
+        "check:url": "https://opendata.hauts-de-seine.fr//explore/dataset/travaux-sur-la-voirie-departementale-points/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "a8b84842-3aa9-4e18-ac44-dc434474163f",
+      "last_modified": "2017-01-23T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a8b84842-3aa9-4e18-ac44-dc434474163f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-04-06T06:03:01.488000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/travaux-sur-la-voirie-departementale-points/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-04-06T06:03:01.488000",
+      "description": "- *TRIMESTRE*: trimestre[text] Indication du trimestre\n- *COMMUNE*: commune[text] Nom de la commune\n- *DIRECTION*: direction[text] Direction responsable des travaux\n- *TYPE_TVX*: type_tvx[text] Type de travaux\n- *RD*: rd[text] Num\u00e9ro de la route d\u00e9partementale\n- *LOCALISATION*: localisation[text] Adresse des travaux\n- *OPERATION*: operation[text] Pr\u00e9cisions sur l'op\u00e9ration\n- *geo_shape*: geo_shape[geo_shape] G\u00e9om\u00e9trie de l'entit\u00e9 au format GeoJSON\n- *geo_point_2d*: geo_point_2d[geo_point_2d] Coordonn\u00e9es du point (latitude, longitude en degr\u00e9s d\u00e9cimaux)\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-09T15:02:29.902000",
+        "check:status": 200,
+        "check:url": "https://opendata.hauts-de-seine.fr//explore/dataset/travaux-sur-la-voirie-departementale-points/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "3f4329bc-808a-4254-96c4-d206f9daf1ea",
+      "last_modified": "2017-01-23T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3f4329bc-808a-4254-96c4-d206f9daf1ea",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-04-06T06:03:01.488000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/travaux-sur-la-voirie-departementale-points/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "travaux-sur-la-voirie-departementale-points",
+  "spatial": null,
+  "tags": [
+    "gene-a-l-usager",
+    "operations",
+    "points",
+    "rd",
+    "routes-departementales",
+    "transport-mobilite",
+    "transports",
+    "travaux",
+    "trimestres",
+    "trimestriels",
+    "voirie"
+  ],
+  "temporal_coverage": null,
+  "title": "Travaux sur la voirie d\u00e9partementale (points)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/travaux-sur-la-voirie-departementale-points/"
+}

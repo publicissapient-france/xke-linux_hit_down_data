@@ -1,0 +1,100 @@
+{
+  "badges": [],
+  "created_at": "2016-10-21T19:58:49.799000",
+  "deleted": null,
+  "description": "Ces trois tableaux compl\u00e9mentaires correspondent, pour le budget principal, aux subventions ordinaires et exceptionnelles pr\u00e9vues pour l'ann\u00e9e 2015 en fonctionnement ainsi qu'aux subventions d'\u00e9quipement, par tiers b\u00e9n\u00e9ficiaires (pour la plupart des associations). Ces subventions sont ventil\u00e9es par sous-fonctions.",
+  "extras": {
+    "harvest:domain": "data.rennesmetropole.fr",
+    "harvest:last_update": "2017-11-27T04:01:17.108905",
+    "harvest:remote_id": "bp-2015-subventions-aux-associations0",
+    "harvest:source_id": "580736ec88ee3816625ff490",
+    "ods:has_records": true,
+    "ods:url": "https://data.rennesmetropole.fr/explore/dataset/bp-2015-subventions-aux-associations0/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "580a5759a3a7292dcfa9d1e5",
+  "last_modified": "2017-11-27T04:01:17.110000",
+  "last_update": "2017-11-27T04:01:17.108000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "RM",
+    "class": "Organization",
+    "id": "580735be88ee3814295ff490",
+    "logo": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-100.png",
+    "name": "Rennes M\u00e9tropole en acc\u00e8s libre",
+    "page": "https://www.data.gouv.fr/fr/organizations/rennes-metropole-en-acces-libre-1/",
+    "slug": "rennes-metropole-en-acces-libre-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/rennes-metropole-en-acces-libre-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/bp-2015-ville-de-rennes-subventions-exceptionnelles-aux-associations/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:01:17.108000",
+      "description": "- *Sous-fonction*: sous_fonction[text]\n- *Libell\u00e9*: libelle[text]\n- *Somme*: bp_2015[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "6cfa743a-dbba-4fc1-b675-83153025c2ee",
+      "last_modified": "2016-06-08T15:07:43",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6cfa743a-dbba-4fc1-b675-83153025c2ee",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T04:01:17.108000",
+      "title": "Export au format CSV",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/bp-2015-subventions-aux-associations0/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:01:17.108000",
+      "description": "- *Sous-fonction*: sous_fonction[text]\n- *Libell\u00e9*: libelle[text]\n- *Somme*: bp_2015[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "2c4ea5a9-8d6b-43a2-9080-d0c5aecbd531",
+      "last_modified": "2016-06-08T15:07:43",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2c4ea5a9-8d6b-43a2-9080-d0c5aecbd531",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T04:01:17.108000",
+      "title": "Export au format JSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/bp-2015-subventions-aux-associations0/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "bp-2015-ville-de-rennes-subventions-exceptionnelles-aux-associations",
+  "spatial": null,
+  "tags": [
+    "budget",
+    "economie"
+  ],
+  "temporal_coverage": null,
+  "title": "BP 2015 - Ville de Rennes - Subventions exceptionnelles aux associations",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/bp-2015-ville-de-rennes-subventions-exceptionnelles-aux-associations/"
+}

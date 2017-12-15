@@ -1,0 +1,123 @@
+{
+  "badges": [],
+  "created_at": "2017-10-02T00:00:00",
+  "deleted": null,
+  "description": "export des m\u00e9tadonn\u00e9es du catalogue datalocale. Les m\u00e9tadonn\u00e9es contenues dans ce fichier permettent de r\u00e9cup\u00e9rer pour chaque jeu de donn\u00e9e du catalogue les \u00e9l\u00e9ments de description aussi bien au niveau des jeux de donn\u00e9es que des ressources associ\u00e9es",
+  "extras": {
+    "ckan:name": "liste-des-jeux-de-donnee-du-portail-datalocale",
+    "contact_email": "mailto:datalocale@cg33.fr",
+    "contact_name": "administrateur datalocale",
+    "contact_uri": "https://datacat.datalocale.fr/415915",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/DAILY",
+    "guid": "https://datacat.datalocale.fr/415916",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-10-03T06:13:33.187523",
+    "harvest:remote_id": "ff923a96-6d7e-4b9a-b017-f0694153856c",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "a875cbe8-0fd7-4c9e-9b6e-9c235aef4bd7",
+    "issued": "2013-06-11T15:28:28+00:00",
+    "modified": "2016-07-18T09:21:06.350502+00:00",
+    "publisher_email": "mailto:p.romain@cg33.fr",
+    "publisher_name": "Pascal Romain",
+    "publisher_uri": "https://datacat.datalocale.fr/415914",
+    "remote_url": "http://catalogue.datalocale.fr",
+    "theme": "[\"base de donn\u00e9es\"]",
+    "uri": "https://datacat.datalocale.fr/415916"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59d30e6db59508043de9b998",
+  "last_modified": "2017-10-03T06:13:33.189000",
+  "last_update": "2017-10-03T06:13:33.186000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-jeux-de-donnee-du-portail-datalocale-2/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-10-03T06:13:33.186000",
+      "description": "export en csv des m\u00e9tadonn\u00e9es du portail datalocale",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-08T01:43:14.508000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e04b04ab-5b7d-4c62-891c-9761899aba02",
+      "last_modified": "2017-10-03T06:13:33.186000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e04b04ab-5b7d-4c62-891c-9761899aba02",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-03T06:13:33.186000",
+      "title": "datalocale-daily.csv",
+      "url": "https://datacat.datalocale.fr/file/1022603/raw/datalocale-daily.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-03T06:13:33.186000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T02:40:34.014000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "9baec041-ce93-4cd6-be31-26a56b596f37",
+      "last_modified": "2017-10-03T06:13:33.186000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9baec041-ce93-4cd6-be31-26a56b596f37",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-10-03T06:13:33.186000",
+      "title": "datalocale-daily.json",
+      "url": "https://datacat.datalocale.fr/file/1022601/raw/datalocale-daily.json"
+    }
+  ],
+  "slug": "liste-des-jeux-de-donnee-du-portail-datalocale-2",
+  "spatial": null,
+  "tags": [
+    "catalogue",
+    "dcat",
+    "opendata"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des jeux de donn\u00e9e du portail datalocale",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-jeux-de-donnee-du-portail-datalocale-2/"
+}

@@ -1,0 +1,363 @@
+{
+  "badges": [],
+  "created_at": "2017-09-29T00:00:00",
+  "deleted": null,
+  "description": "Donn\u00e9es concernant les associations de la commune de Brocas",
+  "extras": {
+    "ckan:name": "commune-de-brocas-associations",
+    "contact_email": "mailto:contact@brocas.fr",
+    "contact_name": "Mairie de Brocas",
+    "contact_uri": "https://datacat.datalocale.fr/414602",
+    "guid": "https://datacat.datalocale.fr/416436",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-10-02T07:48:51.078262",
+    "harvest:remote_id": "f453a3b5-2a05-4adc-907c-54db807497a3",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "fd6139eb-1435-4a28-8907-92c813b1a24a",
+    "issued": "2013-08-16T20:08:25+00:00",
+    "modified": "2016-07-18T09:21:06.867312+00:00",
+    "publisher_email": "mailto:contact@brocas.fr",
+    "publisher_name": "Mairie de Brocas",
+    "publisher_uri": "https://datacat.datalocale.fr/414602",
+    "theme": "[\"mouvement associatif\"]",
+    "uri": "https://datacat.datalocale.fr/416436"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59cf1a75b59508043ce9b856",
+  "last_modified": "2017-10-02T07:48:51.079000",
+  "last_update": "2017-10-02T07:48:51.077000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/commune-de-brocas-associations-2/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:15:49.710000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-19T05:45:06.834000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416442/raw/ASSOC_Calendrier-inter-associatif-2012_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "9f45bea6-87b3-47c6-9766-3abc1e65b7eb",
+      "last_modified": "2017-09-30T06:15:49.710000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9f45bea6-87b3-47c6-9766-3abc1e65b7eb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-30T06:15:49.710000",
+      "title": "Calendrier inter-associatif 2012",
+      "url": "https://datacat.datalocale.fr/file/416442/raw/ASSOC_Calendrier-inter-associatif-2012_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:15:49.710000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-19T05:45:00.707000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416440/raw/ASSOC_Calendrier-inter-associatif-2011_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "46339c5a-07cf-42a4-8300-c031d9ca45b8",
+      "last_modified": "2017-09-30T06:15:49.710000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/46339c5a-07cf-42a4-8300-c031d9ca45b8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-30T06:15:49.710000",
+      "title": "Calendrier inter-associatif 2011",
+      "url": "https://datacat.datalocale.fr/file/416440/raw/ASSOC_Calendrier-inter-associatif-2011_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:15:49.711000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-19T08:30:41.485000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416444/raw/ASSOC_Calendrier-inter-associatif-2013_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "3b902985-cd16-4680-9de5-e0f41820dee6",
+      "last_modified": "2017-09-30T06:15:49.711000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3b902985-cd16-4680-9de5-e0f41820dee6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-30T06:15:49.711000",
+      "title": "Calendrier inter-associatif 2013",
+      "url": "https://datacat.datalocale.fr/file/416444/raw/ASSOC_Calendrier-inter-associatif-2013_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:15:49.711000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-19T05:45:08.052000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416438/raw/ASSOC_Liste-2012_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "9fbc2122-74e6-4b30-aa07-5526b9d0bcb4",
+      "last_modified": "2017-09-30T06:15:49.711000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9fbc2122-74e6-4b30-aa07-5526b9d0bcb4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-30T06:15:49.711000",
+      "title": "Liste des associations au 31/12/2012",
+      "url": "https://datacat.datalocale.fr/file/416438/raw/ASSOC_Liste-2012_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-01T06:05:20.576000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-19T08:30:43.711000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416440/raw/ASSOC_Calendrier-inter-associatif-2011_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "87c060f6-9df3-4353-af78-549673d72165",
+      "last_modified": "2017-10-01T06:05:20.576000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/87c060f6-9df3-4353-af78-549673d72165",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-01T06:05:20.576000",
+      "title": "Calendrier inter-associatif 2011",
+      "url": "https://datacat.datalocale.fr/file/416440/raw/ASSOC_Calendrier-inter-associatif-2011_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-01T06:05:20.577000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-19T08:30:43.811000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/416438/raw/ASSOC_Liste-2012_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "3006092e-7674-4cc7-8dd5-77aa06ae7878",
+      "last_modified": "2017-10-01T06:05:20.577000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3006092e-7674-4cc7-8dd5-77aa06ae7878",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-01T06:05:20.577000",
+      "title": "Liste des associations au 31/12/2012",
+      "url": "https://datacat.datalocale.fr/file/416438/raw/ASSOC_Liste-2012_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-01T06:05:20.577000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "dbc6961b-06fb-49f3-9045-722df13007f6",
+      "last_modified": "2017-10-01T06:05:20.577000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/dbc6961b-06fb-49f3-9045-722df13007f6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-01T06:05:20.577000",
+      "title": "Calendrier inter-associatif 2012",
+      "url": "https://datacat.datalocale.fr/file/416442/raw/ASSOC_Calendrier-inter-associatif-2012_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-01T06:05:20.577000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "77563b28-240f-4e99-9ef7-a5bd6195279e",
+      "last_modified": "2017-10-01T06:05:20.578000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/77563b28-240f-4e99-9ef7-a5bd6195279e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-01T06:05:20.578000",
+      "title": "Calendrier inter-associatif 2013",
+      "url": "https://datacat.datalocale.fr/file/416444/raw/ASSOC_Calendrier-inter-associatif-2013_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-02T07:48:51.075000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "14a4d489-1afc-4fad-a00e-cc79dd2da2ca",
+      "last_modified": "2017-10-02T07:48:51.075000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/14a4d489-1afc-4fad-a00e-cc79dd2da2ca",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-02T07:48:51.075000",
+      "title": "Calendrier inter-associatif 2013",
+      "url": "https://datacat.datalocale.fr/file/416444/raw/ASSOC_Calendrier-inter-associatif-2013_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-02T07:48:51.076000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "06221720-d8ac-4b6a-9a71-285e33c7d0e7",
+      "last_modified": "2017-10-02T07:48:51.076000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/06221720-d8ac-4b6a-9a71-285e33c7d0e7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-02T07:48:51.076000",
+      "title": "Calendrier inter-associatif 2012",
+      "url": "https://datacat.datalocale.fr/file/416442/raw/ASSOC_Calendrier-inter-associatif-2012_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-02T07:48:51.076000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "dce92dbe-acb5-4a08-8c2c-fcdcfa470cad",
+      "last_modified": "2017-10-02T07:48:51.076000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/dce92dbe-acb5-4a08-8c2c-fcdcfa470cad",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-02T07:48:51.076000",
+      "title": "Calendrier inter-associatif 2011",
+      "url": "https://datacat.datalocale.fr/file/416440/raw/ASSOC_Calendrier-inter-associatif-2011_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-02T07:48:51.077000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "782d79fb-aac9-47ac-8118-87c766449313",
+      "last_modified": "2017-10-02T07:48:51.077000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/782d79fb-aac9-47ac-8118-87c766449313",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-02T07:48:51.077000",
+      "title": "Liste des associations au 31/12/2012",
+      "url": "https://datacat.datalocale.fr/file/416438/raw/ASSOC_Liste-2012_bro_v1.0.csv"
+    }
+  ],
+  "slug": "commune-de-brocas-associations-2",
+  "spatial": null,
+  "tags": [
+    "associations",
+    "brocas",
+    "calendrier",
+    "subventions",
+    "vie-associative"
+  ],
+  "temporal_coverage": null,
+  "title": "Commune de Brocas : Associations",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/commune-de-brocas-associations-2/"
+}

@@ -1,0 +1,79 @@
+{
+  "badges": [],
+  "created_at": "2016-02-03T16:16:40.329000",
+  "deleted": null,
+  "description": "Horaires des services de la Communaut\u00e9 d'Agglom\u00e9ration Bar-le-Duc Sud Meuse",
+  "extras": {},
+  "frequency": "punctual",
+  "frequency_date": "2016-02-03T00:00:00",
+  "id": "56b219d8c751df2cdcc30484",
+  "last_modified": "2016-02-08T15:36:31.951000",
+  "last_update": "2016-02-03T16:16:45.182000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "56b8a4ffc751df02a29f9deb",
+    "logo": "https://www.data.gouv.fr/s/avatars/50/57ae17a70e4c8e96dc74e50f80c748-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/50/57ae17a70e4c8e96dc74e50f80c748-100.jpg",
+    "name": "Communaut\u00e9 d'Agglom\u00e9ration Bar-le-Duc Sud Meuse",
+    "page": "https://www.data.gouv.fr/fr/organizations/communaute-dagglomeration-bar-le-duc-sud-meuse/",
+    "slug": "communaute-dagglomeration-bar-le-duc-sud-meuse",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/communaute-dagglomeration-bar-le-duc-sud-meuse/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/horaires-des-services-de-la-communaute-dagglomeration-meuse-grand-sud/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "ffe2112f6195ea380e1a40b3d6332a47bdd973dc"
+      },
+      "created_at": "2016-02-03T16:16:45.182000",
+      "description": "",
+      "extras": {},
+      "filesize": 491,
+      "filetype": "file",
+      "format": "csv",
+      "id": "8e63ff09-9560-4053-9a5d-384b837404c0",
+      "last_modified": "2016-02-03T16:16:46.571000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8e63ff09-9560-4053-9a5d-384b837404c0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 2
+      },
+      "mime": "text/csv",
+      "published": "2016-02-03T16:16:45.182000",
+      "title": "Horaires_des_services.csv",
+      "url": "https://www.data.gouv.fr/s/resources/horaires-des-services-de-la-communaute-dagglomeration-meuse-grand-sud/20160203-161645/Horaires_des_services.csv"
+    }
+  ],
+  "slug": "horaires-des-services-de-la-communaute-dagglomeration-meuse-grand-sud",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:epci",
+    "zones": [
+      "fr:epci:200033025@2013-01-01"
+    ]
+  },
+  "tags": [
+    "horaires"
+  ],
+  "temporal_coverage": null,
+  "title": "Horaires des services de la Communaut\u00e9 d'Agglom\u00e9ration Meuse Grand Sud",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/horaires-des-services-de-la-communaute-dagglomeration-meuse-grand-sud/"
+}

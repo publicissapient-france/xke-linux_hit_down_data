@@ -1,0 +1,76 @@
+{
+  "badges": [],
+  "created_at": "2016-04-07T15:41:42.079000",
+  "deleted": null,
+  "description": "Context est un projet de base de donn\u00e9es d'\u00e9v\u00e9nements majoritairement extraites de la base de donn\u00e9es du projet Wikidata.\nLa base Context contient plus de 3 000 000 \u00e9v\u00e9nements d\u00e9crites en fran\u00e7ais ou en anglais ( lorsque la description existe !! ). ",
+  "extras": {},
+  "frequency": "unknown",
+  "frequency_date": "2016-04-07T00:00:00",
+  "id": "57066396c751df73d9dafbba",
+  "last_modified": "2016-04-07T15:42:12.647000",
+  "last_update": "2016-04-07T00:00:00",
+  "license": "cc-by-sa",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": null,
+  "owner": {
+    "avatar": null,
+    "avatar_thumbnail": null,
+    "class": "User",
+    "first_name": "Centre",
+    "id": "5704d058c751df6f09c485cb",
+    "last_name": "Maurice Halbwachs",
+    "page": "https://www.data.gouv.fr/fr/users/centre-maurice-halbwachs/",
+    "slug": "centre-maurice-halbwachs",
+    "uri": "https://www.data.gouv.fr/api/1/users/centre-maurice-halbwachs/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/projet-context/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2016-04-07T15:42:12.625000",
+      "description": "fichier CSV",
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-11-14T15:51:52.833000",
+        "check:status": 404,
+        "check:url": "http://context.cmh.ens.fr/data/context.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "67bc7a56-c6f2-411d-90d2-0cb11d83a32f",
+      "last_modified": "2016-04-07T15:42:12.625000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/67bc7a56-c6f2-411d-90d2-0cb11d83a32f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 3
+      },
+      "mime": null,
+      "published": "2016-04-07T00:00:00",
+      "title": "Base Context",
+      "url": "http://context.cmh.ens.fr/data/context.zip"
+    }
+  ],
+  "slug": "projet-context",
+  "spatial": null,
+  "tags": [
+    "wikidata",
+    "wikipedia"
+  ],
+  "temporal_coverage": null,
+  "title": "Projet Context",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/projet-context/"
+}

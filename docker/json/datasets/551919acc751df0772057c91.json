@@ -1,0 +1,82 @@
+{
+  "badges": [],
+  "created_at": "2015-03-30T11:38:52.597000",
+  "deleted": null,
+  "description": "**Description**\n\nIl s'agit du nombre de coll\u00e8ges (publics ou priv\u00e9s sous contrat) reparti par commune en Seine-Saint-Denis\n\n**Sources** \n\nD\u00e9partement de la Seine-Saint-Denis \n\n**Origine de la donn\u00e9e - Producteur** \n\nFlux manuel\n\n**Liste des colonnes**\n\n- N\u00b0 de d\u00e9partement : N\u00b0 de d\u00e9partement\n- Code commune INSEE : Code commune INSEE\n- Nom commune : Nom commune\n- Nb de coll\u00e8ges 2009 : Nombre de coll\u00e8ges en 2009\n- Nb de coll\u00e8ges 2010 : Nombre de coll\u00e8ges en 2010\n- Nb de coll\u00e8ges 2011 : Nombre de coll\u00e8ges en 2011\n- Nb de coll\u00e8ges 2012 : Nombre de coll\u00e8ges en 2012\n- Nb de coll\u00e8ges 2013 : Nombre de coll\u00e8ges en 2013\n\n**Format de diffusion**\n\nCes fichiers sont propos\u00e9s sous forme de :\n\n    fichiers csv (encodage ANSI)     \n\n**Contact**\n\nPour toute question, ou signalement d'une am\u00e9lioration, vous pouvez nous contacter sur <a href=\"mailto:data93@cg93.fr\">data93@cg93.fr</a>\n\n**Liens**\n\n- Consulter la fiche sur le <a href=\"http://data.seine-saint-denis.fr/spip.php?article189\">portail Open Data de la Seine-Saint-Denis</a>\n\n\n\n\n\n\n\n",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": "2015-10-12T00:00:00",
+  "id": "551919acc751df0772057c91",
+  "last_modified": "2015-10-12T09:38:21.993000",
+  "last_update": "2015-03-30T11:39:12.065000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5457bc26c751df7378225d2e",
+    "logo": "https://www.data.gouv.fr/s/avatars/2014-11-03/1368537f4075452eb44393ea68b6bfdc/SeineSaintDenis-Logo-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-11-03/1368537f4075452eb44393ea68b6bfdc/SeineSaintDenis-Logo-100.png",
+    "name": "Seine-Saint-Denis - Le D\u00e9partement",
+    "page": "https://www.data.gouv.fr/fr/organizations/seine-saint-denis-le-departement/",
+    "slug": "seine-saint-denis-le-departement",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/seine-saint-denis-le-departement/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/nombre-de-colleges-en-seine-saint-denis-par-commune/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "4597ea2886f291768f0dcc9009043ac4a9c99378"
+      },
+      "created_at": "2015-03-30T11:39:12.064000",
+      "description": "",
+      "extras": {},
+      "filesize": 2101,
+      "filetype": "file",
+      "format": "csv",
+      "id": "e7317b76-5a14-42b0-8b03-be2ed93aed4c",
+      "last_modified": "2015-03-30T11:39:12.065000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e7317b76-5a14-42b0-8b03-be2ed93aed4c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 2
+      },
+      "mime": "text/csv",
+      "published": "2015-03-30T11:39:12.065000",
+      "title": "Departement93-College_de_Seine_Saint_Denis_(public_ou_prive_sous_contrat)_Nombre_de_colleges-2009_2013.csv",
+      "url": "https://www.data.gouv.fr/s/resources/nombre-de-colleges-en-seine-saint-denis-par-commune/20150330-113910/Departement93-College_de_Seine_Saint_Denis_public_ou_prive_sous_contrat_Nombre_de_colleges-2009_2013.csv"
+    }
+  ],
+  "slug": "nombre-de-colleges-en-seine-saint-denis-par-commune",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:departement",
+    "zones": [
+      "fr:departement:93@1968-01-01"
+    ]
+  },
+  "tags": [
+    "colleges",
+    "education"
+  ],
+  "temporal_coverage": {
+    "end": "2013-12-31",
+    "start": "2009-01-01"
+  },
+  "title": "Nombre de coll\u00e8ges en Seine-Saint-Denis par commune",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/nombre-de-colleges-en-seine-saint-denis-par-commune/"
+}

@@ -1,0 +1,145 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T17:58:35.424000",
+  "deleted": null,
+  "description": "La base permanente des \u00e9quipements (BPE), produite par l'INSEE, est destin\u00e9e \u00e0 fournir le niveau d'\u00e9quipement et de services rendus par un territoire \u00e0 la population.\n\n  \nCe jeu de donn\u00e9es d\u00e9nombre les\u00a0\u00a0fonctions m\u00e9dicales et param\u00e9dicales au niveau communal (arrondissement de Paris et commune).\n\n **Liste des variables :**\n\n  * M\u00e9decin omnipraticien ;\n  * Sp\u00e9cialiste en cardiologie ;\n  * Sp\u00e9cialiste en dermatologie v\u00e9n\u00e9r\u00e9ologie ;\n  * Sp\u00e9cialiste en gyn\u00e9cologie m\u00e9dicale ;\n  * Sp\u00e9cialiste en gyn\u00e9cologie obst\u00e9trique ;\n  * Sp\u00e9cialiste en gastro-ent\u00e9rologie h\u00e9patologie ;\n  * Sp\u00e9cialiste en psychiatrie ;\n  * Sp\u00e9cialiste en ophtalmologie ;\n  * Sp\u00e9cialiste en oto-rhino-laryngologie ;\n  * Sp\u00e9cialiste en p\u00e9diatrie ;\n  * Sp\u00e9cialiste en pneumologie ;\n  * Sp\u00e9cialiste en radiodiagnostic et imagerie m\u00e9dicale ;\n  * Sp\u00e9cialiste en stomatologie ;\n  * Chirurgien dentiste ;\n  * Sage-femme ;\n  * Infirmier ;\n  * Masseur kin\u00e9sith\u00e9rapeute ;\n  * Orthophoniste ;\n  * Orthoptiste ;\n  * P\u00e9dicure-podologue ;\n  * Audio proth\u00e9siste ;\n  * Ergoth\u00e9rapeute ;\n  * Psychomotricien.",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T05:37:55.181046",
+    "harvest:remote_id": "nombre-de-fonctions-medicales-et-paramedicales-par-commune-ou-arrondissement-bas",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:references": "http://www.insee.fr/fr/themes/detail.asp?reg_id=99&ref_id=equip-serv-medical-para",
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/nombre-de-fonctions-medicales-et-paramedicales-par-commune-ou-arrondissement-bas/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5959182ba3a7291dcf9c80c6",
+  "last_modified": "2017-11-27T05:37:55.182000",
+  "last_update": "2017-11-27T05:37:55.180000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/nombre-de-fonctions-medicales-et-paramedicales-par-commune-ou-arrondissement-base-permanente-des-equipements/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:37:55.179000",
+      "description": "- *D\u00e9partement*: departement[int]\n- *D\u00e9partement commune*: departement_commune[int]\n- *Libell\u00e9 de commune*: libelle_de_commune[text]\n- *Arrondissement*: arrondissement[int]\n- *Canton ville*: canton_ville[int]\n- *Zone d'emploi*: zone_d_emploi[int]\n- *Unit\u00e9 urbaine*: unite_urbaine[int]\n- *Population 2010*: population_2010[int]\n- *M\u00e9decin omnipraticien*: medecin_omnipraticien[int]\n- *Sp\u00e9cialiste en cardiologie*: specialiste_en_cardiologie[int]\n- *Sp\u00e9cialiste en dermatologie v\u00e9n\u00e9r\u00e9ologie*: specialiste_en_dermatologie_venereologie[int]\n- *Sp\u00e9cialiste en gyn\u00e9cologie m\u00e9dicale*: specialiste_en_gynecologie_medicale[int]\n- *Sp\u00e9cialiste en gyn\u00e9cologie obst\u00e9trique*: specialiste_en_gynecologie_obstetrique[int]\n- *Sp\u00e9cialiste en gastro-ent\u00e9rologie h\u00e9patologie*: specialiste_en_gastro_enterologie_hepatologie[int]\n- *Sp\u00e9cialiste en psychiatrie*: specialiste_en_psychiatrie[int]\n- *Sp\u00e9cialiste en ophtalmologie*: specialiste_en_ophtalmologie[int]\n- *Sp\u00e9cialiste en oto-rhino-laryngologie*: specialiste_en_oto_rhino_laryngologie[int]\n- *Sp\u00e9cialiste en p\u00e9diatrie*: specialiste_en_pediatrie[int]\n- *Sp\u00e9cialiste en pneumologie*: specialiste_en_pneumologie[int]\n- *Sp\u00e9cialiste en radiodiagnostic et imagerie m\u00e9dicale*: specialiste_en_radiodiagnostic_et_imagerie_medicale[int]\n- *Sp\u00e9cialiste en stomatologie*: specialiste_en_stomatologie[int]\n- *Chirurgien dentiste*: chirurgien_dentiste[int]\n- *Sage-femme*: sage_femme[int]\n- *Infirmier*: infirmier[int]\n- *Masseur kin\u00e9sith\u00e9rapeute*: masseur_kinesitherapeute[int]\n- *Orthophoniste*: orthophoniste[int]\n- *Orthoptiste*: orthoptiste[int]\n- *P\u00e9dicure-podologue*: pedicure_podologue[int]\n- *Audio proth\u00e9siste*: audio_prothesiste[int]\n- *Ergoth\u00e9rapeute*: ergotherapeute[int]\n- *Psychomotricien*: psychomotricien[int]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n- *geo_shape*: geo_shape[geo_shape]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e1e2ac8e-fa9b-4559-bc80-bf57f8b3b334",
+      "last_modified": "2014-03-24T22:50:43",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e1e2ac8e-fa9b-4559-bc80-bf57f8b3b334",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:37:55.179000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/nombre-de-fonctions-medicales-et-paramedicales-par-commune-ou-arrondissement-bas/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:37:55.179000",
+      "description": "- *D\u00e9partement*: departement[int]\n- *D\u00e9partement commune*: departement_commune[int]\n- *Libell\u00e9 de commune*: libelle_de_commune[text]\n- *Arrondissement*: arrondissement[int]\n- *Canton ville*: canton_ville[int]\n- *Zone d'emploi*: zone_d_emploi[int]\n- *Unit\u00e9 urbaine*: unite_urbaine[int]\n- *Population 2010*: population_2010[int]\n- *M\u00e9decin omnipraticien*: medecin_omnipraticien[int]\n- *Sp\u00e9cialiste en cardiologie*: specialiste_en_cardiologie[int]\n- *Sp\u00e9cialiste en dermatologie v\u00e9n\u00e9r\u00e9ologie*: specialiste_en_dermatologie_venereologie[int]\n- *Sp\u00e9cialiste en gyn\u00e9cologie m\u00e9dicale*: specialiste_en_gynecologie_medicale[int]\n- *Sp\u00e9cialiste en gyn\u00e9cologie obst\u00e9trique*: specialiste_en_gynecologie_obstetrique[int]\n- *Sp\u00e9cialiste en gastro-ent\u00e9rologie h\u00e9patologie*: specialiste_en_gastro_enterologie_hepatologie[int]\n- *Sp\u00e9cialiste en psychiatrie*: specialiste_en_psychiatrie[int]\n- *Sp\u00e9cialiste en ophtalmologie*: specialiste_en_ophtalmologie[int]\n- *Sp\u00e9cialiste en oto-rhino-laryngologie*: specialiste_en_oto_rhino_laryngologie[int]\n- *Sp\u00e9cialiste en p\u00e9diatrie*: specialiste_en_pediatrie[int]\n- *Sp\u00e9cialiste en pneumologie*: specialiste_en_pneumologie[int]\n- *Sp\u00e9cialiste en radiodiagnostic et imagerie m\u00e9dicale*: specialiste_en_radiodiagnostic_et_imagerie_medicale[int]\n- *Sp\u00e9cialiste en stomatologie*: specialiste_en_stomatologie[int]\n- *Chirurgien dentiste*: chirurgien_dentiste[int]\n- *Sage-femme*: sage_femme[int]\n- *Infirmier*: infirmier[int]\n- *Masseur kin\u00e9sith\u00e9rapeute*: masseur_kinesitherapeute[int]\n- *Orthophoniste*: orthophoniste[int]\n- *Orthoptiste*: orthoptiste[int]\n- *P\u00e9dicure-podologue*: pedicure_podologue[int]\n- *Audio proth\u00e9siste*: audio_prothesiste[int]\n- *Ergoth\u00e9rapeute*: ergotherapeute[int]\n- *Psychomotricien*: psychomotricien[int]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n- *geo_shape*: geo_shape[geo_shape]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "8b573baa-149e-4301-b54f-6aea5a254ed8",
+      "last_modified": "2014-03-24T22:50:43",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8b573baa-149e-4301-b54f-6aea5a254ed8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:37:55.179000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/nombre-de-fonctions-medicales-et-paramedicales-par-commune-ou-arrondissement-bas/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:37:55.180000",
+      "description": "- *D\u00e9partement*: departement[int]\n- *D\u00e9partement commune*: departement_commune[int]\n- *Libell\u00e9 de commune*: libelle_de_commune[text]\n- *Arrondissement*: arrondissement[int]\n- *Canton ville*: canton_ville[int]\n- *Zone d'emploi*: zone_d_emploi[int]\n- *Unit\u00e9 urbaine*: unite_urbaine[int]\n- *Population 2010*: population_2010[int]\n- *M\u00e9decin omnipraticien*: medecin_omnipraticien[int]\n- *Sp\u00e9cialiste en cardiologie*: specialiste_en_cardiologie[int]\n- *Sp\u00e9cialiste en dermatologie v\u00e9n\u00e9r\u00e9ologie*: specialiste_en_dermatologie_venereologie[int]\n- *Sp\u00e9cialiste en gyn\u00e9cologie m\u00e9dicale*: specialiste_en_gynecologie_medicale[int]\n- *Sp\u00e9cialiste en gyn\u00e9cologie obst\u00e9trique*: specialiste_en_gynecologie_obstetrique[int]\n- *Sp\u00e9cialiste en gastro-ent\u00e9rologie h\u00e9patologie*: specialiste_en_gastro_enterologie_hepatologie[int]\n- *Sp\u00e9cialiste en psychiatrie*: specialiste_en_psychiatrie[int]\n- *Sp\u00e9cialiste en ophtalmologie*: specialiste_en_ophtalmologie[int]\n- *Sp\u00e9cialiste en oto-rhino-laryngologie*: specialiste_en_oto_rhino_laryngologie[int]\n- *Sp\u00e9cialiste en p\u00e9diatrie*: specialiste_en_pediatrie[int]\n- *Sp\u00e9cialiste en pneumologie*: specialiste_en_pneumologie[int]\n- *Sp\u00e9cialiste en radiodiagnostic et imagerie m\u00e9dicale*: specialiste_en_radiodiagnostic_et_imagerie_medicale[int]\n- *Sp\u00e9cialiste en stomatologie*: specialiste_en_stomatologie[int]\n- *Chirurgien dentiste*: chirurgien_dentiste[int]\n- *Sage-femme*: sage_femme[int]\n- *Infirmier*: infirmier[int]\n- *Masseur kin\u00e9sith\u00e9rapeute*: masseur_kinesitherapeute[int]\n- *Orthophoniste*: orthophoniste[int]\n- *Orthoptiste*: orthoptiste[int]\n- *P\u00e9dicure-podologue*: pedicure_podologue[int]\n- *Audio proth\u00e9siste*: audio_prothesiste[int]\n- *Ergoth\u00e9rapeute*: ergotherapeute[int]\n- *Psychomotricien*: psychomotricien[int]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n- *geo_shape*: geo_shape[geo_shape]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "f84b2fe3-f558-4c00-bd4d-b81aaf0666ef",
+      "last_modified": "2014-03-24T22:50:43",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f84b2fe3-f558-4c00-bd4d-b81aaf0666ef",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:37:55.180000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/nombre-de-fonctions-medicales-et-paramedicales-par-commune-ou-arrondissement-bas/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:37:55.180000",
+      "description": "- *D\u00e9partement*: departement[int]\n- *D\u00e9partement commune*: departement_commune[int]\n- *Libell\u00e9 de commune*: libelle_de_commune[text]\n- *Arrondissement*: arrondissement[int]\n- *Canton ville*: canton_ville[int]\n- *Zone d'emploi*: zone_d_emploi[int]\n- *Unit\u00e9 urbaine*: unite_urbaine[int]\n- *Population 2010*: population_2010[int]\n- *M\u00e9decin omnipraticien*: medecin_omnipraticien[int]\n- *Sp\u00e9cialiste en cardiologie*: specialiste_en_cardiologie[int]\n- *Sp\u00e9cialiste en dermatologie v\u00e9n\u00e9r\u00e9ologie*: specialiste_en_dermatologie_venereologie[int]\n- *Sp\u00e9cialiste en gyn\u00e9cologie m\u00e9dicale*: specialiste_en_gynecologie_medicale[int]\n- *Sp\u00e9cialiste en gyn\u00e9cologie obst\u00e9trique*: specialiste_en_gynecologie_obstetrique[int]\n- *Sp\u00e9cialiste en gastro-ent\u00e9rologie h\u00e9patologie*: specialiste_en_gastro_enterologie_hepatologie[int]\n- *Sp\u00e9cialiste en psychiatrie*: specialiste_en_psychiatrie[int]\n- *Sp\u00e9cialiste en ophtalmologie*: specialiste_en_ophtalmologie[int]\n- *Sp\u00e9cialiste en oto-rhino-laryngologie*: specialiste_en_oto_rhino_laryngologie[int]\n- *Sp\u00e9cialiste en p\u00e9diatrie*: specialiste_en_pediatrie[int]\n- *Sp\u00e9cialiste en pneumologie*: specialiste_en_pneumologie[int]\n- *Sp\u00e9cialiste en radiodiagnostic et imagerie m\u00e9dicale*: specialiste_en_radiodiagnostic_et_imagerie_medicale[int]\n- *Sp\u00e9cialiste en stomatologie*: specialiste_en_stomatologie[int]\n- *Chirurgien dentiste*: chirurgien_dentiste[int]\n- *Sage-femme*: sage_femme[int]\n- *Infirmier*: infirmier[int]\n- *Masseur kin\u00e9sith\u00e9rapeute*: masseur_kinesitherapeute[int]\n- *Orthophoniste*: orthophoniste[int]\n- *Orthoptiste*: orthoptiste[int]\n- *P\u00e9dicure-podologue*: pedicure_podologue[int]\n- *Audio proth\u00e9siste*: audio_prothesiste[int]\n- *Ergoth\u00e9rapeute*: ergotherapeute[int]\n- *Psychomotricien*: psychomotricien[int]\n- *geo_point_2d*: geo_point_2d[geo_point_2d]\n- *geo_shape*: geo_shape[geo_shape]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "1a0c9865-2195-4c02-bd6a-4a5c792490a2",
+      "last_modified": "2014-03-24T22:50:43",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1a0c9865-2195-4c02-bd6a-4a5c792490a2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:37:55.180000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.iledefrance.fr//explore/dataset/nombre-de-fonctions-medicales-et-paramedicales-par-commune-ou-arrondissement-bas/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "nombre-de-fonctions-medicales-et-paramedicales-par-commune-ou-arrondissement-base-permanente-des-equipements",
+  "spatial": null,
+  "tags": [
+    "geolocalisation",
+    "logement-sante-social",
+    "sante"
+  ],
+  "temporal_coverage": null,
+  "title": "Nombre de fonctions m\u00e9dicales et param\u00e9dicales par commune ou arrondissement (base permanente des \u00e9quipements)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/nombre-de-fonctions-medicales-et-paramedicales-par-commune-ou-arrondissement-base-permanente-des-equipements/"
+}

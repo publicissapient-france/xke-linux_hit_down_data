@@ -1,0 +1,97 @@
+{
+  "badges": [],
+  "created_at": "2017-06-12T00:00:00",
+  "deleted": null,
+  "description": "Avec ce dispositif, le Conseil G\u00e9n\u00e9ral propose aux jeunes de d\u00e9couvrir la Gironde de diff\u00e9rentes mani\u00e8res : vue du ciel, dans l'eau ou par ses chemins de terre, voire depuis les branches des arbres !Les Aventures Gironde fonctionnent durant la p\u00e9riode des vacances d'\u00e9t\u00e9. Ils permettent aux structures associatives, communales et intercommunales de Gironde, en charge de l'animation des jeunes durant les mois de juillet et ao\u00fbt, de leur proposer des activit\u00e9s sportives de pleine nature dans les lieux d'int\u00e9r\u00eat.",
+  "extras": {
+    "ckan:name": "liste-des-aventures-gironde",
+    "contact_email": "mailto:dgaj-dsa@cg33.fr",
+    "contact_name": "Direction des sports et de la vie associative",
+    "contact_uri": "https://datacat.datalocale.fr/414725",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+    "guid": "https://datacat.datalocale.fr/415642",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-07-07T06:07:48.705023",
+    "harvest:remote_id": "7b3bb896-8eac-4748-812c-cc8208b13649",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "7ca71a0f-6bc5-45a3-b842-2f97e58b3529",
+    "issued": "2012-12-28T15:22:13+00:00",
+    "modified": "2016-07-25T09:42:38.049473+00:00",
+    "publisher_email": "mailto:t.trijoulet@cg33.fr",
+    "publisher_name": "DSA-BAG",
+    "publisher_uri": "https://datacat.datalocale.fr/414724",
+    "remote_url": "http://www.gironde.fr/jcms/cgw_40286/points-forts-aventures-gironde",
+    "theme": "[\"sport\"]",
+    "uri": "https://datacat.datalocale.fr/415642"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59592330a3a7291dd09c81a5",
+  "last_modified": "2017-07-07T06:07:48.706000",
+  "last_update": "2017-07-02T18:45:36.123000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-aventures-gironde-1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:45:36.123000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T05:19:48.819000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415644/raw/2013-01-14-170015LISTE_AG_CG33.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "73882eb4-e1c9-4e89-82e7-9c7d075fe370",
+      "last_modified": "2017-07-07T06:07:48.704000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/73882eb4-e1c9-4e89-82e7-9c7d075fe370",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T18:45:36.123000",
+      "title": "liste au format csv des dispositifs d'animation sportive propos\u00e9es par le d\u00e9partement de la Gironde",
+      "url": "https://datacat.datalocale.fr/file/415644/raw/2013-01-14-170015LISTE_AG_CG33.csv"
+    }
+  ],
+  "slug": "liste-des-aventures-gironde-1",
+  "spatial": null,
+  "tags": [
+    "animation",
+    "conseil-departemental",
+    "gironde",
+    "sport"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des aventures gironde",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-aventures-gironde-1/"
+}

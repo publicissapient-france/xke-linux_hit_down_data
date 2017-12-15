@@ -1,0 +1,147 @@
+{
+  "badges": [],
+  "created_at": "2017-04-14T06:05:33.385000",
+  "deleted": null,
+  "description": "**Ce jeu de donn\u00e9es indique par ann\u00e9e la teneur moyenne en nitrates relev\u00e9e sur le point de mesure \u00e9chantillonn\u00e9, \u00e0 l\u2019aide de classes de qualit\u00e9 allant de \u00ab moins de 10 mg/L \u00bb \u00e0 \u00ab plus de 50 mg/L \u00bb.**\n\n **Sources** : **agences et offices de l\u2019eau**\n\nLes donn\u00e9es source proviennent de la surveillance patrimoniale des milieux aquatiques plac\u00e9e sous la responsabilit\u00e9 des agences et offices de l\u2019eau.\n\n **M\u00e9thodologie**\n\nCet indicateur repr\u00e9sente la concentration moyenne annuelle en nitrates calcul\u00e9e au point de mesure en cours d\u2019eau, class\u00e9e \u00e0 l\u2019aide de 4 seuils :\n\n  * moins de 10 mg/l : concentration faible, d\u2019ordre de grandeur naturelle\n  * entre 10 et 25 mg/l : concentration indiquant une qualit\u00e9 moyenne\n  * entre 25 et 40 mg/l : concentration \u00e9lev\u00e9e favorisant le ph\u00e9nom\u00e8ne d\u2019eutrophisation\n  * entre 40 et 50 mg/l : concentration alarmante\n  * plus de 50 mg/l : concentration non conforme avec le bon \u00e9tat exig\u00e9 par la directive-cadre sur l\u2019eau\n\n\n\nPour cela, tous les points de mesure issus de la surveillance des cours d\u2019eau mis en \u0153uvre sous la responsabilit\u00e9 des agences et offices de l\u2019Eau ont \u00e9t\u00e9 s\u00e9lectionn\u00e9s. En France m\u00e9tropolitaine, seuls les points pr\u00e9sentant plus de 4 analyses dans l\u2019ann\u00e9e ont \u00e9t\u00e9 consid\u00e9r\u00e9s. Ce crit\u00e8re n\u2019a pas \u00e9t\u00e9 appliqu\u00e9 sur les points outre-mer car trop restrictif.\n\n **Pr\u00e9cautions d'emploi**\n\nMise en garde : une grande majorit\u00e9 des points de mesure des bassins Seine-Normandie en 2008, en Adour-Garonne en 2010 et en Rhin-Meuse en 2014 ne disposent que de donn\u00e9es partielles sur l\u2019ann\u00e9e consid\u00e9r\u00e9e. Les moyennes respectives sont donc \u00e0 consid\u00e9rer avec pr\u00e9caution.",
+  "extras": {
+    "harvest:domain": "opendata.lillemetropole.fr",
+    "harvest:last_update": "2017-11-27T05:28:20.458922",
+    "harvest:remote_id": "qualite-des-eaux-superficielles-vis-a-vis-des-nitrates-en-2013-et-2014",
+    "harvest:source_id": "58b68fdcc751df10ea84f9cc",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.lillemetropole.fr//explore/dataset/qualite-des-eaux-superficielles-vis-a-vis-des-nitrates-en-2013-et-2014/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "58f04a8da3a7293d4ac4e1ba",
+  "last_modified": "2017-11-27T05:28:20.461000",
+  "last_update": "2017-11-27T05:28:20.458000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "MEL",
+    "class": "Organization",
+    "id": "58b69c62c751df4b175dd7a4",
+    "logo": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-100.png",
+    "name": "M\u00e9tropole Europ\u00e9enne de Lille ",
+    "page": "https://www.data.gouv.fr/fr/organizations/metropole-europeenne-de-lille/",
+    "slug": "metropole-europeenne-de-lille",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/metropole-europeenne-de-lille/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/qualite-des-eaux-superficielles-vis-a-vis-des-nitrates-en-2013-et-2014/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:28:20.457000",
+      "description": "- *code_com*: code_com[text]\n- *nom_com*: nom_com[text]\n- *annee*: annee[text]\n- *classe associ\u00e9e*: classe_associee[text]\n- *nb_analyses_station*: nb_analyses_station[int]\n- *concentration_max*: concentration_max[double]\n- *concentration_moyenne*: concentration_moyenne[double]\n- *code_station*: code_station[text]\n- *libelle_station*: libelle_station[text]\n- *Geo Point*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c0c173c5-eb01-4191-abbb-271113cbf689",
+      "last_modified": "2017-04-13T13:12:12",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c0c173c5-eb01-4191-abbb-271113cbf689",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:28:20.457000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/qualite-des-eaux-superficielles-vis-a-vis-des-nitrates-en-2013-et-2014/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:28:20.457000",
+      "description": "- *code_com*: code_com[text]\n- *nom_com*: nom_com[text]\n- *annee*: annee[text]\n- *classe associ\u00e9e*: classe_associee[text]\n- *nb_analyses_station*: nb_analyses_station[int]\n- *concentration_max*: concentration_max[double]\n- *concentration_moyenne*: concentration_moyenne[double]\n- *code_station*: code_station[text]\n- *libelle_station*: libelle_station[text]\n- *Geo Point*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "f34537f1-e1b1-495c-bcde-21ea19328d30",
+      "last_modified": "2017-04-13T13:12:12",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f34537f1-e1b1-495c-bcde-21ea19328d30",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:28:20.457000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/qualite-des-eaux-superficielles-vis-a-vis-des-nitrates-en-2013-et-2014/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:28:20.458000",
+      "description": "- *code_com*: code_com[text]\n- *nom_com*: nom_com[text]\n- *annee*: annee[text]\n- *classe associ\u00e9e*: classe_associee[text]\n- *nb_analyses_station*: nb_analyses_station[int]\n- *concentration_max*: concentration_max[double]\n- *concentration_moyenne*: concentration_moyenne[double]\n- *code_station*: code_station[text]\n- *libelle_station*: libelle_station[text]\n- *Geo Point*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "c70fe2af-16cc-4ea3-9d51-2f0196abc519",
+      "last_modified": "2017-04-13T13:12:12",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c70fe2af-16cc-4ea3-9d51-2f0196abc519",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:28:20.458000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/qualite-des-eaux-superficielles-vis-a-vis-des-nitrates-en-2013-et-2014/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:28:20.458000",
+      "description": "- *code_com*: code_com[text]\n- *nom_com*: nom_com[text]\n- *annee*: annee[text]\n- *classe associ\u00e9e*: classe_associee[text]\n- *nb_analyses_station*: nb_analyses_station[int]\n- *concentration_max*: concentration_max[double]\n- *concentration_moyenne*: concentration_moyenne[double]\n- *code_station*: code_station[text]\n- *libelle_station*: libelle_station[text]\n- *Geo Point*: geo_point_2d[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "56b8d28e-7270-40df-82c2-8c522583455d",
+      "last_modified": "2017-04-13T13:12:12",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/56b8d28e-7270-40df-82c2-8c522583455d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:28:20.458000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/qualite-des-eaux-superficielles-vis-a-vis-des-nitrates-en-2013-et-2014/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "qualite-des-eaux-superficielles-vis-a-vis-des-nitrates-en-2013-et-2014",
+  "spatial": null,
+  "tags": [
+    "cours-deau",
+    "eau",
+    "environnement",
+    "nitrates",
+    "qualite"
+  ],
+  "temporal_coverage": null,
+  "title": "Qualit\u00e9 des eaux superficielles vis-\u00e0-vis des nitrates en 2013 et 2014",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/qualite-des-eaux-superficielles-vis-a-vis-des-nitrates-en-2013-et-2014/"
+}

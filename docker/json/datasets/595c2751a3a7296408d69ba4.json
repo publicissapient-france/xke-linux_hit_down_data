@@ -1,0 +1,147 @@
+{
+  "badges": [],
+  "created_at": "2017-07-05T01:40:01.960000",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es indique les places disponibles dans les parkings Indigo situ\u00e9s \u00e0 Issy-les-Moulineaux.",
+  "extras": {
+    "harvest:domain": "data.issy.com",
+    "harvest:last_update": "2017-11-27T05:06:50.099335",
+    "harvest:remote_id": "park-indigo-disponibilite-temps-reel",
+    "harvest:source_id": "595c266188ee382c7517add5",
+    "ods:has_records": true,
+    "ods:url": "https://data.issy.com//explore/dataset/park-indigo-disponibilite-temps-reel/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "595c2751a3a7296408d69ba4",
+  "last_modified": "2017-11-27T05:06:50.117000",
+  "last_update": "2017-11-27T05:06:50.098000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb7a3a7292c64a78145",
+    "logo": "https://www.data.gouv.fr/s/avatars/b9/beecacecbd4d42ac10ef244f11e44e-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b9/beecacecbd4d42ac10ef244f11e44e-100.png",
+    "name": "Ville d'Issy-les-Moulineaux",
+    "page": "https://www.data.gouv.fr/fr/organizations/ville-d-issy-les-moulineaux/",
+    "slug": "ville-d-issy-les-moulineaux",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ville-d-issy-les-moulineaux/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/disponibilite-temps-reel-des-places-dans-les-parkings-indigo/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:06:50.096000",
+      "description": "- *Parking ID*: parking_id[text]\n- *Status*: value_status[text]\n- *Place libres*: value_free_spots[int]\n- *Nombre de places contractuelles*: nombre_de_places_contractuelles[double]\n- *Taux de remplissage*: remplissage[double]\n- *Updated At*: value_updated_at[datetime]\n- *Ville*: ville[text]\n- *Nom*: name[text]\n- *geo*: geo[geo_point_2d]\n- *Adresse  Situation 1*: adresse_situation_1[text]\n- *CP*: c_p_situation[text]\n- *Adresse  Situation 2*: adresse_situation_2[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "719708e3-bea4-414c-b280-47361187c1c2",
+      "last_modified": "2017-04-14T15:08:09",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/719708e3-bea4-414c-b280-47361187c1c2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:06:50.096000",
+      "title": "Export au format CSV",
+      "url": "https://data.issy.com//explore/dataset/park-indigo-disponibilite-temps-reel/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:06:50.097000",
+      "description": "- *Parking ID*: parking_id[text]\n- *Status*: value_status[text]\n- *Place libres*: value_free_spots[int]\n- *Nombre de places contractuelles*: nombre_de_places_contractuelles[double]\n- *Taux de remplissage*: remplissage[double]\n- *Updated At*: value_updated_at[datetime]\n- *Ville*: ville[text]\n- *Nom*: name[text]\n- *geo*: geo[geo_point_2d]\n- *Adresse  Situation 1*: adresse_situation_1[text]\n- *CP*: c_p_situation[text]\n- *Adresse  Situation 2*: adresse_situation_2[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "035a881c-6901-4cf3-a181-7b5ca67e0d64",
+      "last_modified": "2017-04-14T15:08:09",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/035a881c-6901-4cf3-a181-7b5ca67e0d64",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:06:50.097000",
+      "title": "Export au format JSON",
+      "url": "https://data.issy.com//explore/dataset/park-indigo-disponibilite-temps-reel/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:06:50.097000",
+      "description": "- *Parking ID*: parking_id[text]\n- *Status*: value_status[text]\n- *Place libres*: value_free_spots[int]\n- *Nombre de places contractuelles*: nombre_de_places_contractuelles[double]\n- *Taux de remplissage*: remplissage[double]\n- *Updated At*: value_updated_at[datetime]\n- *Ville*: ville[text]\n- *Nom*: name[text]\n- *geo*: geo[geo_point_2d]\n- *Adresse  Situation 1*: adresse_situation_1[text]\n- *CP*: c_p_situation[text]\n- *Adresse  Situation 2*: adresse_situation_2[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "76474a8d-07bd-45eb-babf-64736fc9b2de",
+      "last_modified": "2017-04-14T15:08:09",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/76474a8d-07bd-45eb-babf-64736fc9b2de",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:06:50.098000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.issy.com//explore/dataset/park-indigo-disponibilite-temps-reel/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:06:50.098000",
+      "description": "- *Parking ID*: parking_id[text]\n- *Status*: value_status[text]\n- *Place libres*: value_free_spots[int]\n- *Nombre de places contractuelles*: nombre_de_places_contractuelles[double]\n- *Taux de remplissage*: remplissage[double]\n- *Updated At*: value_updated_at[datetime]\n- *Ville*: ville[text]\n- *Nom*: name[text]\n- *geo*: geo[geo_point_2d]\n- *Adresse  Situation 1*: adresse_situation_1[text]\n- *CP*: c_p_situation[text]\n- *Adresse  Situation 2*: adresse_situation_2[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "0da5f843-3f91-4c51-bfa9-a198bc7056e8",
+      "last_modified": "2017-04-14T15:08:09",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0da5f843-3f91-4c51-bfa9-a198bc7056e8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:06:50.098000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.issy.com//explore/dataset/park-indigo-disponibilite-temps-reel/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "disponibilite-temps-reel-des-places-dans-les-parkings-indigo",
+  "spatial": null,
+  "tags": [
+    "deplacements",
+    "indigo",
+    "parking",
+    "stationnement",
+    "temps-reel",
+    "transports"
+  ],
+  "temporal_coverage": null,
+  "title": "Disponibilit\u00e9 temps r\u00e9el des places dans les parkings Indigo",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/disponibilite-temps-reel-des-places-dans-les-parkings-indigo/"
+}

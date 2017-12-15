@@ -1,0 +1,145 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T17:11:08.339000",
+  "deleted": null,
+  "description": "Fontaines sur l'espace public.\u00a0\n\n **/!\\ Toutes les fontaines\u00a0ne sont pas potables** /!\\\u00a0\n\n **L'attribut \u00ab A_BOIRE \u00bb (=1) signifie que la fontaine est potable**",
+  "extras": {
+    "harvest:domain": "opendata.paris.fr",
+    "harvest:last_update": "2017-11-27T05:10:04.506420",
+    "harvest:remote_id": "fontaines-a-boire",
+    "harvest:source_id": "5631ef2988ee3837ce531585",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.paris.fr/explore/dataset/fontaines-a-boire/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59590d0ca3a7291dd09c7fee",
+  "last_modified": "2017-11-27T05:10:04.509000",
+  "last_update": "2017-11-27T05:10:04.505000",
+  "license": "odc-odbl",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff89a3a7292c64a77eb7",
+    "logo": "https://www.data.gouv.fr/s/avatars/b2/0e83ec3699415a87640e97c51cb006-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b2/0e83ec3699415a87640e97c51cb006-100.png",
+    "name": "Mairie de Paris",
+    "page": "https://www.data.gouv.fr/fr/organizations/mairie-de-paris/",
+    "slug": "mairie-de-paris",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/mairie-de-paris/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/fontaines-3/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:10:04.505000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *ID*: id[double]\n- *GEST*: gest[text]\n- *NUM*: num[text]\n- *Localisati*: localisati[text]\n- *ADR_S*: adr_s[text]\n- *dep*: dep[double]\n- *ARRO*: arro[int]\n- *MODELE*: modele[text]\n- *NB*: nb[double]\n- *TYPE_ENP*: type_enp[text]\n- *CLASSEE*: classee[text]\n- *COMPTEUR*: compteur[text]\n- *OUV_HIVER*: ouv_hiver[text]\n- *SDF*: sdf[text]\n- *EN_SERVICE*: en_service[text]\n- *COMM*: comm[text]\n- *ADR_APUR*: adr_apur[text]\n- *ARR*: arr[double]\n- *code*: code[double]\n- *CFA*: cfa[text]\n- *NUM1*: num1[text]\n- *LET*: let[text]\n- *TYPV*: typv[text]\n- *LIBV*: libv[text]\n- *CLE*: cle[text]\n- *num_ox*: num_ox[text]\n- *ARRO1*: arro1[double]\n- *QUA*: qua[double]\n- *A_BOIRE*: a_boire[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "d5cb6348-5825-4a42-a1b1-e87037b6b6fa",
+      "last_modified": "2017-06-12T08:44:03",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d5cb6348-5825-4a42-a1b1-e87037b6b6fa",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:10:04.505000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.paris.fr/explore/dataset/fontaines-a-boire/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:10:04.505000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *ID*: id[double]\n- *GEST*: gest[text]\n- *NUM*: num[text]\n- *Localisati*: localisati[text]\n- *ADR_S*: adr_s[text]\n- *dep*: dep[double]\n- *ARRO*: arro[int]\n- *MODELE*: modele[text]\n- *NB*: nb[double]\n- *TYPE_ENP*: type_enp[text]\n- *CLASSEE*: classee[text]\n- *COMPTEUR*: compteur[text]\n- *OUV_HIVER*: ouv_hiver[text]\n- *SDF*: sdf[text]\n- *EN_SERVICE*: en_service[text]\n- *COMM*: comm[text]\n- *ADR_APUR*: adr_apur[text]\n- *ARR*: arr[double]\n- *code*: code[double]\n- *CFA*: cfa[text]\n- *NUM1*: num1[text]\n- *LET*: let[text]\n- *TYPV*: typv[text]\n- *LIBV*: libv[text]\n- *CLE*: cle[text]\n- *num_ox*: num_ox[text]\n- *ARRO1*: arro1[double]\n- *QUA*: qua[double]\n- *A_BOIRE*: a_boire[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "d141e4e1-95b4-4dda-bfbe-0e77954ea406",
+      "last_modified": "2017-06-12T08:44:03",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d141e4e1-95b4-4dda-bfbe-0e77954ea406",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:10:04.505000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.paris.fr/explore/dataset/fontaines-a-boire/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:10:04.505000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *ID*: id[double]\n- *GEST*: gest[text]\n- *NUM*: num[text]\n- *Localisati*: localisati[text]\n- *ADR_S*: adr_s[text]\n- *dep*: dep[double]\n- *ARRO*: arro[int]\n- *MODELE*: modele[text]\n- *NB*: nb[double]\n- *TYPE_ENP*: type_enp[text]\n- *CLASSEE*: classee[text]\n- *COMPTEUR*: compteur[text]\n- *OUV_HIVER*: ouv_hiver[text]\n- *SDF*: sdf[text]\n- *EN_SERVICE*: en_service[text]\n- *COMM*: comm[text]\n- *ADR_APUR*: adr_apur[text]\n- *ARR*: arr[double]\n- *code*: code[double]\n- *CFA*: cfa[text]\n- *NUM1*: num1[text]\n- *LET*: let[text]\n- *TYPV*: typv[text]\n- *LIBV*: libv[text]\n- *CLE*: cle[text]\n- *num_ox*: num_ox[text]\n- *ARRO1*: arro1[double]\n- *QUA*: qua[double]\n- *A_BOIRE*: a_boire[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "091a5853-5501-41b5-92cf-fae044c4c89a",
+      "last_modified": "2017-06-12T08:44:03",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/091a5853-5501-41b5-92cf-fae044c4c89a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:10:04.505000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.paris.fr/explore/dataset/fontaines-a-boire/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:10:04.505000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *ID*: id[double]\n- *GEST*: gest[text]\n- *NUM*: num[text]\n- *Localisati*: localisati[text]\n- *ADR_S*: adr_s[text]\n- *dep*: dep[double]\n- *ARRO*: arro[int]\n- *MODELE*: modele[text]\n- *NB*: nb[double]\n- *TYPE_ENP*: type_enp[text]\n- *CLASSEE*: classee[text]\n- *COMPTEUR*: compteur[text]\n- *OUV_HIVER*: ouv_hiver[text]\n- *SDF*: sdf[text]\n- *EN_SERVICE*: en_service[text]\n- *COMM*: comm[text]\n- *ADR_APUR*: adr_apur[text]\n- *ARR*: arr[double]\n- *code*: code[double]\n- *CFA*: cfa[text]\n- *NUM1*: num1[text]\n- *LET*: let[text]\n- *TYPV*: typv[text]\n- *LIBV*: libv[text]\n- *CLE*: cle[text]\n- *num_ox*: num_ox[text]\n- *ARRO1*: arro1[double]\n- *QUA*: qua[double]\n- *A_BOIRE*: a_boire[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "49c7a578-078b-4a07-8314-0a8a4403242c",
+      "last_modified": "2017-06-12T08:44:03",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/49c7a578-078b-4a07-8314-0a8a4403242c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:10:04.505000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.paris.fr/explore/dataset/fontaines-a-boire/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "fontaines-3",
+  "spatial": null,
+  "tags": [
+    "eau",
+    "eau-potable",
+    "fontaine",
+    "mobilite-et-espace-public"
+  ],
+  "temporal_coverage": null,
+  "title": "Fontaines",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/fontaines-3/"
+}

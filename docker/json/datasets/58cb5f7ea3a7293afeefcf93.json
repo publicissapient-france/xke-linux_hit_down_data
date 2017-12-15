@@ -1,0 +1,151 @@
+{
+  "badges": [],
+  "created_at": "2017-03-17T05:01:02.935000",
+  "deleted": null,
+  "description": "Ce fichier pr\u00e9sente, pour la France M\u00e9tropolitaine, l'ensemble des points de passages appartenant aux lignes\u00a0souterraines du r\u00e9seau public de transport d'\u00e9lectricit\u00e9 g\u00e9r\u00e9 par RTE.\n\nUn point de passage souterrain mat\u00e9rialise une \"jonction de puissance\". (par exemple: jonction entre deux c\u00e2bles).\n\n ~~  \n~~\n\nEn pi\u00e8ce jointe vous trouverez un fichier listant les points de passage souterrains. Il s'agit d'un fichier au format SHAPE FILE\n\n(RGF 93 Lambert 93) utilisable dans un syst\u00e8me d'information g\u00e9ographique (SIG).\n\n _\u00ab Ce jeu de donn\u00e9es est partag\u00e9 dans le cadre de la directive n\u00b0 2007/2/CE du Parlement europ\u00e9en et du Conseil du 14 mars 2007 dite \u00ab INSPIRE \u00bb \u00e9tablissant une infrastructure d'information g\u00e9ographique dans la Communaut\u00e9 europ\u00e9enne. La directive INSPIRE s\u2019applique aux donn\u00e9es g\u00e9ographiques num\u00e9riques d\u00e9tenues par des autorit\u00e9s publiques et impose de mettre \u00e0 disposition les donn\u00e9es conform\u00e9ment \u00e0 des sp\u00e9cifications techniques harmonis\u00e9es. \u00bb_\n\n _Pour tous renseignements compl\u00e9mentaires sur la directive INSPIRE, \u00e9crivez \u00e0:[rte-inspire-infos@rte-france.com](mailto:rte-inspire-infos@rte-france.com)_\n\n _ _La publication de ce jeu de donn\u00e9es n'exon\u00e8re pas l'utilisateur de son obligation r\u00e9glementaire au titre du d\u00e9cret anti-endommagement (DT/DICT) en cas de travaux.__\n\n __\n\n__",
+  "extras": {
+    "harvest:domain": "opendata.lillemetropole.fr",
+    "harvest:last_update": "2017-11-27T05:28:22.428809",
+    "harvest:remote_id": "points-de-passage-souterrains",
+    "harvest:source_id": "58b68fdcc751df10ea84f9cc",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.lillemetropole.fr//explore/dataset/points-de-passage-souterrains/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "58cb5f7ea3a7293afeefcf93",
+  "last_modified": "2017-11-27T05:28:22.430000",
+  "last_update": "2017-11-27T05:28:22.428000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "MEL",
+    "class": "Organization",
+    "id": "58b69c62c751df4b175dd7a4",
+    "logo": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/ae/7ec709120947b49d45ced43ae069d1-100.png",
+    "name": "M\u00e9tropole Europ\u00e9enne de Lille ",
+    "page": "https://www.data.gouv.fr/fr/organizations/metropole-europeenne-de-lille/",
+    "slug": "metropole-europeenne-de-lille",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/metropole-europeenne-de-lille/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/points-de-passage-souterrains-du-reseau-rte-sur-le-territoire-de-la-mel/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:28:22.427000",
+      "description": "- *Type d'ouvrage*: type_ouvrage[text]\n- *Etat*: etat[text] Indique si le tron\u00e7on au quel appartient le point de passage est en exploitation ou non.\nLe terme \"accord administratif\" signifie que la ligne est en projet et dispose d'une autorisation administrative. Il peut s'agir, par exemple d'une D\u00e9claration d'Utilit\u00e9 Publique (DUP).\n- *Codification de la ligne*: identification[text]\n- *Nom de la ligne*: nom_ouvrage[text]\n- *Source des donn\u00e9es*: mode_acquisition[text] Indique qui fournit les coordonn\u00e9es g\u00e9ographiques\n- *Longitude du Pt de passage (DD)*: e_dd[double] Longitude du point de passage en Degr\u00e9s D\u00e9cimaux (DD)\n- *Latitude du Pt de passage (DD)*: n_dd[double] Latitude du point de passage en Degr\u00e9s D\u00e9cimaux (DD)\n- *geoshape*: geoshape[geo_point_2d] Coordonn\u00e9es g\u00e9ographiques du point de passge\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "162f4add-1efb-4c94-aa9b-ed47d747ec66",
+      "last_modified": "2017-03-16T09:43:02",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/162f4add-1efb-4c94-aa9b-ed47d747ec66",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:28:22.427000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/points-de-passage-souterrains/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:28:22.427000",
+      "description": "- *Type d'ouvrage*: type_ouvrage[text]\n- *Etat*: etat[text] Indique si le tron\u00e7on au quel appartient le point de passage est en exploitation ou non.\nLe terme \"accord administratif\" signifie que la ligne est en projet et dispose d'une autorisation administrative. Il peut s'agir, par exemple d'une D\u00e9claration d'Utilit\u00e9 Publique (DUP).\n- *Codification de la ligne*: identification[text]\n- *Nom de la ligne*: nom_ouvrage[text]\n- *Source des donn\u00e9es*: mode_acquisition[text] Indique qui fournit les coordonn\u00e9es g\u00e9ographiques\n- *Longitude du Pt de passage (DD)*: e_dd[double] Longitude du point de passage en Degr\u00e9s D\u00e9cimaux (DD)\n- *Latitude du Pt de passage (DD)*: n_dd[double] Latitude du point de passage en Degr\u00e9s D\u00e9cimaux (DD)\n- *geoshape*: geoshape[geo_point_2d] Coordonn\u00e9es g\u00e9ographiques du point de passge\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "65c19a52-a7ab-4cc8-80b4-06a1fe8bb71f",
+      "last_modified": "2017-03-16T09:43:02",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/65c19a52-a7ab-4cc8-80b4-06a1fe8bb71f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:28:22.427000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/points-de-passage-souterrains/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:28:22.428000",
+      "description": "- *Type d'ouvrage*: type_ouvrage[text]\n- *Etat*: etat[text] Indique si le tron\u00e7on au quel appartient le point de passage est en exploitation ou non.\nLe terme \"accord administratif\" signifie que la ligne est en projet et dispose d'une autorisation administrative. Il peut s'agir, par exemple d'une D\u00e9claration d'Utilit\u00e9 Publique (DUP).\n- *Codification de la ligne*: identification[text]\n- *Nom de la ligne*: nom_ouvrage[text]\n- *Source des donn\u00e9es*: mode_acquisition[text] Indique qui fournit les coordonn\u00e9es g\u00e9ographiques\n- *Longitude du Pt de passage (DD)*: e_dd[double] Longitude du point de passage en Degr\u00e9s D\u00e9cimaux (DD)\n- *Latitude du Pt de passage (DD)*: n_dd[double] Latitude du point de passage en Degr\u00e9s D\u00e9cimaux (DD)\n- *geoshape*: geoshape[geo_point_2d] Coordonn\u00e9es g\u00e9ographiques du point de passge\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "e786f97f-8910-40ba-a449-8877ce307fb7",
+      "last_modified": "2017-03-16T09:43:02",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e786f97f-8910-40ba-a449-8877ce307fb7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:28:22.428000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/points-de-passage-souterrains/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:28:22.428000",
+      "description": "- *Type d'ouvrage*: type_ouvrage[text]\n- *Etat*: etat[text] Indique si le tron\u00e7on au quel appartient le point de passage est en exploitation ou non.\nLe terme \"accord administratif\" signifie que la ligne est en projet et dispose d'une autorisation administrative. Il peut s'agir, par exemple d'une D\u00e9claration d'Utilit\u00e9 Publique (DUP).\n- *Codification de la ligne*: identification[text]\n- *Nom de la ligne*: nom_ouvrage[text]\n- *Source des donn\u00e9es*: mode_acquisition[text] Indique qui fournit les coordonn\u00e9es g\u00e9ographiques\n- *Longitude du Pt de passage (DD)*: e_dd[double] Longitude du point de passage en Degr\u00e9s D\u00e9cimaux (DD)\n- *Latitude du Pt de passage (DD)*: n_dd[double] Latitude du point de passage en Degr\u00e9s D\u00e9cimaux (DD)\n- *geoshape*: geoshape[geo_point_2d] Coordonn\u00e9es g\u00e9ographiques du point de passge\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "03696333-5d35-4011-b506-847c25373e5e",
+      "last_modified": "2017-03-16T09:43:02",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/03696333-5d35-4011-b506-847c25373e5e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:28:22.428000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.lillemetropole.fr//explore/dataset/points-de-passage-souterrains/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "points-de-passage-souterrains-du-reseau-rte-sur-le-territoire-de-la-mel",
+  "spatial": null,
+  "tags": [
+    "amenagement-du-territoire",
+    "batiments",
+    "electricite",
+    "energie",
+    "equipements",
+    "inspire",
+    "logement",
+    "sig",
+    "urbanisme"
+  ],
+  "temporal_coverage": null,
+  "title": "Points de passage souterrains du r\u00e9seau RTE sur le territoire de la MEL",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/points-de-passage-souterrains-du-reseau-rte-sur-le-territoire-de-la-mel/"
+}

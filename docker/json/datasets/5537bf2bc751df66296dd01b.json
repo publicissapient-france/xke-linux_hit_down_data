@@ -1,0 +1,403 @@
+{
+  "badges": [],
+  "created_at": "2015-04-22T17:32:59.861000",
+  "deleted": null,
+  "description": "Balances 2010 des budgets principaux et annexes des d\u00e9partements\nBalances 2011 des budgets principaux et annexes des d\u00e9partements\nBalances 2012 des budgets principaux et annexes des d\u00e9partements\nBalances 2013 des budgets principaux et annexes des d\u00e9partements\nBalances 2014 des budgets principaux et annexes des d\u00e9partements\nBalances 2015 des budgets principaux et annexes des d\u00e9partements\nBalances 2016 des budgets principaux et annexes des d\u00e9partements",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": "2015-11-13T00:00:00",
+  "id": "5537bf2bc751df66296dd01b",
+  "last_modified": "2017-09-05T16:07:39.180000",
+  "last_update": "2017-09-05T16:05:59",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 5,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 13
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff8ea3a7292c64a77f02",
+    "logo": "https://www.data.gouv.fr/s/avatars/68/0660a939e7495d94117e0d9845d6f1-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/68/0660a939e7495d94117e0d9845d6f1-100.png",
+    "name": "Minist\u00e8re de l'\u00e9conomie et des finances",
+    "page": "https://www.data.gouv.fr/fr/organizations/ministere-de-leconomie-et-des-finances/",
+    "slug": "ministere-de-leconomie-et-des-finances",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ministere-de-leconomie-et-des-finances/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/balances-comptables-des-departements/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "c752193be21fb1f253dca306185b1cccd3b1ebc6"
+      },
+      "created_at": "2017-09-05T16:05:59.948000",
+      "description": "Balances 2015 des budgets principaux et budgets annexes des d\u00e9partements et de la m\u00e9tropole de Lyon",
+      "extras": {},
+      "filesize": 11989059,
+      "filetype": "file",
+      "format": "csv",
+      "id": "46acb713-6d22-46b3-adcc-10cb93ce1c7e",
+      "last_modified": "2017-09-05T16:07:39.180000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/46acb713-6d22-46b3-adcc-10cb93ce1c7e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-05T16:05:59",
+      "title": "Balances comptables 2015 des d\u00e9partements et de la m\u00e9tropole de Lyon",
+      "url": "https://www.data.gouv.fr/s/resources/balances-comptables-des-departements/20170905-160559/BalanceDEPT_2015.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "f847efe745e10658ca974106e53051236bb7f280"
+      },
+      "created_at": "2017-09-05T15:58:40.581000",
+      "description": "Balances 2014 des budgets principaux et budgets annexes des d\u00e9partements",
+      "extras": {},
+      "filesize": 11894149,
+      "filetype": "file",
+      "format": "csv",
+      "id": "7c0a13d2-c445-4bae-aaa4-afa2b2f96ec0",
+      "last_modified": "2017-09-05T15:59:54.482000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7c0a13d2-c445-4bae-aaa4-afa2b2f96ec0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-05T15:58:40",
+      "title": "Balances comptables 2014 des d\u00e9partements",
+      "url": "https://www.data.gouv.fr/s/resources/balances-comptables-des-departements/20170905-155839/BalanceDEPT_2014.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "f1a60b398cb69564a478904a4c11c4783c2380a1"
+      },
+      "created_at": "2017-09-05T15:57:17.233000",
+      "description": "Balances 2013 des budgets principaux et des budgets annexes des d\u00e9partements",
+      "extras": {},
+      "filesize": 11885451,
+      "filetype": "file",
+      "format": "csv",
+      "id": "e4e4c570-11b1-4caf-b422-994b13a52721",
+      "last_modified": "2017-09-05T16:02:06.343000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e4e4c570-11b1-4caf-b422-994b13a52721",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": "text/csv",
+      "published": "2017-09-05T15:57:17",
+      "title": "Balances comptables 2013 des d\u00e9partements",
+      "url": "https://www.data.gouv.fr/s/resources/balances-comptables-des-departements/20170905-155716/BalanceDEPT_2013.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "456b5c45a5a4e780571bff00ae0a8906cb4330c0"
+      },
+      "created_at": "2017-08-24T14:10:44.350000",
+      "description": "",
+      "extras": {},
+      "filesize": 60951,
+      "filetype": "file",
+      "format": "ods",
+      "id": "406076e1-247a-48df-943f-4c35fec0dae4",
+      "last_modified": "2017-08-24T14:10:46.426000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/406076e1-247a-48df-943f-4c35fec0dae4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.oasis.opendocument.spreadsheet",
+      "published": "2017-08-24T14:10:44.350000",
+      "title": "Structure du fichier 2012",
+      "url": "https://www.data.gouv.fr/s/resources/balances-comptables-des-departements/20170824-141044/StructureFichierBal_ETALAB.ods"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "990d549d38b99e7bf51c2ceca483c25cacddbfee"
+      },
+      "created_at": "2017-08-24T14:10:05.568000",
+      "description": "Balances 2012 des budgets principaux et budgets annexes ",
+      "extras": {},
+      "filesize": 11720422,
+      "filetype": "file",
+      "format": "csv",
+      "id": "8bde056e-3967-4941-a09f-914a0976b066",
+      "last_modified": "2017-08-24T14:10:23.393000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8bde056e-3967-4941-a09f-914a0976b066",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-24T14:10:05.569000",
+      "title": "Balances comptables 2012 des d\u00e9partements",
+      "url": "https://www.data.gouv.fr/s/resources/balances-comptables-des-departements/20170824-141004/BalanceDEPT_2012.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "456b5c45a5a4e780571bff00ae0a8906cb4330c0"
+      },
+      "created_at": "2017-08-24T14:08:30.495000",
+      "description": "",
+      "extras": {},
+      "filesize": 60951,
+      "filetype": "file",
+      "format": "ods",
+      "id": "b5f30f94-afdb-499f-a7bd-983a8c9ca5f1",
+      "last_modified": "2017-08-24T14:08:36.197000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b5f30f94-afdb-499f-a7bd-983a8c9ca5f1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.oasis.opendocument.spreadsheet",
+      "published": "2017-08-24T14:08:30.496000",
+      "title": "Structure du fichier 2011",
+      "url": "https://www.data.gouv.fr/s/resources/balances-comptables-des-departements/20170824-140830/StructureFichierBal_ETALAB.ods"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "3c44980d5ce77570d3fbdecbd20661a26d4a9bb6"
+      },
+      "created_at": "2017-08-24T14:08:01.028000",
+      "description": "Balances 2011 des budgets principaux et budgets annexes ",
+      "extras": {},
+      "filesize": 11268666,
+      "filetype": "file",
+      "format": "csv",
+      "id": "3bec5ea0-48eb-4ba4-8415-60694b1131a5",
+      "last_modified": "2017-08-24T14:08:05.118000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3bec5ea0-48eb-4ba4-8415-60694b1131a5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-24T14:08:01.028000",
+      "title": "Balances comptables 2011 des d\u00e9partements",
+      "url": "https://www.data.gouv.fr/s/resources/balances-comptables-des-departements/20170824-140800/BalanceDEPT_2011.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "456b5c45a5a4e780571bff00ae0a8906cb4330c0"
+      },
+      "created_at": "2017-08-24T14:05:06.416000",
+      "description": "",
+      "extras": {},
+      "filesize": 60951,
+      "filetype": "file",
+      "format": "ods",
+      "id": "013f8158-216c-4dce-930c-95b12af915a0",
+      "last_modified": "2017-08-24T14:05:10.750000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/013f8158-216c-4dce-930c-95b12af915a0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.oasis.opendocument.spreadsheet",
+      "published": "2017-08-24T14:05:06.416000",
+      "title": "Structure du fichier 2010",
+      "url": "https://www.data.gouv.fr/s/resources/balances-comptables-des-departements/20170824-140506/StructureFichierBal_ETALAB.ods"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "89366acbe52a0efaa68902d886fc3028a9e72729"
+      },
+      "created_at": "2017-08-24T14:04:20.832000",
+      "description": "Balances 2010 des budgets principaux et budgets annexes ",
+      "extras": {},
+      "filesize": 10606058,
+      "filetype": "file",
+      "format": "csv",
+      "id": "09068ef1-697f-4ded-a4d7-0e0404554248",
+      "last_modified": "2017-08-24T14:04:28.141000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/09068ef1-697f-4ded-a4d7-0e0404554248",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-24T14:04:20.832000",
+      "title": "Balances comptables 2010 des d\u00e9partements",
+      "url": "https://www.data.gouv.fr/s/resources/balances-comptables-des-departements/20170824-140419/BalanceDEPT_2010.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "506ae834e6df6ca29bc1f290033947ed08520599"
+      },
+      "created_at": "2017-07-07T09:52:01.764000",
+      "description": "Balances 2016 des budgets principaux et budgets annexes des d\u00e9partements et des collectivit\u00e9s territoriales unques",
+      "extras": {},
+      "filesize": 12067513,
+      "filetype": "file",
+      "format": "csv",
+      "id": "09d682b8-bbf0-40de-9d62-d94dcdce8722",
+      "last_modified": "2017-07-07T10:19:41.484000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/09d682b8-bbf0-40de-9d62-d94dcdce8722",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": "text/csv",
+      "published": "2017-07-07T09:52:01.764000",
+      "title": "Balances comptables 2016 des d\u00e9partements et des collectivit\u00e9s territoriales uniques",
+      "url": "https://www.data.gouv.fr/s/resources/balances-comptables-des-departements/20170707-095200/Balance_DEPT_2016.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "3cf0f68bf8c6fd8a28a9612bec6104a6a9bc7997"
+      },
+      "created_at": "2017-06-30T16:12:40.400000",
+      "description": "",
+      "extras": {},
+      "filesize": 39106,
+      "filetype": "file",
+      "format": "ods",
+      "id": "22d4c700-12d2-4eb6-b911-6aecc38c2d8f",
+      "last_modified": "2017-06-30T16:12:42.535000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/22d4c700-12d2-4eb6-b911-6aecc38c2d8f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.oasis.opendocument.spreadsheet",
+      "published": "2017-06-30T16:12:40.400000",
+      "title": "Structure du fichier 2016",
+      "url": "https://www.data.gouv.fr/s/resources/balances-comptables-des-departements/20170630-161240/StructureFichierBal2016_ETALAB.ods"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "e5f8235cf5070462fbd0451e509a67cee62f8249"
+      },
+      "created_at": "2016-06-29T16:10:38.138000",
+      "description": "Descriptif du fichier 2015",
+      "extras": {},
+      "filesize": 52736,
+      "filetype": "file",
+      "format": "xls",
+      "id": "d955a777-4208-4cf0-9caf-0f11a4fea20f",
+      "last_modified": "2016-06-29T16:13:27.503000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d955a777-4208-4cf0-9caf-0f11a4fea20f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 9
+      },
+      "mime": "application/vnd.ms-excel",
+      "published": "2016-06-29T16:10:38.138000",
+      "title": "Structure du fichier 2015",
+      "url": "https://www.data.gouv.fr/s/resources/balances-comptables-des-departements/20160629-161038/StructureFichierBalances_2015_Juin2016.xls"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "d7d2cc0122e804695025d7af2ea446ff8d7cd4bf"
+      },
+      "created_at": "2015-11-16T10:06:10.013000",
+      "description": null,
+      "extras": {},
+      "filesize": 43520,
+      "filetype": "file",
+      "format": "xls",
+      "id": "06db2709-2cd1-4f7c-80fd-0c687a7ef9ce",
+      "last_modified": "2017-09-05T15:53:34.145000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/06db2709-2cd1-4f7c-80fd-0c687a7ef9ce",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 3
+      },
+      "mime": "application/vnd.ms-excel",
+      "published": "2015-11-16T10:06:10",
+      "title": "Structure du fichier 2014",
+      "url": "https://www.data.gouv.fr/s/resources/balances-comptables-des-departements/20151116-100609/StructureFichierBal2014_ETALAB.xls"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "6ab1b6918409a19fd3c089ca753494a4260e8c99"
+      },
+      "created_at": "2015-11-13T20:19:15.703000",
+      "description": "trac\u00e9 du fichier",
+      "extras": {},
+      "filesize": 22005,
+      "filetype": "file",
+      "format": "ods",
+      "id": "ad833d80-9d1a-4275-a435-450c5da3f755",
+      "last_modified": "2017-09-05T15:54:10.587000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ad833d80-9d1a-4275-a435-450c5da3f755",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 21
+      },
+      "mime": "application/vnd.oasis.opendocument.spreadsheet",
+      "published": "2015-04-22T17:35:19",
+      "title": "structure du fichier 2013",
+      "url": "https://www.data.gouv.fr/s/resources/balances-comptables-2013-des-departements/20150422-173509/StructureFichier_departements.ods"
+    }
+  ],
+  "slug": "balances-comptables-des-departements",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:departement",
+    "zones": []
+  },
+  "tags": [
+    "balances",
+    "comptabilite-publique",
+    "departements"
+  ],
+  "temporal_coverage": null,
+  "title": "Balances comptables des d\u00e9partements",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/balances-comptables-des-departements/"
+}

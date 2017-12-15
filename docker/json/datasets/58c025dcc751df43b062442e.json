@@ -1,0 +1,85 @@
+{
+  "badges": [],
+  "created_at": "2017-03-08T16:40:12.071000",
+  "deleted": null,
+  "description": "Meudon ouvre ses comptes administratifs depuis 2012. Chaque tableau d\u00e9taille les informations g\u00e9n\u00e9rales, la pr\u00e9sentation g\u00e9n\u00e9rale du budget, le vote du budget et les annexes, pour les diff\u00e9rents budgets de la ville. Tous les tableaux de l'exercice 2013 sont ouverts sous forme de tableau CSV. Ce premier tableur pr\u00e9sente le vote du budget - section de fonctionnement - d\u00e9tail des recettes. Les chiffres sont donn\u00e9s par rapport \u00e0 la population meudonnaise et par rapport \u00e0 la moyenne nationale.",
+  "extras": {},
+  "frequency": "punctual",
+  "frequency_date": null,
+  "id": "58c025dcc751df43b062442e",
+  "last_modified": "2017-03-08T16:41:01.586000",
+  "last_update": "2017-03-08T16:40:58.546000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "54d89442c751df1245467389",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-02-09/c8e02b8db0004b17b0aa311404798324/logo_meudon_couleur_HD-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-02-09/c8e02b8db0004b17b0aa311404798324/logo_meudon_couleur_HD-100.jpg",
+    "name": "Ville de Meudon",
+    "page": "https://www.data.gouv.fr/fr/organizations/ville-de-meudon/",
+    "slug": "ville-de-meudon",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ville-de-meudon/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/compte-administratif-2013-vote-du-budget-section-de-fonctionnement-detail-des-recettes-1/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "c012a56530c3da3161bcef1d0dad4c3c2173ba98"
+      },
+      "created_at": "2017-03-08T16:40:58.546000",
+      "description": "Meudon ouvre ses comptes administratifs depuis 2012. Chaque tableau d\u00e9taille les informations g\u00e9n\u00e9rales, la pr\u00e9sentation g\u00e9n\u00e9rale du budget, le vote du budget et les annexes, pour les diff\u00e9rents budgets de la ville. Tous les tableaux de l'exercice 2013 sont ouverts sous forme de tableau CSV. Ce premier tableur pr\u00e9sente le vote du budget - section de fonctionnement - d\u00e9tail des recettes. Les chiffres sont donn\u00e9s par rapport \u00e0 la population meudonnaise et par rapport \u00e0 la moyenne nationale.",
+      "extras": {},
+      "filesize": 2614,
+      "filetype": "file",
+      "format": "csv",
+      "id": "79433fc9-158d-4e04-b10b-17d2f44697ec",
+      "last_modified": "2017-03-08T16:41:01.586000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/79433fc9-158d-4e04-b10b-17d2f44697ec",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-03-08T16:40:58.546000",
+      "title": "Compte administratif 2013 - Vote du budget - section de fonctionnement - d\u00e9tail des recettes",
+      "url": "https://www.data.gouv.fr/s/resources/compte-administratif-2013-vote-du-budget-section-de-fonctionnement-detail-des-recettes-1/20170308-164058/Onglet_17_CA2013_Vote_du_budget.csv"
+    }
+  ],
+  "slug": "compte-administratif-2013-vote-du-budget-section-de-fonctionnement-detail-des-recettes-1",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:commune",
+    "zones": [
+      "fr:commune:92048@1968-01-01"
+    ]
+  },
+  "tags": [
+    "budget",
+    "budget-2013",
+    "commune",
+    "compte-administratif",
+    "fonctionnement",
+    "recettes",
+    "ville"
+  ],
+  "temporal_coverage": null,
+  "title": "Compte administratif 2013 - Vote du budget - section de fonctionnement - d\u00e9tail des recettes",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/compte-administratif-2013-vote-du-budget-section-de-fonctionnement-detail-des-recettes-1/"
+}

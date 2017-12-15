@@ -1,0 +1,229 @@
+{
+  "badges": [],
+  "created_at": "2017-10-03T00:00:00",
+  "deleted": null,
+  "description": "Coop\u00e9ration intercommunale : part des d\u00e9penses mutualis\u00e9es a l'\u00e9chelon intercommunal.",
+  "extras": {
+    "ckan:name": "cooperation-intercommunale-part-des-depenses-mutualisees-a-lechelon-intercommunal",
+    "contact_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "contact_name": "Mission Agenda 21",
+    "contact_uri": "https://datacat.datalocale.fr/414579",
+    "guid": "https://datacat.datalocale.fr/415645",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-11-27T05:18:26.189695",
+    "harvest:remote_id": "d9a2f350-8eb6-4bbc-9d54-8d2c6a0a3cfb",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "7cef1710-5412-4fcd-811e-bc7daabefdde",
+    "issued": "2013-08-27T09:49:55+00:00",
+    "modified": "2016-07-18T09:21:06.104645+00:00",
+    "publisher_email": "mailto:DGSD-Agenda21@cg33.fr",
+    "publisher_name": "dgsd-a21",
+    "publisher_uri": "https://datacat.datalocale.fr/414578",
+    "theme": "[\"budget\"]",
+    "uri": "https://datacat.datalocale.fr/415645"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59d45f95b59508043de9ba11",
+  "last_modified": "2017-11-27T05:18:26.191000",
+  "last_update": "2017-10-14T06:01:45.684000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/cooperation-intercommunale-part-des-depenses-mutualisees-a-lechelon-intercommunal-3/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-10-04T06:12:05.723000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T11:10:02.109000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415647/raw/2013-09-02-095159tx_depenses_mutualisees.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "89fecea6-7213-4b8b-b1ea-1a0081230e9d",
+      "last_modified": "2017-10-04T06:12:05.723000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/89fecea6-7213-4b8b-b1ea-1a0081230e9d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-04T06:12:05.723000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415647/raw/2013-09-02-095159tx_depenses_mutualisees.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-04T06:12:05.723000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-04T14:14:41.185000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415649/raw/2013-09-02-095159tx_depenses_mutualiseesdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "879a6bae-d46f-4fd1-9572-701794f4fea7",
+      "last_modified": "2017-10-04T06:12:05.723000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/879a6bae-d46f-4fd1-9572-701794f4fea7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-10-04T06:12:05.723000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415649/raw/2013-09-02-095159tx_depenses_mutualiseesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-05T06:14:32.583000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T12:45:13.741000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415647/raw/2013-09-02-095159tx_depenses_mutualisees.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "08cbcb3e-c906-4238-9e80-eadd6d885199",
+      "last_modified": "2017-10-05T06:14:32.583000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/08cbcb3e-c906-4238-9e80-eadd6d885199",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-05T06:14:32.583000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/file/415647/raw/2013-09-02-095159tx_depenses_mutualisees.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-05T06:14:32.584000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T13:57:14.862000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415649/raw/2013-09-02-095159tx_depenses_mutualiseesdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "428281b7-22e7-4e12-83b4-2245c3ccdcd7",
+      "last_modified": "2017-10-05T06:14:32.584000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/428281b7-22e7-4e12-83b4-2245c3ccdcd7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-10-05T06:14:32.584000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/file/415649/raw/2013-09-02-095159tx_depenses_mutualiseesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:01:45.684000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T12:45:12.025000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/distribution/415648/raw/2013-09-02-095159tx_depenses_mutualiseesdesc.html"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "html",
+      "id": "7a51f8ee-be30-4f99-b13d-0f956afcc92f",
+      "last_modified": "2017-11-27T05:18:26.189000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7a51f8ee-be30-4f99-b13d-0f956afcc92f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/html",
+      "published": "2017-10-14T06:01:45.684000",
+      "title": "Description des champs de donn\u00e9es",
+      "url": "https://datacat.datalocale.fr/distribution/415648/raw/2013-09-02-095159tx_depenses_mutualiseesdesc.html"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:01:45.684000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T12:45:09.836000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/distribution/415646/raw/2013-09-02-095159tx_depenses_mutualisees.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "5d13013a-760f-4753-831b-91b113ec5b3f",
+      "last_modified": "2017-11-27T05:18:26.189000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5d13013a-760f-4753-831b-91b113ec5b3f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-14T06:01:45.684000",
+      "title": "fichier au format csv encod\u00e9 en UTF-8.",
+      "url": "https://datacat.datalocale.fr/distribution/415646/raw/2013-09-02-095159tx_depenses_mutualisees.csv"
+    }
+  ],
+  "slug": "cooperation-intercommunale-part-des-depenses-mutualisees-a-lechelon-intercommunal-3",
+  "spatial": null,
+  "tags": [
+    "budget",
+    "intercommunalite",
+    "villes"
+  ],
+  "temporal_coverage": null,
+  "title": "Coop\u00e9ration intercommunale : part des d\u00e9penses mutualis\u00e9es a l'\u00e9chelon intercommunal",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/cooperation-intercommunale-part-des-depenses-mutualisees-a-lechelon-intercommunal-3/"
+}

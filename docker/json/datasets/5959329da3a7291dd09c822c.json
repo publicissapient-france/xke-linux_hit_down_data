@@ -1,0 +1,148 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T19:51:25.638000",
+  "deleted": null,
+  "description": "R\u00e9sultats du premier tour de l'\u00e9lection pr\u00e9sidentielle du dimanche 23 avril 2017.",
+  "extras": {
+    "harvest:domain": "data.toulouse-metropole.fr",
+    "harvest:last_update": "2017-11-27T05:22:13.912334",
+    "harvest:remote_id": "election-presidentielle-2017-1er-tour-resultats-ville-de-toulouse",
+    "harvest:source_id": "564c3680c751df607daad370",
+    "ods:has_records": true,
+    "ods:url": "https://data.toulouse-metropole.fr//explore/dataset/election-presidentielle-2017-1er-tour-resultats-ville-de-toulouse/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5959329da3a7291dd09c822c",
+  "last_modified": "2017-11-27T05:22:13.914000",
+  "last_update": "2017-11-27T05:22:13.911000",
+  "license": "odc-odbl",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb3a3a7292c64a78129",
+    "logo": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-100.jpg",
+    "name": "Toulouse m\u00e9trople",
+    "page": "https://www.data.gouv.fr/fr/organizations/toulouse-metrople/",
+    "slug": "toulouse-metrople",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/toulouse-metrople/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/election-presidentielle-2017-1er-tour-resultats-ville-de-toulouse/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:22:13.910000",
+      "description": "- *Sequence*: column_1[int] Num\u00e9ro de s\u00e9quence incr\u00e9ment\u00e9 par ligne de 1 \u00e0 n\n- *Type*: column_2[text] Type d'\u00e9lection\u00a0: \u00ab\u00a0PR\u00a0\u00bb pour la pr\u00e9sidentielle\n- *Ann\u00e9e*: column_3[text] Ann\u00e9e de l'\u00e9lection\u00a0: \u00ab\u00a02017\u00bb\n- *Tour*: numero_tour[int] Num\u00e9ro du tour\u00a0: \u00ab\u00a01\u00a0\u00bb pour le 1ier tour, \u00ab\u00a02\u00a0\u00bb pour le 2i\u00e8me tour\n- *D\u00e9partement*: column_5[int] Code du d\u00e9partement\u00a0: \u00ab\u00a031\u00a0\u00bb\n- *Commune*: column_6[int] Code de la commune\u00a0: \u00ab\u00a0555\u00a0\u00bb\n- *Num\u00e9ro du bureau*: numero_lieu[text] \u00ab\u00a00001\u00a0\u00bb \u00e0 \u00ab\u00a00256\u00a0\u00bb, 7 bureaux ont une lettre accol\u00e9e ex 69A\n- * Code canton*: column_8[int] \u00ab\u00a015\u00a0\u00bb pour Toulouse I\n\u00ab\u00a016\u00bb pour Toulouse II\n\u00ab\u00a017\u00a0\u00bb pour Toulouse III\n\u00ab\u00a018\u00a0\u00bb pour Toulouse IV\n\u00ab\u00a019\u00a0\u00bb pour Toulouse V\n\u00ab\u00a010\u00a0\u00bb pour Toulouse VI\n\u00ab\u00a021\u00a0\u00bb pour Toulouse VII\n\u00ab\u00a022\u00a0\u00bb pour Toulouse VIII\n\u00ab\u00a023\u00a0\u00bb pour Toulouse IX\n\u00ab\u00a024\u00a0\u00bb pour Toulouse X\n\u00ab\u00a025\u00a0\u00bb pour Toulouse XI\n\n- *Code circonscription*: column_9[text] \u00ab\u00a001\u00a0\u00bb pour circonscription 1\n\u00ab\u00a002\u00a0\u00bb pour circonscription 2\n\u00ab\u00a003\u00a0\u00bb pour circonscription 3\n\u00ab\u00a005\u00a0\u00bb pour circonscription 5\n\u00ab\u00a009\u00a0\u00bb pour circonscription 9\n\n- *Indicatif*: column_10[text] valeur fixe \u00ab\u00a0I\u00a0\u00bb pour r\u00e9sultat initial (\u00ab\u00a0R\u00a0\u00bb si r\u00e9sultat rectifi\u00e9)\n- *Nombre d'inscrits*: nb_inscrits[int] Nombre d'inscrits\n- *Nombre d'abstentions*: column_12[int] Nombre d'abstentions\n- *Nombre de votants*: nb_bulletins[int]\n- *Nombre de votants d'apr\u00e8s les feuilles d'\u00e9margement*: nb_emargements[int] Nombre de votants d'apr\u00e8s les feuilles d'\u00e9margement\n\n- *Nombre de bulletins blancs*: column_15[int] Nombre de bulletins blancs\n- *Nombre de bulletins nuls*: nb_nuls[int] Nombre de bulletins nuls\n- *Nombre d'exprim\u00e9s*: nb_exprimes[int] Nombre de votants\n- *Nombre de candidats*: column_18[int] Nombre de candidats\n- *Sigle du candidat*: candidat_1[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n\n- *Nombre de voix du candidat*: nb_voix_1[int]\n- *Sigle du candidat*: candidat_2[text]\n- *Nombre de voix du candidat*: nb_voix_2[int]\n- *Sigle du candidat*: candidat_3[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n\n- *Nombre de voix du candidat*: nb_voix_3[int]\n- *Sigle du candidat*: candidat_4[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n\n\n- *Nombre de voix du candidat*: nb_voix_4[int]\n- *Sigle du candidat*: candidat_5[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n- *Nombre de voix du candidat*: nb_voix_5[int] Nombre de voix du candidat\n- *Sigle du candidat*: candidat_6[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n- *Nombre de voix du candidat*: nb_voix_6[int] Nombre de voix du candidat\n- *Sigle du candidat*: candidat_7[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n- *Nombre de voix du candidat*: nb_voix_7[int] Nombre de voix du candidat\n- *Sigle du candidat*: candidat_8[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n- *Nombre de voix du candidat*: nb_voix_8[int] Nombre de voix du candidat\n- *Sigle du candidat*: candidat_9[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n- *Nombre de voix du candidat*: nb_voix_9[int] Nombre de voix du candidat\n- *Sigle du candidat*: nb_voix_10[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n- *Nombre de voix du candidat*: column_38[int] Nombre de voix du candidat\n- *Sigle du candidat*: candidat_11[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n- *Nombre de voix du candidat*: nb_voix_11[int]\n- *Geo Point*: geo_point_2d[geo_point_2d]\n- *ADRESSE*: adresse_lieu[text]\n- *NOM*: nom_lieu[text]\n- *pourcentage_participation*: pourcentage_participation[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "73a14438-e295-4fe1-85fa-288104312d42",
+      "last_modified": "2017-04-23T23:25:30",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/73a14438-e295-4fe1-85fa-288104312d42",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:22:13.910000",
+      "title": "Export au format CSV",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/election-presidentielle-2017-1er-tour-resultats-ville-de-toulouse/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:22:13.911000",
+      "description": "- *Sequence*: column_1[int] Num\u00e9ro de s\u00e9quence incr\u00e9ment\u00e9 par ligne de 1 \u00e0 n\n- *Type*: column_2[text] Type d'\u00e9lection\u00a0: \u00ab\u00a0PR\u00a0\u00bb pour la pr\u00e9sidentielle\n- *Ann\u00e9e*: column_3[text] Ann\u00e9e de l'\u00e9lection\u00a0: \u00ab\u00a02017\u00bb\n- *Tour*: numero_tour[int] Num\u00e9ro du tour\u00a0: \u00ab\u00a01\u00a0\u00bb pour le 1ier tour, \u00ab\u00a02\u00a0\u00bb pour le 2i\u00e8me tour\n- *D\u00e9partement*: column_5[int] Code du d\u00e9partement\u00a0: \u00ab\u00a031\u00a0\u00bb\n- *Commune*: column_6[int] Code de la commune\u00a0: \u00ab\u00a0555\u00a0\u00bb\n- *Num\u00e9ro du bureau*: numero_lieu[text] \u00ab\u00a00001\u00a0\u00bb \u00e0 \u00ab\u00a00256\u00a0\u00bb, 7 bureaux ont une lettre accol\u00e9e ex 69A\n- * Code canton*: column_8[int] \u00ab\u00a015\u00a0\u00bb pour Toulouse I\n\u00ab\u00a016\u00bb pour Toulouse II\n\u00ab\u00a017\u00a0\u00bb pour Toulouse III\n\u00ab\u00a018\u00a0\u00bb pour Toulouse IV\n\u00ab\u00a019\u00a0\u00bb pour Toulouse V\n\u00ab\u00a010\u00a0\u00bb pour Toulouse VI\n\u00ab\u00a021\u00a0\u00bb pour Toulouse VII\n\u00ab\u00a022\u00a0\u00bb pour Toulouse VIII\n\u00ab\u00a023\u00a0\u00bb pour Toulouse IX\n\u00ab\u00a024\u00a0\u00bb pour Toulouse X\n\u00ab\u00a025\u00a0\u00bb pour Toulouse XI\n\n- *Code circonscription*: column_9[text] \u00ab\u00a001\u00a0\u00bb pour circonscription 1\n\u00ab\u00a002\u00a0\u00bb pour circonscription 2\n\u00ab\u00a003\u00a0\u00bb pour circonscription 3\n\u00ab\u00a005\u00a0\u00bb pour circonscription 5\n\u00ab\u00a009\u00a0\u00bb pour circonscription 9\n\n- *Indicatif*: column_10[text] valeur fixe \u00ab\u00a0I\u00a0\u00bb pour r\u00e9sultat initial (\u00ab\u00a0R\u00a0\u00bb si r\u00e9sultat rectifi\u00e9)\n- *Nombre d'inscrits*: nb_inscrits[int] Nombre d'inscrits\n- *Nombre d'abstentions*: column_12[int] Nombre d'abstentions\n- *Nombre de votants*: nb_bulletins[int]\n- *Nombre de votants d'apr\u00e8s les feuilles d'\u00e9margement*: nb_emargements[int] Nombre de votants d'apr\u00e8s les feuilles d'\u00e9margement\n\n- *Nombre de bulletins blancs*: column_15[int] Nombre de bulletins blancs\n- *Nombre de bulletins nuls*: nb_nuls[int] Nombre de bulletins nuls\n- *Nombre d'exprim\u00e9s*: nb_exprimes[int] Nombre de votants\n- *Nombre de candidats*: column_18[int] Nombre de candidats\n- *Sigle du candidat*: candidat_1[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n\n- *Nombre de voix du candidat*: nb_voix_1[int]\n- *Sigle du candidat*: candidat_2[text]\n- *Nombre de voix du candidat*: nb_voix_2[int]\n- *Sigle du candidat*: candidat_3[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n\n- *Nombre de voix du candidat*: nb_voix_3[int]\n- *Sigle du candidat*: candidat_4[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n\n\n- *Nombre de voix du candidat*: nb_voix_4[int]\n- *Sigle du candidat*: candidat_5[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n- *Nombre de voix du candidat*: nb_voix_5[int] Nombre de voix du candidat\n- *Sigle du candidat*: candidat_6[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n- *Nombre de voix du candidat*: nb_voix_6[int] Nombre de voix du candidat\n- *Sigle du candidat*: candidat_7[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n- *Nombre de voix du candidat*: nb_voix_7[int] Nombre de voix du candidat\n- *Sigle du candidat*: candidat_8[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n- *Nombre de voix du candidat*: nb_voix_8[int] Nombre de voix du candidat\n- *Sigle du candidat*: candidat_9[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n- *Nombre de voix du candidat*: nb_voix_9[int] Nombre de voix du candidat\n- *Sigle du candidat*: nb_voix_10[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n- *Nombre de voix du candidat*: column_38[int] Nombre de voix du candidat\n- *Sigle du candidat*: candidat_11[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n- *Nombre de voix du candidat*: nb_voix_11[int]\n- *Geo Point*: geo_point_2d[geo_point_2d]\n- *ADRESSE*: adresse_lieu[text]\n- *NOM*: nom_lieu[text]\n- *pourcentage_participation*: pourcentage_participation[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "225fb059-8b1f-40eb-9e07-cb8d262bee5e",
+      "last_modified": "2017-04-23T23:25:30",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/225fb059-8b1f-40eb-9e07-cb8d262bee5e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:22:13.911000",
+      "title": "Export au format JSON",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/election-presidentielle-2017-1er-tour-resultats-ville-de-toulouse/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:22:13.911000",
+      "description": "- *Sequence*: column_1[int] Num\u00e9ro de s\u00e9quence incr\u00e9ment\u00e9 par ligne de 1 \u00e0 n\n- *Type*: column_2[text] Type d'\u00e9lection\u00a0: \u00ab\u00a0PR\u00a0\u00bb pour la pr\u00e9sidentielle\n- *Ann\u00e9e*: column_3[text] Ann\u00e9e de l'\u00e9lection\u00a0: \u00ab\u00a02017\u00bb\n- *Tour*: numero_tour[int] Num\u00e9ro du tour\u00a0: \u00ab\u00a01\u00a0\u00bb pour le 1ier tour, \u00ab\u00a02\u00a0\u00bb pour le 2i\u00e8me tour\n- *D\u00e9partement*: column_5[int] Code du d\u00e9partement\u00a0: \u00ab\u00a031\u00a0\u00bb\n- *Commune*: column_6[int] Code de la commune\u00a0: \u00ab\u00a0555\u00a0\u00bb\n- *Num\u00e9ro du bureau*: numero_lieu[text] \u00ab\u00a00001\u00a0\u00bb \u00e0 \u00ab\u00a00256\u00a0\u00bb, 7 bureaux ont une lettre accol\u00e9e ex 69A\n- * Code canton*: column_8[int] \u00ab\u00a015\u00a0\u00bb pour Toulouse I\n\u00ab\u00a016\u00bb pour Toulouse II\n\u00ab\u00a017\u00a0\u00bb pour Toulouse III\n\u00ab\u00a018\u00a0\u00bb pour Toulouse IV\n\u00ab\u00a019\u00a0\u00bb pour Toulouse V\n\u00ab\u00a010\u00a0\u00bb pour Toulouse VI\n\u00ab\u00a021\u00a0\u00bb pour Toulouse VII\n\u00ab\u00a022\u00a0\u00bb pour Toulouse VIII\n\u00ab\u00a023\u00a0\u00bb pour Toulouse IX\n\u00ab\u00a024\u00a0\u00bb pour Toulouse X\n\u00ab\u00a025\u00a0\u00bb pour Toulouse XI\n\n- *Code circonscription*: column_9[text] \u00ab\u00a001\u00a0\u00bb pour circonscription 1\n\u00ab\u00a002\u00a0\u00bb pour circonscription 2\n\u00ab\u00a003\u00a0\u00bb pour circonscription 3\n\u00ab\u00a005\u00a0\u00bb pour circonscription 5\n\u00ab\u00a009\u00a0\u00bb pour circonscription 9\n\n- *Indicatif*: column_10[text] valeur fixe \u00ab\u00a0I\u00a0\u00bb pour r\u00e9sultat initial (\u00ab\u00a0R\u00a0\u00bb si r\u00e9sultat rectifi\u00e9)\n- *Nombre d'inscrits*: nb_inscrits[int] Nombre d'inscrits\n- *Nombre d'abstentions*: column_12[int] Nombre d'abstentions\n- *Nombre de votants*: nb_bulletins[int]\n- *Nombre de votants d'apr\u00e8s les feuilles d'\u00e9margement*: nb_emargements[int] Nombre de votants d'apr\u00e8s les feuilles d'\u00e9margement\n\n- *Nombre de bulletins blancs*: column_15[int] Nombre de bulletins blancs\n- *Nombre de bulletins nuls*: nb_nuls[int] Nombre de bulletins nuls\n- *Nombre d'exprim\u00e9s*: nb_exprimes[int] Nombre de votants\n- *Nombre de candidats*: column_18[int] Nombre de candidats\n- *Sigle du candidat*: candidat_1[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n\n- *Nombre de voix du candidat*: nb_voix_1[int]\n- *Sigle du candidat*: candidat_2[text]\n- *Nombre de voix du candidat*: nb_voix_2[int]\n- *Sigle du candidat*: candidat_3[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n\n- *Nombre de voix du candidat*: nb_voix_3[int]\n- *Sigle du candidat*: candidat_4[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n\n\n- *Nombre de voix du candidat*: nb_voix_4[int]\n- *Sigle du candidat*: candidat_5[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n- *Nombre de voix du candidat*: nb_voix_5[int] Nombre de voix du candidat\n- *Sigle du candidat*: candidat_6[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n- *Nombre de voix du candidat*: nb_voix_6[int] Nombre de voix du candidat\n- *Sigle du candidat*: candidat_7[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n- *Nombre de voix du candidat*: nb_voix_7[int] Nombre de voix du candidat\n- *Sigle du candidat*: candidat_8[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n- *Nombre de voix du candidat*: nb_voix_8[int] Nombre de voix du candidat\n- *Sigle du candidat*: candidat_9[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n- *Nombre de voix du candidat*: nb_voix_9[int] Nombre de voix du candidat\n- *Sigle du candidat*: nb_voix_10[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n- *Nombre de voix du candidat*: column_38[int] Nombre de voix du candidat\n- *Sigle du candidat*: candidat_11[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n- *Nombre de voix du candidat*: nb_voix_11[int]\n- *Geo Point*: geo_point_2d[geo_point_2d]\n- *ADRESSE*: adresse_lieu[text]\n- *NOM*: nom_lieu[text]\n- *pourcentage_participation*: pourcentage_participation[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "d19af32e-c294-4b28-83c0-499154428cf7",
+      "last_modified": "2017-04-23T23:25:30",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d19af32e-c294-4b28-83c0-499154428cf7",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:22:13.911000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/election-presidentielle-2017-1er-tour-resultats-ville-de-toulouse/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:22:13.911000",
+      "description": "- *Sequence*: column_1[int] Num\u00e9ro de s\u00e9quence incr\u00e9ment\u00e9 par ligne de 1 \u00e0 n\n- *Type*: column_2[text] Type d'\u00e9lection\u00a0: \u00ab\u00a0PR\u00a0\u00bb pour la pr\u00e9sidentielle\n- *Ann\u00e9e*: column_3[text] Ann\u00e9e de l'\u00e9lection\u00a0: \u00ab\u00a02017\u00bb\n- *Tour*: numero_tour[int] Num\u00e9ro du tour\u00a0: \u00ab\u00a01\u00a0\u00bb pour le 1ier tour, \u00ab\u00a02\u00a0\u00bb pour le 2i\u00e8me tour\n- *D\u00e9partement*: column_5[int] Code du d\u00e9partement\u00a0: \u00ab\u00a031\u00a0\u00bb\n- *Commune*: column_6[int] Code de la commune\u00a0: \u00ab\u00a0555\u00a0\u00bb\n- *Num\u00e9ro du bureau*: numero_lieu[text] \u00ab\u00a00001\u00a0\u00bb \u00e0 \u00ab\u00a00256\u00a0\u00bb, 7 bureaux ont une lettre accol\u00e9e ex 69A\n- * Code canton*: column_8[int] \u00ab\u00a015\u00a0\u00bb pour Toulouse I\n\u00ab\u00a016\u00bb pour Toulouse II\n\u00ab\u00a017\u00a0\u00bb pour Toulouse III\n\u00ab\u00a018\u00a0\u00bb pour Toulouse IV\n\u00ab\u00a019\u00a0\u00bb pour Toulouse V\n\u00ab\u00a010\u00a0\u00bb pour Toulouse VI\n\u00ab\u00a021\u00a0\u00bb pour Toulouse VII\n\u00ab\u00a022\u00a0\u00bb pour Toulouse VIII\n\u00ab\u00a023\u00a0\u00bb pour Toulouse IX\n\u00ab\u00a024\u00a0\u00bb pour Toulouse X\n\u00ab\u00a025\u00a0\u00bb pour Toulouse XI\n\n- *Code circonscription*: column_9[text] \u00ab\u00a001\u00a0\u00bb pour circonscription 1\n\u00ab\u00a002\u00a0\u00bb pour circonscription 2\n\u00ab\u00a003\u00a0\u00bb pour circonscription 3\n\u00ab\u00a005\u00a0\u00bb pour circonscription 5\n\u00ab\u00a009\u00a0\u00bb pour circonscription 9\n\n- *Indicatif*: column_10[text] valeur fixe \u00ab\u00a0I\u00a0\u00bb pour r\u00e9sultat initial (\u00ab\u00a0R\u00a0\u00bb si r\u00e9sultat rectifi\u00e9)\n- *Nombre d'inscrits*: nb_inscrits[int] Nombre d'inscrits\n- *Nombre d'abstentions*: column_12[int] Nombre d'abstentions\n- *Nombre de votants*: nb_bulletins[int]\n- *Nombre de votants d'apr\u00e8s les feuilles d'\u00e9margement*: nb_emargements[int] Nombre de votants d'apr\u00e8s les feuilles d'\u00e9margement\n\n- *Nombre de bulletins blancs*: column_15[int] Nombre de bulletins blancs\n- *Nombre de bulletins nuls*: nb_nuls[int] Nombre de bulletins nuls\n- *Nombre d'exprim\u00e9s*: nb_exprimes[int] Nombre de votants\n- *Nombre de candidats*: column_18[int] Nombre de candidats\n- *Sigle du candidat*: candidat_1[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n\n- *Nombre de voix du candidat*: nb_voix_1[int]\n- *Sigle du candidat*: candidat_2[text]\n- *Nombre de voix du candidat*: nb_voix_2[int]\n- *Sigle du candidat*: candidat_3[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n\n- *Nombre de voix du candidat*: nb_voix_3[int]\n- *Sigle du candidat*: candidat_4[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n\n\n- *Nombre de voix du candidat*: nb_voix_4[int]\n- *Sigle du candidat*: candidat_5[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n- *Nombre de voix du candidat*: nb_voix_5[int] Nombre de voix du candidat\n- *Sigle du candidat*: candidat_6[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n- *Nombre de voix du candidat*: nb_voix_6[int] Nombre de voix du candidat\n- *Sigle du candidat*: candidat_7[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n- *Nombre de voix du candidat*: nb_voix_7[int] Nombre de voix du candidat\n- *Sigle du candidat*: candidat_8[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n- *Nombre de voix du candidat*: nb_voix_8[int] Nombre de voix du candidat\n- *Sigle du candidat*: candidat_9[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n- *Nombre de voix du candidat*: nb_voix_9[int] Nombre de voix du candidat\n- *Sigle du candidat*: nb_voix_10[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n- *Nombre de voix du candidat*: column_38[int] Nombre de voix du candidat\n- *Sigle du candidat*: candidat_11[text] Sigle du candidat (4 premi\u00e8res lettres du nom)\n- *Nombre de voix du candidat*: nb_voix_11[int]\n- *Geo Point*: geo_point_2d[geo_point_2d]\n- *ADRESSE*: adresse_lieu[text]\n- *NOM*: nom_lieu[text]\n- *pourcentage_participation*: pourcentage_participation[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "a80f499f-c9c0-4240-98cb-34649d4d6266",
+      "last_modified": "2017-04-23T23:25:30",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a80f499f-c9c0-4240-98cb-34649d4d6266",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:22:13.911000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/election-presidentielle-2017-1er-tour-resultats-ville-de-toulouse/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "election-presidentielle-2017-1er-tour-resultats-ville-de-toulouse",
+  "spatial": null,
+  "tags": [
+    "1er",
+    "2017",
+    "citoyennete",
+    "election",
+    "premier",
+    "presidentielle",
+    "tour"
+  ],
+  "temporal_coverage": null,
+  "title": "Election pr\u00e9sidentielle 2017 - 1er tour - R\u00e9sultats - Ville de Toulouse",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/election-presidentielle-2017-1er-tour-resultats-ville-de-toulouse/"
+}

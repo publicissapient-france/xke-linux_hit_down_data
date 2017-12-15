@@ -1,0 +1,165 @@
+{
+  "badges": [],
+  "created_at": "2016-10-24T13:21:01.589000",
+  "deleted": null,
+  "description": "Open Product Data database aggregated by registration owners. \n\nThis restitution is based on products defined in POD database. The completion of POD database is in progress so it's normal to find empty fields. \n\nFields documentation can be found here: [ http://www.product-open-data.com/docs/POD-SPECS-2...](http://www.product-open-data.com/docs/POD-SPECS-2013.10.08_01.xlsx.)",
+  "extras": {
+    "harvest:domain": "pod.opendatasoft.com",
+    "harvest:last_update": "2016-10-24T13:21:01.594530",
+    "harvest:remote_id": "pod_gcp_aggr_gs1",
+    "harvest:source_id": "561be057c751df702ccdbb48",
+    "ods:has_records": true,
+    "ods:references": "http://www.product-open-data.com/download",
+    "ods:url": "http://pod.opendatasoft.com//explore/dataset/pod_gcp_aggr_gs1/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "580dee9da3a7292dcfa9d32e",
+  "last_modified": "2016-10-24T13:21:01.598000",
+  "last_update": "2016-10-24T13:21:01.592000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa0a3a7292c64a78061",
+    "logo": "https://www.data.gouv.fr/s/avatars/2014-11-17/e32209b275224854bc00f953505e7872/250_blue-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-11-17/e32209b275224854bc00f953505e7872/250_blue-100.jpg",
+    "name": "OpenDataSoft",
+    "page": "https://www.data.gouv.fr/fr/organizations/opendatasoft/",
+    "slug": "opendatasoft",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/opendatasoft/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/pod-database-gcp-codes-aggregates-per-registration-owner-2013-12-20/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2016-10-24T13:21:01.591000",
+      "description": "- *Registration Country ISO Code*: country_iso_cd[text]\n- *Geo Coordinates (WGS84)*: geo_coordinates[geo_point_2d]\n- *Count GCP*: count_gs1[int]\n- *Count Logistical Owners*: count_gln[int]\n- *Count Prefixes*: count_prefix[int]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T18:08:02.577000",
+        "check:status": 200,
+        "check:url": "http://pod.opendatasoft.com//explore/dataset/pod_gcp_aggr_gs1/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "979b676c-48a6-4ef7-8379-1d791c3fd661",
+      "last_modified": "2013-12-20T21:01:05",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/979b676c-48a6-4ef7-8379-1d791c3fd661",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2016-10-24T13:21:01.591000",
+      "title": "Export au format CSV",
+      "url": "http://pod.opendatasoft.com//explore/dataset/pod_gcp_aggr_gs1/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2016-10-24T13:21:01.591000",
+      "description": "- *Registration Country ISO Code*: country_iso_cd[text]\n- *Geo Coordinates (WGS84)*: geo_coordinates[geo_point_2d]\n- *Count GCP*: count_gs1[int]\n- *Count Logistical Owners*: count_gln[int]\n- *Count Prefixes*: count_prefix[int]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T18:08:02.595000",
+        "check:status": 200,
+        "check:url": "http://pod.opendatasoft.com//explore/dataset/pod_gcp_aggr_gs1/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "edb199b9-54ee-450b-84a6-3a466ae05be9",
+      "last_modified": "2013-12-20T21:01:05",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/edb199b9-54ee-450b-84a6-3a466ae05be9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2016-10-24T13:21:01.592000",
+      "title": "Export au format JSON",
+      "url": "http://pod.opendatasoft.com//explore/dataset/pod_gcp_aggr_gs1/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2016-10-24T13:21:01.592000",
+      "description": "- *Registration Country ISO Code*: country_iso_cd[text]\n- *Geo Coordinates (WGS84)*: geo_coordinates[geo_point_2d]\n- *Count GCP*: count_gs1[int]\n- *Count Logistical Owners*: count_gln[int]\n- *Count Prefixes*: count_prefix[int]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T18:08:02.562000",
+        "check:status": 200,
+        "check:url": "http://pod.opendatasoft.com//explore/dataset/pod_gcp_aggr_gs1/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "168c9206-de16-4d9c-8e6c-2f035a30361a",
+      "last_modified": "2013-12-20T21:01:05",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/168c9206-de16-4d9c-8e6c-2f035a30361a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2016-10-24T13:21:01.592000",
+      "title": "Export au format GeoJSON",
+      "url": "http://pod.opendatasoft.com//explore/dataset/pod_gcp_aggr_gs1/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2016-10-24T13:21:01.592000",
+      "description": "- *Registration Country ISO Code*: country_iso_cd[text]\n- *Geo Coordinates (WGS84)*: geo_coordinates[geo_point_2d]\n- *Count GCP*: count_gs1[int]\n- *Count Logistical Owners*: count_gln[int]\n- *Count Prefixes*: count_prefix[int]\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-15T04:04:49.065000",
+        "check:status": 200,
+        "check:url": "http://pod.opendatasoft.com//explore/dataset/pod_gcp_aggr_gs1/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "b48e1988-025a-4d7a-b9d3-62ebeb5e503e",
+      "last_modified": "2013-12-20T21:01:05",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b48e1988-025a-4d7a-b9d3-62ebeb5e503e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2016-10-24T13:21:01.592000",
+      "title": "Export au format Shapefile",
+      "url": "http://pod.opendatasoft.com//explore/dataset/pod_gcp_aggr_gs1/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "pod-database-gcp-codes-aggregates-per-registration-owner-2013-12-20",
+  "spatial": null,
+  "tags": [
+    "open-data",
+    "product"
+  ],
+  "temporal_coverage": null,
+  "title": "POD Database - GCP Codes, Aggregates per Registration Owner - 2013/12/20",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/pod-database-gcp-codes-aggregates-per-registration-owner-2013-12-20/"
+}

@@ -1,0 +1,280 @@
+{
+  "badges": [],
+  "created_at": "2014-09-24T10:57:02.028000",
+  "deleted": null,
+  "description": "Les \u00e9tudes INCA constituent un des outils indispensables \u00e0 l\u2019\u00e9valuation du risque. En effet, elles fournissent \u00e0 un moment donn\u00e9 une photographie des habitudes de consommations alimentaires de la population en France m\u00e9tropolitaine. Combin\u00e9es aux bases de donn\u00e9es de l\u2019Anses sur la composition des aliments (plusieurs millions de donn\u00e9es), ces donn\u00e9es permettent de conna\u00eetre les apports en substances b\u00e9n\u00e9fiques pr\u00e9sentes dans notre alimentation (vitamines, acides gras essentiels, etc.)\r\n\r\nLes donn\u00e9es disponibles int\u00e8grent l\u2019ensemble des th\u00e9matiques couvertes par l\u2019\u00e9tude : -les caract\u00e9ristiques des individus ayant particip\u00e9 \u00e0 l\u2019\u00e9tude, notamment d\u00e9mographiques et socio\u00e9conomiques, crit\u00e8res de choix des aliments, pr\u00e9paration et conservation des aliments, habitudes de vie, \u00e9tat de sant\u00e9, attitudes et opinions en alimentation ; -les apports nutritionnels journaliers en 38 nutriments des individus ; -les consommations alimentaires d\u00e9taill\u00e9es et quantifi\u00e9es sur la semaine des individus et le descriptif des occasions de consommation (lieu, dur\u00e9e, etc.) ; -les consommations de compl\u00e9ments alimentaires (type de compl\u00e9ments alimentaires et quantit\u00e9, contexte et motivations d\u2019achat) et les apports nutritionnels issus des compl\u00e9ments alimentaires au niveau individuel. Plus d'informations sur [www.anses.fr](http://www.anses.fr)",
+  "extras": {},
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5422875e88ee38334e5b9e15",
+  "last_modified": "2016-03-16T23:34:46.113000",
+  "last_update": "2014-09-24T11:16:02.074000",
+  "license": "fr-lo",
+  "metrics": {
+    "cow_criticals": 0,
+    "cow_errors": 0,
+    "cow_score": 0,
+    "cow_warnings": 0,
+    "discussions": 0,
+    "followers": 3,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 2,
+    "views": 8145
+  },
+  "organization": {
+    "acronym": "Anses",
+    "class": "Organization",
+    "id": "534fff50a3a7292c64a77cc0",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-05-06/7b061c43e0c54a13838faea5e6252ea5/Logo_Anses_couleur_2-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-05-06/7b061c43e0c54a13838faea5e6252ea5/Logo_Anses_couleur_2-100.jpg",
+    "name": "Agence nationale de s\u00e9curit\u00e9 sanitaire, de l'alimentation, de l'environnement et du travail (Anses)",
+    "page": "https://www.data.gouv.fr/fr/organizations/agence-nationale-de-securite-sanitaire-de-l-alimentation-de-l-environnement-et-du-travail-anses/",
+    "slug": "agence-nationale-de-securite-sanitaire-de-l-alimentation-de-l-environnement-et-du-travail-anses",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/agence-nationale-de-securite-sanitaire-de-l-alimentation-de-l-environnement-et-du-travail-anses/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/donnees-de-consommations-et-habitudes-alimentaires-de-letude-inca-2-3/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2014-09-24T10:59:07.127000",
+      "description": "Important ! Vous trouverez dans la notice toutes les descriptions des tables et les \u00e9l\u00e9ments permettant une bonne compr\u00e9hension des donn\u00e9es.",
+      "extras": {},
+      "filesize": null,
+      "filetype": "file",
+      "format": "pdf",
+      "id": "112d659a-fc5c-430e-af43-737bb8f80cce",
+      "last_modified": "2014-09-24T10:59:07.127000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/112d659a-fc5c-430e-af43-737bb8f80cce",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 453
+      },
+      "mime": null,
+      "published": "2014-09-24T10:59:07.127000",
+      "title": "Notice d'utilisation pour INCA 2",
+      "url": "https://www.data.gouv.fr/_uploads/resources/notice_utilisation_inca2_2.pdf"
+    },
+    {
+      "checksum": null,
+      "created_at": "2014-09-24T10:59:57.143000",
+      "description": "Nomenclature INCA2",
+      "extras": {},
+      "filesize": null,
+      "filetype": "file",
+      "format": "csv",
+      "id": "7eeadfdc-0d98-4364-8adb-0d77d421823c",
+      "last_modified": "2014-09-24T10:59:57.143000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7eeadfdc-0d98-4364-8adb-0d77d421823c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 143
+      },
+      "mime": null,
+      "published": "2014-09-24T10:59:57.143000",
+      "title": "Nomenclature INCA2",
+      "url": "https://www.data.gouv.fr/_uploads/resources/Nomenclature_3.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2014-09-24T11:01:01.087000",
+      "description": "Cette table regroupe les informations sur les caract\u00e9ristiques d\u00e9mographiques et socio\u00e9conomiques, les habitudes de vie, l\u2019\u00e9tat de sant\u00e9, les attitudes et opinions en alimentation des 4079 individus. C\u2019est aussi dans cette table que se trouvent les variables n\u00e9cessaires pour : - la pond\u00e9ration des individus : POND_ADU_ECH (pour les adultes) et POND_ENF_ECH (pour les enfants) - le calcul du survey design : o variables de stratification : REG et AGGLO5 o variables de cluster : UP Cette table contient 4079 observations et 368 variables pr\u00e9sent\u00e9es ci-dessous.",
+      "extras": {},
+      "filesize": null,
+      "filetype": "file",
+      "format": "csv",
+      "id": "fccd4b8c-c6c8-4eff-aebb-65c48bec9e36",
+      "last_modified": "2014-09-24T11:01:01.087000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fccd4b8c-c6c8-4eff-aebb-65c48bec9e36",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 206
+      },
+      "mime": null,
+      "published": "2014-09-24T11:01:01.087000",
+      "title": "Table de description des individus",
+      "url": "https://www.data.gouv.fr/_uploads/resources/Table_indiv.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2014-09-24T11:02:27.731000",
+      "description": "Cette table regroupe les 541 526 lignes de consommations recueillies dans les carnets de consommations des 4079 individus. Les consommations sont d\u00e9crites par le code de l\u2019aliment dans la nomenclature INCA2 (CODAL) et les quantit\u00e9s consomm\u00e9es (la variable QTE_NETTE est la quantit\u00e9 nette consomm\u00e9e apr\u00e8s prise en compte de la proportion comestible, la variable QTE_BRUTE, la quantit\u00e9 consomm\u00e9e avant prise en compte de la proportion comestible). Pour calculer les consommations journali\u00e8res, il faut tenir compte du nombre de jour de remplissage du carnet par l\u2019individu renseign\u00e9 dans la variable NBJCC de la table INDIV.",
+      "extras": {},
+      "filesize": null,
+      "filetype": "file",
+      "format": "csv",
+      "id": "d61ad360-e1e8-4f2a-8e6e-5b9eda0c6091",
+      "last_modified": "2014-09-24T11:02:27.731000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/d61ad360-e1e8-4f2a-8e6e-5b9eda0c6091",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 860
+      },
+      "mime": null,
+      "published": "2014-09-24T11:02:27.731000",
+      "title": "Table des consommations",
+      "url": "https://www.data.gouv.fr/_uploads/resources/Table_conso.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2014-09-24T11:05:44.479000",
+      "description": "Cette table reprend les variables de l\u2019auto-questionnaire et du questionnaire en face \u00e0 face associ\u00e9es aux 4079 m\u00e9nages dont sont issus les individus enqu\u00eat\u00e9s : composition du m\u00e9nage, caract\u00e9ristiques socio-\u00e9conomiques du chef de m\u00e9nage, \u00e9quipement du foyer, situation financi\u00e8re du foyer, crit\u00e8res de choix des aliments, pr\u00e9paration et conservation des aliments.\r\nC\u2019est aussi dans cette table que se trouvent les variables n\u00e9cessaires pour :\r\n- la pond\u00e9ration au niveau m\u00e9nage : POND_MEN\r\n- le calcul du survey design :\r\no variables de stratification : REG et AGGLO5 (\u00e9galement pr\u00e9sentes dans la table INDIV)\r\no variable de cluster : UP (\u00e9galement pr\u00e9sentes dans la table INDIV).",
+      "extras": {},
+      "filesize": null,
+      "filetype": "file",
+      "format": "csv",
+      "id": "f3903792-0579-40b5-a3f9-9d2bc8a66d4b",
+      "last_modified": "2014-09-24T11:05:44.479000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f3903792-0579-40b5-a3f9-9d2bc8a66d4b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 157
+      },
+      "mime": null,
+      "published": "2014-09-24T11:05:44.479000",
+      "title": "Table relative aux donn\u00e9es sur les m\u00e9nages",
+      "url": "https://www.data.gouv.fr/_uploads/resources/Table_menage_1.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2014-09-24T11:07:48.743000",
+      "description": "Cette table regroupe les habitudes de consommation de compl\u00e9ments alimentaires des 4079 individus (motivations d\u2019achat, but recherch\u00e9, saison de pr\u00e9dilection pour la consommation) ainsi que les apports nutritionnels journaliers li\u00e9s aux compl\u00e9ments alimentaires, estim\u00e9s \u00e0 partir des 7 jours du carnet (variables COMPL_7J_NUTx) ou du questionnaire sur les 12 derniers mois (variables COMPL_12M_NUTx). Le rep\u00e9rage des consommateurs de compl\u00e9ments se fait avec la variable COMPL12m=1.",
+      "extras": {},
+      "filesize": null,
+      "filetype": "file",
+      "format": "csv",
+      "id": "1ed94e65-bae9-43a8-a9b7-3d9e22209368",
+      "last_modified": "2014-09-24T11:07:48.743000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1ed94e65-bae9-43a8-a9b7-3d9e22209368",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 196
+      },
+      "mime": null,
+      "published": "2014-09-24T11:07:48.743000",
+      "title": "Table  de consommation des compl\u00e9ments alimentaires",
+      "url": "https://www.data.gouv.fr/_uploads/resources/Table_indiv_ca.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2014-09-24T11:09:21.635000",
+      "description": "Cette table regroupe les variables d\u00e9crivant les prises alimentaires (type, jour, lieu, compagnie, \u2026) des carnets de 7 jours pour les 4079 individus. L\u2019ensemble des 171 318 (4079 individus x 7 jours x 6 repas) repas sont inclus, y compris les repas non pris qui sont identifi\u00e9s par la variable TEMREP=1.",
+      "extras": {},
+      "filesize": null,
+      "filetype": "file",
+      "format": "csv",
+      "id": "a013a922-7066-4c8a-aead-e03dc9288254",
+      "last_modified": "2014-09-24T11:09:21.635000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a013a922-7066-4c8a-aead-e03dc9288254",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 34
+      },
+      "mime": null,
+      "published": "2014-09-24T11:09:21.635000",
+      "title": "Table de description des repas",
+      "url": "https://www.data.gouv.fr/_uploads/resources/Table_repas.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2014-09-24T11:11:25.891000",
+      "description": "Cette table regroupe les informations relatives \u00e0 la consommation et \u00e0 la composition d\u00e9clar\u00e9e par les individus des 4579 compl\u00e9ments alimentaires consomm\u00e9s au cours des 12 mois pr\u00e9c\u00e9dant l\u2019\u00e9tude INCA 2 par les 4079 individus. Le rep\u00e9rage des consommateurs de compl\u00e9ments se fait avec la variable COMPL12m=1.",
+      "extras": {},
+      "filesize": null,
+      "filetype": "file",
+      "format": "csv",
+      "id": "e0ab33c6-8e24-48b8-bead-229a4616225e",
+      "last_modified": "2014-09-24T11:11:25.891000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e0ab33c6-8e24-48b8-bead-229a4616225e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 25
+      },
+      "mime": null,
+      "published": "2014-09-24T11:11:25.891000",
+      "title": "Table de consommation et composition des compl\u00e9ments alimentaires",
+      "url": "https://www.data.gouv.fr/_uploads/resources/Table_capi_ca.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2014-09-24T11:13:18.040000",
+      "description": "Cette table regroupe l\u2019ensemble des lignes des carnets de 7 jours de consommation de compl\u00e9ments alimentaires. Le rep\u00e9rage des consommateurs de compl\u00e9ments sur la semaine se fait avec la variable NBCOMPL>0.",
+      "extras": {},
+      "filesize": null,
+      "filetype": "file",
+      "format": "csv",
+      "id": "eadfbcd3-f5ac-43e1-86de-43d4a210e991",
+      "last_modified": "2014-09-24T11:13:18.040000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/eadfbcd3-f5ac-43e1-86de-43d4a210e991",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 16
+      },
+      "mime": null,
+      "published": "2014-09-24T11:13:18.040000",
+      "title": "Table de consommation sur une semaine de compl\u00e9ments alimentaires",
+      "url": "https://www.data.gouv.fr/_uploads/resources/Table_carnet_ca_1.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2014-09-24T11:16:02.074000",
+      "description": "Cette table regroupe les apports journaliers en 38 nutriments des 4079 individus estim\u00e9s \u00e0 partir des carnets de consommations de l\u2019\u00e9tude INCA2 et des donn\u00e9es de la table de composition du CIQUAL (version 2008). Elle fournit \u00e9galement les contributions \u00e9nerg\u00e9tiques des lipides, glucides, prot\u00e9ines et alcool pour chaque individu.",
+      "extras": {},
+      "filesize": null,
+      "filetype": "file",
+      "format": "csv",
+      "id": "8ec8154c-7271-41bb-afda-87593966baea",
+      "last_modified": "2014-09-24T11:16:02.074000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8ec8154c-7271-41bb-afda-87593966baea",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 59
+      },
+      "mime": null,
+      "published": "2014-09-24T11:16:02.074000",
+      "title": "Table des apports journaliers en nutriments",
+      "url": "https://www.data.gouv.fr/_uploads/resources/Table_indnut.csv"
+    }
+  ],
+  "slug": "donnees-de-consommations-et-habitudes-alimentaires-de-letude-inca-2-3",
+  "spatial": {
+    "geom": null,
+    "granularity": "other",
+    "zones": []
+  },
+  "tags": [
+    "alimentation",
+    "consommation",
+    "habitudes-alimentaires"
+  ],
+  "temporal_coverage": {
+    "end": "2007-04-30",
+    "start": "2006-01-01"
+  },
+  "title": "Donn\u00e9es de consommations et habitudes alimentaires de l'\u00e9tude INCA 2",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/donnees-de-consommations-et-habitudes-alimentaires-de-letude-inca-2-3/"
+}

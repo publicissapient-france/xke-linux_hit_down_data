@@ -1,0 +1,110 @@
+{
+  "badges": [],
+  "created_at": "2014-05-20T00:00:00",
+  "deleted": null,
+  "description": "Vous trouverez ici les points d'int\u00e9r\u00eat issus du site mobile NFC de la route des villages perch\u00e9s.",
+  "extras": {
+    "ckan:name": "points-d-interet-nfc-villages-perches",
+    "harvest:domain": "opendata.nicecotedazur.org",
+    "harvest:last_update": "2017-09-05T15:34:27.214660",
+    "harvest:remote_id": "edbbfefe-86a4-4198-a5b5-c879a762852d",
+    "harvest:source_id": "59aea691c751df40c6e8212c"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59aea7e3b595087a239169e8",
+  "last_modified": "2017-09-05T15:34:27.216000",
+  "last_update": "2017-09-05T15:34:27.213000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "59aea226c751df38f3f6834b",
+    "logo": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-100.png",
+    "name": "Nice C\u00f4te d'Azur",
+    "page": "https://www.data.gouv.fr/fr/organizations/nice-cote-dazur/",
+    "slug": "nice-cote-dazur",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nice-cote-dazur/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/points-d-interet-nfc-villages-perches/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:34:27.213000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T13:35:40.841000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-06-06T10%3A10%3A36.889Z/villages-perches.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "36737231-c083-4934-9a3c-2985a179b73e",
+      "last_modified": "2014-06-23T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/36737231-c083-4934-9a3c-2985a179b73e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-05T15:34:27.213000",
+      "title": "Villages_perch\u00e9s.csv",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-06-06T10%3A10%3A36.889Z/villages-perches.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:34:27.213000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T13:35:35.709000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2014-06-06T10%3A11%3A08.563Z/villages-perches.xls"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "xls",
+      "id": "fdb99bb5-43bd-420f-a784-46d6ff262fa4",
+      "last_modified": "2014-06-23T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fdb99bb5-43bd-420f-a784-46d6ff262fa4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.ms-excel",
+      "published": "2017-09-05T15:34:27.213000",
+      "title": "Villages_perch\u00e9s.xls",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2014-06-06T10%3A11%3A08.563Z/villages-perches.xls"
+    }
+  ],
+  "slug": "points-d-interet-nfc-villages-perches",
+  "spatial": null,
+  "tags": [
+    "arriere-pays",
+    "nfc",
+    "patrimoine",
+    "villages-perches"
+  ],
+  "temporal_coverage": null,
+  "title": "Points d'int\u00e9r\u00eat NFC \"Villages perch\u00e9s\" ",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/points-d-interet-nfc-villages-perches/"
+}

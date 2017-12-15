@@ -1,0 +1,113 @@
+{
+  "badges": [],
+  "created_at": "2017-06-30T00:00:00",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es d\u00e9nombre par EPCI et par tranche d'\u00e2ge, l\u2019ensemble des enfants appartenant \u00e0 un foyer allocataire et ouvrant droit \u00e0 au moins une prestation CAF. L'\u00e2ge utilis\u00e9 ici est l'\u00e2ge atteint dans l'ann\u00e9e (ou \u00e2ge par g\u00e9n\u00e9ration). Il correspond \u00e0 la diff\u00e9rence entre l'ann\u00e9e d'observation et l'ann\u00e9e de naissance de l'individu.\n\nLe foyer allocataire est compos\u00e9 du responsable du dossier (personne qui per\u00e7oit au moins une prestation au regard de sa situation familiale et/ou mon\u00e9taire), et l'ensemble des autres ayants droit au sens de la r\u00e8glementation en vigueur (conjoint, enfant(s) et autre(s) personne(s) \u00e0 charge). Plusieurs foyers allocataires peuvent cohabiter dans un m\u00eame lieu, ils constituent alors un seul m\u00e9nage au sens de la d\u00e9finition statistique Insee. C\u2019est le cas, par exemple, lorsque un couple per\u00e7oit des allocations logement et h\u00e9berge son enfant titulaire d'un minimum social des Caf (RSO, RSA, AAH). En pratique, le terme \"allocataire\" est souvent utilis\u00e9 \u00e0 la place de \"foyer allocataire\".\n\nLe champ g\u00e9ographique d\u2019observation du jeu de donn\u00e9es correspond \u00e0 l\u2019EPCI de r\u00e9sidence du foyer allocataire telle qu\u2019elle est enregistr\u00e9e dans le fichier statistique des allocataires extrait en d\u00e9but d\u2019ann\u00e9e N+1 et ce quelle que soit la Caf de gestion.",
+  "extras": {
+    "ckan:name": "repartition-des-enfants-couverts-par-au-moins-une-prestation-caf-par-tranche-d-age-par-epci",
+    "harvest:domain": "data.caf.fr",
+    "harvest:last_update": "2017-11-27T05:08:58.150911",
+    "harvest:remote_id": "cd72b689-751e-4feb-bd3f-ce0c9d8d44e4",
+    "harvest:source_id": "560d9133c751df40ee756894",
+    "harvested": "2017-10-02T09:53:34.539571",
+    "remote_url": "FILEAS Base Communale Allocataires (BCA)",
+    "source_id": "954ea88a-1b59-4a56-acae-2148a64dbe5e"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "595930eea3a7291dcf9c8250",
+  "last_modified": "2017-11-27T05:08:58.153000",
+  "last_update": "2017-07-02T19:44:14.622000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "CNAF",
+    "class": "Organization",
+    "id": "5595066cc751df4582a453ba",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-07-02/a1bc08e4a4dc44a89cb29697800a83b5/new_logo-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-07-02/a1bc08e4a4dc44a89cb29697800a83b5/new_logo-100.jpg",
+    "name": "Caisse Nationale des Allocations familiales ",
+    "page": "https://www.data.gouv.fr/fr/organizations/allocations-familiales/",
+    "slug": "allocations-familiales",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/allocations-familiales/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/repartition-des-enfants-couverts-par-au-moins-une-prestation-caf-par-tranche-d-age-par-epci/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:44:14.621000",
+      "description": "Lisez-moi",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T18:13:33.654000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/cd72b689-751e-4feb-bd3f-ce0c9d8d44e4/resource/45a05f0f-2766-4045-b25b-c3fc79df6b8e/download/descriptifNBEnfant.txt"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "txt",
+      "id": "45a05f0f-2766-4045-b25b-c3fc79df6b8e",
+      "last_modified": "2017-06-23T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/45a05f0f-2766-4045-b25b-c3fc79df6b8e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T19:44:14.621000",
+      "title": "Descriptif du fichier r\u00e9partition des enfants par EPCI",
+      "url": "http://data.caf.fr/dataset/cd72b689-751e-4feb-bd3f-ce0c9d8d44e4/resource/45a05f0f-2766-4045-b25b-c3fc79df6b8e/download/descriptifNBEnfant.txt"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:44:14.621000",
+      "description": "R\u00e9partition par tranche d'\u00e2ge des enfants b\u00e9n\u00e9ficiaires d'au moins une prestation Caf en 2016.",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T18:13:33.658000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/cd72b689-751e-4feb-bd3f-ce0c9d8d44e4/resource/c4f28225-128d-42b0-98b0-1bad96ceda17/download/ENFANTEPCI2016.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c4f28225-128d-42b0-98b0-1bad96ceda17",
+      "last_modified": "2017-06-22T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c4f28225-128d-42b0-98b0-1bad96ceda17",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T19:44:14.622000",
+      "title": "Enfants b\u00e9n\u00e9ficiaires des prestations Caf en 2016",
+      "url": "http://data.caf.fr/dataset/cd72b689-751e-4feb-bd3f-ce0c9d8d44e4/resource/c4f28225-128d-42b0-98b0-1bad96ceda17/download/ENFANTEPCI2016.csv"
+    }
+  ],
+  "slug": "repartition-des-enfants-couverts-par-au-moins-une-prestation-caf-par-tranche-d-age-par-epci",
+  "spatial": null,
+  "tags": [
+    "age",
+    "enfant",
+    "epci",
+    "tranche"
+  ],
+  "temporal_coverage": null,
+  "title": "R\u00e9partition des enfants couverts par au moins une prestation Caf par tranche d'\u00e2ge - par EPCI",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/repartition-des-enfants-couverts-par-au-moins-une-prestation-caf-par-tranche-d-age-par-epci/"
+}

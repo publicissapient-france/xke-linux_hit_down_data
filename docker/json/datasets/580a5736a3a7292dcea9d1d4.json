@@ -1,0 +1,103 @@
+{
+  "badges": [],
+  "created_at": "2016-10-21T19:58:14.176000",
+  "deleted": null,
+  "description": "Poids, en tonnes, des mati\u00e8res d\u00e9pos\u00e9es dans les d\u00e9ch\u00e8teries et plateformes de v\u00e9g\u00e9taux \u00e0 Rennes M\u00e9tropole depuis 2013.\n\nLes chiffres sont fournis par la Direction d\u00e9chets et r\u00e9seaux d'\u00e9nergies.\n\nLes d\u00e9ch\u00e8teries de Cesson-S\u00e9vign\u00e9 (jusqu'au 28/2/2015) et Pac\u00e9 (depuis le 1/3/2015) ont re\u00e7u les d\u00e9chets verts collect\u00e9s \u00e0 Rennes en porte-\u00e0-porte, ce qui explique leurs tonnages importants.\n\nLes sites de Bourgbarr\u00e9, Chavagne, Corps-Nuds, Noyal-Ch\u00e2tillon-sur-Seiche, Org\u00e8res et Saint-Erblon sont des plateformes de v\u00e9g\u00e9taux g\u00e9r\u00e9es \u00e0 l'\u00e9chelon municipal.",
+  "extras": {
+    "harvest:domain": "data.rennesmetropole.fr",
+    "harvest:last_update": "2017-11-27T04:01:11.934154",
+    "harvest:remote_id": "matieres-collectees-en-decheteries-et-plateformes-de-vegetaux-a-rennes-metropole",
+    "harvest:source_id": "580736ec88ee3816625ff490",
+    "ods:has_records": true,
+    "ods:url": "https://data.rennesmetropole.fr/explore/dataset/matieres-collectees-en-decheteries-et-plateformes-de-vegetaux-a-rennes-metropole/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "580a5736a3a7292dcea9d1d4",
+  "last_modified": "2017-11-27T04:01:11.935000",
+  "last_update": "2017-11-27T04:01:11.933000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "RM",
+    "class": "Organization",
+    "id": "580735be88ee3814295ff490",
+    "logo": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-100.png",
+    "name": "Rennes M\u00e9tropole en acc\u00e8s libre",
+    "page": "https://www.data.gouv.fr/fr/organizations/rennes-metropole-en-acces-libre-1/",
+    "slug": "rennes-metropole-en-acces-libre-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/rennes-metropole-en-acces-libre-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/tonnages-des-matieres-collectees-en-decheteries-a-rennes-metropole/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:01:11.933000",
+      "description": "- *Site*: site[text]\n- *Equipement*: equipement[text]\n- *Ann\u00e9e*: annee[date]\n- *Mati\u00e8re*: matiere[text]\n- *Tonnage*: tonnage[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c12f5ff2-20dd-4449-9383-d93ea00a223f",
+      "last_modified": "2016-08-16T09:29:46",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c12f5ff2-20dd-4449-9383-d93ea00a223f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T04:01:11.933000",
+      "title": "Export au format CSV",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/matieres-collectees-en-decheteries-et-plateformes-de-vegetaux-a-rennes-metropole/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:01:11.933000",
+      "description": "- *Site*: site[text]\n- *Equipement*: equipement[text]\n- *Ann\u00e9e*: annee[date]\n- *Mati\u00e8re*: matiere[text]\n- *Tonnage*: tonnage[double]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "775a737d-f95a-4bcd-be76-ce6162991ad9",
+      "last_modified": "2016-08-16T09:29:46",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/775a737d-f95a-4bcd-be76-ce6162991ad9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T04:01:11.933000",
+      "title": "Export au format JSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/matieres-collectees-en-decheteries-et-plateformes-de-vegetaux-a-rennes-metropole/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "tonnages-des-matieres-collectees-en-decheteries-a-rennes-metropole",
+  "spatial": null,
+  "tags": [
+    "decheterie",
+    "dechets",
+    "dechetterie",
+    "environnement",
+    "vegetaux"
+  ],
+  "temporal_coverage": null,
+  "title": "Tonnages des mati\u00e8res collect\u00e9es en d\u00e9ch\u00e8teries \u00e0 Rennes M\u00e9tropole",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/tonnages-des-matieres-collectees-en-decheteries-a-rennes-metropole/"
+}

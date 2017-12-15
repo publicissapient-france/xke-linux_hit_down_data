@@ -1,0 +1,738 @@
+{
+  "badges": [],
+  "created_at": "2017-04-24T00:00:00",
+  "deleted": null,
+  "description": "PLU de Cagnes-Sur-Mer approuv\u00e9 le 19/12/2011 et modifi\u00e9 le 13/03/2017.",
+  "extras": {
+    "ckan:name": "plu-de-cagnes-sur-mer",
+    "harvest:domain": "opendata.nicecotedazur.org",
+    "harvest:last_update": "2017-09-05T15:33:47.326998",
+    "harvest:remote_id": "98985b40-cbcc-4165-8f10-34aaebd6d5c9",
+    "harvest:source_id": "59aea691c751df40c6e8212c",
+    "spatial": "{\"type\": \"Polygon\", \"coordinates\": [[[7.11849901, 43.65633627], [7.14231647, 43.70310576], [7.18774774, 43.67996979], [7.16393028, 43.6332003], [7.11849901, 43.65633627]]]}",
+    "spatial-text": "CAGNES-SUR-MER"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59aea7bba3a72917daf3fc74",
+  "last_modified": "2017-09-05T15:33:47.329000",
+  "last_update": "2017-09-05T15:33:47.326000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "59aea226c751df38f3f6834b",
+    "logo": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/08/d2b35780ce41768addccd1f563be92-100.png",
+    "name": "Nice C\u00f4te d'Azur",
+    "page": "https://www.data.gouv.fr/fr/organizations/nice-cote-dazur/",
+    "slug": "nice-cote-dazur",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/nice-cote-dazur/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/plu-de-cagnes-sur-mer/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:47.314000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T16:06:41.892000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A33%3A00.943Z/t06027-prescription-lin-20170313.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "cdb24192-bbf0-45fd-a591-403a091fade5",
+      "last_modified": "2017-04-24T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cdb24192-bbf0-45fd-a591-403a091fade5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-05T15:33:47.314000",
+      "title": "T06027_prescription_lin_20170313.csv",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A33%3A00.943Z/t06027-prescription-lin-20170313.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:47.314000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T16:06:41.892000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A33%3A18.790Z/t06027-prescription-lin-20170313.geojson"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "geojson",
+      "id": "931ce6b6-9054-44f7-86a0-b296dbbd6534",
+      "last_modified": "2017-04-24T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/931ce6b6-9054-44f7-86a0-b296dbbd6534",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/plain",
+      "published": "2017-09-05T15:33:47.314000",
+      "title": "T06027_prescription_lin_20170313.geojson",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A33%3A18.790Z/t06027-prescription-lin-20170313.geojson"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:47.315000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T16:06:42.082000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A33%3A34.299Z/t06027-prescription-lin-20170313.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "546558f7-806d-4157-8b97-4c9612166306",
+      "last_modified": "2017-04-24T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/546558f7-806d-4157-8b97-4c9612166306",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-09-05T15:33:47.315000",
+      "title": "T06027_prescription_lin_20170313.json",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A33%3A34.299Z/t06027-prescription-lin-20170313.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:47.316000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-20T12:31:31.713000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A33%3A52.180Z/t06027-prescription-lin-20170313.kmz"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "kmz",
+      "id": "608b8f90-ab82-41e2-aca1-ef4c643f5398",
+      "last_modified": "2017-04-24T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/608b8f90-ab82-41e2-aca1-ef4c643f5398",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.google-earth.kmz",
+      "published": "2017-09-05T15:33:47.316000",
+      "title": "T06027_prescription_lin_20170313.kmz",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A33%3A52.180Z/t06027-prescription-lin-20170313.kmz"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:47.316000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T16:06:42.454000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A34%3A11.088Z/t06027-prescription-lin-20170313-rgf93l93-shapefile.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "3822b552-7299-435c-814a-79fb77764d5b",
+      "last_modified": "2017-04-24T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3822b552-7299-435c-814a-79fb77764d5b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-09-05T15:33:47.316000",
+      "title": "T06027_prescription_lin_20170313_RGF93L93_shapefile.zip",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A34%3A11.088Z/t06027-prescription-lin-20170313-rgf93l93-shapefile.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:47.317000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-16T16:06:42.706000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A34%3A21.185Z/t06027-prescription-lin-20170313-wgs84-shapefile.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "187c8534-28ac-4df1-b929-a16e0ba6d175",
+      "last_modified": "2017-04-24T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/187c8534-28ac-4df1-b929-a16e0ba6d175",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-09-05T15:33:47.317000",
+      "title": "T06027_prescription_lin_20170313_WGS84_shapefile.zip",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A34%3A21.185Z/t06027-prescription-lin-20170313-wgs84-shapefile.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:47.317000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-21T10:14:10.241000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A37%3A55.947Z/t06027-prescription-pct-20170313.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "3f10c2ce-3e66-47b4-ad9c-befaa24a3aa5",
+      "last_modified": "2017-04-24T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3f10c2ce-3e66-47b4-ad9c-befaa24a3aa5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-05T15:33:47.317000",
+      "title": "T06027_prescription_pct_20170313.csv",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A37%3A55.947Z/t06027-prescription-pct-20170313.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:47.318000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-21T10:14:09.449000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A38%3A20.492Z/t06027-prescription-pct-20170313.geojson"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "geojson",
+      "id": "f849e2ec-e854-4603-b006-0e6076b08a43",
+      "last_modified": "2017-04-24T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f849e2ec-e854-4603-b006-0e6076b08a43",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/plain",
+      "published": "2017-09-05T15:33:47.318000",
+      "title": "T06027_prescription_pct_20170313.geojson",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A38%3A20.492Z/t06027-prescription-pct-20170313.geojson"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:47.318000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-21T10:14:10.241000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A38%3A37.409Z/t06027-prescription-pct-20170313.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "3facc496-7e8f-4a61-b9b6-4c42cc66d7df",
+      "last_modified": "2017-04-24T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3facc496-7e8f-4a61-b9b6-4c42cc66d7df",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-09-05T15:33:47.318000",
+      "title": "T06027_prescription_pct_20170313.json",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A38%3A37.409Z/t06027-prescription-pct-20170313.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:47.319000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-21T10:14:09.982000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A38%3A57.118Z/t06027-prescription-pct-20170313.kmz"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "kmz",
+      "id": "52db24f1-b829-496b-8c3d-58660911cdcb",
+      "last_modified": "2017-04-24T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/52db24f1-b829-496b-8c3d-58660911cdcb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.google-earth.kmz",
+      "published": "2017-09-05T15:33:47.319000",
+      "title": "T06027_prescription_pct_20170313.kmz",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A38%3A57.118Z/t06027-prescription-pct-20170313.kmz"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:47.319000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-21T10:14:11.046000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A39%3A14.032Z/t06027-prescription-pct-20170313-rgf93l93-shapefile.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "1a05f619-d4e9-4ed8-9e43-c506b97f56b6",
+      "last_modified": "2017-04-24T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1a05f619-d4e9-4ed8-9e43-c506b97f56b6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-09-05T15:33:47.319000",
+      "title": "T06027_prescription_pct_20170313_RGF93L93_shapefile.zip",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A39%3A14.032Z/t06027-prescription-pct-20170313-rgf93l93-shapefile.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:47.320000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-21T10:14:12.374000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A39%3A29.280Z/t06027-prescription-pct-20170313-wgs84-shapefile.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "3ebc343f-1aa6-4058-a405-8908c2b65435",
+      "last_modified": "2017-04-24T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3ebc343f-1aa6-4058-a405-8908c2b65435",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-09-05T15:33:47.320000",
+      "title": "T06027_prescription_pct_20170313_WGS84_shapefile.zip",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A39%3A29.280Z/t06027-prescription-pct-20170313-wgs84-shapefile.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:47.321000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-21T10:14:12.390000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A39%3A48.350Z/t06027-prescription-surf-20170313.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "79b6f7a6-6c21-4445-a19f-c5c81a035db2",
+      "last_modified": "2017-04-24T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/79b6f7a6-6c21-4445-a19f-c5c81a035db2",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-05T15:33:47.321000",
+      "title": "T06027_prescription_surf_20170313.csv",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A39%3A48.350Z/t06027-prescription-surf-20170313.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:47.321000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-21T10:14:12.649000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A40%3A05.902Z/t06027-prescription-surf-20170313.geojson"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "geojson",
+      "id": "0edad0db-ec56-4924-82f4-137c880cdf98",
+      "last_modified": "2017-04-24T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0edad0db-ec56-4924-82f4-137c880cdf98",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/plain",
+      "published": "2017-09-05T15:33:47.321000",
+      "title": "T06027_prescription_surf_20170313.geojson",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A40%3A05.902Z/t06027-prescription-surf-20170313.geojson"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:47.322000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-21T10:14:12.390000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A40%3A27.718Z/t06027-prescription-surf-20170313.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "c3621766-cc2c-408b-bb2b-39737b5356e6",
+      "last_modified": "2017-04-24T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c3621766-cc2c-408b-bb2b-39737b5356e6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-09-05T15:33:47.322000",
+      "title": "T06027_prescription_surf_20170313.json",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A40%3A27.718Z/t06027-prescription-surf-20170313.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:47.322000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-21T10:14:12.649000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A40%3A49.212Z/t06027-prescription-surf-20170313.kmz"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "kmz",
+      "id": "953aeca8-bebc-4fd0-9337-57bd074dfa99",
+      "last_modified": "2017-04-24T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/953aeca8-bebc-4fd0-9337-57bd074dfa99",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.google-earth.kmz",
+      "published": "2017-09-05T15:33:47.322000",
+      "title": "T06027_prescription_surf_20170313.kmz",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A40%3A49.212Z/t06027-prescription-surf-20170313.kmz"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:47.323000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-21T10:14:12.390000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A41%3A06.130Z/t06027-prescription-surf-20170313-rgf93l93-shapefile.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "3e67eca5-ea2b-4668-a162-41235cfab1a9",
+      "last_modified": "2017-04-24T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3e67eca5-ea2b-4668-a162-41235cfab1a9",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-09-05T15:33:47.323000",
+      "title": "T06027_prescription_surf_20170313_RGF93L93_shapefile.zip",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A41%3A06.130Z/t06027-prescription-surf-20170313-rgf93l93-shapefile.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:47.323000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-21T10:14:12.687000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A41%3A24.734Z/t06027-prescription-surf-20170313-wgs84-shapefile.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "1e313cce-cd01-4f6a-a2c2-28580c39a3ed",
+      "last_modified": "2017-04-24T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1e313cce-cd01-4f6a-a2c2-28580c39a3ed",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-09-05T15:33:47.323000",
+      "title": "T06027_prescription_surf_20170313_WGS84_shapefile.zip",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A41%3A24.734Z/t06027-prescription-surf-20170313-wgs84-shapefile.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:47.323000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-21T10:14:12.666000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A41%3A48.020Z/t06027-signca-zone-urba-20170313.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "8b545063-ae08-4347-8e37-4cbb4177408a",
+      "last_modified": "2017-04-24T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8b545063-ae08-4347-8e37-4cbb4177408a",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-05T15:33:47.323000",
+      "title": "T06027_signca_zone_urba_20170313.csv",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A41%3A48.020Z/t06027-signca-zone-urba-20170313.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:47.324000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-21T10:14:13.177000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A42%3A03.193Z/t06027-signca-zone-urba-20170313.geojson"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "geojson",
+      "id": "54e9c20a-5749-452f-8545-ac740d4117ac",
+      "last_modified": "2017-04-24T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/54e9c20a-5749-452f-8545-ac740d4117ac",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/plain",
+      "published": "2017-09-05T15:33:47.324000",
+      "title": "T06027_signca_zone_urba_20170313.geojson",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A42%3A03.193Z/t06027-signca-zone-urba-20170313.geojson"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:47.324000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-21T10:14:12.684000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A42%3A18.397Z/t06027-signca-zone-urba-20170313.json"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "a9431f0b-fb24-4a74-a5d5-d64aced97a87",
+      "last_modified": "2017-04-24T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a9431f0b-fb24-4a74-a5d5-d64aced97a87",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-09-05T15:33:47.324000",
+      "title": "T06027_signca_zone_urba_20170313.json",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A42%3A18.397Z/t06027-signca-zone-urba-20170313.json"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:47.325000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-21T10:14:13.178000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A42%3A33.191Z/t06027-signca-zone-urba-20170313.kmz"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "kmz",
+      "id": "c1b2a470-d786-4dd5-ba5b-5ab0f7d2eaea",
+      "last_modified": "2017-04-24T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c1b2a470-d786-4dd5-ba5b-5ab0f7d2eaea",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.google-earth.kmz",
+      "published": "2017-09-05T15:33:47.325000",
+      "title": "T06027_signca_zone_urba_20170313.kmz",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A42%3A33.191Z/t06027-signca-zone-urba-20170313.kmz"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:47.325000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-21T10:14:13.176000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A42%3A46.846Z/t06027-signca-zone-urba-20170313-rgf93l93-shapefile.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "57be2476-30f5-4427-b72a-336410850f78",
+      "last_modified": "2017-04-24T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/57be2476-30f5-4427-b72a-336410850f78",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-09-05T15:33:47.325000",
+      "title": "T06027_signca_zone_urba_20170313_RGF93L93_shapefile.zip",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A42%3A46.846Z/t06027-signca-zone-urba-20170313-rgf93l93-shapefile.zip"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-05T15:33:47.326000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-24T12:11:16.312000",
+        "check:status": 200,
+        "check:url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A43%3A04.219Z/t06027-signca-zone-urba-20170313-wgs84-shapefile.zip"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "123401a1-576d-4bcc-8bcc-682315850d4d",
+      "last_modified": "2017-04-24T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/123401a1-576d-4bcc-8bcc-682315850d4d",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-09-05T15:33:47.326000",
+      "title": "T06027_signca_zone_urba_20170313_WGS84_shapefile.zip",
+      "url": "http://opendata.nicecotedazur.org/data/storage/f/2017-04-24T12%3A43%3A04.219Z/t06027-signca-zone-urba-20170313-wgs84-shapefile.zip"
+    }
+  ],
+  "slug": "plu-de-cagnes-sur-mer",
+  "spatial": {
+    "geom": {
+      "coordinates": [
+        [
+          [
+            [
+              7.11849901,
+              43.65633627
+            ],
+            [
+              7.14231647,
+              43.70310576
+            ],
+            [
+              7.18774774,
+              43.67996979
+            ],
+            [
+              7.16393028,
+              43.6332003
+            ],
+            [
+              7.11849901,
+              43.65633627
+            ]
+          ]
+        ]
+      ],
+      "type": "MultiPolygon"
+    },
+    "granularity": "other",
+    "zones": []
+  },
+  "tags": [
+    "cagnes",
+    "plu",
+    "urbanisme",
+    "zonage"
+  ],
+  "temporal_coverage": null,
+  "title": "PLU de Cagnes-Sur-Mer",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/plu-de-cagnes-sur-mer/"
+}

@@ -1,0 +1,130 @@
+{
+  "badges": [],
+  "created_at": "2015-02-19T07:30:10.114000",
+  "deleted": null,
+  "description": "![Administration](http://jeretiens.net/wp-content/uploads/2013/07/logo-de-la-republique-francaise.png \"Administration\")\r\n<BR>\r\n\r\n  - Les Bureaux de votes\r\n  - Les Permanences Juridiques\r\n  - Les Permanences d'Urbanismes\r\n  - Les Permanences du CCAS\r\n\r\n",
+  "extras": {},
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "54e582f2c751df12f1467389",
+  "last_modified": "2015-08-03T23:35:28.763000",
+  "last_update": "2015-02-19T08:49:34.896000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 6
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5437e8c288ee387cb68f5e87",
+    "logo": "https://www.data.gouv.fr/s/avatars/2014-12-17/4978ecfa957246e281634a1ff8af8ad5/Blason_Chaville_Ciril-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-12-17/4978ecfa957246e281634a1ff8af8ad5/Blason_Chaville_Ciril-100.jpg",
+    "name": "Commune de Chaville",
+    "page": "https://www.data.gouv.fr/fr/organizations/commune-de-chaville/",
+    "slug": "commune-de-chaville",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/commune-de-chaville/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/administration-2/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "53ee963b9d408e649e55fbe5ca6d1eb44662e155"
+      },
+      "created_at": "2015-02-19T07:34:31.567000",
+      "description": "![Bureaux de Votes](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxShBQsuqSX-NNSgRqfwqPWLXRsXWs31WKXe5b73ToZbQzf33e \"Bureaux de Votes\")\r\n\r\nliste de nos 13 bureaux de votes",
+      "extras": {},
+      "filesize": 2504,
+      "filetype": "file",
+      "format": "csv",
+      "id": "e18d5b9b-7549-47b6-98b5-fb9c8e9691c4",
+      "last_modified": "2015-02-19T07:34:31.567000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e18d5b9b-7549-47b6-98b5-fb9c8e9691c4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 3
+      },
+      "mime": "text/csv",
+      "published": "2015-02-19T07:34:31.567000",
+      "title": "LES BUREAUX DE VOTES",
+      "url": "https://www.data.gouv.fr/s/resources/administration-2/20150219-073427/LES_BUREAUX_DE_VOTES.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "7672f4c36efd5fb501fdde9f9cbac4fb39df1acb"
+      },
+      "created_at": "2015-02-19T08:45:58.792000",
+      "description": "![Permanences Juridiques](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOt4L32MXXctjSqwgZ3vUsitLw8vAbwj3H3hKsVWArP9K_LeSAsQ \"Permanences Juridiques\")\r\n<BR>\r\n\r\n  - Les Permanences Juridiques \u00e0 l'H\u00f4tel de ville",
+      "extras": {},
+      "filesize": 3628,
+      "filetype": "file",
+      "format": "csv",
+      "id": "a23b86ca-4674-45f8-b6c7-53351526194e",
+      "last_modified": "2015-02-19T08:45:58.792000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a23b86ca-4674-45f8-b6c7-53351526194e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 2
+      },
+      "mime": "text/csv",
+      "published": "2015-02-19T08:45:58.793000",
+      "title": "PERMANENCES JURIDIQUES",
+      "url": "https://www.data.gouv.fr/s/resources/administration-2/20150219-084556/PERMANENCES_JURIDIQUES.csv"
+    },
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "bcaf6d2a8f3261687ad1c3d83f2a6bca5e13722d"
+      },
+      "created_at": "2015-02-19T08:49:34.896000",
+      "description": "![Permanences Sant\u00e9](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0JzHrQiV2H41FhbkmDLJEmf1Gc5vKQ5yDfMfSKIVvKfyviPox \"Permanences Sant\u00e9\")<BR>\r\n\r\n  - Les Permanences de sant\u00e9 au CCAS",
+      "extras": {},
+      "filesize": 253,
+      "filetype": "file",
+      "format": "csv",
+      "id": "0b68b755-a40d-423a-980f-9f2bb74c08cb",
+      "last_modified": "2015-02-19T08:49:34.896000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0b68b755-a40d-423a-980f-9f2bb74c08cb",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 4
+      },
+      "mime": "text/csv",
+      "published": "2015-02-19T08:49:34.896000",
+      "title": "PERMANENCES SANTE",
+      "url": "https://www.data.gouv.fr/s/resources/administration-2/20150219-084930/PERMANENCES_SANTE.csv"
+    }
+  ],
+  "slug": "administration-2",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:commune",
+    "zones": [
+      "fr:commune:92022@1968-01-01"
+    ]
+  },
+  "tags": [
+    "bureaux-de-vote",
+    "permanences-juridiques",
+    "permanences-urbanismes"
+  ],
+  "temporal_coverage": null,
+  "title": "ADMINISTRATION",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/administration-2/"
+}

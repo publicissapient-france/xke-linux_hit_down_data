@@ -1,0 +1,105 @@
+{
+  "badges": [],
+  "created_at": "2016-03-23T11:25:15.864000",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es pr\u00e9sente le nombre de validations des voyageurs par jour par arr\u00eat et par titre de transport sur le r\u00e9seau ferr\u00e9.\n\n* * *\n\n**Documentation**\n\nUne documentation relative aux donn\u00e9es de validation est disponible.\n\n**[Consulter la documentation sur les donn\u00e9es de validation](https://opendata.stif.info/api/datasets/1.0/validations-sur-le-reseau-de-surface-nombre-de-validations-par-jour-1er-sem/attachments/donnees_de_validation_pdf/)**\n\n* * *\n\n**Les jeux des donn\u00e9es de validation  \n**\n\n  * [Validations sur le r\u00e9seau ferr\u00e9 : Nombre de validations par jour (1er semestre 2017)](http://opendata.stif.info/explore/dataset/validations-sur-le-reseau-ferre-nombre-de-validations-par-jour-1er-sem/?tab=metas)\n  * [Validations sur le r\u00e9seau ferr\u00e9 : Profils horaires par jour type (1er semestre 2017)](http://opendata.stif.info/explore/dataset/validations-sur-le-reseau-ferre-profils-horaires-par-jour-type-1er-sem/?tab=metas)\n  * [Validations sur le r\u00e9seau de surface : Nombre de validations par jour (1er semestre 2017)](https://opendata.stif.info/explore/dataset/validations-sur-le-reseau-de-surface-nombre-de-validations-par-jour-1er-sem/?tab=metas)\n  * [Validations sur le r\u00e9seau de surface : Profils horaires par jour type (1er semestre 2017)](http://opendata.stif.info/explore/dataset/validations-sur-le-reseau-de-surface-profils-horaires-par-jour-type-1er-sem/?tab=metas)\n\n\n  * [Validations sur le r\u00e9seau ferr\u00e9 : Nombre de validations par jour (2\u00e8me semestre 2016)](http://opendata.stif.info/explore/dataset/validations-sur-le-reseau-ferre-nombre-de-validations-par-jour-2e-sem/?tab=metas)\n  * [Validations sur le r\u00e9seau ferr\u00e9 : Profils horaires par jour type (2\u00e8me semestre 2016)](http://opendata.stif.info/explore/dataset/validations-sur-le-reseau-ferre-profils-horaires-par-jour-type-2e-sem/?tab=metas)\n  * [Validations sur le r\u00e9seau de surface : Nombre de validations par jour (2\u00e8me semestre 2016)](https://opendata.stif.info/explore/dataset/validations-sur-le-reseau-de-surface-nombre-de-validations-par-jour-2e-sem/?tab=metas)\n  * [Validations sur le r\u00e9seau de surface : Profils horaires par jour type (2\u00e8me semestre 2016)](http://opendata.stif.info/explore/dataset/validations-sur-le-reseau-de-surface-profils-horaires-par-jour-type-2e-sem/?tab=metas)",
+  "extras": {
+    "harvest:domain": "opendata.stif.info",
+    "harvest:last_update": "2017-11-27T05:14:26.719193",
+    "harvest:remote_id": "validations-sur-le-reseau-ferre-nombre-de-validations-par-jour-1er-sem",
+    "harvest:source_id": "569fec99c751df2484ade713",
+    "ods:has_records": true,
+    "ods:url": "http://opendata.stif.info//explore/dataset/validations-sur-le-reseau-ferre-nombre-de-validations-par-jour-1er-sem/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "56f26f0bb595087c67b9b2fb",
+  "last_modified": "2017-11-27T05:14:26.721000",
+  "last_update": "2017-11-27T05:14:26.718000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "Syndicat des Transports d'Ile-de-France",
+    "class": "Organization",
+    "id": "568e5e9488ee38033aaf0bf4",
+    "logo": "https://www.data.gouv.fr/s/avatars/11/36458e54d84094a7fcca2053afb162-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/11/36458e54d84094a7fcca2053afb162-100.png",
+    "name": "Syndicat des Transports d'Ile-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/syndicat-des-transports-dile-de-france/",
+    "slug": "syndicat-des-transports-dile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/syndicat-des-transports-dile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/validations-sur-le-reseau-ferre-nombre-de-validations-par-jour-1er-semestre-2017/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:26.718000",
+      "description": "- *JOUR*: jour[date] Jour d\u2019exploitation (de 04:00 \u00e0 03:59 le lendemain)\n\n- *CODE_STIF_TRNS*: code_stif_trns[text] Code Stif du transporteur\n\n- *CODE_STIF_RES*: code_stif_res[text] Code Stif du r\u00e9seau\n\n- *CODE_STIF_ARRET*: code_stif_arret[text] Code Stif de l\u2019arr\u00eat/station\n\n- *LIBELLE_ARRET*: libelle_arret[text] Libell\u00e9 de l\u2019arr\u00eat/station\n\n- *ID_REFA_LDA*: id_refa_lda[int] Identifiant arr\u00eat r\u00e9f\u00e9rentiel STIF\n\n- *CATEGORIE_TITRE*: categorie_titre[text] Titre de transport\n\n- *NB_VALD*: nb_vald[text] Nombre de validations  (en entr\u00e9e sur le r\u00e9seau)\n\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e1d32d9e-2f3f-4b9d-9d7a-dc42762d4d83",
+      "last_modified": "2017-08-17T08:52:15",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e1d32d9e-2f3f-4b9d-9d7a-dc42762d4d83",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:14:26.718000",
+      "title": "Export au format CSV",
+      "url": "http://opendata.stif.info//explore/dataset/validations-sur-le-reseau-ferre-nombre-de-validations-par-jour-1er-sem/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:14:26.718000",
+      "description": "- *JOUR*: jour[date] Jour d\u2019exploitation (de 04:00 \u00e0 03:59 le lendemain)\n\n- *CODE_STIF_TRNS*: code_stif_trns[text] Code Stif du transporteur\n\n- *CODE_STIF_RES*: code_stif_res[text] Code Stif du r\u00e9seau\n\n- *CODE_STIF_ARRET*: code_stif_arret[text] Code Stif de l\u2019arr\u00eat/station\n\n- *LIBELLE_ARRET*: libelle_arret[text] Libell\u00e9 de l\u2019arr\u00eat/station\n\n- *ID_REFA_LDA*: id_refa_lda[int] Identifiant arr\u00eat r\u00e9f\u00e9rentiel STIF\n\n- *CATEGORIE_TITRE*: categorie_titre[text] Titre de transport\n\n- *NB_VALD*: nb_vald[text] Nombre de validations  (en entr\u00e9e sur le r\u00e9seau)\n\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "3157e217-b5b4-4579-9458-b9eb9cac0825",
+      "last_modified": "2017-08-17T08:52:15",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3157e217-b5b4-4579-9458-b9eb9cac0825",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:14:26.718000",
+      "title": "Export au format JSON",
+      "url": "http://opendata.stif.info//explore/dataset/validations-sur-le-reseau-ferre-nombre-de-validations-par-jour-1er-sem/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "validations-sur-le-reseau-ferre-nombre-de-validations-par-jour-1er-semestre-2017",
+  "spatial": null,
+  "tags": [
+    "metro",
+    "rer",
+    "reseau-ferre",
+    "titres-de-transport",
+    "train",
+    "usages",
+    "validations-telebillettiques"
+  ],
+  "temporal_coverage": null,
+  "title": "Validations sur le r\u00e9seau ferr\u00e9 : Nombre de validations par jour (1er semestre 2017)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/validations-sur-le-reseau-ferre-nombre-de-validations-par-jour-1er-semestre-2017/"
+}

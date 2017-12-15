@@ -1,0 +1,165 @@
+{
+  "acronym": null,
+  "badges": [
+    {
+      "kind": "public-service"
+    },
+    {
+      "kind": "certified"
+    }
+  ],
+  "created_at": "2014-04-17T18:22:15.891000",
+  "deleted": null,
+  "description": "Portail open data d'Issy (http://data.issy.com) /\r\nTwitter d'Issy [@data_issy](https://twitter.com/data_issy) /\r\nSite d'Issy-les-Moulineaux [Issy.com](http://www.issy.com) /\r\nL'agence num\u00e9rique de Grand Paris Seine Ouest [SO digital](http://seineouestdigital.fr/)\r\n\r\nLa Ville d'Issy-les-Moulineaux lib\u00e8re des donn\u00e9es pour stimuler la cr\u00e9ation de nouveaux services. [R\u00e9utilisez ces donn\u00e9es, par exemple en cr\u00e9ant des repr\u00e9sentations graphiques avec les outils conseill\u00e9s par data.gouv.fr](https://wiki.data.gouv.fr/wiki/Outillage_pour_les_datavisualisations) ou des applications mobiles gr\u00e2ce au projet europ\u00e9en [Citadel on the move.](http://www.citadelonthemove.eu/)\r\n\r\nTestez aussi sur le portail open data d'Issy les outils de cr\u00e9ation de cartes [http://bit.ly/19Yt9Fy](http://bit.ly/19Yt9Fy) et de cr\u00e9ation de graphiques [http://bit.ly/1NhT5Kj](http://bit.ly/1NhT5Kj)\r\n\r\n![H\u00f4tel de Ville d'Issy](http://www.issymedia.fr/wp-content/uploads/Hoteldeville.jpg-842x631.jpg \"H\u00f4tel de Ville d'Issy\")",
+  "id": "534fffb7a3a7292c64a78145",
+  "last_modified": "2017-11-24T23:57:07.181000",
+  "logo": "https://www.data.gouv.fr/s/avatars/b9/beecacecbd4d42ac10ef244f11e44e-original.png",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b9/beecacecbd4d42ac10ef244f11e44e-100.png",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/64/f8ef05f5574753ba257d67dd6128e8-original.png",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/64/f8ef05f5574753ba257d67dd6128e8-100.png",
+        "class": "User",
+        "first_name": "Issy",
+        "id": "534fff41a3a7292c64a77744",
+        "last_name": "M\u00e9dia",
+        "page": "https://www.data.gouv.fr/fr/users/jean-francois-coulon-2/",
+        "slug": "jean-francois-coulon-2",
+        "uri": "https://www.data.gouv.fr/api/1/users/jean-francois-coulon-2/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Irwigo.net",
+        "id": "534fff41a3a7292c64a77734",
+        "last_name": "_",
+        "page": "https://www.data.gouv.fr/fr/users/p-n/",
+        "slug": "p-n",
+        "uri": "https://www.data.gouv.fr/api/1/users/p-n/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/62/4765d512194f3eafbca555c8d510f5-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/62/4765d512194f3eafbca555c8d510f5-100.jpg",
+        "class": "User",
+        "first_name": "association",
+        "id": "53c559a6a3a72974dfb2aa80",
+        "last_name": "France Europe Tourisme",
+        "page": "https://www.data.gouv.fr/fr/users/association-france-europe-tourisme/",
+        "slug": "association-france-europe-tourisme",
+        "uri": "https://www.data.gouv.fr/api/1/users/association-france-europe-tourisme/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "Didier",
+        "id": "53cdf3e7a3a7292987895b0b",
+        "last_name": "LAPORTE",
+        "page": "https://www.data.gouv.fr/fr/users/didier-laporte/",
+        "slug": "didier-laporte",
+        "uri": "https://www.data.gouv.fr/api/1/users/didier-laporte/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/2015-02-17/6d195bbbc7074284a56ed8f4d1e42120/ndbmU_KH-original.jpeg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-02-17/6d195bbbc7074284a56ed8f4d1e42120/ndbmU_KH-100.jpeg",
+        "class": "User",
+        "first_name": "Jean-Fran\u00e7ois",
+        "id": "534fff41a3a7292c64a7777a",
+        "last_name": "Coulon",
+        "page": "https://www.data.gouv.fr/fr/users/jean-francois-coulon/",
+        "slug": "jean-francois-coulon",
+        "uri": "https://www.data.gouv.fr/api/1/users/jean-francois-coulon/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/81/a454d4fa0f45cd8fc076e645e1447f-original.jpg",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/81/a454d4fa0f45cd8fc076e645e1447f-100.jpg",
+        "class": "User",
+        "first_name": "Eric",
+        "id": "54429090c751df69880ecd22",
+        "last_name": "LEGALE",
+        "page": "https://www.data.gouv.fr/fr/users/eric-legale/",
+        "slug": "eric-legale",
+        "uri": "https://www.data.gouv.fr/api/1/users/eric-legale/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "St\u00e9phane",
+        "id": "54e20d5dc751df7a5c467389",
+        "last_name": "Jeannakakis",
+        "page": "https://www.data.gouv.fr/fr/users/stephane-jeannakakis-2/",
+        "slug": "stephane-jeannakakis-2",
+        "uri": "https://www.data.gouv.fr/api/1/users/stephane-jeannakakis-2/"
+      }
+    },
+    {
+      "role": "editor",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "St\u00e9phane",
+        "id": "54b66e42c751df4ea5ae261e",
+        "last_name": "Jeannakakis",
+        "page": "https://www.data.gouv.fr/fr/users/stephane-jeannakakis/",
+        "slug": "stephane-jeannakakis",
+        "uri": "https://www.data.gouv.fr/api/1/users/stephane-jeannakakis/"
+      }
+    },
+    {
+      "role": "admin",
+      "user": {
+        "avatar": null,
+        "avatar_thumbnail": null,
+        "class": "User",
+        "first_name": "anais",
+        "id": "563b317188ee386976531576",
+        "last_name": "michelet",
+        "page": "https://www.data.gouv.fr/fr/users/anais-michelet/",
+        "slug": "anais-michelet",
+        "uri": "https://www.data.gouv.fr/api/1/users/anais-michelet/"
+      }
+    }
+  ],
+  "metrics": {
+    "dataset_views": 835,
+    "datasets": 241,
+    "followers": 22,
+    "members": 9,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "permitted_reuses": 18,
+    "resource_downloads": 1242,
+    "reuse_views": 555,
+    "reuses": 7,
+    "views": 2418
+  },
+  "name": "Ville d'Issy-les-Moulineaux",
+  "page": "https://www.data.gouv.fr/fr/organizations/ville-d-issy-les-moulineaux/",
+  "slug": "ville-d-issy-les-moulineaux",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/ville-d-issy-les-moulineaux/",
+  "url": "http://data.issy.com"
+}

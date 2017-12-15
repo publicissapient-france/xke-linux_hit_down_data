@@ -1,0 +1,81 @@
+{
+  "badges": [],
+  "created_at": "2015-03-31T14:01:00.036000",
+  "deleted": null,
+  "description": "**Description**\n\nIl s'agit du nombre d'enfants de grande section de maternelle et de CP b\u00e9n\u00e9ficiaires du programme de pr\u00e9vention bucco-dentaire d'apprentissage du brossage r\u00e9parti par commune de Seine-Saint-Denis partenaire du dispositif.\n\n**Sources** \n\nD\u00e9partement de la Seine-Saint-Denis - Base de donn\u00e9es m\u00e9tier\n\n**Origine de la donn\u00e9e - Producteur** \n\nFlux manuel\n\n**Liste des colonnes**\n\n- D\u00e9partement : N\u00b0 du d\u00e9partement\n- Code commune INSEE : Code commune INSEE\n- Commune : Nom commune\n- Nb d'enfants 2010 : Nombre d'enfants b\u00e9n\u00e9ficiaires en 2010\n- Nb d'enfants 2011 : Nombre d'enfants b\u00e9n\u00e9ficiaires en 2011\n- Nb d'enfants 2012 : Nombre d'enfants b\u00e9n\u00e9ficiaires en 2012\n- Nb d'enfants 2013 : Nombre d'enfants b\u00e9n\u00e9ficiaires en 2013\n\n**Format de diffusion**\n\nCes fichiers sont propos\u00e9s sous forme de :\n\n    fichiers csv (encodage ANSI)    \n    \n**Contact**\n\nPour toute question, ou signalement d'une am\u00e9lioration, vous pouvez nous contacter sur <a href=\"mailto:data93@cg93.fr\">data93@cg93.fr</a>\n\n**Liens**\n\n- Consulter la fiche sur le <a href=\"http://data.seine-saint-denis.fr/spip.php?article162\">portail Open Data de la Seine-Saint-Denis</a>\n\n\n\n\n\n\n\n",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": "2015-10-12T00:00:00",
+  "id": "551a8c7cc751df32234b1077",
+  "last_modified": "2015-10-12T09:37:27.526000",
+  "last_update": "2015-03-31T14:01:12.206000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5457bc26c751df7378225d2e",
+    "logo": "https://www.data.gouv.fr/s/avatars/2014-11-03/1368537f4075452eb44393ea68b6bfdc/SeineSaintDenis-Logo-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-11-03/1368537f4075452eb44393ea68b6bfdc/SeineSaintDenis-Logo-100.png",
+    "name": "Seine-Saint-Denis - Le D\u00e9partement",
+    "page": "https://www.data.gouv.fr/fr/organizations/seine-saint-denis-le-departement/",
+    "slug": "seine-saint-denis-le-departement",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/seine-saint-denis-le-departement/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/nombre-denfants-beneficiaires-du-programme-de-prevention-bucco-dentaire-par-commune/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "1fa21a34e7c9f4f09b4d2ea8a21f3a796a1f5d25"
+      },
+      "created_at": "2015-03-31T14:01:12.206000",
+      "description": "",
+      "extras": {},
+      "filesize": 2102,
+      "filetype": "file",
+      "format": "csv",
+      "id": "840bafeb-a5f1-4c01-9d08-a24cd96422b6",
+      "last_modified": "2015-03-31T14:01:12.206000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/840bafeb-a5f1-4c01-9d08-a24cd96422b6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": "text/csv",
+      "published": "2015-03-31T14:01:12.206000",
+      "title": "Departement93-prevention_bucco_dentaire_Nombre_d'enfants_de_5_et_6_ans_beneficiaires-2010 2013.csv",
+      "url": "https://www.data.gouv.fr/s/resources/nombre-denfants-beneficiaires-du-programme-de-prevention-bucco-dentaire-par-commune/20150331-140109/Departement93-prevention_bucco_dentaire_Nombre_denfants_de_5_et_6_ans_beneficiaires-2010_2013.csv"
+    }
+  ],
+  "slug": "nombre-denfants-beneficiaires-du-programme-de-prevention-bucco-dentaire-par-commune",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:departement",
+    "zones": [
+      "fr:departement:93@1968-01-01"
+    ]
+  },
+  "tags": [
+    "vaccination"
+  ],
+  "temporal_coverage": {
+    "end": "2013-12-31",
+    "start": "2010-01-01"
+  },
+  "title": "Nombre d'enfants b\u00e9n\u00e9ficiaires du programme de pr\u00e9vention bucco-dentaire par commune",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/nombre-denfants-beneficiaires-du-programme-de-prevention-bucco-dentaire-par-commune/"
+}

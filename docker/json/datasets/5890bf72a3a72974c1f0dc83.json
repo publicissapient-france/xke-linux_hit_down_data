@@ -1,0 +1,100 @@
+{
+  "badges": [],
+  "created_at": "2017-01-31T17:46:42.609000",
+  "deleted": null,
+  "description": "Tableaux th\u00e9matiques comparant les r\u00e9sultats statistiques des cinq enqu\u00eates \"Pratiques culturelles des fran\u00e7ais\".\n\n ****\n\nCes tableaux sont issus de l'analyse r\u00e9trospective des r\u00e9sultats des cinq enqu\u00eates Pratiques culturelles des fran\u00e7ais : 1973, 1981, 1988, 1997, 2008.\n\n[Pour en savoir plus sur les enqu\u00eates](http://www.pratiquesculturelles.culture.gouv.fr/) \"Pratiques culturelles des fran\u00e7ais\" r\u00e9alis\u00e9es par le minist\u00e8re de la Culture et de la Communication.",
+  "extras": {
+    "harvest:domain": "data.culturecommunication.gouv.fr",
+    "harvest:last_update": "2017-11-27T05:25:03.289928",
+    "harvest:remote_id": "pcf-evolution",
+    "harvest:source_id": "5890bf69c751df4121ae0a65",
+    "ods:has_records": true,
+    "ods:url": "https://data.culturecommunication.gouv.fr//explore/dataset/pcf-evolution/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5890bf72a3a72974c1f0dc83",
+  "last_modified": "2017-11-27T05:25:03.295000",
+  "last_update": "2017-11-27T05:25:03.289000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff91a3a7292c64a77f73",
+    "logo": "https://www.data.gouv.fr/s/avatars/cf/f1ce1cb584470c8b83a9839dd9c83e-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/cf/f1ce1cb584470c8b83a9839dd9c83e-100.jpg",
+    "name": "Minist\u00e8re de la Culture",
+    "page": "https://www.data.gouv.fr/fr/organizations/ministere-de-la-culture-et-de-la-communication/",
+    "slug": "ministere-de-la-culture-et-de-la-communication",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ministere-de-la-culture-et-de-la-communication/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/pratiques-culturelles-des-francais-evolution-1973-2008/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:25:03.289000",
+      "description": "- *Th\u00e8me*: theme[text]\n- *Tableaux*: tableaux[text]\n- *Lien (tableau xls)*: lien_tableau_xls[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "1a96b660-8d56-48c8-a9d0-5e08b5baf98f",
+      "last_modified": "2016-09-01T10:50:52",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1a96b660-8d56-48c8-a9d0-5e08b5baf98f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:25:03.289000",
+      "title": "Export au format CSV",
+      "url": "https://data.culturecommunication.gouv.fr//explore/dataset/pcf-evolution/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:25:03.289000",
+      "description": "- *Th\u00e8me*: theme[text]\n- *Tableaux*: tableaux[text]\n- *Lien (tableau xls)*: lien_tableau_xls[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "4a15e93e-7bfe-45ab-abd6-6e9eda57c0d6",
+      "last_modified": "2016-09-01T10:50:52",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4a15e93e-7bfe-45ab-abd6-6e9eda57c0d6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:25:03.289000",
+      "title": "Export au format JSON",
+      "url": "https://data.culturecommunication.gouv.fr//explore/dataset/pcf-evolution/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "pratiques-culturelles-des-francais-evolution-1973-2008",
+  "spatial": null,
+  "tags": [
+    "pratiques-culturelles",
+    "statistiques"
+  ],
+  "temporal_coverage": null,
+  "title": "Pratiques culturelles des fran\u00e7ais - Evolution 1973-2008",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/pratiques-culturelles-des-francais-evolution-1973-2008/"
+}

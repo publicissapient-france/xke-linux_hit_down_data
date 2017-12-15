@@ -1,0 +1,100 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T17:49:42.218000",
+  "deleted": null,
+  "description": "Les donn\u00e9es concernent : \n\n  * les subventions globales de fonctionnement attribu\u00e9es aux organismes de formations du secteur param\u00e9dical ou ma\u00efeutique (sanitaire) et aux organismes de formations du secteur social ; \n  * les subventions de fonctionnement attribu\u00e9es aux centres de formations non d\u00e9centralis\u00e9s pour le financement de places en formation continue pour les formations aide-soignant et/ou auxiliaire de pu\u00e9riculture.",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T06:08:36.498112",
+    "harvest:remote_id": "subventions_attribuees_aux_organismes_de_formations_sanitaire_et_sociale_2011",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/subventions_attribuees_aux_organismes_de_formations_sanitaire_et_sociale_2011/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59591616a3a7291dd09c805f",
+  "last_modified": "2017-11-27T06:08:36.503000",
+  "last_update": "2017-11-27T06:08:36.497000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/subventions-attribuees-aux-organismes-de-formations-sanitaire-et-sociale-2011/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:08:36.497000",
+      "description": "- *Organisme de formation (Libell\u00e9 et code)*: organisme_de_formation_libelle_et_code[text]\n- *Proc\u00e9dure du dossier*: procedure_du_dossier[text]\n- *Dossier - Code*: dossier_code[int]\n- *Libell\u00e9 Dossier*: libelle_dossier[text]\n- *Objet du dossier*: objet_du_dossier[text]\n- *Localisation*: localisation[text]\n- *Montant vot\u00e9*: montant_vote[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "1bc10f99-5fbb-4165-9c47-52cd86c3c38b",
+      "last_modified": "2013-06-03T21:18:31",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1bc10f99-5fbb-4165-9c47-52cd86c3c38b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T06:08:36.497000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/subventions_attribuees_aux_organismes_de_formations_sanitaire_et_sociale_2011/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T06:08:36.497000",
+      "description": "- *Organisme de formation (Libell\u00e9 et code)*: organisme_de_formation_libelle_et_code[text]\n- *Proc\u00e9dure du dossier*: procedure_du_dossier[text]\n- *Dossier - Code*: dossier_code[int]\n- *Libell\u00e9 Dossier*: libelle_dossier[text]\n- *Objet du dossier*: objet_du_dossier[text]\n- *Localisation*: localisation[text]\n- *Montant vot\u00e9*: montant_vote[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "af980565-3ab4-4c91-9692-0a02d6a0ce6b",
+      "last_modified": "2013-06-03T21:18:31",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/af980565-3ab4-4c91-9692-0a02d6a0ce6b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T06:08:36.497000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/subventions_attribuees_aux_organismes_de_formations_sanitaire_et_sociale_2011/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "subventions-attribuees-aux-organismes-de-formations-sanitaire-et-sociale-2011",
+  "spatial": null,
+  "tags": [
+    "budget-regional",
+    "enseignement-formation-recherche",
+    "formations-sanitaires-et-sociales"
+  ],
+  "temporal_coverage": null,
+  "title": "Subventions attribu\u00e9es aux organismes de formations sanitaire et sociale (2011)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/subventions-attribuees-aux-organismes-de-formations-sanitaire-et-sociale-2011/"
+}

@@ -1,0 +1,149 @@
+{
+  "badges": [],
+  "created_at": "2016-07-13T20:57:35.767000",
+  "deleted": null,
+  "description": "Couche g\u00e9ographique d\u00e9crivant, par ligne, les gares de Train et de RER, les stations de m\u00e9tro, de tramways, de val et de funiculaire ouvertes aux voyageurs en \u00cele-de-France.\n\n**G\u00e9n\u00e9alogie de la donn\u00e9e**\n\nDonn\u00e9e communiqu\u00e9e par les transporteurs et recal\u00e9e sur la photo a\u00e9rienne lorsque la gare n'est pas souterraine.\n\n**Qualit\u00e9 de la donn\u00e9e**\n\nIl y a un objet (ponctuel) par station/gare, pour chacune des lignes qui la dessert (quel que soit le mode : fer, m\u00e9tro, tramway, val). Une station/gare est donc d\u00e9crite plusieurs fois, aux emplacements du point d\u2019arr\u00eat de chaque ligne. Par cons\u00e9quent, il peut y avoir superposition de points (deux lignes peuvent avoir le m\u00eame point d\u2019arr\u00eat).\n\n* * *\n\n**Modifications r\u00e9centes**\n\n_Juin_ \u00a0: Corrections de coquilles dans les noms de gare et codage de MODE.   \n_Mai_ \u00a0: Ajout du prolongement du T6 jusqu'\u00e0 Viroflay Rive Droite.   \n_Janvier_ \u00a0: Prise en compte de la modification de l'offre sur la ligne U et la ligne L (desserte modifi\u00e9e \u00e0 Chaville Rive Droite, S\u00e8vres Ville d'Avray, Le Val d'or).",
+  "extras": {
+    "harvest:domain": "opendata.hauts-de-seine.fr",
+    "harvest:last_update": "2017-11-27T05:27:49.069699",
+    "harvest:remote_id": "gares-et-stations-du-reseau-ferre-dile-de-france-par-ligne",
+    "harvest:source_id": "5731a6d688ee38379cd1b934",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.hauts-de-seine.fr//explore/dataset/gares-et-stations-du-reseau-ferre-dile-de-france-par-ligne/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "57868f1fa3a7295d371add57",
+  "last_modified": "2017-11-27T05:27:49.073000",
+  "last_update": "2017-11-27T05:27:49.068000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 3
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "544e1b0888ee38289ae1ed05",
+    "logo": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-100.jpg",
+    "name": "Hauts-de-Seine le D\u00e9partement",
+    "page": "https://www.data.gouv.fr/fr/organizations/hauts-de-seine-le-departement/",
+    "slug": "hauts-de-seine-le-departement",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/hauts-de-seine-le-departement/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/gares-et-stations-du-reseau-ferre-dile-de-france-par-ligne-1/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:27:49.066000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *ID_REF_ZDL*: id_ref_zdl[int] Identifiant de la \"zone de lieu\" issu du r\u00e9f\u00e9rentiel des arr\u00eats du STIF\n- *GARES_ID*: gares_id[int] Code identifiant unique STIF\n- *NOM_GARE*: nom_gare[text] Nom abr\u00e9g\u00e9 de la gare/station.\nCasse en majuscules pour les gares de Train et RER, et en minuscules pour les stations de m\u00e9tro, de tramway, de navette (=val, funiculaire).\n- *NOMLONG*: nomlong[text] Nom complet de la gare/station, sans abr\u00e9viations, et en majuscules.\n- *NOM_IV*: nom_iv[text] Nom Information Voyageurs gare/station (tel qu'affich\u00e9 sur le r\u00e9seau).\n- *NUM_MOD*: num_mod[int] Num\u00e9ro de mode\n- *MODE_*: mode[text] Type de mode desservant la gare (il n'y a qu'un seul mode possible puisqu'il y a un point pour chaque ligne).\nValeurs: Metro / Navette / RER / Train / Tramway\n- *FER*: fer[int] Indique si l'objet d\u00e9crit est desservi par une ligne ferr\u00e9e (TRAIN ou RER).\nValeurs: 1 [=oui] / 0 [=non]\n- *TRAIN*: train[int] Indique si l'objet d\u00e9crit est desservi par une ligne ferr\u00e9e (TRAIN).\nValeurs: 1 [=oui] / 0 [=non]\n- *RER*: rer[int] Indique si l'objet d\u00e9crit est desservi par une ligne ferr\u00e9e (RER).\nValeurs: 1 [=oui] / 0 [=non]\n- *METRO*: metro[int] Indique si l'objet d\u00e9crit est desservi par une ligne de m\u00e9tro.\nValeurs: 1 [=oui] / 0 [=non]\n- *TRAMWAY*: tramway[int] Indique si l'objet d\u00e9crit est desservi par une ligne de tramway.\nValeurs: 1 [=oui] / 0 [=non]\n- *NAVETTE*: navette[int] Indique si l'objet d\u00e9crit est desservi par une ligne dite navette (val ou funiculaire).\nValeurs: 1 [=oui] / 0 [=non]\n- *VAL*: val[int] Indique si l'objet d\u00e9crit est desservi par une ligne dite navette (val ou funiculaire).\nValeurs: 1 [=oui] / 0 [=non]\n- *TERFER*: terfer[text] Indique si l'objet d\u00e9crit est le terminus d'une ligne ferr\u00e9e (TRAIN ou RER).\nValeurs: 1 [=oui] / 0 [=non]\n- *TERTRAIN*: tertrain[text] Indique si l'objet d\u00e9crit est le terminus d'une ligne ferr\u00e9e (TRAIN).\nValeurs: 1 [=oui] / 0 [=non]\n- *TERRER*: terrer[text] Indique si l'objet d\u00e9crit est le terminus d'une ligne ferr\u00e9e (RER).\nValeurs: 1 [=oui] / 0 [=non]\n- *TERMETRO*: termetro[text] Indique si l'objet d\u00e9crit est le terminus d'une ligne de metro.\nValeurs: 1 [=oui] / 0 [=non]\n- *TERTRAM*: tertram[text] Indique si l'objet d\u00e9crit est le terminus d'une ligne de tramway.\nValeurs: 1 [=oui] / 0 [=non]\n- *TERNAVETTE*: ternavette[text] Indique si l'objet d\u00e9crit est le terminus d'une ligne dite navette (val ou funiculaire).\nValeurs: 1 [=oui] / 0 [=non]\n- *TERVAL*: terval[text] Indique si l'objet d\u00e9crit est le terminus d'une ligne dite navette (val ou funiculaire).\nValeurs: 1 [=oui] / 0 [=non]\n- *IDREFLIGA*: idrefliga[text] Identifiant unique de la ligne administrative issu du r\u00e9f\u00e9rentiel CodifLigne\n- *IDREFLIGC*: idrefligc[text] Identifiant unique de la ligne commerciale issu du r\u00e9f\u00e9rentiel CodifLigne\n- *LIGNE*: ligne[text] Nom commercial de la ligne desservant la gare/station\n- *COD_LIGF*: cod_ligf[double] Code ligne SNCF\n- *LIGNE_CODE*: ligne_code[text] Concat\u00e9nation de l'indice de ligne et du code unique\n- *INDICE_LIG*: indice_lig[text] Indice de la ligne desservant la gare/station\n- *RESEAU*: reseau[text] Nom du r\u00e9seau desservant la gare\n- *RES_COM*: res_com[text] Nom commercial du r\u00e9seau desservant la gare/station\n- *COD_RESF*: cod_resf[double]\n- *RES_STIF*: res_stif[double]\n- *EXPLOITANT*: exploitant[text] Nom de l'exploitant de la gare\n- *NUM_PSR*: num_psr[int]\n- *IDF*: idf[int] Indique si l'objet d\u00e9crit est en \u00cele-de-France.\nValeurs: 1 [=oui] / 0 [=non]\n- *PRINCIPAL*: principal[int] Principales gares (pour \u00e9tiquetage notamment).\nValeurs: 1 [=oui] / 0 [=non]\n- *X*: x[double] Coordonn\u00e9e en longitude de l'objet repr\u00e9sentant la gare (exprim\u00e9e en Lambert 1)\n- *Y*: y[double] Coordonn\u00e9e en latitude de l'objet repr\u00e9sentant la gare (exprim\u00e9e en Lambert 1)\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "21a950b9-d3d2-430a-94d7-fbcb1164b8d5",
+      "last_modified": "2016-05-13T09:27:04",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/21a950b9-d3d2-430a-94d7-fbcb1164b8d5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:27:49.066000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/gares-et-stations-du-reseau-ferre-dile-de-france-par-ligne/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:27:49.067000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *ID_REF_ZDL*: id_ref_zdl[int] Identifiant de la \"zone de lieu\" issu du r\u00e9f\u00e9rentiel des arr\u00eats du STIF\n- *GARES_ID*: gares_id[int] Code identifiant unique STIF\n- *NOM_GARE*: nom_gare[text] Nom abr\u00e9g\u00e9 de la gare/station.\nCasse en majuscules pour les gares de Train et RER, et en minuscules pour les stations de m\u00e9tro, de tramway, de navette (=val, funiculaire).\n- *NOMLONG*: nomlong[text] Nom complet de la gare/station, sans abr\u00e9viations, et en majuscules.\n- *NOM_IV*: nom_iv[text] Nom Information Voyageurs gare/station (tel qu'affich\u00e9 sur le r\u00e9seau).\n- *NUM_MOD*: num_mod[int] Num\u00e9ro de mode\n- *MODE_*: mode[text] Type de mode desservant la gare (il n'y a qu'un seul mode possible puisqu'il y a un point pour chaque ligne).\nValeurs: Metro / Navette / RER / Train / Tramway\n- *FER*: fer[int] Indique si l'objet d\u00e9crit est desservi par une ligne ferr\u00e9e (TRAIN ou RER).\nValeurs: 1 [=oui] / 0 [=non]\n- *TRAIN*: train[int] Indique si l'objet d\u00e9crit est desservi par une ligne ferr\u00e9e (TRAIN).\nValeurs: 1 [=oui] / 0 [=non]\n- *RER*: rer[int] Indique si l'objet d\u00e9crit est desservi par une ligne ferr\u00e9e (RER).\nValeurs: 1 [=oui] / 0 [=non]\n- *METRO*: metro[int] Indique si l'objet d\u00e9crit est desservi par une ligne de m\u00e9tro.\nValeurs: 1 [=oui] / 0 [=non]\n- *TRAMWAY*: tramway[int] Indique si l'objet d\u00e9crit est desservi par une ligne de tramway.\nValeurs: 1 [=oui] / 0 [=non]\n- *NAVETTE*: navette[int] Indique si l'objet d\u00e9crit est desservi par une ligne dite navette (val ou funiculaire).\nValeurs: 1 [=oui] / 0 [=non]\n- *VAL*: val[int] Indique si l'objet d\u00e9crit est desservi par une ligne dite navette (val ou funiculaire).\nValeurs: 1 [=oui] / 0 [=non]\n- *TERFER*: terfer[text] Indique si l'objet d\u00e9crit est le terminus d'une ligne ferr\u00e9e (TRAIN ou RER).\nValeurs: 1 [=oui] / 0 [=non]\n- *TERTRAIN*: tertrain[text] Indique si l'objet d\u00e9crit est le terminus d'une ligne ferr\u00e9e (TRAIN).\nValeurs: 1 [=oui] / 0 [=non]\n- *TERRER*: terrer[text] Indique si l'objet d\u00e9crit est le terminus d'une ligne ferr\u00e9e (RER).\nValeurs: 1 [=oui] / 0 [=non]\n- *TERMETRO*: termetro[text] Indique si l'objet d\u00e9crit est le terminus d'une ligne de metro.\nValeurs: 1 [=oui] / 0 [=non]\n- *TERTRAM*: tertram[text] Indique si l'objet d\u00e9crit est le terminus d'une ligne de tramway.\nValeurs: 1 [=oui] / 0 [=non]\n- *TERNAVETTE*: ternavette[text] Indique si l'objet d\u00e9crit est le terminus d'une ligne dite navette (val ou funiculaire).\nValeurs: 1 [=oui] / 0 [=non]\n- *TERVAL*: terval[text] Indique si l'objet d\u00e9crit est le terminus d'une ligne dite navette (val ou funiculaire).\nValeurs: 1 [=oui] / 0 [=non]\n- *IDREFLIGA*: idrefliga[text] Identifiant unique de la ligne administrative issu du r\u00e9f\u00e9rentiel CodifLigne\n- *IDREFLIGC*: idrefligc[text] Identifiant unique de la ligne commerciale issu du r\u00e9f\u00e9rentiel CodifLigne\n- *LIGNE*: ligne[text] Nom commercial de la ligne desservant la gare/station\n- *COD_LIGF*: cod_ligf[double] Code ligne SNCF\n- *LIGNE_CODE*: ligne_code[text] Concat\u00e9nation de l'indice de ligne et du code unique\n- *INDICE_LIG*: indice_lig[text] Indice de la ligne desservant la gare/station\n- *RESEAU*: reseau[text] Nom du r\u00e9seau desservant la gare\n- *RES_COM*: res_com[text] Nom commercial du r\u00e9seau desservant la gare/station\n- *COD_RESF*: cod_resf[double]\n- *RES_STIF*: res_stif[double]\n- *EXPLOITANT*: exploitant[text] Nom de l'exploitant de la gare\n- *NUM_PSR*: num_psr[int]\n- *IDF*: idf[int] Indique si l'objet d\u00e9crit est en \u00cele-de-France.\nValeurs: 1 [=oui] / 0 [=non]\n- *PRINCIPAL*: principal[int] Principales gares (pour \u00e9tiquetage notamment).\nValeurs: 1 [=oui] / 0 [=non]\n- *X*: x[double] Coordonn\u00e9e en longitude de l'objet repr\u00e9sentant la gare (exprim\u00e9e en Lambert 1)\n- *Y*: y[double] Coordonn\u00e9e en latitude de l'objet repr\u00e9sentant la gare (exprim\u00e9e en Lambert 1)\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "32beedc1-17bd-4c53-bed9-94fffd0da2a5",
+      "last_modified": "2016-05-13T09:27:04",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/32beedc1-17bd-4c53-bed9-94fffd0da2a5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:27:49.067000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/gares-et-stations-du-reseau-ferre-dile-de-france-par-ligne/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:27:49.068000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *ID_REF_ZDL*: id_ref_zdl[int] Identifiant de la \"zone de lieu\" issu du r\u00e9f\u00e9rentiel des arr\u00eats du STIF\n- *GARES_ID*: gares_id[int] Code identifiant unique STIF\n- *NOM_GARE*: nom_gare[text] Nom abr\u00e9g\u00e9 de la gare/station.\nCasse en majuscules pour les gares de Train et RER, et en minuscules pour les stations de m\u00e9tro, de tramway, de navette (=val, funiculaire).\n- *NOMLONG*: nomlong[text] Nom complet de la gare/station, sans abr\u00e9viations, et en majuscules.\n- *NOM_IV*: nom_iv[text] Nom Information Voyageurs gare/station (tel qu'affich\u00e9 sur le r\u00e9seau).\n- *NUM_MOD*: num_mod[int] Num\u00e9ro de mode\n- *MODE_*: mode[text] Type de mode desservant la gare (il n'y a qu'un seul mode possible puisqu'il y a un point pour chaque ligne).\nValeurs: Metro / Navette / RER / Train / Tramway\n- *FER*: fer[int] Indique si l'objet d\u00e9crit est desservi par une ligne ferr\u00e9e (TRAIN ou RER).\nValeurs: 1 [=oui] / 0 [=non]\n- *TRAIN*: train[int] Indique si l'objet d\u00e9crit est desservi par une ligne ferr\u00e9e (TRAIN).\nValeurs: 1 [=oui] / 0 [=non]\n- *RER*: rer[int] Indique si l'objet d\u00e9crit est desservi par une ligne ferr\u00e9e (RER).\nValeurs: 1 [=oui] / 0 [=non]\n- *METRO*: metro[int] Indique si l'objet d\u00e9crit est desservi par une ligne de m\u00e9tro.\nValeurs: 1 [=oui] / 0 [=non]\n- *TRAMWAY*: tramway[int] Indique si l'objet d\u00e9crit est desservi par une ligne de tramway.\nValeurs: 1 [=oui] / 0 [=non]\n- *NAVETTE*: navette[int] Indique si l'objet d\u00e9crit est desservi par une ligne dite navette (val ou funiculaire).\nValeurs: 1 [=oui] / 0 [=non]\n- *VAL*: val[int] Indique si l'objet d\u00e9crit est desservi par une ligne dite navette (val ou funiculaire).\nValeurs: 1 [=oui] / 0 [=non]\n- *TERFER*: terfer[text] Indique si l'objet d\u00e9crit est le terminus d'une ligne ferr\u00e9e (TRAIN ou RER).\nValeurs: 1 [=oui] / 0 [=non]\n- *TERTRAIN*: tertrain[text] Indique si l'objet d\u00e9crit est le terminus d'une ligne ferr\u00e9e (TRAIN).\nValeurs: 1 [=oui] / 0 [=non]\n- *TERRER*: terrer[text] Indique si l'objet d\u00e9crit est le terminus d'une ligne ferr\u00e9e (RER).\nValeurs: 1 [=oui] / 0 [=non]\n- *TERMETRO*: termetro[text] Indique si l'objet d\u00e9crit est le terminus d'une ligne de metro.\nValeurs: 1 [=oui] / 0 [=non]\n- *TERTRAM*: tertram[text] Indique si l'objet d\u00e9crit est le terminus d'une ligne de tramway.\nValeurs: 1 [=oui] / 0 [=non]\n- *TERNAVETTE*: ternavette[text] Indique si l'objet d\u00e9crit est le terminus d'une ligne dite navette (val ou funiculaire).\nValeurs: 1 [=oui] / 0 [=non]\n- *TERVAL*: terval[text] Indique si l'objet d\u00e9crit est le terminus d'une ligne dite navette (val ou funiculaire).\nValeurs: 1 [=oui] / 0 [=non]\n- *IDREFLIGA*: idrefliga[text] Identifiant unique de la ligne administrative issu du r\u00e9f\u00e9rentiel CodifLigne\n- *IDREFLIGC*: idrefligc[text] Identifiant unique de la ligne commerciale issu du r\u00e9f\u00e9rentiel CodifLigne\n- *LIGNE*: ligne[text] Nom commercial de la ligne desservant la gare/station\n- *COD_LIGF*: cod_ligf[double] Code ligne SNCF\n- *LIGNE_CODE*: ligne_code[text] Concat\u00e9nation de l'indice de ligne et du code unique\n- *INDICE_LIG*: indice_lig[text] Indice de la ligne desservant la gare/station\n- *RESEAU*: reseau[text] Nom du r\u00e9seau desservant la gare\n- *RES_COM*: res_com[text] Nom commercial du r\u00e9seau desservant la gare/station\n- *COD_RESF*: cod_resf[double]\n- *RES_STIF*: res_stif[double]\n- *EXPLOITANT*: exploitant[text] Nom de l'exploitant de la gare\n- *NUM_PSR*: num_psr[int]\n- *IDF*: idf[int] Indique si l'objet d\u00e9crit est en \u00cele-de-France.\nValeurs: 1 [=oui] / 0 [=non]\n- *PRINCIPAL*: principal[int] Principales gares (pour \u00e9tiquetage notamment).\nValeurs: 1 [=oui] / 0 [=non]\n- *X*: x[double] Coordonn\u00e9e en longitude de l'objet repr\u00e9sentant la gare (exprim\u00e9e en Lambert 1)\n- *Y*: y[double] Coordonn\u00e9e en latitude de l'objet repr\u00e9sentant la gare (exprim\u00e9e en Lambert 1)\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "60246900-1b2f-4f9d-aeac-b3bf984a3a14",
+      "last_modified": "2016-05-13T09:27:04",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/60246900-1b2f-4f9d-aeac-b3bf984a3a14",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:27:49.068000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/gares-et-stations-du-reseau-ferre-dile-de-france-par-ligne/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:27:49.068000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *ID_REF_ZDL*: id_ref_zdl[int] Identifiant de la \"zone de lieu\" issu du r\u00e9f\u00e9rentiel des arr\u00eats du STIF\n- *GARES_ID*: gares_id[int] Code identifiant unique STIF\n- *NOM_GARE*: nom_gare[text] Nom abr\u00e9g\u00e9 de la gare/station.\nCasse en majuscules pour les gares de Train et RER, et en minuscules pour les stations de m\u00e9tro, de tramway, de navette (=val, funiculaire).\n- *NOMLONG*: nomlong[text] Nom complet de la gare/station, sans abr\u00e9viations, et en majuscules.\n- *NOM_IV*: nom_iv[text] Nom Information Voyageurs gare/station (tel qu'affich\u00e9 sur le r\u00e9seau).\n- *NUM_MOD*: num_mod[int] Num\u00e9ro de mode\n- *MODE_*: mode[text] Type de mode desservant la gare (il n'y a qu'un seul mode possible puisqu'il y a un point pour chaque ligne).\nValeurs: Metro / Navette / RER / Train / Tramway\n- *FER*: fer[int] Indique si l'objet d\u00e9crit est desservi par une ligne ferr\u00e9e (TRAIN ou RER).\nValeurs: 1 [=oui] / 0 [=non]\n- *TRAIN*: train[int] Indique si l'objet d\u00e9crit est desservi par une ligne ferr\u00e9e (TRAIN).\nValeurs: 1 [=oui] / 0 [=non]\n- *RER*: rer[int] Indique si l'objet d\u00e9crit est desservi par une ligne ferr\u00e9e (RER).\nValeurs: 1 [=oui] / 0 [=non]\n- *METRO*: metro[int] Indique si l'objet d\u00e9crit est desservi par une ligne de m\u00e9tro.\nValeurs: 1 [=oui] / 0 [=non]\n- *TRAMWAY*: tramway[int] Indique si l'objet d\u00e9crit est desservi par une ligne de tramway.\nValeurs: 1 [=oui] / 0 [=non]\n- *NAVETTE*: navette[int] Indique si l'objet d\u00e9crit est desservi par une ligne dite navette (val ou funiculaire).\nValeurs: 1 [=oui] / 0 [=non]\n- *VAL*: val[int] Indique si l'objet d\u00e9crit est desservi par une ligne dite navette (val ou funiculaire).\nValeurs: 1 [=oui] / 0 [=non]\n- *TERFER*: terfer[text] Indique si l'objet d\u00e9crit est le terminus d'une ligne ferr\u00e9e (TRAIN ou RER).\nValeurs: 1 [=oui] / 0 [=non]\n- *TERTRAIN*: tertrain[text] Indique si l'objet d\u00e9crit est le terminus d'une ligne ferr\u00e9e (TRAIN).\nValeurs: 1 [=oui] / 0 [=non]\n- *TERRER*: terrer[text] Indique si l'objet d\u00e9crit est le terminus d'une ligne ferr\u00e9e (RER).\nValeurs: 1 [=oui] / 0 [=non]\n- *TERMETRO*: termetro[text] Indique si l'objet d\u00e9crit est le terminus d'une ligne de metro.\nValeurs: 1 [=oui] / 0 [=non]\n- *TERTRAM*: tertram[text] Indique si l'objet d\u00e9crit est le terminus d'une ligne de tramway.\nValeurs: 1 [=oui] / 0 [=non]\n- *TERNAVETTE*: ternavette[text] Indique si l'objet d\u00e9crit est le terminus d'une ligne dite navette (val ou funiculaire).\nValeurs: 1 [=oui] / 0 [=non]\n- *TERVAL*: terval[text] Indique si l'objet d\u00e9crit est le terminus d'une ligne dite navette (val ou funiculaire).\nValeurs: 1 [=oui] / 0 [=non]\n- *IDREFLIGA*: idrefliga[text] Identifiant unique de la ligne administrative issu du r\u00e9f\u00e9rentiel CodifLigne\n- *IDREFLIGC*: idrefligc[text] Identifiant unique de la ligne commerciale issu du r\u00e9f\u00e9rentiel CodifLigne\n- *LIGNE*: ligne[text] Nom commercial de la ligne desservant la gare/station\n- *COD_LIGF*: cod_ligf[double] Code ligne SNCF\n- *LIGNE_CODE*: ligne_code[text] Concat\u00e9nation de l'indice de ligne et du code unique\n- *INDICE_LIG*: indice_lig[text] Indice de la ligne desservant la gare/station\n- *RESEAU*: reseau[text] Nom du r\u00e9seau desservant la gare\n- *RES_COM*: res_com[text] Nom commercial du r\u00e9seau desservant la gare/station\n- *COD_RESF*: cod_resf[double]\n- *RES_STIF*: res_stif[double]\n- *EXPLOITANT*: exploitant[text] Nom de l'exploitant de la gare\n- *NUM_PSR*: num_psr[int]\n- *IDF*: idf[int] Indique si l'objet d\u00e9crit est en \u00cele-de-France.\nValeurs: 1 [=oui] / 0 [=non]\n- *PRINCIPAL*: principal[int] Principales gares (pour \u00e9tiquetage notamment).\nValeurs: 1 [=oui] / 0 [=non]\n- *X*: x[double] Coordonn\u00e9e en longitude de l'objet repr\u00e9sentant la gare (exprim\u00e9e en Lambert 1)\n- *Y*: y[double] Coordonn\u00e9e en latitude de l'objet repr\u00e9sentant la gare (exprim\u00e9e en Lambert 1)\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "b65f7342-1c54-4695-827d-9f961144a2ad",
+      "last_modified": "2016-05-13T09:27:04",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b65f7342-1c54-4695-827d-9f961144a2ad",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:27:49.068000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/gares-et-stations-du-reseau-ferre-dile-de-france-par-ligne/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "gares-et-stations-du-reseau-ferre-dile-de-france-par-ligne-1",
+  "spatial": null,
+  "tags": [
+    "gares",
+    "metro",
+    "reseaux-ferres",
+    "stations",
+    "train",
+    "tramway",
+    "transport-mobilite"
+  ],
+  "temporal_coverage": null,
+  "title": "Gares et stations du r\u00e9seau ferr\u00e9 d'\u00cele-de-France (par ligne)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/gares-et-stations-du-reseau-ferre-dile-de-france-par-ligne-1/"
+}

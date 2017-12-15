@@ -1,0 +1,108 @@
+{
+  "badges": [],
+  "created_at": "2016-07-13T20:56:43.629000",
+  "deleted": null,
+  "description": "R\u00e9sultats des \u00e9lections d\u00e9partementales (1er et 2\u00e8me tour) par bureau de vote dans le d\u00e9partement des Hauts-de-Seine\n\n* * *\n\nLes \u00e9lections d\u00e9partementales (ex-cantonales) d\u00e9signent les membres du conseil d\u00e9partemental (ex-g\u00e9n\u00e9ral) dans le cadre du canton.\n\nC'est avec la loi n\u00b0 2013-403 du 17 mai 2013 relative \u00e0 l'\u00e9lection des conseillers d\u00e9partementaux, des conseillers municipaux et des conseillers communautaires, que l'assembl\u00e9e qui dirige le d\u00e9partement prend le nom de Conseil d\u00e9partemental (en remplacement de la pr\u00e9c\u00e9dente appellation de Conseil g\u00e9n\u00e9ral). Le mode d'\u00e9lection des conseillers d\u00e9partementaux (ex-conseillers g\u00e9n\u00e9raux) est \u00e9galement modifi\u00e9.   \nLors des \u00e9lections d\u00e9partementales de mars 2015, le nouveau mode de scrutin s'applique pour la premi\u00e8re fois : deux conseillers d\u00e9partementaux sont \u00e9lus dans chaque canton au scrutin binominal \u00e0 deux tours. Les candidats doivent se pr\u00e9senter en bin\u00f4me compos\u00e9 d'une femme et d'un homme.\n\nLe jeux de donn\u00e9es propose les r\u00e9sultats des \u00e9lections d\u00e9partementales de mars 2015, 1er tour et 2\u00e8me tour, par bureau de vote.\n\n**Lexique**\n\n[Nuances politiques](http://www.interieur.gouv.fr/Elections/Les-resultats/Departementales/elecresult__departementales-2015/%28path%29/departementales-2015/nuances.html)\n\n**Donn\u00e9es connexes**\n\nL\u00e9gifrance.gouv.fr - \u00c9lection des conseillers d\u00e9partementaux   \n[Loi n\u00b0 2013-403 du 17 mai 2013 relative \u00e0 l'\u00e9lection des conseillers d\u00e9partementaux, municipaux, communautaires](http://www.legifrance.gouv.fr/eli/loi/2013/5/17/INTX1238496L/jo/texte)\n\nvie-publique.fr   \n[Quel est le mode de scrutin pour les \u00e9lections d\u00e9partementales ?](http://www.vie-publique.fr/decouverte-institutions/institutions/collectivites-territoriales/democratie-locale/quel-est-mode-scrutin-pour-elections-cantonales.html)\n\nCantons des Hauts-de-Seine   \n[Acc\u00e9der au jeu de donn\u00e9es des cantons (r\u00e9aliser des cartes, \u2026](https://opendata.hauts-de-seine.fr/explore/dataset/cantons/)\n\nBureau de vote dans les Hauts-de-Seine   \n[Acc\u00e9der au jeu de donn\u00e9es des bureaux de vote (r\u00e9aliser des cartes, \u2026](https://opendata.hauts-de-seine.fr/explore/dataset/bureaux-de-vote/)",
+  "extras": {
+    "harvest:domain": "opendata.hauts-de-seine.fr",
+    "harvest:last_update": "2017-11-27T05:27:56.147341",
+    "harvest:remote_id": "resultats-des-elections-departementales-par-bureau-de-vote",
+    "harvest:source_id": "5731a6d688ee38379cd1b934",
+    "ods:has_records": true,
+    "ods:references": "http://www.interieur.gouv.fr/Elections/Les-resultats/Departementales/elecresult__departementales-2015/%28path%29/departementales-2015/092/index.html",
+    "ods:url": "https://opendata.hauts-de-seine.fr//explore/dataset/resultats-des-elections-departementales-par-bureau-de-vote/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "57868eeba3a7295d371add2f",
+  "last_modified": "2017-11-27T05:27:56.150000",
+  "last_update": "2017-11-27T05:27:56.146000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 2
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "544e1b0888ee38289ae1ed05",
+    "logo": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-100.jpg",
+    "name": "Hauts-de-Seine le D\u00e9partement",
+    "page": "https://www.data.gouv.fr/fr/organizations/hauts-de-seine-le-departement/",
+    "slug": "hauts-de-seine-le-departement",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/hauts-de-seine-le-departement/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/resultats-des-elections-departementales-par-bureau-de-vote/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:27:56.146000",
+      "description": "- *Ann\u00e9e du scrutin*: annee[date] Ann\u00e9e du scrutin\n- *N\u00b0 tour*: numtour[text] Tour (1er ou 2\u00e8me)\n- *Code canton*: codcan[text] Num\u00e9ro officiel du canton\n- *Canton*: libcan[text] Nom du canton\n- *Code commune*: codsubcom[text] Code de la commune\n- *Commune*: libsubcom[text] Nom de la commune\n- *N\u00b0 de bureau de vote*: codburvot[int] Num\u00e9ro du bureau de vote dans la commune\n- *Inscrits*: nbrins[int] Nombre d'inscrits dans le bureau de vote\n- *Votants*: nbrvot[int] Nombre de votants dans le bureau de vote\n- *Exprim\u00e9s*: nbrexp[int] Nombre de suffrages exprim\u00e9s dans le bureau de vote\n- *N\u00b0 du bin\u00f4me*: numdepcand[text] Num\u00e9ro d\u00e9partemental du bin\u00f4me candidat\n- *Bin\u00f4me candidat*: liblisext[text] Bin\u00f4me compos\u00e9 de\n- *Nuance politique*: codnua[text] Nuance politique du Bin\u00f4me (cf. Lexique)\n- *Nombre de voix*: nbrvoix[int] Nombre de voix obtenues par le bin\u00f4me dans le bureau de vote\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "16049eb7-a59a-4590-8470-46463e7504a6",
+      "last_modified": "2015-09-24T22:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/16049eb7-a59a-4590-8470-46463e7504a6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:27:56.146000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/resultats-des-elections-departementales-par-bureau-de-vote/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:27:56.146000",
+      "description": "- *Ann\u00e9e du scrutin*: annee[date] Ann\u00e9e du scrutin\n- *N\u00b0 tour*: numtour[text] Tour (1er ou 2\u00e8me)\n- *Code canton*: codcan[text] Num\u00e9ro officiel du canton\n- *Canton*: libcan[text] Nom du canton\n- *Code commune*: codsubcom[text] Code de la commune\n- *Commune*: libsubcom[text] Nom de la commune\n- *N\u00b0 de bureau de vote*: codburvot[int] Num\u00e9ro du bureau de vote dans la commune\n- *Inscrits*: nbrins[int] Nombre d'inscrits dans le bureau de vote\n- *Votants*: nbrvot[int] Nombre de votants dans le bureau de vote\n- *Exprim\u00e9s*: nbrexp[int] Nombre de suffrages exprim\u00e9s dans le bureau de vote\n- *N\u00b0 du bin\u00f4me*: numdepcand[text] Num\u00e9ro d\u00e9partemental du bin\u00f4me candidat\n- *Bin\u00f4me candidat*: liblisext[text] Bin\u00f4me compos\u00e9 de\n- *Nuance politique*: codnua[text] Nuance politique du Bin\u00f4me (cf. Lexique)\n- *Nombre de voix*: nbrvoix[int] Nombre de voix obtenues par le bin\u00f4me dans le bureau de vote\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "bc3ce28f-83bd-4658-8329-deee318f7bcf",
+      "last_modified": "2015-09-24T22:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/bc3ce28f-83bd-4658-8329-deee318f7bcf",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:27:56.146000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/resultats-des-elections-departementales-par-bureau-de-vote/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "resultats-des-elections-departementales-par-bureau-de-vote",
+  "spatial": null,
+  "tags": [
+    "bureaux-de-vote",
+    "candidats",
+    "cantons",
+    "conseil-departemental",
+    "conseillers-departementaux",
+    "elections-departementales",
+    "elus",
+    "institution-citoyennete",
+    "resultats"
+  ],
+  "temporal_coverage": null,
+  "title": "R\u00e9sultats des \u00e9lections d\u00e9partementales par bureau de vote",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/resultats-des-elections-departementales-par-bureau-de-vote/"
+}

@@ -1,0 +1,100 @@
+{
+  "badges": [],
+  "created_at": "2016-10-21T19:58:48.514000",
+  "deleted": null,
+  "description": "Fichier recensant le nombre de d\u00e9c\u00e8s rennais entre 1986 et 2016. Les donn\u00e9es sont ventil\u00e9es par sexe.Depuis l'ann\u00e9e 1996 sont renseign\u00e9s les statistiques sur les lieux de d\u00e9c\u00e8s ainsi que sur les tranches d'ages.",
+  "extras": {
+    "harvest:domain": "data.rennesmetropole.fr",
+    "harvest:last_update": "2017-11-27T04:01:08.270349",
+    "harvest:remote_id": "deces",
+    "harvest:source_id": "580736ec88ee3816625ff490",
+    "ods:has_records": true,
+    "ods:url": "https://data.rennesmetropole.fr/explore/dataset/deces/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "580a5758a3a7292dcfa9d1e4",
+  "last_modified": "2017-11-27T04:01:08.272000",
+  "last_update": "2017-11-27T04:01:08.269000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "RM",
+    "class": "Organization",
+    "id": "580735be88ee3814295ff490",
+    "logo": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/66/cb171cad4040edb21549eefeed27bc-100.png",
+    "name": "Rennes M\u00e9tropole en acc\u00e8s libre",
+    "page": "https://www.data.gouv.fr/fr/organizations/rennes-metropole-en-acces-libre-1/",
+    "slug": "rennes-metropole-en-acces-libre-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/rennes-metropole-en-acces-libre-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/deces/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:01:08.268000",
+      "description": "- *CODE_INSEE*: code_insee[int] Code INSEE de la commune\n\n- *COMMUNE*: commune[text] Nom de la commune\n- *ANNEE*: annee[date] Ann\u00e9e de la couverture temporelle\n- *HOMMES*: hommes[int] Nombre d'hommes d\u00e9c\u00e9d\u00e9s\n- *FEMMES*: femmes[int] Nombre de femmes d\u00e9c\u00e9d\u00e9es\n- *INDETERMINE*: indetermine[int] Nombre de personnes d\u00e9c\u00e9d\u00e9es dont le sexe est ind\u00e9termin\u00e9\n- *DOMICILE*: domicile[int] Nombre de personnes d\u00e9c\u00e9d\u00e9es \u00e0 domicile\n- *HOPITAL*: hopital[int] Nombre de personnes d\u00e9c\u00e9d\u00e9es en hopital\n- *CLINIQUE*: clinique[int] Nombre de personnes d\u00e9c\u00e9d\u00e9es en clinique\n- *MAISON_RETRAITE*: maison_retraite[int] Nombre de personnes d\u00e9c\u00e9d\u00e9es en maison de retraite\n- *VOIE_PUBLIQUE*: voie_publique[int] Nombre de personnes d\u00e9c\u00e9d\u00e9es sur la voie publique\n- *AUTRES*: autres[int] Nombre de personnes d\u00e9c\u00e9d\u00e9es en un lieu autre que ceux cit\u00e9s pr\u00e9c\u00e9dement\n- *MOINS_1_RENNES*: moins_1_rennes[int] Nombre de personnes \u00e2g\u00e9es de moins d'un an au moment du d\u00e9c\u00e8s \u00e0 Rennes\n- *MOINS_1_AUTRE*: moins_1_autre[int] Nombre de personnes \u00e2g\u00e9es de moins d'un an au moment du d\u00e9c\u00e8s hors Rennes\n- *1_60_RENNES*: 1_60_rennes[int] Nombre de personnes \u00e2g\u00e9es de 1 \u00e0 60 ans au moment du d\u00e9c\u00e8s \u00e0 Rennes\n- *1_60_AUTRE*: 1_60_autre[int] Nombre de personnes \u00e2g\u00e9es de 1 \u00e0 60 ans au moment du d\u00e9c\u00e8s hors Rennes\n- *PLUS_60_RENNES*: plus_60_rennes[int] Nombre de personnes \u00e2g\u00e9es de plus de 60 ans au moment du d\u00e9c\u00e8s \u00e0 Rennes\n- *PLUS_60_AUTRE*: plus_60_autre[int] Nombre de personnes \u00e2g\u00e9es de plus de 60 ans au moment du d\u00e9c\u00e8s hors Rennes\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "897fdcc1-da16-4fe4-b2e4-b5f3ab39105e",
+      "last_modified": "2016-03-23T09:06:02",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/897fdcc1-da16-4fe4-b2e4-b5f3ab39105e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T04:01:08.268000",
+      "title": "Export au format CSV",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/deces/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T04:01:08.269000",
+      "description": "- *CODE_INSEE*: code_insee[int] Code INSEE de la commune\n\n- *COMMUNE*: commune[text] Nom de la commune\n- *ANNEE*: annee[date] Ann\u00e9e de la couverture temporelle\n- *HOMMES*: hommes[int] Nombre d'hommes d\u00e9c\u00e9d\u00e9s\n- *FEMMES*: femmes[int] Nombre de femmes d\u00e9c\u00e9d\u00e9es\n- *INDETERMINE*: indetermine[int] Nombre de personnes d\u00e9c\u00e9d\u00e9es dont le sexe est ind\u00e9termin\u00e9\n- *DOMICILE*: domicile[int] Nombre de personnes d\u00e9c\u00e9d\u00e9es \u00e0 domicile\n- *HOPITAL*: hopital[int] Nombre de personnes d\u00e9c\u00e9d\u00e9es en hopital\n- *CLINIQUE*: clinique[int] Nombre de personnes d\u00e9c\u00e9d\u00e9es en clinique\n- *MAISON_RETRAITE*: maison_retraite[int] Nombre de personnes d\u00e9c\u00e9d\u00e9es en maison de retraite\n- *VOIE_PUBLIQUE*: voie_publique[int] Nombre de personnes d\u00e9c\u00e9d\u00e9es sur la voie publique\n- *AUTRES*: autres[int] Nombre de personnes d\u00e9c\u00e9d\u00e9es en un lieu autre que ceux cit\u00e9s pr\u00e9c\u00e9dement\n- *MOINS_1_RENNES*: moins_1_rennes[int] Nombre de personnes \u00e2g\u00e9es de moins d'un an au moment du d\u00e9c\u00e8s \u00e0 Rennes\n- *MOINS_1_AUTRE*: moins_1_autre[int] Nombre de personnes \u00e2g\u00e9es de moins d'un an au moment du d\u00e9c\u00e8s hors Rennes\n- *1_60_RENNES*: 1_60_rennes[int] Nombre de personnes \u00e2g\u00e9es de 1 \u00e0 60 ans au moment du d\u00e9c\u00e8s \u00e0 Rennes\n- *1_60_AUTRE*: 1_60_autre[int] Nombre de personnes \u00e2g\u00e9es de 1 \u00e0 60 ans au moment du d\u00e9c\u00e8s hors Rennes\n- *PLUS_60_RENNES*: plus_60_rennes[int] Nombre de personnes \u00e2g\u00e9es de plus de 60 ans au moment du d\u00e9c\u00e8s \u00e0 Rennes\n- *PLUS_60_AUTRE*: plus_60_autre[int] Nombre de personnes \u00e2g\u00e9es de plus de 60 ans au moment du d\u00e9c\u00e8s hors Rennes\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "8e04f13c-744f-406b-b8d9-6e18ccff055e",
+      "last_modified": "2016-03-23T09:06:02",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/8e04f13c-744f-406b-b8d9-6e18ccff055e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T04:01:08.269000",
+      "title": "Export au format JSON",
+      "url": "https://data.rennesmetropole.fr/explore/dataset/deces/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "deces",
+  "spatial": null,
+  "tags": [
+    "citoyennete",
+    "etat-civil"
+  ],
+  "temporal_coverage": null,
+  "title": "D\u00e9c\u00e8s",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/deces/"
+}

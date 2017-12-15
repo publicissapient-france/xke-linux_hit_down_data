@@ -1,0 +1,177 @@
+{
+  "badges": [],
+  "created_at": "2017-06-06T00:00:00",
+  "deleted": null,
+  "description": "r\u00e9ponses au questionnaire sur la mesure du bien-\u00eatre en Gironde effectu\u00e9e dans le cadre de l'op\u00e9ration caravane de rio en partenariat avec Cap Siences",
+  "extras": {
+    "ckan:name": "caravane-rio-21",
+    "contact_email": "mailto:S.ETHEVE@cap-sciences.net",
+    "contact_name": "St\u00e9phane Etheve",
+    "contact_uri": "https://datacat.datalocale.fr/415719",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+    "guid": "https://datacat.datalocale.fr/415720",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-06-06T16:38:33.529928",
+    "harvest:remote_id": "e5ef514f-35e4-4b3e-a23d-2c8c8ed605aa",
+    "harvest:source_id": "59365a72c751df28ed47c9eb",
+    "identifier": "8d6575c4-9777-4d4d-8e15-b444cd58349e",
+    "issued": "2013-03-08T17:08:00+00:00",
+    "modified": "2016-07-18T09:21:06.186704+00:00",
+    "publisher_email": "mailto:dgsd-a21@cg33.fr",
+    "publisher_name": "Mission agenda 21",
+    "publisher_uri": "https://datacat.datalocale.fr/414704",
+    "remote_url": "http://caravane-rio21.net/",
+    "theme": "[\"politique de d\u00e9veloppement\"]",
+    "uri": "https://datacat.datalocale.fr/415720"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5936be69a3a72968e28772ce",
+  "last_modified": "2017-06-06T16:38:33.532000",
+  "last_update": "2017-06-06T16:38:33.529000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/caravane-rio-21/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:38:33.527000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T20:19:15.716000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415722/raw/caravane2.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "58e04125-4511-4dfa-bb77-d867388b42d0",
+      "last_modified": "2017-06-06T16:38:33.527000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/58e04125-4511-4dfa-bb77-d867388b42d0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:38:33.527000",
+      "title": "BDD de la caravane \u00e0 la date du 23/05",
+      "url": "https://datacat.datalocale.fr/file/415722/raw/caravane2.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:38:33.528000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-11-16T01:21:46.762000",
+        "check:status": 503,
+        "check:url": "https://datacat.datalocale.fr/file/415728/raw/caravane3.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "bb1631b5-142a-42d7-ac8c-74b1148cc301",
+      "last_modified": "2017-06-06T16:38:33.528000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/bb1631b5-142a-42d7-ac8c-74b1148cc301",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-06-06T16:38:33.528000",
+      "title": "r\u00e9sultats r\u00e9partis dans plusieurs onglets",
+      "url": "https://datacat.datalocale.fr/file/415728/raw/caravane3.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:38:33.528000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-22T05:53:41.470000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/415726/raw/caravane3.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "bin",
+      "id": "0df10cb0-0537-41f3-9613-cecf933ec33f",
+      "last_modified": "2017-06-06T16:38:33.528000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0df10cb0-0537-41f3-9613-cecf933ec33f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/octet-stream",
+      "published": "2017-06-06T16:38:33.528000",
+      "title": "Nouvelles BDD",
+      "url": "https://datacat.datalocale.fr/file/415726/raw/caravane3.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:38:33.528000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-11-16T01:21:47.780000",
+        "check:status": 503,
+        "check:url": "https://datacat.datalocale.fr/file/415724/raw/caravane2.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "7122d390-9a50-4c20-9fa8-812ba76479cc",
+      "last_modified": "2017-06-06T16:38:33.529000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7122d390-9a50-4c20-9fa8-812ba76479cc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-06-06T16:38:33.529000",
+      "title": "r\u00e9sultats mis en forme dans des onglets",
+      "url": "https://datacat.datalocale.fr/file/415724/raw/caravane2.ods"
+    }
+  ],
+  "slug": "caravane-rio-21",
+  "spatial": null,
+  "tags": [
+    "agenda-21",
+    "bien-etre",
+    "developpement-durable"
+  ],
+  "temporal_coverage": null,
+  "title": "caravane rio 21",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/caravane-rio-21/"
+}

@@ -1,0 +1,246 @@
+{
+  "badges": [],
+  "created_at": "2017-03-31T00:00:00",
+  "deleted": null,
+  "description": "Nombre de b\u00e9n\u00e9ficiaires tous r\u00e9gimes et CAF de prestations familiales et sociales g\u00e9r\u00e9es par la branche Famille depuis 1978",
+  "extras": {
+    "ckan:name": "historique-des-beneficiaires-de-prestations-familiales-et-sociales-tous-regimes-et-caf",
+    "harvest:domain": "data.caf.fr",
+    "harvest:last_update": "2017-11-27T05:08:34.641768",
+    "harvest:remote_id": "7933fe26-ab68-4b9a-b806-a8ca3f45014f",
+    "harvest:source_id": "560d9133c751df40ee756894",
+    "harvested": "2017-10-02T09:48:02.969126",
+    "remote_url": "Fichiers FILEAS, MSA, Autres r\u00e9gimes",
+    "source_id": "954ea88a-1b59-4a56-acae-2148a64dbe5e"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "595930e2a3a7291dcf9c824f",
+  "last_modified": "2017-11-27T05:08:34.644000",
+  "last_update": "2017-07-02T19:44:02.067000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": "CNAF",
+    "class": "Organization",
+    "id": "5595066cc751df4582a453ba",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-07-02/a1bc08e4a4dc44a89cb29697800a83b5/new_logo-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-07-02/a1bc08e4a4dc44a89cb29697800a83b5/new_logo-100.jpg",
+    "name": "Caisse Nationale des Allocations familiales ",
+    "page": "https://www.data.gouv.fr/fr/organizations/allocations-familiales/",
+    "slug": "allocations-familiales",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/allocations-familiales/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/historique-des-beneficiaires-de-prestations-familiales-et-sociales-tous-regimes-et-caf/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:44:02.065000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T18:11:13.839000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/7933fe26-ab68-4b9a-b806-a8ca3f45014f/resource/842d8d93-e3a4-431f-b876-fff77f5126bc/download/DescriptiffichierbenefhistTR.txt"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "txt",
+      "id": "842d8d93-e3a4-431f-b876-fff77f5126bc",
+      "last_modified": "2017-11-27T05:08:34.640000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/842d8d93-e3a4-431f-b876-fff77f5126bc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 1
+      },
+      "mime": null,
+      "published": "2017-07-02T19:44:02.065000",
+      "title": "Descriptif des b\u00e9n\u00e9ficiaires",
+      "url": "http://data.caf.fr/dataset/7933fe26-ab68-4b9a-b806-a8ca3f45014f/resource/842d8d93-e3a4-431f-b876-fff77f5126bc/download/DescriptiffichierbenefhistTR.txt"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:44:02.065000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T18:11:13.827000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/7933fe26-ab68-4b9a-b806-a8ca3f45014f/resource/608f27b2-f572-44a2-9014-1ae2cf56c5db/download/historiquebeneficiairestsregimedepuis-1989MD.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "608f27b2-f572-44a2-9014-1ae2cf56c5db",
+      "last_modified": "2017-11-27T05:08:34.640000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/608f27b2-f572-44a2-9014-1ae2cf56c5db",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T19:44:02.065000",
+      "title": "Nombre de b\u00e9n\u00e9ficiaires tous r\u00e9gimes France enti\u00e8re depuis 1989",
+      "url": "http://data.caf.fr/dataset/7933fe26-ab68-4b9a-b806-a8ca3f45014f/resource/608f27b2-f572-44a2-9014-1ae2cf56c5db/download/historiquebeneficiairestsregimedepuis-1989MD.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:44:02.066000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T18:11:13.817000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/7933fe26-ab68-4b9a-b806-a8ca3f45014f/resource/788342c7-a192-4bf5-9e18-741b2997b079/download/historiquebeneficiairestsregimedepuis-1978M.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "788342c7-a192-4bf5-9e18-741b2997b079",
+      "last_modified": "2017-11-27T05:08:34.640000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/788342c7-a192-4bf5-9e18-741b2997b079",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T19:44:02.066000",
+      "title": "Nombre de b\u00e9n\u00e9ficiaires tous r\u00e9gimes M\u00e9tropole depuis 1978",
+      "url": "http://data.caf.fr/dataset/7933fe26-ab68-4b9a-b806-a8ca3f45014f/resource/788342c7-a192-4bf5-9e18-741b2997b079/download/historiquebeneficiairestsregimedepuis-1978M.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:44:02.066000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T19:51:31.924000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/7933fe26-ab68-4b9a-b806-a8ca3f45014f/resource/90114698-4f8a-4114-98cc-355b51731fd1/download/historiquebeneficiairestsregimedepuis-1989D.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "90114698-4f8a-4114-98cc-355b51731fd1",
+      "last_modified": "2017-11-27T05:08:34.640000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/90114698-4f8a-4114-98cc-355b51731fd1",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T19:44:02.066000",
+      "title": "Nombre de b\u00e9n\u00e9ficiaires tous r\u00e9gimes DOM depuis 1989",
+      "url": "http://data.caf.fr/dataset/7933fe26-ab68-4b9a-b806-a8ca3f45014f/resource/90114698-4f8a-4114-98cc-355b51731fd1/download/historiquebeneficiairestsregimedepuis-1989D.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:44:02.066000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T18:11:13.993000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/7933fe26-ab68-4b9a-b806-a8ca3f45014f/resource/6c0c8909-a5cb-46ea-afe2-fc7c6a6a4a91/download/historiquebeneficiairescafdepuis-1989MD.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "6c0c8909-a5cb-46ea-afe2-fc7c6a6a4a91",
+      "last_modified": "2017-11-27T05:08:34.640000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6c0c8909-a5cb-46ea-afe2-fc7c6a6a4a91",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T19:44:02.067000",
+      "title": "Nombre de b\u00e9n\u00e9ficiaires CAF France enti\u00e8re depuis 1989",
+      "url": "http://data.caf.fr/dataset/7933fe26-ab68-4b9a-b806-a8ca3f45014f/resource/6c0c8909-a5cb-46ea-afe2-fc7c6a6a4a91/download/historiquebeneficiairescafdepuis-1989MD.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:44:02.067000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T07:14:47.200000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/7933fe26-ab68-4b9a-b806-a8ca3f45014f/resource/2c20686d-22ce-40f5-b59d-d3eaeadb3f79/download/historiquebeneficiairescafdepuis-1989M.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2c20686d-22ce-40f5-b59d-d3eaeadb3f79",
+      "last_modified": "2017-11-27T05:08:34.640000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2c20686d-22ce-40f5-b59d-d3eaeadb3f79",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T19:44:02.067000",
+      "title": "Nombre de b\u00e9n\u00e9ficiaires CAF M\u00e9tropole depuis 1989",
+      "url": "http://data.caf.fr/dataset/7933fe26-ab68-4b9a-b806-a8ca3f45014f/resource/2c20686d-22ce-40f5-b59d-d3eaeadb3f79/download/historiquebeneficiairescafdepuis-1989M.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T19:44:02.067000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-18T01:39:09.241000",
+        "check:status": 200,
+        "check:url": "http://data.caf.fr/dataset/7933fe26-ab68-4b9a-b806-a8ca3f45014f/resource/19ff17ff-b6f5-42d4-be9e-6d283c44ae06/download/historiquebeneficiairescafdepuis-1989D.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "19ff17ff-b6f5-42d4-be9e-6d283c44ae06",
+      "last_modified": "2017-11-27T05:08:34.641000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/19ff17ff-b6f5-42d4-be9e-6d283c44ae06",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-07-02T19:44:02.067000",
+      "title": "Nombre de b\u00e9n\u00e9ficiaires CAF DOM depuis 1989",
+      "url": "http://data.caf.fr/dataset/7933fe26-ab68-4b9a-b806-a8ca3f45014f/resource/19ff17ff-b6f5-42d4-be9e-6d283c44ae06/download/historiquebeneficiairescafdepuis-1989D.csv"
+    }
+  ],
+  "slug": "historique-des-beneficiaires-de-prestations-familiales-et-sociales-tous-regimes-et-caf",
+  "spatial": null,
+  "tags": [
+    "beneficiaires",
+    "tous-regimes"
+  ],
+  "temporal_coverage": null,
+  "title": "Historique des b\u00e9n\u00e9ficiaires de prestations familiales et sociales tous r\u00e9gimes et CAF (France enti\u00e8re, M\u00e9tropole et DOM)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/historique-des-beneficiaires-de-prestations-familiales-et-sociales-tous-regimes-et-caf/"
+}

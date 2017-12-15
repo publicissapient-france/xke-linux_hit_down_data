@@ -1,0 +1,81 @@
+{
+  "badges": [],
+  "created_at": "2015-06-18T18:25:10.582000",
+  "deleted": null,
+  "description": "Le Cr\u00e9matorium de Saint-Malo a ouvert ses portes fin 2012.\r\n\r\nIl fournit annuellement des statistiques sur les cr\u00e9mations dont il a la charge. Le fichier t\u00e9l\u00e9chargeable contient les donn\u00e9es suivantes :\r\n\r\n\r\n\r\n- _Cr\u00e9mations _: Total des cr\u00e9mations effectu\u00e9es pendant l'ann\u00e9e civile par le Cr\u00e9matorium de Saint-Malo\r\n- _Dont_gratuites_ : Cr\u00e9mations prises en charge par le budget municipal, sur la base d'un certificat d'indigence d\u00e9livr\u00e9 par le Maire\r\n- _Origine_35400_ : Cr\u00e9mations pour lesquelles la personne d\u00e9c\u00e9d\u00e9e \u00e9tait r\u00e9sidente \u00e0 Saint-Malo\r\n- _Origine_35_ : Cr\u00e9mations pour lesquelles la personne d\u00e9c\u00e9d\u00e9e r\u00e9sidait en Ille-et-Vilaine, en dehors de Saint-Malo\r\n- _Origine_hors35_ : Cr\u00e9mations pour lesquelles la personne d\u00e9c\u00e9d\u00e9e r\u00e9sidait dans un d\u00e9partement limitrophe de l'Ille-et-Vilaine\r\n- _Dispersion_nature_ : Total des cr\u00e9mations donnant lieu \u00e0 une dispersion en pleine nature. A Saint-Malo, la tr\u00e8s grande majorit\u00e9 de ces dispersions sont des dispersions en mer\r\n- _Dispersion_JS_35400_ : Total des cr\u00e9mations donnant lieu \u00e0 une dispersion dans le Jardin du Souvenir de Saint-Malo (cimeti\u00e8re des Ormeaux)\r\n- _Dispersion_JS_hors35400_ : Total des cr\u00e9mations donnant lieu \u00e0 une dispersion dans des Jardins du Souvenir, en dehors de celui de Saint-Malo\r\n- _S\u00e9pultures_35400_ : Inhumations des urnes fun\u00e9raires en caveau ou en colombarium, \u00e0 Saint-Malo\r\n- _S\u00e9pultures_hors35400_ : Inhumations des urnes fun\u00e9raires en caveau ou en colombarium, en dehors Saint-Malo\r\n\r\nSource : SAS Gallet Cr\u00e9matorium, sous d\u00e9l\u00e9gation de service public",
+  "extras": {},
+  "frequency": "annual",
+  "frequency_date": null,
+  "id": "5582f0e6c751df0c14a453b9",
+  "last_modified": "2016-02-28T08:41:00.483000",
+  "last_update": "2015-06-18T18:26:39.318000",
+  "license": "fr-lo",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 9
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "53ba4599a3a729219b7beaca",
+    "logo": "https://www.data.gouv.fr/s/avatars/71/d80c263317463ca8050811b5b22be6-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/71/d80c263317463ca8050811b5b22be6-100.png",
+    "name": "Ville de Saint-Malo",
+    "page": "https://www.data.gouv.fr/fr/organizations/ville-de-saint-malo/",
+    "slug": "ville-de-saint-malo",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ville-de-saint-malo/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/statistiques-annuelles-de-cremations/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": {
+        "type": "sha1",
+        "value": "811d7e0aefb196610af857d42ec8dee810f6d5ef"
+      },
+      "created_at": "2015-06-18T18:26:39.318000",
+      "description": "",
+      "extras": {},
+      "filesize": 258,
+      "filetype": "file",
+      "format": "csv",
+      "id": "b5cd12e6-26c0-4526-9ef5-b3d43afde064",
+      "last_modified": "2015-06-18T18:26:39.318000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b5cd12e6-26c0-4526-9ef5-b3d43afde064",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 5
+      },
+      "mime": "text/csv",
+      "published": "2015-06-18T18:26:39.318000",
+      "title": "35288-STMALO-Cr\u00e9mations.csv",
+      "url": "https://www.data.gouv.fr/s/resources/statistiques-annuelles-de-cremations/20150618-182624/35288-STMALO-Cremations.csv"
+    }
+  ],
+  "slug": "statistiques-annuelles-de-cremations",
+  "spatial": {
+    "geom": null,
+    "granularity": "fr:commune",
+    "zones": [
+      "fr:commune:35288@1942-01-01"
+    ]
+  },
+  "tags": [
+    "cremation"
+  ],
+  "temporal_coverage": {
+    "end": "2014-12-31",
+    "start": "2013-01-01"
+  },
+  "title": "Statistiques annuelles de cr\u00e9mations",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/statistiques-annuelles-de-cremations/"
+}

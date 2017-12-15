@@ -1,0 +1,361 @@
+{
+  "badges": [],
+  "created_at": "2017-09-29T00:00:00",
+  "deleted": null,
+  "description": "Donn\u00e9es concernant le budget 2011 de la commune de Brocas",
+  "extras": {
+    "ckan:name": "commune-de-brocas-budget-2011",
+    "contact_email": "mailto:contact@brocas.fr",
+    "contact_name": "Mairie de Brocas",
+    "contact_uri": "https://datacat.datalocale.fr/414602",
+    "guid": "https://datacat.datalocale.fr/414603",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-10-02T07:48:54.566469",
+    "harvest:remote_id": "0c197170-c5bc-4a71-a36c-c993b201ca07",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "0918bd68-115d-40cb-873f-17fd1a1c26bc",
+    "issued": "2013-08-16T19:29:51+00:00",
+    "modified": "2016-07-18T09:21:04.945753+00:00",
+    "publisher_email": "mailto:contact@brocas.fr",
+    "publisher_name": "Mairie de Brocas",
+    "publisher_uri": "https://datacat.datalocale.fr/414602",
+    "theme": "[\"budget\"]",
+    "uri": "https://datacat.datalocale.fr/414603"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59cf1a78b59508043ce9b858",
+  "last_modified": "2017-10-02T07:48:54.568000",
+  "last_update": "2017-10-02T07:48:54.565000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/commune-de-brocas-budget-2011-1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:15:52.127000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T19:57:52.550000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414605/raw/BUD11_BP-Vue-d%2527ensemble_bro_v1.0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "560f0e5d-042b-450c-aa3c-7c069d2c7750",
+      "last_modified": "2017-09-30T06:15:52.127000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/560f0e5d-042b-450c-aa3c-7c069d2c7750",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-30T06:15:52.127000",
+      "title": "Vue d'ensemble du B.P. 2011",
+      "url": "https://datacat.datalocale.fr/file/414605/raw/BUD11_BP-Vue-d%2527ensemble_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:15:52.127000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T19:57:50.841000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414609/raw/BUD11_BP-Fonctionnement_bro_v1.0.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "da284389-f012-465b-a621-e264736c5ae6",
+      "last_modified": "2017-09-30T06:15:52.128000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/da284389-f012-465b-a621-e264736c5ae6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-09-30T06:15:52.128000",
+      "title": "B.P.2011 - Section Fonctionnement",
+      "url": "https://datacat.datalocale.fr/file/414609/raw/BUD11_BP-Fonctionnement_bro_v1.0.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:15:52.128000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T22:55:43.680000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414607/raw/BUD11_BP-Vue-d%2527ensemble_bro_v1.0.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "ebc1e08d-b10f-4be8-b861-bb67d2a9da35",
+      "last_modified": "2017-09-30T06:15:52.128000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ebc1e08d-b10f-4be8-b861-bb67d2a9da35",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-09-30T06:15:52.128000",
+      "title": "Vue d'ensemble du B.P. 2011",
+      "url": "https://datacat.datalocale.fr/file/414607/raw/BUD11_BP-Vue-d%2527ensemble_bro_v1.0.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:15:52.128000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-15T10:54:08.154000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414611/raw/BUD11_BP-Investissement_bro_v1.0.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "79b6021d-6aca-4858-af45-fa5799a680b3",
+      "last_modified": "2017-09-30T06:15:52.128000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/79b6021d-6aca-4858-af45-fa5799a680b3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-09-30T06:15:52.128000",
+      "title": "B.P.2011 - Section Investissement",
+      "url": "https://datacat.datalocale.fr/file/414611/raw/BUD11_BP-Investissement_bro_v1.0.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-01T06:05:25.817000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-07T22:55:43.680000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414607/raw/BUD11_BP-Vue-d%2527ensemble_bro_v1.0.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "a7647fc0-198c-4d90-8099-d3a3f6ed009b",
+      "last_modified": "2017-10-01T06:05:25.818000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a7647fc0-198c-4d90-8099-d3a3f6ed009b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-10-01T06:05:25.817000",
+      "title": "Vue d'ensemble du B.P. 2011",
+      "url": "https://datacat.datalocale.fr/file/414607/raw/BUD11_BP-Vue-d%2527ensemble_bro_v1.0.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-01T06:05:25.818000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-06T19:57:47.697000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/414611/raw/BUD11_BP-Investissement_bro_v1.0.ods"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "40964f56-13bf-4f18-acf7-513bdc93ae63",
+      "last_modified": "2017-10-01T06:05:25.818000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/40964f56-13bf-4f18-acf7-513bdc93ae63",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-10-01T06:05:25.818000",
+      "title": "B.P.2011 - Section Investissement",
+      "url": "https://datacat.datalocale.fr/file/414611/raw/BUD11_BP-Investissement_bro_v1.0.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-01T06:05:25.818000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "9896f200-ac87-4d6c-9c87-5d15eea73b92",
+      "last_modified": "2017-10-01T06:05:25.819000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/9896f200-ac87-4d6c-9c87-5d15eea73b92",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-01T06:05:25.819000",
+      "title": "Vue d'ensemble du B.P. 2011",
+      "url": "https://datacat.datalocale.fr/file/414605/raw/BUD11_BP-Vue-d%2527ensemble_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-01T06:05:25.819000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "248c2dab-90c3-4dab-a855-954ca9661946",
+      "last_modified": "2017-10-01T06:05:25.819000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/248c2dab-90c3-4dab-a855-954ca9661946",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-10-01T06:05:25.819000",
+      "title": "B.P.2011 - Section Fonctionnement",
+      "url": "https://datacat.datalocale.fr/file/414609/raw/BUD11_BP-Fonctionnement_bro_v1.0.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-02T07:48:54.564000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "c6fede71-e288-4b62-b42b-ee1a80080edc",
+      "last_modified": "2017-10-02T07:48:54.564000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c6fede71-e288-4b62-b42b-ee1a80080edc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-10-02T07:48:54.564000",
+      "title": "B.P.2011 - Section Fonctionnement",
+      "url": "https://datacat.datalocale.fr/file/414609/raw/BUD11_BP-Fonctionnement_bro_v1.0.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-02T07:48:54.564000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "df6d462c-0cc8-4724-acc6-332441462002",
+      "last_modified": "2017-10-02T07:48:54.564000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/df6d462c-0cc8-4724-acc6-332441462002",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-10-02T07:48:54.564000",
+      "title": "Vue d'ensemble du B.P. 2011",
+      "url": "https://datacat.datalocale.fr/file/414607/raw/BUD11_BP-Vue-d%2527ensemble_bro_v1.0.ods"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-02T07:48:54.565000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "3ab8ec2b-2559-4dac-b38b-e0a2b238abc6",
+      "last_modified": "2017-10-02T07:48:54.565000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/3ab8ec2b-2559-4dac-b38b-e0a2b238abc6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-02T07:48:54.565000",
+      "title": "Vue d'ensemble du B.P. 2011",
+      "url": "https://datacat.datalocale.fr/file/414605/raw/BUD11_BP-Vue-d%2527ensemble_bro_v1.0.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-02T07:48:54.565000",
+      "description": null,
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "ods",
+      "id": "b2166568-8496-4111-80f4-81fd0a380453",
+      "last_modified": "2017-10-02T07:48:54.565000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b2166568-8496-4111-80f4-81fd0a380453",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-10-02T07:48:54.565000",
+      "title": "B.P.2011 - Section Investissement",
+      "url": "https://datacat.datalocale.fr/file/414611/raw/BUD11_BP-Investissement_bro_v1.0.ods"
+    }
+  ],
+  "slug": "commune-de-brocas-budget-2011-1",
+  "spatial": null,
+  "tags": [
+    "2011",
+    "brocas",
+    "budget"
+  ],
+  "temporal_coverage": null,
+  "title": "Commune de Brocas : Budget 2011",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/commune-de-brocas-budget-2011-1/"
+}

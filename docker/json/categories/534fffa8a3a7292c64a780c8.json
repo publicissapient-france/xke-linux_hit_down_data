@@ -1,0 +1,53 @@
+{
+  "acronym": null,
+  "badges": [
+    {
+      "kind": "public-service"
+    },
+    {
+      "kind": "certified"
+    }
+  ],
+  "created_at": "2014-04-17T18:22:00.473000",
+  "deleted": null,
+  "description": "http://data.iledefrance.fr",
+  "id": "534fffa8a3a7292c64a780c8",
+  "last_modified": "2017-11-27T10:26:00.602000",
+  "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+  "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+  "members": [
+    {
+      "role": "admin",
+      "user": {
+        "avatar": "https://www.data.gouv.fr/s/avatars/3d/e4f2ca327e45f69faa003e74ad773a-original.png",
+        "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/3d/e4f2ca327e45f69faa003e74ad773a-100.png",
+        "class": "User",
+        "first_name": "Christophe",
+        "id": "534fff3ea3a7292c64a774fd",
+        "last_name": "Libert",
+        "page": "https://www.data.gouv.fr/fr/users/christophe-libert/",
+        "slug": "christophe-libert",
+        "uri": "https://www.data.gouv.fr/api/1/users/christophe-libert/"
+      }
+    }
+  ],
+  "metrics": {
+    "dataset_views": 3646,
+    "datasets": 1096,
+    "followers": 81,
+    "members": 1,
+    "nb_hits": 1,
+    "nb_uniq_visitors": 1,
+    "nb_visits": 1,
+    "permitted_reuses": 15,
+    "resource_downloads": 13263,
+    "reuse_views": 452,
+    "reuses": 0,
+    "views": 1493
+  },
+  "name": "R\u00e9gion \u00cele-de-France",
+  "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+  "slug": "region-ile-de-france",
+  "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/",
+  "url": "http://data.iledefrance.fr"
+}

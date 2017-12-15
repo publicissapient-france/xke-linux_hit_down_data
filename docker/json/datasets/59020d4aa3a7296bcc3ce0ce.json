@@ -1,0 +1,80 @@
+{
+  "badges": [],
+  "created_at": "2017-03-05T00:00:00",
+  "deleted": null,
+  "description": "",
+  "extras": {
+    "ckan:name": "provinces-turques",
+    "harvest:domain": "opendata.data-ozwillo.org",
+    "harvest:last_update": "2017-04-27T17:24:58.586205",
+    "harvest:remote_id": "7879784d-132a-486b-b144-043398f5bda6",
+    "harvest:source_id": "57599de9c751df1a1dac31a0",
+    "remote_url": "Ozwillo"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59020d4aa3a7296bcc3ce0ce",
+  "last_modified": "2017-04-27T17:24:58.587000",
+  "last_update": "2017-04-27T17:24:58.585000",
+  "license": "notspecified",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "56c4765fc751df27326c6ddf",
+    "logo": "https://www.data.gouv.fr/s/avatars/c3/f674ad6c354099a8166090b134da4a-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c3/f674ad6c354099a8166090b134da4a-100.png",
+    "name": "Ozwillo",
+    "page": "https://www.data.gouv.fr/fr/organizations/ozwillo/",
+    "slug": "ozwillo",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ozwillo/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/provinces-turques/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-04-27T17:24:58.585000",
+      "description": null,
+      "extras": {
+        "check:available": false,
+        "check:date": "2017-11-06T19:01:43.735000",
+        "check:status": 503,
+        "check:url": "https://opendata.data-ozwillo.org/dataset/7879784d-132a-486b-b144-043398f5bda6/resource/e6638d72-66ff-459a-81ed-33cc79005ca0/download/geon3trl0.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "e6638d72-66ff-459a-81ed-33cc79005ca0",
+      "last_modified": "2017-03-05T00:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e6638d72-66ff-459a-81ed-33cc79005ca0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-04-27T17:24:58.585000",
+      "title": "Export des provinces turques",
+      "url": "https://opendata.data-ozwillo.org/dataset/7879784d-132a-486b-b144-043398f5bda6/resource/e6638d72-66ff-459a-81ed-33cc79005ca0/download/geon3trl0.csv"
+    }
+  ],
+  "slug": "provinces-turques",
+  "spatial": null,
+  "tags": [],
+  "temporal_coverage": null,
+  "title": "Provinces turques",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/provinces-turques/"
+}

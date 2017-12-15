@@ -1,0 +1,102 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T17:12:14.085000",
+  "deleted": null,
+  "description": "Liste des pr\u00e9noms d\u00e9clar\u00e9s \u00e0 l'\u00e9tat-civil de 2004 \u00e0 2016.\n\nUn \"X\" dans la case \"sexe\" signifie que le pr\u00e9nom est mixte et que le sexe n'est pas sp\u00e9cifi\u00e9.",
+  "extras": {
+    "harvest:domain": "opendata.paris.fr",
+    "harvest:last_update": "2017-11-27T05:09:19.001076",
+    "harvest:remote_id": "liste_des_prenoms_2004_a_2012",
+    "harvest:source_id": "5631ef2988ee3837ce531585",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.paris.fr/explore/dataset/liste_des_prenoms_2004_a_2012/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59590d4ea3a7291dd09c8021",
+  "last_modified": "2017-11-27T05:09:19.002000",
+  "last_update": "2017-11-27T05:09:19",
+  "license": "odc-odbl",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff89a3a7292c64a77eb7",
+    "logo": "https://www.data.gouv.fr/s/avatars/b2/0e83ec3699415a87640e97c51cb006-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b2/0e83ec3699415a87640e97c51cb006-100.png",
+    "name": "Mairie de Paris",
+    "page": "https://www.data.gouv.fr/fr/organizations/mairie-de-paris/",
+    "slug": "mairie-de-paris",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/mairie-de-paris/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-prenoms-2004-a-2016/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:09:19",
+      "description": "- *Prenoms*: prenoms[text]\n- *Nombre*: nombre[int]\n- *Sexe*: sexe[text]\n- *Annee*: annee[date]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "15669468-dbc0-4708-8e5f-37a852badbc4",
+      "last_modified": "2017-01-06T17:14:48",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/15669468-dbc0-4708-8e5f-37a852badbc4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:09:19",
+      "title": "Export au format CSV",
+      "url": "https://opendata.paris.fr/explore/dataset/liste_des_prenoms_2004_a_2012/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:09:19",
+      "description": "- *Prenoms*: prenoms[text]\n- *Nombre*: nombre[int]\n- *Sexe*: sexe[text]\n- *Annee*: annee[date]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "0c9d0f54-2c20-4181-a5b5-b5216e7b036e",
+      "last_modified": "2017-01-06T17:14:48",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0c9d0f54-2c20-4181-a5b5-b5216e7b036e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:09:19",
+      "title": "Export au format JSON",
+      "url": "https://opendata.paris.fr/explore/dataset/liste_des_prenoms_2004_a_2012/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "liste-des-prenoms-2004-a-2016",
+  "spatial": null,
+  "tags": [
+    "bebes",
+    "citoyennete",
+    "etat-civil",
+    "paris",
+    "prenoms"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des pr\u00e9noms 2004 \u00e0 2016",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-prenoms-2004-a-2016/"
+}

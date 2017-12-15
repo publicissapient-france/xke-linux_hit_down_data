@@ -1,0 +1,147 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T17:10:54.957000",
+  "deleted": null,
+  "description": "Ce jeu de donn\u00e9es\u00a0localise g\u00e9ographiquement l\u2019ensemble des jardini\u00e8res et d\u00e9corations pr\u00e9sentes \u00e0 Paris. On distingue 2 types de jardini\u00e8res : les jardini\u00e8res sur la voie publique (jardini\u00e8re, plate-bande\u2026) et les jardini\u00e8res g\u00e9r\u00e9es par la Direction des Espaces Verts et de l'Environnement (DEVE) nomm\u00e9es \u00ab jardinets \u00bb. Par ailleurs, cette couche indique leur nom, leur ann\u00e9e de cr\u00e9ation et leur surface administrative.\n\nEn pi\u00e8ce jointe vous trouverez :\u00a0  \n\\- une notice explicative\u00a0  \n\\- le jeu de donn\u00e9es avec la forme g\u00e9om\u00e9trique",
+  "extras": {
+    "harvest:domain": "opendata.paris.fr",
+    "harvest:last_update": "2017-11-27T05:11:06.347548",
+    "harvest:remote_id": "les-jardinieres",
+    "harvest:source_id": "5631ef2988ee3837ce531585",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.paris.fr/explore/dataset/les-jardinieres/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59590cfea3a7291dcf9c8009",
+  "last_modified": "2017-11-27T05:11:06.352000",
+  "last_update": "2017-11-27T05:11:06.346000",
+  "license": "odc-odbl",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff89a3a7292c64a77eb7",
+    "logo": "https://www.data.gouv.fr/s/avatars/b2/0e83ec3699415a87640e97c51cb006-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/b2/0e83ec3699415a87640e97c51cb006-100.png",
+    "name": "Mairie de Paris",
+    "page": "https://www.data.gouv.fr/fr/organizations/mairie-de-paris/",
+    "slug": "mairie-de-paris",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/mairie-de-paris/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/les-jardinieres/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:11:06.345000",
+      "description": "- *geo_point_2d*: geo_point_2d[geo_point_2d]\n- *NOM JARDINIERE*: label[text]\n- *ARRONDISSEMENT*: arr[text]\n- *ANNEE CREATION*: annee_crea[int]\n- *SURFACE ADMINISTRATIVE*: surf_tot[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "f0420c63-91c4-4647-a006-ec9ff6dd7910",
+      "last_modified": "2014-08-04T14:00:12",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/f0420c63-91c4-4647-a006-ec9ff6dd7910",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:11:06.345000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.paris.fr/explore/dataset/les-jardinieres/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:11:06.345000",
+      "description": "- *geo_point_2d*: geo_point_2d[geo_point_2d]\n- *NOM JARDINIERE*: label[text]\n- *ARRONDISSEMENT*: arr[text]\n- *ANNEE CREATION*: annee_crea[int]\n- *SURFACE ADMINISTRATIVE*: surf_tot[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "804299c4-c979-49b6-ab8e-5caed6e34445",
+      "last_modified": "2014-08-04T14:00:12",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/804299c4-c979-49b6-ab8e-5caed6e34445",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:11:06.345000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.paris.fr/explore/dataset/les-jardinieres/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:11:06.345000",
+      "description": "- *geo_point_2d*: geo_point_2d[geo_point_2d]\n- *NOM JARDINIERE*: label[text]\n- *ARRONDISSEMENT*: arr[text]\n- *ANNEE CREATION*: annee_crea[int]\n- *SURFACE ADMINISTRATIVE*: surf_tot[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "97b6aa3d-83f0-4ef7-841a-39b9af90daa6",
+      "last_modified": "2014-08-04T14:00:12",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/97b6aa3d-83f0-4ef7-841a-39b9af90daa6",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:11:06.345000",
+      "title": "Export au format GeoJSON",
+      "url": "https://opendata.paris.fr/explore/dataset/les-jardinieres/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:11:06.346000",
+      "description": "- *geo_point_2d*: geo_point_2d[geo_point_2d]\n- *NOM JARDINIERE*: label[text]\n- *ARRONDISSEMENT*: arr[text]\n- *ANNEE CREATION*: annee_crea[int]\n- *SURFACE ADMINISTRATIVE*: surf_tot[int]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "49b566de-b394-41e7-a673-56dacb5aaac5",
+      "last_modified": "2014-08-04T14:00:12",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/49b566de-b394-41e7-a673-56dacb5aaac5",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:11:06.346000",
+      "title": "Export au format Shapefile",
+      "url": "https://opendata.paris.fr/explore/dataset/les-jardinieres/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "les-jardinieres",
+  "spatial": null,
+  "tags": [
+    "decorations",
+    "environnement",
+    "jardin",
+    "jardinets",
+    "jardinieres",
+    "plate-bande"
+  ],
+  "temporal_coverage": null,
+  "title": "Les jardini\u00e8res",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/les-jardinieres/"
+}

@@ -1,0 +1,102 @@
+{
+  "badges": [],
+  "created_at": "2016-07-13T20:56:20.277000",
+  "deleted": null,
+  "description": "Ratios l\u00e9gaux du budget d\u00e9partemental (budget primitif)\n\n* * *\n\nCe jeu de donn\u00e9es comporte 11 indicateurs permettant d'estimer la sant\u00e9 financi\u00e8re des collectivit\u00e9s. Ils permettent de comparer les donn\u00e9es financi\u00e8res entre collectivit\u00e9s de m\u00eame strate. Pour les utiliser, il est indispensable d'en conna\u00eetre les modes de calcul afin d'en discerner les avantages et les limites. Les ratios financiers sont d\u00e9finis par le code g\u00e9n\u00e9ral des collectivit\u00e9s territoriales, article R3313-1 et doivent obligatoirement \u00eatre publi\u00e9s par la collectivit\u00e9 \u00e0 l'intention de ses administr\u00e9s.\n\n**Lexique**\n\nCoefficient de mobilisation du potentiel fiscal (CMPF)\n    Rapport entre le produit fiscal effectif et le potentiel fiscal (recettes fiscales / potentiel fiscal). Il mesure le niveau de pression fiscale exerc\u00e9e par la collectivit\u00e9 sur ses contribuables.\nDGF\n    Dotation globale de fonctionnement",
+  "extras": {
+    "harvest:domain": "opendata.hauts-de-seine.fr",
+    "harvest:last_update": "2017-11-27T05:27:56.207114",
+    "harvest:remote_id": "budget-departemental-les-ratios-legaux-budget-primitif",
+    "harvest:source_id": "5731a6d688ee38379cd1b934",
+    "ods:has_records": true,
+    "ods:url": "https://opendata.hauts-de-seine.fr//explore/dataset/budget-departemental-les-ratios-legaux-budget-primitif/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "57868ed4a3a7295d371add1e",
+  "last_modified": "2017-11-27T05:27:56.210000",
+  "last_update": "2017-11-27T05:27:56.206000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "544e1b0888ee38289ae1ed05",
+    "logo": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2014-10-27/89f0a54407ff4325a2db2546c6b6e26e/LogoCG92-vert-500x500-100.jpg",
+    "name": "Hauts-de-Seine le D\u00e9partement",
+    "page": "https://www.data.gouv.fr/fr/organizations/hauts-de-seine-le-departement/",
+    "slug": "hauts-de-seine-le-departement",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/hauts-de-seine-le-departement/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/budget-departemental-les-ratios-legaux-budget-primitif/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:27:56.205000",
+      "description": "- *ANNEE*: annee[date] Ann\u00e9e\n- *LIBELLE*: libelle[text] Libell\u00e9 descriptif du ratio\n- *VALEUR*: valeur[double] Valeur du ratio\n- *TYPE_DONNEE*: type_donnee[text] Unit\u00e9 du ratio\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "21e0f028-f696-4751-ad98-60e64bb2b4cc",
+      "last_modified": "2017-01-25T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/21e0f028-f696-4751-ad98-60e64bb2b4cc",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:27:56.205000",
+      "title": "Export au format CSV",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/budget-departemental-les-ratios-legaux-budget-primitif/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:27:56.206000",
+      "description": "- *ANNEE*: annee[date] Ann\u00e9e\n- *LIBELLE*: libelle[text] Libell\u00e9 descriptif du ratio\n- *VALEUR*: valeur[double] Valeur du ratio\n- *TYPE_DONNEE*: type_donnee[text] Unit\u00e9 du ratio\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "50c138fa-c42e-4bc0-be55-cb47a9b4f472",
+      "last_modified": "2017-01-25T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/50c138fa-c42e-4bc0-be55-cb47a9b4f472",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:27:56.206000",
+      "title": "Export au format JSON",
+      "url": "https://opendata.hauts-de-seine.fr//explore/dataset/budget-departemental-les-ratios-legaux-budget-primitif/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "budget-departemental-les-ratios-legaux-budget-primitif",
+  "spatial": null,
+  "tags": [
+    "coefficients",
+    "dette",
+    "finances",
+    "ratios"
+  ],
+  "temporal_coverage": null,
+  "title": "Budget d\u00e9partemental : les ratios l\u00e9gaux (budget primitif)",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/budget-departemental-les-ratios-legaux-budget-primitif/"
+}

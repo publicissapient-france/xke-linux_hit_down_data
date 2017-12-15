@@ -1,0 +1,149 @@
+{
+  "badges": [],
+  "created_at": "2017-07-02T17:58:22.380000",
+  "deleted": null,
+  "description": "Le r\u00e9pertoire recense, depuis 1995, les concerts donn\u00e9s en \u00cele-de-France par l'Orchestre\u00a0national d'\u00cele-de-France.\u00a0Il comprend les \u0153uvres donn\u00e9es mais aussi les noms des chefs d'orchestre dirigeant l'Orchestre, les solistes invit\u00e9s, les dates et lieux des concerts.\n\nCr\u00e9\u00e9 en 1974, l'orchestre national d'\u00cele-de-France a pour mission de diffuser la musique symphonique sur tout le territoire francilien.",
+  "extras": {
+    "harvest:domain": "data.iledefrance.fr",
+    "harvest:last_update": "2017-11-27T05:37:42.908938",
+    "harvest:remote_id": "repertoire-de-lorchestre-national-dile-de-france-de-1995-a-2013",
+    "harvest:source_id": "5898eb3ec751df390fae0a65",
+    "ods:has_records": true,
+    "ods:url": "https://data.iledefrance.fr//explore/dataset/repertoire-de-lorchestre-national-dile-de-france-de-1995-a-2013/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5959181ea3a7291dd09c809f",
+  "last_modified": "2017-11-27T05:37:42.913000",
+  "last_update": "2017-11-27T05:37:42.908000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffa8a3a7292c64a780c8",
+    "logo": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/2015-03-05/a6cd667d87434dce8ed85084db889359/LOGO-IDF-SIGNATURE-CAMPAGNE-100.jpg",
+    "name": "R\u00e9gion \u00cele-de-France",
+    "page": "https://www.data.gouv.fr/fr/organizations/region-ile-de-france/",
+    "slug": "region-ile-de-france",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/region-ile-de-france/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/repertoire-de-lorchestre-national-dile-de-france-de-1995-a-2013/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:37:42.907000",
+      "description": "- *Pr\u00e9nom compositeur*: prenom_compositeur[text]\n- *Nom compositeur*: nom_compositeur[text]\n- *Pr\u00e9nom Nom*: prenom_nom[text]\n- *Oeuvre*: oeuvre[text]\n- *Dur\u00e9e*: duree[text]\n- *Saison*: saison[text]\n- *Date*: date[date]\n- *Ann\u00e9e*: annee[text]\n- *Heure*: heure[text]\n- *Direction*: direction[text]\n- *Soliste_s*: soliste_s[text]\n- *Ville*: ville[text]\n- *Salle*: salle[text]\n- *Effectif*: effectif[text]\n- *wgs84*: wgs84[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c669e033-e033-451b-ab82-96d6ffbf38a8",
+      "last_modified": "2014-03-25T13:09:55",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c669e033-e033-451b-ab82-96d6ffbf38a8",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:37:42.907000",
+      "title": "Export au format CSV",
+      "url": "https://data.iledefrance.fr//explore/dataset/repertoire-de-lorchestre-national-dile-de-france-de-1995-a-2013/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:37:42.907000",
+      "description": "- *Pr\u00e9nom compositeur*: prenom_compositeur[text]\n- *Nom compositeur*: nom_compositeur[text]\n- *Pr\u00e9nom Nom*: prenom_nom[text]\n- *Oeuvre*: oeuvre[text]\n- *Dur\u00e9e*: duree[text]\n- *Saison*: saison[text]\n- *Date*: date[date]\n- *Ann\u00e9e*: annee[text]\n- *Heure*: heure[text]\n- *Direction*: direction[text]\n- *Soliste_s*: soliste_s[text]\n- *Ville*: ville[text]\n- *Salle*: salle[text]\n- *Effectif*: effectif[text]\n- *wgs84*: wgs84[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "b523cf2c-4c49-432b-9e19-c0aaeb1e0b86",
+      "last_modified": "2014-03-25T13:09:55",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b523cf2c-4c49-432b-9e19-c0aaeb1e0b86",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:37:42.907000",
+      "title": "Export au format JSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/repertoire-de-lorchestre-national-dile-de-france-de-1995-a-2013/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:37:42.908000",
+      "description": "- *Pr\u00e9nom compositeur*: prenom_compositeur[text]\n- *Nom compositeur*: nom_compositeur[text]\n- *Pr\u00e9nom Nom*: prenom_nom[text]\n- *Oeuvre*: oeuvre[text]\n- *Dur\u00e9e*: duree[text]\n- *Saison*: saison[text]\n- *Date*: date[date]\n- *Ann\u00e9e*: annee[text]\n- *Heure*: heure[text]\n- *Direction*: direction[text]\n- *Soliste_s*: soliste_s[text]\n- *Ville*: ville[text]\n- *Salle*: salle[text]\n- *Effectif*: effectif[text]\n- *wgs84*: wgs84[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "0486aa0d-22d8-4f15-93d0-32aed8fb1cfe",
+      "last_modified": "2014-03-25T13:09:55",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0486aa0d-22d8-4f15-93d0-32aed8fb1cfe",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:37:42.908000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.iledefrance.fr//explore/dataset/repertoire-de-lorchestre-national-dile-de-france-de-1995-a-2013/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:37:42.908000",
+      "description": "- *Pr\u00e9nom compositeur*: prenom_compositeur[text]\n- *Nom compositeur*: nom_compositeur[text]\n- *Pr\u00e9nom Nom*: prenom_nom[text]\n- *Oeuvre*: oeuvre[text]\n- *Dur\u00e9e*: duree[text]\n- *Saison*: saison[text]\n- *Date*: date[date]\n- *Ann\u00e9e*: annee[text]\n- *Heure*: heure[text]\n- *Direction*: direction[text]\n- *Soliste_s*: soliste_s[text]\n- *Ville*: ville[text]\n- *Salle*: salle[text]\n- *Effectif*: effectif[text]\n- *wgs84*: wgs84[geo_point_2d]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "cc80b774-4801-4f4d-bc5e-1250190294c4",
+      "last_modified": "2014-03-25T13:09:55",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/cc80b774-4801-4f4d-bc5e-1250190294c4",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:37:42.908000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.iledefrance.fr//explore/dataset/repertoire-de-lorchestre-national-dile-de-france-de-1995-a-2013/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "repertoire-de-lorchestre-national-dile-de-france-de-1995-a-2013",
+  "spatial": null,
+  "tags": [
+    "classique",
+    "concerts",
+    "geolocalisation",
+    "musique",
+    "ondif",
+    "orchestre",
+    "repertoire",
+    "vie-culturelle"
+  ],
+  "temporal_coverage": null,
+  "title": "R\u00e9pertoire de l'Orchestre national d'\u00cele-de-France de 1995 \u00e0 2013",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/repertoire-de-lorchestre-national-dile-de-france-de-1995-a-2013/"
+}

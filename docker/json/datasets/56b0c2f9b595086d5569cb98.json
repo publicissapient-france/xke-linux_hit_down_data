@@ -1,0 +1,147 @@
+{
+  "badges": [],
+  "created_at": "2016-02-02T15:53:45.828000",
+  "deleted": null,
+  "description": "Localisation des salles de conf\u00e9rences sur la commune de Toulouse",
+  "extras": {
+    "harvest:domain": "data.toulouse-metropole.fr",
+    "harvest:last_update": "2017-11-27T05:15:24.759681",
+    "harvest:remote_id": "salles-de-conferences",
+    "harvest:source_id": "564c3680c751df607daad370",
+    "ods:has_records": true,
+    "ods:url": "https://data.toulouse-metropole.fr//explore/dataset/salles-de-conferences/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "56b0c2f9b595086d5569cb98",
+  "last_modified": "2017-11-27T05:15:24.763000",
+  "last_update": "2017-11-27T05:15:24.758000",
+  "license": "odc-odbl",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 1
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fffb3a3a7292c64a78129",
+    "logo": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-original.jpg",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/c0/2606ddc0b241378babea024e259e5b-100.jpg",
+    "name": "Toulouse m\u00e9trople",
+    "page": "https://www.data.gouv.fr/fr/organizations/toulouse-metrople/",
+    "slug": "toulouse-metrople",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/toulouse-metrople/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/salles-de-conferences-toulouse/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:15:24.757000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *EQ_NOM_EQUIPEMENT*: eq_nom_equipement[text]\n- *EQ_GESTIONNAIRE*: eq_gestionnaire[text]\n- *EQ_TELEPHONE*: eq_telephone[text]\n- *EQ_SITE_WEB*: eq_site_web[text]\n- *EQ_ACCES_METRO*: eq_acces_metro[text]\n- *EQ_ACCES_BUS*: eq_acces_bus[text]\n- *NUMERO*: numero[text]\n- *LIB_OFF*: lib_off[text]\n- *ID_SECTEUR_POSTAL*: id_secteur_postal[text]\n- *EQ_VILLE*: eq_ville[text]\n- *EQ_SECTEUR*: eq_secteur[text]\n- *EQ_QUARTIER*: eq_quartier[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "b6beb4f6-b816-4818-93c1-ea4ffb45ea0e",
+      "last_modified": "2015-02-13T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/b6beb4f6-b816-4818-93c1-ea4ffb45ea0e",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:15:24.757000",
+      "title": "Export au format CSV",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/salles-de-conferences/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:15:24.757000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *EQ_NOM_EQUIPEMENT*: eq_nom_equipement[text]\n- *EQ_GESTIONNAIRE*: eq_gestionnaire[text]\n- *EQ_TELEPHONE*: eq_telephone[text]\n- *EQ_SITE_WEB*: eq_site_web[text]\n- *EQ_ACCES_METRO*: eq_acces_metro[text]\n- *EQ_ACCES_BUS*: eq_acces_bus[text]\n- *NUMERO*: numero[text]\n- *LIB_OFF*: lib_off[text]\n- *ID_SECTEUR_POSTAL*: id_secteur_postal[text]\n- *EQ_VILLE*: eq_ville[text]\n- *EQ_SECTEUR*: eq_secteur[text]\n- *EQ_QUARTIER*: eq_quartier[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "7b32368a-8303-4f80-b82f-4fc07400bed0",
+      "last_modified": "2015-02-13T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7b32368a-8303-4f80-b82f-4fc07400bed0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:15:24.757000",
+      "title": "Export au format JSON",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/salles-de-conferences/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:15:24.758000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *EQ_NOM_EQUIPEMENT*: eq_nom_equipement[text]\n- *EQ_GESTIONNAIRE*: eq_gestionnaire[text]\n- *EQ_TELEPHONE*: eq_telephone[text]\n- *EQ_SITE_WEB*: eq_site_web[text]\n- *EQ_ACCES_METRO*: eq_acces_metro[text]\n- *EQ_ACCES_BUS*: eq_acces_bus[text]\n- *NUMERO*: numero[text]\n- *LIB_OFF*: lib_off[text]\n- *ID_SECTEUR_POSTAL*: id_secteur_postal[text]\n- *EQ_VILLE*: eq_ville[text]\n- *EQ_SECTEUR*: eq_secteur[text]\n- *EQ_QUARTIER*: eq_quartier[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "303c4b25-1ef3-4a28-bd90-b121a0df8d50",
+      "last_modified": "2015-02-13T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/303c4b25-1ef3-4a28-bd90-b121a0df8d50",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/vnd.geo+json",
+      "published": "2017-11-27T05:15:24.758000",
+      "title": "Export au format GeoJSON",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/salles-de-conferences/download?format=geojson&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:15:24.758000",
+      "description": "- *Geo Point*: geo_point_2d[geo_point_2d]\n- *Geo Shape*: geo_shape[geo_shape]\n- *EQ_NOM_EQUIPEMENT*: eq_nom_equipement[text]\n- *EQ_GESTIONNAIRE*: eq_gestionnaire[text]\n- *EQ_TELEPHONE*: eq_telephone[text]\n- *EQ_SITE_WEB*: eq_site_web[text]\n- *EQ_ACCES_METRO*: eq_acces_metro[text]\n- *EQ_ACCES_BUS*: eq_acces_bus[text]\n- *NUMERO*: numero[text]\n- *LIB_OFF*: lib_off[text]\n- *ID_SECTEUR_POSTAL*: id_secteur_postal[text]\n- *EQ_VILLE*: eq_ville[text]\n- *EQ_SECTEUR*: eq_secteur[text]\n- *EQ_QUARTIER*: eq_quartier[text]\n",
+      "extras": {},
+      "filesize": null,
+      "filetype": "remote",
+      "format": "shp",
+      "id": "fdba3598-7aa9-4945-911e-b0c0ab5d2ed3",
+      "last_modified": "2015-02-13T23:00:00",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/fdba3598-7aa9-4945-911e-b0c0ab5d2ed3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": null,
+      "published": "2017-11-27T05:15:24.758000",
+      "title": "Export au format Shapefile",
+      "url": "https://data.toulouse-metropole.fr//explore/dataset/salles-de-conferences/download?format=shp&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "salles-de-conferences-toulouse",
+  "spatial": null,
+  "tags": [
+    "colloque",
+    "conference",
+    "culture",
+    "reunion",
+    "salle"
+  ],
+  "temporal_coverage": null,
+  "title": "Salles de conf\u00e9rences - Toulouse",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/salles-de-conferences-toulouse/"
+}

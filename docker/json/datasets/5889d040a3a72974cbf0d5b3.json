@@ -1,0 +1,114 @@
+{
+  "badges": [],
+  "created_at": "2017-01-26T11:32:32.435000",
+  "deleted": null,
+  "description": "Indicateurs acad\u00e9miques relatifs \u00e0 l'\u00e9ducation prioritaire, avec cumuls nationaux",
+  "extras": {
+    "harvest:domain": "data.education.gouv.fr",
+    "harvest:last_update": "2017-11-27T05:00:32.958808",
+    "harvest:remote_id": "fr-en-academies-ep",
+    "harvest:source_id": "58864fc5c751df491dae0a67",
+    "ods:has_records": true,
+    "ods:url": "https://data.education.gouv.fr/explore/dataset/fr-en-academies-ep/"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5889d040a3a72974cbf0d5b3",
+  "last_modified": "2017-11-27T05:00:32.963000",
+  "last_update": "2017-11-27T05:00:32.957000",
+  "license": "fr-lo",
+  "metrics": {
+    "badges": 0,
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "534fff8fa3a7292c64a77f22",
+    "logo": "https://www.data.gouv.fr/s/avatars/36/a225fd237c4159b092611b12973905-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/36/a225fd237c4159b092611b12973905-100.png",
+    "name": "Education Nationale",
+    "page": "https://www.data.gouv.fr/fr/organizations/education-nationale/",
+    "slug": "education-nationale",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/education-nationale/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/academies-education-prioritaire/",
+  "private": false,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:00:32.957000",
+      "description": "- *Ann\u00e9e*: annee[int] Ann\u00e9e\n- *Acad\u00e9mie nom ou NATIONAL*: academie_nom_ou_national[text] Nom de l'acad\u00e9mie\n- *Appartenance EP *: appartenance_ep[text] Appartenance \u00e0 un groupe d'\u00e9tablissements relevant de l'\u00e9ducation prioritaire ou non (HEP) \u00e0 la rentr\u00e9e scolaire\n- *Secteur code*: secteur_code[int] Code du secteur d'enseignement\n- *Secteur nom*: secteur_nom[text] Nom du secteur d'enseignement\n- *Academie code*: academie_code[text] Code de l'acad\u00e9mie\n- *Region code*: region_code[text] Code de la r\u00e9gion\n- *Region nom*: region_nom[text] Nom de la r\u00e9gion\n- *Region 2016 code*: region_2016_code[text] Code de la  nouvelle r\u00e9gion\n- *Region 2016 nom*: region_2016_nom[text] Nom de la nouvelle r\u00e9gion\n- *Regroupement geographique*: regroupement_geographique[text] Niveau du regroupement g\u00e9ographique : acad\u00e9mique ou national\n- *Nb ETP AED*: nb_etp_aed[double] Nombre d'ETP d'AED dans les coll\u00e8ges publics appartenant \u00e0 un groupe d'\u00e9tablissements relevant de l'\u00e9ducation prioritaire ou non (HEP) \u00e0 la rentr\u00e9e scolaire N (\u00e0 partir de la rentr\u00e9e N = 2014)\n- *Nb ETP suppl\u00e9mentaires 1D*: nb_etp_supplementaires_1d[double] Nombre d'ETP suppl\u00e9mentaires  dans les \u00e9coles appartenant \u00e0 un groupe d'\u00e9coles publiques relevant de l'\u00e9ducation prioritaire \u00e0 la rentr\u00e9e scolaire N (\u00e0 partir de la rentr\u00e9e N = 2014)\n- *Nb ETP en EP 1D*: nb_etp_en_ep_1d[double] Nombre d'ETP dans les \u00e9coles appartenant \u00e0 un groupe d'\u00e9coles publiques relevant de l'\u00e9ducation prioritaire \u00e0 la rentr\u00e9e scolaire N (\u00e0 partir de la rentr\u00e9e N = 2014)\n- *Nb Entrants 6e*: nb_entrants_6e[int] Effectif d'\u00e9l\u00e8ves entrant en 6\u00e8me hors SEGPA dans un coll\u00e8ge de France m\u00e9tropolitaine + 5 DOM \u00e0 la rentr\u00e9e N, scolaris\u00e9s dans l'\u00e9cole en CM2 ou CM1 \u00e0 la rentr\u00e9e N-1\n- *Nb Eleves*: nb_eleves[int] Effectif d'\u00e9l\u00e8ves \u00e0 la rentr\u00e9e N\n- *Nb Classes*: nb_classes[int] Nombre de classes \u00e0 la rentr\u00e9e N\n- *Nb Entrants 6e retardataires*: nb_entrants_6e_retardataires[int] Effectif d'\u00e9l\u00e8ves ayant 12 ans r\u00e9volus au 31 d\u00e9cembre  de l'ann\u00e9e N parmi les entrants en 6\u00e8me hors SEGPA dans un coll\u00e8ge de France m\u00e9tropolitaine + 5 DOM \u00e0 la rentr\u00e9e N, scolaris\u00e9s dans l'\u00e9cole en CM2 ou CM1 \u00e0 la rentr\u00e9e N-1\n- *Nb emplois PMQC*: nb_emplois_pmqc[double] Stock d'emplois sur le dispositif \"plus de ma\u00eetres que de classes\" dans l'\u00e9cole \u00e0 la rentr\u00e9e N (\u00e0 partir de rentr\u00e9e 2014)\n- *Nb emplois Sco moins 3 ans*: nb_emplois_sco_moins_3_ans[double] Stock d'emplois sur le dispositif \"scolarisation des moins de 3 ans\" dans l'\u00e9cole \u00e0 la rentr\u00e9e N (\u00e0 partir de rentr\u00e9e 2014)\n- *Nb classes \u00e9l\u00e9mentaires*: nb_classes_elementaires[int] Nombre de classes \u00e9l\u00e9mentaires \u00e0 la rentr\u00e9e N\n- *Nb \u00e9l\u00e8ves de 2 ans*: nb_eleves_de_2_ans[int] Effectif d'\u00e9l\u00e8ves de 2 ans dans le pr\u00e9\u00e9l\u00e9m\u00e9ntaire \u00e0 la rentr\u00e9e N\n- *Nb \u00e9l\u00e8ves dans pr\u00e9\u00e9lementaire*: nb_eleves_dans_preelementaire[int] Effectif d'\u00e9l\u00e8ves dans le pr\u00e9\u00e9l\u00e9m\u00e9ntaire rentr\u00e9e N\n- *Enseignement pr\u00e9\u00e9lementaire*: enseignement_preelementaire[int] Indicatrice d'existence d'un enseignement pr\u00e9\u00e9l\u00e9mentaire \u00e0 la rentr\u00e9e N\n- *Nb coll\u00e8ges t\u00eates de r\u00e9seau*: nb_colleges_tetes_de_reseau[int] Si l'\u00e9cole appartient \u00e0 un r\u00e9seau REP ou REP+ : nombre de UAI (coll\u00e8ges) t\u00eates de ce r\u00e9seau \u00e0 la rentr\u00e9e N (\u00e0 partir de la rentr\u00e9e 2015)\n- *Nb coll\u00e9giens*: nb_collegiens[int] Effectif de coll\u00e9giens \u00e0 la rentr\u00e9e N\n- *Nb divisions*: nb_divisions[int] Nombre de divisions \u00e0 la rentr\u00e9e N\n- *Nb coll\u00e9giens boursiers*: nb_collegiens_boursiers[int] Effectif de coll\u00e9giens boursiers ann\u00e9e scolaire N/N+1\n- *Nb coll\u00e9giens boursiers taux1*: nb_collegiens_boursiers_taux1[int] Effectif de coll\u00e9giens boursiers de taux 1 ann\u00e9e scolaire N/N+1\n- *Nb coll\u00e9giens boursiers taux2*: nb_collegiens_boursiers_taux2[int] Effectif de coll\u00e9giens boursiers de taux 2 ann\u00e9e scolaire N/N+1\n- *Nb coll\u00e9giens boursiers taux3*: nb_collegiens_boursiers_taux3[int] Effectif de coll\u00e9giens boursiers de taux 3 ann\u00e9e scolaire N/N+1\n- *Nb coll\u00e9giens PCS d\u00e9favoris\u00e9es*: nb_collegiens_pcs_defavorisees[int] Effectif de coll\u00e9giens issus de PCS d\u00e9favoris\u00e9es \u00e0 la rentr\u00e9e N\n- *Nb coll\u00e9giens PCS moyennes*: nb_collegiens_pcs_moyennes[int] Effectif de coll\u00e9giens issus de PCS moyennes \u00e0 la rentr\u00e9e N\n- *Nb coll\u00e9giens PCS favoris\u00e9es*: nb_collegiens_pcs_favorisees[int] Effectif de coll\u00e9giens issus de PCS favoris\u00e9es \u00e0 la rentr\u00e9e N\n- *Nb coll\u00e9giens ULIS*: nb_collegiens_ulis[int] Effectifs de coll\u00e9giens en ULIS \u00e0 la rentr\u00e9e N\n- *Nb pr\u00e9sents DNB s\u00e9rie g\u00e9n\u00e9rale*: nb_presents_dnb_serie_generale[int] Effectif de coll\u00e9giens pr\u00e9sents \u00e0 l'examen du brevet des coll\u00e8ges, s\u00e9rie g\u00e9n\u00e9rale session N\n- *Nb admis DNB s\u00e9rie g\u00e9n\u00e9rale*: nb_admis_dnb_serie_generale[int] Effectif de coll\u00e9giens admis \u00e0 l'examen du brevet des coll\u00e8ges, s\u00e9rie g\u00e9n\u00e9rale session N\n- *Nb pr\u00e9sents DNB toutes s\u00e9ries*: nb_presents_dnb_toutes_series[int] Effectif de coll\u00e9giens pr\u00e9sents \u00e0 l'examen du brevet des coll\u00e8ges session N\n- *Nb admis DNB toutes s\u00e9ries*: nb_admis_dnb_toutes_series[int] Effectif de coll\u00e9giens admis \u00e0 l'examen du brevet des coll\u00e8ges session N\n- *Nb coll\u00e9giens (H/E coll\u00e8ge)*: nb_collegiens_h_e_college[int] Nombre de coll\u00e9giens  dans division (coll\u00e8ge hors SEGPA) ann\u00e9e scolaire N/N+1\n- *Nb ETP enseignants*: nb_etp_enseignants[double] Nombre d'ETP enseignant ann\u00e9e scolaire N/N+1\n- *Nb ETP enseignants Rs N-1*: nb_etp_enseignants_rs_n_1[double] Nombre d'ETP enseignant ann\u00e9e scolaire N-1/N\n- *Nb personnels enseignants*: nb_personnels_enseignants[int] Effectif de personnels enseignants ann\u00e9e scolaire N/N+1\n- *Nb ETP non Titulaires*: nb_etp_non_titulaires[int] Nombre d'ETP d'enseignants non titulaires ann\u00e9e scolaire N/N+1\n- *Nb Personnels Age Moins 35 ans*: nb_personnels_age_moins_35_ans[int] Effectif d'enseignants \u00e2g\u00e9s de moins de 35 ans ann\u00e9e scolaire N/N+1\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T17:49:41.221000",
+        "check:status": 200,
+        "check:url": "https://data.education.gouv.fr/explore/dataset/fr-en-academies-ep/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "60edfd21-bf89-4069-aef3-f599d67bdb48",
+      "last_modified": "2016-12-20T13:28:52",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/60edfd21-bf89-4069-aef3-f599d67bdb48",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-11-27T05:00:32.957000",
+      "title": "Export au format CSV",
+      "url": "https://data.education.gouv.fr/explore/dataset/fr-en-academies-ep/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=true"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-11-27T05:00:32.957000",
+      "description": "- *Ann\u00e9e*: annee[int] Ann\u00e9e\n- *Acad\u00e9mie nom ou NATIONAL*: academie_nom_ou_national[text] Nom de l'acad\u00e9mie\n- *Appartenance EP *: appartenance_ep[text] Appartenance \u00e0 un groupe d'\u00e9tablissements relevant de l'\u00e9ducation prioritaire ou non (HEP) \u00e0 la rentr\u00e9e scolaire\n- *Secteur code*: secteur_code[int] Code du secteur d'enseignement\n- *Secteur nom*: secteur_nom[text] Nom du secteur d'enseignement\n- *Academie code*: academie_code[text] Code de l'acad\u00e9mie\n- *Region code*: region_code[text] Code de la r\u00e9gion\n- *Region nom*: region_nom[text] Nom de la r\u00e9gion\n- *Region 2016 code*: region_2016_code[text] Code de la  nouvelle r\u00e9gion\n- *Region 2016 nom*: region_2016_nom[text] Nom de la nouvelle r\u00e9gion\n- *Regroupement geographique*: regroupement_geographique[text] Niveau du regroupement g\u00e9ographique : acad\u00e9mique ou national\n- *Nb ETP AED*: nb_etp_aed[double] Nombre d'ETP d'AED dans les coll\u00e8ges publics appartenant \u00e0 un groupe d'\u00e9tablissements relevant de l'\u00e9ducation prioritaire ou non (HEP) \u00e0 la rentr\u00e9e scolaire N (\u00e0 partir de la rentr\u00e9e N = 2014)\n- *Nb ETP suppl\u00e9mentaires 1D*: nb_etp_supplementaires_1d[double] Nombre d'ETP suppl\u00e9mentaires  dans les \u00e9coles appartenant \u00e0 un groupe d'\u00e9coles publiques relevant de l'\u00e9ducation prioritaire \u00e0 la rentr\u00e9e scolaire N (\u00e0 partir de la rentr\u00e9e N = 2014)\n- *Nb ETP en EP 1D*: nb_etp_en_ep_1d[double] Nombre d'ETP dans les \u00e9coles appartenant \u00e0 un groupe d'\u00e9coles publiques relevant de l'\u00e9ducation prioritaire \u00e0 la rentr\u00e9e scolaire N (\u00e0 partir de la rentr\u00e9e N = 2014)\n- *Nb Entrants 6e*: nb_entrants_6e[int] Effectif d'\u00e9l\u00e8ves entrant en 6\u00e8me hors SEGPA dans un coll\u00e8ge de France m\u00e9tropolitaine + 5 DOM \u00e0 la rentr\u00e9e N, scolaris\u00e9s dans l'\u00e9cole en CM2 ou CM1 \u00e0 la rentr\u00e9e N-1\n- *Nb Eleves*: nb_eleves[int] Effectif d'\u00e9l\u00e8ves \u00e0 la rentr\u00e9e N\n- *Nb Classes*: nb_classes[int] Nombre de classes \u00e0 la rentr\u00e9e N\n- *Nb Entrants 6e retardataires*: nb_entrants_6e_retardataires[int] Effectif d'\u00e9l\u00e8ves ayant 12 ans r\u00e9volus au 31 d\u00e9cembre  de l'ann\u00e9e N parmi les entrants en 6\u00e8me hors SEGPA dans un coll\u00e8ge de France m\u00e9tropolitaine + 5 DOM \u00e0 la rentr\u00e9e N, scolaris\u00e9s dans l'\u00e9cole en CM2 ou CM1 \u00e0 la rentr\u00e9e N-1\n- *Nb emplois PMQC*: nb_emplois_pmqc[double] Stock d'emplois sur le dispositif \"plus de ma\u00eetres que de classes\" dans l'\u00e9cole \u00e0 la rentr\u00e9e N (\u00e0 partir de rentr\u00e9e 2014)\n- *Nb emplois Sco moins 3 ans*: nb_emplois_sco_moins_3_ans[double] Stock d'emplois sur le dispositif \"scolarisation des moins de 3 ans\" dans l'\u00e9cole \u00e0 la rentr\u00e9e N (\u00e0 partir de rentr\u00e9e 2014)\n- *Nb classes \u00e9l\u00e9mentaires*: nb_classes_elementaires[int] Nombre de classes \u00e9l\u00e9mentaires \u00e0 la rentr\u00e9e N\n- *Nb \u00e9l\u00e8ves de 2 ans*: nb_eleves_de_2_ans[int] Effectif d'\u00e9l\u00e8ves de 2 ans dans le pr\u00e9\u00e9l\u00e9m\u00e9ntaire \u00e0 la rentr\u00e9e N\n- *Nb \u00e9l\u00e8ves dans pr\u00e9\u00e9lementaire*: nb_eleves_dans_preelementaire[int] Effectif d'\u00e9l\u00e8ves dans le pr\u00e9\u00e9l\u00e9m\u00e9ntaire rentr\u00e9e N\n- *Enseignement pr\u00e9\u00e9lementaire*: enseignement_preelementaire[int] Indicatrice d'existence d'un enseignement pr\u00e9\u00e9l\u00e9mentaire \u00e0 la rentr\u00e9e N\n- *Nb coll\u00e8ges t\u00eates de r\u00e9seau*: nb_colleges_tetes_de_reseau[int] Si l'\u00e9cole appartient \u00e0 un r\u00e9seau REP ou REP+ : nombre de UAI (coll\u00e8ges) t\u00eates de ce r\u00e9seau \u00e0 la rentr\u00e9e N (\u00e0 partir de la rentr\u00e9e 2015)\n- *Nb coll\u00e9giens*: nb_collegiens[int] Effectif de coll\u00e9giens \u00e0 la rentr\u00e9e N\n- *Nb divisions*: nb_divisions[int] Nombre de divisions \u00e0 la rentr\u00e9e N\n- *Nb coll\u00e9giens boursiers*: nb_collegiens_boursiers[int] Effectif de coll\u00e9giens boursiers ann\u00e9e scolaire N/N+1\n- *Nb coll\u00e9giens boursiers taux1*: nb_collegiens_boursiers_taux1[int] Effectif de coll\u00e9giens boursiers de taux 1 ann\u00e9e scolaire N/N+1\n- *Nb coll\u00e9giens boursiers taux2*: nb_collegiens_boursiers_taux2[int] Effectif de coll\u00e9giens boursiers de taux 2 ann\u00e9e scolaire N/N+1\n- *Nb coll\u00e9giens boursiers taux3*: nb_collegiens_boursiers_taux3[int] Effectif de coll\u00e9giens boursiers de taux 3 ann\u00e9e scolaire N/N+1\n- *Nb coll\u00e9giens PCS d\u00e9favoris\u00e9es*: nb_collegiens_pcs_defavorisees[int] Effectif de coll\u00e9giens issus de PCS d\u00e9favoris\u00e9es \u00e0 la rentr\u00e9e N\n- *Nb coll\u00e9giens PCS moyennes*: nb_collegiens_pcs_moyennes[int] Effectif de coll\u00e9giens issus de PCS moyennes \u00e0 la rentr\u00e9e N\n- *Nb coll\u00e9giens PCS favoris\u00e9es*: nb_collegiens_pcs_favorisees[int] Effectif de coll\u00e9giens issus de PCS favoris\u00e9es \u00e0 la rentr\u00e9e N\n- *Nb coll\u00e9giens ULIS*: nb_collegiens_ulis[int] Effectifs de coll\u00e9giens en ULIS \u00e0 la rentr\u00e9e N\n- *Nb pr\u00e9sents DNB s\u00e9rie g\u00e9n\u00e9rale*: nb_presents_dnb_serie_generale[int] Effectif de coll\u00e9giens pr\u00e9sents \u00e0 l'examen du brevet des coll\u00e8ges, s\u00e9rie g\u00e9n\u00e9rale session N\n- *Nb admis DNB s\u00e9rie g\u00e9n\u00e9rale*: nb_admis_dnb_serie_generale[int] Effectif de coll\u00e9giens admis \u00e0 l'examen du brevet des coll\u00e8ges, s\u00e9rie g\u00e9n\u00e9rale session N\n- *Nb pr\u00e9sents DNB toutes s\u00e9ries*: nb_presents_dnb_toutes_series[int] Effectif de coll\u00e9giens pr\u00e9sents \u00e0 l'examen du brevet des coll\u00e8ges session N\n- *Nb admis DNB toutes s\u00e9ries*: nb_admis_dnb_toutes_series[int] Effectif de coll\u00e9giens admis \u00e0 l'examen du brevet des coll\u00e8ges session N\n- *Nb coll\u00e9giens (H/E coll\u00e8ge)*: nb_collegiens_h_e_college[int] Nombre de coll\u00e9giens  dans division (coll\u00e8ge hors SEGPA) ann\u00e9e scolaire N/N+1\n- *Nb ETP enseignants*: nb_etp_enseignants[double] Nombre d'ETP enseignant ann\u00e9e scolaire N/N+1\n- *Nb ETP enseignants Rs N-1*: nb_etp_enseignants_rs_n_1[double] Nombre d'ETP enseignant ann\u00e9e scolaire N-1/N\n- *Nb personnels enseignants*: nb_personnels_enseignants[int] Effectif de personnels enseignants ann\u00e9e scolaire N/N+1\n- *Nb ETP non Titulaires*: nb_etp_non_titulaires[int] Nombre d'ETP d'enseignants non titulaires ann\u00e9e scolaire N/N+1\n- *Nb Personnels Age Moins 35 ans*: nb_personnels_age_moins_35_ans[int] Effectif d'enseignants \u00e2g\u00e9s de moins de 35 ans ann\u00e9e scolaire N/N+1\n",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-24T17:49:41.231000",
+        "check:status": 200,
+        "check:url": "https://data.education.gouv.fr/explore/dataset/fr-en-academies-ep/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "json",
+      "id": "5fcefbf3-fa65-4109-b995-14fd91519a8c",
+      "last_modified": "2016-12-20T13:28:52",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/5fcefbf3-fa65-4109-b995-14fd91519a8c",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/json",
+      "published": "2017-11-27T05:00:32.957000",
+      "title": "Export au format JSON",
+      "url": "https://data.education.gouv.fr/explore/dataset/fr-en-academies-ep/download?format=json&timezone=Europe/Berlin&use_labels_for_header=true"
+    }
+  ],
+  "slug": "academies-education-prioritaire",
+  "spatial": null,
+  "tags": [
+    "ecole",
+    "education-prioritaire",
+    "eleves",
+    "etablissement",
+    "politiques-publiques",
+    "rep"
+  ],
+  "temporal_coverage": null,
+  "title": "Acad\u00e9mies Education Prioritaire",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/academies-education-prioritaire/"
+}

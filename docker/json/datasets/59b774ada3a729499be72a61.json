@@ -1,0 +1,99 @@
+{
+  "badges": [],
+  "created_at": "2017-09-11T00:00:00",
+  "deleted": null,
+  "description": "Liste des lieux de baignade (club de plage, parc aquatique, piscine, plage surveill\u00e9e, plage non surveill\u00e9e) en Aquitaine, issue de la base de donn\u00e9es SIRTAQUI.\n\nCe fichier contient les informations de g\u00e9olocalisation et de contact, les informations sur le type d\u2019\u00e9quipement, les marques et labels, les conditions d\u2019ouverture et de visites, les tarifs, les \u00e9quipements et les services propos\u00e9s.",
+  "extras": {
+    "ckan:name": "liste-des-lieux-de-baignade-en-aquitaine",
+    "contact_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "contact_name": "CRTA",
+    "contact_uri": "https://datacat.datalocale.fr/414593",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
+    "guid": "https://datacat.datalocale.fr/415400",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-09-29T07:49:38.625148",
+    "harvest:remote_id": "969c9957-98fc-4574-a7bf-2d364323006a",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "identifier": "61c4561d-ee41-4d2e-909f-dd8332a2ea8e",
+    "issued": "2014-12-24T08:25:49+00:00",
+    "modified": "2016-07-18T09:21:07.428710+00:00",
+    "publisher_email": "mailto:sirtaqui@tourisme-aquitaine.fr",
+    "publisher_name": "agence SIRTAQUI",
+    "publisher_type": "\"Organisation \u00e0 but non lucratif\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414592",
+    "remote_url": "http://www.sirtaqui-aquitaine.com",
+    "theme": "[\"tourisme\"]",
+    "uri": "https://datacat.datalocale.fr/415400"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "59b774ada3a729499be72a61",
+  "last_modified": "2017-09-29T07:49:38.627000",
+  "last_update": "2017-09-12T07:46:21.399000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-lieux-de-baignade-en-aquitaine-1/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:46:21.399000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-29T22:47:46.447000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1771524/raw/liste-csv-baignade-aquitaine.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "7fae6fe0-0a8c-44c8-ab40-1ce144ba69b0",
+      "last_modified": "2017-09-29T07:49:38.624000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/7fae6fe0-0a8c-44c8-ab40-1ce144ba69b0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:46:21.399000",
+      "title": "liste-csv-baignade-aquitaine.csv",
+      "url": "https://datacat.datalocale.fr/file/1771524/raw/liste-csv-baignade-aquitaine.csv"
+    }
+  ],
+  "slug": "liste-des-lieux-de-baignade-en-aquitaine-1",
+  "spatial": null,
+  "tags": [
+    "baignade",
+    "detente",
+    "piscine",
+    "plage",
+    "tourisme"
+  ],
+  "temporal_coverage": null,
+  "title": "Liste des lieux de baignade en Aquitaine",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-lieux-de-baignade-en-aquitaine-1/"
+}

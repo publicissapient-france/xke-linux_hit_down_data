@@ -1,0 +1,91 @@
+{
+  "badges": [],
+  "created_at": "2017-06-06T00:00:00",
+  "deleted": null,
+  "description": "La liste des champs et des tables des bases de donn\u00e9es du syst\u00e8me d'information",
+  "extras": {
+    "ckan:name": "liste-des-champs-et-tables-du-si",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
+    "guid": "https://datacat.datalocale.fr/434216",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-06-06T16:39:45.300477",
+    "harvest:remote_id": "29ee4a15-8879-47cd-a4e0-8de614c532f3",
+    "harvest:source_id": "59365a72c751df28ed47c9eb",
+    "issued": "2016-07-27T10:14:32.739309+00:00",
+    "modified": "2016-07-27T10:14:32.739309+00:00",
+    "publisher_email": "mailto:datalocale@gironde.fr",
+    "publisher_name": "D\u00e9partement de la Gironde",
+    "publisher_type": "\"Collectivit\u00e9 locale\"",
+    "publisher_uri": "https://datacat.datalocale.fr/416453",
+    "uri": "https://datacat.datalocale.fr/434216"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "5936beb1a3a72968e18772a1",
+  "last_modified": "2017-06-06T16:39:45.309000",
+  "last_update": "2017-06-06T16:39:45.299000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": {
+    "acronym": null,
+    "class": "Organization",
+    "id": "5420b971a3a7297b491991e1",
+    "logo": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-original.png",
+    "logo_thumbnail": "https://www.data.gouv.fr/s/avatars/31/cf4595fbd243ecb00c81cfd43cb2c4-100.png",
+    "name": "Ressourcerie datalocale",
+    "page": "https://www.data.gouv.fr/fr/organizations/ressourcerie-datalocale-1/",
+    "slug": "ressourcerie-datalocale-1",
+    "uri": "https://www.data.gouv.fr/api/1/organizations/ressourcerie-datalocale-1/"
+  },
+  "owner": null,
+  "page": "https://www.data.gouv.fr/fr/datasets/liste-des-champs-et-tables-du-si/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-06T16:39:45.299000",
+      "description": null,
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-21T09:36:07.264000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/434223/raw/LISTE_TABLES_ODS_REFSI.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "93d6eeb7-4dc3-48b4-9c8d-a299de2427a3",
+      "last_modified": "2017-06-06T16:39:45.299000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/93d6eeb7-4dc3-48b4-9c8d-a299de2427a3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-06T16:39:45.299000",
+      "title": "LISTE_TABLES_ODS_REFSI.csv",
+      "url": "https://datacat.datalocale.fr/file/434223/raw/LISTE_TABLES_ODS_REFSI.csv"
+    }
+  ],
+  "slug": "liste-des-champs-et-tables-du-si",
+  "spatial": null,
+  "tags": [
+    "base-de-donnees",
+    "referentiel",
+    "tables"
+  ],
+  "temporal_coverage": null,
+  "title": "liste des champs et tables du SI",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-champs-et-tables-du-si/"
+}

@@ -1,0 +1,553 @@
+{
+  "badges": [],
+  "created_at": "2017-05-04T00:00:00",
+  "deleted": null,
+  "description": "\u00ab Sirene\u00ae base de donn\u00e9es \u00bb reprend, pour les entreprises et les \u00e9tablissements administrativement actifs, les informations contenues dans le r\u00e9pertoire Sirene en les restructurant et en les compl\u00e9tant. \u00ab Sirene\u00ae base de donn\u00e9es \u00bb rassemble ainsi des informations \u00e9conomiques et juridiques sur environ 10 millions d\u2019\u00e9tablissements appartenant \u00e0 tous les secteurs d\u2019activit\u00e9.\n\nCe jeu de donn\u00e9es est issu d'une op\u00e9ration de g\u00e9ocodage et concerne uniquement les entreprises localis\u00e9es en Gironde",
+  "extras": {
+    "ckan:name": "base-sirene-des-entreprises-localisees-en-gironde",
+    "dcat_type": "https://datacat.datalocale.fr/1338308",
+    "frequency": "http://publications.europa.eu/resource/authority/frequency/MONTHLY",
+    "guid": "https://datacat.datalocale.fr/1510166",
+    "harvest:domain": "www.datalocale.fr",
+    "harvest:last_update": "2017-11-27T05:16:47.152697",
+    "harvest:remote_id": "922743f8-78df-4130-833b-e1825032c737",
+    "harvest:source_id": "593e892e88ee383a004bbf90",
+    "issued": "2017-05-03T07:01:52.586315+00:00",
+    "modified": "2017-05-03T07:01:52.586315+00:00",
+    "publisher_email": "mailto:datalocale@gironde.fr",
+    "publisher_name": "D\u00e9partement de la Gironde",
+    "publisher_type": "\"Collectivit\u00e9 locale\"",
+    "publisher_uri": "https://datacat.datalocale.fr/414548",
+    "remote_url": "http://www.sirene.fr/sirene/public/static/contenu-base-sirene",
+    "theme": "[\"4011 type d'entreprise\", \"cr\u00e9ation d'entreprise\", \"entreprise\"]",
+    "uri": "https://datacat.datalocale.fr/1510166"
+  },
+  "frequency": "unknown",
+  "frequency_date": null,
+  "id": "593457c6a3a72968e2876bf3",
+  "last_modified": "2017-11-27T05:16:47.154000",
+  "last_update": "2017-10-14T06:00:33.990000",
+  "license": "notspecified",
+  "metrics": {
+    "discussions": 0,
+    "followers": 0,
+    "issues": 0,
+    "nb_hits": 0,
+    "nb_uniq_visitors": 0,
+    "nb_visits": 0,
+    "reuses": 0,
+    "views": 0
+  },
+  "organization": null,
+  "owner": {
+    "avatar": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-original.jpg",
+    "avatar_thumbnail": "https://www.data.gouv.fr/s/avatars/8d/cf305fcfdc4ce9a6bf4d5489cbf835-100.jpg",
+    "class": "User",
+    "first_name": "Ressourcerie",
+    "id": "534fff47a3a7292c64a77adc",
+    "last_name": "datalocale",
+    "page": "https://www.data.gouv.fr/fr/users/ressourcerie-datalocale/",
+    "slug": "ressourcerie-datalocale",
+    "uri": "https://www.data.gouv.fr/api/1/users/ressourcerie-datalocale/"
+  },
+  "page": "https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-localisees-en-gironde/",
+  "private": null,
+  "resources": [
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:06.127000",
+      "description": "export en csv de la liste des entreprises localis\u00e9es \u00e0 Bordeaux \u00e0 l'aide du g\u00e9ocodeur adok",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T15:53:28.837000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1510404/raw/33063.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "22d71ae4-e9dc-43d7-9b4f-0d0e3ee0ff85",
+      "last_modified": "2017-06-06T16:38:27.303000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/22d71ae4-e9dc-43d7-9b4f-0d0e3ee0ff85",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-06-04T20:56:06.127000",
+      "title": "geo_sirene-bordeaux",
+      "url": "https://datacat.datalocale.fr/file/1510404/raw/33063.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-06-04T20:56:06.128000",
+      "description": "export g\u00e9ocod\u00e9 des entreprises bas\u00e9es en Gironde",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T15:53:44.048000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1510178/raw/geo-sirene_33.csv.7z"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "zip",
+      "id": "ba5c664d-52de-465f-b323-4a6c688bdbf0",
+      "last_modified": "2017-06-06T16:38:27.303000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/ba5c664d-52de-465f-b323-4a6c688bdbf0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-06-04T20:56:06.128000",
+      "title": "geo-sirene_33",
+      "url": "https://datacat.datalocale.fr/file/1510178/raw/geo-sirene_33.csv.7z"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:44:30.164000",
+      "description": "export en csv de la liste des entreprises localis\u00e9es \u00e0 Bordeaux \u00e0 l'aide du g\u00e9ocodeur adok",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T15:53:24.162000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1570387/raw/33063.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "bce87eb9-8ae5-4104-a1ea-ede6bdd3b3cf",
+      "last_modified": "2017-07-07T06:06:04.039000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/bce87eb9-8ae5-4104-a1ea-ede6bdd3b3cf",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-02T18:44:30.164000",
+      "title": "geo_sirene-bordeaux",
+      "url": "https://datacat.datalocale.fr/file/1570387/raw/33063.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-02T18:44:30.165000",
+      "description": "export g\u00e9ocod\u00e9 des entreprises bas\u00e9es en Gironde",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T15:53:55.170000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1570238/raw/geo-sirene_33.csv.7z"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "zip",
+      "id": "e4829d4a-44e7-4c05-97bf-e6e2a06034b0",
+      "last_modified": "2017-07-07T06:06:04.040000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e4829d4a-44e7-4c05-97bf-e6e2a06034b0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-07-02T18:44:30.165000",
+      "title": "geo-sirene_33",
+      "url": "https://datacat.datalocale.fr/file/1570238/raw/geo-sirene_33.csv.7z"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:03:15.724000",
+      "description": "export g\u00e9ocod\u00e9 des entreprises bas\u00e9es en Gironde",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T15:53:55.170000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1570238/raw/geo-sirene_33.csv.7z"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "zip",
+      "id": "e75764ba-c3b5-4361-ad43-13a57556c771",
+      "last_modified": "2017-08-10T06:04:15.616000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e75764ba-c3b5-4361-ad43-13a57556c771",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-07-08T07:03:15.724000",
+      "title": "geo-sirene_33",
+      "url": "https://datacat.datalocale.fr/file/1570238/raw/geo-sirene_33.csv.7z"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-07-08T07:03:15.725000",
+      "description": "export en csv de la liste des entreprises localis\u00e9es \u00e0 Bordeaux \u00e0 l'aide du g\u00e9ocodeur adok",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-23T15:53:24.162000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1570387/raw/33063.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "c174bf01-6a36-4614-9ce2-1750bd273f35",
+      "last_modified": "2017-08-10T06:04:15.616000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/c174bf01-6a36-4614-9ce2-1750bd273f35",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-07-08T07:03:15.725000",
+      "title": "geo_sirene-bordeaux",
+      "url": "https://datacat.datalocale.fr/file/1570387/raw/33063.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-11T06:04:59.590000",
+      "description": "export en csv de la liste des entreprises localis\u00e9es \u00e0 Bordeaux \u00e0 l'aide du g\u00e9ocodeur adok",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-27T09:31:56.054000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1698846/raw/33063.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "26d264b6-b3ba-4497-9d05-ec5d95344454",
+      "last_modified": "2017-08-17T06:00:47.973000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/26d264b6-b3ba-4497-9d05-ec5d95344454",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-11T06:04:59.591000",
+      "title": "geo_sirene-bordeaux",
+      "url": "https://datacat.datalocale.fr/file/1698846/raw/33063.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-11T06:04:59.591000",
+      "description": "export g\u00e9ocod\u00e9 des entreprises bas\u00e9es en Gironde",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-27T09:31:54.394000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1698697/raw/geo-sirene_33.csv.7z"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "zip",
+      "id": "0caa6160-50c4-4d4b-9118-328593f54f3b",
+      "last_modified": "2017-08-17T06:00:47.973000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0caa6160-50c4-4d4b-9118-328593f54f3b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-08-11T06:04:59.591000",
+      "title": "geo-sirene_33",
+      "url": "https://datacat.datalocale.fr/file/1698697/raw/geo-sirene_33.csv.7z"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-18T06:06:30.950000",
+      "description": "export g\u00e9ocod\u00e9 des entreprises bas\u00e9es en Gironde",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-27T09:31:54.394000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1698697/raw/geo-sirene_33.csv.7z"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "zip",
+      "id": "35085cc7-566c-4070-938c-7f52c7917003",
+      "last_modified": "2017-08-24T06:02:34.729000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/35085cc7-566c-4070-938c-7f52c7917003",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-08-18T06:06:30.950000",
+      "title": "geo-sirene_33",
+      "url": "https://datacat.datalocale.fr/file/1698697/raw/geo-sirene_33.csv.7z"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-18T06:06:30.950000",
+      "description": "export en csv de la liste des entreprises localis\u00e9es \u00e0 Bordeaux \u00e0 l'aide du g\u00e9ocodeur adok",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-27T09:31:56.054000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1698846/raw/33063.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2297709e-d7c7-451e-affd-afccc2620c0b",
+      "last_modified": "2017-08-24T06:02:34.731000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2297709e-d7c7-451e-affd-afccc2620c0b",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-18T06:06:30.951000",
+      "title": "geo_sirene-bordeaux",
+      "url": "https://datacat.datalocale.fr/file/1698846/raw/33063.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-25T06:02:38.219000",
+      "description": "export g\u00e9ocod\u00e9 des entreprises bas\u00e9es en Gironde",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-27T09:31:54.394000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1698697/raw/geo-sirene_33.csv.7z"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "zip",
+      "id": "1620f192-7268-4bfa-840a-1420efcde692",
+      "last_modified": "2017-09-11T06:10:39.494000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/1620f192-7268-4bfa-840a-1420efcde692",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-08-25T06:02:38.220000",
+      "title": "geo-sirene_33",
+      "url": "https://datacat.datalocale.fr/file/1698697/raw/geo-sirene_33.csv.7z"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-08-25T06:02:38.220000",
+      "description": "export en csv de la liste des entreprises localis\u00e9es \u00e0 Bordeaux \u00e0 l'aide du g\u00e9ocodeur adok",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-05T19:09:09.700000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1698846/raw/33063.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "33d591b8-97e3-4e9d-96e6-7da151793fa0",
+      "last_modified": "2017-09-11T06:10:39.494000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/33d591b8-97e3-4e9d-96e6-7da151793fa0",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-08-25T06:02:38.221000",
+      "title": "geo_sirene-bordeaux",
+      "url": "https://datacat.datalocale.fr/file/1698846/raw/33063.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:42:49.433000",
+      "description": "export en csv de la liste des entreprises localis\u00e9es \u00e0 Bordeaux \u00e0 l'aide du g\u00e9ocodeur adok",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T20:45:38.678000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1755621/raw/33063.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "2a0f9874-8761-4b3a-9ad2-26aab10bdfe3",
+      "last_modified": "2017-09-29T07:46:09.975000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/2a0f9874-8761-4b3a-9ad2-26aab10bdfe3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-12T07:42:49.433000",
+      "title": "geo_sirene-bordeaux",
+      "url": "https://datacat.datalocale.fr/file/1755621/raw/33063.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-12T07:42:49.434000",
+      "description": "export g\u00e9ocod\u00e9 des entreprises bas\u00e9es en Gironde",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-23T07:44:10.459000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1755473/raw/geo-sirene_33.csv.7z"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "zip",
+      "id": "298670b8-6bab-447c-93bc-25875e2f6a71",
+      "last_modified": "2017-09-29T07:46:09.975000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/298670b8-6bab-447c-93bc-25875e2f6a71",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-09-12T07:42:49.434000",
+      "title": "geo-sirene_33",
+      "url": "https://datacat.datalocale.fr/file/1755473/raw/geo-sirene_33.csv.7z"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:15:33.689000",
+      "description": "export en csv de la liste des entreprises localis\u00e9es \u00e0 Bordeaux \u00e0 l'aide du g\u00e9ocodeur adok",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-25T20:45:38.678000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1755621/raw/33063.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "a10696ca-a164-4afa-a299-d9f215015808",
+      "last_modified": "2017-10-05T06:13:41.548000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a10696ca-a164-4afa-a299-d9f215015808",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-09-30T06:15:33.689000",
+      "title": "geo_sirene-bordeaux",
+      "url": "https://datacat.datalocale.fr/file/1755621/raw/33063.csv"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-09-30T06:15:33.690000",
+      "description": "export g\u00e9ocod\u00e9 des entreprises bas\u00e9es en Gironde",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-10-23T07:44:10.459000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1755473/raw/geo-sirene_33.csv.7z"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "zip",
+      "id": "e8520987-e7df-41c2-bf50-dfeb2dc22fb3",
+      "last_modified": "2017-10-05T06:13:41.548000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/e8520987-e7df-41c2-bf50-dfeb2dc22fb3",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-09-30T06:15:33.690000",
+      "title": "geo-sirene_33",
+      "url": "https://datacat.datalocale.fr/file/1755473/raw/geo-sirene_33.csv.7z"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:00:33.990000",
+      "description": "export g\u00e9ocod\u00e9 des entreprises bas\u00e9es en Gironde",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-05T19:09:12.896000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1881904/raw/geo-sirene_33.csv.7z"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "zip",
+      "id": "0ef4b36c-2179-475f-88a8-4f694547000f",
+      "last_modified": "2017-11-27T05:16:47.151000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/0ef4b36c-2179-475f-88a8-4f694547000f",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "application/zip",
+      "published": "2017-10-14T06:00:33.990000",
+      "title": "geo-sirene_33",
+      "url": "https://datacat.datalocale.fr/distribution/1510169/raw/geo-sirene_33.csv.7z"
+    },
+    {
+      "checksum": null,
+      "created_at": "2017-10-14T06:00:33.990000",
+      "description": "export en csv de la liste des entreprises localis\u00e9es \u00e0 Bordeaux \u00e0 l'aide du g\u00e9ocodeur adok",
+      "extras": {
+        "check:available": true,
+        "check:date": "2017-11-05T19:09:13.350000",
+        "check:status": 200,
+        "check:url": "https://datacat.datalocale.fr/file/1882055/raw/33063.csv"
+      },
+      "filesize": null,
+      "filetype": "remote",
+      "format": "csv",
+      "id": "393f7fdb-b384-4eec-8671-5d5351d3d633",
+      "last_modified": "2017-11-27T05:16:47.151000",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/393f7fdb-b384-4eec-8671-5d5351d3d633",
+      "metrics": {
+        "nb_hits": 0,
+        "nb_uniq_visitors": 0,
+        "nb_visits": 0,
+        "views": 0
+      },
+      "mime": "text/csv",
+      "published": "2017-10-14T06:00:33.990000",
+      "title": "geo_sirene-bordeaux",
+      "url": "https://datacat.datalocale.fr/distribution/1510402/raw/33063.csv"
+    }
+  ],
+  "slug": "base-sirene-des-entreprises-localisees-en-gironde",
+  "spatial": null,
+  "tags": [
+    "entreprise",
+    "immatriculation",
+    "sirene"
+  ],
+  "temporal_coverage": null,
+  "title": "base SIRENE des entreprises localis\u00e9es en Gironde",
+  "uri": "https://www.data.gouv.fr/api/1/datasets/base-sirene-des-entreprises-localisees-en-gironde/"
+}
