@@ -5,7 +5,7 @@
 import sys
 
 if __name__ == "__main__":
-    if sys.argv[1].upper() == "241059":
+    if sys.argv[1].upper() == "241058":
         print("True")
     else:
         print("False")

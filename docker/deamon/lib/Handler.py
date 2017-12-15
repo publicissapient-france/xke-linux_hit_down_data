@@ -122,10 +122,10 @@ class Handler(http.server.BaseHTTPRequestHandler):
 
         if corect:
             context.next = State.toAnswer
-            context.answer.append("perfect")
+            context.answer.append("Perfect")
         else:
             context.next = State.toEndWorking
-            context.answer.append("nope")
+            context.answer.append("Nope")
 
     # interacs
     def welcomeMessage(self, context):

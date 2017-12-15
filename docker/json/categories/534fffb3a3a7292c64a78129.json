@@ -1,5 +1,5 @@
 {
-  "acronym": null,
+  "acronym": null
   "badges": [
     {
       "kind": "public-service"
@@ -29,7 +29,7 @@
         "slug": "data-bot",
         "uri": "https://www.data.gouv.fr/api/1/users/data-bot/"
       }
-    }
+    },
     {
       "role": "admin",
       "user": {

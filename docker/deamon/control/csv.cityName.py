@@ -5,7 +5,7 @@
 import sys
 
 if __name__ == "__main__":
-    if sys.argv[1].upper() == "YES":
+    if sys.argv[1].upper() == "BOURG_LA_REINE":
         print("True")
     else:
         print("False")

@@ -5,7 +5,7 @@
 import sys
 
 if __name__ == "__main__":
-    if sys.argv[1].upper() == "534fffb3a3a7292c64a78129.JSON":
+    if sys.argv[1].upper() == "TRUE":
         print("True")
     else:
         print("False")
