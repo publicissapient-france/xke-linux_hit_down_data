@@ -176,22 +176,21 @@
       "storyEnd": "it is four "
     },
     {
-      "storybegin": "11/15 Question Icarus II : Now you are going to see json file and jq command \n There is json file in /home/json",
-      "question": "This data has been downloaded from open data. Some categories file has a wrong syntax detect which one ? This question is not terminated the answer is true",
+      "storybegin": "11/15 Question Icarus II : Now you are going to see json file and jq command \n There are json files in /home/json",
+      "question": "This data has been downloaded from open data. Which command extracts all categories URI ?",
       "indice": [
-        "1/2: If jq read the file that means syntax is well formed - https://programminghistorian.org/lessons/json-and-jq",
-        "2/2: For exemple full reading of a file 'jq -L '.' fileName'"
+        "1/1: 'jq . filename' read json object in the file - https://programminghistorian.org/lessons/json-and-jq"
       ],
       "control": [
         "python3",
-        "control/json.incorrectFile.py"
+        "control/json.commandListURI.py"
       ],
-      "answer": "My answer: ' jq -L '.' categories/* ",
+      "answer": "My answer: ' jq -r '.uri' categories/* ",
       "storyEnd": "3"
     },
     {
       "storybegin": "12/15 Question Insterstellar : Explore json file with jq",
-      "question": "A script downloaded the open data catalogue and then by reading it download all datasets and categories\nHow many dataset are referenced in a catalogue file ?",
+      "question": "A script downloaded the open data catalogue and then by reading it downloaded all datasets and categories\nHow many dataset are referenced in a catalogue file ?",
       "indice": [
         "1/2: You can query through json object with the path like .object1.object2 ",
         "1/1: you can extract only keys ' .xxx | keys'"
@@ -242,8 +241,8 @@
         "python3",
         "control/rootCode.py"
       ],
-      "answer": "You win",
-      "storyEnd": "####################################\n        This the end of this Game        \n####################################"
+      "answer": "It is beer time now ==> https://media.giphy.com/media/3o7TKKdv1vyUpyFLva/giphy.gif",
+      "storyEnd": "####################################\n        This the end of this Game, have a good beer!!      \n####################################"
     },
      {
       "storybegin": "",
