@@ -6,7 +6,7 @@ import sys
 
 if __name__ == "__main__":
     inputData = sys.argv[1].upper()
-    if "jq" in inputData and ".uri" in inputData and "*" in inputData:
+    if "JQ" in inputData and ".URI" in inputData :
         print("True")
     else:
         print("False")

@@ -30,7 +30,7 @@
         "python3",
         "control/find.locationOfSecureFile.py"
       ],
-      "answer": "My answer is : 'find / -name secure* 2>/dev/null' but there is a lot of other way \nBy the way files Secure-*** contain all log about connection attempt",
+      "answer": "My answer is : 'find / -name secure* 2>/dev/null' but there are a lot of other way \nBy the way files Secure-*** contain all log about connection attempt",
       "storyEnd": "You should keep this number '1' with the last question name"
     },
     {
@@ -61,7 +61,7 @@
         "python3",
         "control/log.numberOfFailedAndInvalidLog.py"
       ],
-      "answer": "My answer :'grep -E 'Failed|Invalid' secure-* |  wc -l' \nbut it's still hard to find my log",
+      "answer": "My answer :'grep sshd secure-201710* | grep -E 'Failed|Invalid' secure-* |  wc -l' \nbut it's still hard to find my log",
       "storyEnd": "Prometheus is four \ntoo much log, you have to look deeper"
     },
     {
@@ -118,7 +118,7 @@
       "indice": [
         "1/4: Maybe you should look for file updating today",
         "2/4: Find command propose to filter one file metadata such as time, option created time  -ctime ",
-        "3/4: Find .-ctime -1 2>/dev/null",
+        "3/4: Find . -ctime -1 2>/dev/null",
         "4/4: Most of system command are located in /usr/sbin"
       ],
       "control": [
@@ -172,14 +172,15 @@
         "python3",
         "control/csv.cityName.py"
       ],
-      "answer": "my answer 1 : 'join -1 1 -2 1  -t, <( grep ',140.0' birth.csv| sort) <(sort city.csv ) | cut -d',' -f3' \nmy answer 2 : 'cut -d',' -f1-3 city.csv|grep -f code.csv' \n'grep ',140.0' birth.csv | cut -d',' -f1 > code.csv' ",
+      "answer": "my answer 1 : 'join -1 1 -2 1  -t, <( grep '140\\.0' birth.csv| sort) <(sort city.csv ) | cut -d',' -f3' \nmy answer 2 : 'grep ',140.0' birth.csv | cut -d',' -f1 > code.csv' \n 'cut -d',' -f1-3 city.csv|grep -f code.csv' ",
       "storyEnd": "it is four "
     },
     {
       "storybegin": "11/15 Question Icarus II : Now you are going to see json file and jq command \n There are json files in /home/json",
       "question": "This data has been downloaded from open data. Which command extracts all categories URI ?",
       "indice": [
-        "1/1: 'jq . filename' read json object in the file - https://programminghistorian.org/lessons/json-and-jq"
+        "1/1: 'jq . filename' read json object in the file - https://programminghistorian.org/lessons/json-and-jq",
+        "1/2: 'jq .name filename'  extract the property name of object"
       ],
       "control": [
         "python3",
