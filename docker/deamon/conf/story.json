@@ -19,23 +19,23 @@
       "storyEnd": "Before going futher you need to know something. \nFirst at any time you can send '-what' to review the question and -indice to get some help'"
     },
     {
-      "storybegin": "First Question Death Stars : Find the logs I left on this machine",
+      "storybegin": "First Question Death Stars : Find the logs that I left on this machine",
       "question": "What is the repository of the files called 'secure-**' ?",
       "indice": [
         "1/3: There is no man tool on this machine but you can run 'man -k find' on you computer \nor check at http://www.linux-france.org/article/man-fr/man1/",
         "2/3: Something like that will do the job : find / -name ****",
-        "3/3: When dealing with linux command, there are three standard screen \n-O is input,\n-1 is output,\n-2 is error\nyou can remove errors from the shell by sending the error screen away 2>/dev/null"
+        "3/3: When dealing with linux command, there are three standard screens \n-O is input,\n-1 is output,\n-2 is error\nyou can remove errors from the shell by sending the error screen away 2>/dev/null"
       ],
       "control": [
         "python3",
         "control/find.locationOfSecureFile.py"
       ],
-      "answer": "My answer is : 'find / -name secure* 2>/dev/null' but there are a lot of other way \nBy the way files Secure-*** contain all log about connection attempt",
+      "answer": "My answer is : 'find / -name secure* 2>/dev/null' but there are a lot of other ways \nBy the way files secure* contain all log about connection attempt",
       "storyEnd": "You should keep this number '1' with the last question name"
     },
     {
-      "storybegin": "2/15 Question USS Entreprise :Let's look at sshd log ",
-      "question": "Have a look to these files with 'head'command \nHow many sshd log are present in the fileS ?",
+      "storybegin": "2/15 Question USS Entreprise : Let's look at sshd log ",
+      "question": "Have a look to these files with 'head'command \nHow many sshd logs are present in the fileS ?",
       "indice": [
         "1/4: Look at 'grep' command on man ",
         "2/4: After filtering line you could use a pipe '|' to send the data to another command",
@@ -50,7 +50,7 @@
       "storyEnd": "this time is 9"
     },
     {
-      "storybegin": "3/15 Question Prometheus : What about Failed and Invalid?",
+      "storybegin": "3/15 Question Prometheus : What about Failed and Invalid ?",
       "question": "How many log are about Failed and Invalid connection ?, Pay attention to cast",
       "indice": [
         "1/3: you must do a 'or expression' in the grep condition",
@@ -61,14 +61,14 @@
         "python3",
         "control/log.numberOfFailedAndInvalidLog.py"
       ],
-      "answer": "My answer :'grep sshd secure-201710* | grep -E 'Failed|Invalid' secure-* |  wc -l' \nbut it's still hard to find my log",
+      "answer": "My answer :'grep sshd secure-201710* | grep -E 'Failed|Invalid' |  wc -l' \nbut it's still hard to find my log",
       "storyEnd": "Prometheus is four \ntoo much log, you have to look deeper"
     },
     {
       "storybegin": "4/15 Question Odysse : What about IP ?",
       "question": "How many ipV4 different Failed and Invalid connection?",
       "indice": [
-        "1/6: There are Four steps : filter interesting log | extract IP| remove duplicate IP | count left Ip ",
+        "1/6: There are Four steps : filter interesting log | extract IP | remove duplicate IP | count left IP ",
         "2/6: In order to extract you can use grep with regex,\nI advice you to use -P option which allow you to use python syntax rather than grep syntax",
         "3/6: you can test you regex online https://regex101.com/",
         "4/6: Befere removing duplicate IP, you have to change the data shape output, maybe grep -oh will help you",
@@ -87,7 +87,7 @@
       "storybegin": "5/15 Question Pegasus : Maybe you could compare with Accepted IP",
       "question": "Give me the ip of the person who have been connect six times?",
       "indice": [
-        "1/3: You must reuse all you did before",
+        "1/3: What did you do before ? :p",
         "2/3: uniq have a great option to count duplicate",
         "3/3: grep Accepted secure-* | grep -oPh **** | sort | uniq -c "
       ],
@@ -102,14 +102,15 @@
       "storybegin": "6/15  Question Serenity : Now you must find my name",
       "question": "What is my name ?",
       "indice": [
-        "1/2: Be a big boy stop asking for help",
-        "2/2: My name is writen in the log"
+        "1/3: Be a big boy stop asking for help",
+        "2/3: My name is writen in the log",
+        "3/3: No, I'm your father"
       ],
       "control": [
         "python3",
         "control/log.nameOfHacker.py"
       ],
-      "answer": "Right now you have me name",
+      "answer": "Right now you have my name",
       "storyEnd": "write down 7"
     },
     {
@@ -129,7 +130,7 @@
       "storyEnd": "Take note of 3"
     },
     {
-      "storybegin": "8/15 Question Faucon Millenium: Now you are going to see csv file. \nThere is one heavy city.csv in /home/csv ",
+      "storybegin": "8/15 Question Faucon Millenium: Now you are going to see csv file. \nThere is one heavy file, city.csv in /home/csv ",
       "question": "How many column there is in city.csv",
       "indice": [
         "1/4: You know all you need, grep, head and wc will do the job",
@@ -145,7 +146,7 @@
       "storyEnd": "It's the first"
     },
     {
-      "storybegin": "9/15 Question Galactica : Let's use cut command ",
+      "storybegin": "9/15 Question Galactica : You should be cut",
       "question": "What is the name of column 21 ",
       "indice": [
         "1/3: cut is a special tool for cutting specific column ",
@@ -205,11 +206,11 @@
 
     },
     {
-      "storybegin": "13:15 Question Valkyrie : Check if all dataset has been downloaded ",
+      "storybegin": "13:15 Question Valkyrie : Check if all datasets has been downloaded ",
       "question": "How many datasets aren't downloaded ? ",
       "indice": [
-        "1/2: Extract dataset id from the file catalogue",
-        "2/2: Count number of id and compare with number of file in folder datasets"
+        "1/2: Extract dataset id into the file catalogue",
+        "2/2: Count number of id then compare with number of file in folder datasets"
       ],
       "control": [
         "python3",
