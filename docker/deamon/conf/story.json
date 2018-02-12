@@ -8,7 +8,7 @@
   ],
   "quizz": [
     {
-      "storybegin": "",
+      "storybegin": "----------------------------------------------------------------------------",
       "question": "Are you ready ? send (yes or no)",
       "indice": [" 1/1:you don't need help for this question"],
       "control": [
@@ -19,7 +19,7 @@
       "storyEnd": "Before going futher you need to know something. \nFirst at any time you can send '-what' to review the question and -indice to get some help'"
     },
     {
-      "storybegin": "First Question Death Stars : Find the logs that I left on this machine",
+      "storybegin": "---------------------------------------------------------------------------- \nFirst Question Death Stars : Find the logs that I left on this machine",
       "question": "What is the repository of the files called 'secure-**' ?",
       "indice": [
         "1/3: There is no man tool on this machine but you can run 'man -k find' on you computer \nor check at http://www.linux-france.org/article/man-fr/man1/",
@@ -34,7 +34,7 @@
       "storyEnd": "You should keep this number '1' with the last question name"
     },
     {
-      "storybegin": "2/15 Question USS Entreprise : Let's look at sshd log ",
+      "storybegin": "---------------------------------------------------------------------------- \n2/15 Question USS Entreprise : Let's look at sshd log ",
       "question": "Have a look to these files with 'head'command \nHow many sshd logs are present in the fileS ?",
       "indice": [
         "1/4: Look at 'grep' command on man ",
@@ -50,7 +50,7 @@
       "storyEnd": "this time is 9"
     },
     {
-      "storybegin": "3/15 Question Prometheus : What about Failed and Invalid ?",
+      "storybegin": "----------------------------------------------------------------------------\n3/15 Question Prometheus : What about Failed and Invalid ?",
       "question": "How many log are about Failed and Invalid connection ?, Pay attention to cast",
       "indice": [
         "1/3: you must do a 'or expression' in the grep condition",
@@ -65,7 +65,7 @@
       "storyEnd": "Prometheus is four \ntoo much log, you have to look deeper"
     },
     {
-      "storybegin": "4/15 Question Odysse : What about IP ?",
+      "storybegin": "----------------------------------------------------------------------------\n4/15 Question Odysse : What about IP ?",
       "question": "How many ipV4 different Failed and Invalid connection?",
       "indice": [
         "1/6: There are Four steps : filter interesting log | extract IP | remove duplicate IP | count left IP ",
@@ -84,7 +84,7 @@
     },
 
     {
-      "storybegin": "5/15 Question Pegasus : Maybe you could compare with Accepted IP",
+      "storybegin": "----------------------------------------------------------------------------\n5/15 Question Pegasus : Maybe you could compare with Accepted IP",
       "question": "Give me the ip of the person who have been connect six times?",
       "indice": [
         "1/3: What did you do before ? :p",
@@ -99,7 +99,7 @@
       "storyEnd": "Keep in mind 5"
     },
     {
-      "storybegin": "6/15  Question Serenity : Now you must find my name",
+      "storybegin": "----------------------------------------------------------------------------\n6/15  Question Serenity : Now you must find my name",
       "question": "What is my name ?",
       "indice": [
         "1/3: Be a big boy stop asking for help",
@@ -114,13 +114,11 @@
       "storyEnd": "write down 7"
     },
     {
-      "storybegin": "7/15 Question Orion : You must check what I did before on the machine",
-      "question": "Which command I have changed ?",
+      "storybegin": "----------------------------------------------------------------------------\n7/15 Question Orion : You must check what I did before on the machine",
+      "question": "Which command I have changed in usr/sbin?",
       "indice": [
-        "1/4: Maybe you should look for file updating today",
-        "2/4: Find command propose to filter one file metadata such as time, option created time  -ctime ",
-        "3/4: Find . -ctime -1 2>/dev/null",
-        "4/4: Most of system command are located in /usr/sbin"
+        "1/2: Maybe you should look for file updating today",
+        "2/2: ls or find have great option to filter time "
       ],
       "control": [
         "python3",
@@ -130,7 +128,7 @@
       "storyEnd": "Take note of 3"
     },
     {
-      "storybegin": "8/15 Question Faucon Millenium: Now you are going to see csv file. \nThere is one heavy file, city.csv in /home/csv ",
+      "storybegin": "----------------------------------------------------------------------------\n8/15 Question Faucon Millenium: Now you are going to see csv file. \nThere is one heavy file, city.csv in /home/csv ",
       "question": "How many column there is in city.csv",
       "indice": [
         "1/4: You know all you need, grep, head and wc will do the job",
@@ -146,7 +144,7 @@
       "storyEnd": "It's the first"
     },
     {
-      "storybegin": "9/15 Question Galactica : You should be cut",
+      "storybegin": "----------------------------------------------------------------------------\n9/15 Question Galactica : You should be cut",
       "question": "What is the name of column 21 ",
       "indice": [
         "1/3: cut is a special tool for cutting specific column ",
@@ -162,7 +160,7 @@
     },
 
     {
-      "storybegin": "10/15 Question Discovery One : Join information in city.csv and birth.csv ",
+      "storybegin": "----------------------------------------------------------------------------\n10/15 Question Discovery One : Join information in city.csv and birth.csv ",
       "question": "Give me the city starting with 'B' that have 140 birth in 1990-1999 years? ",
       "indice": [
         "1/3: There is to way to do it : if you are an expert use join otherwise make a temporary file for grep",
@@ -177,7 +175,7 @@
       "storyEnd": "it is four "
     },
     {
-      "storybegin": "11/15 Question Icarus II : Now you are going to see json file and jq command \n There are json files in /home/json",
+      "storybegin": "----------------------------------------------------------------------------\n11/15 Question Icarus II : Now you are going to see json file and jq command \n There are json files in /home/json",
       "question": "This data has been downloaded from open data. Which command extracts all categories URI ?",
       "indice": [
         "1/1: 'jq . filename' read json object in the file - https://programminghistorian.org/lessons/json-and-jq",
@@ -191,7 +189,7 @@
       "storyEnd": "3"
     },
     {
-      "storybegin": "12/15 Question Insterstellar : Explore json file with jq",
+      "storybegin": "----------------------------------------------------------------------------\n12/15 Question Insterstellar : Explore json file with jq",
       "question": "A script downloaded the open data catalogue and then by reading it downloaded all datasets and categories\nHow many dataset are referenced in a catalogue file ?",
       "indice": [
         "1/2: You can query through json object with the path like .object1.object2 ",
@@ -206,7 +204,7 @@
 
     },
     {
-      "storybegin": "13:15 Question Valkyrie : Check if all datasets has been downloaded ",
+      "storybegin": "----------------------------------------------------------------------------\n13:/15 Question Valkyrie : Check if all datasets has been downloaded ",
       "question": "How many datasets aren't downloaded ? ",
       "indice": [
         "1/2: Extract dataset id into the file catalogue",
@@ -220,7 +218,7 @@
       "storyEnd": "keep in mind 7"
     },
     {
-      "storybegin": "14/15 Question Nostromo: Find a last file",
+      "storybegin": "----------------------------------------------------------------------------\n14/15 Question Nostromo: Find a last file",
       "question": "I created a file with the user Luc what is the file name ? ",
       "indice": [
         "1/1: Find with a specific option to  filter user"
@@ -232,7 +230,7 @@
       "answer": "My answer: find / -user luc 2>/dev/null",
       "storyEnd": "6"
     }, {
-      "storybegin": "15/15 Now you have every you need to find out the root code ",
+      "storybegin": "----------------------------------------------------------------------------\n15/15 Now you have every you need to find out the root code ",
       "question": "What is the root code ?",
       "indice": [
         "Death Stars,USS Entreprise,Prometheus,Odysse,Pegasus,Serenity,I Orion,Faucon Millenium,Galactica,Discovery One,Icarus II,Insterstellar,Valkyrie,Nostromo,Atlantis",
