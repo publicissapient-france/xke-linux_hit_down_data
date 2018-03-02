@@ -1,10 +1,10 @@
 {
   "welcome": [
-    "Well done you find out how to speak with me.",
-    "I have been connected to this machine and changed the root code.",
-    "After doing that I setup this soft to give you a chance to fix everything ",
-    "I going to tell you 15 questions, each question will give you a clue to get closer to the code",
-    "You have to keep in mind the question name"
+    "Well done! You found out how to speak with me.",
+    "I connected to this machine and changed the root code.",
+    "After doing that, I set up this soft to give you a chance to fix everything.",
+    "I'm going to ask you 15 questions, each question will give you a clue to get closer to the code.",
+    "You have to keep in mind the question name."
   ],
   "quizz": [
     {
@@ -15,8 +15,8 @@
         "python3",
         "control/doYouWantToContinu.py"
       ],
-      "answer": "Let's do it",
-      "storyEnd": "Before going futher you need to know something. \nFirst at any time you can send '-what' to review the question and -indice to get some help'"
+      "answer": "Let's do it!",
+      "storyEnd": "Before going further,you need to know something. \nFirst, at any time you can send '-what' to review the question and -indice to get some help'"
     },
     {
       "storybegin": "---------------------------------------------------------------------------- \nFirst Question Death Stars : Find the logs that I left on this machine",
@@ -24,13 +24,13 @@
       "indice": [
         "1/3: There is no man tool on this machine but you can run 'man -k find' on you computer \nor check at http://www.linux-france.org/article/man-fr/man1/",
         "2/3: Something like that will do the job : find / -name ****",
-        "3/3: When dealing with linux command, there are three standard screens \n-O is input,\n-1 is output,\n-2 is error\nyou can remove errors from the shell by sending the error screen away 2>/dev/null"
+        "3/3: When dealing with linux commands, there are three standard streams \n-O is input,\n-1 is output,\n-2 is error\nyou can remove errors from the shell by sending the error stream away 2>/dev/null"
       ],
       "control": [
         "python3",
         "control/find.locationOfSecureFile.py"
       ],
-      "answer": "My answer is : 'find / -name secure* 2>/dev/null' but there are a lot of other ways \nBy the way files secure* contain all log about connection attempt",
+      "answer": "My answer is : 'find / -name secure* 2>/dev/null' but there are a lot of other ways \nBy the way files secure* contain all the logs about connection attempts",
       "storyEnd": "You should keep this number '1' with the last question name"
     },
     {
@@ -38,20 +38,20 @@
       "question": "Have a look to these files with 'head'command \nHow many sshd logs are present in the fileS ?",
       "indice": [
         "1/4: Look at 'grep' command on man ",
-        "2/4: After filtering line you could use a pipe '|' to send the data to another command",
-        "3/4: 'wc' allow to count world but could also be used for line",
+        "2/4: After filtering the lines you could use a pipe '|' to send the data to another command",
+        "3/4: 'wc' allows you to count words but could also be used for lines",
         "4/4: grep *** | wc -l"
       ],
       "control": [
         "python3",
         "control/log.numberOfsshdLogs.py"
       ],
-      "answer": "My answer : 'grep sshd secure-* | wc -l' \nLook's like the machine received a lot of requests",
-      "storyEnd": "this time is 9"
+      "answer": "My answer : 'grep sshd secure-* | wc -l' \nLooks like the machine received a lot of requests",
+      "storyEnd": "this time it's 9"
     },
     {
       "storybegin": "----------------------------------------------------------------------------\n3/15 Question Prometheus : What about Failed and Invalid ?",
-      "question": "How many log are about Failed and Invalid connection ?, Pay attention to cast",
+      "question": "How many logs are about Failed and Invalid connections ?, Pay attention to cast",
       "indice": [
         "1/3: you must do a 'or expression' in the grep condition",
         "2/3: -E option tell grep to analyse as a regex expression, this regex has a specific syntax",
@@ -66,7 +66,7 @@
     },
     {
       "storybegin": "----------------------------------------------------------------------------\n4/15 Question Odysse : What about IP ?",
-      "question": "How many ipV4 different Failed and Invalid connection?",
+      "question": "How many IPv4 different Failed and Invalid connections?",
       "indice": [
         "1/6: There are Four steps : filter interesting log | extract IP | remove duplicate IP | count left IP ",
         "2/6: In order to extract you can use grep with regex,\nI advice you to use -P option which allow you to use python syntax rather than grep syntax",
@@ -85,7 +85,7 @@
 
     {
       "storybegin": "----------------------------------------------------------------------------\n5/15 Question Pegasus : Maybe you could compare with Accepted IP",
-      "question": "Give me the ip of the person who have been connect six times?",
+      "question": "Give me the IP of the person who has been connected six times",
       "indice": [
         "1/3: What did you do before ? :p",
         "2/3: uniq have a great option to count duplicate",
@@ -95,7 +95,7 @@
         "python3",
         "control/log.IPOfHacker.py"
       ],
-      "answer": "My answer: 'grep Accepted secure-* | grep -oPh '\\d{1,}\\.\\d{1,}\\.\\d{1,}\\.\\d{1,}' | sort | uniq -c' \nok you find my IP",
+      "answer": "My answer: 'grep Accepted secure-* | grep -oPh '\\d{1,}\\.\\d{1,}\\.\\d{1,}\\.\\d{1,}' | sort | uniq -c' \nok, you found my IP",
       "storyEnd": "Keep in mind 5"
     },
     {
@@ -110,26 +110,26 @@
         "python3",
         "control/log.nameOfHacker.py"
       ],
-      "answer": "Right now you have my name",
+      "answer": "Right, now you have my name",
       "storyEnd": "write down 7"
     },
     {
       "storybegin": "----------------------------------------------------------------------------\n7/15 Question Orion : You must check what I did before on the machine",
-      "question": "Which command I have changed in usr/sbin?",
+      "question": "Which command have I changed in usr/sbin?",
       "indice": [
-        "1/2: Maybe you should look for file updating today",
-        "2/2: ls or find have great option to filter time "
+        "1/2: Maybe you should look for files updated today",
+        "2/2: ls or find have great options to filter by time "
       ],
       "control": [
         "python3",
         "control/find.changeCommand.py"
       ],
-      "answer": "My anwser: 'find /usr/sbin -ctime -1 2>/dev/null ' \nYou find which command I changed",
+      "answer": "My anwser: 'find /usr/sbin -ctime -1 2>/dev/null ' \nYou found out which command I changed",
       "storyEnd": "Take note of 3"
     },
     {
-      "storybegin": "----------------------------------------------------------------------------\n8/15 Question Faucon Millenium: Now you are going to see csv file. \nThere is one heavy file, city.csv in /home/csv ",
-      "question": "How many column there is in city.csv",
+      "storybegin": "----------------------------------------------------------------------------\n8/15 Question Faucon Millenium: Now you are going to see some csv files. \nThere is one heavy file, city.csv in /home/csv ",
+      "question": "How many columns are there in city.csv?",
       "indice": [
         "1/4: You know all you need, grep, head and wc will do the job",
         "2/4: head give you the first line with '-n 1' ",
@@ -145,7 +145,7 @@
     },
     {
       "storybegin": "----------------------------------------------------------------------------\n9/15 Question Galactica : You should be cut",
-      "question": "What is the name of column 21 ",
+      "question": "What is the name of column 21?",
       "indice": [
         "1/3: cut is a special tool for cutting specific column ",
         "2/3: You can specify the column separator with -d",
@@ -156,15 +156,15 @@
         "control/csv.nameColum21.py"
       ],
       "answer": "My answer: 'head -n 1 city.csv| cut -d',' -f21'",
-      "storyEnd": "This time nine will match "
+      "storyEnd": "This time nine will match"
     },
 
     {
       "storybegin": "----------------------------------------------------------------------------\n10/15 Question Discovery One : Join information in city.csv and birth.csv ",
-      "question": "Give me the city starting with 'B' that have 140 birth in 1990-1999 years? ",
+      "question": "Give me the city starting with 'B' that has 140 births in the years 1990-1999",
       "indice": [
-        "1/3: There is to way to do it : if you are an expert use join otherwise make a temporary file for grep",
-        "2/3: You have to extract city which has 140 in birth.csv and look for the name is city.csv \nThe common column is POSTAL_CODE",
+        "1/3: There are two way to do it : if you are an expert use join, otherwise make a temporary file for grep",
+        "2/3: You have to extract the city which has 140 in birth.csv and look for the name in city.csv \nThe common column is POSTAL_CODE",
         "3/3: If you want to use join read https://shapeshed.com/unix-join/ \nIf you want to avoid join use grep -f "
       ],
       "control": [
@@ -175,7 +175,7 @@
       "storyEnd": "it is four "
     },
     {
-      "storybegin": "----------------------------------------------------------------------------\n11/15 Question Icarus II : Now you are going to see json file and jq command \n There are json files in /home/json",
+      "storybegin": "----------------------------------------------------------------------------\n11/15 Question Icarus II : Now you are going to see some json files and the jq command \n There are json files in /home/json",
       "question": "This data has been downloaded from open data. Which command extracts all categories URI ?",
       "indice": [
         "1/1: 'jq . filename' read json object in the file - https://programminghistorian.org/lessons/json-and-jq",
@@ -190,10 +190,10 @@
     },
     {
       "storybegin": "----------------------------------------------------------------------------\n12/15 Question Insterstellar : Explore json file with jq",
-      "question": "A script downloaded the open data catalogue and then by reading it downloaded all datasets and categories\nHow many dataset are referenced in a catalogue file ?",
+      "question": "A script downloaded the open data catalogue and then by reading it downloaded all datasets and categories\nHow many dataset are referenced in a single catalogue file ?",
       "indice": [
-        "1/2: You can query through json object with the path like .object1.object2 ",
-        "1/1: you can extract only keys ' .xxx | keys'"
+        "1/2: You can query through json objects with the path like .object1.object2 ",
+        "1/1: you can extract only the keys with ' .xxx | keys'"
       ],
       "control": [
         "python3",
@@ -205,7 +205,7 @@
     },
     {
       "storybegin": "----------------------------------------------------------------------------\n13:/15 Question Valkyrie : Check if all datasets has been downloaded ",
-      "question": "How many datasets aren't downloaded ? ",
+      "question": "How many datasets aren't downloaded?",
       "indice": [
         "1/2: Extract dataset id into the file catalogue",
         "2/2: Count number of id then compare with number of file in folder datasets"
@@ -219,7 +219,7 @@
     },
     {
       "storybegin": "----------------------------------------------------------------------------\n14/15 Question Nostromo: Find a last file",
-      "question": "I created a file with the user Luc what is the file name ? ",
+      "question": "I created a file with the user luc what is the file name ? ",
       "indice": [
         "1/1: Find with a specific option to  filter user"
       ],
